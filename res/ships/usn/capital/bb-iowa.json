@@ -1,0 +1,50 @@
+[
+    {
+        "ClassID": "bb-iowa",
+        "ShipName": "USS Iowa",
+        "Existance": "Built",
+        "LaidDown": "1940-06-27",
+        "Launched": "1942-08-27",
+        "Commissioned": "1943-02-22"
+    },
+    {
+        "ClassID": "bb-iowa",
+        "ShipName": "USS New Jersey",
+        "Existance": "Built",
+        "LaidDown": "1940-09-16",
+        "Launched": "1942-12-07",
+        "Commissioned": "1943-05-23"
+    },
+    {
+        "ClassID": "bb-iowa",
+        "ShipName": "USS Missouri",
+        "Existance": "Built",
+        "LaidDown": "1941-01-06",
+        "Launched": "1944-01-29",
+        "Commissioned": "1944-06-11"
+    },
+    {
+        "ClassID": "bb-iowa",
+        "ShipName": "USS Wisconsin",
+        "Existance": "Built",
+        "LaidDown": "1941-01-25",
+        "Launched": "1944-01-29",
+        "Commissioned": "1944-04-16"
+    },
+    {
+        "ClassID": "bb-iowa",
+        "ShipName": "USS Illinois",
+        "Existance": "Cancelled",
+        "LaidDown": "1942-12-06",
+        "Launched": "",
+        "Commissioned": ""
+    },
+    {
+        "ClassID": "bb-iowa",
+        "ShipName": "USS Kentucky",
+        "Existance": "Cancelled",
+        "LaidDown": "1942-03-07",
+        "Launched": "",
+        "Commissioned": ""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "ClassID": "cb-alaska",
+        "ShipName": "USS Alaska",
+        "Existance": "Built",
+        "LaidDown": "1941-12-17",
+        "Launched": "1943-08-15",
+        "Commissioned": "1944-06-17"
+    },
+    {
+        "ClassID": "cb-alaska",
+        "ShipName": "USS Guam",
+        "Existance": "Built",
+        "LaidDown": "1942-02-02",
+        "Launched": "1943-11-12",
+        "Commissioned": "1944-09-17"
+    },
+    {
+        "ClassID": "cb-alaska",
+        "ShipName": "USS Hawaii",
+        "Existance": "Cancelled",
+        "LaidDown": "1943-12-20",
+        "Launched": "1945-11-03",
+        "Commissioned": ""
+    }
+]
