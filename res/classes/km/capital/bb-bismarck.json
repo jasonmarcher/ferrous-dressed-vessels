@@ -1,0 +1,14 @@
+{
+    "ClassID": "bb-bismarck",
+    "ClassName": "Bismarck Class",
+    "Classification": "BB",
+    "StandardDisplacement": 41000,
+
+    "ShipHorsePower": 148120,
+    "Speed": 30,
+    "Range": 15788,
+
+    "Caliber": 380,
+    "Broadside": 8,
+    "APShellSize": 800
+}

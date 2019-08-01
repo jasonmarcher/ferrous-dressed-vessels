@@ -1,0 +1,34 @@
+[
+    {
+        "ClassID": "bb-bayern",
+        "ShipName": "SMS Bayern",
+        "Existance": "Built",
+        "LaidDown": "1913-08-01",
+        "Launched": "1915-02-18",
+        "Commissioned": "1916-07-15"
+    },
+    {
+        "ClassID": "bb-bayern",
+        "ShipName": "SMS Baden",
+        "Existance": "Built",
+        "LaidDown": "1913-12-01",
+        "Launched": "1915-10-30",
+        "Commissioned": "1917-03-14"
+    },
+    {
+        "ClassID": "bb-bayern",
+        "ShipName": "SMS Sachsen",
+        "Existance": "Cancelled",
+        "LaidDown": "1914-04-01",
+        "Launched": "1916-11-21",
+        "Commissioned": ""
+    },
+    {
+        "ClassID": "bb-bayern",
+        "ShipName": "SMS Wurttemberg",
+        "Existance": "Cancelled",
+        "LaidDown": "1915-01-01",
+        "Launched": "1917-06-20",
+        "Commissioned": ""
+    }
+]
