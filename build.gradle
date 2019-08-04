@@ -13,13 +13,33 @@ import java.io.FileWriter
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVPrinter
 
-def nations = ['ijn','km','rn','usn']
+def nations = ['ijn','km','mn','rm','rn','rus','usn']
+
+task generateClassData {
+    file(buildDir).mkdirs()
+    def jsonSlurper = new JsonSlurper()
+    def printer = new CSVPrinter(new FileWriter("$buildDir/classes.csv"), CSVFormat.EXCEL)
+    printer.printRecord('ClassID','ClassName','Classification','ClassLaidDown','StandardDisplacement','ShipHorsePower',
+        'Speed','Range','Caliber','Broadside','APShellSize','Nation')
+
+    nations.each { nation ->
+        // println nation
+        def classFiles = project.fileTree("res/classes/$nation")
+        classFiles.forEach { classFile ->
+            def object = jsonSlurper.parseText(classFile.text)
+            // println object.getClass()
+            object.put('Nation', nation)
+            printer.printRecord(object.values())
+        }
+    }
+    printer.close(true)
+}
 
 task generateConstructionData {
     file(buildDir).mkdirs()
     def jsonSlurper = new JsonSlurper()
     def printer = new CSVPrinter(new FileWriter("$buildDir/construction.csv"), CSVFormat.EXCEL)
-    printer.printRecord('ClassID', 'ClassName', 'Classification', 'StandardDisplacement', 'ShipHorsePower',
+    printer.printRecord('ClassID','ClassName','Classification','ClassLaidDown','StandardDisplacement','ShipHorsePower',
         'Speed','Range','Caliber','Broadside','APShellSize','Nation','UniqueName','ShipName','Existance','LaidDown',
         'Launched','Commissioned')
 
@@ -52,5 +72,5 @@ task generateConstructionData {
 }
 
 task build {
-    dependsOn generateConstructionData
+    dependsOn generateClassData
 }
