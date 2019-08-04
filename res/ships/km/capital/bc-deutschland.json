@@ -1,0 +1,26 @@
+[
+    {
+        "ClassID": "bc-deutschland",
+        "ShipName": "KMS Deutschland",
+        "Existance": "Built",
+        "LaidDown": "1929-02-05",
+        "Launched": "1931-05-19",
+        "Commissioned": "1933-04-01"
+    },
+    {
+        "ClassID": "bc-deutschland",
+        "ShipName": "KMS Admiral Scheer",
+        "Existance": "Built",
+        "LaidDown": "1931-06-25",
+        "Launched": "1933-04-01",
+        "Commissioned": "1934-11-12"
+    },
+    {
+        "ClassID": "bc-deutschland",
+        "ShipName": "KMS Admiral Graf Spee",
+        "Existance": "Built",
+        "LaidDown": "1932-10-01",
+        "Launched": "1934-06-30",
+        "Commissioned": "1936-01-06"
+    }
+]
