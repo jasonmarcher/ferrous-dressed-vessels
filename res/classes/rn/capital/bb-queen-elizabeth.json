@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-queen-elizabeth",
     "ClassName": "Queen Elizabeth Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1912-10-21",
     "StandardDisplacement": 33110,
 

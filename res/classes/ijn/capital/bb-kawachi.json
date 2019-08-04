@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-kawachi",
     "ClassName": "Kawachi Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1909-01-18",
     "StandardDisplacement": 21500,
 

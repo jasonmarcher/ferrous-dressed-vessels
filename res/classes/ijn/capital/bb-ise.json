@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-ise",
     "ClassName": "Ise Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1915-05-06",
     "StandardDisplacement": 31760,
 

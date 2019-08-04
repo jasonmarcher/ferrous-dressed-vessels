@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-dalaware",
     "ClassName": "Delaware Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1907-11-11",
     "StandardDisplacement": 20707,
 

@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-colorado",
     "ClassName": "Colorado Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1917-04-24",
     "StandardDisplacement": 33100,
 

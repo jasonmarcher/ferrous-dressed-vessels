@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-iron-duke",
     "ClassName": "Iron Duke Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1912-01-12",
     "StandardDisplacement": 25000,
 

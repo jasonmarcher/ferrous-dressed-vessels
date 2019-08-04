@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-nelson",
     "ClassName": "Nelson Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1922-12-28",
     "StandardDisplacement": 33950,
 

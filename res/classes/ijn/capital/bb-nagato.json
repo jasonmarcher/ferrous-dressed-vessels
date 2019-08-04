@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-nagato",
     "ClassName": "Nagato Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Fast Battleship",
     "ClassLaidDown": "1917-08-28",
     "StandardDisplacement": 32200,
 

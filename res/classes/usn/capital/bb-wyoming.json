@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-wyoming",
     "ClassName": "Wyoming Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1910-01-25",
     "StandardDisplacement": 26417,
 

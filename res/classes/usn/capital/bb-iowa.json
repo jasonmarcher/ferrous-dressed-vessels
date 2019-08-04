@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-iowa",
     "ClassName": "Iowa Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Fast Battleship",
     "ClassLaidDown": "1940-06-27",
     "StandardDisplacement": 48800,
 

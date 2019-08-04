@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-colossus",
     "ClassName": "Colossus Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1909-07-08",
     "StandardDisplacement": 20350,
 

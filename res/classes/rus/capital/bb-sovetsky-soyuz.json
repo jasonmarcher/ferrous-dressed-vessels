@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-sovetsky-soyuz",
     "ClassName": "Sovetsky Soyuz Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Fast Battleship",
     "ClassLaidDown": "1938-07-15",
     "StandardDisplacement": 59150,
 

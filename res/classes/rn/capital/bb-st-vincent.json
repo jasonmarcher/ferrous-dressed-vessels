@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-st-vincent",
     "ClassName": "St Vincent Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1907-12-30",
     "StandardDisplacement": 20000,
 

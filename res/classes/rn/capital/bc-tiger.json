@@ -1,7 +1,8 @@
 {
     "ClassID": "bc-tiger",
     "ClassName": "Tiger Class",
-    "Classification": "BC",
+    "Type": "Battlecruiser",
+    "SubType": "Battlecruiser",
     "ClassLaidDown": "1912-06-20",
     "StandardDisplacement": 29000,
 

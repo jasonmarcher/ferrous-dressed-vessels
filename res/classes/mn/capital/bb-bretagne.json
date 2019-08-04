@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-bretagne",
     "ClassName": "Bretagne Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1912-05-21",
     "StandardDisplacement": 23936,
 

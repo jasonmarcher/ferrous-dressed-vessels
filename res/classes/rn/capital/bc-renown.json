@@ -1,7 +1,8 @@
 {
     "ClassID": "bc-renown",
     "ClassName": "Renown Class",
-    "Classification": "BC",
+    "Type": "Battlecruiser",
+    "SubType": "Battlecruiser",
     "ClassLaidDown": "1915-01-25",
     "StandardDisplacement": 27600,
 

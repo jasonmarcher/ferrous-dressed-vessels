@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-new-mexico",
     "ClassName": "New Mexico Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1915-01-20",
     "StandardDisplacement": 32515,
 

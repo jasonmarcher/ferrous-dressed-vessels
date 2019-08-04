@@ -1,7 +1,8 @@
 {
     "ClassID": "cb-alaska",
     "ClassName": "Alaska Class",
-    "Classification": "CB",
+    "Type": "Battlecruiser",
+    "SubType": "Large Cruiser",
     "ClassLaidDown": "1941-12-17",
     "StandardDisplacement": 30249,
 

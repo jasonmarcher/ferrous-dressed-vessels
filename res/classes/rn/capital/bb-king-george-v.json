@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-king-george-v",
     "ClassName": "King George V Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Fast Battleship",
     "ClassLaidDown": "1936-11-16",
     "StandardDisplacement": 30249,
 

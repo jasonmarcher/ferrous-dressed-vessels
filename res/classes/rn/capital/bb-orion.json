@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-orion",
     "ClassName": "Orion Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1909-11-29",
     "StandardDisplacement": 22274,
 

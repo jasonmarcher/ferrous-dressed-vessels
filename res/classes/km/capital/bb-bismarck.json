@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-bismarck",
     "ClassName": "Bismarck Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Fast Battleship",
     "ClassLaidDown": "1936-07-01",
     "StandardDisplacement": 41000,
 

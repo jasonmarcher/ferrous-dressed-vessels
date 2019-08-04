@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-revenge",
     "ClassName": "Revenge Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1913-11-12",
     "StandardDisplacement": 30060,
 

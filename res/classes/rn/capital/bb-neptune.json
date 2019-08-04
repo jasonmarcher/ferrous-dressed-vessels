@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-neptune",
     "ClassName": "Neptune Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1909-01-19",
     "StandardDisplacement": 20000,
 

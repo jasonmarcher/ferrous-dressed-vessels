@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-south-carolina",
     "ClassName": "South Carolina Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1906-12-17",
     "StandardDisplacement": 16000,
 

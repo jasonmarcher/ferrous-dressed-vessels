@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-pennsylvania",
     "ClassName": "Pennsylvania Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1913-10-27",
     "StandardDisplacement": 29626,
 

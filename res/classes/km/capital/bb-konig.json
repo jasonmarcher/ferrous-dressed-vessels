@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-konig",
     "ClassName": "Konig Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1911-10-01",
     "StandardDisplacement": 25796,
 

@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-north-carolina",
     "ClassName": "North Carolina Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Fast Battleship",
     "ClassLaidDown": "1937-10-27",
     "StandardDisplacement": 37200,
 

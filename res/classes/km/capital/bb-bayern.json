@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-bayern",
     "ClassName": "Bayern Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1913-08-01",
     "StandardDisplacement": 32200,
 

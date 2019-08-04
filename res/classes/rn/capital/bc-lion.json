@@ -1,7 +1,8 @@
 {
     "ClassID": "bc-lion",
     "ClassName": "Lion Class",
-    "Classification": "BC",
+    "Type": "Battlecruiser",
+    "SubType": "Battlecruiser",
     "ClassLaidDown": "1909-09-29",
     "StandardDisplacement": 26690,
 

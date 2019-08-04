@@ -1,7 +1,8 @@
 {
     "ClassID": "bc-deutschland",
     "ClassName": "Deutschland Class",
-    "Classification": "BC",
+    "Type": "Battlecruiser",
+    "SubType": "Commerce Raider",
     "ClassLaidDown": "1929-02-05",
     "StandardDisplacement": 10800,
 

@@ -1,7 +1,8 @@
 {
     "ClassID": "bc-lexington",
     "ClassName": "Lexington Class",
-    "Classification": "BC",
+    "Type": "Battlecruiser",
+    "SubType": "Battlecruiser",
     "ClassLaidDown": "1921-01-08",
     "StandardDisplacement": 42000,
 

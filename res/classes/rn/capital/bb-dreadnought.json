@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-dreadnought",
     "ClassName": "Dreadnought Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1905-10-02",
     "StandardDisplacement": 23000,
 

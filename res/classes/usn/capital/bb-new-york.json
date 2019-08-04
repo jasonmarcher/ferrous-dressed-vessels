@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-new-york",
     "ClassName": "New York Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1911-04-17",
     "StandardDisplacement": 27433,
 

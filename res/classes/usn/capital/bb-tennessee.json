@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-tennessee",
     "ClassName": "Tennessee Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1916-10-25",
     "StandardDisplacement": 32818,
 

@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-nassau",
     "ClassName": "Nassau Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
     "ClassLaidDown": "1907-06-01",
     "StandardDisplacement": 18873,
 

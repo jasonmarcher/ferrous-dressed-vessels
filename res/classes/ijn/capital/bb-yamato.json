@@ -1,7 +1,8 @@
 {
     "ClassID": "bb-yamato",
     "ClassName": "Yamato Class",
-    "Classification": "BB",
+    "Type": "Battleship",
+    "SubType": "Fast Battleship",
     "ClassLaidDown": "1937-11-02",
     "StandardDisplacement": 73000,
 
