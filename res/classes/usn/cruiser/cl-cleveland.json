@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-cleveland",
+    "ClassName": "Cleveland Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1940-07-01",
+    "StandardDisplacement": 11932,
+
+    "ShipHorsePower": 100000,
+    "Speed": 32.5,
+    "Range": 16000,
+
+    "Caliber": 152,
+    "Broadside": 12,
+    "APShellSize": 59,
+
+    "ArmorBelt": 127,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-worcester",
+    "ClassName": "Worcester Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1945-01-29",
+    "StandardDisplacement": 16464,
+
+    "ShipHorsePower": 125000,
+    "Speed": 33,
+    "Range": 0,
+
+    "Caliber": 152,
+    "Broadside": 12,
+    "APShellSize": 59,
+
+    "ArmorBelt": 127,
+    "ArmorBeltAngle": 0
+}

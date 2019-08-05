@@ -1,0 +1,19 @@
+{
+    "ClassID": "cs-chester",
+    "ClassName": "Chester Class",
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "ClassLaidDown": "1905-08-14",
+    "StandardDisplacement": 3810,
+
+    "ShipHorsePower": 23000,
+    "Speed": 24,
+    "Range": 0,
+
+    "Caliber": 127,
+    "Broadside": 2,
+    "APShellSize": 27,
+
+    "ArmorBelt": 51,
+    "ArmorBeltAngle": 0
+}

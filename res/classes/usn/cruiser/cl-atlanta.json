@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-atlanta",
+    "ClassName": "Atlanta Class",
+    "Type": "Cruiser",
+    "SubType": "Light AA Cruiser",
+    "ClassLaidDown": "1940-04-22",
+    "StandardDisplacement": 7524,
+
+    "ShipHorsePower": 75000,
+    "Speed": 32.5,
+    "Range": 15700,
+
+    "Caliber": 127,
+    "Broadside": 14,
+    "APShellSize": 24,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

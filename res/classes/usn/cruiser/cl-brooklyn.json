@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-brooklyn",
+    "ClassName": "Brooklyn Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1934-05-31",
+    "StandardDisplacement": 9924,
+
+    "ShipHorsePower": 100000,
+    "Speed": 32.5,
+    "Range": 19000,
+
+    "Caliber": 152,
+    "Broadside": 15,
+    "APShellSize": 59,
+
+    "ArmorBelt": 127,
+    "ArmorBeltAngle": 0
+}

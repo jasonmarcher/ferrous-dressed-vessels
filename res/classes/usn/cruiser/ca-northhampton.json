@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-northampton",
+    "ClassName": "Northampton Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1928-04-12",
+    "StandardDisplacement": 9200,
+
+    "ShipHorsePower": 107000,
+    "Speed": 32.5,
+    "Range": 0,
+
+    "Caliber": 203,
+    "Broadside": 9,
+    "APShellSize": 152,
+
+    "ArmorBelt": 95,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-juneau",
+    "ClassName": "Juneau Class",
+    "Type": "Cruiser",
+    "SubType": "Light AA Cruiser",
+    "ClassLaidDown": "1944-09-15",
+    "StandardDisplacement": 7280,
+
+    "ShipHorsePower": 78749,
+    "Speed": 32.7,
+    "Range": 11930,
+
+    "Caliber": 127,
+    "Broadside": 12,
+    "APShellSize": 24,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-wichita",
+    "ClassName": "Wichita Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1935-10-26",
+    "StandardDisplacement": 10759,
+
+    "ShipHorsePower": 100000,
+    "Speed": 33,
+    "Range": 19000,
+
+    "Caliber": 203,
+    "Broadside": 9,
+    "APShellSize": 152,
+
+    "ArmorBelt": 160,
+    "ArmorBeltAngle": 0
+}

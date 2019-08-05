@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-Pensacola",
+    "ClassName": "Pensacola Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1926-10-27",
+    "StandardDisplacement": 9246,
+
+    "ShipHorsePower": 107000,
+    "Speed": 32.5,
+    "Range": 0,
+
+    "Caliber": 203,
+    "Broadside": 10,
+    "APShellSize": 152,
+
+    "ArmorBelt": 102,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-des-moines",
+    "ClassName": "Des Moines Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1945-05-28",
+    "StandardDisplacement": 17532,
+
+    "ShipHorsePower": 120000,
+    "Speed": 33,
+    "Range": 19400,
+
+    "Caliber": 203,
+    "Broadside": 9,
+    "APShellSize": 152,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-baltimore",
+    "ClassName": "Baltimore Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1941-05-26",
+    "StandardDisplacement": 14733,
+
+    "ShipHorsePower": 120000,
+    "Speed": 33,
+    "Range": 0,
+
+    "Caliber": 203,
+    "Broadside": 9,
+    "APShellSize": 152,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}

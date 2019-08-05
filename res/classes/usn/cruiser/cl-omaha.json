@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-omaha",
+    "ClassName": "Omaha Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1918-12-06",
+    "StandardDisplacement": 7163,
+
+    "ShipHorsePower": 90000,
+    "Speed": 35,
+    "Range": 17000,
+
+    "Caliber": 152,
+    "Broadside": 8,
+    "APShellSize": 48,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

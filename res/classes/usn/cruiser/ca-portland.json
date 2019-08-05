@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-portland",
+    "ClassName": "Portland Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1930-02-17",
+    "StandardDisplacement": 10110,
+
+    "ShipHorsePower": 107000,
+    "Speed": 32.7,
+    "Range": 24080,
+
+    "Caliber": 203,
+    "Broadside": 9,
+    "APShellSize": 152,
+
+    "ArmorBelt": 127,
+    "ArmorBeltAngle": 0
+}
