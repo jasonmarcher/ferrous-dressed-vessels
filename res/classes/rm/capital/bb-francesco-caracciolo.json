@@ -1,0 +1,19 @@
+{
+    "ClassID": "bb-francesco-caracciolo",
+    "ClassName": "Francesco Caracciolo Class",
+    "Type": "Battleship",
+    "SubType": "Fast Battleship",
+    "ClassLaidDown": "1914-10-16",
+    "StandardDisplacement": 34600,
+
+    "ShipHorsePower": 105000,
+    "Speed": 28,
+    "Range": 15000,
+
+    "Caliber": 381,
+    "Broadside": 8,
+    "APShellSize": 884,
+
+    "ArmorBelt": 303,
+    "ArmorBeltAngle": 0
+}

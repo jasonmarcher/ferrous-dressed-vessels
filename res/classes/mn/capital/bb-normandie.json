@@ -1,0 +1,19 @@
+{
+    "ClassID": "bb-normandie",
+    "ClassName": "Normandie Class",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
+    "ClassLaidDown": "1913-04-18",
+    "StandardDisplacement": 25250,
+
+    "ShipHorsePower": 32000,
+    "Speed": 21,
+    "Range": 12200,
+
+    "Caliber": 340,
+    "Broadside": 12,
+    "APShellSize": 540,
+
+    "ArmorBelt": 300,
+    "ArmorBeltAngle": 0
+}
