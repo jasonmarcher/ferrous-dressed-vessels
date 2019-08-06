@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-konigsberg",
+    "ClassName": "Konigsberg Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1925-04-12",
+    "StandardDisplacement": 7800,
+
+    "ShipHorsePower": 65000,
+    "Speed": 32,
+    "Range": 10600,
+
+    "Caliber": 150,
+    "Broadside": 9,
+    "APShellSize": 45,
+
+    "ArmorBelt": 50,
+    "ArmorBeltAngle": 0
+}

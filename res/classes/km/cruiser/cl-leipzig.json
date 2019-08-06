@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-leipzig",
+    "ClassName": "Leipzig Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1928-04-28",
+    "StandardDisplacement": 8900,
+
+    "ShipHorsePower": 72000,
+    "Speed": 32,
+    "Range": 7200,
+
+    "Caliber": 150,
+    "Broadside": 9,
+    "APShellSize": 45,
+
+    "ArmorBelt": 50,
+    "ArmorBeltAngle": 0
+}

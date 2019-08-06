@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-emden",
+    "ClassName": "Emden Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1921-12-08",
+    "StandardDisplacement": 5400,
+
+    "ShipHorsePower": 46500,
+    "Speed": 29.5,
+    "Range": 12400,
+
+    "Caliber": 150,
+    "Broadside": 6,
+    "APShellSize": 45,
+
+    "ArmorBelt": 50,
+    "ArmorBeltAngle": 0
+}

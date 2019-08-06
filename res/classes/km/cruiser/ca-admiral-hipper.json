@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-admiral-hipper",
+    "ClassName": "Admiral Hipper Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1941-05-26",
+    "StandardDisplacement": 17820,
+
+    "ShipHorsePower": 132000,
+    "Speed": 32,
+    "Range": 12600,
+
+    "Caliber": 203,
+    "Broadside": 8,
+    "APShellSize": 122,
+
+    "ArmorBelt": 80,
+    "ArmorBeltAngle": 0
+}
