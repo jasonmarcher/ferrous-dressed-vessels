@@ -1,0 +1,19 @@
+{
+    "ClassID": "bc-kronshtadt",
+    "ClassName": "Kronshtadt Class",
+    "Type": "Battlecruiser",
+    "SubType": "Battlecruiser",
+    "ClassLaidDown": "1939-11-30",
+    "StandardDisplacement": 39660,
+
+    "ShipHorsePower": 210000,
+    "Speed": 32,
+    "Range": 15372,
+
+    "Caliber": 380,
+    "Broadside": 6,
+    "APShellSize": 800,
+
+    "ArmorBelt": 230,
+    "ArmorBeltAngle": 6
+}

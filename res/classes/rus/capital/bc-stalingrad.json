@@ -1,0 +1,19 @@
+{
+    "ClassID": "bc-stalingrad",
+    "ClassName": "Stalingrad Class",
+    "Type": "Battlecruiser",
+    "SubType": "Battlecruiser",
+    "ClassLaidDown": "1951-12-31",
+    "StandardDisplacement": 36500,
+
+    "ShipHorsePower": 280000,
+    "Speed": 35.5,
+    "Range": 9300,
+
+    "Caliber": 305,
+    "Broadside": 9,
+    "APShellSize": 467,
+
+    "ArmorBelt": 180,
+    "ArmorBeltAngle": 15
+}

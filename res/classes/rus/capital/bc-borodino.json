@@ -1,0 +1,19 @@
+{
+    "ClassID": "bc-borodino",
+    "ClassName": "Borodino Class",
+    "Type": "Battlecruiser",
+    "SubType": "Battlecruiser",
+    "ClassLaidDown": "1915-06-22",
+    "StandardDisplacement": 33022,
+
+    "ShipHorsePower": 66000,
+    "Speed": 26.5,
+    "Range": 0,
+
+    "Caliber": 356,
+    "Broadside": 12,
+    "APShellSize": 747,
+
+    "ArmorBelt": 237,
+    "ArmorBeltAngle": 0
+}
