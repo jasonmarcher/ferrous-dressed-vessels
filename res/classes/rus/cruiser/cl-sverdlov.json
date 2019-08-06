@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-sverdlov",
+    "ClassName": "Sverdlov Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1939-08-29",
+    "StandardDisplacement": 13600,
+
+    "ShipHorsePower": 118100,
+    "Speed": 32.5,
+    "Range": 17000,
+
+    "Caliber": 152,
+    "Broadside": 12,
+    "APShellSize": 55,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}

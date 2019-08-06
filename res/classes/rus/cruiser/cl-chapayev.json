@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-chapayev",
+    "ClassName": "Chapayev Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1939-08-29",
+    "StandardDisplacement": 11310,
+
+    "ShipHorsePower": 124000,
+    "Speed": 33.5,
+    "Range": 13000,
+
+    "Caliber": 152,
+    "Broadside": 12,
+    "APShellSize": 55,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}

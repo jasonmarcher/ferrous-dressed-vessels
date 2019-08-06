@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-svetlana",
+    "ClassName": "Svetlana Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1913-11-07",
+    "StandardDisplacement": 6860,
+
+    "ShipHorsePower": 50000,
+    "Speed": 29.5,
+    "Range": 0,
+
+    "Caliber": 130,
+    "Broadside": 8,
+    "APShellSize": 37,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

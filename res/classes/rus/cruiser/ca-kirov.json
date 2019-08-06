@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-kirov",
+    "ClassName": "Kirov Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1935-10-15",
+    "StandardDisplacement": 7890,
+
+    "ShipHorsePower": 113500,
+    "Speed": 36,
+    "Range": 6940,
+
+    "Caliber": 180,
+    "Broadside": 9,
+    "APShellSize": 97,
+
+    "ArmorBelt": 50,
+    "ArmorBeltAngle": 0
+}
