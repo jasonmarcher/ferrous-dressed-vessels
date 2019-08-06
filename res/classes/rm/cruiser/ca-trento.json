@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-trento",
+    "ClassName": "Trento Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1925-02-08",
+    "StandardDisplacement": 10510,
+
+    "ShipHorsePower": 150000,
+    "Speed": 35.6,
+    "Range": 7700,
+
+    "Caliber": 203,
+    "Broadside": 8,
+    "APShellSize": 125,
+
+    "ArmorBelt": 70,
+    "ArmorBeltAngle": 0
+}

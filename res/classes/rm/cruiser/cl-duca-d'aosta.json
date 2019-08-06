@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-duca-d'aosta",
+    "ClassName": "Duca d'Aosta Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1932-10-29",
+    "StandardDisplacement": 8317,
+
+    "ShipHorsePower": 110000,
+    "Speed": 36.5,
+    "Range": 7200,
+
+    "Caliber": 152,
+    "Broadside": 8,
+    "APShellSize": 50,
+
+    "ArmorBelt": 70,
+    "ArmorBeltAngle": 0
+}

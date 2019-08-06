@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-etna",
+    "ClassName": "Etna Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1939-09-23",
+    "StandardDisplacement": 6000,
+
+    "ShipHorsePower": 40000,
+    "Speed": 28,
+    "Range": 0,
+
+    "Caliber": 135,
+    "Broadside": 6,
+    "APShellSize": 33,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}

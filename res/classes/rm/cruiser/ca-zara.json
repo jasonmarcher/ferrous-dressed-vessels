@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-zara",
+    "ClassName": "Zara Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1929-04-29",
+    "StandardDisplacement": 11500,
+
+    "ShipHorsePower": 95000,
+    "Speed": 32,
+    "Range": 10000,
+
+    "Caliber": 203,
+    "Broadside": 8,
+    "APShellSize": 125,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

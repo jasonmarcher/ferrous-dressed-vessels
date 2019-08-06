@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-giussano",
+    "ClassName": "Giussano Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1928-04-16",
+    "StandardDisplacement": 6570,
+
+    "ShipHorsePower": 95000,
+    "Speed": 37,
+    "Range": 7000,
+
+    "Caliber": 152,
+    "Broadside": 8,
+    "APShellSize": 50,
+
+    "ArmorBelt": 24,
+    "ArmorBeltAngle": 0
+}

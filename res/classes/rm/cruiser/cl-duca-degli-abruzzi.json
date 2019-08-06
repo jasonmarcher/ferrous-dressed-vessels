@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-duca-degli-abruzzi",
+    "ClassName": "Duca degli Abruzzi Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1933-12-28",
+    "StandardDisplacement": 11350,
+
+    "ShipHorsePower": 100000,
+    "Speed": 34,
+    "Range": 7640,
+
+    "Caliber": 152,
+    "Broadside": 10,
+    "APShellSize": 50,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}

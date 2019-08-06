@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-luigi-cadorna",
+    "ClassName": "Luigi Cadorna Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1930-07-28",
+    "StandardDisplacement": 5239,
+
+    "ShipHorsePower": 95000,
+    "Speed": 37,
+    "Range": 5430,
+
+    "Caliber": 152,
+    "Broadside": 8,
+    "APShellSize": 50,
+
+    "ArmorBelt": 24,
+    "ArmorBeltAngle": 0
+}

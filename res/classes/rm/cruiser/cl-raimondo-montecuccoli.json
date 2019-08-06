@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-raimondo-montecuccoli",
+    "ClassName": "Raimondo Montecuccoli Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1931-04-10",
+    "StandardDisplacement": 6570,
+
+    "ShipHorsePower": 106000,
+    "Speed": 37,
+    "Range": 7634,
+
+    "Caliber": 152,
+    "Broadside": 8,
+    "APShellSize": 50,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}

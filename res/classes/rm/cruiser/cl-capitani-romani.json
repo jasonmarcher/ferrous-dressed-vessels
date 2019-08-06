@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-capitani-romani",
+    "ClassName": "Capitani Romani Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1939-09-23",
+    "StandardDisplacement": 3810,
+
+    "ShipHorsePower": 110000,
+    "Speed": 41,
+    "Range": 8060,
+
+    "Caliber": 135,
+    "Broadside": 8,
+    "APShellSize": 33,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
