@@ -1,0 +1,19 @@
+{
+    "ClassID": "cs-aquila",
+    "ClassName": "Aquila Class",
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "ClassLaidDown": "1914-01-29",
+    "StandardDisplacement": 1620,
+
+    "ShipHorsePower": 40000,
+    "Speed": 34,
+    "Range": 5600,
+
+    "Caliber": 152,
+    "Broadside": 3,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
