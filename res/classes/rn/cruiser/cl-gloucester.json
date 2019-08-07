@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-gloucester",
+    "ClassName": "Gloucester Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1936-02-17",
+    "StandardDisplacement": 12120,
+
+    "ShipHorsePower": 82500,
+    "Speed": 32.25,
+    "Range": 9800,
+
+    "Caliber": 152,
+    "Broadside": 12,
+    "APShellSize": 51,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

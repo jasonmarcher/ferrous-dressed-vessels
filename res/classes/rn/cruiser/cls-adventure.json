@@ -1,0 +1,19 @@
+{
+    "ClassID": "cs-adventure",
+    "ClassName": "Adventure Class",
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "ClassLaidDown": "1904-01-07",
+    "StandardDisplacement": 2713,
+
+    "ShipHorsePower": 16000,
+    "Speed": 25,
+    "Range": 4390,
+
+    "Caliber": 76,
+    "Broadside": 5,
+    "APShellSize": 6,
+
+    "ArmorBelt": 51,
+    "ArmorBeltAngle": 0
+}

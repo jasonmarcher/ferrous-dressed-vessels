@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-arethusa-1913",
+    "ClassName": "Arethusa Class (1913)",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1912-10-24",
+    "StandardDisplacement": 3512,
+
+    "ShipHorsePower": 40000,
+    "Speed": 28.5,
+    "Range": 10930,
+
+    "Caliber": 152,
+    "Broadside": 2,
+    "APShellSize": 45,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

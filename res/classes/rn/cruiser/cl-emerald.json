@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-emerald",
+    "ClassName": "Emerald Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1918-06-28",
+    "StandardDisplacement": 7580,
+
+    "ShipHorsePower": 80000,
+    "Speed": 33,
+    "Range": 15000,
+
+    "Caliber": 152,
+    "Broadside": 6,
+    "APShellSize": 45,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-kent",
+    "ClassName": "Kent Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1924-10-18",
+    "StandardDisplacement": 10400,
+
+    "ShipHorsePower": 80000,
+    "Speed": 31.5,
+    "Range": 15000,
+
+    "Caliber": 203,
+    "Broadside": 8,
+    "APShellSize": 116,
+
+    "ArmorBelt": 114,
+    "ArmorBeltAngle": 0
+}

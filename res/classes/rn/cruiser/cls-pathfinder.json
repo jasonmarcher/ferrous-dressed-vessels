@@ -1,0 +1,19 @@
+{
+    "ClassID": "cs-pathfinder",
+    "ClassName": "Pathfinder Class",
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "ClassLaidDown": "1903-08-15",
+    "StandardDisplacement": 2987,
+
+    "ShipHorsePower": 16500,
+    "Speed": 25,
+    "Range": 6300,
+
+    "Caliber": 76,
+    "Broadside": 5,
+    "APShellSize": 6,
+
+    "ArmorBelt": 51,
+    "ArmorBeltAngle": 0
+}

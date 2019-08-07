@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-southampton",
+    "ClassName": "Southampton Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1934-10-04",
+    "StandardDisplacement": 11730,
+
+    "ShipHorsePower": 75000,
+    "Speed": 32,
+    "Range": 9800,
+
+    "Caliber": 152,
+    "Broadside": 12,
+    "APShellSize": 51,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

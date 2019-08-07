@@ -1,0 +1,19 @@
+{
+    "ClassID": "cs-sentinel",
+    "ClassName": "sentinel Class",
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "ClassLaidDown": "1903-02-29",
+    "StandardDisplacement": 2941,
+
+    "ShipHorsePower": 16500,
+    "Speed": 25,
+    "Range": 4560,
+
+    "Caliber": 76,
+    "Broadside": 5,
+    "APShellSize": 6,
+
+    "ArmorBelt": 51,
+    "ArmorBeltAngle": 0
+}

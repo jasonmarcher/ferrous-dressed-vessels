@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-bristol",
+    "ClassName": "Bristol Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1909-03-23",
+    "StandardDisplacement": 4800,
+
+    "ShipHorsePower": 22000,
+    "Speed": 25,
+    "Range": 7670,
+
+    "Caliber": 152,
+    "Broadside": 2,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

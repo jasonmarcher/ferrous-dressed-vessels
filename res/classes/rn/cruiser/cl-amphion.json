@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-amphion",
+    "ClassName": "Amphion Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1932-02-01",
+    "StandardDisplacement": 7390,
+
+    "ShipHorsePower": 72000,
+    "Speed": 32.5,
+    "Range": 10610,
+
+    "Caliber": 152,
+    "Broadside": 8,
+    "APShellSize": 51,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

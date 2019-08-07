@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-fiji",
+    "ClassName": "Fiji Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1937-12-01",
+    "StandardDisplacement": 10725,
+
+    "ShipHorsePower": 72500,
+    "Speed": 31.5,
+    "Range": 18000,
+
+    "Caliber": 152,
+    "Broadside": 12,
+    "APShellSize": 51,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

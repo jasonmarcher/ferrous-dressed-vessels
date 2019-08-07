@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-york",
+    "ClassName": "York Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1927-05-16",
+    "StandardDisplacement": 8250,
+
+    "ShipHorsePower": 80000,
+    "Speed": 32.25,
+    "Range": 20000,
+
+    "Caliber": 203,
+    "Broadside": 6,
+    "APShellSize": 116,
+
+    "ArmorBelt": 75,
+    "ArmorBeltAngle": 0
+}

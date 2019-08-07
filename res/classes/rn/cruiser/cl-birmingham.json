@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-birmingham",
+    "ClassName": "Birmingham Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1912-06-10",
+    "StandardDisplacement": 5530,
+
+    "ShipHorsePower": 25000,
+    "Speed": 25.5,
+    "Range": 8670,
+
+    "Caliber": 152,
+    "Broadside": 5,
+    "APShellSize": 45,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

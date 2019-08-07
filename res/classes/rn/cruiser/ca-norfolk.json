@@ -1,0 +1,19 @@
+{
+    "ClassID": "ca-norfolk",
+    "ClassName": "Norfolk Class",
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1927-07-08",
+    "StandardDisplacement": 10400,
+
+    "ShipHorsePower": 80000,
+    "Speed": 31.5,
+    "Range": 15000,
+
+    "Caliber": 203,
+    "Broadside": 8,
+    "APShellSize": 116,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

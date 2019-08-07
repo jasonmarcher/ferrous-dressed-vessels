@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-weymouth",
+    "ClassName": "Weymouth Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1910-01-19",
+    "StandardDisplacement": 5330,
+
+    "ShipHorsePower": 22000,
+    "Speed": 25,
+    "Range": 7670,
+
+    "Caliber": 152,
+    "Broadside": 5,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

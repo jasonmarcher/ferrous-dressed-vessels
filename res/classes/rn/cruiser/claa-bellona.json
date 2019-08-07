@@ -1,0 +1,19 @@
+{
+    "ClassID": "claa-dido",
+    "ClassName": "Dido Class",
+    "Type": "Cruiser",
+    "SubType": "Light AA Cruiser",
+    "ClassLaidDown": "1936-11-02",
+    "StandardDisplacement": 5900,
+
+    "ShipHorsePower": 62000,
+    "Speed": 32.25,
+    "Range": 6824,
+
+    "Caliber": 133,
+    "Broadside": 8,
+    "APShellSize": 36,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

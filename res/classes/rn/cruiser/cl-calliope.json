@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-calliope",
+    "ClassName": "Calliope Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1914-01-01",
+    "StandardDisplacement": 4100,
+
+    "ShipHorsePower": 40000,
+    "Speed": 29.5,
+    "Range": 10930,
+
+    "Caliber": 152,
+    "Broadside": 4,
+    "APShellSize": 45,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "cs-boadicea",
+    "ClassName": "Boadicea Class",
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "ClassLaidDown": "1907-06-01",
+    "StandardDisplacement": 3400,
+
+    "ShipHorsePower": 18000,
+    "Speed": 25,
+    "Range": 7890,
+
+    "Caliber": 102,
+    "Broadside": 6,
+    "APShellSize": 14,
+
+    "ArmorBelt": 25,
+    "ArmorBeltAngle": 0
+}

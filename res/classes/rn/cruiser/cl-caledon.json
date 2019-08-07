@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-caledon",
+    "ClassName": "Caledon Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1916-02-07",
+    "StandardDisplacement": 4180,
+
+    "ShipHorsePower": 40000,
+    "Speed": 29,
+    "Range": 10930,
+
+    "Caliber": 152,
+    "Broadside": 5,
+    "APShellSize": 45,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

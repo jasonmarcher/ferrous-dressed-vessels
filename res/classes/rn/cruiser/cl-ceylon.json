@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-ceylon",
+    "ClassName": "Ceylon Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1939-03-01",
+    "StandardDisplacement": 10840,
+
+    "ShipHorsePower": 80000,
+    "Speed": 32,
+    "Range": 18000,
+
+    "Caliber": 152,
+    "Broadside": 9,
+    "APShellSize": 51,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-minotaur",
+    "ClassName": "Minotaur Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1941-09-22",
+    "StandardDisplacement": 8800,
+
+    "ShipHorsePower": 72500,
+    "Speed": 31.5,
+    "Range": 15000,
+
+    "Caliber": 154,
+    "Broadside": 9,
+    "APShellSize": 51,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

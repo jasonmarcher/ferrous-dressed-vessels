@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-danae",
+    "ClassName": "Danae Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1916-12-11",
+    "StandardDisplacement": 4850,
+
+    "ShipHorsePower": 40000,
+    "Speed": 29,
+    "Range": 15000,
+
+    "Caliber": 152,
+    "Broadside": 6,
+    "APShellSize": 45,
+
+    "ArmorBelt": 57,
+    "ArmorBeltAngle": 0
+}

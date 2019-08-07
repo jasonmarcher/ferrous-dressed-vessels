@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-birkenhead",
+    "ClassName": "Birkenhead Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1914-03-27",
+    "StandardDisplacement": 5319,
+
+    "ShipHorsePower": 25000,
+    "Speed": 25.5,
+    "Range": 8670,
+
+    "Caliber": 140,
+    "Broadside": 6,
+    "APShellSize": 37,
+
+    "ArmorBelt": 51,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-chatham",
+    "ClassName": "Chatham Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1911-01-03",
+    "StandardDisplacement": 5487,
+
+    "ShipHorsePower": 25000,
+    "Speed": 25.5,
+    "Range": 8262,
+
+    "Caliber": 152,
+    "Broadside": 5,
+    "APShellSize": 45,
+
+    "ArmorBelt": 51,
+    "ArmorBeltAngle": 0
+}

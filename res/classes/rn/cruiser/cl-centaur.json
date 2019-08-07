@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-centaur",
+    "ClassName": "Centaur Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1915-01-24",
+    "StandardDisplacement": 4100,
+
+    "ShipHorsePower": 40000,
+    "Speed": 29.5,
+    "Range": 10930,
+
+    "Caliber": 152,
+    "Broadside": 5,
+    "APShellSize": 45,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}
