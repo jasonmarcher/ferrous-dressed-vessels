@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-pillau",
+    "ClassName": "Pillau Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1913-06-01",
+    "StandardDisplacement": 4390,
+
+    "ShipHorsePower": 30000,
+    "Speed": 27.5,
+    "Range": 7960,
+
+    "Caliber": 150,
+    "Broadside": 4,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

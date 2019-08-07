@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-coln",
+    "ClassName": "Coln Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1916-10-05",
+    "StandardDisplacement": 5620,
+
+    "ShipHorsePower": 31000,
+    "Speed": 27.5,
+    "Range": 10000,
+
+    "Caliber": 150,
+    "Broadside": 5,
+    "APShellSize": 45,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-magdeburg",
+    "ClassName": "Magdeburg Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1910-06-01",
+    "StandardDisplacement": 4570,
+
+    "ShipHorsePower": 25000,
+    "Speed": 27.5,
+    "Range": 10780,
+
+    "Caliber": 105,
+    "Broadside": 6,
+    "APShellSize": 18,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}

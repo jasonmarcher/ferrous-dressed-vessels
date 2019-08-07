@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-karlsruhe",
+    "ClassName": "Karlsruhe Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1911-06-01",
+    "StandardDisplacement": 4900,
+
+    "ShipHorsePower": 26000,
+    "Speed": 29.3,
+    "Range": 0,
+
+    "Caliber": 105,
+    "Broadside": 6,
+    "APShellSize": 18,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}

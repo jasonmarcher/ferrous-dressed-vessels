@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-gazelle",
+    "ClassName": "Gazelle Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1891-01-01",
+    "StandardDisplacement": 2700,
+
+    "ShipHorsePower": 8000,
+    "Speed": 24.7,
+    "Range": 8150,
+
+    "Caliber": 105,
+    "Broadside": 5,
+    "APShellSize": 18,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-bremen",
+    "ClassName": "Bremen Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1902-02-01",
+    "StandardDisplacement": 3797,
+
+    "ShipHorsePower": 9863,
+    "Speed": 22,
+    "Range": 7900,
+
+    "Caliber": 105,
+    "Broadside": 5,
+    "APShellSize": 18,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

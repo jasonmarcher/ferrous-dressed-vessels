@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-dresden",
+    "ClassName": "Dresden Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1906-04-06",
+    "StandardDisplacement": 3664,
+
+    "ShipHorsePower": 15000,
+    "Speed": 24,
+    "Range": 6900,
+
+    "Caliber": 105,
+    "Broadside": 5,
+    "APShellSize": 18,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

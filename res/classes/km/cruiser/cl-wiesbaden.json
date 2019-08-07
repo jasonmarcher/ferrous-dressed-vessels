@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-wiesbaden",
+    "ClassName": "Wiesbaden Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1913-09-01",
+    "StandardDisplacement": 5180,
+
+    "ShipHorsePower": 31000,
+    "Speed": 27.5,
+    "Range": 8900,
+
+    "Caliber": 150,
+    "Broadside": 5,
+    "APShellSize": 45,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-kolberg",
+    "ClassName": "Kolberg Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1908-06-01",
+    "StandardDisplacement": 4362,
+
+    "ShipHorsePower": 19000,
+    "Speed": 25.5,
+    "Range": 6500,
+
+    "Caliber": 105,
+    "Broadside": 6,
+    "APShellSize": 18,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

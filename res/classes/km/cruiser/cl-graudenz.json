@@ -1,0 +1,19 @@
+{
+    "ClassID": "cl-graudenz",
+    "ClassName": "Graudenz Class",
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1912-04-01",
+    "StandardDisplacement": 4912,
+
+    "ShipHorsePower": 26000,
+    "Speed": 27.5,
+    "Range": 10200,
+
+    "Caliber": 105,
+    "Broadside": 7,
+    "APShellSize": 18,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}
