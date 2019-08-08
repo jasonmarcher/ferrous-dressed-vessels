@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-connecticut",
+    "ClassName": "Connecticut Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1903-02-07",
+    "StandardDisplacement": 16000,
+
+    "ShipHorsePower": 16500,
+    "Speed": 18,
+    "Range": 14060,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 279,
+    "ArmorBeltAngle": 0
+}

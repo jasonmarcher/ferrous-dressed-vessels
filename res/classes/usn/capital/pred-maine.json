@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-maine",
+    "ClassName": "Maine Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1899-02-15",
+    "StandardDisplacement": 12846,
+
+    "ShipHorsePower": 16000,
+    "Speed": 18,
+    "Range": 9100,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 279,
+    "ArmorBeltAngle": 0
+}

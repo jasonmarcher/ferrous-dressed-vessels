@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-virginia",
+    "ClassName": "Virginia Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1901-08-31",
+    "StandardDisplacement": 14948,
+
+    "ShipHorsePower": 19000,
+    "Speed": 19,
+    "Range": 7084,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 279,
+    "ArmorBeltAngle": 0
+}

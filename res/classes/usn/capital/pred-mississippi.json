@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-mississippi",
+    "ClassName": "Mississippi Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1904-05-12",
+    "StandardDisplacement": 13209,
+
+    "ShipHorsePower": 10000,
+    "Speed": 17,
+    "Range": 10700,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 230,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-kearsarge",
+    "ClassName": "Kearsarge Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1896-06-30",
+    "StandardDisplacement": 11540,
+
+    "ShipHorsePower": 10000,
+    "Speed": 16,
+    "Range": 0,
+
+    "Caliber": 330,
+    "Broadside": 4,
+    "APShellSize": 510,
+
+    "ArmorBelt": 420,
+    "ArmorBeltAngle": 0
+}

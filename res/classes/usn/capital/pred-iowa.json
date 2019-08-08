@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-iowa",
+    "ClassName": "Iowa Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1893-08-05",
+    "StandardDisplacement": 11528,
+
+    "ShipHorsePower": 11000,
+    "Speed": 17,
+    "Range": 0,
+
+    "Caliber": 300,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 356,
+    "ArmorBeltAngle": 0
+}
