@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-lord-nelson",
+    "ClassName": "Lord Nelson Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1905-05-15",
+    "StandardDisplacement": 15604,
+
+    "ShipHorsePower": 16750,
+    "Speed": 18,
+    "Range": 17000,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 385,
+
+    "ArmorBelt": 305,
+    "ArmorBeltAngle": 0
+}

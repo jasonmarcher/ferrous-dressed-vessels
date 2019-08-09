@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-royal-sovereign",
+    "ClassName": "Royal Sovereign Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1889-07-09",
+    "StandardDisplacement": 14380,
+
+    "ShipHorsePower": 11000,
+    "Speed": 17.5,
+    "Range": 8740,
+
+    "Caliber": 343,
+    "Broadside": 4,
+    "APShellSize": 570,
+
+    "ArmorBelt": 457,
+    "ArmorBeltAngle": 0
+}

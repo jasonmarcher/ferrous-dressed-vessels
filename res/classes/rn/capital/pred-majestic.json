@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-majestic",
+    "ClassName": "Majestic Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1893-12-18",
+    "StandardDisplacement": 17700,
+
+    "ShipHorsePower": 10000,
+    "Speed": 16,
+    "Range": 13000,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 230,
+    "ArmorBeltAngle": 0
+}

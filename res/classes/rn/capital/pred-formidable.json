@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-formidable",
+    "ClassName": "Formidable Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1898-03-21",
+    "StandardDisplacement": 14710,
+
+    "ShipHorsePower": 15000,
+    "Speed": 18,
+    "Range": 9400,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

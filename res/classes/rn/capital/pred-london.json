@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-london",
+    "ClassName": "London Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1898-12-08",
+    "StandardDisplacement": 14700,
+
+    "ShipHorsePower": 15000,
+    "Speed": 18,
+    "Range": 10000,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 230,
+    "ArmorBeltAngle": 0
+}

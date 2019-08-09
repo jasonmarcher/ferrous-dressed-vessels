@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-centurion",
+    "ClassName": "Centurion Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1890-03-30",
+    "StandardDisplacement": 10805,
+
+    "ShipHorsePower": 9000,
+    "Speed": 17,
+    "Range": 9690,
+
+    "Caliber": 254,
+    "Broadside": 4,
+    "APShellSize": 226,
+
+    "ArmorBelt": 305,
+    "ArmorBeltAngle": 0
+}

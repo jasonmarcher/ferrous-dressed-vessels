@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-king-edward-vii",
+    "ClassName": "King Edward VII Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1902-03-08",
+    "StandardDisplacement": 15835,
+
+    "ShipHorsePower": 18000,
+    "Speed": 18.5,
+    "Range": 9400,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

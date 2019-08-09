@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-renown",
+    "ClassName": "Renown Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1893-02-01",
+    "StandardDisplacement": 11880,
+
+    "ShipHorsePower": 10000,
+    "Speed": 19,
+    "Range": 15700,
+
+    "Caliber": 254,
+    "Broadside": 4,
+    "APShellSize": 226,
+
+    "ArmorBelt": 203,
+    "ArmorBeltAngle": 0
+}

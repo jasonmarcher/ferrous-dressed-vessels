@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-duncan",
+    "ClassName": "Duncan Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1899-03-11",
+    "StandardDisplacement": 13483,
+
+    "ShipHorsePower": 18000,
+    "Speed": 19,
+    "Range": 11240,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 178,
+    "ArmorBeltAngle": 0
+}

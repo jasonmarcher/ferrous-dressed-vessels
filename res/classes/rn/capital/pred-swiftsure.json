@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-swiftsure",
+    "ClassName": "Swiftsure Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1902-02-26",
+    "StandardDisplacement": 12370,
+
+    "ShipHorsePower": 12500,
+    "Speed": 19,
+    "Range": 11500,
+
+    "Caliber": 254,
+    "Broadside": 4,
+    "APShellSize": 227,
+
+    "ArmorBelt": 178,
+    "ArmorBeltAngle": 0
+}

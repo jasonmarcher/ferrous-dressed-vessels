@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-canopus",
+    "ClassName": "Canopus Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1896-12-01",
+    "StandardDisplacement": 14500,
+
+    "ShipHorsePower": 15000,
+    "Speed": 18,
+    "Range": 9400,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}
