@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-deutschland",
+    "ClassName": "Deutschland Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1903-06-20",
+    "StandardDisplacement": 12992,
+
+    "ShipHorsePower": 17000,
+    "Speed": 18.5,
+    "Range": 8900,
+
+    "Caliber": 280,
+    "Broadside": 4,
+    "APShellSize": 240,
+
+    "ArmorBelt": 240,
+    "ArmorBeltAngle": 0
+}

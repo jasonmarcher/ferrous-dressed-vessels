@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-braunschweig",
+    "ClassName": "Braunschweig Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1901-05-26",
+    "StandardDisplacement": 13208,
+
+    "ShipHorsePower": 16000,
+    "Speed": 18,
+    "Range": 9600,
+
+    "Caliber": 280,
+    "Broadside": 4,
+    "APShellSize": 240,
+
+    "ArmorBelt": 250,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-kaiser-friedrich-iii",
+    "ClassName": "Kaiser Friedrich III Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1895-03-05",
+    "StandardDisplacement": 11097,
+
+    "ShipHorsePower": 13000,
+    "Speed": 17.5,
+    "Range": 6330,
+
+    "Caliber": 240,
+    "Broadside": 4,
+    "APShellSize": 140,
+
+    "ArmorBelt": 300,
+    "ArmorBeltAngle": 0
+}

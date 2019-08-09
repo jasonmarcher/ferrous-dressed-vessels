@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-brandenburg",
+    "ClassName": "Brandenburg Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1890-05-01",
+    "StandardDisplacement": 10013,
+
+    "ShipHorsePower": 10000,
+    "Speed": 17,
+    "Range": 9300,
+
+    "Caliber": 280,
+    "Broadside": 4,
+    "APShellSize": 240,
+
+    "ArmorBelt": 400,
+    "ArmorBeltAngle": 0
+}

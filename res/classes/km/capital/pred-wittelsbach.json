@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-wittelsbach",
+    "ClassName": "Wittelsbach Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1899-09-30",
+    "StandardDisplacement": 12798,
+
+    "ShipHorsePower": 14000,
+    "Speed": 18,
+    "Range": 9300,
+
+    "Caliber": 240,
+    "Broadside": 4,
+    "APShellSize": 140,
+
+    "ArmorBelt": 255,
+    "ArmorBeltAngle": 0
+}
