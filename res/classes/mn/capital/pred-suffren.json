@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-suffren",
+    "ClassName": "Suffren Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1899-01-05",
+    "StandardDisplacement": 12432,
+
+    "ShipHorsePower": 16200,
+    "Speed": 17,
+    "Range": 7567,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 349,
+
+    "ArmorBelt": 300,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-bouvet",
+    "ClassName": "bouvet Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1893-01-16",
+    "StandardDisplacement": 13400,
+
+    "ShipHorsePower": 14000,
+    "Speed": 18,
+    "Range": 5600,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 349,
+
+    "ArmorBelt": 400,
+    "ArmorBeltAngle": 0
+}

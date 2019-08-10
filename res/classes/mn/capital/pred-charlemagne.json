@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-charlemagne",
+    "ClassName": "Charlemagne Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1894-08-02",
+    "StandardDisplacement": 11688,
+
+    "ShipHorsePower": 14500,
+    "Speed": 18,
+    "Range": 3650,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 349,
+
+    "ArmorBelt": 320,
+    "ArmorBeltAngle": 0
+}

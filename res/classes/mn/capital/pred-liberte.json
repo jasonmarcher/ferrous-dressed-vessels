@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-liberte",
+    "ClassName": "Liberte Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1902-11-01",
+    "StandardDisplacement": 14900,
+
+    "ShipHorsePower": 17300,
+    "Speed": 18,
+    "Range": 15600,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 440,
+
+    "ArmorBelt": 250,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-iena",
+    "ClassName": "Iena Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1898-01-15",
+    "StandardDisplacement": 11688,
+
+    "ShipHorsePower": 16500,
+    "Speed": 18,
+    "Range": 8100,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 349,
+
+    "ArmorBelt": 320,
+    "ArmorBeltAngle": 0
+}

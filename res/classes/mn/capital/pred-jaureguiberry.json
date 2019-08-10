@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-jaureguiberry",
+    "ClassName": "Jaureguiberry Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1891-11-01",
+    "StandardDisplacement": 11818,
+
+    "ShipHorsePower": 14441,
+    "Speed": 17.5,
+    "Range": 7260,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 292,
+
+    "ArmorBelt": 400,
+    "ArmorBeltAngle": 0
+}

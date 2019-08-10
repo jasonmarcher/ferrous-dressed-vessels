@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-republique",
+    "ClassName": "Republique Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1902-11-01",
+    "StandardDisplacement": 14870,
+
+    "ShipHorsePower": 17260,
+    "Speed": 18,
+    "Range": 15600,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 349,
+
+    "ArmorBelt": 280,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-messena",
+    "ClassName": "Messena Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1892-09-01",
+    "StandardDisplacement": 11735,
+
+    "ShipHorsePower": 14000,
+    "Speed": 17,
+    "Range": 0,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 349,
+
+    "ArmorBelt": 450,
+    "ArmorBeltAngle": 0
+}

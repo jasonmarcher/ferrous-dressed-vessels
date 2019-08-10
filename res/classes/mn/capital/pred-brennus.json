@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-brennus",
+    "ClassName": "Brennus Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1889-01-02",
+    "StandardDisplacement": 11370,
+
+    "ShipHorsePower": 13900,
+    "Speed": 18,
+    "Range": 5195,
+
+    "Caliber": 340,
+    "Broadside": 3,
+    "APShellSize": 490,
+
+    "ArmorBelt": 400,
+    "ArmorBeltAngle": 0
+}

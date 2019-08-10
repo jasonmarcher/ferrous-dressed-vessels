@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-charles-martel",
+    "ClassName": "Charles Martel Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1891-08-01",
+    "StandardDisplacement": 13100,
+
+    "ShipHorsePower": 13500,
+    "Speed": 18,
+    "Range": 0,
+
+    "Caliber": 305,
+    "Broadside": 2,
+    "APShellSize": 292,
+
+    "ArmorBelt": 460,
+    "ArmorBeltAngle": 0
+}
