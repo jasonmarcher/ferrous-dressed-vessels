@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-satsuma",
+    "ClassName": "Satsuma Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1905-05-15",
+    "StandardDisplacement": 19683,
+
+    "ShipHorsePower": 17300,
+    "Speed": 18,
+    "Range": 16900,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 385,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

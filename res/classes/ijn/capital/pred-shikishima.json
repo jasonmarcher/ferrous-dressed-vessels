@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-shikishima",
+    "ClassName": "Shikishima Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1897-03-29",
+    "StandardDisplacement": 15088,
+
+    "ShipHorsePower": 14500,
+    "Speed": 18,
+    "Range": 9300,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

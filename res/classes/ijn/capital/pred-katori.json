@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-katori",
+    "ClassName": "Katori Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1904-04-27",
+    "StandardDisplacement": 16206,
+
+    "ShipHorsePower": 15600,
+    "Speed": 18,
+    "Range": 22000,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 385,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

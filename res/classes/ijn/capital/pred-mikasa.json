@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-mikasa",
+    "ClassName": "Mikasa Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1899-01-24",
+    "StandardDisplacement": 15380,
+
+    "ShipHorsePower": 15000,
+    "Speed": 18,
+    "Range": 17000,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-fuji",
+    "ClassName": "fuji Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1894-08-01",
+    "StandardDisplacement": 12426,
+
+    "ShipHorsePower": 13500,
+    "Speed": 18,
+    "Range": 9300,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 457,
+    "ArmorBeltAngle": 0
+}
