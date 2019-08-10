@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-regina-elena",
+    "ClassName": "Regina Elena Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1901-03-27",
+    "StandardDisplacement": 14029,
+
+    "ShipHorsePower": 19300,
+    "Speed": 20,
+    "Range": 19000,
+
+    "Caliber": 305,
+    "Broadside": 2,
+    "APShellSize": 390,
+
+    "ArmorBelt": 250,
+    "ArmorBeltAngle": 0
+}

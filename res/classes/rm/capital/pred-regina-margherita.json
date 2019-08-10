@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-regina-margherita",
+    "ClassName": "Regina Margherita Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1898-11-20",
+    "StandardDisplacement": 13427,
+
+    "ShipHorsePower": 21790,
+    "Speed": 20,
+    "Range": 18520,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}
