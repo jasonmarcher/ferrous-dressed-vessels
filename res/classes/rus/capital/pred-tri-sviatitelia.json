@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-tri-sviatitelia",
+    "ClassName": "Tri Sviatitelia Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1891-08-15",
+    "StandardDisplacement": 13532,
+
+    "ShipHorsePower": 10600,
+    "Speed": 16.5,
+    "Range": 4170,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 457,
+    "ArmorBeltAngle": 0
+}

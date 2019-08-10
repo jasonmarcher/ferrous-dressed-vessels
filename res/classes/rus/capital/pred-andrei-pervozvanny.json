@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-andrei-pervozvanny",
+    "ClassName": "Andrei Pervozvanny Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1904-03-15",
+    "StandardDisplacement": 17600,
+
+    "ShipHorsePower": 17600,
+    "Speed": 18.5,
+    "Range": 4400,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 216,
+    "ArmorBeltAngle": 0
+}

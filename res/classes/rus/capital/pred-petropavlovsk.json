@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-petropavlovsk",
+    "ClassName": "Petropavlovsk Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1892-05-19",
+    "StandardDisplacement": 11536,
+
+    "ShipHorsePower": 10600,
+    "Speed": 16,
+    "Range": 6940,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 406,
+    "ArmorBeltAngle": 0
+}

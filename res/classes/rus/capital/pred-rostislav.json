@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-rostislav",
+    "ClassName": "Rostislav Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1894-01-30",
+    "StandardDisplacement": 10689,
+
+    "ShipHorsePower": 8500,
+    "Speed": 15,
+    "Range": 7600,
+
+    "Caliber": 254,
+    "Broadside": 4,
+    "APShellSize": 225,
+
+    "ArmorBelt": 368,
+    "ArmorBeltAngle": 0
+}

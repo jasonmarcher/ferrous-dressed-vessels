@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-borodino",
+    "ClassName": "Borodino Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1900-05-23",
+    "StandardDisplacement": 14317,
+
+    "ShipHorsePower": 15800,
+    "Speed": 18,
+    "Range": 4800,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 194,
+    "ArmorBeltAngle": 0
+}

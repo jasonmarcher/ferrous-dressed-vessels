@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-evstafi",
+    "ClassName": "Evstafi Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1904-11-13",
+    "StandardDisplacement": 12942,
+
+    "ShipHorsePower": 10600,
+    "Speed": 16,
+    "Range": 3900,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

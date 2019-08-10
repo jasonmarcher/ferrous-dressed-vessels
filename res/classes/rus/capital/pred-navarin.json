@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-navarin",
+    "ClassName": "Navarin Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1890-05-31",
+    "StandardDisplacement": 10370,
+
+    "ShipHorsePower": 9000,
+    "Speed": 15,
+    "Range": 5650,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 406,
+    "ArmorBeltAngle": 0
+}

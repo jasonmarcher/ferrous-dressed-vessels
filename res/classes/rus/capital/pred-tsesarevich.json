@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-tsesarevich",
+    "ClassName": "Tsesarevich Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1899-07-08",
+    "StandardDisplacement": 13105,
+
+    "ShipHorsePower": 16300,
+    "Speed": 18,
+    "Range": 10200,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 250,
+    "ArmorBeltAngle": 0
+}

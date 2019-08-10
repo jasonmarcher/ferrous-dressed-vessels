@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-sissoi-veliky",
+    "ClassName": "Sissoi Veliky Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1891-08-07",
+    "StandardDisplacement": 10567,
+
+    "ShipHorsePower": 8500,
+    "Speed": 15.7,
+    "Range": 5200,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 356,
+    "ArmorBeltAngle": 0
+}

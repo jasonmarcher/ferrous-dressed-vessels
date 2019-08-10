@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-peresvet",
+    "ClassName": "Peresvet Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1895-11-21",
+    "StandardDisplacement": 13534,
+
+    "ShipHorsePower": 14500,
+    "Speed": 18,
+    "Range": 11500,
+
+    "Caliber": 254,
+    "Broadside": 4,
+    "APShellSize": 225,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

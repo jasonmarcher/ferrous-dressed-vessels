@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-potemkin",
+    "ClassName": "Potemkin Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1898-10-10",
+    "StandardDisplacement": 13107,
+
+    "ShipHorsePower": 10600,
+    "Speed": 16,
+    "Range": 5900,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

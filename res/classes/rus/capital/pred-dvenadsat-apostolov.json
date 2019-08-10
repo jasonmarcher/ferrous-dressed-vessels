@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-dvenadsat-apostolov",
+    "ClassName": "Dvenadsat Apostolov Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1889-08-21",
+    "StandardDisplacement": 8850,
+
+    "ShipHorsePower": 8500,
+    "Speed": 14.5,
+    "Range": 3500,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 331,
+
+    "ArmorBelt": 356,
+    "ArmorBeltAngle": 0
+}
