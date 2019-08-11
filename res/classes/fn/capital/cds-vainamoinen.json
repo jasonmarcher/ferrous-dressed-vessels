@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-vainamoinen",
+    "ClassName": "Vainamoinen Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1926-09-01",
+    "StandardDisplacement": 3900,
+
+    "ShipHorsePower": 4800,
+    "Speed": 14.5,
+    "Range": 1300,
+
+    "Caliber": 254,
+    "Broadside": 4,
+    "APShellSize": 225,
+
+    "ArmorBelt": 50,
+    "ArmorBeltAngle": 0
+}

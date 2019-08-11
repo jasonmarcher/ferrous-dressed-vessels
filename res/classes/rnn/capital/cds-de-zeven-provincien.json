@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-de-zeven-provincien",
+    "ClassName": "De Zeven Provincien Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1908-02-07",
+    "StandardDisplacement": 6530,
+
+    "ShipHorsePower": 8000,
+    "Speed": 16,
+    "Range": 1300,
+
+    "Caliber": 280,
+    "Broadside": 2,
+    "APShellSize": 302,
+
+    "ArmorBelt": 21,
+    "ArmorBeltAngle": 0
+}

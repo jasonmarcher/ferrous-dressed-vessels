@@ -1,0 +1,19 @@
+{
+    "ClassID": "bb-minas-geraes",
+    "ClassName": "Minas Geraes Class",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
+    "ClassLaidDown": "1909-12-06",
+    "StandardDisplacement": 19281,
+
+    "ShipHorsePower": 23500,
+    "Speed": 21,
+    "Range": 19000,
+
+    "Caliber": 305,
+    "Broadside": 10,
+    "APShellSize": 385,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

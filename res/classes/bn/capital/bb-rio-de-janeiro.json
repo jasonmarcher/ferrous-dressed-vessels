@@ -1,0 +1,19 @@
+{
+    "ClassID": "bb-rio-de-janeiro",
+    "ClassName": "Rio de Janeiro Class",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
+    "ClassLaidDown": "1911-09-14",
+    "StandardDisplacement": 28300,
+
+    "ShipHorsePower": 34000,
+    "Speed": 22,
+    "Range": 13000,
+
+    "Caliber": 305,
+    "Broadside": 14,
+    "APShellSize": 385,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

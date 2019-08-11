@@ -1,0 +1,19 @@
+{
+    "ClassID": "bb-espana",
+    "ClassName": "Espana Class",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
+    "ClassLaidDown": "1909-12-06",
+    "StandardDisplacement": 15700,
+
+    "ShipHorsePower": 15500,
+    "Speed": 19.5,
+    "Range": 9300,
+
+    "Caliber": 305,
+    "Broadside": 6,
+    "APShellSize": 385,
+
+    "ArmorBelt": 203,
+    "ArmorBeltAngle": 0
+}

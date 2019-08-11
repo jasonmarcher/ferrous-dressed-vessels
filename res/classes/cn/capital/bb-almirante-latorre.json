@@ -1,0 +1,19 @@
+{
+    "ClassID": "bb-almirante-latorre",
+    "ClassName": "Almirante Latorre Class",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
+    "ClassLaidDown": "1926-09-01",
+    "StandardDisplacement": 28600,
+
+    "ShipHorsePower": 37000,
+    "Speed": 22.75,
+    "Range": 8100,
+
+    "Caliber": 355,
+    "Broadside": 10,
+    "APShellSize": 719,
+
+    "ArmorBelt": 230,
+    "ArmorBeltAngle": 0
+}

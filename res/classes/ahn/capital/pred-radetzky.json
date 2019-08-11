@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-radetzky",
+    "ClassName": "Radetzky Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1907-09-12",
+    "StandardDisplacement": 14741,
+
+    "ShipHorsePower": 20000,
+    "Speed": 20.5,
+    "Range": 7400,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 450,
+
+    "ArmorBelt": 230,
+    "ArmorBeltAngle": 0
+}

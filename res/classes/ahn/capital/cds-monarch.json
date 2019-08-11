@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-monarch",
+    "ClassName": "Monarch Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1893-02-16",
+    "StandardDisplacement": 5878,
+
+    "ShipHorsePower": 8500,
+    "Speed": 15.5,
+    "Range": 4100,
+
+    "Caliber": 240,
+    "Broadside": 4,
+    "APShellSize": 140,
+
+    "ArmorBelt": 270,
+    "ArmorBeltAngle": 0
+}

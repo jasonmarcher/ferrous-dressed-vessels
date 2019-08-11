@@ -1,0 +1,19 @@
+{
+    "ClassID": "bb-resadiye",
+    "ClassName": "Resadiye Class",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
+    "ClassLaidDown": "1911-08-01",
+    "StandardDisplacement": 23000,
+
+    "ShipHorsePower": 26500,
+    "Speed": 21,
+    "Range": 9400,
+
+    "Caliber": 343,
+    "Broadside": 10,
+    "APShellSize": 635,
+
+    "ArmorBelt": 305,
+    "ArmorBeltAngle": 0
+}

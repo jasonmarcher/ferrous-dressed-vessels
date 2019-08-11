@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-jacob-van-heemskerck",
+    "ClassName": "Jacob van Heemskerck Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1906-09-22",
+    "StandardDisplacement": 4920,
+
+    "ShipHorsePower": 6400,
+    "Speed": 16.5,
+    "Range": 0,
+
+    "Caliber": 240,
+    "Broadside": 2,
+    "APShellSize": 170,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

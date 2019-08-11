@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-libertad",
+    "ClassName": "Libertad Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1890-06-01",
+    "StandardDisplacement": 2336,
+
+    "ShipHorsePower": 3000,
+    "Speed": 11,
+    "Range": 0,
+
+    "Caliber": 240,
+    "Broadside": 2,
+    "APShellSize": 140,
+
+    "ArmorBelt": 200,
+    "ArmorBeltAngle": 0
+}

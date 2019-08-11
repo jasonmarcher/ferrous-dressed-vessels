@@ -1,0 +1,19 @@
+{
+    "ClassID": "bb-rivadavia",
+    "ClassName": "Rivadavia Class",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
+    "ClassLaidDown": "1910-05-25",
+    "StandardDisplacement": 27900,
+
+    "ShipHorsePower": 40000,
+    "Speed": 22.5,
+    "Range": 13000,
+
+    "Caliber": 305,
+    "Broadside": 10,
+    "APShellSize": 305,
+
+    "ArmorBelt": 300,
+    "ArmorBeltAngle": 0
+}

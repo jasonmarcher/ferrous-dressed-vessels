@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-koningin-regentes",
+    "ClassName": "Koningin Regentes Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1900-04-24",
+    "StandardDisplacement": 5002,
+
+    "ShipHorsePower": 6500,
+    "Speed": 16.5,
+    "Range": 0,
+
+    "Caliber": 240,
+    "Broadside": 2,
+    "APShellSize": 170,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

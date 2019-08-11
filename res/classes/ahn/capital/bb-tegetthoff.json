@@ -1,0 +1,19 @@
+{
+    "ClassID": "bb-tegetthoff",
+    "ClassName": "Tegetthoff Class",
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
+    "ClassLaidDown": "1910-07-24",
+    "StandardDisplacement": 20000,
+
+    "ShipHorsePower": 26400,
+    "Speed": 20,
+    "Range": 7800,
+
+    "Caliber": 305,
+    "Broadside": 12,
+    "APShellSize": 450,
+
+    "ArmorBelt": 280,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-eversten",
+    "ClassName": "Eversten Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1894-08-16",
+    "StandardDisplacement": 3464,
+
+    "ShipHorsePower": 4700,
+    "Speed": 16,
+    "Range": 0,
+
+    "Caliber": 210,
+    "Broadside": 2,
+    "APShellSize": 140,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

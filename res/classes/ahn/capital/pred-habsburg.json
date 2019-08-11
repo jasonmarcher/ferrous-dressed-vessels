@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-habsburg",
+    "ClassName": "Habsburg Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1899-03-13",
+    "StandardDisplacement": 8364,
+
+    "ShipHorsePower": 15063,
+    "Speed": 19,
+    "Range": 0,
+
+    "Caliber": 240,
+    "Broadside": 3,
+    "APShellSize": 229,
+
+    "ArmorBelt": 220,
+    "ArmorBeltAngle": 0
+}
