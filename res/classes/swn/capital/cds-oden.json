@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-oden",
+    "ClassName": "Oden Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1894-06-01",
+    "StandardDisplacement": 3445,
+
+    "ShipHorsePower": 5350,
+    "Speed": 16.5,
+    "Range": 3704,
+
+    "Caliber": 254,
+    "Broadside": 2,
+    "APShellSize": 225,
+
+    "ArmorBelt": 243,
+    "ArmorBeltAngle": 0
+}

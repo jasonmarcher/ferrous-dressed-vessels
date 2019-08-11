@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-oscar-ii",
+    "ClassName": "Oscar II Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1899-10-01",
+    "StandardDisplacement": 4273,
+
+    "ShipHorsePower": 9400,
+    "Speed": 18,
+    "Range": 5463,
+
+    "Caliber": 209,
+    "Broadside": 2,
+    "APShellSize": 125,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

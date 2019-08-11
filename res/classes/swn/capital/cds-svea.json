@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-svea",
+    "ClassName": "Svea Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1884-03-01",
+    "StandardDisplacement": 3051,
+
+    "ShipHorsePower": 3640,
+    "Speed": 14.7,
+    "Range": 1537,
+
+    "Caliber": 254,
+    "Broadside": 2,
+    "APShellSize": 225,
+
+    "ArmorBelt": 297,
+    "ArmorBeltAngle": 0
+}

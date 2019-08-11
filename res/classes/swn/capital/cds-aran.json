@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-aran",
+    "ClassName": "Aran Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1899-10-01",
+    "StandardDisplacement": 3650,
+
+    "ShipHorsePower": 6500,
+    "Speed": 17,
+    "Range": 5556,
+
+    "Caliber": 209,
+    "Broadside": 2,
+    "APShellSize": 125,
+
+    "ArmorBelt": 175,
+    "ArmorBeltAngle": 0
+}

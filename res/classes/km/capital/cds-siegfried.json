@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-siegfried",
+    "ClassName": "Siegfried Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1888-06-01",
+    "StandardDisplacement": 3858,
+
+    "ShipHorsePower": 4800,
+    "Speed": 14,
+    "Range": 8900,
+
+    "Caliber": 240,
+    "Broadside": 2,
+    "APShellSize": 140,
+
+    "ArmorBelt": 240,
+    "ArmorBeltAngle": 0
+}

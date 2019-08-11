@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-dristigheten",
+    "ClassName": "Dristigheten Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1898-01-01",
+    "StandardDisplacement": 3445,
+
+    "ShipHorsePower": 5400,
+    "Speed": 16.5,
+    "Range": 3780,
+
+    "Caliber": 209,
+    "Broadside": 2,
+    "APShellSize": 125,
+
+    "ArmorBelt": 203,
+    "ArmorBeltAngle": 0
+}

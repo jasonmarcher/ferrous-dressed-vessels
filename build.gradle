@@ -13,7 +13,7 @@ import java.io.FileWriter
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVPrinter
 
-def nations = ['ahn','an','bn','cn','fn','ijn','km','mn','rm','rn','rnn','rus','sn','tn','usn']
+def nations = ['ahn','an','bn','cn','fn','ijn','km','mn','rm','rn','rnn','rus','sn','swn','tn','usn']
 
 task generateClassData {
     file(buildDir).mkdirs()

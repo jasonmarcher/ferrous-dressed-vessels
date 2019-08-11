@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-sverige",
+    "ClassName": "Sverige Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1912-12-12",
+    "StandardDisplacement": 6852,
+
+    "ShipHorsePower": 25400,
+    "Speed": 22.5,
+    "Range": 5037,
+
+    "Caliber": 283,
+    "Broadside": 4,
+    "APShellSize": 305,
+
+    "ArmorBelt": 200,
+    "ArmorBeltAngle": 0
+}
