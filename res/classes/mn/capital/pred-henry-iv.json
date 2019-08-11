@@ -1,0 +1,19 @@
+{
+    "ClassID": "pred-henry-iv",
+    "ClassName": "Henry IV Class",
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "ClassLaidDown": "1897-07-15",
+    "StandardDisplacement": 8807,
+
+    "ShipHorsePower": 11500,
+    "Speed": 17,
+    "Range": 14350,
+
+    "Caliber": 274,
+    "Broadside": 2,
+    "APShellSize": 216,
+
+    "ArmorBelt": 280,
+    "ArmorBeltAngle": 0
+}
