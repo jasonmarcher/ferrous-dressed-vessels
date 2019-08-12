@@ -8,67 +8,54 @@ buildscript {
     }
 }
 
+// plugins {
+//     id 'org.ships.gradle.ShipsPlugin'
+// }
+
 import groovy.json.JsonSlurper
 import java.io.FileWriter
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVPrinter
+import org.ships.gradle.tasks.GenerateClassDataset
 
-def nations = ['ahn','an','bn','cn','fn','ijn','km','mn','rm','rn','rnn','rus','sn','swn','tn','usn']
-
-task generateClassData {
-    file(buildDir).mkdirs()
-    def jsonSlurper = new JsonSlurper()
-    def printer = new CSVPrinter(new FileWriter("$buildDir/classes.csv"), CSVFormat.EXCEL)
-    printer.printRecord('ClassID','ClassName','Type','SubType','ClassLaidDown','StandardDisplacement','ShipHorsePower',
-        'Speed','Range','Caliber','Broadside','APShellSize','ArmorBelt','ArmorBeltAngle','Nation')
-
-    nations.each { nation ->
-        // println nation
-        def classFiles = project.fileTree("res/classes/$nation")
-        classFiles.forEach { classFile ->
-            def object = jsonSlurper.parseText(classFile.text)
-            // println object.getClass()
-            object.put('Nation', nation)
-            printer.printRecord(object.values())
-        }
-    }
-    printer.close(true)
-}
+task generateClassData(type: GenerateClassDataset) {}
 
 task generateConstructionData {
-    file(buildDir).mkdirs()
-    def jsonSlurper = new JsonSlurper()
-    def printer = new CSVPrinter(new FileWriter("$buildDir/construction.csv"), CSVFormat.EXCEL)
-    printer.printRecord('ClassID','ClassName','Classification','ClassLaidDown','StandardDisplacement','ShipHorsePower',
-        'Speed','Range','Caliber','Broadside','APShellSize','Nation','UniqueName','ShipName','Existance','LaidDown',
-        'Launched','Commissioned')
+    doLast {
+        file(buildDir).mkdirs()
+        def jsonSlurper = new JsonSlurper()
+        def printer = new CSVPrinter(new FileWriter("$buildDir/construction.csv"), CSVFormat.EXCEL)
+        printer.printRecord('ClassID','ClassName','Classification','ClassLaidDown','StandardDisplacement','ShipHorsePower',
+            'Speed','Range','Caliber','Broadside','APShellSize','Nation','UniqueName','ShipName','Existance','LaidDown',
+            'Launched','Commissioned')
 
-    nations.each { nation ->
-        // println nation
-        def classes = [:]
-        def classFiles = project.fileTree("res/classes/$nation")
-        classFiles.forEach { classFile ->
-            def object = jsonSlurper.parseText(classFile.text)
-            classes.put(object.ClassID, object)
-            // println object.getClass()
-            // printer.printRecord(object.values())
-        }
+        nations.each { nation ->
+            // println nation
+            def classes = [:]
+            def classFiles = project.fileTree("res/classes/$nation")
+            classFiles.forEach { classFile ->
+                def object = jsonSlurper.parseText(classFile.text)
+                classes.put(object.ClassID, object)
+                // println object.getClass()
+                // printer.printRecord(object.values())
+            }
 
-        def shipFiles = project.fileTree("res/ships/$nation")
-        shipFiles.forEach { shipFile ->
-            def ships = jsonSlurper.parseText(shipFile.text)
-            ships.each { ship ->
-                // println ship.getClass()
-                // classes[ship.ClassID].clone().putAll(ship)
-                def object = classes[ship.ClassID].clone()
-                object.put('Nation', nation)
-                object.put('UniqueName', "$object.ClassName $ship.ShipName")
-                object.putAll(ship)
-                printer.printRecord(object.values())
+            def shipFiles = project.fileTree("res/ships/$nation")
+            shipFiles.forEach { shipFile ->
+                def ships = jsonSlurper.parseText(shipFile.text)
+                ships.each { ship ->
+                    // println ship.getClass()
+                    // classes[ship.ClassID].clone().putAll(ship)
+                    def object = classes[ship.ClassID].clone()
+                    object.put('Nation', nation)
+                    object.put('UniqueName', "$object.ClassName $ship.ShipName")
+                    object.putAll(ship)
+                    printer.printRecord(object.values())
+                }
             }
         }
+        printer.close(true)
     }
-    printer.close(true)
 }
 
 task build {
