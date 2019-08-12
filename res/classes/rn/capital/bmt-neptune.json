@@ -1,0 +1,19 @@
+{
+    "ClassID": "bmt-neptune",
+    "ClassName": "Neptune Class",
+    "Type": "Battleship",
+    "SubType": "Masted Turret Ship",
+    "ClassLaidDown": "1873-06-01",
+    "StandardDisplacement": 9130,
+
+    "ShipHorsePower": 7993,
+    "Speed": 14,
+    "Range": 2740,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 390,
+
+    "ArmorBelt": 305,
+    "ArmorBeltAngle": 0
+}

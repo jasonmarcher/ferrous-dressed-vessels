@@ -1,0 +1,19 @@
+{
+    "ClassID": "bt-victoria",
+    "ClassName": "Victoria Class",
+    "Type": "Battleship",
+    "SubType": "Turret Ship",
+    "ClassLaidDown": "1885-04-21",
+    "StandardDisplacement": 10470,
+
+    "ShipHorsePower": 14240,
+    "Speed": 17.3,
+    "Range": 12964,
+
+    "Caliber": 413,
+    "Broadside": 2,
+    "APShellSize": 820,
+
+    "ArmorBelt": 457,
+    "ArmorBeltAngle": 0
+}

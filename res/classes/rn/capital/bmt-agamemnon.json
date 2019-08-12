@@ -1,0 +1,19 @@
+{
+    "ClassID": "bmt-agamemnon",
+    "ClassName": "Agamemnon Class",
+    "Type": "Battleship",
+    "SubType": "Masted Turret Ship",
+    "ClassLaidDown": "1876-03-21",
+    "StandardDisplacement": 8510,
+
+    "ShipHorsePower": 6000,
+    "Speed": 13,
+    "Range": 7593,
+
+    "Caliber": 318,
+    "Broadside": 2,
+    "APShellSize": 362,
+
+    "ArmorBelt": 457,
+    "ArmorBeltAngle": 0
+}

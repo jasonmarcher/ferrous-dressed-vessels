@@ -1,0 +1,19 @@
+{
+    "ClassID": "cds-odin",
+    "ClassName": "Odin Class",
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "ClassLaidDown": "1893-06-01",
+    "StandardDisplacement": 3913,
+
+    "ShipHorsePower": 4800,
+    "Speed": 15,
+    "Range": 4240,
+
+    "Caliber": 240,
+    "Broadside": 2,
+    "APShellSize": 140,
+
+    "ArmorBelt": 220,
+    "ArmorBeltAngle": 0
+}

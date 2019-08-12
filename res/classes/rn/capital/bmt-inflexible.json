@@ -1,0 +1,19 @@
+{
+    "ClassID": "bmt-inflexible",
+    "ClassName": "Inflexible Class",
+    "Type": "Battleship",
+    "SubType": "Masted Turret Ship",
+    "ClassLaidDown": "1874-02-24",
+    "StandardDisplacement": 11880,
+
+    "ShipHorsePower": 8488,
+    "Speed": 14.7,
+    "Range": 9630,
+
+    "Caliber": 406,
+    "Broadside": 2,
+    "APShellSize": 763,
+
+    "ArmorBelt": 610,
+    "ArmorBeltAngle": 0
+}
