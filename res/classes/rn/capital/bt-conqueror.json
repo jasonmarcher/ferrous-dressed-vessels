@@ -1,6 +1,8 @@
 {
     "ClassID": "bt-conqueror",
     "ClassName": "Conqueror Class",
+    "Nation": "rn",
+
     "Type": "Battleship",
     "SubType": "Turret Ship",
     "ClassLaidDown": "1879-04-28",

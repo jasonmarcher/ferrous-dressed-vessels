@@ -1,6 +1,8 @@
 {
     "ClassID": "bt-victoria",
     "ClassName": "Victoria Class",
+    "Nation": "rn",
+
     "Type": "Battleship",
     "SubType": "Turret Ship",
     "ClassLaidDown": "1885-04-21",

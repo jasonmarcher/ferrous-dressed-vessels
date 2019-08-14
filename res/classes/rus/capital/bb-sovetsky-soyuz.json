@@ -1,6 +1,8 @@
 {
     "ClassID": "bb-sovetsky-soyuz",
     "ClassName": "Sovetsky Soyuz Class",
+    "Nation": "rus",
+
     "Type": "Battleship",
     "SubType": "Fast Battleship",
     "ClassLaidDown": "1938-07-15",

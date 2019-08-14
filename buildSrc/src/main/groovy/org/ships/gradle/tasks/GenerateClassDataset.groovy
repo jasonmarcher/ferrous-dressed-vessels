@@ -8,6 +8,7 @@ import org.gradle.api.DefaultTask
 import org.gradle.api.tasks.TaskAction
 import org.ships.gradle.Nation
 import org.ships.gradle.Nations
+import org.ships.gradle.ShipClass
 
 class GenerateClassDataset extends DefaultTask {
     @TaskAction
@@ -16,18 +17,13 @@ class GenerateClassDataset extends DefaultTask {
 
         def jsonSlurper = new JsonSlurper()
         def printer = new CSVPrinter(new FileWriter("$project.buildDir/classes.csv"), CSVFormat.EXCEL)
-        printer.printRecord('ClassID','ClassName','Type','SubType','ClassLaidDown','StandardDisplacement','ShipHorsePower',
-            'Speed','Range','Caliber','Broadside','APShellSize','ArmorBelt','ArmorBeltAngle','Nation')
+        printer.printRecord('ClassID','ClassName','Nation','Type','SubType','ClassLaidDown','StandardDisplacement','ShipHorsePower',
+            'Speed','Range','Caliber','Broadside','APShellSize','ArmorBelt','ArmorBeltAngle')
 
-        Nations.nations.each { Nation nation ->
-            // println nation
-            def classFiles = project.fileTree("res/classes/$nation.id")
-            classFiles.forEach { classFile ->
-                def object = jsonSlurper.parseText(classFile.text)
-                // println object.getClass()
-                object.put('Nation', nation.id)
-                printer.printRecord(object.values())
-            }
+        def classFiles = project.fileTree("res/classes")
+        classFiles.forEach { classFile ->
+            def shipClass = new ShipClass(jsonSlurper.parseText(classFile.text))
+            shipClass.printRecord(printer)
         }
         printer.close(true)
     }

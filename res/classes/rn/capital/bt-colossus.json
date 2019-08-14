@@ -1,6 +1,8 @@
 {
     "ClassID": "bt-colossus",
     "ClassName": "Colossus Class",
+    "Nation": "rn",
+
     "Type": "Battleship",
     "SubType": "Turret Ship",
     "ClassLaidDown": "1879-06-06",

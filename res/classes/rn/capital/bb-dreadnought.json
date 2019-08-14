@@ -1,6 +1,8 @@
 {
     "ClassID": "bb-dreadnought",
     "ClassName": "Dreadnought Class",
+    "Nation": "rn",
+
     "Type": "Battleship",
     "SubType": "Dreadnought",
     "ClassLaidDown": "1905-10-02",

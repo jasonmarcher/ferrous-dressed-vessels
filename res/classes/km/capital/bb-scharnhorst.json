@@ -1,6 +1,8 @@
 {
     "ClassID": "bb-scharnhorst",
     "ClassName": "Scharnhorst Class",
+    "Nation": "km",
+
     "Type": "Battleship",
     "SubType": "Fast Battleship",
     "ClassLaidDown": "1935-05-06",
