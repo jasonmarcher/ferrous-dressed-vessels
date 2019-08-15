@@ -1,0 +1,21 @@
+{
+    "ClassID": "bt-capitan-prat",
+    "ClassName": "Capitan Prat Class",
+    "Nation": "cn",
+
+    "Type": "Battleship",
+    "SubType": "Turret Ship",
+    "ClassLaidDown": "1889-06-01",
+    "StandardDisplacement": 7607,
+
+    "ShipHorsePower": 12000,
+    "Speed": 18.3,
+    "Range": 0,
+
+    "Caliber": 240,
+    "Broadside": 3,
+    "APShellSize": 390,
+
+    "ArmorBelt": 300,
+    "ArmorBeltAngle": 0
+}

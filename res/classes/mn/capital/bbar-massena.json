@@ -1,0 +1,21 @@
+{
+    "ClassID": "bbar-massena",
+    "ClassName": "Massena Class",
+    "Nation": "mn",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "ClassLaidDown": "1892-09-01",
+    "StandardDisplacement": 11735,
+
+    "ShipHorsePower": 14200,
+    "Speed": 17,
+    "Range": 7408,
+
+    "Caliber": 340,
+    "Broadside": 2,
+    "APShellSize": 420,
+
+    "ArmorBelt": 460,
+    "ArmorBeltAngle": 0
+}

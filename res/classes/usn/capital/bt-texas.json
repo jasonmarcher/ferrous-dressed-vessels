@@ -1,0 +1,21 @@
+{
+    "ClassID": "bt-texas",
+    "ClassName": "Texas Class",
+    "Nation": "usn",
+
+    "Type": "Battleship",
+    "SubType": "Turret Ship",
+    "ClassLaidDown": "1889-06-01",
+    "StandardDisplacement": 6417,
+
+    "ShipHorsePower": 8610,
+    "Speed": 18.8,
+    "Range": 0,
+
+    "Caliber": 305,
+    "Broadside": 1,
+    "APShellSize": 390,
+
+    "ArmorBelt": 305,
+    "ArmorBeltAngle": 0
+}
