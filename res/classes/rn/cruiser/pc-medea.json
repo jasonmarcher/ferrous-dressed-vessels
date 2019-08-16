@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-medea",
+    "ClassName": "Medea Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1887-04-25",
+    "StandardDisplacement": 2800,
+
+    "ShipHorsePower": 9000,
+    "Speed": 20,
+    "Range": 14816,
+
+    "Caliber": 152,
+    "Broadside": 3,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

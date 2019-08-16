@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-mersey",
+    "ClassName": "Mersey Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1883-07-09",
+    "StandardDisplacement": 4050,
+
+    "ShipHorsePower": 4500,
+    "Speed": 17,
+    "Range": 16205,
+
+    "Caliber": 203,
+    "Broadside": 2,
+    "APShellSize": 95,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 75
+}

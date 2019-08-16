@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-amethyst",
+    "ClassName": "Amethyst Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1903-01-07",
+    "StandardDisplacement": 3000,
+
+    "ShipHorsePower": 12000,
+    "Speed": 22.5,
+    "Range": 10186,
+
+    "Caliber": 102,
+    "Broadside": 7,
+    "APShellSize": 14,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

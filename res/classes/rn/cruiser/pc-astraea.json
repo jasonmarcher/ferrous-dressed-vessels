@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-astraea",
+    "ClassName": "Astraea Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1890-08-14",
+    "StandardDisplacement": 4360,
+
+    "ShipHorsePower": 7500,
+    "Speed": 18,
+    "Range": 12964,
+
+    "Caliber": 152,
+    "Broadside": 2,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

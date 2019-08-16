@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-pelorus",
+    "ClassName": "Pelorus Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1895-05-01",
+    "StandardDisplacement": 2135,
+
+    "ShipHorsePower": 7000,
+    "Speed": 20,
+    "Range": 10186,
+
+    "Caliber": 102,
+    "Broadside": 4,
+    "APShellSize": 14,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-pearl",
+    "ClassName": "Pearl Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1889-04-01",
+    "StandardDisplacement": 2575,
+
+    "ShipHorsePower": 4500,
+    "Speed": 17.5,
+    "Range": 0,
+
+    "Caliber": 102,
+    "Broadside": 4,
+    "APShellSize": 14,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

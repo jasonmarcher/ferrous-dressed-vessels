@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-barracouta",
+    "ClassName": "Barracouta Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1888-05-01",
+    "StandardDisplacement": 1580,
+
+    "ShipHorsePower": 1750,
+    "Speed": 15,
+    "Range": 6296,
+
+    "Caliber": 102,
+    "Broadside": 3,
+    "APShellSize": 14,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}
