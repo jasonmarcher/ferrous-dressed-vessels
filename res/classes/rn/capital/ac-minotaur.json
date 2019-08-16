@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-minotaur",
+    "ClassName": "Minotaur Class",
+    "Nation": "rn",
+
+    "Type": "Battleship",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1905-01-02",
+    "StandardDisplacement": 14600,
+
+    "ShipHorsePower": 27000,
+    "Speed": 23,
+    "Range": 15093,
+
+    "Caliber": 234,
+    "Broadside": 4,
+    "APShellSize": 172,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}

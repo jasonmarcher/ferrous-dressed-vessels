@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-drake",
+    "ClassName": "Drake Class",
+    "Nation": "rn",
+
+    "Type": "Battleship",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1899-04-24",
+    "StandardDisplacement": 14150,
+
+    "ShipHorsePower": 30000,
+    "Speed": 23,
+    "Range": 12964,
+
+    "Caliber": 234,
+    "Broadside": 2,
+    "APShellSize": 172,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}

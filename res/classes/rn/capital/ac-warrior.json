@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-warrior",
+    "ClassName": "Warrior Class",
+    "Nation": "rn",
+
+    "Type": "Battleship",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1903-11-05",
+    "StandardDisplacement": 13550,
+
+    "ShipHorsePower": 23000,
+    "Speed": 23,
+    "Range": 10741,
+
+    "Caliber": 234,
+    "Broadside": 4,
+    "APShellSize": 172,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}

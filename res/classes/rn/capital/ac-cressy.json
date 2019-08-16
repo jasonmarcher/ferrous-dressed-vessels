@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-cressy",
+    "ClassName": "Cressy Class",
+    "Nation": "rn",
+
+    "Type": "Battleship",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1898-02-15",
+    "StandardDisplacement": 12000,
+
+    "ShipHorsePower": 21000,
+    "Speed": 21,
+    "Range": 4833,
+
+    "Caliber": 234,
+    "Broadside": 2,
+    "APShellSize": 172,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}
