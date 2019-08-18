@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-brooklyn",
+    "ClassName": "Brooklyn Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1893-08-02",
+    "StandardDisplacement": 9215,
+
+    "ShipHorsePower": 16000,
+    "Speed": 20,
+    "Range": 11274,
+
+    "Caliber": 203,
+    "Broadside": 6,
+    "APShellSize": 120,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

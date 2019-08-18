@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-pennsylvania",
+    "ClassName": "Pennsylvania Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1901-04-25",
+    "StandardDisplacement": 13680,
+
+    "ShipHorsePower": 23000,
+    "Speed": 22,
+    "Range": 9260,
+
+    "Caliber": 203,
+    "Broadside": 4,
+    "APShellSize": 120,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-new-york",
+    "ClassName": "New York Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1890-09-30",
+    "StandardDisplacement": 8200,
+
+    "ShipHorsePower": 16000,
+    "Speed": 20,
+    "Range": 7408,
+
+    "Caliber": 203,
+    "Broadside": 4,
+    "APShellSize": 120,
+
+    "ArmorBelt": 102,
+    "ArmorBeltAngle": 0
+}

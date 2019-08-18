@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-st-louis",
+    "ClassName": "St. Louis Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1902-01-30",
+    "StandardDisplacement": 9700,
+
+    "ShipHorsePower": 21000,
+    "Speed": 22,
+    "Range": 11482,
+
+    "Caliber": 152,
+    "Broadside": 8,
+    "APShellSize": 48,
+
+    "ArmorBelt": 102,
+    "ArmorBeltAngle": 0
+}
