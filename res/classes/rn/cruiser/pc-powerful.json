@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-powerful",
+    "ClassName": "Powerful Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1894-03-01",
+    "StandardDisplacement": 14200,
+
+    "ShipHorsePower": 25000,
+    "Speed": 22,
+    "Range": 12964,
+
+    "Caliber": 234,
+    "Broadside": 2,
+    "APShellSize": 170,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 152
+}

@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-orlando",
+    "ClassName": "Orlando Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1885-04-21",
+    "StandardDisplacement": 5600,
+
+    "ShipHorsePower": 5500,
+    "Speed": 21,
+    "Range": 14816,
+
+    "Caliber": 234,
+    "Broadside": 2,
+    "APShellSize": 172,
+
+    "ArmorBelt": 254,
+    "ArmorBeltAngle": 0
+}

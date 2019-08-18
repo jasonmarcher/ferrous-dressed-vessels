@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-imperieuse",
+    "ClassName": "Imperieuse Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1881-08-10",
+    "StandardDisplacement": 8500,
+
+    "ShipHorsePower": 8000,
+    "Speed": 16,
+    "Range": 12964,
+
+    "Caliber": 234,
+    "Broadside": 3,
+    "APShellSize": 172,
+
+    "ArmorBelt": 254,
+    "ArmorBeltAngle": 0
+}

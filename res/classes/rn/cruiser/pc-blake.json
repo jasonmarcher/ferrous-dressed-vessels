@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-blake",
+    "ClassName": "Blake Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1888-07-01",
+    "StandardDisplacement": 9150,
+
+    "ShipHorsePower": 13000,
+    "Speed": 19,
+    "Range": 18520,
+
+    "Caliber": 234,
+    "Broadside": 2,
+    "APShellSize": 170,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 152
+}
