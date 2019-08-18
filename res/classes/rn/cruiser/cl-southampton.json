@@ -5,17 +5,18 @@
 
     "Type": "Cruiser",
     "SubType": "Light Cruiser",
+    "Existance": "Built",
     "ClassLaidDown": "1934-10-04",
-    "StandardDisplacement": 11730,
+    "StandardDisplacement": 9100,
 
     "ShipHorsePower": 75000,
     "Speed": 32,
-    "Range": 9800,
+    "Range": 22409,
 
     "Caliber": 152,
     "Broadside": 12,
     "APShellSize": 51,
 
-    "ArmorBelt": 89,
+    "ArmorBelt": 114,
     "ArmorBeltAngle": 0
 }

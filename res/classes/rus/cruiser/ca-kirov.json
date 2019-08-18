@@ -5,10 +5,11 @@
 
     "Type": "Cruiser",
     "SubType": "Heavy Cruiser",
+    "Existance": "Built",
     "ClassLaidDown": "1935-10-15",
     "StandardDisplacement": 7890,
 
-    "ShipHorsePower": 113500,
+    "ShipHorsePower": 110000,
     "Speed": 36,
     "Range": 6940,
 

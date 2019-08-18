@@ -5,12 +5,13 @@
 
     "Type": "Battlecruiser",
     "SubType": "Battlecruiser",
+    "Existance": "Cancelled",
     "ClassLaidDown": "1915-01-30",
     "StandardDisplacement": 31000,
 
-    "ShipHorsePower": 88769,
+    "ShipHorsePower": 90000,
     "Speed": 28,
-    "Range": 15000,
+    "Range": 14816,
 
     "Caliber": 350,
     "Broadside": 8,

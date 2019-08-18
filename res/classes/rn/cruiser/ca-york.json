@@ -5,6 +5,7 @@
 
     "Type": "Cruiser",
     "SubType": "Heavy Cruiser",
+    "Existance": "Built",
     "ClassLaidDown": "1927-05-16",
     "StandardDisplacement": 8250,
 
@@ -16,6 +17,6 @@
     "Broadside": 6,
     "APShellSize": 116,
 
-    "ArmorBelt": 75,
+    "ArmorBelt": 76,
     "ArmorBeltAngle": 0
 }

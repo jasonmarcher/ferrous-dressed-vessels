@@ -5,12 +5,13 @@
 
     "Type": "Battleship",
     "SubType": "Dreadnought",
-    "ClassLaidDown": "1913-08-01",
-    "StandardDisplacement": 32200,
+    "Existance": "Built",
+    "ClassLaidDown": "1913-12-20",
+    "StandardDisplacement": 28530,
 
-    "ShipHorsePower": 34521,
+    "ShipHorsePower": 48000,
     "Speed": 21,
-    "Range": 9300,
+    "Range": 9260,
 
     "Caliber": 380,
     "Broadside": 8,

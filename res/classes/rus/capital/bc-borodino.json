@@ -1,21 +1,22 @@
 {
-    "ClassID": "bc-borodino",
-    "ClassName": "Borodino Class",
+    "ClassID": "bc-izmail",
+    "ClassName": "Izmail Class",
     "Nation": "rus",
 
     "Type": "Battlecruiser",
     "SubType": "Battlecruiser",
-    "ClassLaidDown": "1915-06-22",
-    "StandardDisplacement": 33022,
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1913-12-19",
+    "StandardDisplacement": 32500,
 
     "ShipHorsePower": 66000,
     "Speed": 26.5,
-    "Range": 0,
+    "Range": 7093,
 
     "Caliber": 356,
     "Broadside": 12,
     "APShellSize": 747,
 
-    "ArmorBelt": 237,
+    "ArmorBelt": 238,
     "ArmorBeltAngle": 0
 }

@@ -5,8 +5,9 @@
 
     "Type": "Cruiser",
     "SubType": "Light Cruiser",
+    "Existance": "Built",
     "ClassLaidDown": "1939-03-01",
-    "StandardDisplacement": 10840,
+    "StandardDisplacement": 8530,
 
     "ShipHorsePower": 80000,
     "Speed": 32,
