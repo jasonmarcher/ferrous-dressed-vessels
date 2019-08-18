@@ -1,0 +1,22 @@
+{
+    "ClassID": "bc-hindenburg",
+    "ClassName": "Hindenburg Class",
+    "Nation": "km",
+
+    "Type": "Battlecruiser",
+    "SubType": "Battlecruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1913-06-30",
+    "StandardDisplacement": 26947,
+
+    "ShipHorsePower": 72000,
+    "Speed": 27,
+    "Range": 11297,
+
+    "Caliber": 305,
+    "Broadside": 8,
+    "APShellSize": 405,
+
+    "ArmorBelt": 300,
+    "ArmorBeltAngle": 0
+}

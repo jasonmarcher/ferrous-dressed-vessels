@@ -1,0 +1,22 @@
+{
+    "ClassID": "bb-sachsen",
+    "ClassName": "Sachsen Class",
+    "Nation": "km",
+
+    "Type": "Battleship",
+    "SubType": "Dreadnought",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1914-04-07",
+    "StandardDisplacement": 28800,
+
+    "ShipHorsePower": 48000,
+    "Speed": 22,
+    "Range": 9260,
+
+    "Caliber": 380,
+    "Broadside": 8,
+    "APShellSize": 750,
+
+    "ArmorBelt": 350,
+    "ArmorBeltAngle": 0
+}
