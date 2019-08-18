@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-columbia",
+    "ClassName": "Columbia Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1890-21-30",
+    "StandardDisplacement": 7375,
+
+    "ShipHorsePower": 21000,
+    "Speed": 21,
+    "Range": 35188,
+
+    "Caliber": 203,
+    "Broadside": 1,
+    "APShellSize": 120,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 121
+}

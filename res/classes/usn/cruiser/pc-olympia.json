@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-olympia",
+    "ClassName": "Olympia Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1895-03-01",
+    "StandardDisplacement": 5865,
+
+    "ShipHorsePower": 13500,
+    "Speed": 20,
+    "Range": 24076,
+
+    "Caliber": 203,
+    "Broadside": 4,
+    "APShellSize": 120,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 121
+}

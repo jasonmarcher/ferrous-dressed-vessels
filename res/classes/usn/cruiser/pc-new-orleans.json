@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-new-orleans",
+    "ClassName": "New Orleans Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1895-03-01",
+    "StandardDisplacement": 3769,
+
+    "ShipHorsePower": 7500,
+    "Speed": 20,
+    "Range": 7408,
+
+    "Caliber": 152,
+    "Broadside": 3,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 89
+}

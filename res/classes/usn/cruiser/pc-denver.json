@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-denver",
+    "ClassName": "Denver Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1900-03-29",
+    "StandardDisplacement": 3200,
+
+    "ShipHorsePower": 4500,
+    "Speed": 16.5,
+    "Range": 12778,
+
+    "Caliber": 127,
+    "Broadside": 6,
+    "APShellSize": 27,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 64
+}

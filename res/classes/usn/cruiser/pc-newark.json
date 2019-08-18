@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-newark",
+    "ClassName": "Newark Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1888-06-12",
+    "StandardDisplacement": 4083,
+
+    "ShipHorsePower": 8500,
+    "Speed": 18,
+    "Range": 13704,
+
+    "Caliber": 152,
+    "Broadside": 6,
+    "APShellSize": 48,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 76
+}

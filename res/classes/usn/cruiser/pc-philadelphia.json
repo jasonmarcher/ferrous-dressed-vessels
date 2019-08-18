@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-philadelphia",
+    "ClassName": "Philadelphia Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1888-03-07",
+    "StandardDisplacement": 4324,
+
+    "ShipHorsePower": 9000,
+    "Speed": 19,
+    "Range": 12593,
+
+    "Caliber": 152,
+    "Broadside": 6,
+    "APShellSize": 48,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 102
+}

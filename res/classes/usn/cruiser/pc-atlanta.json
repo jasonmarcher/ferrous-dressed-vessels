@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-atlanta",
+    "ClassName": "Atlanta Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1883-11-08",
+    "StandardDisplacement": 3189,
+
+    "ShipHorsePower": 3500,
+    "Speed": 13,
+    "Range": 0,
+
+    "Caliber": 203,
+    "Broadside": 2,
+    "APShellSize": 120,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 38
+}

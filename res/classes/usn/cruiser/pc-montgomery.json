@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-montgomery",
+    "ClassName": "Montgomery Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1890-02-01",
+    "StandardDisplacement": 2094,
+
+    "ShipHorsePower": 5400,
+    "Speed": 17,
+    "Range": 0,
+
+    "Caliber": 127,
+    "Broadside": 6,
+    "APShellSize": 23,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 13
+}

@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-cincinnati",
+    "ClassName": "Cincinnati Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1889-21-19",
+    "StandardDisplacement": 3183,
+
+    "ShipHorsePower": 10000,
+    "Speed": 19,
+    "Range": 19816,
+
+    "Caliber": 152,
+    "Broadside": 1,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 64
+}

@@ -1,0 +1,22 @@
+{
+    "ClassID": "pc-chicago",
+    "ClassName": "Chicago Class",
+    "Nation": "usn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1883-12-29",
+    "StandardDisplacement": 4500,
+
+    "ShipHorsePower": 5000,
+    "Speed": 14,
+    "Range": 9815,
+
+    "Caliber": 203,
+    "Broadside": 2,
+    "APShellSize": 120,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 38
+}
