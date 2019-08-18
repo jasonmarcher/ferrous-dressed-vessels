@@ -1,0 +1,21 @@
+{
+    "ClassID": "cl-oyodo",
+    "ClassName": "Oyodo Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1941-02-14",
+    "StandardDisplacement": 8534,
+
+    "ShipHorsePower": 110000,
+    "Speed": 35,
+    "Range": 19631,
+
+    "Caliber": 155,
+    "Broadside": 6,
+    "APShellSize": 56,
+
+    "ArmorBelt": 75,
+    "ArmorBeltAngle": 0
+}

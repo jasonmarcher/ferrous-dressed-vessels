@@ -1,0 +1,21 @@
+{
+    "ClassID": "cl-kuma",
+    "ClassName": "Kuma Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1918-08-10",
+    "StandardDisplacement": 5500,
+
+    "ShipHorsePower": 90000,
+    "Speed": 36,
+    "Range": 7408,
+
+    "Caliber": 140,
+    "Broadside": 6,
+    "APShellSize": 38,
+
+    "ArmorBelt": 63,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,21 @@
+{
+    "ClassID": "ca-tone",
+    "ClassName": "Tone Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1934-12-01",
+    "StandardDisplacement": 11215,
+
+    "ShipHorsePower": 152000,
+    "Speed": 35,
+    "Range": 14816,
+
+    "Caliber": 203,
+    "Broadside": 8,
+    "APShellSize": 126,
+
+    "ArmorBelt": 145,
+    "ArmorBeltAngle": 0
+}

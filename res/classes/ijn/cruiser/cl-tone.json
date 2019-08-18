@@ -1,0 +1,21 @@
+{
+    "ClassID": "cl-tone",
+    "ClassName": "Tone Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1905-11-17",
+    "StandardDisplacement": 4113,
+
+    "ShipHorsePower": 15000,
+    "Speed": 23,
+    "Range": 13593,
+
+    "Caliber": 152,
+    "Broadside": 2,
+    "APShellSize": 22,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

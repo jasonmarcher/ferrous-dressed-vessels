@@ -1,0 +1,21 @@
+{
+    "ClassID": "cl-tenryu",
+    "ClassName": "Tenryu Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1917-05-17",
+    "StandardDisplacement": 3948,
+
+    "ShipHorsePower": 51000,
+    "Speed": 33,
+    "Range": 11112,
+
+    "Caliber": 140,
+    "Broadside": 4,
+    "APShellSize": 38,
+
+    "ArmorBelt": 63,
+    "ArmorBeltAngle": 0
+}

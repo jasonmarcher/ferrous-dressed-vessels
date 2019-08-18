@@ -1,0 +1,21 @@
+{
+    "ClassID": "cl-yubari",
+    "ClassName": "Yubari Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1922-06-05",
+    "StandardDisplacement": 3387,
+
+    "ShipHorsePower": 57750,
+    "Speed": 35.5,
+    "Range": 10186,
+
+    "Caliber": 140,
+    "Broadside": 4,
+    "APShellSize": 38,
+
+    "ArmorBelt": 57,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,21 @@
+{
+    "ClassID": "cl-chikuma",
+    "ClassName": "Chikuma Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1909-04-01",
+    "StandardDisplacement": 5000,
+
+    "ShipHorsePower": 22500,
+    "Speed": 26,
+    "Range": 18520,
+
+    "Caliber": 152,
+    "Broadside": 4,
+    "APShellSize": 22,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

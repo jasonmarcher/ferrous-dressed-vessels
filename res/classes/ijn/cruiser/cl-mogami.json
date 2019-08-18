@@ -1,0 +1,21 @@
+{
+    "ClassID": "cl-mogami",
+    "ClassName": "Mogami Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1934-03-14",
+    "StandardDisplacement": 11200,
+
+    "ShipHorsePower": 152000,
+    "Speed": 37,
+    "Range": 15093,
+
+    "Caliber": 155,
+    "Broadside": 15,
+    "APShellSize": 56,
+
+    "ArmorBelt": 140,
+    "ArmorBeltAngle": 0
+}

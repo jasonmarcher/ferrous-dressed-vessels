@@ -1,0 +1,21 @@
+{
+    "ClassID": "cl-sendai",
+    "ClassName": "Sendai Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1922-02-15",
+    "StandardDisplacement": 5195,
+
+    "ShipHorsePower": 90000,
+    "Speed": 35.2,
+    "Range": 11112,
+
+    "Caliber": 140,
+    "Broadside": 6,
+    "APShellSize": 38,
+
+    "ArmorBelt": 64,
+    "ArmorBeltAngle": 0
+}

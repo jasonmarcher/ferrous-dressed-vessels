@@ -1,0 +1,21 @@
+{
+    "ClassID": "ca-myoko",
+    "ClassName": "Myoko Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1924-10-25",
+    "StandardDisplacement": 10000,
+
+    "ShipHorsePower": 130000,
+    "Speed": 35.5,
+    "Range": 13890,
+
+    "Caliber": 200,
+    "Broadside": 10,
+    "APShellSize": 110,
+
+    "ArmorBelt": 102,
+    "ArmorBeltAngle": 0
+}

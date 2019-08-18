@@ -1,0 +1,21 @@
+{
+    "ClassID": "cl-agano",
+    "ClassName": "Agano Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "ClassLaidDown": "1940-06-18",
+    "StandardDisplacement": 6652,
+
+    "ShipHorsePower": 100000,
+    "Speed": 35,
+    "Range": 11667,
+
+    "Caliber": 152,
+    "Broadside": 6,
+    "APShellSize": 45,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,21 @@
+{
+    "ClassID": "ca-furutaka",
+    "ClassName": "Furutaka Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "ClassLaidDown": "1922-11-17",
+    "StandardDisplacement": 8100,
+
+    "ShipHorsePower": 102000,
+    "Speed": 34.5,
+    "Range": 11112,
+
+    "Caliber": 200,
+    "Broadside": 6,
+    "APShellSize": 110,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}
