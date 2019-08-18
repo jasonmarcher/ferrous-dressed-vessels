@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-chitose",
+    "ClassName": "Chitose Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1897-03-01",
+    "StandardDisplacement": 4760,
+
+    "ShipHorsePower": 15000,
+    "Speed": 22.5,
+    "Range": 7778,
+
+    "Caliber": 203,
+    "Broadside": 2,
+    "APShellSize": 113,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 114
+}

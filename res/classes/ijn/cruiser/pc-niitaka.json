@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-niitaka",
+    "ClassName": "Niitaka Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1901-10-01",
+    "StandardDisplacement": 3366,
+
+    "ShipHorsePower": 9500,
+    "Speed": 20,
+    "Range": 7408,
+
+    "Caliber": 152,
+    "Broadside": 4,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 64
+}

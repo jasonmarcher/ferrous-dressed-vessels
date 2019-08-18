@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-izumo",
+    "ClassName": "Izumo Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1898-05-01",
+    "StandardDisplacement": 9750,
+
+    "ShipHorsePower": 14500,
+    "Speed": 20.8,
+    "Range": 12964,
+
+    "Caliber": 203,
+    "Broadside": 4,
+    "APShellSize": 113,
+
+    "ArmorBelt": 178,
+    "ArmorBeltAngle": 0
+}

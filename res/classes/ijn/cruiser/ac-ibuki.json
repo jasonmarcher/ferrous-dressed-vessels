@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-ibuki",
+    "ClassName": "Ibuki Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1905-08-23",
+    "StandardDisplacement": 14636,
+
+    "ShipHorsePower": 24000,
+    "Speed": 21.5,
+    "Range": 16668,
+
+    "Caliber": 305,
+    "Broadside": 4,
+    "APShellSize": 385,
+
+    "ArmorBelt": 178,
+    "ArmorBeltAngle": 0
+}

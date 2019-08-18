@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-tsugaru",
+    "ClassName": "Tsugaru Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1896-07-01",
+    "StandardDisplacement": 6823,
+
+    "ShipHorsePower": 12000,
+    "Speed": 19,
+    "Range": 6852,
+
+    "Caliber": 152,
+    "Broadside": 5,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 76
+}

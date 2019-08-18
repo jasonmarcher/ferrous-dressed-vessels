@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-akitsushima",
+    "ClassName": "Akitsushima Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1890-03-01",
+    "StandardDisplacement": 3100,
+
+    "ShipHorsePower": 8400,
+    "Speed": 19,
+    "Range": 0,
+
+    "Caliber": 152,
+    "Broadside": 2,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 76
+}

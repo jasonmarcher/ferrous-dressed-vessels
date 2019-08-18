@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-takasago",
+    "ClassName": "Takasago Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1896-04-01",
+    "StandardDisplacement": 4160,
+
+    "ShipHorsePower": 15500,
+    "Speed": 23.5,
+    "Range": 10186,
+
+    "Caliber": 203,
+    "Broadside": 2,
+    "APShellSize": 113,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 114
+}

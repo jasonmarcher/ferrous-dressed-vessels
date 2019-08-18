@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-yakumo",
+    "ClassName": "Yakumo Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1898-03-01",
+    "StandardDisplacement": 9646,
+
+    "ShipHorsePower": 15500,
+    "Speed": 20.5,
+    "Range": 12964,
+
+    "Caliber": 203,
+    "Broadside": 4,
+    "APShellSize": 113,
+
+    "ArmorBelt": 178,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,21 @@
+{
+    "ClassID": "ac-chiyoda",
+    "ClassName": "Chiyoda Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "ClassLaidDown": "1888-12-04",
+    "StandardDisplacement": 2400,
+
+    "ShipHorsePower": 5600,
+    "Speed": 19,
+    "Range": 14816,
+
+    "Caliber": 120,
+    "Broadside": 6,
+    "APShellSize": 20,
+
+    "ArmorBelt": 92,
+    "ArmorBeltAngle": 0
+}

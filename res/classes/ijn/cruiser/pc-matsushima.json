@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-matsushima",
+    "ClassName": "Matsushima Class",
+    "Nation": "ijn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "ClassLaidDown": "1888-01-07",
+    "StandardDisplacement": 4217,
+
+    "ShipHorsePower": 5400,
+    "Speed": 16.5,
+    "Range": 10186,
+
+    "Caliber": 320,
+    "Broadside": 1,
+    "APShellSize": 350,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 40
+}
