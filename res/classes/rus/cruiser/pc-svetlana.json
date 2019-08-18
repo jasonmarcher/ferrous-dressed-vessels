@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-svetlana",
+    "ClassName": "Svetlana Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-07-10",
+    "StandardDisplacement": 3770,
+
+    "ShipHorsePower": 8500,
+    "Speed": 21.6,
+    "Range": 6482,
+
+    "Caliber": 152,
+    "Broadside": 4,
+    "APShellSize": 41,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 63
+}

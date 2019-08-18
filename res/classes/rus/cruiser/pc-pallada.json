@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-pallada",
+    "ClassName": "Pallada Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1897-06-04",
+    "StandardDisplacement": 6731,
+
+    "ShipHorsePower": 11610,
+    "Speed": 19.2,
+    "Range": 6852,
+
+    "Caliber": 152,
+    "Broadside": 5,
+    "APShellSize": 41,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 63
+}

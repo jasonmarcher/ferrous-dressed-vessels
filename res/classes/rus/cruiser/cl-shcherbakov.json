@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-shcherbakov",
+    "ClassName": "Shcherbakov Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1951-06-01",
+    "StandardDisplacement": 13720,
+
+    "ShipHorsePower": 110000,
+    "Speed": 31.5,
+    "Range": 12964,
+
+    "Caliber": 152,
+    "Broadside": 12,
+    "APShellSize": 55,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}

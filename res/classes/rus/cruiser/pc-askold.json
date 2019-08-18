@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-askold",
+    "ClassName": "Askold Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1899-07-20",
+    "StandardDisplacement": 5860,
+
+    "ShipHorsePower": 19000,
+    "Speed": 23,
+    "Range": 7963,
+
+    "Caliber": 152,
+    "Broadside": 7,
+    "APShellSize": 41,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 76
+}

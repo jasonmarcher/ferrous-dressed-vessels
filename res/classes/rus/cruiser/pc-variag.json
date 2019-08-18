@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-variag",
+    "ClassName": "Variag Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1899-05-22",
+    "StandardDisplacement": 6500,
+
+    "ShipHorsePower": 21000,
+    "Speed": 23.2,
+    "Range": 6815,
+
+    "Caliber": 152,
+    "Broadside": 7,
+    "APShellSize": 41,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 76
+}

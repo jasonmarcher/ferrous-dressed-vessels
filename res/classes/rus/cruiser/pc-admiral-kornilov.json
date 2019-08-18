@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-admiral-kornilov",
+    "ClassName": "Admiral Kornilov Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1885-11-12",
+    "StandardDisplacement": 5377,
+
+    "ShipHorsePower": 5977,
+    "Speed": 17.6,
+    "Range": 9260,
+
+    "Caliber": 152,
+    "Broadside": 7,
+    "APShellSize": 41,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 63
+}

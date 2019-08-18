@@ -1,16 +1,17 @@
 {
-    "ClassID": "cl-pillau",
-    "ClassName": "Pillau Class",
-    "Nation": "km",
+    "ClassID": "cl-muravyov-amurskiy",
+    "ClassName": "Muravyov-Amurskiy Class",
+    "Nation": "rus",
 
     "Type": "Cruiser",
     "SubType": "Light Cruiser",
-    "ClassLaidDown": "1913-06-01",
+    "Existance": "Built",
+    "ClassLaidDown": "1913-09-23",
     "StandardDisplacement": 4390,
 
     "ShipHorsePower": 30000,
     "Speed": 27.5,
-    "Range": 7960,
+    "Range": 7963,
 
     "Caliber": 150,
     "Broadside": 4,

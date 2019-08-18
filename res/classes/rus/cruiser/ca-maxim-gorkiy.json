@@ -1,0 +1,22 @@
+{
+    "ClassID": "ca-maxim-gorkiy",
+    "ClassName": "Maxim Gorkiy Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1936-12-20",
+    "StandardDisplacement": 8048,
+
+    "ShipHorsePower": 110000,
+    "Speed": 35,
+    "Range": 9445,
+
+    "Caliber": 180,
+    "Broadside": 9,
+    "APShellSize": 97,
+
+    "ArmorBelt": 70,
+    "ArmorBeltAngle": 0
+}
