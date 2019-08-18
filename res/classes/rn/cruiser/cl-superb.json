@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-superb",
+    "ClassName": "Superb Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1942-06-23",
+    "StandardDisplacement": 8885,
+
+    "ShipHorsePower": 72500,
+    "Speed": 31.5,
+    "Range": 22409,
+
+    "Caliber": 152,
+    "Broadside": 9,
+    "APShellSize": 51,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}

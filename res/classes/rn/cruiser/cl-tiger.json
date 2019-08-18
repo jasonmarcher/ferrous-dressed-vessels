@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-tiger",
+    "ClassName": "Tiger Class",
+    "Nation": "rn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1941-10-01",
+    "StandardDisplacement": 9550,
+
+    "ShipHorsePower": 80000,
+    "Speed": 31.5,
+    "Range": 22409,
+
+    "Caliber": 152,
+    "Broadside": 4,
+    "APShellSize": 51,
+
+    "ArmorBelt": 89,
+    "ArmorBeltAngle": 0
+}
