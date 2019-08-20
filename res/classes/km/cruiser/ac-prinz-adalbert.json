@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-prinz-adalbert",
+    "ClassName": "Prinz Adalbert Class",
+    "Nation": "km",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1900-03-01",
+    "StandardDisplacement": 9087,
+
+    "ShipHorsePower": 17000,
+    "Speed": 20.5,
+    "Range": 9204,
+
+    "Caliber": 209,
+    "Broadside": 4,
+    "APShellSize": 108,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}

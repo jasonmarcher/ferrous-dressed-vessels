@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-roon",
+    "ClassName": "Roon Class",
+    "Nation": "km",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1902-03-01",
+    "StandardDisplacement": 9533,
+
+    "ShipHorsePower": 19000,
+    "Speed": 21,
+    "Range": 7778,
+
+    "Caliber": 209,
+    "Broadside": 4,
+    "APShellSize": 108,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}

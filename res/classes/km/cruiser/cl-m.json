@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-m",
+    "ClassName": "M Class",
+    "Nation": "km",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1938-01-01",
+    "StandardDisplacement": 7800,
+
+    "ShipHorsePower": 116500,
+    "Speed": 35.5,
+    "Range": 14816,
+
+    "Caliber": 149,
+    "Broadside": 8,
+    "APShellSize": 45,
+
+    "ArmorBelt": 50,
+    "ArmorBeltAngle": 0
+}

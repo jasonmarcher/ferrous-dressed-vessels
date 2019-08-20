@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-scharnhorst",
+    "ClassName": "Scharnhorst Class",
+    "Nation": "km",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1904-03-01",
+    "StandardDisplacement": 11616,
+
+    "ShipHorsePower": 26000,
+    "Speed": 22.5,
+    "Range": 9482,
+
+    "Caliber": 209,
+    "Broadside": 4,
+    "APShellSize": 108,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

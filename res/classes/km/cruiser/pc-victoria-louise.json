@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-victoria-louise",
+    "ClassName": "Victoria Louise Class",
+    "Nation": "km",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-01-01",
+    "StandardDisplacement": 5660,
+
+    "ShipHorsePower": 10000,
+    "Speed": 19.5,
+    "Range": 6319,
+
+    "Caliber": 209,
+    "Broadside": 2,
+    "APShellSize": 108,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 100
+}

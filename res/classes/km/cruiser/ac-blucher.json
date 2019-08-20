@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-blucher",
+    "ClassName": "Blucher Class",
+    "Nation": "km",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1907-02-21",
+    "StandardDisplacement": 15842,
+
+    "ShipHorsePower": 32000,
+    "Speed": 24.5,
+    "Range": 12223,
+
+    "Caliber": 209,
+    "Broadside": 8,
+    "APShellSize": 108,
+
+    "ArmorBelt": 180,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,22 @@
+{
+    "ClassID": "cs-spahkreuzer",
+    "ClassName": "Spahkreuzer Class",
+    "Nation": "km",
+
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1941-01-01",
+    "StandardDisplacement": 5037,
+
+    "ShipHorsePower": 92000,
+    "Speed": 35.5,
+    "Range": 14816,
+
+    "Caliber": 149,
+    "Broadside": 6,
+    "APShellSize": 45,
+
+    "ArmorBelt": 15,
+    "ArmorBeltAngle": 0
+}

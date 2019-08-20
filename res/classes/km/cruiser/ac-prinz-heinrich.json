@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-prinz-heinrich",
+    "ClassName": "Prinz Heinrich Class",
+    "Nation": "km",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1898-03-01",
+    "StandardDisplacement": 8887,
+
+    "ShipHorsePower": 15000,
+    "Speed": 20,
+    "Range": 8482,
+
+    "Caliber": 238,
+    "Broadside": 2,
+    "APShellSize": 140,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}
