@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-sfax",
+    "ClassName": "Sfax Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1882-03-01",
+    "StandardDisplacement": 4561,
+
+    "ShipHorsePower": 6500,
+    "Speed": 16.7,
+    "Range": 9260,
+
+    "Caliber": 165,
+    "Broadside": 2,
+    "APShellSize": 50,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 60
+}

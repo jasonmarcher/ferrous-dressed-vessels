@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-catinat",
+    "ClassName": "Catinat Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1894-03-01",
+    "StandardDisplacement": 4048,
+
+    "ShipHorsePower": 9500,
+    "Speed": 19.2,
+    "Range": 11112,
+
+    "Caliber": 165,
+    "Broadside": 2,
+    "APShellSize": 50,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 60
+}

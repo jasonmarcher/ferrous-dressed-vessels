@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-amiral-cecille",
+    "ClassName": "Amiral Cecille Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1886-08-01",
+    "StandardDisplacement": 5839,
+
+    "ShipHorsePower": 10200,
+    "Speed": 19.4,
+    "Range": 14816,
+
+    "Caliber": 165,
+    "Broadside": 3,
+    "APShellSize": 50,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 100
+}

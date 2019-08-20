@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-jeanne-d-arc",
+    "ClassName": "Jeanne D'Arc Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-10-24",
+    "StandardDisplacement": 11092,
+
+    "ShipHorsePower": 33000,
+    "Speed": 21.8,
+    "Range": 25002,
+
+    "Caliber": 194,
+    "Broadside": 2,
+    "APShellSize": 89,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-d-estrees",
+    "ClassName": "D'Estrees Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-12-01",
+    "StandardDisplacement": 2428,
+
+    "ShipHorsePower": 8500,
+    "Speed": 20,
+    "Range": 10556,
+
+    "Caliber": 139,
+    "Broadside": 2,
+    "APShellSize": 35,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 43
+}

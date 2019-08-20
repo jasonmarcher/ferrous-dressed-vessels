@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-forbin",
+    "ClassName": "Forbin Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1886-05-01",
+    "StandardDisplacement": 1935,
+
+    "ShipHorsePower": 5800,
+    "Speed": 20.5,
+    "Range": 4444,
+
+    "Caliber": 139,
+    "Broadside": 1,
+    "APShellSize": 35,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 40
+}

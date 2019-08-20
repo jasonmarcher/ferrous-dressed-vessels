@@ -1,0 +1,22 @@
+{
+    "ClassID": "ca-algerie",
+    "ClassName": "Algerie Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1931-03-19",
+    "StandardDisplacement": 10109,
+
+    "ShipHorsePower": 84000,
+    "Speed": 31,
+    "Range": 16112,
+
+    "Caliber": 203,
+    "Broadside": 8,
+    "APShellSize": 134,
+
+    "ArmorBelt": 110,
+    "ArmorBeltAngle": 0
+}

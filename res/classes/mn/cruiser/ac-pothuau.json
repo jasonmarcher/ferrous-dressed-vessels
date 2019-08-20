@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-pothuau",
+    "ClassName": "Pothuau Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1893-01-01",
+    "StandardDisplacement": 5374,
+
+    "ShipHorsePower": 33000,
+    "Speed": 19,
+    "Range": 8334,
+
+    "Caliber": 194,
+    "Broadside": 2,
+    "APShellSize": 89,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-linois",
+    "ClassName": "Linois Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-08-01",
+    "StandardDisplacement": 2285,
+
+    "ShipHorsePower": 6800,
+    "Speed": 20.5,
+    "Range": 7408,
+
+    "Caliber": 139,
+    "Broadside": 2,
+    "APShellSize": 35,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 40
+}

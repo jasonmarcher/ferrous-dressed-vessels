@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-ernest-renan",
+    "ClassName": "Ernest Renan Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1904-07-01",
+    "StandardDisplacement": 13504,
+
+    "ShipHorsePower": 36000,
+    "Speed": 23,
+    "Range": 18520,
+
+    "Caliber": 194,
+    "Broadside": 4,
+    "APShellSize": 89,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

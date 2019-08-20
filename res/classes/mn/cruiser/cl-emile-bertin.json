@@ -1,0 +1,22 @@
+{
+    "ClassID": "cl-emile-bertin",
+    "ClassName": "Emile Bertin Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1931-08-18",
+    "StandardDisplacement": 5886,
+
+    "ShipHorsePower": 102000,
+    "Speed": 34,
+    "Range": 6667,
+
+    "Caliber": 152,
+    "Broadside": 9,
+    "APShellSize": 56,
+
+    "ArmorBelt": 30,
+    "ArmorBeltAngle": 0
+}

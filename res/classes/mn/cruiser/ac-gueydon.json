@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-gueydon",
+    "ClassName": "Gueydon Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1898-08-02",
+    "StandardDisplacement": 9367,
+
+    "ShipHorsePower": 22000,
+    "Speed": 22,
+    "Range": 9260,
+
+    "Caliber": 194,
+    "Broadside": 2,
+    "APShellSize": 89,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

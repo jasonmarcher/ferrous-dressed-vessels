@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-dupleix",
+    "ClassName": "Dupleix Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1897-11-01",
+    "StandardDisplacement": 7547,
+
+    "ShipHorsePower": 17500,
+    "Speed": 21.5,
+    "Range": 11852,
+
+    "Caliber": 165,
+    "Broadside": 6,
+    "APShellSize": 50,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}

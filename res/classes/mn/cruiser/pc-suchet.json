@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-suchet",
+    "ClassName": "Suchet Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1887-10-01",
+    "StandardDisplacement": 3362,
+
+    "ShipHorsePower": 9500,
+    "Speed": 20.4,
+    "Range": 7408,
+
+    "Caliber": 165,
+    "Broadside": 4,
+    "APShellSize": 50,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 100
+}

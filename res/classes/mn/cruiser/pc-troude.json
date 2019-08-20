@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-troude",
+    "ClassName": "Troude Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1886-11-01",
+    "StandardDisplacement": 1923,
+
+    "ShipHorsePower": 5800,
+    "Speed": 20.5,
+    "Range": 4444,
+
+    "Caliber": 139,
+    "Broadside": 2,
+    "APShellSize": 35,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 40
+}

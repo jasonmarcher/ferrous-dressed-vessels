@@ -1,0 +1,22 @@
+{
+    "ClassID": "ca-suffren",
+    "ClassName": "Suffren Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1926-04-17",
+    "StandardDisplacement": 10000,
+
+    "ShipHorsePower": 90000,
+    "Speed": 32,
+    "Range": 8519,
+
+    "Caliber": 203,
+    "Broadside": 8,
+    "APShellSize": 134,
+
+    "ArmorBelt": 50,
+    "ArmorBeltAngle": 0
+}

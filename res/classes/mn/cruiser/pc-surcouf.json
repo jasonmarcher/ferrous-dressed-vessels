@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-surcouf",
+    "ClassName": "Surcouf Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1886-05-01",
+    "StandardDisplacement": 2012,
+
+    "ShipHorsePower": 5800,
+    "Speed": 20,
+    "Range": 4444,
+
+    "Caliber": 139,
+    "Broadside": 2,
+    "APShellSize": 35,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 40
+}

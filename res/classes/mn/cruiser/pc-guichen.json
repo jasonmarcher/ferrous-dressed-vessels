@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-guichen",
+    "ClassName": "Guichen Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-10-01",
+    "StandardDisplacement": 8151,
+
+    "ShipHorsePower": 25000,
+    "Speed": 23.5,
+    "Range": 13890,
+
+    "Caliber": 165,
+    "Broadside": 2,
+    "APShellSize": 50,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 100
+}

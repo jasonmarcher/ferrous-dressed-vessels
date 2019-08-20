@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-d-assas",
+    "ClassName": "D'Assas Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1894-01-01",
+    "StandardDisplacement": 3890,
+
+    "ShipHorsePower": 10000,
+    "Speed": 20,
+    "Range": 11112,
+
+    "Caliber": 165,
+    "Broadside": 4,
+    "APShellSize": 50,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 100
+}

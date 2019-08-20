@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-tage",
+    "ClassName": "Tage Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1885-07-01",
+    "StandardDisplacement": 7469,
+
+    "ShipHorsePower": 12500,
+    "Speed": 19.2,
+    "Range": 14816,
+
+    "Caliber": 165,
+    "Broadside": 3,
+    "APShellSize": 50,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 55
+}

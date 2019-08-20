@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-jules-michelet",
+    "ClassName": "Jules Michelet Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1904-06-01",
+    "StandardDisplacement": 13105,
+
+    "ShipHorsePower": 30000,
+    "Speed": 22.5,
+    "Range": 12223,
+
+    "Caliber": 194,
+    "Broadside": 4,
+    "APShellSize": 89,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

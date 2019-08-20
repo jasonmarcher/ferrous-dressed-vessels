@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-descartes",
+    "ClassName": "Descartes Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-08-01",
+    "StandardDisplacement": 3960,
+
+    "ShipHorsePower": 8500,
+    "Speed": 19.5,
+    "Range": 10186,
+
+    "Caliber": 165,
+    "Broadside": 2,
+    "APShellSize": 50,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 60
+}

@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-amiral-charner",
+    "ClassName": "Amiral Charner Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1889-07-01",
+    "StandardDisplacement": 4681,
+
+    "ShipHorsePower": 8000,
+    "Speed": 18.2,
+    "Range": 7408,
+
+    "Caliber": 194,
+    "Broadside": 2,
+    "APShellSize": 89,
+
+    "ArmorBelt": 90,
+    "ArmorBeltAngle": 0
+}

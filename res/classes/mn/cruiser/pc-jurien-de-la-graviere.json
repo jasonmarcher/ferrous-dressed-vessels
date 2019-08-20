@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-jurien-de-la-graviere",
+    "ClassName": "Jurien de la Graviere Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1897-11-15",
+    "StandardDisplacement": 5595,
+
+    "ShipHorsePower": 17400,
+    "Speed": 22.9,
+    "Range": 11389,
+
+    "Caliber": 164,
+    "Broadside": 5,
+    "APShellSize": 50,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 65
+}

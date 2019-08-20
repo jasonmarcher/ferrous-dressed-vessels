@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-leon-gambetta",
+    "ClassName": "Leon Gambetta Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1901-01-15",
+    "StandardDisplacement": 11959,
+
+    "ShipHorsePower": 28500,
+    "Speed": 22.5,
+    "Range": 12223,
+
+    "Caliber": 194,
+    "Broadside": 4,
+    "APShellSize": 89,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}
