@@ -1,0 +1,22 @@
+{
+    "ClassID": "bt-hoche",
+    "ClassName": "Hoche Class",
+    "Nation": "mn",
+
+    "Type": "Battleship",
+    "SubType": "Turret Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1881-06-01",
+    "StandardDisplacement": 10820,
+
+    "ShipHorsePower": 12000,
+    "Speed": 16.5,
+    "Range": 5556,
+
+    "Caliber": 340,
+    "Broadside": 2,
+    "APShellSize": 490,
+
+    "ArmorBelt": 450,
+    "ArmorBeltAngle": 0
+}

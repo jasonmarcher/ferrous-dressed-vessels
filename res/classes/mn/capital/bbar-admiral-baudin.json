@@ -1,0 +1,22 @@
+{
+    "ClassID": "bbar-admiral-baudin",
+    "ClassName": "Admiral Baudin Class",
+    "Nation": "mn",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1879-09-01",
+    "StandardDisplacement": 11720,
+
+    "ShipHorsePower": 8400,
+    "Speed": 15,
+    "Range": 5556,
+
+    "Caliber": 370,
+    "Broadside": 3,
+    "APShellSize": 700,
+
+    "ArmorBelt": 550,
+    "ArmorBeltAngle": 0
+}

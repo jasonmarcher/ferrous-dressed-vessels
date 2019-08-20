@@ -1,0 +1,22 @@
+{
+    "ClassID": "bbar-terrible",
+    "ClassName": "Terrible Class",
+    "Nation": "mn",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1877-12-01",
+    "StandardDisplacement": 7530,
+
+    "ShipHorsePower": 6500,
+    "Speed": 15.5,
+    "Range": 3704,
+
+    "Caliber": 420,
+    "Broadside": 2,
+    "APShellSize": 820,
+
+    "ArmorBelt": 500,
+    "ArmorBeltAngle": 0
+}
