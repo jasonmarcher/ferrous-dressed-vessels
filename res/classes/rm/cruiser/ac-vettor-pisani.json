@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-vettor-pisani",
+    "ClassName": "Vettor Pisani Class",
+    "Nation": "rm",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-02-01",
+    "StandardDisplacement": 6397,
+
+    "ShipHorsePower": 13219,
+    "Speed": 19.1,
+    "Range": 10000,
+
+    "Caliber": 152,
+    "Broadside": 6,
+    "APShellSize": 45,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

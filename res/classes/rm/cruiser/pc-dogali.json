@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-dogali",
+    "ClassName": "Dogali Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1885-02-13",
+    "StandardDisplacement": 2050,
+
+    "ShipHorsePower": 5012,
+    "Speed": 17.7,
+    "Range": 7408,
+
+    "Caliber": 152,
+    "Broadside": 4,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-pisa",
+    "ClassName": "Pisa Class",
+    "Nation": "rm",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1905-02-20",
+    "StandardDisplacement": 9832,
+
+    "ShipHorsePower": 20000,
+    "Speed": 23,
+    "Range": 4630,
+
+    "Caliber": 254,
+    "Broadside": 4,
+    "APShellSize": 227,
+
+    "ArmorBelt": 200,
+    "ArmorBeltAngle": 0
+}

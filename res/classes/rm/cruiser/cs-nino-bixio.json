@@ -1,0 +1,22 @@
+{
+    "ClassID": "cs-nino-bixio",
+    "ClassName": "Nino Bixio Class",
+    "Nation": "rm",
+
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1911-02-15",
+    "StandardDisplacement": 3575,
+
+    "ShipHorsePower": 22500,
+    "Speed": 26.8,
+    "Range": 2592,
+
+    "Caliber": 120,
+    "Broadside": 5,
+    "APShellSize": 24,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-etna",
+    "ClassName": "Etna Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1883-01-19",
+    "StandardDisplacement": 3373,
+
+    "ShipHorsePower": 6252,
+    "Speed": 16.6,
+    "Range": 6482,
+
+    "Caliber": 254,
+    "Broadside": 2,
+    "APShellSize": 220,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 38
+}

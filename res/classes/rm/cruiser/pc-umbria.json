@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-umbria",
+    "ClassName": "Umbria Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1888-08-01",
+    "StandardDisplacement": 2350,
+
+    "ShipHorsePower": 7500,
+    "Speed": 19,
+    "Range": 3889,
+
+    "Caliber": 152,
+    "Broadside": 2,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 50
+}

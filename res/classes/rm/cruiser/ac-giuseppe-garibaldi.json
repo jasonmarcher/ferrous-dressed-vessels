@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-giuseppe-garibaldi",
+    "ClassName": "Giuseppe Garibaldi Class",
+    "Nation": "rm",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1894-03-01",
+    "StandardDisplacement": 7234,
+
+    "ShipHorsePower": 13500,
+    "Speed": 19.5,
+    "Range": 8148,
+
+    "Caliber": 254,
+    "Broadside": 1,
+    "APShellSize": 227,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

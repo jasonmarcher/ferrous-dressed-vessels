@@ -1,0 +1,22 @@
+{
+    "ClassID": "ac-san-giorgio",
+    "ClassName": "San Giorgio Class",
+    "Nation": "rm",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1905-07-04",
+    "StandardDisplacement": 10167,
+
+    "ShipHorsePower": 19500,
+    "Speed": 23.2,
+    "Range": 11612,
+
+    "Caliber": 254,
+    "Broadside": 4,
+    "APShellSize": 227,
+
+    "ArmorBelt": 200,
+    "ArmorBeltAngle": 0
+}

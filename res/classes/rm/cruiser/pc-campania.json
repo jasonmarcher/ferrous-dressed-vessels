@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-campania",
+    "ClassName": "Campania Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1913-08-09",
+    "StandardDisplacement": 2778,
+
+    "ShipHorsePower": 5000,
+    "Speed": 15.7,
+    "Range": 3426,
+
+    "Caliber": 152,
+    "Broadside": 4,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 50
+}

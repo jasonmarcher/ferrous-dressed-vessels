@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-giovanni-bausan",
+    "ClassName": "Giovanni Bausan Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1882-08-12",
+    "StandardDisplacement": 3079,
+
+    "ShipHorsePower": 6470,
+    "Speed": 17.4,
+    "Range": 9260,
+
+    "Caliber": 254,
+    "Broadside": 2,
+    "APShellSize": 220,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 38
+}

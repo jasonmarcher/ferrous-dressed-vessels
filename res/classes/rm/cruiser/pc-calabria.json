@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-calabria",
+    "ClassName": "Calabria Class",
+    "Nation": "mn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-02-01",
+    "StandardDisplacement": 3453,
+
+    "ShipHorsePower": 4260,
+    "Speed": 16.4,
+    "Range": 4630,
+
+    "Caliber": 152,
+    "Broadside": 2,
+    "APShellSize": 45,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 50
+}

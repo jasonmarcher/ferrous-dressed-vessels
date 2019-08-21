@@ -1,0 +1,22 @@
+{
+    "ClassID": "cs-quarto",
+    "ClassName": "Quarto Class",
+    "Nation": "rm",
+
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1909-11-14",
+    "StandardDisplacement": 3271,
+
+    "ShipHorsePower": 25000,
+    "Speed": 28,
+    "Range": 4259,
+
+    "Caliber": 120,
+    "Broadside": 3,
+    "APShellSize": 24,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
