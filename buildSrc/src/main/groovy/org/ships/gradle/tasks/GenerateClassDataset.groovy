@@ -17,7 +17,7 @@ class GenerateClassDataset extends DefaultTask {
 
         def jsonSlurper = new JsonSlurper()
         def printer = new CSVPrinter(new FileWriter("$project.buildDir/classes.csv"), CSVFormat.EXCEL)
-        printer.printRecord('ClassID','ClassName','Nation','Type','SubType','ClassLaidDown','StandardDisplacement','ShipHorsePower',
+        printer.printRecord('ClassID','ClassName','Nation','Type','SubType','Existance','ClassLaidDown','StandardDisplacement','ShipHorsePower',
             'Speed','Range','Caliber','Broadside','APShellSize','ArmorBelt','ArmorBeltAngle')
 
         def classFiles = project.fileTree("res/classes")

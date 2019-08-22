@@ -10,6 +10,7 @@ class ShipClass {
 
     String Type
     String SubType
+    String Existance
     Date ClassLaidDown
     int StandardDisplacement
 
@@ -32,6 +33,7 @@ class ShipClass {
 
             Type = json.Type
             SubType = json.SubType
+            Existance = json.Existance
             ClassLaidDown = (new SimpleDateFormat('yyyy-mm-dd')).parse(json.ClassLaidDown)
             StandardDisplacement = json.StandardDisplacement
 
@@ -57,6 +59,7 @@ class ShipClass {
 
         printer.print(Type)
         printer.print(SubType)
+        printer.print(Existance)
         printer.print((new SimpleDateFormat('yyyy-mm-dd')).format(ClassLaidDown))
         printer.print(StandardDisplacement)
 
