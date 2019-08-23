@@ -1,0 +1,22 @@
+{
+    "ClassID": "cs-novara",
+    "ClassName": "Novara Class",
+    "Nation": "ahn",
+
+    "Type": "Cruiser",
+    "SubType": "Scout Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1911-09-09",
+    "StandardDisplacement": 3500,
+
+    "ShipHorsePower": 30000,
+    "Speed": 27,
+    "Range": 2963,
+
+    "Caliber": 100,
+    "Broadside": 5,
+    "APShellSize": 14,
+
+    "ArmorBelt": 60,
+    "ArmorBeltAngle": 0
+}

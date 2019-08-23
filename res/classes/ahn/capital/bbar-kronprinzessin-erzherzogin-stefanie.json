@@ -1,0 +1,22 @@
+{
+    "ClassID": "bbar-kronprinzessin-erzherzogin-stefanie",
+    "ClassName": "Kronprinzessin Erzherzogin Stefanie Class",
+    "Nation": "ahn",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1884-11-12",
+    "StandardDisplacement": 5075,
+
+    "ShipHorsePower": 8000,
+    "Speed": 17,
+    "Range": 4444,
+
+    "Caliber": 305,
+    "Broadside": 2,
+    "APShellSize": 450,
+
+    "ArmorBelt": 230,
+    "ArmorBeltAngle": 0
+}

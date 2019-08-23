@@ -1,0 +1,23 @@
+{
+    "ClassID": "pc-zenta",
+    "ClassName": "Zenta Class",
+    "Nation": "ahn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-08-08",
+    "StandardDisplacement": 2313,
+
+    "ShipHorsePower": 10000,
+    "Speed": 20.8,
+    "Range": 6482,
+
+    "Caliber": 120,
+    "Broadside": 5,
+    "APShellSize": 24,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 50
+}

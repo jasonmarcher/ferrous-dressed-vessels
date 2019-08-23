@@ -1,0 +1,22 @@
+{
+    "ClassID": "bbar-kronprinz-erzherzog-rudolf",
+    "ClassName": "Kronprinz Erzherzog Rudolf Class",
+    "Nation": "ahn",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1884-01-25",
+    "StandardDisplacement": 6829,
+
+    "ShipHorsePower": 6000,
+    "Speed": 15.5,
+    "Range": 4815,
+
+    "Caliber": 305,
+    "Broadside": 2,
+    "APShellSize": 450,
+
+    "ArmorBelt": 305,
+    "ArmorBeltAngle": 0
+}

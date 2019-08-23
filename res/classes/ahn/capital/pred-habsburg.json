@@ -7,13 +7,13 @@
     "SubType": "Pre-Dreadnought",
     "Existance": "Built",
     "ClassLaidDown": "1899-03-13",
-    "StandardDisplacement": 8364,
+    "StandardDisplacement": 8823,
 
     "ShipHorsePower": 15063,
-    "Speed": 19,
-    "Range": 0,
+    "Speed": 19.5,
+    "Range": 6667,
 
-    "Caliber": 240,
+    "Caliber": 238,
     "Broadside": 3,
     "APShellSize": 229,
 
