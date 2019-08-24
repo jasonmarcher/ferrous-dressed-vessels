@@ -13,9 +13,10 @@
     "Speed": 19,
     "Range": 9260,
 
-    "Caliber": 203,
-    "Broadside": 2,
-    "APShellSize": 120,
+    "MainGun": "203/35 Mk 4",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/30 Mk 3",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

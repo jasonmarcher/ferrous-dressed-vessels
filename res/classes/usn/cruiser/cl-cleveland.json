@@ -7,15 +7,16 @@
     "SubType": "Light Cruiser",
     "Existance": "Built",
     "ClassLaidDown": "1940-07-01",
-    "StandardDisplacement": 11932,
+    "StandardDisplacement": 11130,
 
     "ShipHorsePower": 100000,
     "Speed": 32.5,
-    "Range": 16000,
+    "Range": 20372,
 
-    "Caliber": 152,
-    "Broadside": 12,
-    "APShellSize": 59,
+    "MainGun": "152/47 Mk 16",
+    "MainBroadside": 12,
+    "SecondaryGun": "127/38 Mk 12 Ring",
+    "SecondaryBroadside": 8,
 
     "ArmorBelt": 127,
     "ArmorBeltAngle": 0

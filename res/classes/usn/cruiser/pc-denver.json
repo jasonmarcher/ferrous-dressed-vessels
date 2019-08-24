@@ -13,9 +13,10 @@
     "Speed": 16.5,
     "Range": 12778,
 
-    "Caliber": 127,
-    "Broadside": 6,
-    "APShellSize": 27,
+    "MainGun": "127/50 Mk 5",
+    "MainBroadside": 6,
+    "SecondaryGun": "57/50 Mk2",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

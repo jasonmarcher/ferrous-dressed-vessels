@@ -13,9 +13,10 @@
     "Speed": 35,
     "Range": 17000,
 
-    "Caliber": 152,
-    "Broadside": 8,
-    "APShellSize": 48,
+    "MainGun": "152/53 Mk 12",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 76,
     "ArmorBeltAngle": 0

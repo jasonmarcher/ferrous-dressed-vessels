@@ -13,9 +13,10 @@
     "Speed": 33,
     "Range": 0,
 
-    "Caliber": 152,
-    "Broadside": 12,
-    "APShellSize": 59,
+    "MainGun": "152/47 Mk 16 DP",
+    "MainBroadside": 12,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 127,
     "ArmorBeltAngle": 0

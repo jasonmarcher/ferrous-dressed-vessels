@@ -13,9 +13,10 @@
     "Speed": 32.5,
     "Range": 15700,
 
-    "Caliber": 127,
-    "Broadside": 14,
-    "APShellSize": 24,
+    "MainGun": "127/38 Mk 12 Ring",
+    "MainBroadside": 14,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 89,
     "ArmorBeltAngle": 0
