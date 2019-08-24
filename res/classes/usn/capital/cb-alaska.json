@@ -13,9 +13,10 @@
     "Speed": 33,
     "Range": 22000,
 
-    "Caliber": 305,
-    "Broadside": 9,
-    "APShellSize": 520,
+    "MainGun": "305/50 Mk 8",
+    "MainBroadside": 9,
+    "SecondaryGun": "127/38 Mk 12 Ring",
+    "SecondaryBroadside": 8,
 
     "ArmorBelt": 230,
     "ArmorBeltAngle": 0

@@ -1,0 +1,23 @@
+{
+    "ClassID": "m-monterey",
+    "ClassName": "Monterey Class",
+    "Nation": "usn",
+
+    "Type": "Coastal Defense",
+    "SubType": "Monitor",
+    "Existance": "Built",
+    "ClassLaidDown": "1889-12-20",
+    "StandardDisplacement": 4084,
+
+    "ShipHorsePower": 5250,
+    "Speed": 13.6,
+    "Range": 2037,
+
+    "MainGun": "305/35 Mk 1",
+    "MainBroadside": 2,
+    "SecondaryGun": "254/31 Mk 2",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 330,
+    "ArmorBeltAngle": 0
+}

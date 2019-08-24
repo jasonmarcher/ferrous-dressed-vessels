@@ -9,9 +9,10 @@
     "ClassLaidDown": "1911-04-17",
     "StandardDisplacement": 27433,
 
-    "ShipHorsePower": 28100,
-    "Speed": 21,
-    "Range": 13080,
+    "MainGun": "356/45 Mk 1",
+    "MainBroadside": 10,
+    "SecondaryGun": "127/51 Mk 8",
+    "SecondaryBroadside": 10,
 
     "Caliber": 356,
     "Broadside": 10,

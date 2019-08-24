@@ -1,0 +1,23 @@
+{
+    "ClassID": "m-amphitrite",
+    "ClassName": "Amphitrite Class",
+    "Nation": "usn",
+
+    "Type": "Coastal Defense",
+    "SubType": "Monitor",
+    "Existance": "Built",
+    "ClassLaidDown": "1874-06-01",
+    "StandardDisplacement": 3990,
+
+    "ShipHorsePower": 1600,
+    "Speed": 12,
+    "Range": 2018,
+
+    "MainGun": "254/31 Mk 2",
+    "MainBroadside": 4,
+    "SecondaryGun": "102/40 Mk 3",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 229,
+    "ArmorBeltAngle": 0
+}

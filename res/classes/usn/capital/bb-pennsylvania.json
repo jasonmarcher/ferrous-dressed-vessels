@@ -13,9 +13,10 @@
     "Speed": 21,
     "Range": 11240,
 
-    "Caliber": 356,
-    "Broadside": 12,
-    "APShellSize": 636,
+    "MainGun": "356/45 Mk 1",
+    "MainBroadside": 12,
+    "SecondaryGun": "127/51 Mk 8",
+    "SecondaryBroadside": 11,
 
     "ArmorBelt": 343,
     "ArmorBeltAngle": 0

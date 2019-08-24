@@ -1,0 +1,23 @@
+{
+    "ClassID": "m-puritan",
+    "ClassName": "Puritan Class",
+    "Nation": "usn",
+
+    "Type": "Coastal Defense",
+    "SubType": "Monitor",
+    "Existance": "Built",
+    "ClassLaidDown": "1875-06-01",
+    "StandardDisplacement": 6060,
+
+    "ShipHorsePower": 3700,
+    "Speed": 12.4,
+    "Range": 0,
+
+    "MainGun": "305/35 Mk 1",
+    "MainBroadside": 2,
+    "SecondaryGun": "102/40 Mk 3",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 356,
+    "ArmorBeltAngle": 0
+}

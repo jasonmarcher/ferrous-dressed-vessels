@@ -13,9 +13,10 @@
     "Speed": 16,
     "Range": 0,
 
-    "Caliber": 330,
-    "Broadside": 4,
-    "APShellSize": 510,
+    "MainGun": "330/35 Mk 2",
+    "MainBroadside": 4,
+    "SecondaryGun": "203/35 Mk 4",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 420,
     "ArmorBeltAngle": 0
