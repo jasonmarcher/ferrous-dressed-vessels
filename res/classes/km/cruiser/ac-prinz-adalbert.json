@@ -13,9 +13,10 @@
     "Speed": 20.5,
     "Range": 9204,
 
-    "Caliber": 209,
-    "Broadside": 4,
-    "APShellSize": 108,
+    "MainGun": "210/40 SK C/97",
+    "MainBroadside": 4,
+    "SecondaryGun": "150/40 SK C/97",
+    "SecondaryBroadside": 5,
 
     "ArmorBelt": 100,
     "ArmorBeltAngle": 0

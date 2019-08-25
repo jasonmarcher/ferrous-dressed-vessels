@@ -13,9 +13,10 @@
     "Speed": 24.7,
     "Range": 8150,
 
-    "Caliber": 105,
-    "Broadside": 5,
-    "APShellSize": 18,
+    "MainGun": "105/40 SK C/97",
+    "MainBroadside": 5,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0

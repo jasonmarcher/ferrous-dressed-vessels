@@ -13,9 +13,10 @@
     "Speed": 32,
     "Range": 12600,
 
-    "Caliber": 203,
-    "Broadside": 8,
-    "APShellSize": 122,
+    "MainGun": "203/60 SK C/34",
+    "MainBroadside": 8,
+    "SecondaryGun": "105/60 SK C/33",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 80,
     "ArmorBeltAngle": 0

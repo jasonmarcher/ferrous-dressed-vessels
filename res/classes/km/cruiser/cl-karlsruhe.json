@@ -11,11 +11,12 @@
 
     "ShipHorsePower": 26000,
     "Speed": 29.3,
-    "Range": 0,
+    "Range": 9260,
 
-    "Caliber": 105,
-    "Broadside": 6,
-    "APShellSize": 18,
+    "MainGun": "105/45 SK C/09",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 60,
     "ArmorBeltAngle": 0

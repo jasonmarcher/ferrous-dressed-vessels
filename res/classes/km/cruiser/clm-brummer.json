@@ -13,9 +13,10 @@
     "Speed": 28,
     "Range": 10700,
 
-    "Caliber": 150,
-    "Broadside": 4,
-    "APShellSize": 45,
+    "MainGun": "150/45 SK C/09",
+    "MainBroadside": 4,
+    "SecondaryGun": "88/45 SK C/13",
+    "SecondaryBroadside": 2,
 
     "ArmorBelt": 40,
     "ArmorBeltAngle": 0
