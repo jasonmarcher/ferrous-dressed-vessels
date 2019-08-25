@@ -13,9 +13,10 @@
     "Speed": 30,
     "Range": 15788,
 
-    "Caliber": 380,
-    "Broadside": 8,
-    "APShellSize": 800,
+    "MainGun": "380/48 SK C/34",
+    "MainBroadside": 8,
+    "SecondaryGun": "150/55 SK C/28",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 320,
     "ArmorBeltAngle": 0

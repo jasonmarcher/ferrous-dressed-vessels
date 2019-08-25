@@ -10,12 +10,13 @@
     "StandardDisplacement": 18873,
 
     "ShipHorsePower": 21699,
-    "Speed": 19,
-    "Range": 15400,
+    "Speed": 19.5,
+    "Range": 17408,
 
-    "Caliber": 280,
-    "Broadside": 8,
-    "APShellSize": 300,
+    "MainGun": "280/45 SK C/07",
+    "MainBroadside": 8,
+    "SecondaryGun": "150/45 SK C/09",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 300,
     "ArmorBeltAngle": 0

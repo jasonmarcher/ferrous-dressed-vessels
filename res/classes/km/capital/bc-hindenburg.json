@@ -13,9 +13,10 @@
     "Speed": 27,
     "Range": 11297,
 
-    "Caliber": 305,
-    "Broadside": 8,
-    "APShellSize": 405,
+    "MainGun": "305/50 SK C/08",
+    "MainBroadside": 8,
+    "SecondaryGun": "150/45 SK C/09",
+    "SecondaryBroadside": 7,
 
     "ArmorBelt": 300,
     "ArmorBeltAngle": 0
