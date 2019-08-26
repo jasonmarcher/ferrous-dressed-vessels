@@ -13,9 +13,10 @@
     "Speed": 30,
     "Range": 15000,
 
-    "Caliber": 410,
-    "Broadside": 10,
-    "APShellSize": 1020,
+    "MainGun": "410/45 3-shiki",
+    "MainBroadside": 10,
+    "SecondaryGun": "140/50 3-shiki",
+    "SecondaryBroadside": 8,
 
     "ArmorBelt": 254,
     "ArmorBeltAngle": 10
