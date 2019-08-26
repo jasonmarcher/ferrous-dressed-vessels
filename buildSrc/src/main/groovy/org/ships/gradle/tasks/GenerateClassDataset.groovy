@@ -6,6 +6,7 @@ import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVPrinter
 import org.gradle.api.DefaultTask
 import org.gradle.api.tasks.TaskAction
+import org.ships.gradle.Armory
 import org.ships.gradle.Nation
 import org.ships.gradle.Nations
 import org.ships.gradle.ShipClass
@@ -20,9 +21,11 @@ class GenerateClassDataset extends DefaultTask {
         printer.printRecord('ClassID','ClassName','Nation','Type','SubType','Existance','ClassLaidDown','StandardDisplacement','ShipHorsePower',
             'Speed','Range','Caliber','Broadside','APShellSize','ArmorBelt','ArmorBeltAngle')
 
+        Armory armory = new Armory(project.fileTree("res/weapons"))
+
         def classFiles = project.fileTree("res/classes")
         classFiles.forEach { classFile ->
-            def shipClass = new ShipClass(jsonSlurper.parseText(classFile.text))
+            def shipClass = new ShipClass(jsonSlurper.parseText(classFile.text), armory)
             shipClass.printRecord(printer)
         }
         printer.close(true)

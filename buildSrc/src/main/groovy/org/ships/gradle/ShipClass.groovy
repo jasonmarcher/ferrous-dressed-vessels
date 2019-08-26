@@ -18,14 +18,13 @@ class ShipClass {
     float Speed
     int Range
 
-    int Caliber
-    int Broadside
-    float APShellSize
+    Gun MainGun
+    int MainBroadside
 
     int ArmorBelt
     int ArmorBeltAngle
 
-    ShipClass(Object json) {
+    ShipClass(Object json, Armory armory) {
         try {
             ClassID = json.ClassID
             ClassName = json.ClassName
@@ -41,13 +40,19 @@ class ShipClass {
             Speed = json.Speed
             Range = json.Range
 
-            Caliber = json.Caliber
-            Broadside = json.Broadside
-            APShellSize = json.APShellSize
+            if (json.MainGun) {
+                MainGun = armory.guns[json.MainGun]
+                if (MainGun == null) {println(ClassID)}
+                MainBroadside = json.MainBroadside
+            } else {
+                MainGun = new Gun("$json.ClassID-$json.Caliber".toString(), (new SimpleDateFormat('yyyy-mm-dd')).parse(json.ClassLaidDown), json.Caliber, json.APShellSize)
+                MainBroadside = json.Broadside
+            }
 
             ArmorBelt = json.ArmorBelt
             ArmorBeltAngle = json.ArmorBeltAngle
         } catch (Exception ex) {
+            println(ClassID)
             throw ex
         }
     }
@@ -67,9 +72,12 @@ class ShipClass {
         printer.print(Speed)
         printer.print(Range)
 
-        printer.print(Caliber)
-        printer.print(Broadside)
-        printer.print(APShellSize)
+        // TODO: Main gun
+        printer.print(MainGun.gunCaliber)
+        printer.print(MainBroadside)
+        printer.print(MainGun.PrimaryShellWeight)
+
+        // TODO: Secondary gun
 
         printer.print(ArmorBelt)
         printer.print(ArmorBeltAngle)
