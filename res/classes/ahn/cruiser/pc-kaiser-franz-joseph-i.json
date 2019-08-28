@@ -1,0 +1,24 @@
+{
+    "ClassID": "pc-kaiser-franz-joseph-i",
+    "ClassName": "Kaiser Franz Joseph I Class",
+    "Nation": "ahn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1888-01-03",
+    "StandardDisplacement": 3967,
+
+    "ShipHorsePower": 8450,
+    "Speed": 19,
+    "Range": 6482,
+
+    "MainGun": "240/35 C.86",
+    "MainBroadside": 2,
+    "SecondaryGun": "150/35 K.86",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 50
+}

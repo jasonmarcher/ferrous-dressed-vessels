@@ -1,20 +1,20 @@
 {
-    "ClassID": "pc-panther",
-    "ClassName": "Panther Class",
+    "ClassID": "pc-tiger",
+    "ClassName": "Tiger Class",
     "Nation": "ahn",
 
     "Type": "Cruiser",
     "SubType": "Protected Cruiser",
     "Existance": "Built",
-    "ClassLaidDown": "1884-10-29",
-    "StandardDisplacement": 1557,
+    "ClassLaidDown": "1886-10-05",
+    "StandardDisplacement": 1657,
 
-    "ShipHorsePower": 5940,
-    "Speed": 18.4,
-    "Range": 5185,
+    "ShipHorsePower": 5700,
+    "Speed": 18.6,
+    "Range": 4630,
 
     "MainGun": "120/35 C.87",
-    "MainBroadside": 1,
+    "MainBroadside": 2,
     "SecondaryGun": "",
     "SecondaryBroadside": 0,
 

@@ -13,9 +13,10 @@
     "Speed": 27,
     "Range": 2963,
 
-    "Caliber": 100,
-    "Broadside": 5,
-    "APShellSize": 14,
+    "MainGun": "100/50 K.10",
+    "MainBroadside": 5,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 60,
     "ArmorBeltAngle": 0
