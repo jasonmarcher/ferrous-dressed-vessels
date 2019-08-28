@@ -13,9 +13,10 @@
     "Speed": 19,
     "Range": 14816,
 
-    "Caliber": 120,
-    "Broadside": 6,
-    "APShellSize": 20,
+    "MainGun": "120/40 41-shiki",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 92,
     "ArmorBeltAngle": 0

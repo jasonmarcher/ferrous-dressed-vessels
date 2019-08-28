@@ -13,9 +13,10 @@
     "Speed": 18.5,
     "Range": 16668,
 
-    "Caliber": 263,
-    "Broadside": 2,
-    "APShellSize": 226,
+    "MainGun": "260/35 SK C/84",
+    "MainBroadside": 2,
+    "SecondaryGun": "150/35 SK C/80",
+    "SecondaryBroadside": 3,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

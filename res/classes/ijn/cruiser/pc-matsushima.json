@@ -13,9 +13,10 @@
     "Speed": 16.5,
     "Range": 10186,
 
-    "Caliber": 320,
-    "Broadside": 1,
-    "APShellSize": 350,
+    "MainGun": "320/38 M1887",
+    "MainBroadside": 1,
+    "SecondaryGun": "120/40 41-shiki",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,
