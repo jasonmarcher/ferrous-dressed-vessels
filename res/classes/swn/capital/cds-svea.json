@@ -13,9 +13,10 @@
     "Speed": 14.7,
     "Range": 1537,
 
-    "Caliber": 254,
-    "Broadside": 2,
-    "APShellSize": 225,
+    "MainGun": "254/32 M1885",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/32 M1883",
+    "SecondaryBroadside": 2,
 
     "ArmorBelt": 297,
     "ArmorBeltAngle": 0

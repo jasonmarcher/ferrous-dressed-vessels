@@ -1,0 +1,23 @@
+{
+    "ClassID": "bmt-riachuelo",
+    "ClassName": "Riachuelo Class",
+    "Nation": "bn",
+
+    "Type": "Battleship",
+    "SubType": "Masted Turret Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1881-08-31",
+    "StandardDisplacement": 5610,
+
+    "ShipHorsePower": 7300,
+    "Speed": 16.7,
+    "Range": 0,
+
+    "MainGun": "234/31 Armstrong G",
+    "MainBroadside": 2,
+    "SecondaryGun": "140/31 Armstrong BLR",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 292,
+    "ArmorBeltAngle": 0
+}

@@ -13,9 +13,10 @@
     "Speed": 16.5,
     "Range": 0,
 
-    "Caliber": 240,
-    "Broadside": 2,
-    "APShellSize": 170,
+    "MainGun": "240/40 Krupp No.2",
+    "MainBroadside": 2,
+    "SecondaryGun": "150/40 Krupp No.5",
+    "SecondaryBroadside": 2,
 
     "ArmorBelt": 150,
     "ArmorBeltAngle": 0

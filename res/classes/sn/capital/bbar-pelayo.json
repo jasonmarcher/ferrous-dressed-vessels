@@ -1,0 +1,23 @@
+{
+    "ClassID": "bbar-pelayo",
+    "ClassName": "Pelayo Class",
+    "Nation": "sn",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1886-02-01",
+    "StandardDisplacement": 9745,
+
+    "ShipHorsePower": 9600,
+    "Speed": 16.7,
+    "Range": 5556,
+
+    "MainGun": "320/35 Hontoria M1883",
+    "MainBroadside": 2,
+    "SecondaryGun": "280/35 Hontoria M1883",
+    "SecondaryBroadside": 1,
+
+    "ArmorBelt": 450,
+    "ArmorBeltAngle": 0
+}

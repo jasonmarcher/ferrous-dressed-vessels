@@ -11,11 +11,12 @@
 
     "ShipHorsePower": 12000,
     "Speed": 18.3,
-    "Range": 0,
+    "Range": 8519,
 
-    "Caliber": 240,
-    "Broadside": 3,
-    "APShellSize": 390,
+    "MainGun": "240/36 Canet",
+    "MainBroadside": 3,
+    "SecondaryGun": "120/45 Canet M1890",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 300,
     "ArmorBeltAngle": 0

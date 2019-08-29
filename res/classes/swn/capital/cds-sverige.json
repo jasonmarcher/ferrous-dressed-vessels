@@ -13,9 +13,10 @@
     "Speed": 22.5,
     "Range": 5037,
 
-    "Caliber": 283,
-    "Broadside": 4,
-    "APShellSize": 305,
+    "MainGun": "283/45 M12",
+    "MainBroadside": 4,
+    "SecondaryGun": "152/50 M12",
+    "SecondaryBroadside": 5,
 
     "ArmorBelt": 200,
     "ArmorBeltAngle": 0

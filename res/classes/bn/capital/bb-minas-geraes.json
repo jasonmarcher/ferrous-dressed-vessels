@@ -13,9 +13,10 @@
     "Speed": 21,
     "Range": 19000,
 
-    "Caliber": 305,
-    "Broadside": 10,
-    "APShellSize": 385,
+    "MainGun": "305/45 Elswick L",
+    "MainBroadside": 10,
+    "SecondaryGun": "120/50 BL EOC CC",
+    "SecondaryBroadside": 11,
 
     "ArmorBelt": 229,
     "ArmorBeltAngle": 0

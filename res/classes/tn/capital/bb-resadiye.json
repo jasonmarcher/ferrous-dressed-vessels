@@ -13,9 +13,10 @@
     "Speed": 21,
     "Range": 9400,
 
-    "Caliber": 343,
-    "Broadside": 10,
-    "APShellSize": 635,
+    "MainGun": "343/45 Vickers A",
+    "MainBroadside": 10,
+    "SecondaryGun": "152/50 Vickers O",
+    "SecondaryBroadside": 8,
 
     "ArmorBelt": 305,
     "ArmorBeltAngle": 0

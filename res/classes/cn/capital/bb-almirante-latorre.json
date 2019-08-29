@@ -13,10 +13,11 @@
     "Speed": 22.75,
     "Range": 8100,
 
-    "Caliber": 355,
-    "Broadside": 10,
-    "APShellSize": 719,
+    "MainGun": "356/45 Armstrong A",
+    "MainBroadside": 10,
+    "SecondaryGun": "152/50 Armstrong TT",
+    "SecondaryBroadside": 8,
 
-    "ArmorBelt": 230,
+    "ArmorBelt": 229,
     "ArmorBeltAngle": 0
 }

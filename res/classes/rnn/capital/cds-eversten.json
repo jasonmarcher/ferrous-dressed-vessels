@@ -13,9 +13,10 @@
     "Speed": 16,
     "Range": 0,
 
-    "Caliber": 210,
-    "Broadside": 2,
-    "APShellSize": 140,
+    "MainGun": "210/35 Krupp No.2",
+    "MainBroadside": 3,
+    "SecondaryGun": "150/35 Krupp No.1",
+    "SecondaryBroadside": 1,
 
     "ArmorBelt": 150,
     "ArmorBeltAngle": 0

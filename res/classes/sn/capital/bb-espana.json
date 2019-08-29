@@ -13,9 +13,10 @@
     "Speed": 19.5,
     "Range": 9300,
 
-    "Caliber": 305,
-    "Broadside": 6,
-    "APShellSize": 385,
+    "MainGun": "305/50 Vickers H",
+    "MainBroadside": 6,
+    "SecondaryGun": "102/50 Vickers E",
+    "SecondaryBroadside": 10,
 
     "ArmorBelt": 203,
     "ArmorBeltAngle": 0

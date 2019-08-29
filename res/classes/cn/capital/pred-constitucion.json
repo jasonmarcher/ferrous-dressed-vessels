@@ -1,0 +1,23 @@
+{
+    "ClassID": "pred-constitucion",
+    "ClassName": "Constitucion Class",
+    "Nation": "cn",
+
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "Existance": "Built",
+    "ClassLaidDown": "1902-02-26",
+    "StandardDisplacement": 11800,
+
+    "ShipHorsePower": 12500,
+    "Speed": 19,
+    "Range": 11482,
+
+    "MainGun": "254/45 Armstrong S",
+    "MainBroadside": 4,
+    "SecondaryGun": "190/50 Armstrong A",
+    "SecondaryBroadside": 7,
+
+    "ArmorBelt": 178,
+    "ArmorBeltAngle": 0
+}

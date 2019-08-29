@@ -13,9 +13,10 @@
     "Speed": 17,
     "Range": 5556,
 
-    "Caliber": 209,
-    "Broadside": 2,
-    "APShellSize": 125,
+    "MainGun": "209/44 M1898",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/44 M1898",
+    "SecondaryBroadside": 3,
 
     "ArmorBelt": 175,
     "ArmorBeltAngle": 0
