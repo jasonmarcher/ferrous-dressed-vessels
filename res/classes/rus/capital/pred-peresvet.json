@@ -7,15 +7,16 @@
     "SubType": "Pre-Dreadnought",
     "Existance": "Built",
     "ClassLaidDown": "1895-11-21",
-    "StandardDisplacement": 13534,
+    "StandardDisplacement": 12683,
 
     "ShipHorsePower": 14500,
     "Speed": 18,
     "Range": 11500,
 
-    "Caliber": 254,
-    "Broadside": 4,
-    "APShellSize": 225,
+    "MainGun": "254/45 Pattern 1891",
+    "MainBroadside": 4,
+    "SecondaryGun": "152/45 Pattern 1892",
+    "SecondaryBroadside": 5,
 
     "ArmorBelt": 229,
     "ArmorBeltAngle": 0

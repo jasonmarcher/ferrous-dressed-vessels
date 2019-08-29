@@ -1,0 +1,23 @@
+{
+    "ClassID": "bbar-sinop",
+    "ClassName": "Sinop Class",
+    "Nation": "rus",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1883-10-07",
+    "StandardDisplacement": 10181,
+
+    "ShipHorsePower": 13000,
+    "Speed": 16,
+    "Range": 4296,
+
+    "MainGun": "305/30 Pattern 1877",
+    "MainBroadside": 4,
+    "SecondaryGun": "152/35 Pattern 1877",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 406,
+    "ArmorBeltAngle": 0
+}

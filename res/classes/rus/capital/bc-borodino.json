@@ -13,9 +13,10 @@
     "Speed": 26.5,
     "Range": 7093,
 
-    "Caliber": 356,
-    "Broadside": 12,
-    "APShellSize": 747,
+    "MainGun": "356/52 Pattern 1913",
+    "MainBroadside": 12,
+    "SecondaryGun": "130/53 MK-4",
+    "SecondaryBroadside": 12,
 
     "ArmorBelt": 238,
     "ArmorBeltAngle": 0

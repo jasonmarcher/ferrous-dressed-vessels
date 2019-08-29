@@ -13,9 +13,10 @@
     "Speed": 35.5,
     "Range": 9300,
 
-    "Caliber": 305,
-    "Broadside": 9,
-    "APShellSize": 467,
+    "MainGun": "305/62 SM-31",
+    "MainBroadside": 9,
+    "SecondaryGun": "130/60 BL-109A",
+    "SecondaryBroadside": 8,
 
     "ArmorBelt": 180,
     "ArmorBeltAngle": 15

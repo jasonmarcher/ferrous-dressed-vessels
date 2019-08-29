@@ -1,10 +1,10 @@
 {
-    "ClassID": "pred-navarin",
+    "ClassID": "bt-navarin",
     "ClassName": "Navarin Class",
     "Nation": "rus",
 
     "Type": "Battleship",
-    "SubType": "Pre-Dreadnought",
+    "SubType": "Turret Ship",
     "Existance": "Built",
     "ClassLaidDown": "1890-05-31",
     "StandardDisplacement": 10370,
@@ -13,9 +13,10 @@
     "Speed": 15,
     "Range": 5650,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 331,
+    "MainGun": "305/35 Pattern 1886",
+    "MainBroadside": 4,
+    "SecondaryGun": "152/35 Pattern 1877",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 406,
     "ArmorBeltAngle": 0

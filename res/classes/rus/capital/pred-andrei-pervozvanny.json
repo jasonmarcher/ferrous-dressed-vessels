@@ -6,16 +6,17 @@
     "Type": "Battleship",
     "SubType": "Pre-Dreadnought",
     "Existance": "Built",
-    "ClassLaidDown": "1904-03-15",
-    "StandardDisplacement": 17600,
+    "ClassLaidDown": "1904-10-27",
+    "StandardDisplacement": 17620,
 
     "ShipHorsePower": 17600,
-    "Speed": 18.5,
+    "Speed": 18,
     "Range": 4400,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 331,
+    "MainGun": "305/40 Pattern 1895",
+    "MainBroadside": 4,
+    "SecondaryGun": "203/50",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 216,
     "ArmorBeltAngle": 0

@@ -1,0 +1,23 @@
+{
+    "ClassID": "bbar-imperator-alexandr-ii",
+    "ClassName": "Imperator Alexandr II Class",
+    "Nation": "rus",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1886-06-30",
+    "StandardDisplacement": 10010,
+
+    "ShipHorsePower": 8500,
+    "Speed": 15.3,
+    "Range": 8889,
+
+    "MainGun": "305/30 Pattern 1877",
+    "MainBroadside": 2,
+    "SecondaryGun": "229/30 Pattern 1877",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 356,
+    "ArmorBeltAngle": 0
+}

@@ -13,9 +13,10 @@
     "Speed": 28,
     "Range": 14220,
 
-    "Caliber": 406,
-    "Broadside": 9,
-    "APShellSize": 1108,
+    "MainGun": "406/50 MK-1",
+    "MainBroadside": 9,
+    "SecondaryGun": "152/57 MK-4",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 375,
     "ArmorBeltAngle": 5

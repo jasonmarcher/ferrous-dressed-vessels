@@ -1,10 +1,10 @@
 {
-    "ClassID": "pred-sissoi-veliky",
+    "ClassID": "bt-sissoi-veliky",
     "ClassName": "Sissoi Veliky Class",
     "Nation": "rus",
 
     "Type": "Battleship",
-    "SubType": "Pre-Dreadnought",
+    "SubType": "Turret Ship",
     "Existance": "Built",
     "ClassLaidDown": "1891-08-07",
     "StandardDisplacement": 10567,
@@ -13,9 +13,10 @@
     "Speed": 15.7,
     "Range": 5200,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 331,
+    "MainGun": "305/40 Pattern 1895",
+    "MainBroadside": 4,
+    "SecondaryGun": "152/45 Pattern 1892",
+    "SecondaryBroadside": 3,
 
     "ArmorBelt": 356,
     "ArmorBeltAngle": 0
