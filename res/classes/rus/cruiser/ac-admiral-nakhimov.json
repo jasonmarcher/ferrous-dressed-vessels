@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-admiral-nakhimov",
+    "ClassName": "Admiral Nakhimov Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1883-12-19",
+    "StandardDisplacement": 7732,
+
+    "ShipHorsePower": 8000,
+    "Speed": 17,
+    "Range": 8148,
+
+    "MainGun": "203/35",
+    "MainBroadside": 6,
+    "SecondaryGun": "152/35 Pattern 1877",
+    "SecondaryBroadside": 5,
+
+    "ArmorBelt": 254,
+    "ArmorBeltAngle": 0
+}

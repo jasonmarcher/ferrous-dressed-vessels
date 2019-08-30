@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-pamiat-azova",
+    "ClassName": "Pamiat Azova Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1886-03-16",
+    "StandardDisplacement": 6674,
+
+    "ShipHorsePower": 8500,
+    "Speed": 17,
+    "Range": 2963,
+
+    "MainGun": "203/35",
+    "MainBroadside": 1,
+    "SecondaryGun": "152/35 Pattern 1877",
+    "SecondaryBroadside": 6,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}

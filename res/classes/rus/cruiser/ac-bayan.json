@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-bayan",
+    "ClassName": "Bayan Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1898-12-01",
+    "StandardDisplacement": 7725,
+
+    "ShipHorsePower": 16500,
+    "Speed": 21,
+    "Range": 3889,
+
+    "MainGun": "203/45",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/45 Pattern 1892",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 200,
+    "ArmorBeltAngle": 0
+}

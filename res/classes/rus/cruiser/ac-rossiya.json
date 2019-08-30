@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-rossiya",
+    "ClassName": "Rossiya Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-06-01",
+    "StandardDisplacement": 12130,
+
+    "ShipHorsePower": 17000,
+    "Speed": 19.7,
+    "Range": 14334,
+
+    "MainGun": "203/45",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/45 Pattern 1892",
+    "SecondaryBroadside": 8,
+
+    "ArmorBelt": 203,
+    "ArmorBeltAngle": 0
+}

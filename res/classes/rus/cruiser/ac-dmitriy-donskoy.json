@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-dmitriy-donskoy",
+    "ClassName": "Dmitriy Donskoy Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1880-10-12",
+    "StandardDisplacement": 5800,
+
+    "ShipHorsePower": 7000,
+    "Speed": 16.5,
+    "Range": 6111,
+
+    "MainGun": "203/30",
+    "MainBroadside": 1,
+    "SecondaryGun": "152/25 Pattern 1877",
+    "SecondaryBroadside": 7,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}

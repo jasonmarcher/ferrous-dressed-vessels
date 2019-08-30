@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-riurik-1895",
+    "ClassName": "Riurik Class (1895)",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1890-05-31",
+    "StandardDisplacement": 10933,
+
+    "ShipHorsePower": 13250,
+    "Speed": 18,
+    "Range": 12408,
+
+    "MainGun": "203/35",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/45 Pattern 1892",
+    "SecondaryBroadside": 8,
+
+    "ArmorBelt": 254,
+    "ArmorBeltAngle": 0
+}

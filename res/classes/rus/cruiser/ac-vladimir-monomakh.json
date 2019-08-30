@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-vladimir-monomakh",
+    "ClassName": "Vladimir Monomakh Class",
+    "Nation": "rus",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1881-02-28",
+    "StandardDisplacement": 5750,
+
+    "ShipHorsePower": 7000,
+    "Speed": 15.2,
+    "Range": 6482,
+
+    "MainGun": "203/30",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/25 Pattern 1877",
+    "SecondaryBroadside": 6,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}
