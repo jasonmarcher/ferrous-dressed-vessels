@@ -13,9 +13,10 @@
     "Speed": 23,
     "Range": 9074,
 
-    "Caliber": 152,
-    "Broadside": 8,
-    "APShellSize": 41,
+    "MainGun": "152/45 Pattern 1892",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

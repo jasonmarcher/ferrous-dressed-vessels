@@ -13,9 +13,10 @@
     "Speed": 27.5,
     "Range": 7963,
 
-    "Caliber": 150,
-    "Broadside": 4,
-    "APShellSize": 45,
+    "MainGun": "130/53 MK-4",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0

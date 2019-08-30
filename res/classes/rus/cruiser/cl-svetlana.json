@@ -11,11 +11,12 @@
 
     "ShipHorsePower": 50000,
     "Speed": 29.5,
-    "Range": 0,
+    "Range": 5500,
 
-    "Caliber": 130,
-    "Broadside": 8,
-    "APShellSize": 37,
+    "MainGun": "130/53 MK-4",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 76,
     "ArmorBeltAngle": 0

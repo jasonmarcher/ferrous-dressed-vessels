@@ -13,9 +13,10 @@
     "Speed": 35,
     "Range": 9445,
 
-    "Caliber": 180,
-    "Broadside": 9,
-    "APShellSize": 97,
+    "MainGun": "180/57 Pattern 1932",
+    "MainBroadside": 9,
+    "SecondaryGun": "100/56 Pattern 1940",
+    "SecondaryBroadside": 3,
 
     "ArmorBelt": 70,
     "ArmorBeltAngle": 0

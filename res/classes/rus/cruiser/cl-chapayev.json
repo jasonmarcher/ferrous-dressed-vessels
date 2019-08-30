@@ -13,9 +13,10 @@
     "Speed": 33.5,
     "Range": 13000,
 
-    "Caliber": 152,
-    "Broadside": 12,
-    "APShellSize": 55,
+    "MainGun": "152/57 MK-4",
+    "MainBroadside": 12,
+    "SecondaryGun": "100/56 Pattern 1940",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 100,
     "ArmorBeltAngle": 0
