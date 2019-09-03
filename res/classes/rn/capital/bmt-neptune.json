@@ -13,9 +13,10 @@
     "Speed": 14,
     "Range": 2740,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 390,
+    "MainGun": "305/12 MLR Mark II",
+    "MainBroadside": 2,
+    "SecondaryGun": "229/14 MLR Mark I",
+    "SecondaryBroadside": 1,
 
     "ArmorBelt": 305,
     "ArmorBeltAngle": 0

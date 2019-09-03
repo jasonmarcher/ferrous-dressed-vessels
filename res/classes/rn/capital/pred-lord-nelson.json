@@ -13,9 +13,10 @@
     "Speed": 18,
     "Range": 17000,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 385,
+    "MainGun": "305/45 Mark X",
+    "MainBroadside": 4,
+    "SecondaryGun": "234/50 BL Mark XI",
+    "SecondaryBroadside": 5,
 
     "ArmorBelt": 305,
     "ArmorBeltAngle": 0

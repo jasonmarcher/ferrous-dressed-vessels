@@ -13,9 +13,10 @@
     "Speed": 14.7,
     "Range": 9630,
 
-    "Caliber": 406,
-    "Broadside": 2,
-    "APShellSize": 763,
+    "MainGun": "406/18 MLR Mark I",
+    "MainBroadside": 2,
+    "SecondaryGun": "95/21 BL",
+    "SecondaryBroadside": 3,
 
     "ArmorBelt": 610,
     "ArmorBeltAngle": 0

@@ -13,9 +13,10 @@
     "Speed": 17.3,
     "Range": 12964,
 
-    "Caliber": 413,
-    "Broadside": 2,
-    "APShellSize": 820,
+    "MainGun": "413/30 Mark I",
+    "MainBroadside": 2,
+    "SecondaryGun": "254/32 Mark I",
+    "SecondaryBroadside": 1,
 
     "ArmorBelt": 457,
     "ArmorBeltAngle": 0

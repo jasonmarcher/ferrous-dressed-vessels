@@ -1,0 +1,23 @@
+{
+    "ClassID": "bb-lion",
+    "ClassName": "Lion Class",
+    "Nation": "rn",
+
+    "Type": "Battleship",
+    "SubType": "Fast Battleship",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1939-06-01",
+    "StandardDisplacement": 40550,
+
+    "ShipHorsePower": 130000,
+    "Speed": 30,
+    "Range": 25928,
+
+    "MainGun": "406/45 Mark II",
+    "MainBroadside": 9,
+    "SecondaryGun": "134/50 Mark I",
+    "SecondaryBroadside": 8,
+
+    "ArmorBelt": 381,
+    "ArmorBeltAngle": 0
+}

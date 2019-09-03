@@ -13,9 +13,10 @@
     "Speed": 18.5,
     "Range": 9400,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 390,
+    "MainGun": "305/40 Mark IX",
+    "MainBroadside": 4,
+    "SecondaryGun": "234/47 BL Mark X",
+    "SecondaryBroadside": 2,
 
     "ArmorBelt": 229,
     "ArmorBeltAngle": 0

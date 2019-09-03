@@ -13,9 +13,10 @@
     "Speed": 28,
     "Range": 10390,
 
-    "Caliber": 343,
-    "Broadside": 8,
-    "APShellSize": 635,
+    "MainGun": "343/45 Mark V",
+    "MainBroadside": 8,
+    "SecondaryGun": "102/50 BL Mark VII",
+    "SecondaryBroadside": 7,
 
     "ArmorBelt": 229,
     "ArmorBeltAngle": 0

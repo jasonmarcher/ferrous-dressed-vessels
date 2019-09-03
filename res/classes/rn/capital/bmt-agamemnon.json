@@ -13,9 +13,10 @@
     "Speed": 13,
     "Range": 7593,
 
-    "Caliber": 318,
-    "Broadside": 2,
-    "APShellSize": 362,
+    "MainGun": "318/16 MLR Mark I",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/26 BL Mark II",
+    "SecondaryBroadside": 2,
 
     "ArmorBelt": 457,
     "ArmorBeltAngle": 0

@@ -13,9 +13,10 @@
     "Speed": 32,
     "Range": 7400,
 
-    "Caliber": 381,
-    "Broadside": 6,
-    "APShellSize": 879,
+    "MainGun": "381/42 Mark I",
+    "MainBroadside": 6,
+    "SecondaryGun": "102/45 BL Mark IX",
+    "SecondaryBroadside": 13,
 
     "ArmorBelt": 152,
     "ArmorBeltAngle": 0

@@ -13,9 +13,10 @@
     "Speed": 16.5,
     "Range": 15742,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 324,
+    "MainGun": "305/25 Mark III",
+    "MainBroadside": 4,
+    "SecondaryGun": "152/26 BL Mark III",
+    "SecondaryBroadside": 3,
 
     "ArmorBelt": 457,
     "ArmorBeltAngle": 0

@@ -13,9 +13,10 @@
     "Speed": 16,
     "Range": 13000,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 390,
+    "MainGun": "305/35 Mark VIII",
+    "MainBroadside": 4,
+    "SecondaryGun": "152/40 QF Mark I",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 230,
     "ArmorBeltAngle": 0
