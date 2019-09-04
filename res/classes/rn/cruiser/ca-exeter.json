@@ -1,23 +1,23 @@
 {
-    "ClassID": "ca-london",
-    "ClassName": "London Class",
+    "ClassID": "ca-exeter",
+    "ClassName": "Exeter Class",
     "Nation": "rn",
 
     "Type": "Cruiser",
     "SubType": "Heavy Cruiser",
     "Existance": "Built",
-    "ClassLaidDown": "1926-02-23",
-    "StandardDisplacement": 9840,
+    "ClassLaidDown": "1928-08-01",
+    "StandardDisplacement": 8390,
 
     "ShipHorsePower": 80000,
-    "Speed": 31.5,
-    "Range": 15000,
+    "Speed": 32.25,
+    "Range": 20000,
 
     "MainGun": "203/50 BL Mark VIII",
-    "MainBroadside": 8,
+    "MainBroadside": 6,
     "SecondaryGun": "102/45 QF Mark V",
     "SecondaryBroadside": 2,
 
-    "ArmorBelt": 89,
+    "ArmorBelt": 76,
     "ArmorBeltAngle": 0
 }

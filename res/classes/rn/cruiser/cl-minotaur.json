@@ -1,6 +1,6 @@
 {
-    "ClassID": "cl-minotaur",
-    "ClassName": "Minotaur Class",
+    "ClassID": "cl-swiftsure",
+    "ClassName": "Swiftsure Class",
     "Nation": "rn",
 
     "Type": "Cruiser",
@@ -11,11 +11,12 @@
 
     "ShipHorsePower": 72500,
     "Speed": 31.5,
-    "Range": 15000,
+    "Range": 22409,
 
-    "Caliber": 154,
-    "Broadside": 9,
-    "APShellSize": 51,
+    "MainGun": "152/50 BL Mark XXIII",
+    "MainBroadside": 9,
+    "SecondaryGun": "102/45 QF Mark XVI",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 89,
     "ArmorBeltAngle": 0

@@ -13,9 +13,10 @@
     "Speed": 32.25,
     "Range": 9800,
 
-    "Caliber": 152,
-    "Broadside": 6,
-    "APShellSize": 51,
+    "MainGun": "152/50 BL Mark XXIII",
+    "MainBroadside": 6,
+    "SecondaryGun": "102/45 QF Mark XVI",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 76,
     "ArmorBeltAngle": 0

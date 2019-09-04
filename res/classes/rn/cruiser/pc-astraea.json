@@ -13,9 +13,10 @@
     "Speed": 18,
     "Range": 12964,
 
-    "Caliber": 152,
-    "Broadside": 2,
-    "APShellSize": 45,
+    "MainGun": "152/40 QF Mark I",
+    "MainBroadside": 2,
+    "SecondaryGun": "102/40 QF Mark III",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

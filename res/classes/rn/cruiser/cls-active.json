@@ -13,9 +13,10 @@
     "Speed": 25,
     "Range": 8570,
 
-    "Caliber": 102,
-    "Broadside": 6,
-    "APShellSize": 14,
+    "MainGun": "102/50 BL Mark VII",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 25,
     "ArmorBeltAngle": 0

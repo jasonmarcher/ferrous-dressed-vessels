@@ -13,9 +13,10 @@
     "Speed": 16.5,
     "Range": 20372,
 
-    "Caliber": 152,
-    "Broadside": 6,
-    "APShellSize": 45,
+    "MainGun": "152/26 BL Mark III",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

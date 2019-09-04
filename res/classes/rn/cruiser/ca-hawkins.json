@@ -13,9 +13,10 @@
     "Speed": 31,
     "Range": 10000,
 
-    "Caliber": 191,
-    "Broadside": 6,
-    "APShellSize": 91,
+    "MainGun": "190/45 BL Mark VI",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 76,
     "ArmorBeltAngle": 0

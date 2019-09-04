@@ -13,9 +13,10 @@
     "Speed": 17,
     "Range": 16205,
 
-    "Caliber": 203,
-    "Broadside": 2,
-    "APShellSize": 95,
+    "MainGun": "203/30 BL Mark IV",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/26 BL Mark III",
+    "SecondaryBroadside": 5,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

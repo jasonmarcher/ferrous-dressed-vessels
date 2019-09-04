@@ -13,9 +13,10 @@
     "Speed": 32.25,
     "Range": 20000,
 
-    "Caliber": 203,
-    "Broadside": 6,
-    "APShellSize": 116,
+    "MainGun": "203/50 BL Mark VIII",
+    "MainBroadside": 6,
+    "SecondaryGun": "102/45 QF Mark V",
+    "SecondaryBroadside": 2,
 
     "ArmorBelt": 76,
     "ArmorBeltAngle": 0

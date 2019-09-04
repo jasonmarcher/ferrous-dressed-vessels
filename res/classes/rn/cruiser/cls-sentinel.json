@@ -13,9 +13,10 @@
     "Speed": 25,
     "Range": 4560,
 
-    "Caliber": 76,
-    "Broadside": 5,
-    "APShellSize": 6,
+    "MainGun": "76/50 BL Mark I",
+    "MainBroadside": 5,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 51,
     "ArmorBeltAngle": 0

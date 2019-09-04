@@ -13,9 +13,10 @@
     "Speed": 23,
     "Range": 5074,
 
-    "Caliber": 152,
-    "Broadside": 9,
-    "APShellSize": 45,
+    "MainGun": "152/45 BL Mark VII",
+    "MainBroadside": 9,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 102,
     "ArmorBeltAngle": 0

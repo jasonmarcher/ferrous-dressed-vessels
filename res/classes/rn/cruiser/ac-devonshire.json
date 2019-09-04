@@ -13,9 +13,10 @@
     "Speed": 22,
     "Range": 9074,
 
-    "Caliber": 190,
-    "Broadside": 3,
-    "APShellSize": 90.7,
+    "MainGun": "190/45 BL Mark I",
+    "MainBroadside": 3,
+    "SecondaryGun": "152/45 BL Mark VII",
+    "SecondaryBroadside": 3,
 
     "ArmorBelt": 152,
     "ArmorBeltAngle": 0

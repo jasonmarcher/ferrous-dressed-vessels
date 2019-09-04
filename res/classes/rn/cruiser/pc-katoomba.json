@@ -13,9 +13,10 @@
     "Speed": 17,
     "Range": 0,
 
-    "Caliber": 102,
-    "Broadside": 4,
-    "APShellSize": 14,
+    "MainGun": "120/40 QF Mark I",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

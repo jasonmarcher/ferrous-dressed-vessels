@@ -13,9 +13,10 @@
     "Speed": 22,
     "Range": 12964,
 
-    "Caliber": 234,
-    "Broadside": 2,
-    "APShellSize": 170,
+    "MainGun": "234/40 Mark VIII",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/40 QF Mark I",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

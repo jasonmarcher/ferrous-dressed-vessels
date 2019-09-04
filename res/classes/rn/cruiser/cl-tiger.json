@@ -13,9 +13,10 @@
     "Speed": 31.5,
     "Range": 22409,
 
-    "Caliber": 152,
-    "Broadside": 4,
-    "APShellSize": 51,
+    "MainGun": "152/50 BL Mark XXVI",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 89,
     "ArmorBeltAngle": 0

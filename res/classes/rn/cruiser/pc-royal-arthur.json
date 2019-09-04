@@ -1,22 +1,22 @@
 {
-    "ClassID": "pc-edgar",
-    "ClassName": "Edgar Class",
+    "ClassID": "pc-royal-arthur",
+    "ClassName": "Royal Arthur Class",
     "Nation": "rn",
 
     "Type": "Cruiser",
     "SubType": "Protected Cruiser",
     "Existance": "Built",
     "ClassLaidDown": "1889-06-03",
-    "StandardDisplacement": 7350,
+    "StandardDisplacement": 7700,
 
     "ShipHorsePower": 10000,
     "Speed": 18,
     "Range": 18520,
 
     "MainGun": "234/31 Mark III",
-    "MainBroadside": 2,
+    "MainBroadside": 1,
     "SecondaryGun": "152/40 QF Mark I",
-    "SecondaryBroadside": 5,
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

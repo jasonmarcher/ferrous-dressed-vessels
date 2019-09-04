@@ -13,9 +13,10 @@
     "Speed": 29.5,
     "Range": 10930,
 
-    "Caliber": 152,
-    "Broadside": 5,
-    "APShellSize": 45,
+    "MainGun": "152/45 BL Mark XII",
+    "MainBroadside": 5,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 76,
     "ArmorBeltAngle": 0

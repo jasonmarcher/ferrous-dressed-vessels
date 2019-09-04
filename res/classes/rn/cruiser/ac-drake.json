@@ -13,9 +13,10 @@
     "Speed": 23,
     "Range": 12964,
 
-    "Caliber": 234,
-    "Broadside": 2,
-    "APShellSize": 172,
+    "MainGun": "234/47 BL Mark X",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/45 BL Mark VII",
+    "SecondaryBroadside": 8,
 
     "ArmorBelt": 152,
     "ArmorBeltAngle": 0
