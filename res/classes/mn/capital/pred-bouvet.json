@@ -7,15 +7,16 @@
     "SubType": "Pre-Dreadnought",
     "Existance": "Built",
     "ClassLaidDown": "1893-01-16",
-    "StandardDisplacement": 13400,
+    "StandardDisplacement": 12007,
 
-    "ShipHorsePower": 14000,
+    "ShipHorsePower": 15000,
     "Speed": 18,
     "Range": 5600,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 349,
+    "MainGun": "305/40 M1893",
+    "MainBroadside": 2,
+    "SecondaryGun": "274/45 M1887",
+    "SecondaryBroadside": 1,
 
     "ArmorBelt": 400,
     "ArmorBeltAngle": 0

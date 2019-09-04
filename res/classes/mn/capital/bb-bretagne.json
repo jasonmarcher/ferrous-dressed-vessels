@@ -13,9 +13,10 @@
     "Speed": 20,
     "Range": 8500,
 
-    "Caliber": 340,
-    "Broadside": 10,
-    "APShellSize": 540,
+    "MainGun": "340/45 M1912",
+    "MainBroadside": 10,
+    "SecondaryGun": "139/55 M1910",
+    "SecondaryBroadside": 11,
 
     "ArmorBelt": 270,
     "ArmorBeltAngle": 0

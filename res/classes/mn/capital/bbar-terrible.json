@@ -13,9 +13,10 @@
     "Speed": 15.5,
     "Range": 3704,
 
-    "Caliber": 420,
-    "Broadside": 2,
-    "APShellSize": 820,
+    "MainGun": "420/19 M1875",
+    "MainBroadside": 2,
+    "SecondaryGun": "100/26 M1881",
+    "SecondaryBroadside": 2,
 
     "ArmorBelt": 500,
     "ArmorBeltAngle": 0

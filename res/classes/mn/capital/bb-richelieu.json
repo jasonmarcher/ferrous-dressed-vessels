@@ -13,9 +13,10 @@
     "Speed": 32,
     "Range": 17600,
 
-    "Caliber": 380,
-    "Broadside": 8,
-    "APShellSize": 884,
+    "MainGun": "380/45 M1935",
+    "MainBroadside": 8,
+    "SecondaryGun": "152/55 M1930",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 327,
     "ArmorBeltAngle": 15

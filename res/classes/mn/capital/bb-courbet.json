@@ -13,9 +13,10 @@
     "Speed": 21,
     "Range": 7800,
 
-    "Caliber": 305,
-    "Broadside": 10,
-    "APShellSize": 440,
+    "MainGun": "305/45 M1906-10",
+    "MainBroadside": 10,
+    "SecondaryGun": "139/55 M1910",
+    "SecondaryBroadside": 11,
 
     "ArmorBelt": 250,
     "ArmorBeltAngle": 0

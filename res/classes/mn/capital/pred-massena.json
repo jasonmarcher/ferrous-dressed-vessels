@@ -1,10 +1,10 @@
 {
-    "ClassID": "bbar-massena",
+    "ClassID": "pred-massena",
     "ClassName": "Massena Class",
     "Nation": "mn",
 
     "Type": "Battleship",
-    "SubType": "Barbette Ship",
+    "SubType": "Pre-Dreadnought",
     "Existance": "Built",
     "ClassLaidDown": "1892-09-01",
     "StandardDisplacement": 11735,
@@ -13,9 +13,10 @@
     "Speed": 17,
     "Range": 7408,
 
-    "Caliber": 340,
-    "Broadside": 2,
-    "APShellSize": 420,
+    "MainGun": "305/40 M1893",
+    "MainBroadside": 2,
+    "SecondaryGun": "274/45 M1887",
+    "SecondaryBroadside": 1,
 
     "ArmorBelt": 460,
     "ArmorBeltAngle": 0

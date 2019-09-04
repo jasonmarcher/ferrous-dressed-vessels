@@ -13,9 +13,10 @@
     "Speed": 19,
     "Range": 5778,
 
-    "Caliber": 305,
-    "Broadside": 4,
-    "APShellSize": 440,
+    "MainGun": "305/45 M1906",
+    "MainBroadside": 4,
+    "SecondaryGun": "240/50 M1906",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 250,
     "ArmorBeltAngle": 0

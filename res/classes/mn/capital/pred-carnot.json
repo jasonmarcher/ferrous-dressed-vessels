@@ -13,9 +13,10 @@
     "Speed": 17.8,
     "Range": 0,
 
-    "Caliber": 305,
-    "Broadside": 2,
-    "APShellSize": 292,
+    "MainGun": "305/45 M1887",
+    "MainBroadside": 2,
+    "SecondaryGun": "274/45 M1887",
+    "SecondaryBroadside": 1,
 
     "ArmorBelt": 460,
     "ArmorBeltAngle": 0

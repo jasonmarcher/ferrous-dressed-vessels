@@ -13,9 +13,10 @@
     "Speed": 29.5,
     "Range": 14540,
 
-    "Caliber": 330,
-    "Broadside": 8,
-    "APShellSize": 560,
+    "MainGun": "330/52 M1931",
+    "MainBroadside": 8,
+    "SecondaryGun": "130/45 M1932",
+    "SecondaryBroadside": 10,
 
     "ArmorBelt": 225,
     "ArmorBeltAngle": 11
