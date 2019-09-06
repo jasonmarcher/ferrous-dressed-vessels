@@ -13,9 +13,10 @@
     "Speed": 33,
     "Range": 8334,
 
-    "Caliber": 155,
-    "Broadside": 8,
-    "APShellSize": 56,
+    "MainGun": "155/50 M1920",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 20,
     "ArmorBeltAngle": 0

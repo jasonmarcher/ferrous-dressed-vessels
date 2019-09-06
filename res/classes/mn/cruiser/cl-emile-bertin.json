@@ -13,9 +13,10 @@
     "Speed": 34,
     "Range": 6667,
 
-    "Caliber": 152,
-    "Broadside": 9,
-    "APShellSize": 56,
+    "MainGun": "152/55 M1930",
+    "MainBroadside": 9,
+    "SecondaryGun": "90/50 M1926",
+    "SecondaryBroadside": 3,
 
     "ArmorBelt": 30,
     "ArmorBeltAngle": 0

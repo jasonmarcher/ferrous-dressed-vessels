@@ -1,0 +1,23 @@
+{
+    "ClassID": "bbar-bayard",
+    "ClassName": "Bayard Class",
+    "Nation": "mn",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1876-10-01",
+    "StandardDisplacement": 5915,
+
+    "ShipHorsePower": 4400,
+    "Speed": 14.5,
+    "Range": 0,
+
+    "MainGun": "240/18 M1870",
+    "MainBroadside": 3,
+    "SecondaryGun": "139/21 M1870",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 250,
+    "ArmorBeltAngle": 0
+}

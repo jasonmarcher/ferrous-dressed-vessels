@@ -13,9 +13,10 @@
     "Speed": 19.2,
     "Range": 14816,
 
-    "Caliber": 240,
-    "Broadside": 2,
-    "APShellSize": 221,
+    "MainGun": "240/40 M1893",
+    "MainBroadside": 2,
+    "SecondaryGun": "139/30 M1884",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

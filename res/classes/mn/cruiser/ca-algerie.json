@@ -13,9 +13,10 @@
     "Speed": 31,
     "Range": 16112,
 
-    "Caliber": 203,
-    "Broadside": 8,
-    "APShellSize": 134,
+    "MainGun": "203/55 M1931",
+    "MainBroadside": 8,
+    "SecondaryGun": "100/45 M1930",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 110,
     "ArmorBeltAngle": 0

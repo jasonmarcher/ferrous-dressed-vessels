@@ -13,9 +13,10 @@
     "Speed": 21.5,
     "Range": 7408,
 
-    "Caliber": 194,
-    "Broadside": 2,
-    "APShellSize": 89,
+    "MainGun": "194/50 M1902",
+    "MainBroadside": 2,
+    "SecondaryGun": "165/45 M1896",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 150,
     "ArmorBeltAngle": 0

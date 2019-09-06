@@ -1,0 +1,23 @@
+{
+    "ClassID": "bbar-vauban",
+    "ClassName": "Vauban Class",
+    "Nation": "mn",
+
+    "Type": "Battleship",
+    "SubType": "Barbette Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1878-12-01",
+    "StandardDisplacement": 6112,
+
+    "ShipHorsePower": 4400,
+    "Speed": 14.5,
+    "Range": 0,
+
+    "MainGun": "240/18 M1870",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 250,
+    "ArmorBeltAngle": 0
+}
