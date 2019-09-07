@@ -5,7 +5,7 @@
 
     "Type": "Battleship",
     "SubType": "Fast Battleship",
-    "Existance": "Built",
+    "Existance": "Cancelled",
     "ClassLaidDown": "1914-10-16",
     "StandardDisplacement": 34600,
 
@@ -13,9 +13,10 @@
     "Speed": 28,
     "Range": 15000,
 
-    "Caliber": 381,
-    "Broadside": 8,
-    "APShellSize": 884,
+    "MainGun": "381/40 1914",
+    "MainBroadside": 8,
+    "SecondaryGun": "152/50 A1913",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 303,
     "ArmorBeltAngle": 0

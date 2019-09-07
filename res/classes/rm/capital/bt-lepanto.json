@@ -1,0 +1,23 @@
+{
+    "ClassID": "bt-lepanto",
+    "ClassName": "Lepanto Class",
+    "Nation": "rm",
+
+    "Type": "Battleship",
+    "SubType": "Turret Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1876-11-04",
+    "StandardDisplacement": 13336,
+
+    "ShipHorsePower": 15797,
+    "Speed": 18.4,
+    "Range": 9260,
+
+    "MainGun": "432/27",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/32 B",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

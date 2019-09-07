@@ -13,9 +13,10 @@
     "Speed": 30,
     "Range": 8480,
 
-    "Caliber": 381,
-    "Broadside": 9,
-    "APShellSize": 884,
+    "MainGun": "381/50 Ansaldo 1934",
+    "MainBroadside": 9,
+    "SecondaryGun": "152/55 Ansaldo 1934",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 280,
     "ArmorBeltAngle": 15

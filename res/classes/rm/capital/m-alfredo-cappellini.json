@@ -1,0 +1,23 @@
+{
+    "ClassID": "m-alfredo-cappellini",
+    "ClassName": "Alfredo Cappellini Class",
+    "Nation": "rm",
+
+    "Type": "Coastal Defense",
+    "SubType": "Monitor",
+    "Existance": "Built",
+    "ClassLaidDown": "1915-03-01",
+    "StandardDisplacement": 1452,
+
+    "ShipHorsePower": 265,
+    "Speed": 3.5,
+    "Range": 0,
+
+    "MainGun": "381/40 1914",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

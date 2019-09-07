@@ -1,0 +1,23 @@
+{
+    "ClassID": "m-faa-di-bruno",
+    "ClassName": "Faa di Bruno Class",
+    "Nation": "rm",
+
+    "Type": "Coastal Defense",
+    "SubType": "Monitor",
+    "Existance": "Built",
+    "ClassLaidDown": "1915-05-01",
+    "StandardDisplacement": 2809,
+
+    "ShipHorsePower": 465,
+    "Speed": 2.5,
+    "Range": 0,
+
+    "MainGun": "381/40 1914",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

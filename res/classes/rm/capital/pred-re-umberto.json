@@ -1,0 +1,23 @@
+{
+    "ClassID": "pred-re-umberto",
+    "ClassName": "Re Umberto Class",
+    "Nation": "rm",
+
+    "Type": "Battleship",
+    "SubType": "Pre-Dreadnought",
+    "Existance": "Built",
+    "ClassLaidDown": "1884-07-10",
+    "StandardDisplacement": 13679,
+
+    "ShipHorsePower": 17000,
+    "Speed": 18.2,
+    "Range": 7408,
+
+    "MainGun": "343/30 Mark I",
+    "MainBroadside": 4,
+    "SecondaryGun": "152/40 A91",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}

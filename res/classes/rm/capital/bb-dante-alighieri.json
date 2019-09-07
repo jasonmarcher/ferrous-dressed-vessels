@@ -13,9 +13,10 @@
     "Speed": 22,
     "Range": 8900,
 
-    "Caliber": 305,
-    "Broadside": 12,
-    "APShellSize": 417,
+    "MainGun": "305/46 1909",
+    "MainBroadside": 12,
+    "SecondaryGun": "120/50 1909",
+    "SecondaryBroadside": 6,
 
     "ArmorBelt": 254,
     "ArmorBeltAngle": 0
