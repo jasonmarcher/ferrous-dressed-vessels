@@ -13,9 +13,10 @@
     "Speed": 37,
     "Range": 7037,
 
-    "Caliber": 152,
-    "Broadside": 8,
-    "APShellSize": 50,
+    "MainGun": "152/53 OTO 1926",
+    "MainBroadside": 8,
+    "SecondaryGun": "100/47 OTO 1924",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 24,
     "ArmorBeltAngle": 0

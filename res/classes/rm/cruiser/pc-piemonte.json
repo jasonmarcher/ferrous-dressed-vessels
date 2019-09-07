@@ -13,9 +13,10 @@
     "Speed": 20.4,
     "Range": 12964,
 
-    "Caliber": 152,
-    "Broadside": 4,
-    "APShellSize": 45,
+    "MainGun": "152/40 A91",
+    "MainBroadside": 4,
+    "SecondaryGun": "120/40 A91",
+    "SecondaryBroadside": 3,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0,

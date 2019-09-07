@@ -13,9 +13,10 @@
     "Speed": 34,
     "Range": 7639,
 
-    "Caliber": 152,
-    "Broadside": 10,
-    "APShellSize": 50,
+    "MainGun": "152/55 Ansaldo 1934",
+    "MainBroadside": 10,
+    "SecondaryGun": "100/47 OTO 1924",
+    "SecondaryBroadside": 4,
 
     "ArmorBelt": 100,
     "ArmorBeltAngle": 0

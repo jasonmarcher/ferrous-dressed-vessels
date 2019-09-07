@@ -13,9 +13,10 @@
     "Speed": 19.5,
     "Range": 8148,
 
-    "Caliber": 254,
-    "Broadside": 1,
-    "APShellSize": 227,
+    "MainGun": "254/40 EOC R",
+    "MainBroadside": 1,
+    "SecondaryGun": "203/45 EOC W",
+    "SecondaryBroadside": 2,
 
     "ArmorBelt": 150,
     "ArmorBeltAngle": 0

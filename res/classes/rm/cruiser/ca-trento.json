@@ -13,9 +13,10 @@
     "Speed": 34,
     "Range": 7704,
 
-    "Caliber": 203,
-    "Broadside": 8,
-    "APShellSize": 125,
+    "MainGun": "203/50 Ansaldo 1924",
+    "MainBroadside": 8,
+    "SecondaryGun": "100/47 OTO 1924",
+    "SecondaryBroadside": 8,
 
     "ArmorBelt": 70,
     "ArmorBeltAngle": 0

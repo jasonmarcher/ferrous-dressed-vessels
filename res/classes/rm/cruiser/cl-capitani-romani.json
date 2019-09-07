@@ -13,9 +13,10 @@
     "Speed": 40,
     "Range": 5556,
 
-    "Caliber": 135,
-    "Broadside": 8,
-    "APShellSize": 33,
+    "MainGun": "135/45 Ansaldo 1938",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
 
     "ArmorBelt": 0,
     "ArmorBeltAngle": 0
