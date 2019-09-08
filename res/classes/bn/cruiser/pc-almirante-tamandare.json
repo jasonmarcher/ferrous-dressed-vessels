@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-almirante-tamandare",
+    "ClassName": "Almirante Tamandare Class",
+    "Nation": "an",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1885-06-01",
+    "StandardDisplacement": 4735,
+
+    "ShipHorsePower": 7500,
+    "Speed": 17,
+    "Range": 7408,
+
+    "MainGun": "152/40 Armstrong W",
+    "MainBroadside": 5,
+    "SecondaryGun": "120/40 Armstrong P",
+    "SecondaryBroadside": 1,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

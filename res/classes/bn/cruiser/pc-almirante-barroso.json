@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-almirante-barroso",
+    "ClassName": "Almirante Barroso Class",
+    "Nation": "an",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-06-01",
+    "StandardDisplacement": 3437,
+
+    "ShipHorsePower": 7500,
+    "Speed": 20.2,
+    "Range": 0,
+
+    "MainGun": "152/50 Armstrong DD",
+    "MainBroadside": 4,
+    "SecondaryGun": "120/50 Armstrong AA",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 88
+}

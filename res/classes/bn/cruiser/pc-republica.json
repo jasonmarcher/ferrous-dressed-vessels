@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-republica",
+    "ClassName": "Republica Class",
+    "Nation": "an",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-05-26",
+    "StandardDisplacement": 1300,
+
+    "ShipHorsePower": 3800,
+    "Speed": 17.4,
+    "Range": 0,
+
+    "MainGun": "120/40 Armstrong T",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

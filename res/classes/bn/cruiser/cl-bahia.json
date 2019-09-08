@@ -1,0 +1,23 @@
+{
+    "ClassID": "cl-bahia",
+    "ClassName": "Bahia Class",
+    "Nation": "bn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1907-08-19",
+    "StandardDisplacement": 3100,
+
+    "ShipHorsePower": 18000,
+    "Speed": 26.5,
+    "Range": 12223,
+
+    "MainGun": "120/50 BL EOC CC",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 31,
+    "ArmorBeltAngle": 0
+}
