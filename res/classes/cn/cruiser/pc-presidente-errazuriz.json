@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-presidente-errazuriz",
+    "ClassName": "Presidente Errazuriz Class",
+    "Nation": "cn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1889-06-01",
+    "StandardDisplacement": 2047,
+
+    "ShipHorsePower": 5400,
+    "Speed": 18.3,
+    "Range": 0,
+
+    "MainGun": "150/36 Canet M1884",
+    "MainBroadside": 2,
+    "SecondaryGun": "120/36 Canet M1884",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 60
+}

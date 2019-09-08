@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-chacabuco",
+    "ClassName": "Chacabuco Class",
+    "Nation": "cn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-08-14",
+    "StandardDisplacement": 4500,
+
+    "ShipHorsePower": 15700,
+    "Speed": 23,
+    "Range": 13334,
+
+    "MainGun": "203/45 Armstrong U",
+    "MainBroadside": 2,
+    "SecondaryGun": "120/40 Armstrong T",
+    "SecondaryBroadside": 5,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

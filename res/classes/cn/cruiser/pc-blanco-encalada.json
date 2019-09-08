@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-blanco-encalada",
+    "ClassName": "Blanco Encalada Class",
+    "Nation": "cn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-08-01",
+    "StandardDisplacement": 4568,
+
+    "ShipHorsePower": 14600,
+    "Speed": 22.8,
+    "Range": 6204,
+
+    "MainGun": "203/40 Armstrong P",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/40 Armstrong W2",
+    "SecondaryBroadside": 5,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 102
+}
