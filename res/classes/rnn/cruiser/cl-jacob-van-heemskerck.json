@@ -1,0 +1,23 @@
+{
+    "ClassID": "cl-jacob-van-heemskerck",
+    "ClassName": "Jacob van Heemskerck Class",
+    "Nation": "rnn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1938-10-31",
+    "StandardDisplacement": 3765,
+
+    "ShipHorsePower": 56000,
+    "Speed": 33.5,
+    "Range": 11112,
+
+    "MainGun": "102/45 QF Mark XVI",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 16,
+    "ArmorBeltAngle": 0
+}

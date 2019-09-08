@@ -1,0 +1,23 @@
+{
+    "ClassID": "cl-de-zeven-provincien",
+    "ClassName": "De Zeven Provincien Class",
+    "Nation": "rnn",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1939-05-19",
+    "StandardDisplacement": 8350,
+
+    "ShipHorsePower": 78000,
+    "Speed": 32,
+    "Range": 11112,
+
+    "MainGun": "150/53 Bofors M42",
+    "MainBroadside": 10,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 50,
+    "ArmorBeltAngle": 0
+}
