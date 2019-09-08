@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-princesa-de-asturias",
+    "ClassName": "Princesa de Asturias Class",
+    "Nation": "sn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1889-09-23",
+    "StandardDisplacement": 6888,
+
+    "ShipHorsePower": 10500,
+    "Speed": 18,
+    "Range": 12038,
+
+    "MainGun": "240/41 M1896",
+    "MainBroadside": 2,
+    "SecondaryGun": "140/33 Canet",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 300,
+    "ArmorBeltAngle": 0
+}

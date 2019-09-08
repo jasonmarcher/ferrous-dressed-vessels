@@ -1,0 +1,24 @@
+{
+    "ClassID": "pc-rio-de-la-plata",
+    "ClassName": "Rio de La Plata Class",
+    "Nation": "sn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-06-01",
+    "StandardDisplacement": 1875,
+
+    "ShipHorsePower": 6000,
+    "Speed": 18,
+    "Range": 6667,
+
+    "MainGun": "140/43 Canet",
+    "MainBroadside": 2,
+    "SecondaryGun": "100/56",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 50
+}

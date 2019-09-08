@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-carlos-v",
+    "ClassName": "Carlos V Class",
+    "Nation": "sn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-03-04",
+    "StandardDisplacement": 9090,
+
+    "ShipHorsePower": 15000,
+    "Speed": 19,
+    "Range": 17779,
+
+    "MainGun": "280/35 Hontoria M1883",
+    "MainBroadside": 2,
+    "SecondaryGun": "140/35 Hontoria M1883",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 50,
+    "ArmorBeltAngle": 0
+}
