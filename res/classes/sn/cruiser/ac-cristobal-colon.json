@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-cristobal-colon",
+    "ClassName": "Cristobal Colon Class",
+    "Nation": "sn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-06-01",
+    "StandardDisplacement": 7234,
+
+    "ShipHorsePower": 13500,
+    "Speed": 19.5,
+    "Range": 8148,
+
+    "MainGun": "152/40 QF Mark I",
+    "MainBroadside": 5,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

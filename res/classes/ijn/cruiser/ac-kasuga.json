@@ -1,17 +1,17 @@
 {
-    "ClassID": "ac-giuseppe-garibaldi",
-    "ClassName": "Giuseppe Garibaldi Class",
-    "Nation": "rm",
+    "ClassID": "ac-kasuga",
+    "ClassName": "Kasuga Class",
+    "Nation": "ijn",
 
     "Type": "Cruiser",
     "SubType": "Armored Cruiser",
     "Existance": "Built",
-    "ClassLaidDown": "1899-06-29",
-    "StandardDisplacement": 7234,
+    "ClassLaidDown": "1896-08-01",
+    "StandardDisplacement": 7630,
 
     "ShipHorsePower": 13500,
-    "Speed": 19.5,
-    "Range": 8148,
+    "Speed": 20,
+    "Range": 8889,
 
     "MainGun": "254/40 EOC R",
     "MainBroadside": 1,
