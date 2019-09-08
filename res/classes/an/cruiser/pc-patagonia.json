@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-patagonia",
+    "ClassName": "Patagonia Class",
+    "Nation": "an",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1885-06-01",
+    "StandardDisplacement": 1450,
+
+    "ShipHorsePower": 2730,
+    "Speed": 14,
+    "Range": 6482,
+
+    "MainGun": "254/33 Armstrong",
+    "MainBroadside": 1,
+    "SecondaryGun": "152/31 Armstrong K",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 32
+}

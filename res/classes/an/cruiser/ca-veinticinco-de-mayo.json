@@ -1,0 +1,23 @@
+{
+    "ClassID": "ca-veinticinco-de-mayo",
+    "ClassName": "Veinticinco de Mayo Class",
+    "Nation": "an",
+
+    "Type": "Cruiser",
+    "SubType": "Heavy Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1927-10-12",
+    "StandardDisplacement": 6800,
+
+    "ShipHorsePower": 85000,
+    "Speed": 32,
+    "Range": 14871,
+
+    "MainGun": "190/52",
+    "MainBroadside": 6,
+    "SecondaryGun": "102/45",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 70,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-garibaldi",
+    "ClassName": "Garibaldi Class",
+    "Nation": "an",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1894-05-27",
+    "StandardDisplacement": 6775,
+
+    "ShipHorsePower": 13000,
+    "Speed": 20,
+    "Range": 8889,
+
+    "MainGun": "254/40 EOC R",
+    "MainBroadside": 2,
+    "SecondaryGun": "152/40 QF Mark I",
+    "SecondaryBroadside": 5,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}

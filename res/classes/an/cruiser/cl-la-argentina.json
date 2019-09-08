@@ -1,0 +1,23 @@
+{
+    "ClassID": "cl-la-argentina",
+    "ClassName": "La Argentina Class",
+    "Nation": "an",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1936-01-11",
+    "StandardDisplacement": 6500,
+
+    "ShipHorsePower": 54000,
+    "Speed": 30,
+    "Range": 18520,
+
+    "MainGun": "152/50 QF Mark W",
+    "MainBroadside": 9,
+    "SecondaryGun": "102/50 QF Mark P",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

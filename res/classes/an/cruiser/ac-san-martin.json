@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-san-martin",
+    "ClassName": "San Martin Class",
+    "Nation": "an",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-05-01",
+    "StandardDisplacement": 6775,
+
+    "ShipHorsePower": 13000,
+    "Speed": 20,
+    "Range": 8889,
+
+    "MainGun": "203/45 EOC W",
+    "MainBroadside": 4,
+    "SecondaryGun": "152/40 QF Mark I",
+    "SecondaryBroadside": 5,
+
+    "ArmorBelt": 150,
+    "ArmorBeltAngle": 0
+}
