@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-fylgia",
+    "ClassName": "Filgia Class",
+    "Nation": "swn",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1903-10-01",
+    "StandardDisplacement": 4310,
+
+    "ShipHorsePower": 12000,
+    "Speed": 21.5,
+    "Range": 0,
+
+    "MainGun": "152/50 M1903",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}
