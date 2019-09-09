@@ -1,0 +1,24 @@
+{
+    "ClassID": "pc-hamidiye",
+    "ClassName": "Hamidiye Class",
+    "Nation": "tn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1902-04-01",
+    "StandardDisplacement": 1904,
+
+    "ShipHorsePower": 12000,
+    "Speed": 22,
+    "Range": 9260,
+
+    "MainGun": "152/45 Armstrong BB",
+    "MainBroadside": 2,
+    "SecondaryGun": "120/45 Armstrong Y",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 102
+}
