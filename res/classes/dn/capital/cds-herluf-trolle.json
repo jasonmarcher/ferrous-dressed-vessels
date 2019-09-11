@@ -1,0 +1,23 @@
+{
+    "ClassID": "cds-herluf-trolle",
+    "ClassName": "Herluf Trolle Class",
+    "Nation": "dn",
+
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1897-07-20",
+    "StandardDisplacement": 3494,
+
+    "ShipHorsePower": 4200,
+    "Speed": 15.5,
+    "Range": 4444,
+
+    "MainGun": "240/40 M.1896",
+    "MainBroadside": 2,
+    "SecondaryGun": "150/45 M.22",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 195,
+    "ArmorBeltAngle": 0
+}

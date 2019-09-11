@@ -1,0 +1,23 @@
+{
+    "ClassID": "cds-niels-iuel",
+    "ClassName": "Niels Iuel Class",
+    "Nation": "dn",
+
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1914-09-21",
+    "StandardDisplacement": 3800,
+
+    "ShipHorsePower": 5800,
+    "Speed": 16,
+    "Range": 11112,
+
+    "MainGun": "150/45 M.22",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 195,
+    "ArmorBeltAngle": 0
+}

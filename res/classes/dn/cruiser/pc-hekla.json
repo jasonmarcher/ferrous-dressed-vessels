@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-hekla",
+    "ClassName": "Hekla Class",
+    "Nation": "dn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1889-05-09",
+    "StandardDisplacement": 1300,
+
+    "ShipHorsePower": 3000,
+    "Speed": 17,
+    "Range": 3148,
+
+    "MainGun": "150/35 SK C/88",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 43
+}

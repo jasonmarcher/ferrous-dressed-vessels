@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-gejser",
+    "ClassName": "Gejser Class",
+    "Nation": "dn",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1891-01-01",
+    "StandardDisplacement": 1262,
+
+    "ShipHorsePower": 3000,
+    "Speed": 17,
+    "Range": 3148,
+
+    "MainGun": "120/40 C/92",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 50
+}
