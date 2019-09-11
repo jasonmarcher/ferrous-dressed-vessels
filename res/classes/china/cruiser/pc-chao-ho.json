@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-chao-ho",
+    "ClassName": "Chao Ho Class",
+    "Nation": "China",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1910-11-07",
+    "StandardDisplacement": 2725,
+
+    "ShipHorsePower": 6000,
+    "Speed": 20,
+    "Range": 8334,
+
+    "MainGun": "152/45 Armstrong NN",
+    "MainBroadside": 2,
+    "SecondaryGun": "102/50 Armstrong P",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 51
+}

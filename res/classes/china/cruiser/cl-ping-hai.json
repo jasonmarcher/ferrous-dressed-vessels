@@ -1,0 +1,23 @@
+{
+    "ClassID": "cl-ping-hai",
+    "ClassName": "Ping Hai Class",
+    "Nation": "china",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1931-06-28",
+    "StandardDisplacement": 2448,
+
+    "ShipHorsePower": 7400,
+    "Speed": 21,
+    "Range": 9260,
+
+    "MainGun": "140/50 3-shiki",
+    "MainBroadside": 6,
+    "SecondaryGun": "76/40 3-shiki",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}

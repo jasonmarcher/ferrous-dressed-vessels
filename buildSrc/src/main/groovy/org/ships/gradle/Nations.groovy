@@ -9,6 +9,7 @@ class Nations {
             ['an', 'Argentinian Navy'],
             ['bn', 'Brazilian Navy'],
             ['cn', 'Chilean Navy'],
+            ['china', 'Chinese Navy'],
             ['dn', 'Danish Navy'],
             ['fn', 'Finish Navy'],
             ['gn', 'Greek Navy'],

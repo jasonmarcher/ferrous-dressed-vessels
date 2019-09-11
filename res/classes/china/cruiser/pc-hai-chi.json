@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-hai-chi",
+    "ClassName": "Hai Chi Class",
+    "Nation": "China",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-11-11",
+    "StandardDisplacement": 4300,
+
+    "ShipHorsePower": 17000,
+    "Speed": 24,
+    "Range": 14816,
+
+    "MainGun": "203/45 Armstrong T",
+    "MainBroadside": 2,
+    "SecondaryGun": "120/50 Armstrong Y",
+    "SecondaryBroadside": 5,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 127
+}

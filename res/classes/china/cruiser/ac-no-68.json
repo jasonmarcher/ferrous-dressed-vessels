@@ -1,0 +1,23 @@
+{
+    "ClassID": "ac-no-68",
+    "ClassName": "No 68 Class",
+    "Nation": "china",
+
+    "Type": "Cruiser",
+    "SubType": "Armored Cruiser",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1915-03-01",
+    "StandardDisplacement": 4900,
+
+    "ShipHorsePower": 37000,
+    "Speed": 28,
+    "Range": 5556,
+
+    "MainGun": "203/50 K/16",
+    "MainBroadside": 4,
+    "SecondaryGun": "120/45 K/14",
+    "SecondaryBroadside": 6,
+
+    "ArmorBelt": 100,
+    "ArmorBeltAngle": 0
+}

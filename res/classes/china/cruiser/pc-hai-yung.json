@@ -1,0 +1,24 @@
+{
+    "ClassID": "cl-hai-yung",
+    "ClassName": "Hai Yung Class",
+    "Nation": "China",
+
+    "Type": "Cruiser",
+    "SubType": "Protected Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-06-01",
+    "StandardDisplacement": 2680,
+
+    "ShipHorsePower": 7500,
+    "Speed": 19.5,
+    "Range": 3889,
+
+    "MainGun": "150/40 SK C/97",
+    "MainBroadside": 2,
+    "SecondaryGun": "105/40 SK C/97",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 70
+}

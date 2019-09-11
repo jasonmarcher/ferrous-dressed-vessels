@@ -1,0 +1,23 @@
+{
+    "ClassID": "cl-ning-hai",
+    "ClassName": "Ning Hai Class",
+    "Nation": "china",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1931-02-20",
+    "StandardDisplacement": 2526,
+
+    "ShipHorsePower": 10500,
+    "Speed": 23,
+    "Range": 9260,
+
+    "MainGun": "140/50 3-shiki",
+    "MainBroadside": 6,
+    "SecondaryGun": "76/40 3-shiki",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 76,
+    "ArmorBeltAngle": 0
+}
