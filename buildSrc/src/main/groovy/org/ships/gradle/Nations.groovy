@@ -16,6 +16,7 @@ class Nations {
             ['ijn', 'Imperial Japanese Navy'],
             ['km', 'German Navy'],
             ['mn', 'Marine Nationale'],
+            ['norway', 'Norwegian Navy'],
             ['rm', 'Regia Marina'],
             ['rn', 'Royal Navy'],
             ['rnn', 'Royal Netherlands Navy'],
