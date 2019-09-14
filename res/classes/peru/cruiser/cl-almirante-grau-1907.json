@@ -1,0 +1,23 @@
+{
+    "ClassID": "cl-almirante-grau-1907",
+    "ClassName": "Almirante Grau Class (1907)",
+    "Nation": "peru",
+
+    "Type": "Cruiser",
+    "SubType": "Light Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1905-03-01",
+    "StandardDisplacement": 3100,
+
+    "ShipHorsePower": 14000,
+    "Speed": 24,
+    "Range": 6067,
+
+    "MainGun": "150/50 Vickers J",
+    "MainBroadside": 2,
+    "SecondaryGun": "76/40 Vickers N",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 38,
+    "ArmorBeltAngle": 0
+}

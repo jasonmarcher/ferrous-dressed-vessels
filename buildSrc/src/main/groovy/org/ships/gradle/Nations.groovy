@@ -17,6 +17,7 @@ class Nations {
             ['km', 'German Navy'],
             ['mn', 'Marine Nationale'],
             ['norway', 'Norwegian Navy'],
+            ['peru', 'Peruvian Navy'],
             ['rm', 'Regia Marina'],
             ['rn', 'Royal Navy'],
             ['rnn', 'Royal Netherlands Navy'],
