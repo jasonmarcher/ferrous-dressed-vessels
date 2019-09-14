@@ -7,7 +7,6 @@ class Gun {
     String GunID
 
     Date DateOfDesign
-    Date DateInService
 
     int GunCaliber
     int GunLength
@@ -22,7 +21,6 @@ class Gun {
             GunID = json.GunID
 
             DateOfDesign = (new SimpleDateFormat('yyyy-mm-dd')).parse(json.DateOfDesign)
-            DateInService = (new SimpleDateFormat('yyyy-mm-dd')).parse(json.DateInService)
 
             GunCaliber = json.GunCaliber
             GunLength = json.GunLength
@@ -40,7 +38,6 @@ class Gun {
         GunID = gunID
 
         DateOfDesign = dateOfDesign
-        DateInService = dateOfDesign
 
         GunCaliber = caliber
         PrimaryShellWeight = primaryShellWeight
