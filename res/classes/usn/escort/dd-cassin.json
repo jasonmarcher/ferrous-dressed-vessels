@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-cassin",
+    "ClassName": "Cassin Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1912-03-01",
+    "StandardDisplacement": 1010,
+
+    "ShipHorsePower": 16000,
+    "Speed": 29,
+    "Range": 4200,
+
+    "MainGun": "102/50 Mk 7",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

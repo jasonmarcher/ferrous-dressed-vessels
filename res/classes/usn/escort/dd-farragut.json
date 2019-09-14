@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-farragut",
+    "ClassName": "Farragut Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1932-09-01",
+    "StandardDisplacement": 1358,
+
+    "ShipHorsePower": 42800,
+    "Speed": 36.5,
+    "Range": 12038,
+
+    "MainGun": "127/38 Mk 12 Pedestal",
+    "MainBroadside": 5,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-paulding",
+    "ClassName": "Paulding Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1908-08-01",
+    "StandardDisplacement": 742,
+
+    "ShipHorsePower": 12000,
+    "Speed": 29.5,
+    "Range": 6191,
+
+    "MainGun": "76/50 Mk 3",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

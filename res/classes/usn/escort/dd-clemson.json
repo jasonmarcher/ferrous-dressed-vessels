@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-clemson",
+    "ClassName": "Clemson Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1918-04-01",
+    "StandardDisplacement": 1190,
+
+    "ShipHorsePower": 27000,
+    "Speed": 35,
+    "Range": 4630,
+
+    "MainGun": "102/50 Mk 7",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

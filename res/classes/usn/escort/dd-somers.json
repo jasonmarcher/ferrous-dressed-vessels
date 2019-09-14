@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-somers",
+    "ClassName": "Somers Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1935-06-01",
+    "StandardDisplacement": 2047,
+
+    "ShipHorsePower": 52000,
+    "Speed": 37,
+    "Range": 13890,
+
+    "MainGun": "127/38 Mk 12 Ring",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

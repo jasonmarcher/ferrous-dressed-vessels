@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-o-brien",
+    "ClassName": "O'Brien Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1913-07-01",
+    "StandardDisplacement": 1050,
+
+    "ShipHorsePower": 17000,
+    "Speed": 29,
+    "Range": 4200,
+
+    "MainGun": "102/50 Mk 7",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

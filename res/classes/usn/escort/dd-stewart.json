@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-stewart",
+    "ClassName": "Stewart Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1900-01-01",
+    "StandardDisplacement": 420,
+
+    "ShipHorsePower": 8000,
+    "Speed": 29,
+    "Range": 4250,
+
+    "MainGun": "76/50 Mk 3",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/50 Mk2",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "tbd-farragut",
+    "ClassName": "Farragut Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Boat Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1897-07-01",
+    "StandardDisplacement": 279,
+
+    "ShipHorsePower": 5878,
+    "Speed": 30,
+    "Range": 0,
+
+    "MainGun": "57/50 Mk2",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

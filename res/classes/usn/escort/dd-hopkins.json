@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-hopkins",
+    "ClassName": "Hopkins Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1899-02-01",
+    "StandardDisplacement": 408,
+
+    "ShipHorsePower": 7200,
+    "Speed": 29,
+    "Range": 3750,
+
+    "MainGun": "76/50 Mk 3",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/50 Mk2",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

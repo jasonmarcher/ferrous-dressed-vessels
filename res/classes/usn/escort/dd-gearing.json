@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-gearing",
+    "ClassName": "Gearing Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1944-03-01",
+    "StandardDisplacement": 2616,
+
+    "ShipHorsePower": 60000,
+    "Speed": 36.8,
+    "Range": 8334,
+
+    "MainGun": "127/38 Mk 12 Ring",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-sampson",
+    "ClassName": "Sampson Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1915-03-01",
+    "StandardDisplacement": 1100,
+
+    "ShipHorsePower": 17500,
+    "Speed": 29.5,
+    "Range": 7963,
+
+    "MainGun": "102/50 Mk 7",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

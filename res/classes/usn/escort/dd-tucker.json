@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-tucker",
+    "ClassName": "Tucker Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1914-02-01",
+    "StandardDisplacement": 1090,
+
+    "ShipHorsePower": 17500,
+    "Speed": 29.5,
+    "Range": 4630,
+
+    "MainGun": "102/50 Mk 7",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

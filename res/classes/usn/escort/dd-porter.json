@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-porter",
+    "ClassName": "Porter Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1933-12-01",
+    "StandardDisplacement": 1834,
+
+    "ShipHorsePower": 50000,
+    "Speed": 37,
+    "Range": 12038,
+
+    "MainGun": "127/38 Mk 12 Ring",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
