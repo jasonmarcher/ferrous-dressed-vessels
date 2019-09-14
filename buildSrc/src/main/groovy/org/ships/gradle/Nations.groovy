@@ -21,6 +21,7 @@ class Nations {
             ['rm', 'Regia Marina'],
             ['rn', 'Royal Navy'],
             ['rnn', 'Royal Netherlands Navy'],
+            ['romania', 'Romanian Navy'],
             ['rus', 'Russian Navy'],
             ['sn', 'Spanish Navy'],
             ['swn', 'Swidish Navy'],
