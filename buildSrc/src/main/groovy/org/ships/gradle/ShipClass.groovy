@@ -1,7 +1,7 @@
 package org.ships.gradle
 
-import org.apache.commons.csv.CSVPrinter
 import java.text.SimpleDateFormat
+import org.apache.commons.csv.CSVPrinter
 
 class ShipClass {
     String ClassID
@@ -18,13 +18,13 @@ class ShipClass {
     float Speed
     int Range
 
-    Gun MainGun
+    String MainGun
     int MainBroadside
 
     int ArmorBelt
     int ArmorBeltAngle
 
-    ShipClass(Object json, Armory armory) {
+    ShipClass(Object json) {
         try {
             ClassID = json.ClassID
             ClassName = json.ClassName
@@ -40,14 +40,8 @@ class ShipClass {
             Speed = json.Speed
             Range = json.Range
 
-            if (json.MainGun) {
-                MainGun = armory.guns[json.MainGun]
-                if (MainGun == null) {println(ClassID)}
-                MainBroadside = json.MainBroadside
-            } else {
-                MainGun = new Gun("$json.ClassID-$json.Caliber".toString(), (new SimpleDateFormat('yyyy-mm-dd')).parse(json.ClassLaidDown), json.Caliber, json.APShellSize)
-                MainBroadside = json.Broadside
-            }
+            MainGun = json.MainGun
+            MainBroadside = json.MainBroadside
 
             ArmorBelt = json.ArmorBelt
             ArmorBeltAngle = json.ArmorBeltAngle
@@ -73,9 +67,8 @@ class ShipClass {
         printer.print(Range)
 
         // TODO: Main gun
-        printer.print(MainGun.gunCaliber)
+        printer.print(MainGun)
         printer.print(MainBroadside)
-        printer.print(MainGun.PrimaryShellWeight)
 
         // TODO: Secondary gun
 
