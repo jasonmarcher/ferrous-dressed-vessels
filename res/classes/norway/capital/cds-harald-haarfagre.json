@@ -1,0 +1,23 @@
+{
+    "ClassID": "cds-harald-haarfagre",
+    "ClassName": "Harald Haarfagre Class",
+    "Nation": "norway",
+
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-03-01",
+    "StandardDisplacement": 3380,
+
+    "ShipHorsePower": 4000,
+    "Speed": 16.9,
+    "Range": 9260,
+
+    "MainGun": "210/45 Armstrong B",
+    "MainBroadside": 2,
+    "SecondaryGun": "120/45 Armstrong Y",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 178,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "cds-norge",
+    "ClassName": "Norge Class",
+    "Nation": "norway",
+
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1899-03-01",
+    "StandardDisplacement": 3645,
+
+    "ShipHorsePower": 4500,
+    "Speed": 16.5,
+    "Range": 11112,
+
+    "MainGun": "210/45 Armstrong C",
+    "MainBroadside": 2,
+    "SecondaryGun": "150/45 Armstrong FF",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 152,
+    "ArmorBeltAngle": 0
+}

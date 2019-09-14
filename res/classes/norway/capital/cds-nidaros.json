@@ -1,0 +1,23 @@
+{
+    "ClassID": "cds-nidaros",
+    "ClassName": "Nidaros Class",
+    "Nation": "norway",
+
+    "Type": "Coastal Defense",
+    "SubType": "Coastal Defense Ship",
+    "Existance": "Built",
+    "ClassLaidDown": "1913-05-26",
+    "StandardDisplacement": 4900,
+
+    "ShipHorsePower": 4500,
+    "Speed": 15,
+    "Range": 4630,
+
+    "MainGun": "240/50 Armstrong E",
+    "MainBroadside": 2,
+    "SecondaryGun": "150/50 Armstrong UU",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 178,
+    "ArmorBeltAngle": 0
+}
