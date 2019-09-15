@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-dryad",
+    "ClassName": "Dryad Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-12-01",
+    "StandardDisplacement": 1070,
+
+    "ShipHorsePower": 3500,
+    "Speed": 18.2,
+    "Range": 4630,
+
+    "MainGun": "120/40 QF Mark I",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

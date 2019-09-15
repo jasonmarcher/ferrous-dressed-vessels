@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-amazon",
+    "ClassName": "Amazon Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1925-01-01",
+    "StandardDisplacement": 1352,
+
+    "ShipHorsePower": 38500,
+    "Speed": 37,
+    "Range": 6296,
+
+    "MainGun": "120/45 Mark I",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

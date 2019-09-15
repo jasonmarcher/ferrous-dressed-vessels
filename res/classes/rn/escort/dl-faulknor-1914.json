@@ -1,0 +1,23 @@
+{
+    "ClassID": "dl-faulknor-1914",
+    "ClassName": "Faulknor Class (1914)",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer Leader",
+    "Existance": "Built",
+    "ClassLaidDown": "1912-02-01",
+    "StandardDisplacement": 1910,
+
+    "ShipHorsePower": 30000,
+    "Speed": 31,
+    "Range": 0,
+
+    "MainGun": "102/40 QF Mark VI",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

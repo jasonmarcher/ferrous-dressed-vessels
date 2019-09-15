@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-daring",
+    "ClassName": "Daring Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-07-01",
+    "StandardDisplacement": 288,
+
+    "ShipHorsePower": 3200,
+    "Speed": 27,
+    "Range": 5556,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

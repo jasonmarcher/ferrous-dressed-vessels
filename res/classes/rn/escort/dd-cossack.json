@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-cossack",
+    "ClassName": "Cossack Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1905-05-01",
+    "StandardDisplacement": 880,
+
+    "ShipHorsePower": 14000,
+    "Speed": 33,
+    "Range": 1852,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

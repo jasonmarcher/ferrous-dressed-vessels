@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-dunkirk",
+    "ClassName": "Dunkirk Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1943-08-01",
+    "StandardDisplacement": 2380,
+
+    "ShipHorsePower": 50000,
+    "Speed": 33.75,
+    "Range": 8148,
+
+    "MainGun": "114/45 Mark I",
+    "MainBroadside": 4,
+    "SecondaryGun": "114/45 Mark V",
+    "SecondaryBroadside": 1,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

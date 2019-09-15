@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-z",
+    "ClassName": "Z Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1942-05-01",
+    "StandardDisplacement": 1710,
+
+    "ShipHorsePower": 40000,
+    "Speed": 36.75,
+    "Range": 8658,
+
+    "MainGun": "114/45 Mark I",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

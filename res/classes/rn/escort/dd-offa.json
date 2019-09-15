@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-offa",
+    "ClassName": "Offa Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1940-01-01",
+    "StandardDisplacement": 1540,
+
+    "ShipHorsePower": 40000,
+    "Speed": 37,
+    "Range": 7130,
+
+    "MainGun": "120/45 Mark IX",
+    "MainBroadside": 4,
+    "SecondaryGun": "102/45 QF Mark V",
+    "SecondaryBroadside": 1,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

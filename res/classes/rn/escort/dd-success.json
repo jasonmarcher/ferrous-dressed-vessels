@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-success",
+    "ClassName": "Success Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1899-09-01",
+    "StandardDisplacement": 380,
+
+    "ShipHorsePower": 6300,
+    "Speed": 30,
+    "Range": 5556,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-tribal",
+    "ClassName": "Tribal Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1936-06-01",
+    "StandardDisplacement": 1959,
+
+    "ShipHorsePower": 44000,
+    "Speed": 36.25,
+    "Range": 10556,
+
+    "MainGun": "120/45 Mark XII",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

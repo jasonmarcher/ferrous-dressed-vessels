@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-janus",
+    "ClassName": "Janus Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1894-03-01",
+    "StandardDisplacement": 275,
+
+    "ShipHorsePower": 3900,
+    "Speed": 28,
+    "Range": 5556,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

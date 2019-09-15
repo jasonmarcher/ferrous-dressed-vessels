@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-g",
+    "ClassName": "G Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1934-08-01",
+    "StandardDisplacement": 1335,
+
+    "ShipHorsePower": 34000,
+    "Speed": 36,
+    "Range": 10241,
+
+    "MainGun": "120/45 Mark IX",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

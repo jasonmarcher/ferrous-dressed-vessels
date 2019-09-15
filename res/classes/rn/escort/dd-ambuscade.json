@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-ambuscade",
+    "ClassName": "Ambuscade Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1924-08-12",
+    "StandardDisplacement": 1173,
+
+    "ShipHorsePower": 33000,
+    "Speed": 37,
+    "Range": 6130,
+
+    "MainGun": "120/45 Mark I",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

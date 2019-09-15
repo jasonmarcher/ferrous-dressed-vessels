@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-river-7k",
+    "ClassName": "River Class (7k HP)",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1902-03-01",
+    "StandardDisplacement": 550,
+
+    "ShipHorsePower": 7000,
+    "Speed": 25.6,
+    "Range": 777,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

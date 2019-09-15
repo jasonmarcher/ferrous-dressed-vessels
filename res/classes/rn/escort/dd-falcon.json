@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-falcon",
+    "ClassName": "Falcon Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1899-06-01",
+    "StandardDisplacement": 375,
+
+    "ShipHorsePower": 6100,
+    "Speed": 30,
+    "Range": 5556,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

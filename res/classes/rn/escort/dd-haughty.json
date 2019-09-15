@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-haughty",
+    "ClassName": "Haughty Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1894-05-01",
+    "StandardDisplacement": 260,
+
+    "ShipHorsePower": 4200,
+    "Speed": 27,
+    "Range": 5556,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "dl-parker",
+    "ClassName": "Parker Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer Leader",
+    "Existance": "Built",
+    "ClassLaidDown": "1915-06-01",
+    "StandardDisplacement": 1660,
+
+    "ShipHorsePower": 36000,
+    "Speed": 34,
+    "Range": 4630,
+
+    "MainGun": "102/40 QF Mark IV",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

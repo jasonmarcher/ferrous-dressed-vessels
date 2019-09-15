@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-havock",
+    "ClassName": "Havock Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-07-01",
+    "StandardDisplacement": 275,
+
+    "ShipHorsePower": 3800,
+    "Speed": 26,
+    "Range": 5556,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

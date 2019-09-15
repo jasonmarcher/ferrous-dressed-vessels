@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-w",
+    "ClassName": "W Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1917-01-01",
+    "StandardDisplacement": 1100,
+
+    "ShipHorsePower": 27000,
+    "Speed": 34,
+    "Range": 4815,
+
+    "MainGun": "102/45 QF Mark V",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

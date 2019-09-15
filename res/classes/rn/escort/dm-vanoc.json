@@ -1,0 +1,23 @@
+{
+    "ClassID": "dm-Vanoc",
+    "ClassName": "Vanoc Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Minelaying Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1916-09-01",
+    "StandardDisplacement": 1090,
+
+    "ShipHorsePower": 27000,
+    "Speed": 34,
+    "Range": 4815,
+
+    "MainGun": "102/45 QF Mark V",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

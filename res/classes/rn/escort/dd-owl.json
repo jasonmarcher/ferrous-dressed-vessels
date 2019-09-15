@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-owl",
+    "ClassName": "Owl Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1911-11-01",
+    "StandardDisplacement": 1072,
+
+    "ShipHorsePower": 24500,
+    "Speed": 29,
+    "Range": 0,
+
+    "MainGun": "102/40 QF Mark IV",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

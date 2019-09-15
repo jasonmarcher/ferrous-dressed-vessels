@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-l",
+    "ClassName": "L Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1938-10-01",
+    "StandardDisplacement": 1920,
+
+    "ShipHorsePower": 48000,
+    "Speed": 36,
+    "Range": 10186,
+
+    "MainGun": "102/45 QF Mark XVI",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

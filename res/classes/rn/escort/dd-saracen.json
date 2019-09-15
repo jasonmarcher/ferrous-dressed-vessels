@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-saracen",
+    "ClassName": "saracen Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1907-06-01",
+    "StandardDisplacement": 1000,
+
+    "ShipHorsePower": 14000,
+    "Speed": 33,
+    "Range": 1852,
+
+    "MainGun": "102/40 BL Mark VIII",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

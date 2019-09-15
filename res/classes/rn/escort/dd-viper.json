@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-viper",
+    "ClassName": "Viper Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1898-09-01",
+    "StandardDisplacement": 344,
+
+    "ShipHorsePower": 10000,
+    "Speed": 33.7,
+    "Range": 5556,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

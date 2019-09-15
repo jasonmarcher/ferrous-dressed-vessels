@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-alarm",
+    "ClassName": "Alarm Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1890-11-01",
+    "StandardDisplacement": 810,
+
+    "ShipHorsePower": 3500,
+    "Speed": 18.7,
+    "Range": 4630,
+
+    "MainGun": "120/40 QF Mark I",
+    "MainBroadside": 2,
+    "SecondaryGun": "47/40 Mark I",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
