@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-ornen",
+    "ClassName": "Ornen Class",
+    "Nation": "swn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-06-01",
+    "StandardDisplacement": 844,
+
+    "ShipHorsePower": 4000,
+    "Speed": 20,
+    "Range": 2222,
+
+    "MainGun": "120/45 M1894",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/50 M98B",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

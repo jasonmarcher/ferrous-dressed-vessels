@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-oland",
+    "ClassName": "Oland Class",
+    "Nation": "swn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1943-06-01",
+    "StandardDisplacement": 1880,
+
+    "ShipHorsePower": 44000,
+    "Speed": 35,
+    "Range": 4630,
+
+    "MainGun": "120/45 M1942",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

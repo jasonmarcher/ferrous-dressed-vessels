@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-draug",
+    "ClassName": "Draug Class",
+    "Nation": "norway",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1907-03-01",
+    "StandardDisplacement": 550,
+
+    "ShipHorsePower": 7500,
+    "Speed": 27,
+    "Range": 5185,
+
+    "MainGun": "76/40 Armstrong N",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

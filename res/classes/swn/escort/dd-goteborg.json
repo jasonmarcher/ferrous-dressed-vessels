@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-goteborg",
+    "ClassName": "Goteborg Class",
+    "Nation": "swn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1934-06-01",
+    "StandardDisplacement": 1024,
+
+    "ShipHorsePower": 32000,
+    "Speed": 39,
+    "Range": 2222,
+
+    "MainGun": "120/45 M1924",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

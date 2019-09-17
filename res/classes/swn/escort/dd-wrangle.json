@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-wrangle",
+    "ClassName": "Wrangle Class",
+    "Nation": "swn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1916-03-01",
+    "StandardDisplacement": 415,
+
+    "ShipHorsePower": 13000,
+    "Speed": 34,
+    "Range": 2407,
+
+    "MainGun": "75/50 M1912",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

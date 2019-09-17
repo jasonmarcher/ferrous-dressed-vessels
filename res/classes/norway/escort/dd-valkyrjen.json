@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-valkyrjen",
+    "ClassName": "Valkyrjen Class",
+    "Nation": "norway",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-06-01",
+    "StandardDisplacement": 375,
+
+    "ShipHorsePower": 3300,
+    "Speed": 23,
+    "Range": 7037,
+
+    "MainGun": "76/40 Armstrong N",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

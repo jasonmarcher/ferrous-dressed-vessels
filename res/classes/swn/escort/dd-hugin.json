@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-hugin",
+    "ClassName": "Hugin Class",
+    "Nation": "swn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1909-03-01",
+    "StandardDisplacement": 446,
+
+    "ShipHorsePower": 10000,
+    "Speed": 33,
+    "Range": 2778,
+
+    "MainGun": "75/50 M1905",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

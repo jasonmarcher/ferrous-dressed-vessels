@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-visby",
+    "ClassName": "Visby Class",
+    "Nation": "swn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1942-04-01",
+    "StandardDisplacement": 1135,
+
+    "ShipHorsePower": 32000,
+    "Speed": 39,
+    "Range": 2963,
+
+    "MainGun": "120/45 M1924",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

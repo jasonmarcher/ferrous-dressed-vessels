@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-ragnar",
+    "ClassName": "Ragnar Class",
+    "Nation": "swn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1907-03-01",
+    "StandardDisplacement": 430,
+
+    "ShipHorsePower": 7200,
+    "Speed": 30,
+    "Range": 2592,
+
+    "MainGun": "75/50 M1905",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/50 M98B",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
