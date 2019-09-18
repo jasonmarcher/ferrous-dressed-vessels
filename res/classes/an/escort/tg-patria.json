@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-patria",
+    "ClassName": "Patria Class",
+    "Nation": "an",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1893-01-01",
+    "StandardDisplacement": 1029,
+
+    "ShipHorsePower": 5000,
+    "Speed": 20.5,
+    "Range": 0,
+
+    "MainGun": "120/40 QF Mark I",
+    "MainBroadside": 2,
+    "SecondaryGun": "63/42 Nordenfelt",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

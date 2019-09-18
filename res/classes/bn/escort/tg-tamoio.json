@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-tamoio",
+    "ClassName": "Tamoio Class",
+    "Nation": "bn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1898-01-01",
+    "StandardDisplacement": 1063,
+
+    "ShipHorsePower": 6500,
+    "Speed": 23,
+    "Range": 0,
+
+    "MainGun": "120/40 C/92",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/40 SK C/91",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

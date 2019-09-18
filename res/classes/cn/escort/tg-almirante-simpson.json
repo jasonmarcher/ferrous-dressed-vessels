@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-almirante-simpson",
+    "ClassName": "Almirante Simpson Class",
+    "Nation": "cn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-01-01",
+    "StandardDisplacement": 800,
+
+    "ShipHorsePower": 4500,
+    "Speed": 21.5,
+    "Range": 0,
+
+    "MainGun": "120/40 Armstrong P",
+    "MainBroadside": 2,
+    "SecondaryGun": "47/40 Mark I",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

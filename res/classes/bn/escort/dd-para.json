@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-para",
+    "ClassName": "Para Class",
+    "Nation": "bn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1908-03-01",
+    "StandardDisplacement": 560,
+
+    "ShipHorsePower": 8000,
+    "Speed": 27,
+    "Range": 6852,
+
+    "MainGun": "102/40 QF Mark IV",
+    "MainBroadside": 2,
+    "SecondaryGun": "47/40 Mark I",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-tiradentes",
+    "ClassName": "Tiradentes Class",
+    "Nation": "bn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1891-01-01",
+    "StandardDisplacement": 795,
+
+    "ShipHorsePower": 1646,
+    "Speed": 14.5,
+    "Range": 0,
+
+    "MainGun": "120/40 Armstrong T",
+    "MainBroadside": 3,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

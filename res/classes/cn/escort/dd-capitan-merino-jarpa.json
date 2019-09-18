@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-capitan-merino-jarpa",
+    "ClassName": "Capitan Merino Jarpa Class",
+    "Nation": "cn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1900-05-01",
+    "StandardDisplacement": 321,
+
+    "ShipHorsePower": 6250,
+    "Speed": 30,
+    "Range": 0,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/40 QF Mark I",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-almirante-lynch",
+    "ClassName": "Almirante Lynch Class",
+    "Nation": "cn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1889-01-01",
+    "StandardDisplacement": 713,
+
+    "ShipHorsePower": 4500,
+    "Speed": 20.3,
+    "Range": 0,
+
+    "MainGun": "76/40 Armstrong N",
+    "MainBroadside": 2,
+    "SecondaryGun": "47/40 Mark I",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

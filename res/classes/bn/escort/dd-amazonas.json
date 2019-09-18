@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-amazonas",
+    "ClassName": "Amazonas Class",
+    "Nation": "bn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1940-07-01",
+    "StandardDisplacement": 1340,
+
+    "ShipHorsePower": 45000,
+    "Speed": 36,
+    "Range": 11112,
+
+    "MainGun": "127/38 Mk 12 Pedestal",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

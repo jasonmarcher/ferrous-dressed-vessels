@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-catamarca",
+    "ClassName": "Catamarca Class",
+    "Nation": "an",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1910-01-01",
+    "StandardDisplacement": 995,
+
+    "ShipHorsePower": 25765,
+    "Speed": 27,
+    "Range": 5556,
+
+    "MainGun": "102/50 Armstrong P",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-almirante-riveros",
+    "ClassName": "Almirante Riveros Class",
+    "Nation": "cn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1957-04-01",
+    "StandardDisplacement": 2730,
+
+    "ShipHorsePower": 64000,
+    "Speed": 34.5,
+    "Range": 11112,
+
+    "MainGun": "102/62 Vickers Mark Q",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-juruena",
+    "ClassName": "Juruena Class",
+    "Nation": "bn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1938-03-01",
+    "StandardDisplacement": 1400,
+
+    "ShipHorsePower": 34000,
+    "Speed": 35,
+    "Range": 10186,
+
+    "MainGun": "120/45 Mark IX",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

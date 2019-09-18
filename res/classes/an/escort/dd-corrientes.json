@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-corrientes",
+    "ClassName": "Corrientes Class",
+    "Nation": "an",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1895-01-01",
+    "StandardDisplacement": 240,
+
+    "ShipHorsePower": 4200,
+    "Speed": 27,
+    "Range": 1666,
+
+    "MainGun": "76/46 Maxim-Nordenfelt",
+    "MainBroadside": 1,
+    "SecondaryGun": "57/42 Nordenfelt",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

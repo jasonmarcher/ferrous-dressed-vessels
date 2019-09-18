@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-gustavo-sampaio",
+    "ClassName": "Gustavo Sampaio Class",
+    "Nation": "bn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1891-01-01",
+    "StandardDisplacement": 480,
+
+    "ShipHorsePower": 2000,
+    "Speed": 18,
+    "Range": 0,
+
+    "MainGun": "89/40 Armstrong QF",
+    "MainBroadside": 2,
+    "SecondaryGun": "47/40 Mark I",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

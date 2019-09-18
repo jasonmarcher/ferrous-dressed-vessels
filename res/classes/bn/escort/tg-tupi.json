@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-tupi",
+    "ClassName": "Tupi Class",
+    "Nation": "bn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-01-01",
+    "StandardDisplacement": 1014,
+
+    "ShipHorsePower": 7000,
+    "Speed": 22.5,
+    "Range": 0,
+
+    "MainGun": "120/40 C/92",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/40 SK C/91",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

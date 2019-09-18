@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-mendoza",
+    "ClassName": "Mendoza Class",
+    "Nation": "an",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1927-06-01",
+    "StandardDisplacement": 1570,
+
+    "ShipHorsePower": 42000,
+    "Speed": 36,
+    "Range": 8334,
+
+    "MainGun": "120/45 Mark I",
+    "MainBroadside": 5,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
