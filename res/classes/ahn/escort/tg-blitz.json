@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-magnet",
+    "ClassName": "Magnet Class",
+    "Nation": "ahn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1888-02-01",
+    "StandardDisplacement": 360,
+
+    "ShipHorsePower": 2600,
+    "Speed": 21,
+    "Range": 4074,
+
+    "MainGun": "47/44 H",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

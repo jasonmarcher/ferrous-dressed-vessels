@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-satellit",
+    "ClassName": "Satellit Class",
+    "Nation": "ahn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1892-01-01",
+    "StandardDisplacement": 540,
+
+    "ShipHorsePower": 4000,
+    "Speed": 23,
+    "Range": 7408,
+
+    "MainGun": "66/42 S",
+    "MainBroadside": 1,
+    "SecondaryGun": "47/44 H",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

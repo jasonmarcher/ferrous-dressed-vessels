@@ -1,0 +1,23 @@
+{
+    "ClassID": "tc-sebenico",
+    "ClassName": "Sebenico Class",
+    "Nation": "ahn",
+
+    "Type": "Cruiser",
+    "SubType": "Torpedo Cruiser",
+    "Existance": "Built",
+    "ClassLaidDown": "1880-11-08",
+    "StandardDisplacement": 883,
+
+    "ShipHorsePower": 1344,
+    "Speed": 12.8,
+    "Range": 1481,
+
+    "MainGun": "87/24 M.75",
+    "MainBroadside": 2,
+    "SecondaryGun": "66/18",
+    "SecondaryBroadside": 1,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

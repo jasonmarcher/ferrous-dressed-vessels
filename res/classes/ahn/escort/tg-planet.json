@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-planet",
+    "ClassName": "Planet Class",
+    "Nation": "ahn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1888-01-01",
+    "StandardDisplacement": 480,
+
+    "ShipHorsePower": 3500,
+    "Speed": 19.6,
+    "Range": 2407,
+
+    "MainGun": "66/42 S",
+    "MainBroadside": 2,
+    "SecondaryGun": "47/44 H",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

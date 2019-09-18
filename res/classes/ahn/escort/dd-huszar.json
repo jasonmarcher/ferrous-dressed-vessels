@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-huszar",
+    "ClassName": "Huszar Class",
+    "Nation": "ahn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1904-09-01",
+    "StandardDisplacement": 386,
+
+    "ShipHorsePower": 6000,
+    "Speed": 28,
+    "Range": 926,
+
+    "MainGun": "66/45 BAG",
+    "MainBroadside": 1,
+    "SecondaryGun": "47/44 S",
+    "SecondaryBroadside": 4,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-tatra",
+    "ClassName": "Tatra Class",
+    "Nation": "ahn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1911-10-01",
+    "StandardDisplacement": 870,
+
+    "ShipHorsePower": 20600,
+    "Speed": 32.5,
+    "Range": 2963,
+
+    "MainGun": "100/50 K.10",
+    "MainBroadside": 2,
+    "SecondaryGun": "66/45 BAG",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
