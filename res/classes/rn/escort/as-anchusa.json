@@ -1,0 +1,23 @@
+{
+    "ClassID": "as-anchusa",
+    "ClassName": "Anchusa Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Merchant Sloop",
+    "Existance": "Built",
+    "ClassLaidDown": "1917-02-01",
+    "StandardDisplacement": 1290,
+
+    "ShipHorsePower": 2500,
+    "Speed": 17.5,
+    "Range": 3704,
+
+    "MainGun": "102/40 QF Mark IV",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

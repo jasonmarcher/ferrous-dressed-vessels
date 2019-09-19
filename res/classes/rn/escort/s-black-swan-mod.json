@@ -1,0 +1,23 @@
+{
+    "ClassID": "s-black-swan-mod",
+    "ClassName": "Black Swan Class (Modified)",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Sloop",
+    "Existance": "Built",
+    "ClassLaidDown": "1941-02-01",
+    "StandardDisplacement": 1400,
+
+    "ShipHorsePower": 4300,
+    "Speed": 19.75,
+    "Range": 9260,
+
+    "MainGun": "102/45 Mk XVI",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "ss-acacia",
+    "ClassName": "Acacia Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Sweeping Sloop",
+    "Existance": "Built",
+    "ClassLaidDown": "1915-01-01",
+    "StandardDisplacement": 1200,
+
+    "ShipHorsePower": 1800,
+    "Speed": 16.5,
+    "Range": 3704,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "pf-loch",
+    "ClassName": "Loch Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Frigate",
+    "Existance": "Built",
+    "ClassLaidDown": "1943-06-01",
+    "StandardDisplacement": 1435,
+
+    "ShipHorsePower": 6000,
+    "Speed": 19.5,
+    "Range": 12964,
+
+    "MainGun": "102/45 Mk V",
+    "MainBroadside": 1,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

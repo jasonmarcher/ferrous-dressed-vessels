@@ -1,0 +1,23 @@
+{
+    "ClassID": "pf-river-ran-mod",
+    "ClassName": "River Class (RAN) (Modified)",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Frigate",
+    "Existance": "Built",
+    "ClassLaidDown": "1943-06-01",
+    "StandardDisplacement": 1537,
+
+    "ShipHorsePower": 5500,
+    "Speed": 19,
+    "Range": 11112,
+
+    "MainGun": "102/45 Mk XVI",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

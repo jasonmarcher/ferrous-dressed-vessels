@@ -1,0 +1,23 @@
+{
+    "ClassID": "pf-bay",
+    "ClassName": "Bay Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Frigate",
+    "Existance": "Built",
+    "ClassLaidDown": "1944-02-01",
+    "StandardDisplacement": 1600,
+
+    "ShipHorsePower": 5500,
+    "Speed": 19.5,
+    "Range": 12964,
+
+    "MainGun": "102/45 Mk XVI",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

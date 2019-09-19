@@ -1,0 +1,23 @@
+{
+    "ClassID": "pf-river",
+    "ClassName": "River Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Frigate",
+    "Existance": "Built",
+    "ClassLaidDown": "1941-02-01",
+    "StandardDisplacement": 1400,
+
+    "ShipHorsePower": 5500,
+    "Speed": 20,
+    "Range": 11112,
+
+    "MainGun": "102/45 Mk XVI",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

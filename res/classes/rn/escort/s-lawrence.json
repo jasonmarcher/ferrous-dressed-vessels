@@ -1,0 +1,23 @@
+{
+    "ClassID": "s-lawrence",
+    "ClassName": "Lawrence Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Sloop",
+    "Existance": "Built",
+    "ClassLaidDown": "1918-11-01",
+    "StandardDisplacement": 1210,
+
+    "ShipHorsePower": 1900,
+    "Speed": 15,
+    "Range": 5000,
+
+    "MainGun": "76/40 QF Mark I",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

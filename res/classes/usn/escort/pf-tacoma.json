@@ -1,0 +1,23 @@
+{
+    "ClassID": "pf-tacoma",
+    "ClassName": "Tacoma Class",
+    "Nation": "usn",
+
+    "Type": "Escort",
+    "SubType": "Frigate",
+    "Existance": "Built",
+    "ClassLaidDown": "1943-03-01",
+    "StandardDisplacement": 1509,
+
+    "ShipHorsePower": 5500,
+    "Speed": 20,
+    "Range": 17594,
+
+    "MainGun": "76/50 Mk 10",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

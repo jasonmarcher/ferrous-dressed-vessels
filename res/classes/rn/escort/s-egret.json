@@ -1,0 +1,23 @@
+{
+    "ClassID": "s-egret",
+    "ClassName": "Egret Class",
+    "Nation": "rn",
+
+    "Type": "Escort",
+    "SubType": "Sloop",
+    "Existance": "Built",
+    "ClassLaidDown": "1937-06-01",
+    "StandardDisplacement": 1250,
+
+    "ShipHorsePower": 3600,
+    "Speed": 19,
+    "Range": 4630,
+
+    "MainGun": "102/45 Mk XVI",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
