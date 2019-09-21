@@ -1,0 +1,23 @@
+{
+    "ClassID": "ltb-1915b-g",
+    "ClassName": "1915b G Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Large Torpedo Boat",
+    "Existance": "Built",
+    "ClassLaidDown": "1915-01-01",
+    "StandardDisplacement": 960,
+
+    "ShipHorsePower": 24000,
+    "Speed": 33.5,
+    "Range": 3259,
+
+    "MainGun": "88/45 SK C/13",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

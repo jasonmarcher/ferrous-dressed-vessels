@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-1919-s",
+    "ClassName": "1919 S Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1916-12-01",
+    "StandardDisplacement": 2060,
+
+    "ShipHorsePower": 45000,
+    "Speed": 34.5,
+    "Range": 4630,
+
+    "MainGun": "150/45 SK C/16",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

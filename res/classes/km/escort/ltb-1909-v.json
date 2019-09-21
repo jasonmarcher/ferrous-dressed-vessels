@@ -1,0 +1,23 @@
+{
+    "ClassID": "ltb-1909-v",
+    "ClassName": "1909 V Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Large Torpedo Boat",
+    "Existance": "Built",
+    "ClassLaidDown": "1908-08-01",
+    "StandardDisplacement": 639,
+
+    "ShipHorsePower": 15100,
+    "Speed": 32,
+    "Range": 3963,
+
+    "MainGun": "88/30 SK C/08",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

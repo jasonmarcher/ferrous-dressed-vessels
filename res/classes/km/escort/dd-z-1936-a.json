@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-z-1936-a",
+    "ClassName": "Z 1936 A Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1938-11-01",
+    "StandardDisplacement": 2603,
+
+    "ShipHorsePower": 70000,
+    "Speed": 36,
+    "Range": 4630,
+
+    "MainGun": "150/48 SK C/36",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

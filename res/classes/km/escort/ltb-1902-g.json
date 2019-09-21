@@ -1,0 +1,23 @@
+{
+    "ClassID": "ltb-1902-g",
+    "ClassName": "1902 G Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Large Torpedo Boat",
+    "Existance": "Built",
+    "ClassLaidDown": "1900-11-01",
+    "StandardDisplacement": 330,
+
+    "ShipHorsePower": 6600,
+    "Speed": 28,
+    "Range": 2268,
+
+    "MainGun": "50/40 SK C/92",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

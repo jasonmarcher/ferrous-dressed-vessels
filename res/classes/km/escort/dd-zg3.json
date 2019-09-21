@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-zg3",
+    "ClassName": "ZG3 Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Captured",
+    "ClassLaidDown": "1942-03-01",
+    "StandardDisplacement": 1414,
+
+    "ShipHorsePower": 34000,
+    "Speed": 32,
+    "Range": 8889,
+
+    "MainGun": "128/45 SK C/34",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

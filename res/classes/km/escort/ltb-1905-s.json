@@ -1,0 +1,23 @@
+{
+    "ClassID": "ltb-1905-s",
+    "ClassName": "1905 S Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Large Torpedo Boat",
+    "Existance": "Built",
+    "ClassLaidDown": "1903-08-01",
+    "StandardDisplacement": 355,
+
+    "ShipHorsePower": 6600,
+    "Speed": 28,
+    "Range": 2578,
+
+    "MainGun": "50/40 SK C/92",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

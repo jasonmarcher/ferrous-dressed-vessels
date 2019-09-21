@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-1915-g",
+    "ClassName": "1915 G Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Seized",
+    "ClassLaidDown": "1914-08-01",
+    "StandardDisplacement": 1116,
+
+    "ShipHorsePower": 28000,
+    "Speed": 33.5,
+    "Range": 4481,
+
+    "MainGun": "88/45 SK C/13",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

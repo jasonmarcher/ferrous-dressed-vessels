@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-z-1936-c",
+    "ClassName": "Z 1936 C Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1943-01-01",
+    "StandardDisplacement": 2330,
+
+    "ShipHorsePower": 57000,
+    "Speed": 36,
+    "Range": 10186,
+
+    "MainGun": "128/45 SK C/34",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

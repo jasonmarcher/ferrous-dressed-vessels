@@ -1,0 +1,23 @@
+{
+    "ClassID": "d-d10",
+    "ClassName": "D10 Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Division Torpedo Boat",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-11-01",
+    "StandardDisplacement": 310,
+
+    "ShipHorsePower": 5783,
+    "Speed": 27.2,
+    "Range": 3926,
+
+    "MainGun": "50/40 SK C/92",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

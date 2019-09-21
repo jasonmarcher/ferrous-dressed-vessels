@@ -1,0 +1,23 @@
+{
+    "ClassID": "ltb-1920-h",
+    "ClassName": "1920 H Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Large Torpedo Boat",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1918-02-01",
+    "StandardDisplacement": 1268,
+
+    "ShipHorsePower": 38000,
+    "Speed": 35,
+    "Range": 3704,
+
+    "MainGun": "105/45 SK C/16",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

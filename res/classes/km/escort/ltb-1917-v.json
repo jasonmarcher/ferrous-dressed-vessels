@@ -1,0 +1,23 @@
+{
+    "ClassID": "ltb-1917-v",
+    "ClassName": "1917 V Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Large Torpedo Boat",
+    "Existance": "Built",
+    "ClassLaidDown": "1916-07-01",
+    "StandardDisplacement": 924,
+
+    "ShipHorsePower": 23500,
+    "Speed": 34,
+    "Range": 3796,
+
+    "MainGun": "105/45 SK C/16",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

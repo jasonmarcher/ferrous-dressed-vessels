@@ -1,0 +1,23 @@
+{
+    "ClassID": "ltb-1918-h",
+    "ClassName": "1918 H Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Large Torpedo Boat",
+    "Existance": "Built",
+    "ClassLaidDown": "1917-02-01",
+    "StandardDisplacement": 990,
+
+    "ShipHorsePower": 24500,
+    "Speed": 32,
+    "Range": 5148,
+
+    "MainGun": "105/45 SK C/16",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
