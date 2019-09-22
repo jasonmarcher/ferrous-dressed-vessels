@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-levrier",
+    "ClassName": "Levrier Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1890-02-01",
+    "StandardDisplacement": 503,
+
+    "ShipHorsePower": 2400,
+    "Speed": 18.7,
+    "Range": 9260,
+
+    "MainGun": "65/50 M1888",
+    "MainBroadside": 1,
+    "SecondaryGun": "47/40 M1885",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

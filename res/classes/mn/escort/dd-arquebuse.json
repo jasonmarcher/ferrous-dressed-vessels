@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-arquebuse",
+    "ClassName": "Arquebuse Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1901-05-01",
+    "StandardDisplacement": 298,
+
+    "ShipHorsePower": 6300,
+    "Speed": 28,
+    "Range": 4259,
+
+    "MainGun": "65/50 M1902",
+    "MainBroadside": 1,
+    "SecondaryGun": "47/40 M1885",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

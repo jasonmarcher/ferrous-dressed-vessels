@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-dunois",
+    "ClassName": "Dunois Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1896-09-01",
+    "StandardDisplacement": 889,
+
+    "ShipHorsePower": 7500,
+    "Speed": 22,
+    "Range": 9260,
+
+    "MainGun": "65/50 M1888",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 25,
+    "ArmorBeltAngle": 0
+}

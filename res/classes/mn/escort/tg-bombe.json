@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-bombe",
+    "ClassName": "Bombe Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1883-11-01",
+    "StandardDisplacement": 400,
+
+    "ShipHorsePower": 1800,
+    "Speed": 18,
+    "Range": 7000,
+
+    "MainGun": "47/40 M1885",
+    "MainBroadside": 2,
+    "SecondaryGun": "37/40 M1885",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

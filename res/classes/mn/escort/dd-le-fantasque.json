@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-le-fantasque",
+    "ClassName": "Le Fantasque Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1931-11-01",
+    "StandardDisplacement": 2569,
+
+    "ShipHorsePower": 74000,
+    "Speed": 37,
+    "Range": 5556,
+
+    "MainGun": "139/50 M1929",
+    "MainBroadside": 5,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

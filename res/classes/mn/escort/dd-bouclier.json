@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-bouclier",
+    "ClassName": "Bouclier Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1909-11-01",
+    "StandardDisplacement": 740,
+
+    "ShipHorsePower": 13000,
+    "Speed": 30,
+    "Range": 2407,
+
+    "MainGun": "100/45 M1891",
+    "MainBroadside": 2,
+    "SecondaryGun": "65/50 M1902",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

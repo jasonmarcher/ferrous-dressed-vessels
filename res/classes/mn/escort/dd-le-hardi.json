@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-le-hardi",
+    "ClassName": "Le Hardi Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1936-05-01",
+    "StandardDisplacement": 1772,
+
+    "ShipHorsePower": 58000,
+    "Speed": 37,
+    "Range": 3518,
+
+    "MainGun": "130/45 M1932",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

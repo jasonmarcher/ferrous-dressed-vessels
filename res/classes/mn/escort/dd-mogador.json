@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-mogador",
+    "ClassName": "Mogador Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1934-12-01",
+    "StandardDisplacement": 2884,
+
+    "ShipHorsePower": 92000,
+    "Speed": 39,
+    "Range": 7778,
+
+    "MainGun": "139/50 M1934",
+    "MainBroadside": 8,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

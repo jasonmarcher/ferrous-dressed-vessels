@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-arabe",
+    "ClassName": "Arabe Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1917-01-01",
+    "StandardDisplacement": 685,
+
+    "ShipHorsePower": 10000,
+    "Speed": 29,
+    "Range": 3704,
+
+    "MainGun": "120/40 41-shiki",
+    "MainBroadside": 1,
+    "SecondaryGun": "76/40 41-shiki",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

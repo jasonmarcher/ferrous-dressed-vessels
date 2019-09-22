@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-l-intrepide",
+    "ClassName": "L'Intrepide Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1939-01-01",
+    "StandardDisplacement": 2215,
+
+    "ShipHorsePower": 62000,
+    "Speed": 35,
+    "Range": 3518,
+
+    "MainGun": "130/45 M1932",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

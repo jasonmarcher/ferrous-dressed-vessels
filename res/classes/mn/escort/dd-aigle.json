@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-aigle",
+    "ClassName": "Aigle Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1928-10-01",
+    "StandardDisplacement": 2441,
+
+    "ShipHorsePower": 64000,
+    "Speed": 36,
+    "Range": 6759,
+
+    "MainGun": "139/40 M1927",
+    "MainBroadside": 5,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

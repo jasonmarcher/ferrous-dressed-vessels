@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-surcouf",
+    "ClassName": "Surcouf Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1951-07-01",
+    "StandardDisplacement": 2750,
+
+    "ShipHorsePower": 63000,
+    "Speed": 34,
+    "Range": 9260,
+
+    "MainGun": "127/54 M1948",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

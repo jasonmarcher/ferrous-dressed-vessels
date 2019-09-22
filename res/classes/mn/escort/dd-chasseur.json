@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-chasseur",
+    "ClassName": "Chasseur Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1907-12-01",
+    "StandardDisplacement": 450,
+
+    "ShipHorsePower": 7200,
+    "Speed": 28,
+    "Range": 2592,
+
+    "MainGun": "65/50 M1902",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-spahi",
+    "ClassName": "Spahi Class",
+    "Nation": "mn",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1906-11-01",
+    "StandardDisplacement": 530,
+
+    "ShipHorsePower": 7500,
+    "Speed": 28,
+    "Range": 2222,
+
+    "MainGun": "65/50 M1902",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
