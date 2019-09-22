@@ -1,0 +1,23 @@
+{
+    "ClassID": "de-g",
+    "ClassName": "G Class",
+    "Nation": "km",
+
+    "Type": "Escort",
+    "SubType": "Destroyer Escort",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1942-07-01",
+    "StandardDisplacement": 1372,
+
+    "ShipHorsePower": 6750,
+    "Speed": 21,
+    "Range": 11112,
+
+    "MainGun": "105/45 SK C/32",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
