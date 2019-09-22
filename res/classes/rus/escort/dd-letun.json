@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-letun",
+    "ClassName": "Letun Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1914-11-01",
+    "StandardDisplacement": 1260,
+
+    "ShipHorsePower": 30000,
+    "Speed": 35,
+    "Range": 3333,
+
+    "MainGun": "102/60 Pattern 1911",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

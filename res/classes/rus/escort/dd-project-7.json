@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-project-7",
+    "ClassName": "Project 7 Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1935-11-01",
+    "StandardDisplacement": 1657,
+
+    "ShipHorsePower": 48000,
+    "Speed": 37,
+    "Range": 5037,
+
+    "MainGun": "130/50 B13",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

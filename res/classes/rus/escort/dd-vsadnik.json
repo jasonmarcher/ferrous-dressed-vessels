@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-vsadnik",
+    "ClassName": "Vsadnik Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1904-05-01",
+    "StandardDisplacement": 710,
+
+    "ShipHorsePower": 6500,
+    "Speed": 25,
+    "Range": 3555,
+
+    "MainGun": "75/50 Pattern 1892",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/50 M98B",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

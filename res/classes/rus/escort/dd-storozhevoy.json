@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-storozhevoy",
+    "ClassName": "Storozhevoy Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1905-01-01",
+    "StandardDisplacement": 382,
+
+    "ShipHorsePower": 5800,
+    "Speed": 27,
+    "Range": 1666,
+
+    "MainGun": "75/50 Pattern 1892",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

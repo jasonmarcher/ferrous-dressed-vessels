@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-leytenant-burakov",
+    "ClassName": "Leytenant Burakov Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1905-02-01",
+    "StandardDisplacement": 402,
+
+    "ShipHorsePower": 5700,
+    "Speed": 27,
+    "Range": 1777,
+
+    "MainGun": "75/50 Pattern 1892",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ClassID": "tg-kazarskiy",
+    "ClassName": "Kazarskiy Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1888-11-01",
+    "StandardDisplacement": 400,
+
+    "ShipHorsePower": 3500,
+    "Speed": 22,
+    "Range": 3704,
+
+    "MainGun": "47/40 M1885",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

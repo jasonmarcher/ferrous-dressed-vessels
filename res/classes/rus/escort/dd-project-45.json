@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-project-45",
+    "ClassName": "Project 45 Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1935-06-01",
+    "StandardDisplacement": 1572,
+
+    "ShipHorsePower": 70000,
+    "Speed": 42,
+    "Range": 2537,
+
+    "MainGun": "130/50 B13",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

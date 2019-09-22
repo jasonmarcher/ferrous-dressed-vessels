@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-gogland",
+    "ClassName": "Gogland Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Cancelled",
+    "ClassLaidDown": "1913-12-01",
+    "StandardDisplacement": 1350,
+
+    "ShipHorsePower": 32000,
+    "Speed": 33,
+    "Range": 5185,
+
+    "MainGun": "102/60 Pattern 1911",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

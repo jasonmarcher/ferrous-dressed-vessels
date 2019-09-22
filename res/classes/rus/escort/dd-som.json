@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-som",
+    "ClassName": "Som Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1898-10-01",
+    "StandardDisplacement": 350,
+
+    "ShipHorsePower": 6000,
+    "Speed": 27.5,
+    "Range": 2922,
+
+    "MainGun": "75/50 Pattern 1892",
+    "MainBroadside": 1,
+    "SecondaryGun": "47/40 M1885",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

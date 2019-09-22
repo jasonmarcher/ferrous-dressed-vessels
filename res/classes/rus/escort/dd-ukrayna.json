@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-ukrayna",
+    "ClassName": "Ukrayna Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1904-01-01",
+    "StandardDisplacement": 730,
+
+    "ShipHorsePower": 7000,
+    "Speed": 26,
+    "Range": 2037,
+
+    "MainGun": "75/50 Pattern 1892",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/50 M98B",
+    "SecondaryBroadside": 2,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

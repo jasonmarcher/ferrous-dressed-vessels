@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-general-kondratenko",
+    "ClassName": "Kondratenko Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1905-03-01",
+    "StandardDisplacement": 750,
+
+    "ShipHorsePower": 7300,
+    "Speed": 25.5,
+    "Range": 4074,
+
+    "MainGun": "75/50 Pattern 1892",
+    "MainBroadside": 2,
+    "SecondaryGun": "57/50 M98B",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

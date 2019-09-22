@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-forel",
+    "ClassName": "Forel Class",
+    "Nation": "rus",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1899-10-01",
+    "StandardDisplacement": 312,
+
+    "ShipHorsePower": 5200,
+    "Speed": 26.5,
+    "Range": 2315,
+
+    "MainGun": "75/50 Pattern 1892",
+    "MainBroadside": 1,
+    "SecondaryGun": "47/40 M1885",
+    "SecondaryBroadside": 3,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
