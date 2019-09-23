@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-rosolino-pilo",
+    "ClassName": "Rosolino Pilo Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1913-08-01",
+    "StandardDisplacement": 770,
+
+    "ShipHorsePower": 16000,
+    "Speed": 30,
+    "Range": 2222,
+
+    "MainGun": "76/40 A1916",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

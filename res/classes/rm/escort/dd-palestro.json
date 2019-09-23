@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-palestro",
+    "ClassName": "Palestro Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1917-04-01",
+    "StandardDisplacement": 875,
+
+    "ShipHorsePower": 18000,
+    "Speed": 32,
+    "Range": 3648,
+
+    "MainGun": "102/45 1917",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

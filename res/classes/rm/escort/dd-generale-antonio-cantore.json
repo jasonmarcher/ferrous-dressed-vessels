@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-generale-antonio-cantore",
+    "ClassName": "Generale Antonio Cantore Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1919-11-01",
+    "StandardDisplacement": 730,
+
+    "ShipHorsePower": 15500,
+    "Speed": 30,
+    "Range": 3704,
+
+    "MainGun": "102/45 1917",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

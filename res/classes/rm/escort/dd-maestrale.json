@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-maestrale",
+    "ClassName": "Maestrale Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1931-09-01",
+    "StandardDisplacement": 1615,
+
+    "ShipHorsePower": 44000,
+    "Speed": 38,
+    "Range": 7408,
+
+    "MainGun": "120/50 1926",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

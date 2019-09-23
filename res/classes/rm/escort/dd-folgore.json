@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-folgore",
+    "ClassName": "Folgore Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1929-10-01",
+    "StandardDisplacement": 1450,
+
+    "ShipHorsePower": 44000,
+    "Speed": 38,
+    "Range": 6667,
+
+    "MainGun": "120/50 1926",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

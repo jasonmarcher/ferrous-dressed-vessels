@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-quintino-sella",
+    "ClassName": "Quintino Sella Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1922-10-01",
+    "StandardDisplacement": 1140,
+
+    "ShipHorsePower": 36000,
+    "Speed": 35,
+    "Range": 3333,
+
+    "MainGun": "120/45 1918",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

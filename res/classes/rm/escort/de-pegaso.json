@@ -1,0 +1,23 @@
+{
+    "ClassID": "de-pegaso",
+    "ClassName": "Pegaso Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer Escort",
+    "Existance": "Built",
+    "ClassLaidDown": "1936-02-01",
+    "StandardDisplacement": 1000,
+
+    "ShipHorsePower": 16000,
+    "Speed": 28,
+    "Range": 9445,
+
+    "MainGun": "100/47 OTO 1931",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

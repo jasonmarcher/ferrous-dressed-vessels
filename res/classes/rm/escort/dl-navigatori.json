@@ -1,0 +1,23 @@
+{
+    "ClassID": "dl-navigatori",
+    "ClassName": "Navigatori Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer Leader",
+    "Existance": "Built",
+    "ClassLaidDown": "1927-05-01",
+    "StandardDisplacement": 1935,
+
+    "ShipHorsePower": 50000,
+    "Speed": 38,
+    "Range": 7037,
+
+    "MainGun": "120/50 1926",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

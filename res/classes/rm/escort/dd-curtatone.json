@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-curtalone",
+    "ClassName": "Curtalone Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1920-01-01",
+    "StandardDisplacement": 953,
+
+    "ShipHorsePower": 22000,
+    "Speed": 32,
+    "Range": 3333,
+
+    "MainGun": "120/45 1918",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

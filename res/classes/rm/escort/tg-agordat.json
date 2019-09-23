@@ -1,0 +1,24 @@
+{
+    "ClassID": "tg-agordat",
+    "ClassName": "Agordat Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Torpedo Gunboat",
+    "Existance": "Built",
+    "ClassLaidDown": "1897-02-01",
+    "StandardDisplacement": 1300,
+
+    "ShipHorsePower": 7750,
+    "Speed": 22,
+    "Range": 5556,
+
+    "MainGun": "76/40 A1897",
+    "MainBroadside": 6,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0,
+    "ArmorDeck": 20
+}

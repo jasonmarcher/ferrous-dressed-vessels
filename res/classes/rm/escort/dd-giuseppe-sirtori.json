@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-giuseppe-sitori",
+    "ClassName": "Giuseppe Sitori Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1916-02-01",
+    "StandardDisplacement": 790,
+
+    "ShipHorsePower": 15500,
+    "Speed": 30,
+    "Range": 3704,
+
+    "MainGun": "102/35 1914",
+    "MainBroadside": 3,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

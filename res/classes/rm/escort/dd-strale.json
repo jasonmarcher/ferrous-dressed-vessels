@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-strale",
+    "ClassName": "Strale Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1899-11-01",
+    "StandardDisplacement": 315,
+
+    "ShipHorsePower": 5500,
+    "Speed": 30,
+    "Range": 3704,
+
+    "MainGun": "57/42 Nordenfelt",
+    "MainBroadside": 4,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}

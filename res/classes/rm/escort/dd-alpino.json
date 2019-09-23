@@ -1,0 +1,23 @@
+{
+    "ClassID": "dd-alpino",
+    "ClassName": "Alpino Class",
+    "Nation": "rm",
+
+    "Type": "Escort",
+    "SubType": "Destroyer",
+    "Existance": "Built",
+    "ClassLaidDown": "1905-10-01",
+    "StandardDisplacement": 407,
+
+    "ShipHorsePower": 6000,
+    "Speed": 28.5,
+    "Range": 2963,
+
+    "MainGun": "76/40 A1897",
+    "MainBroadside": 2,
+    "SecondaryGun": "",
+    "SecondaryBroadside": 0,
+
+    "ArmorBelt": 0,
+    "ArmorBeltAngle": 0
+}
