@@ -18,6 +18,7 @@ class Nations {
             ['mn', 'Marine Nationale'],
             ['norway', 'Norwegian Navy'],
             ['peru', 'Peruvian Navy'],
+            ['poland', 'Polish Navy'],
             ['rm', 'Regia Marina'],
             ['rn', 'Royal Navy'],
             ['rnn', 'Royal Netherlands Navy'],
