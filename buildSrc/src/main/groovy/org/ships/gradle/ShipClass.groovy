@@ -20,9 +20,12 @@ class ShipClass {
 
     String MainGun
     int MainBroadside
+    String SecondaryGun
+    int SecondaryBroadside
 
     int ArmorBelt
     int ArmorBeltAngle
+    int ArmorDeck
 
     ShipClass(Object json) {
         try {
@@ -42,9 +45,17 @@ class ShipClass {
 
             MainGun = json.MainGun
             MainBroadside = json.MainBroadside
+            SecondaryGun = json.SecondaryGun
+            SecondaryBroadside = json.SecondaryBroadside
 
             ArmorBelt = json.ArmorBelt
             ArmorBeltAngle = json.ArmorBeltAngle
+
+            if (json.ArmorDeck) {
+                ArmorDeck = json.ArmorDeck
+            } else {
+                ArmorDeck = 0
+            }
         } catch (Exception ex) {
             println(ClassID)
             throw ex
@@ -69,11 +80,12 @@ class ShipClass {
         // TODO: Main gun
         printer.print(MainGun)
         printer.print(MainBroadside)
-
-        // TODO: Secondary gun
+        printer.print(SecondaryGun)
+        printer.print(SecondaryBroadside)
 
         printer.print(ArmorBelt)
         printer.print(ArmorBeltAngle)
+        printer.print(ArmorDeck)
 
         printer.println()
     }
