@@ -21,8 +21,13 @@ import org.ships.gradle.tasks.GenerateGunDataset
 
 task generateGunData(type: GenerateGunDataset) {}
 
-task generateClassData(type: GenerateClassDataset) {
-    dependsOn generateGunData
+// task generateClassData(type: GenerateClassDataset) {
+//     dependsOn generateGunData
+// }
+
+task generateClassData(type: Copy) {
+    from 'res/prebuilt/classes.csv'
+    into 'build'
 }
 
 task generateConstructionData {
@@ -63,6 +68,10 @@ task generateConstructionData {
     }
 }
 
+task clean(type: Delete) {
+    delete 'build'
+}
+
 task build {
-    dependsOn generateClassData
+    dependsOn generateGunData, generateClassData
 }
