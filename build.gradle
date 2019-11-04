@@ -14,7 +14,10 @@ buildscript {
 
 import groovy.json.JsonSlurper
 import java.io.FileWriter
+import java.nio.charset.Charset
+import java.time.LocalDate
 import org.apache.commons.csv.CSVFormat
+import org.apache.commons.csv.CSVParser
 import org.apache.commons.csv.CSVPrinter
 import org.ships.gradle.tasks.GenerateClassDataset
 import org.ships.gradle.tasks.GenerateGunDataset
@@ -26,44 +29,101 @@ task generateGunData(type: GenerateGunDataset) {}
 // }
 
 task generateClassData(type: Copy) {
-    from 'res/prebuilt/classes.csv'
     into 'build'
+    from 'res/prebuilt/classes.csv'
 }
 
-task generateConstructionData {
+// task generateShipData {
+//     doLast {
+//         file(buildDir).mkdirs()
+//         def jsonSlurper = new JsonSlurper()
+//         def printer = new CSVPrinter(new FileWriter("$buildDir/ships.csv"), CSVFormat.EXCEL)
+//         printer.printRecord('ClassID','ShipName','Existance','Fate','LaidDown','Launched',
+//             'Commissioned','Stricken')
+
+//         def shipFiles = project.fileTree("res/ships")
+//         shipFiles.forEach { shipFile ->
+//             def ships = jsonSlurper.parseText(shipFile.text)
+//             ships.each { ship ->
+//                 printer.printRecord(ship.values())
+//             }
+//         }
+//         printer.close(true)
+//     }
+// }
+
+task generateShipData(type: Copy) {
+    into 'build'
+    from 'res/prebuilt'
+    include 'ships.csv'
+    include 'service.csv'
+}
+
+task generateShipHistory {
+    dependsOn generateShipData
+
     doLast {
         file(buildDir).mkdirs()
-        def jsonSlurper = new JsonSlurper()
-        def printer = new CSVPrinter(new FileWriter("$buildDir/construction.csv"), CSVFormat.EXCEL)
-        printer.printRecord('ClassID','ClassName','Classification','ClassLaidDown','StandardDisplacement','ShipHorsePower',
-            'Speed','Range','Caliber','Broadside','APShellSize','Nation','UniqueName','ShipName','Existance','LaidDown',
-            'Launched','Commissioned')
 
-        nations.each { nation ->
-            // println nation
-            def classes = [:]
-            def classFiles = project.fileTree("res/classes/$nation")
-            classFiles.forEach { classFile ->
-                def object = jsonSlurper.parseText(classFile.text)
-                classes.put(object.ClassID, object)
-                // println object.getClass()
-                // printer.printRecord(object.values())
+        def printer = new CSVPrinter(new FileWriter("$buildDir/history.csv"), CSVFormat.EXCEL)
+        printer.printRecord('ClassID','ShipName','State','Date')
+
+        // Construction / Fitting
+        def records = CSVParser.parse(file("$buildDir/ships.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
+        records.forEach { record ->
+            def laidDown = LocalDate.parse(record.get("LaidDown"))
+            def launched = LocalDate.parse(record.get("Launched") ?: record.get("Stricken"))
+            def commissioned = LocalDate.parse(record.get("Commissioned") ?: record.get("Stricken"))
+            def currentDate = laidDown.minusDays(laidDown.getDayOfMonth() - 1)
+            def compareDate = laidDown
+            def state = ""
+
+            // Construction
+            state = "Construction"
+            compareDate = launched.minusDays(launched.getDayOfMonth() -1 )
+            while (currentDate.isBefore(compareDate)) {
+                printer.print(record.get('ClassID'))
+                printer.print(record.get('ShipName'))
+                printer.print(state)
+                printer.print(currentDate)
+                printer.println()
+                currentDate = currentDate.plusMonths(1)
             }
 
-            def shipFiles = project.fileTree("res/ships/$nation")
-            shipFiles.forEach { shipFile ->
-                def ships = jsonSlurper.parseText(shipFile.text)
-                ships.each { ship ->
-                    // println ship.getClass()
-                    // classes[ship.ClassID].clone().putAll(ship)
-                    def object = classes[ship.ClassID].clone()
-                    object.put('Nation', nation)
-                    object.put('UniqueName', "$object.ClassName $ship.ShipName")
-                    object.putAll(ship)
-                    printer.printRecord(object.values())
-                }
+            // Fitting
+            state = "Fitting"
+            compareDate = commissioned.minusDays(commissioned.getDayOfMonth() - 1)
+            while (currentDate.isBefore(compareDate)) {
+                printer.print(record.get('ClassID'))
+                printer.print(record.get('ShipName'))
+                printer.print(state)
+                printer.print(currentDate)
+                printer.println()
+                currentDate = currentDate.plusMonths(1)
             }
         }
+
+        // Service
+        records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
+        records.forEach { record ->
+            if (record.get('Fate')) {
+                return
+            }
+            def currentDate = LocalDate.parse(record.get("Start"))
+            currentDate = currentDate.minusDays(currentDate.getDayOfMonth() - 1)
+            def endDate = LocalDate.parse(record.get("End"))
+            endDate = endDate.minusDays(endDate.getDayOfMonth() - 1)
+            
+            while (currentDate.isBefore(endDate)) {
+                printer.print(record.get('ClassID'))
+                printer.print(record.get('ShipName'))
+                printer.print(record.get('State'))
+                printer.print(currentDate)
+                printer.println()
+                currentDate = currentDate.plusMonths(1)
+            }
+        }
+
         printer.close(true)
     }
 }
@@ -73,5 +133,5 @@ task clean(type: Delete) {
 }
 
 task build {
-    dependsOn generateGunData, generateClassData
+    dependsOn generateGunData, generateClassData, generateShipHistory
 }
