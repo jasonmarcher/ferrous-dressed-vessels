@@ -3,12 +3,15 @@ bb-almirante-latorre,Almirante Latorre,Built,Scrapped,1915-09-30,1958-02-01
 bb-almirante-latorre,Almirante Latorre,Built,Scrapped,1915-09-30,1958-02-01
 bb-bayern,SMS Baden,Built,Sunk,1917-03-14,1919-06-21
 bb-bayern,SMS Bayern,Built,Sunk,1916-07-15,1919-06-21
-bb-bellerophon,HMS Bellerophon,Built,Converted,1909-02-01,1919-06-01
-bb-bellerophon,HMS Bellerophon,Built,Converted,1909-02-01,1919-06-01
-bb-bellerophon,HMS Superb,Built,Converted,1909-05-01,1919-06-01
-bb-bellerophon,HMS Superb,Built,Converted,1909-05-01,1919-06-01
-bb-bellerophon,HMS Temeraire,Built,Converted,1909-05-01,1919-06-01
-bb-bellerophon,HMS Temeraire,Built,Converted,1909-05-01,1919-06-01
+bb-bellerophon,HMS Bellerophon,Active,,1909-02-01,1919-03-01
+bb-bellerophon,HMS Bellerophon,Training,,1919-03-01,1919-09-01
+bb-bellerophon,HMS Bellerophon,Reserve,,1919-09-01,1921-12-08
+bb-bellerophon,HMS Superb,Active,,1909-05-01,1919-04-26
+bb-bellerophon,HMS Superb,Reserve,,1919-04-26,1919-09-01
+bb-bellerophon,HMS Superb,Training,,1919-09-01,1919-12-01
+bb-bellerophon,HMS Superb,Reserve,,1919-12-01,1922-12-01
+bb-bellerophon,HMS Temeraire,Active,,1909-05-01,1919-04-23
+bb-bellerophon,HMS Temeraire,Training,,1919-04-23,1921-04-01
 bb-bismarck,Bismarck,Active,,1940-08-24,1941-05-27
 bb-bismarck,Tirpitz,Active,,1941-02-25,1944-11-12
 bb-colorado,USS Colorado,Active,,1923-08-30,1947-01-07
@@ -19,15 +22,16 @@ bb-colorado,USS West Virginia,Active,,1923-12-01,1941-12-07
 bb-colorado,USS West Virginia,Rebuild,,1941-12-07,1944-09-01
 bb-colorado,USS West Virginia,Active,,1944-09-01,1947-01-09
 bb-colorado,USS West Virginia,Reserve,,1947-01-09,1959-03-01
-bb-colossus,HMS Colossus,Built,Scrapped,1911-07-01,1920-06-01
-bb-colossus,HMS Colossus,Built,Scrapped,1911-07-01,1920-06-01
-bb-colossus,HMS Hercules,Built,Scrapped,1911-08-01,1921-11-01
-bb-colossus,HMS Hercules,Built,Scrapped,1911-08-01,1921-11-01
+bb-colossus,HMS Colossus,Active,,1911-07-01,1919-01-01
+bb-colossus,HMS Colossus,Reserve,,1919-01-01,1921-09-01
+bb-colossus,HMS Colossus,Barracks,,1921-09-01,1928-02-23
+bb-colossus,HMS Hercules,Active,,1911-08-01,1919-02-01
+bb-colossus,HMS Hercules,Reserve,,1919-02-01,1921-11-01
 bb-dalaware,USS Dalaware,Active,,1910-04-04,1923-11-10
 bb-dalaware,USS North Dakota,Active,,1910-04-11,1923-11-22
 bb-dalaware,USS North Dakota,Target,,1923-11-22,1931-01-01
-bb-dreadnought,HMS Dreadnought,Built,Scrapped,1906-12-01,1921-05-01
-bb-dreadnought,HMS Dreadnought,Built,Scrapped,1906-12-01,1921-05-01
+bb-dreadnought,HMS Dreadnought,Active,,1906-12-01,1918-08-07
+bb-dreadnought,HMS Dreadnought,Reserve,,1918-08-07,1921-05-09
 bb-florida,USS Florida,Active,,1911-09-15,1931-04-01
 bb-florida,USS Utah,Active,,1911-08-31,1931-07-01
 bb-florida,USS Utah,Training,,1931-07-01,1941-12-07
@@ -65,14 +69,14 @@ bb-iowa,USS Wisconsin,Active,,1951-03-03,1958-03-08
 bb-iowa,USS Wisconsin,Reserve,,1958-03-08,1988-10-22
 bb-iowa,USS Wisconsin,Active,,1988-10-22,1991-09-30
 bb-iowa,USS Wisconsin,Reserve,,1991-09-30,2006-03-17
-bb-iron-duke,HMS Benbow,Built,Scrapped,1914-10-01,1931-03-01
-bb-iron-duke,HMS Benbow,Built,Scrapped,1914-10-01,1931-03-01
-bb-iron-duke,HMS Emperor of India,Built,Target,1914-11-01,1931-09-01
-bb-iron-duke,HMS Emperor of India,Built,Target,1914-11-01,1931-09-01
-bb-iron-duke,HMS Iron Duke,Built,Converted,1914-03-01,1931-01-01
-bb-iron-duke,HMS Iron Duke,Built,Converted,1914-03-01,1931-01-01
-bb-iron-duke,HMS Marlborough,Built,Scrapped,1914-06-01,1932-06-01
-bb-iron-duke,HMS Marlborough,Built,Scrapped,1914-06-01,1932-06-01
+bb-iron-duke,HMS Benbow,Active,,1914-10-01,1929-12-01
+bb-iron-duke,HMS Benbow,Reserve,,1929-12-01,1931-03-01
+bb-iron-duke,HMS Emperor of India,Active,,1914-11-01,1931-06-05
+bb-iron-duke,HMS Emperor of India,Target,,1931-06-05,1931-09-01
+bb-iron-duke,HMS Iron Duke,Active,,1914-03-01,1929-05-30
+bb-iron-duke,HMS Iron Duke,Training,,1929-05-30,1946-03-01
+bb-iron-duke,HMS Marlborough,Active,,1914-06-01,1931-06-05
+bb-iron-duke,HMS Marlborough,Target,,1931-06-05,1932-06-01
 bb-ise,Hyuga,Active,,1918-04-30,1945-07-24
 bb-ise,Ise,Active,,1917-12-15,1945-07-28
 bb-kaiser,SMS Friedrich der Grosse,Built,Sunk,1912-10-15,1919-06-21
@@ -89,22 +93,23 @@ bb-kawachi,Kawachi,Built,Sunk,1912-03-31,1918-07-12
 bb-kawachi,Kawachi,Built,Sunk,1912-03-31,1918-07-12
 bb-kawachi,Settsu,Built,Target,1912-07-01,1923-10-01
 bb-kawachi,Settsu,Built,Target,1912-07-01,1923-10-01
-bb-king-george-v,HMS Anson,Built,Scrapped,1942-06-22,1957-04-01
-bb-king-george-v,HMS Anson,Built,Scrapped,1942-06-22,1957-04-01
-bb-king-george-v,HMS Duke of York,Built,Scrapped,1941-11-04,1957-04-01
-bb-king-george-v,HMS Duke of York,Built,Scrapped,1941-11-04,1957-04-01
-bb-king-george-v,HMS Howe,Built,Scrapped,1942-08-29,1957-04-01
-bb-king-george-v,HMS Howe,Built,Scrapped,1942-08-29,1957-04-01
-bb-king-george-v,HMS King George V,Built,Scrapped,1940-12-11,1957-04-01
-bb-king-george-v,HMS King George V,Built,Scrapped,1940-12-11,1957-04-01
+bb-king-george-v,HMS Anson,Active,,1942-06-22,1949-11-01
+bb-king-george-v,HMS Anson,Reserve,,1949-11-01,1957-04-01
+bb-king-george-v,HMS Duke of York,Active,,1941-11-04,1949-04-01
+bb-king-george-v,HMS Duke of York,Reserve,,1949-04-01,1957-04-01
+bb-king-george-v,HMS Howe,Active,,1942-08-29,1951-01-01
+bb-king-george-v,HMS Howe,Reserve,,1951-01-01,1957-04-01
+bb-king-george-v,HMS King George V,Active,,1940-12-11,1950-06-01
+bb-king-george-v,HMS King George V,Reserve,,1950-06-01,1957-04-01
 bb-king-george-v,HMS Prince of Wales,Active,,1941-03-31,1941-12-10
-bb-king-george-v-1911,HMS Ajax,Built,Scrapped,1913-03-01,1926-11-01
-bb-king-george-v-1911,HMS Ajax,Built,Scrapped,1913-03-01,1926-11-01
+bb-king-george-v-1911,HMS Ajax,Active,,1913-03-01,1924-04-01
+bb-king-george-v-1911,HMS Ajax,Reserve,,1924-04-01,1926-11-01
 bb-king-george-v-1911,HMS Audacious,Active,,1913-10-01,1914-10-27
-bb-king-george-v-1911,HMS Centurion,Built,Converted,1913-05-01,1927-06-01
-bb-king-george-v-1911,HMS Centurion,Built,Converted,1913-05-01,1927-06-01
-bb-king-george-v-1911,HMS King George V,Built,Scrapped,1912-11-01,1926-12-01
-bb-king-george-v-1911,HMS King George V,Built,Scrapped,1912-11-01,1926-12-01
+bb-king-george-v-1911,HMS Centurion,Active,,1913-05-01,1926-04-01
+bb-king-george-v-1911,HMS Centurion,Target,,1926-04-01,1932-01-01
+bb-king-george-v-1911,HMS Centurion,Target,,1933-04-01,1941-04-01
+bb-king-george-v-1911,HMS King George V,Active,,1912-11-01,1923-01-01
+bb-king-george-v-1911,HMS King George V,Training,,1923-01-01,1926-12-01
 bb-konig,SMS Grosser Kurfurst,Built,Sunk,1914-07-30,1919-06-21
 bb-konig,SMS Grosser Kurfurst,Built,Sunk,1914-07-30,1919-06-21
 bb-konig,SMS Konig,Built,Sunk,1914-08-09,1919-06-21
@@ -128,12 +133,11 @@ bb-nassau,SMS Rheinland,Built,Converted,1910-04-30,1918-04-11
 bb-nassau,SMS Rheinland,Built,Converted,1910-04-30,1918-04-11
 bb-nassau,SMS Westfalen,Built,Scrapped,1909-11-16,1919-11-01
 bb-nassau,SMS Westfalen,Built,Scrapped,1909-11-16,1919-11-01
-bb-nelson,HMS Nelson,Built,Scrapped,1927-08-01,1948-02-01
-bb-nelson,HMS Nelson,Built,Scrapped,1927-08-01,1948-02-01
-bb-nelson,HMS Rodney,Built,Scrapped,1927-11-01,1948-03-01
-bb-nelson,HMS Rodney,Built,Scrapped,1927-11-01,1948-03-01
-bb-neptune,HMS Neptune,Built,Scrapped,1911-01-01,1922-09-01
-bb-neptune,HMS Neptune,Built,Scrapped,1911-01-01,1922-09-01
+bb-nelson,HMS Nelson,Active,,1927-08-01,1946-07-01
+bb-nelson,HMS Nelson,Training,,1946-07-01,1948-02-01
+bb-nelson,HMS Rodney,Active,,1927-11-01,1948-03-01
+bb-neptune,HMS Neptune,Active,,1911-01-01,1919-02-01
+bb-neptune,HMS Neptune,Reserve,,1919-02-01,1922-09-01
 bb-nevada,USS Nevada,Active,,1916-03-11,1941-12-07
 bb-nevada,USS Nevada,Rebuild,,1941-12-07,1942-10-01
 bb-nevada,USS Nevada,Active,,1942-10-01,1946-08-29
@@ -152,35 +156,39 @@ bb-north-carolina,USS North Carolina,Active,,1941-04-09,1947-06-27
 bb-north-carolina,USS North Carolina,Reserve,,1947-06-27,1960-06-01
 bb-north-carolina,USS Washington,Active,,1941-05-14,1947-06-27
 bb-north-carolina,USS Washington,Reserve,,1947-06-27,1960-06-01
-bb-orion,HMS Conqueror,Built,Scrapped,1912-11-01,1922-12-01
-bb-orion,HMS Conqueror,Built,Scrapped,1912-11-01,1922-12-01
-bb-orion,HMS Monarch,Built,Scrapped,1912-03-01,1925-01-01
-bb-orion,HMS Monarch,Built,Scrapped,1912-03-01,1925-01-01
-bb-orion,HMS Orion,Built,Scrapped,1912-01-01,1922-12-01
-bb-orion,HMS Orion,Built,Scrapped,1912-01-01,1922-12-01
-bb-orion,HMS Thunderer,Built,Scrapped,1912-06-01,1926-12-01
-bb-orion,HMS Thunderer,Built,Scrapped,1912-06-01,1926-12-01
+bb-orion,HMS Conqueror,Active,,1912-11-01,1919-11-01
+bb-orion,HMS Conqueror,Reserve,,1919-11-01,1922-12-01
+bb-orion,HMS Monarch,Active,,1912-03-01,1919-11-01
+bb-orion,HMS Monarch,Reserve,,1919-11-01,1925-01-01
+bb-orion,HMS Orion,Active,,1912-01-01,1919-11-01
+bb-orion,HMS Orion,Reserve,,1919-11-01,1921-06-01
+bb-orion,HMS Orion,Training,,1921-06-01,1922-12-01
+bb-orion,HMS Thunderer,Active,,1912-06-01,1919-11-01
+bb-orion,HMS Thunderer,Reserve,,1919-11-01,1921-02-01
+bb-orion,HMS Thunderer,Training,,1921-02-01,1926-12-01
 bb-pennsylvania,USS Arizona,Active,,1916-10-17,1941-12-07
 bb-pennsylvania,USS Pennsylvania,Active,,1916-06-12,1946-08-29
 bb-pennsylvania,USS Pennsylvania,Reserve,,1946-08-29,1948-01-10
 bb-queen-elizabeth,HMS Barham,Active,,1915-10-01,1941-11-25
-bb-queen-elizabeth,HMS Malaya,Built,Scrapped,1916-02-01,1948-02-01
-bb-queen-elizabeth,HMS Malaya,Built,Scrapped,1916-02-01,1948-02-01
-bb-queen-elizabeth,HMS Queen Elizabeth,Built,Scrapped,1915-01-01,1948-03-01
-bb-queen-elizabeth,HMS Queen Elizabeth,Built,Scrapped,1915-01-01,1948-03-01
-bb-queen-elizabeth,HMS Valiant,Built,Scrapped,1916-02-01,1948-03-01
-bb-queen-elizabeth,HMS Valiant,Built,Scrapped,1916-02-01,1948-03-01
-bb-queen-elizabeth,HMS Warspite,Built,Scrapped,1915-03-01,1946-07-01
-bb-queen-elizabeth,HMS Warspite,Built,Scrapped,1915-03-01,1946-07-01
-bb-revenge,HMS Ramillies,Built,Scrapped,1917-09-01,1948-03-01
-bb-revenge,HMS Ramillies,Built,Scrapped,1917-09-01,1948-03-01
-bb-revenge,HMS Resolution,Built,Scrapped,1916-12-01,1948-05-01
-bb-revenge,HMS Resolution,Built,Scrapped,1916-12-01,1948-05-01
-bb-revenge,HMS Revenge,Built,Scrapped,1916-03-01,1948-09-01
-bb-revenge,HMS Revenge,Built,Scrapped,1916-03-01,1948-09-01
+bb-queen-elizabeth,HMS Malaya,Active,,1916-02-01,1944-12-01
+bb-queen-elizabeth,HMS Malaya,Barracks,,1944-12-01,1948-02-01
+bb-queen-elizabeth,HMS Queen Elizabeth,Active,,1915-01-01,1945-08-01
+bb-queen-elizabeth,HMS Queen Elizabeth,Reserve,,1945-08-01,1948-03-01
+bb-queen-elizabeth,HMS Valiant,Active,,1916-02-01,1945-07-01
+bb-queen-elizabeth,HMS Valiant,Training,,1945-07-01,1948-03-01
+bb-queen-elizabeth,HMS Warspite,Active,,1915-03-01,1946-07-01
+bb-revenge,HMS Ramillies,Active,,1917-09-01,1945-01-31
+bb-revenge,HMS Ramillies,Reserve,,1945-01-31,1945-05-15
+bb-revenge,HMS Ramillies,Training,,1945-05-15,1948-02-01
+bb-revenge,HMS Resolution,Active,,1916-12-01,1943-10-01
+bb-revenge,HMS Resolution,Reserve,,1943-10-01,1944-12-17
+bb-revenge,HMS Resolution,Training,,1944-12-17,1948-02-01
+bb-revenge,HMS Revenge,Active,,1916-03-01,1943-09-30
+bb-revenge,HMS Revenge,Reserve,,1943-09-30,1944-12-17
+bb-revenge,HMS Revenge,Training,,1944-12-17,1948-09-01
 bb-revenge,HMS Royal Oak,Active,,1916-05-01,1939-10-14
-bb-revenge,HMS Royal Sovereign,Built,Sold,1916-05-01,1944-08-01
-bb-revenge,HMS Royal Sovereign,Built,Sold,1916-05-01,1944-08-01
+bb-revenge,HMS Royal Sovereign,Active,,1916-05-01,1944-05-30
+bb-revenge,HMS Royal Sovereign,Reserve,,1949-02-04,1949-05-18
 bb-rio-de-janeiro,Rio de Janeiro,Built,Sold,,1913-12-01
 bb-rio-de-janeiro,Rio de Janeiro,Built,Sold,,1913-12-01
 bb-rivadavia,Moreno,Built,Converted,1915-03-01,1949-01-01
@@ -199,10 +207,10 @@ bb-south-dakota,USS Massachusetts,Active,,1942-05-12,1947-03-27
 bb-south-dakota,USS Massachusetts,Reserve,,1947-03-27,1962-06-01
 bb-south-dakota,USS South Dakota,Active,,1942-03-20,1947-01-31
 bb-south-dakota,USS South Dakota,Reserve,,1947-01-31,1962-06-01
-bb-st-vincent,HMS Collingwood,Built,Converted,1910-04-01,1918-06-01
-bb-st-vincent,HMS Collingwood,Built,Converted,1910-04-01,1918-06-01
-bb-st-vincent,HMS St. Vincent,Built,Converted,1909-05-01,1919-06-01
-bb-st-vincent,HMS St. Vincent,Built,Converted,1909-05-01,1919-06-01
+bb-st-vincent,HMS Collingwood,Active,,1910-04-01,1919-01-01
+bb-st-vincent,HMS Collingwood,Training,,1919-01-01,1922-03-31
+bb-st-vincent,HMS St. Vincent,Active,,1909-05-01,1919-03-01
+bb-st-vincent,HMS St. Vincent,Reserve,,1919-03-01,1922-03-01
 bb-st-vincent,HMS Vanguard,Active,,1910-02-01,1917-07-09
 bb-tegetthoff,Prinz Eugen,Built,Surrendered,1914-07-17,1919-01-01
 bb-tegetthoff,Prinz Eugen,Built,Surrendered,1914-07-17,1919-01-01
@@ -220,8 +228,7 @@ bb-tennessee,USS Tennessee,Active,,1920-06-03,1942-09-01
 bb-tennessee,USS Tennessee,Rebuild,,1942-09-01,1943-05-07
 bb-tennessee,USS Tennessee,Active,,1943-05-07,1947-02-14
 bb-tennessee,USS Tennessee,Reserve,,1947-02-14,1959-03-01
-bb-vanguard,HMS Vanguard,Built,Scrapped,1946-08-09,1960-06-01
-bb-vanguard,HMS Vanguard,Built,Scrapped,1946-08-09,1960-06-01
+bb-vanguard,HMS Vanguard,Active,,1946-08-09,1960-06-07
 bb-wyoming,USS Arkansas,Active,,1912-09-17,1946-07-29
 bb-wyoming,USS Wyoming,Active,,1912-09-25,1931-07-01
 bb-wyoming,USS Wyoming,Training,,1931-07-01,1946-07-29
