@@ -1,635 +1,653 @@
-ClassID,ShipName,State,Fate,Start,End
-bb-almirante-latorre,Almirante Latorre,Built,Scrapped,1915-09-30,1958-02-01
-bb-almirante-latorre,Almirante Latorre,Built,Scrapped,1915-09-30,1958-02-01
-bb-bayern,SMS Baden,Active,,1917-03-14,1919-01-07
-bb-bayern,SMS Baden,Interned,,1919-01-07,1919-06-21
-bb-bayern,SMS Baden,Target,,1919-06-21,1921-08-21
-bb-bayern,SMS Bayern,Active,,1916-07-15,1918-11-21
-bb-bayern,SMS Bayern,Interned,,1918-11-21,1919-06-21
-bb-bellerophon,HMS Bellerophon,Active,,1909-02-01,1919-03-01
-bb-bellerophon,HMS Bellerophon,Training,,1919-03-01,1919-09-01
-bb-bellerophon,HMS Bellerophon,Reserve,,1919-09-01,1921-12-08
-bb-bellerophon,HMS Superb,Active,,1909-05-01,1919-04-26
-bb-bellerophon,HMS Superb,Reserve,,1919-04-26,1919-09-01
-bb-bellerophon,HMS Superb,Training,,1919-09-01,1919-12-01
-bb-bellerophon,HMS Superb,Reserve,,1919-12-01,1922-12-01
-bb-bellerophon,HMS Temeraire,Active,,1909-05-01,1919-04-23
-bb-bellerophon,HMS Temeraire,Training,,1919-04-23,1921-04-01
-bb-bismarck,Bismarck,Active,,1940-08-24,1941-05-27
-bb-bismarck,Tirpitz,Active,,1941-02-25,1944-11-12
-bb-colorado,USS Colorado,Active,,1923-08-30,1947-01-07
-bb-colorado,USS Colorado,Reserve,,1947-01-07,1959-03-01
-bb-colorado,USS Maryland,Active,,1921-07-21,1947-04-03
-bb-colorado,USS Maryland,Reserve,,1947-04-03,1959-03-01
-bb-colorado,USS West Virginia,Active,,1923-12-01,1941-12-07
-bb-colorado,USS West Virginia,Rebuild,,1941-12-07,1944-09-01
-bb-colorado,USS West Virginia,Active,,1944-09-01,1947-01-09
-bb-colorado,USS West Virginia,Reserve,,1947-01-09,1959-03-01
-bb-colossus,HMS Colossus,Active,,1911-07-01,1919-01-01
-bb-colossus,HMS Colossus,Reserve,,1919-01-01,1921-09-01
-bb-colossus,HMS Colossus,Barracks,,1921-09-01,1928-02-23
-bb-colossus,HMS Hercules,Active,,1911-08-01,1919-02-01
-bb-colossus,HMS Hercules,Reserve,,1919-02-01,1921-11-01
-bb-dalaware,USS Dalaware,Active,,1910-04-04,1923-11-10
-bb-dalaware,USS North Dakota,Active,,1910-04-11,1923-11-22
-bb-dalaware,USS North Dakota,Target,,1923-11-22,1931-01-01
-bb-dreadnought,HMS Dreadnought,Active,,1906-12-01,1918-08-07
-bb-dreadnought,HMS Dreadnought,Reserve,,1918-08-07,1921-05-09
-bb-florida,USS Florida,Active,,1911-09-15,1931-04-01
-bb-florida,USS Utah,Active,,1911-08-31,1931-07-01
-bb-florida,USS Utah,Training,,1931-07-01,1941-12-07
-bb-fuso,Fuso,Active,,1915-11-18,1944-10-25
-bb-fuso,Yamashiro,Active,,1917-03-31,1944-10-25
-bb-helgoland,SMS Helgoland,Active,,1911-08-23,1918-12-16
-bb-helgoland,SMS Helgoland,Reserve,,1918-12-16,1920-08-01
-bb-helgoland,SMS Oldenburg,Active,,1912-05-01,1918-12-16
-bb-helgoland,SMS Oldenburg,Reserve,,1918-12-16,1919-11-01
-bb-helgoland,SMS Ostfriesland,Active,,1911-08-01,1918-12-16
-bb-helgoland,SMS Ostfriesland,Reserve,,1918-12-16,1919-11-01
-bb-helgoland,SMS Thuringen,Active,,1911-09-10,1918-12-16
-bb-helgoland,SMS Thuringen,Reserve,,1918-12-16,1919-11-01
-bb-iowa,USS Iowa,Active,,1943-02-22,1949-03-24
-bb-iowa,USS Iowa,Reserve,,1949-03-24,1951-08-25
-bb-iowa,USS Iowa,Active,,1951-08-25,1958-02-24
-bb-iowa,USS Iowa,Reserve,,1958-02-24,1984-04-28
-bb-iowa,USS Iowa,Active,,1984-04-28,1990-10-26
-bb-iowa,USS Iowa,Reserve,,1990-10-26,2006-03-17
-bb-iowa,USS Missouri,Active,,1944-06-11,1955-02-26
-bb-iowa,USS Missouri,Reserve,,1955-02-26,1986-05-10
-bb-iowa,USS Missouri,Active,,1986-05-10,1992-03-31
-bb-iowa,USS Missouri,Reserve,,1992-03-31,1995-01-12
-bb-iowa,USS New Jersey,Active,,1943-05-23,1948-06-30
-bb-iowa,USS New Jersey,Reserve,,1948-06-30,1950-11-21
-bb-iowa,USS New Jersey,Active,,1950-11-21,1957-08-21
-bb-iowa,USS New Jersey,Reserve,,1957-08-21,1968-04-06
-bb-iowa,USS New Jersey,Active,,1968-04-06,1969-12-17
-bb-iowa,USS New Jersey,Reserve,,1969-12-17,1982-12-28
-bb-iowa,USS New Jersey,Active,,1982-12-28,1991-02-08
-bb-iowa,USS New Jersey,Reserve,,1991-02-08,1999-01-04
-bb-iowa,USS Wisconsin,Active,,1944-04-16,1948-07-01
-bb-iowa,USS Wisconsin,Reserve,,1948-07-01,1951-03-03
-bb-iowa,USS Wisconsin,Active,,1951-03-03,1958-03-08
-bb-iowa,USS Wisconsin,Reserve,,1958-03-08,1988-10-22
-bb-iowa,USS Wisconsin,Active,,1988-10-22,1991-09-30
-bb-iowa,USS Wisconsin,Reserve,,1991-09-30,2006-03-17
-bb-iron-duke,HMS Benbow,Active,,1914-10-01,1929-12-01
-bb-iron-duke,HMS Benbow,Reserve,,1929-12-01,1931-03-01
-bb-iron-duke,HMS Emperor of India,Active,,1914-11-01,1931-06-05
-bb-iron-duke,HMS Emperor of India,Target,,1931-06-05,1931-09-01
-bb-iron-duke,HMS Iron Duke,Active,,1914-03-01,1929-05-30
-bb-iron-duke,HMS Iron Duke,Training,,1929-05-30,1946-03-01
-bb-iron-duke,HMS Marlborough,Active,,1914-06-01,1931-06-05
-bb-iron-duke,HMS Marlborough,Target,,1931-06-05,1932-06-01
-bb-ise,Hyuga,Active,,1918-04-30,1945-07-24
-bb-ise,Ise,Active,,1917-12-15,1945-07-28
-bb-kaiser,SMS Friedrich der Grosse,Active,,1912-10-15,1918-11-21
-bb-kaiser,SMS Friedrich der Grosse,Interned,,1918-11-21,1919-06-21
-bb-kaiser,SMS Kaiser,Active,,1912-08-01,1918-11-21
-bb-kaiser,SMS Kaiser,Interned,,1918-11-21,1919-06-21
-bb-kaiser,SMS Kaiserin,Active,,1913-05-14,1918-11-21
-bb-kaiser,SMS Kaiserin,Interned,,1918-11-21,1919-06-21
-bb-kaiser,SMS Konig Albert,Active,,1913-07-31,1918-11-21
-bb-kaiser,SMS Konig Albert,Interned,,1918-11-21,1919-06-21
-bb-kaiser,SMS Prinzregent Luitpold,Active,,1913-08-19,1918-11-21
-bb-kaiser,SMS Prinzregent Luitpold,Interned,,1918-11-21,1919-06-21
-bb-kawachi,Kawachi,Built,Sunk,1912-03-31,1918-07-12
-bb-kawachi,Kawachi,Built,Sunk,1912-03-31,1918-07-12
-bb-kawachi,Settsu,Built,Target,1912-07-01,1923-10-01
-bb-kawachi,Settsu,Built,Target,1912-07-01,1923-10-01
-bb-king-george-v,HMS Anson,Active,,1942-06-22,1949-11-01
-bb-king-george-v,HMS Anson,Reserve,,1949-11-01,1957-04-01
-bb-king-george-v,HMS Duke of York,Active,,1941-11-04,1949-04-01
-bb-king-george-v,HMS Duke of York,Reserve,,1949-04-01,1957-04-01
-bb-king-george-v,HMS Howe,Active,,1942-08-29,1951-01-01
-bb-king-george-v,HMS Howe,Reserve,,1951-01-01,1957-04-01
-bb-king-george-v,HMS King George V,Active,,1940-12-11,1950-06-01
-bb-king-george-v,HMS King George V,Reserve,,1950-06-01,1957-04-01
-bb-king-george-v,HMS Prince of Wales,Active,,1941-03-31,1941-12-10
-bb-king-george-v-1911,HMS Ajax,Active,,1913-03-01,1924-04-01
-bb-king-george-v-1911,HMS Ajax,Reserve,,1924-04-01,1926-11-01
-bb-king-george-v-1911,HMS Audacious,Active,,1913-10-01,1914-10-27
-bb-king-george-v-1911,HMS Centurion,Active,,1913-05-01,1926-04-01
-bb-king-george-v-1911,HMS Centurion,Target,,1926-04-01,1932-01-01
-bb-king-george-v-1911,HMS Centurion,Target,,1933-04-01,1941-04-01
-bb-king-george-v-1911,HMS King George V,Active,,1912-11-01,1923-01-01
-bb-king-george-v-1911,HMS King George V,Training,,1923-01-01,1926-12-01
-bb-konig,SMS Grosser Kurfurst,Active,,1914-07-30,1918-11-21
-bb-konig,SMS Grosser Kurfurst,Interned,,1918-11-21,1919-06-21
-bb-konig,SMS Konig,Active,,1914-08-09,1918-11-21
-bb-konig,SMS Konig,Interned,,1918-11-21,1919-06-21
-bb-konig,SMS Kronprinz,Active,,1914-11-08,1918-11-21
-bb-konig,SMS Kronprinz,Interned,,1918-11-21,1919-06-21
-bb-konig,SMS Markgraf,Active,,1914-10-01,1918-11-21
-bb-konig,SMS Markgraf,Interned,,1918-11-21,1919-06-21
-bb-minas-geraes,Minas Gerais,Built,Scrapped,1910-01-05,1953-09-01
-bb-minas-geraes,Minas Gerais,Built,Scrapped,1910-01-05,1953-09-01
-bb-minas-geraes,Sao Paolo,Built,Scrapped,1910-07-12,1947-08-01
-bb-minas-geraes,Sao Paolo,Built,Scrapped,1910-07-12,1947-08-01
-bb-nagato,Mutsu,Active,,1921-11-22,1943-06-08
-bb-nagato,Nagato,Built,Surrendered,1920-11-25,1945-09-01
-bb-nagato,Nagato,Built,Surrendered,1920-11-25,1945-09-01
-bb-nassau,SMS Nassau,Active,,1909-10-01,1918-12-16
-bb-nassau,SMS Nassau,Reserve,,1918-12-16,1919-11-05
-bb-nassau,SMS Posen,Active,,1910-05-31,1918-12-16
-bb-nassau,SMS Posen,Reserve,,1918-12-16,1919-11-05
-bb-nassau,SMS Rheinland,Active,,1910-04-30,1918-04-11
-bb-nassau,SMS Rheinland,Rebuild,,1918-04-11,1918-10-01
-bb-nassau,SMS Rheinland,Barracks,,1918-10-01,1919-11-05
-bb-nassau,SMS Westfalen,Active,,1909-11-16,1918-12-16
-bb-nassau,SMS Westfalen,Reserve,,1918-12-16,1919-11-05
-bb-nelson,HMS Nelson,Active,,1927-08-01,1946-07-01
-bb-nelson,HMS Nelson,Training,,1946-07-01,1948-02-01
-bb-nelson,HMS Rodney,Active,,1927-11-01,1948-03-01
-bb-neptune,HMS Neptune,Active,,1911-01-01,1919-02-01
-bb-neptune,HMS Neptune,Reserve,,1919-02-01,1922-09-01
-bb-nevada,USS Nevada,Active,,1916-03-11,1941-12-07
-bb-nevada,USS Nevada,Rebuild,,1941-12-07,1942-10-01
-bb-nevada,USS Nevada,Active,,1942-10-01,1946-08-29
-bb-nevada,USS Nevada,Reserve,,1946-08-29,1948-08-12
-bb-nevada,USS Oklahoma,Active,,1916-05-02,1941-12-07
-bb-new-mexico,USS Idaho,Active,,1919-03-24,1946-07-03
-bb-new-mexico,USS Idaho,Reserve,,1946-07-03,1947-02-25
-bb-new-mexico,USS Mississippi,Active,,1917-12-18,1946-02-15
-bb-new-mexico,USS Mississippi,Training,,1946-02-15,1956-09-17
-bb-new-mexico,USS New Mexico,Active,,1918-05-20,1946-07-19
-bb-new-mexico,USS New Mexico,Reserve,,1946-07-19,1947-02-25
-bb-new-york,USS New York,Active,,1914-05-15,1946-08-29
-bb-new-york,USS New York,Reserve,,1946-08-29,1948-07-08
-bb-new-york,USS Texas,Active,,1914-03-12,1948-04-21
-bb-north-carolina,USS North Carolina,Active,,1941-04-09,1947-06-27
-bb-north-carolina,USS North Carolina,Reserve,,1947-06-27,1960-06-01
-bb-north-carolina,USS Washington,Active,,1941-05-14,1947-06-27
-bb-north-carolina,USS Washington,Reserve,,1947-06-27,1960-06-01
-bb-orion,HMS Conqueror,Active,,1912-11-01,1919-11-01
-bb-orion,HMS Conqueror,Reserve,,1919-11-01,1922-12-01
-bb-orion,HMS Monarch,Active,,1912-03-01,1919-11-01
-bb-orion,HMS Monarch,Reserve,,1919-11-01,1925-01-01
-bb-orion,HMS Orion,Active,,1912-01-01,1919-11-01
-bb-orion,HMS Orion,Reserve,,1919-11-01,1921-06-01
-bb-orion,HMS Orion,Training,,1921-06-01,1922-12-01
-bb-orion,HMS Thunderer,Active,,1912-06-01,1919-11-01
-bb-orion,HMS Thunderer,Reserve,,1919-11-01,1921-02-01
-bb-orion,HMS Thunderer,Training,,1921-02-01,1926-12-01
-bb-pennsylvania,USS Arizona,Active,,1916-10-17,1941-12-07
-bb-pennsylvania,USS Pennsylvania,Active,,1916-06-12,1946-08-29
-bb-pennsylvania,USS Pennsylvania,Reserve,,1946-08-29,1948-01-10
-bb-queen-elizabeth,HMS Barham,Active,,1915-10-01,1941-11-25
-bb-queen-elizabeth,HMS Malaya,Active,,1916-02-01,1944-12-01
-bb-queen-elizabeth,HMS Malaya,Barracks,,1944-12-01,1948-02-01
-bb-queen-elizabeth,HMS Queen Elizabeth,Active,,1915-01-01,1945-08-01
-bb-queen-elizabeth,HMS Queen Elizabeth,Reserve,,1945-08-01,1948-03-01
-bb-queen-elizabeth,HMS Valiant,Active,,1916-02-01,1945-07-01
-bb-queen-elizabeth,HMS Valiant,Training,,1945-07-01,1948-03-01
-bb-queen-elizabeth,HMS Warspite,Active,,1915-03-01,1946-07-01
-bb-revenge,HMS Ramillies,Active,,1917-09-01,1945-01-31
-bb-revenge,HMS Ramillies,Reserve,,1945-01-31,1945-05-15
-bb-revenge,HMS Ramillies,Training,,1945-05-15,1948-02-01
-bb-revenge,HMS Resolution,Active,,1916-12-01,1943-10-01
-bb-revenge,HMS Resolution,Reserve,,1943-10-01,1944-12-17
-bb-revenge,HMS Resolution,Training,,1944-12-17,1948-02-01
-bb-revenge,HMS Revenge,Active,,1916-03-01,1943-09-30
-bb-revenge,HMS Revenge,Reserve,,1943-09-30,1944-12-17
-bb-revenge,HMS Revenge,Training,,1944-12-17,1948-09-01
-bb-revenge,HMS Royal Oak,Active,,1916-05-01,1939-10-14
-bb-revenge,HMS Royal Sovereign,Active,,1916-05-01,1944-05-30
-bb-revenge,HMS Royal Sovereign,Reserve,,1949-02-04,1949-05-18
-bb-rio-de-janeiro,Rio de Janeiro,Built,Sold,,1913-12-01
-bb-rio-de-janeiro,Rio de Janeiro,Built,Sold,,1913-12-01
-bb-rivadavia,Moreno,Built,Converted,1915-03-01,1949-01-01
-bb-rivadavia,Moreno,Built,Converted,1915-03-01,1949-01-01
-bb-rivadavia,Rivadavia,Built,Scrapped,1914-12-01,1952-01-01
-bb-rivadavia,Rivadavia,Built,Scrapped,1914-12-01,1952-01-01
-bb-scharnhorst,Gneisenau,Active,,1938-05-21,1945-03-23
-bb-scharnhorst,Scharnhorst,Active,,1939-01-07,1943-12-26
-bb-south-carolina,USS Michigan,Active,,1910-01-04,1923-11-01
-bb-south-carolina,USS South Carolina,Active,,1910-03-01,1923-11-01
-bb-south-dakota,USS Alabama,Active,,1942-06-16,1947-01-09
-bb-south-dakota,USS Alabama,Reserve,,1947-01-09,1962-06-01
-bb-south-dakota,USS Indiana,Active,,1942-04-30,1947-09-11
-bb-south-dakota,USS Indiana,Reserve,,1947-09-11,1962-06-01
-bb-south-dakota,USS Massachusetts,Active,,1942-05-12,1947-03-27
-bb-south-dakota,USS Massachusetts,Reserve,,1947-03-27,1962-06-01
-bb-south-dakota,USS South Dakota,Active,,1942-03-20,1947-01-31
-bb-south-dakota,USS South Dakota,Reserve,,1947-01-31,1962-06-01
-bb-st-vincent,HMS Collingwood,Active,,1910-04-01,1919-01-01
-bb-st-vincent,HMS Collingwood,Training,,1919-01-01,1922-03-31
-bb-st-vincent,HMS St. Vincent,Active,,1909-05-01,1919-03-01
-bb-st-vincent,HMS St. Vincent,Reserve,,1919-03-01,1922-03-01
-bb-st-vincent,HMS Vanguard,Active,,1910-02-01,1917-07-09
-bb-tegetthoff,Prinz Eugen,Built,Surrendered,1914-07-17,1919-01-01
-bb-tegetthoff,Prinz Eugen,Built,Surrendered,1914-07-17,1919-01-01
-bb-tegetthoff,Szent Istvan,Built,Sunk,1915-12-13,1918-06-10
-bb-tegetthoff,Szent Istvan,Built,Sunk,1915-12-13,1918-06-10
-bb-tegetthoff,Tegetthoff,Built,Surrendered,1913-07-21,1919-01-01
-bb-tegetthoff,Tegetthoff,Built,Surrendered,1913-07-21,1919-01-01
-bb-tegetthoff,Viribus Unitis,Built,Sunk,1912-12-05,1918-11-01
-bb-tegetthoff,Viribus Unitis,Built,Sunk,1912-12-05,1918-11-01
-bb-tennessee,USS California,Active,,1921-08-10,1941-12-07
-bb-tennessee,USS California,Rebuild,,1941-12-07,1944-01-31
-bb-tennessee,USS California,Active,,1944-01-31,1947-02-14
-bb-tennessee,USS California,Reserve,,1947-02-14,1959-03-01
-bb-tennessee,USS Tennessee,Active,,1920-06-03,1942-09-01
-bb-tennessee,USS Tennessee,Rebuild,,1942-09-01,1943-05-07
-bb-tennessee,USS Tennessee,Active,,1943-05-07,1947-02-14
-bb-tennessee,USS Tennessee,Reserve,,1947-02-14,1959-03-01
-bb-vanguard,HMS Vanguard,Active,,1946-08-09,1960-06-07
-bb-wyoming,USS Arkansas,Active,,1912-09-17,1946-07-29
-bb-wyoming,USS Wyoming,Active,,1912-09-25,1931-07-01
-bb-wyoming,USS Wyoming,Training,,1931-07-01,1946-07-29
-bb-yamato,Musashi,Active,,1942-08-05,1944-10-24
-bb-yamato,Yamato,Active,,1941-12-16,1945-04-07
-bbar-benbow,HMS Benbow,Built,Scrapped,1888-06-01,1909-07-13
-bbar-benbow,HMS Benbow,Built,Scrapped,1888-06-01,1909-07-13
-bbar-collingwood,HMS Collingwood,Built,Scrapped,1887-07-01,1909-05-01
-bbar-collingwood,HMS Collingwood,Built,Scrapped,1887-07-01,1909-05-01
-bbar-kronprinz-erzherzog-rudolf,Kronprinz Erzherzog Rudolf,Built,Transfered,1889-09-01,1918-11-01
-bbar-kronprinz-erzherzog-rudolf,Kronprinz Erzherzog Rudolf,Built,Transfered,1889-09-01,1918-11-01
-bbar-kronprinzessin-erzherzogin-stefanie,Kronprinzessin Erzherzogin Stefanie,Built,Converted,1889-07-01,1910-01-01
-bbar-kronprinzessin-erzherzogin-stefanie,Kronprinzessin Erzherzogin Stefanie,Built,Converted,1889-07-01,1910-01-01
-bbar-rodney,HMS Anson,Built,Scrapped,1889-05-01,1909-07-01
-bbar-rodney,HMS Anson,Built,Scrapped,1889-05-01,1909-07-01
-bbar-rodney,HMS Camperdown,Built,Converted,1889-08-01,1908-10-01
-bbar-rodney,HMS Camperdown,Built,Converted,1889-08-01,1908-10-01
-bbar-rodney,HMS Howe,Built,Scrapped,1889-08-01,1910-11-01
-bbar-rodney,HMS Howe,Built,Scrapped,1889-08-01,1910-11-01
-bbar-rodney,HMS Rodney,Built,Scrapped,1888-06-01,1909-06-01
-bbar-rodney,HMS Rodney,Built,Scrapped,1888-06-01,1909-06-01
-bc-admiral,HMS Hood,Active,,1920-05-15,1941-05-24
-bc-courageous,HMS Courageous,Active,,1917-01-01,1924-06-01
-bc-courageous,HMS Glorious,Active,,1917-01-01,1924-02-01
-bc-derfflinger,SMS Derfflinger,Active,,1914-09-01,1918-11-21
-bc-derfflinger,SMS Derfflinger,Interned,,1918-11-21,1919-06-21
-bc-derfflinger,SMS Lutzow,Active,,1915-08-08,1916-06-01
-bc-deutschland,Admiral Graf Spee,Active,,1936-01-06,1939-12-17
-bc-deutschland,Admiral Scheer,Active,,1934-11-12,1945-04-09
-bc-deutschland,Deutschland,Active,,1933-04-01,1945-05-04
-bc-hindenburg,SMS Hindenburg,Active,,1917-05-10,1918-11-21
-bc-hindenburg,SMS Hindenburg,Interned,,1918-11-21,1919-06-21
-bc-indefatigable,HMS Australia,Active,,1913-06-01,1920-09-01
-bc-indefatigable,HMS Australia,Training,,1920-09-01,1921-12-01
-bc-indefatigable,HMS Australia,Reserve,,1921-12-01,1924-04-12
-bc-indefatigable,HMS Indefatigable,Active,,1911-04-01,1916-05-31
-bc-indefatigable,HMS New Zealand,Active,,1912-11-01,1920-03-15
-bc-indefatigable,HMS New Zealand,Reserve,,1920-03-15,1922-12-01
-bc-invincible,HMS Indomitable,Active,,1908-06-01,1919-01-01
-bc-invincible,HMS Indomitable,Reserve,,1919-01-01,1921-12-01
-bc-invincible,HMS Inflexible,Active,,1908-10-01,1919-01-01
-bc-invincible,HMS Inflexible,Reserve,,1919-01-01,1921-12-01
-bc-invincible,HMS Invincible,Active,,1909-03-01,1916-05-31
-bc-kongo,Haruna,Active,,1915-04-19,1945-07-28
-bc-kongo,Hiei,Active,,1914-08-04,1942-11-13
-bc-kongo,Kirishima,Active,,1915-04-19,1942-11-15
-bc-kongo,Kongo,Active,,1913-08-16,1944-11-21
-bc-lion,HMS Lion,Active,,1912-05-01,1920-03-01
-bc-lion,HMS Lion,Reserve,,1920-03-01,1922-03-31
-bc-lion,HMS Princess Royal,Active,,1912-11-01,1920-03-01
-bc-lion,HMS Princess Royal,Reserve,,1920-03-01,1922-12-01
-bc-moltke,SMS Goeben,Active,,1912-07-02,1914-08-01
-bc-moltke,SMS Moltke,Active,,1911-09-30,1918-11-21
-bc-moltke,SMS Moltke,Interned,,1918-11-21,1919-06-21
-bc-queen-marry,HMS Queen Mary,Active,,1913-08-01,1916-05-31
-bc-renown,HMS Renown,Active,,1916-09-01,1948-01-21
-bc-renown,HMS Repulse,Active,,1916-08-01,1941-12-10
-bc-seyditz,SMS Seydlitz,Active,,1913-05-22,1918-11-21
-bc-seyditz,SMS Seydlitz,Interned,,1918-11-21,1919-06-21
-bc-tiger,HMS Tiger,Active,,1914-10-01,1924-02-24
-bc-tiger,HMS Tiger,Training,,1924-02-24,1929-05-01
-bc-tiger,HMS Tiger,Active,,1929-05-01,1931-03-01
-bc-von-der-tann,SMS Von der Tann,Active,,1911-02-19,1918-11-21
-bc-von-der-tann,SMS Von der Tann,Interned,,1918-11-21,1919-06-21
-bmt-agamemnon,HMS Agamemnon,Built,Scrapped,1883-03-29,1903-01-01
-bmt-agamemnon,HMS Agamemnon,Built,Scrapped,1883-03-29,1903-01-01
-bmt-agamemnon,HMS Ajax,Built,Scrapped,1883-03-30,1904-03-01
-bmt-agamemnon,HMS Ajax,Built,Scrapped,1883-03-30,1904-03-01
-bmt-aquidaba,Aquidaba,Built,Sunk,1887-01-01,1906-01-22
-bmt-aquidaba,Aquidaba,Built,Sunk,1887-01-01,1906-01-22
-bmt-inflexible,HMS Inflexible,Built,Scrapped,1881-10-18,1903-09-01
-bmt-inflexible,HMS Inflexible,Built,Scrapped,1881-10-18,1903-09-01
-bmt-riachuelo,Riachuelo,Built,Scrapped,1883-11-19,1910-01-01
-bmt-riachuelo,Riachuelo,Built,Scrapped,1883-11-19,1910-01-01
-bt-capitan-prat,Capitan Prat,Built,Scrapped,1893-05-01,1936-01-01
-bt-capitan-prat,Capitan Prat,Built,Scrapped,1893-05-01,1936-01-01
-bt-colossus,HMS Colossus,Built,Converted,1885-10-31,1904-03-01
-bt-colossus,HMS Colossus,Built,Converted,1885-10-31,1904-03-01
-bt-colossus,HMS Edinburgh,Built,Target,1887-07-08,1908-01-01
-bt-colossus,HMS Edinburgh,Built,Target,1887-07-08,1908-01-01
-bt-conqueror,HMS Conqueror,Built,Scrapped,1886-03-01,1907-04-01
-bt-conqueror,HMS Conqueror,Built,Scrapped,1886-03-01,1907-04-01
-bt-conqueror,HMS Hero,Built,Target,1888-05-01,1907-11-01
-bt-conqueror,HMS Hero,Built,Target,1888-05-01,1907-11-01
-bt-hood,HMS Hood,Built,Target,1893-05-01,1911-09-01
-bt-hood,HMS Hood,Built,Target,1893-05-01,1911-09-01
-bt-maine,USS Maine,Active,,1895-09-17,1898-02-15
-bt-texas,USS Texas,Active,,1895-08-15,1911-02-11
-bt-texas,USS San Marcos,Target,,1911-02-11,1911-03-22
-bt-trafalgar,HMS Nile,Built,Scrapped,1891-07-10,1912-07-01
-bt-trafalgar,HMS Nile,Built,Scrapped,1891-07-10,1912-07-01
-bt-trafalgar,HMS Trafalgar,Built,Scrapped,1890-04-01,1911-09-01
-bt-trafalgar,HMS Trafalgar,Built,Scrapped,1890-04-01,1911-09-01
-bt-victoria,HMS Sans Pareil,Built,Scrapped,1891-07-08,1907-04-01
-bt-victoria,HMS Sans Pareil,Built,Scrapped,1891-07-08,1907-04-01
-bt-victoria,HMS Victoria,Built,Sunk,1890-03-01,1893-06-22
-bt-victoria,HMS Victoria,Built,Sunk,1890-03-01,1893-06-22
-cb-alaska,USS Alaska,Active,,1944-06-17,1947-02-17
-cb-alaska,USS Alaska,Reserve,,1947-02-17,1960-06-01
-cb-alaska,USS Guam,Active,,1944-09-17,1947-02-17
-cb-alaska,USS Guam,Reserve,,1947-02-17,1960-06-01
-cds-el-plata,El Plata,Built,Scrapped,1875-10-01,1927-11-01
-cds-el-plata,El Plata,Built,Scrapped,1875-10-01,1927-11-01
-cds-el-plata,Los Andes,Built,Scrapped,1875-10-01,1927-11-01
-cds-el-plata,Los Andes,Built,Scrapped,1875-10-01,1927-11-01
-cds-herluf-trolle,Herluf Trolle,Built,Scrapped,1901-06-07,1932-04-01
-cds-herluf-trolle,Herluf Trolle,Built,Scrapped,1901-06-07,1932-04-01
-cds-herluf-trolle,Olfert Fischer,Built,Scrapped,1905-05-31,1936-10-01
-cds-herluf-trolle,Olfert Fischer,Built,Scrapped,1905-05-31,1936-10-01
-cds-herluf-trolle,Peder Skram,Built,Sunk,1908-09-24,1943-08-29
-cds-herluf-trolle,Peder Skram,Built,Sunk,1908-09-24,1943-08-29
-cds-iver-hvitfeldt,Iver Hvitfeldt,Built,Scrapped,1887-06-01,1919-02-01
-cds-iver-hvitfeldt,Iver Hvitfeldt,Built,Scrapped,1887-06-01,1919-02-01
-cds-libertad,Independencia,Built,Scrapped,1892-11-26,1951-01-01
-cds-libertad,Independencia,Built,Scrapped,1892-11-26,1951-01-01
-cds-libertad,Libertad,Built,Scrapped,1892-11-26,1946-12-01
-cds-libertad,Libertad,Built,Scrapped,1892-11-26,1946-12-01
-cds-marshal-deodoro,Marshal Deodoro,Built,Sold,1900-01-01,1924-01-01
-cds-marshal-deodoro,Marshal Deodoro,Built,Sold,1900-01-01,1924-01-01
-cds-marshal-deodoro,Marshal Floriano,Built,Scrapped,1901-01-01,1936-01-01
-cds-marshal-deodoro,Marshal Floriano,Built,Scrapped,1901-01-01,1936-01-01
-cds-monarch,Budapest,Built,Converted,1898-05-12,1918-03-01
-cds-monarch,Budapest,Built,Converted,1898-05-12,1918-03-01
-cds-monarch,Monarch,Built,Converted,1898-05-11,1918-03-01
-cds-monarch,Monarch,Built,Converted,1898-05-11,1918-03-01
-cds-monarch,Wien,Built,Sunk,1898-05-13,1917-12-10
-cds-monarch,Wien,Built,Sunk,1898-05-13,1917-12-10
-cds-niels-iuel,Niels Iuel,Built,Sunk,1923-05-23,1943-08-29
-cds-niels-iuel,Niels Iuel,Built,Sunk,1923-05-23,1943-08-29
-cds-odin,SMS Agir,Active,,1896-10-15,1915-08-31
-cds-odin,SMS Agir,Barracks,,1915-08-31,1919-06-17
-cds-odin,SMS Odin,Active,,1896-09-22,1915-08-31
-cds-odin,SMS Odin,Auxiliary,,1915-08-31,1919-12-06
-cds-siegfried,SMS Beowulf,Active,,1892-04-01,1915-08-31
-cds-siegfried,SMS Beowulf,Target,,1915-08-31,1919-06-17
-cds-siegfried,SMS Frithjof,Active,,1893-02-23,1915-08-31
-cds-siegfried,SMS Frithjof,Barracks,,1915-08-31,1919-06-17
-cds-siegfried,SMS Hagen,Active,,1894-10-02,1915-08-31
-cds-siegfried,SMS Hagen,Barracks,,1915-08-31,1919-06-17
-cds-siegfried,SMS Heimdall,Active,,1894-04-07,1915-08-31
-cds-siegfried,SMS Heimdall,Barracks,,1915-08-31,1919-06-17
-cds-siegfried,SMS Hildebrand,Active,,1893-10-28,1915-08-31
-cds-siegfried,SMS Hildebrand,Barracks,,1915-08-31,1919-06-17
-cds-siegfried,SMS Siegfried,Active,,1890-04-29,1915-08-31
-cds-siegfried,SMS Siegfried,Barracks,,1915-08-31,1919-06-17
-cds-spetsai,Idra,Built,Converted,1892-01-01,1919-01-01
-cds-spetsai,Idra,Built,Converted,1892-01-01,1919-01-01
-cds-spetsai,Psara,Built,Converted,1891-01-01,1919-01-01
-cds-spetsai,Psara,Built,Converted,1891-01-01,1919-01-01
-cds-spetsai,Spetsai,Built,Converted,1892-01-01,1919-01-01
-cds-spetsai,Spetsai,Built,Converted,1892-01-01,1919-01-01
-cds-vainamoinen,Ilmarinen,Built,Sunk,1933-09-01,1941-09-13
-cds-vainamoinen,Ilmarinen,Built,Sunk,1933-09-01,1941-09-13
-cds-vainamoinen,Vainamoinen,Built,Sold,1932-12-01,1947-06-01
-cds-vainamoinen,Vainamoinen,Built,Sold,1932-12-01,1947-06-01
-m-skjold,Skjold,Built,Scrapped,1897-05-25,1929-05-01
-m-skjold,Skjold,Built,Scrapped,1897-05-25,1929-05-01
-pred-aki,Aki,Built,Target,1911-03-11,1923-09-01
-pred-aki,Aki,Built,Target,1911-03-11,1923-09-01
-pred-asahi,Asahi,Built,Converted,1900-07-31,1923-04-01
-pred-asahi,Asahi,Built,Converted,1900-07-31,1923-04-01
-pred-brandenburg,SMS Brandenburg,Built,Converted,1893-11-19,1915-01-01
-pred-brandenburg,SMS Brandenburg,Built,Converted,1893-11-19,1915-01-01
-pred-brandenburg,SMS Kurfurst Friedrich Wilhelm,Built,Sold,1894-04-29,1910-09-01
-pred-brandenburg,SMS Kurfurst Friedrich Wilhelm,Built,Sold,1894-04-29,1910-09-01
-pred-brandenburg,SMS Weissenburg,Built,Sold,1894-10-14,1910-09-01
-pred-brandenburg,SMS Weissenburg,Built,Sold,1894-10-14,1910-09-01
-pred-brandenburg,SMS Worth,Built,Converted,1893-10-31,1915-12-01
-pred-brandenburg,SMS Worth,Built,Converted,1893-10-31,1915-12-01
-pred-braunschweig,SMS Braunschweig,Built,Converted,1904-10-15,1916-07-01
-pred-braunschweig,SMS Braunschweig,Built,Converted,1904-10-15,1916-07-01
-pred-braunschweig,SMS Elsass,Built,Converted,1904-11-29,1916-07-01
-pred-braunschweig,SMS Elsass,Built,Converted,1904-11-29,1916-07-01
-pred-braunschweig,SMS Hessen,Built,Converted,1905-09-19,1916-12-01
-pred-braunschweig,SMS Hessen,Built,Converted,1905-09-19,1916-12-01
-pred-braunschweig,SMS Lothringen,Built,Converted,1906-05-18,1916-12-01
-pred-braunschweig,SMS Lothringen,Built,Converted,1906-05-18,1916-12-01
-pred-braunschweig,SMS Preussen,Built,Converted,1905-07-12,1916-12-01
-pred-braunschweig,SMS Preussen,Built,Converted,1905-07-12,1916-12-01
-pred-canopus,HMS Albion,Built,Converted,1901-06-01,1918-03-01
-pred-canopus,HMS Albion,Built,Converted,1901-06-01,1918-03-01
-pred-canopus,HMS Canopus,Built,Converted,1899-12-01,1916-03-01
-pred-canopus,HMS Canopus,Built,Converted,1899-12-01,1916-03-01
-pred-canopus,HMS Glory,Built,Converted,1900-10-01,1920-01-01
-pred-canopus,HMS Glory,Built,Converted,1900-10-01,1920-01-01
-pred-canopus,HMS Goliath,Active,,1900-03-01,1915-05-15
-pred-canopus,HMS Ocean,Active,,1900-02-01,1915-03-18
-pred-canopus,HMS Vengeance,Built,Converted,1902-04-01,1917-03-01
-pred-canopus,HMS Vengeance,Built,Converted,1902-04-01,1917-03-01
-pred-centurion,HMS Barfleur,Built,Scrapped,1894-06-01,1910-07-01
-pred-centurion,HMS Barfleur,Built,Scrapped,1894-06-01,1910-07-01
-pred-centurion,HMS Centurion,Built,Scrapped,1894-02-01,1910-07-01
-pred-centurion,HMS Centurion,Built,Scrapped,1894-02-01,1910-07-01
-pred-connecticut,USS Connecticut,Active,,1906-09-29,1923-03-01
-pred-connecticut,USS Connecticut,Reserve,,1923-03-01,1923-11-10
-pred-connecticut,USS Louisiana,Active,,1906-06-02,1920-10-20
-pred-connecticut,USS Louisiana,Reserve,,1920-10-20,1923-11-10
-pred-constitucion,Constitucion,Built,Sold,,1903-03-12
-pred-constitucion,Constitucion,Built,Sold,,1903-03-12
-pred-constitucion,Libertad,Built,Sold,,1903-03-12
-pred-constitucion,Libertad,Built,Sold,,1903-03-12
-pred-deutschland,SMS Deutschland,Built,Converted,1906-08-03,1917-10-01
-pred-deutschland,SMS Deutschland,Built,Converted,1906-08-03,1917-10-01
-pred-deutschland,SMS Hannover,Built,Scrapped,1907-10-01,1931-09-25
-pred-deutschland,SMS Hannover,Built,Scrapped,1907-10-01,1931-09-25
-pred-deutschland,SMS Pommern,Built,Sunk,1907-08-06,1916-06-01
-pred-deutschland,SMS Pommern,Built,Sunk,1907-08-06,1916-06-01
-pred-deutschland,SMS Schlesien,Built,Sunk,1908-05-05,1945-05-04
-pred-deutschland,SMS Schlesien,Built,Sunk,1908-05-05,1945-05-04
-pred-deutschland,SMS Schleswig-Holstein,Built,Sunk,1908-07-06,1944-12-18
-pred-deutschland,SMS Schleswig-Holstein,Built,Sunk,1908-07-06,1944-12-18
-pred-duncan,HMS Albermarle,Built,Converted,1903-11-01,1917-05-01
-pred-duncan,HMS Albermarle,Built,Converted,1903-11-01,1917-05-01
-pred-duncan,HMS Cornwallis,Active,,1904-02-01,1917-01-09
-pred-duncan,HMS Duncan,Built,Converted,1903-10-01,1920-02-01
-pred-duncan,HMS Duncan,Built,Converted,1903-10-01,1920-02-01
-pred-duncan,HMS Exmouth,Built,Converted,1903-05-01,1920-02-01
-pred-duncan,HMS Exmouth,Built,Converted,1903-05-01,1920-02-01
-pred-duncan,HMS Montagu,Built,Sunk,1903-10-01,1906-05-30
-pred-duncan,HMS Montagu,Built,Sunk,1903-10-01,1906-05-30
-pred-duncan,HMS Russell,Active,,1903-02-01,1916-04-27
-pred-erzherzog-karl,Erzherzog Ferdinand Max,Built,Surrendered,1907-12-21,1920-01-01
-pred-erzherzog-karl,Erzherzog Ferdinand Max,Built,Surrendered,1907-12-21,1920-01-01
-pred-erzherzog-karl,Erzherzog Friedrich,Built,Surrendered,1907-01-31,1920-01-01
-pred-erzherzog-karl,Erzherzog Friedrich,Built,Surrendered,1907-01-31,1920-01-01
-pred-erzherzog-karl,Erzherzog Karl,Built,Surrendered,1906-06-17,1920-01-01
-pred-erzherzog-karl,Erzherzog Karl,Built,Surrendered,1906-06-17,1920-01-01
-pred-formidable,HMS Formidable,Active,,1901-09-01,1915-01-01
-pred-formidable,HMS Implacable,Built,Scrapped,1901-09-01,1921-11-01
-pred-formidable,HMS Implacable,Built,Scrapped,1901-09-01,1921-11-01
-pred-formidable,HMS Irresistible,Active,,1902-02-01,1915-03-18
-pred-fuji,Fuji,Built,Converted,1897-08-17,1922-09-01
-pred-fuji,Fuji,Built,Converted,1897-08-17,1922-09-01
-pred-fuji,Yashima,Built,Sunk,1897-09-09,1904-05-15
-pred-fuji,Yashima,Built,Sunk,1897-09-09,1904-05-15
-pred-habsburg,Arpad,Built,Surrendered,1903-06-15,1920-01-01
-pred-habsburg,Arpad,Built,Surrendered,1903-06-15,1920-01-01
-pred-habsburg,Babenberg,Built,Surrendered,1904-04-15,1920-01-01
-pred-habsburg,Babenberg,Built,Surrendered,1904-04-15,1920-01-01
-pred-habsburg,Habsburg,Built,Surrendered,1902-12-31,1920-01-01
-pred-habsburg,Habsburg,Built,Surrendered,1902-12-31,1920-01-01
-pred-illinois,USS Alabama,Active,,1900-10-16,1920-05-07
-pred-illinois,USS Alabama,Reserve,,1920-05-07,1921-09-01
-pred-illinois,USS Illinois,Active,,1901-09-16,1919-01-01
-pred-illinois,USS Illinois,Reserve,,1919-01-01,1924-01-01
-pred-illinois,USS Illinois,Armory,,1924-01-01,1941-01-08
-pred-illinois,USS Illinois,Barracks,,1941-01-08,1955-12-31
-pred-illinois,USS Wisconsin,Active,,1901-02-04,1920-05-15
-pred-illinois,USS Wisconsin,Reserve,,1920-05-15,1921-07-01
-pred-indiana,USS Indiana,Active,,1895-11-20,1903-12-24
-pred-indiana,USS Indiana,Rebuild,,1903-12-24,1906-01-09
-pred-indiana,USS Indiana,Active,,1906-01-09,1914-05-23
-pred-indiana,USS Indiana,Reserve,,1914-05-23,1917-05-24
-pred-indiana,USS Indiana,Active,,1917-05-24,1919-01-31
-pred-indiana,USS Coast Battleship No. 1,Reserve,,1919-01-31,1920-11-01
-pred-indiana,USS Massachusetts,Active,,1896-06-10,1906-01-08
-pred-indiana,USS Massachusetts,Rebuild,,1906-01-08,1910-05-02
-pred-indiana,USS Massachusetts,Active,,1910-05-02,1914-05-23
-pred-indiana,USS Massachusetts,Reserve,,1914-05-23,1917-06-09
-pred-indiana,USS Massachusetts,Active,,1917-06-09,1919-03-29
-pred-indiana,USS Coast Battleship No. 2,Reserve,,1919-03-29,1921-01-06
-pred-indiana,USS Oregon,Active,,1896-07-15,1906-04-27
-pred-indiana,USS Oregon,Rebuild,,1906-04-27,1911-08-29
-pred-indiana,USS Oregon,Active,,1911-08-29,1919-06-12
-pred-indiana,USS Oregon,Reserve,,1919-06-12,1924-01-04
-pred-iowa,USS Iowa,Active,,1897-06-16,1914-05-27
-pred-iowa,USS Iowa,Reserve,,1914-05-27,1917-04-28
-pred-iowa,USS Iowa,Active,,1917-04-28,1919-03-31
-pred-iowa,USS Coast Battleship No. 4,Target,,1919-03-31,1923-03-23
-pred-kaiser-friedrich-iii,SMS Kaiser Barbarossa,Built,Converted,1901-06-10,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Barbarossa,Built,Converted,1901-06-10,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Friedrich III,Built,Converted,1898-10-07,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Friedrich III,Built,Converted,1898-10-07,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Karl der Grosse,Built,Converted,1902-02-04,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Karl der Grosse,Built,Converted,1902-02-04,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm der Grosse,Built,Converted,1901-05-05,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm der Grosse,Built,Converted,1901-05-05,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm II,Built,Converted,1900-02-13,1915-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm II,Built,Converted,1900-02-13,1915-01-01
-pred-katori,Kashima,Built,Scrapped,1906-05-23,1923-09-01
-pred-katori,Kashima,Built,Scrapped,1906-05-23,1923-09-01
-pred-katori,Katori,Built,Scrapped,1906-05-20,1923-09-01
-pred-katori,Katori,Built,Scrapped,1906-05-20,1923-09-01
-pred-kearsarge,USS Kearsarge,Active,,1900-02-20,1920-05-18
-pred-kearsarge,USS Kearsarge,Auxiliary,,1920-05-18,1941-11-06
-pred-kearsarge,USS Crane Ship No. 1,Auxiliary,,1941-11-06,1955-08-09
-pred-kearsarge,USS Kentucky,Active,,1900-05-15,1920-03-29
-pred-kearsarge,USS Kentucky,Reserve,,1920-03-29,1922-05-27
-pred-king-edward-vii,HMS Africa,Built,Converted,1906-11-01,1919-04-01
-pred-king-edward-vii,HMS Africa,Built,Converted,1906-11-01,1919-04-01
-pred-king-edward-vii,HMS Britannia,Built,Sunk,1906-09-01,1918-11-09
-pred-king-edward-vii,HMS Britannia,Built,Sunk,1906-09-01,1918-11-09
-pred-king-edward-vii,HMS Commonwealth,Built,Target,1905-03-01,1919-06-01
-pred-king-edward-vii,HMS Commonwealth,Built,Target,1905-03-01,1919-06-01
-pred-king-edward-vii,HMS Dominion,Built,Converted,1905-07-01,1918-04-01
-pred-king-edward-vii,HMS Dominion,Built,Converted,1905-07-01,1918-04-01
-pred-king-edward-vii,HMS Hibernia,Built,Converted,1907-01-01,1919-04-01
-pred-king-edward-vii,HMS Hibernia,Built,Converted,1907-01-01,1919-04-01
-pred-king-edward-vii,HMS Hindustan,Built,Converted,1905-07-01,1914-09-01
-pred-king-edward-vii,HMS Hindustan,Built,Converted,1905-07-01,1914-09-01
-pred-king-edward-vii,HMS King Edward VII,Active,,1905-02-01,1916-01-06
-pred-king-edward-vii,HMS New Zealand,Built,Converted,1905-07-01,1919-03-01
-pred-king-edward-vii,HMS New Zealand,Built,Converted,1905-07-01,1919-03-01
-pred-london,HMS Bulwark,Active,,1902-03-01,1914-11-26
-pred-london,HMS London,Built,Converted,1902-06-01,1918-01-01
-pred-london,HMS London,Built,Converted,1902-06-01,1918-01-01
-pred-london,HMS Prince of Wales,Built,Converted,1904-03-01,1918-03-01
-pred-london,HMS Prince of Wales,Built,Converted,1904-03-01,1918-03-01
-pred-london,HMS Queen,Built,Converted,1904-03-01,1918-03-01
-pred-london,HMS Queen,Built,Converted,1904-03-01,1918-03-01
-pred-london,HMS Venerable,Built,Converted,1902-11-01,1918-01-01
-pred-london,HMS Venerable,Built,Converted,1902-11-01,1918-01-01
-pred-lord-nelson,HMS Agamemnon,Built,Target,1908-06-01,1921-04-01
-pred-lord-nelson,HMS Agamemnon,Built,Target,1908-06-01,1921-04-01
-pred-lord-nelson,HMS Lord Nelson,Built,Scrapped,1908-10-01,1920-06-01
-pred-lord-nelson,HMS Lord Nelson,Built,Scrapped,1908-10-01,1920-06-01
-pred-maine,USS Maine,Active,,1902-12-29,1920-05-15
-pred-maine,USS Maine,Reserve,,1920-05-15,1921-07-01
-pred-maine,USS Missouri,Active,,1903-12-01,1919-09-08
-pred-maine,USS Missouri,Reserve,,1919-09-08,1921-07-01
-pred-maine,USS Ohio,Active,,1904-10-04,1919-07-01
-pred-maine,USS Ohio,Reserve,,1919-07-01,1922-05-01
-pred-majestic,HMS Caesar,Built,Scrapped,1898-01-01,1921-11-01
-pred-majestic,HMS Caesar,Built,Scrapped,1898-01-01,1921-11-01
-pred-majestic,HMS Hannibal,Built,Converted,1898-04-01,1915-03-01
-pred-majestic,HMS Hannibal,Built,Converted,1898-04-01,1915-03-01
-pred-majestic,HMS Illustrious,Built,Converted,1898-04-01,1916-01-01
-pred-majestic,HMS Illustrious,Built,Converted,1898-04-01,1916-01-01
-pred-majestic,HMS Jupiter,Built,Converted,1897-05-01,1918-01-01
-pred-majestic,HMS Jupiter,Built,Converted,1897-05-01,1918-01-01
-pred-majestic,HMS Magnificent,Built,Converted,1895-12-01,1915-02-01
-pred-majestic,HMS Magnificent,Built,Converted,1895-12-01,1915-02-01
-pred-majestic,HMS Majestic,Built,Sunk,1895-12-01,1915-05-27
-pred-majestic,HMS Majestic,Built,Sunk,1895-12-01,1915-05-27
-pred-majestic,HMS Mars,Built,Converted,1897-06-01,1915-02-01
-pred-majestic,HMS Mars,Built,Converted,1897-06-01,1915-02-01
-pred-majestic,HMS Prince George,Built,Converted,1896-11-01,1916-03-01
-pred-majestic,HMS Prince George,Built,Converted,1896-11-01,1916-03-01
-pred-majestic,HMS Victorious,Built,Converted,1896-11-01,1915-02-01
-pred-majestic,HMS Victorious,Built,Converted,1896-11-01,1915-02-01
-pred-mikasa,Mikasa,Built,Museum,1902-03-01,1923-09-20
-pred-mikasa,Mikasa,Built,Museum,1902-03-01,1923-09-20
-pred-mississippi,USS Idaho,Active,,1908-04-01,1914-07-01
-pred-mississippi,USS Mississippi,Active,,1908-02-01,1914-07-01
-pred-radetzky,Erzherzog Franz Ferdinand,Built,Surrendered,1910-06-05,1920-01-01
-pred-radetzky,Erzherzog Franz Ferdinand,Built,Surrendered,1910-06-05,1920-01-01
-pred-radetzky,Radetzky,Built,Surrendered,1911-01-15,1920-01-01
-pred-radetzky,Radetzky,Built,Surrendered,1911-01-15,1920-01-01
-pred-radetzky,Zrinyi,Built,Surrendered,1911-09-15,1920-01-01
-pred-radetzky,Zrinyi,Built,Surrendered,1911-09-15,1920-01-01
-pred-renown,HMS Renown,Built,Converted,1897-01-01,1909-10-01
-pred-renown,HMS Renown,Built,Converted,1897-01-01,1909-10-01
-pred-royal-sovereign,HMS Empress of India,Built,Target,1893-08-01,1913-11-04
-pred-royal-sovereign,HMS Empress of India,Built,Target,1893-08-01,1913-11-04
-pred-royal-sovereign,HMS Ramillies,Built,Scrapped,1893-10-01,1913-10-01
-pred-royal-sovereign,HMS Ramillies,Built,Scrapped,1893-10-01,1913-10-01
-pred-royal-sovereign,HMS Repulse,Built,Scrapped,1894-04-01,1911-07-01
-pred-royal-sovereign,HMS Repulse,Built,Scrapped,1894-04-01,1911-07-01
-pred-royal-sovereign,HMS Resolution,Built,Scrapped,1893-11-01,1914-04-01
-pred-royal-sovereign,HMS Resolution,Built,Scrapped,1893-11-01,1914-04-01
-pred-royal-sovereign,HMS Revenge,Built,Converted,1894-03-01,1915-12-01
-pred-royal-sovereign,HMS Revenge,Built,Converted,1894-03-01,1915-12-01
-pred-royal-sovereign,HMS Royal Oak,Built,Scrapped,1894-06-01,1914-01-01
-pred-royal-sovereign,HMS Royal Oak,Built,Scrapped,1894-06-01,1914-01-01
-pred-royal-sovereign,HMS Royal Sovereign,Built,Scrapped,1892-05-01,1913-10-01
-pred-royal-sovereign,HMS Royal Sovereign,Built,Scrapped,1892-05-01,1913-10-01
-pred-satsuma,Satsuma,Built,Scrapped,1910-03-25,1923-09-01
-pred-satsuma,Satsuma,Built,Scrapped,1910-03-25,1923-09-01
-pred-shikishima,Hatsuse,Built,Sunk,1901-01-18,1904-05-15
-pred-shikishima,Hatsuse,Built,Sunk,1901-01-18,1904-05-15
-pred-shikishima,Shikishima,Built,Converted,1900-01-26,1923-04-01
-pred-shikishima,Shikishima,Built,Converted,1900-01-26,1923-04-01
-pred-vermont,USS Kansas,Active,,1907-04-18,1921-12-16
-pred-vermont,USS Kansas,Reserve,,1921-12-16,1923-11-10
-pred-vermont,USS Minnesota,Active,,1907-03-09,1921-12-01
-pred-vermont,USS Minnesota,Reserve,,1921-12-01,1923-11-10
-pred-vermont,USS New Hampshire,Active,,1908-03-19,1921-05-21
-pred-vermont,USS New Hampshire,Reserve,,1921-05-21,1923-11-10
-pred-vermont,USS Vermont,Active,,1907-03-04,1920-06-30
-pred-vermont,USS Vermont,Reserve,,1920-06-30,1923-11-10
-pred-virginia,USS Georgia,Active,,1906-09-24,1920-07-15
-pred-virginia,USS Georgia,Reserve,,1920-07-15,1923-11-10
-pred-virginia,USS Nebraska,Active,,1907-07-01,1920-07-02
-pred-virginia,USS Nebraska,Reserve,,1920-07-02,1922-07-12
-pred-virginia,USS New Jersey,Active,,1906-05-12,1920-08-06
-pred-virginia,USS New Jersey,Reserve,,1920-08-06,1922-07-12
-pred-virginia,USS Rhode Island,Active,,1906-02-19,1920-06-30
-pred-virginia,USS Rhode Island,Reserve,,1920-06-30,1923-11-01
-pred-virginia,USS Virginia,Active,,1906-05-07,1920-08-13
-pred-virginia,USS Virginia,Reserve,,1920-08-13,1923-09-05
-pred-wittelsbach,SMS Mecklenburg,Built,Converted,1903-06-25,1916-01-01
-pred-wittelsbach,SMS Mecklenburg,Built,Converted,1903-06-25,1916-01-01
-pred-wittelsbach,SMS Schwaben,Built,Converted,1904-04-13,1916-01-01
-pred-wittelsbach,SMS Schwaben,Built,Converted,1904-04-13,1916-01-01
-pred-wittelsbach,SMS Wettin,Built,Converted,1902-10-01,1916-01-01
-pred-wittelsbach,SMS Wettin,Built,Converted,1902-10-01,1916-01-01
-pred-wittelsbach,SMS Wittelsbach,Built,Converted,1902-10-15,1916-01-01
-pred-wittelsbach,SMS Wittelsbach,Built,Converted,1902-10-15,1916-01-01
-pred-wittelsbach,SMS Zahringen,Built,Converted,1902-10-25,1916-01-01
-pred-wittelsbach,SMS Zahringen,Built,Converted,1902-10-25,1916-01-01
+ClassID,ShipName,Nation,State,Fate,Start,End
+bb-almirante-latorre,HMS Canada,rn,Active,,1915-09-30,1919-03-01
+bb-almirante-latorre,HMS Canada,rn,Reserve,,1919-03-01,1920-04-01
+bb-almirante-latorre,Almirante Latorre,cn,Active,,1920-04-01,1958-10-01
+bb-bayern,SMS Baden,km,Active,,1917-03-14,1919-01-07
+bb-bayern,SMS Baden,km,Interned,,1919-01-07,1919-06-21
+bb-bayern,SMS Baden,km,Target,,1919-06-21,1921-08-21
+bb-bayern,SMS Bayern,km,Active,,1916-07-15,1918-11-21
+bb-bayern,SMS Bayern,km,Interned,,1918-11-21,1919-06-21
+bb-bellerophon,HMS Bellerophon,rn,Active,,1909-02-01,1919-03-01
+bb-bellerophon,HMS Bellerophon,rn,Training,,1919-03-01,1919-09-01
+bb-bellerophon,HMS Bellerophon,rn,Reserve,,1919-09-01,1921-12-08
+bb-bellerophon,HMS Superb,rn,Active,,1909-05-01,1919-04-26
+bb-bellerophon,HMS Superb,rn,Reserve,,1919-04-26,1919-09-01
+bb-bellerophon,HMS Superb,rn,Training,,1919-09-01,1919-12-01
+bb-bellerophon,HMS Superb,rn,Reserve,,1919-12-01,1922-12-01
+bb-bellerophon,HMS Temeraire,rn,Active,,1909-05-01,1919-04-23
+bb-bellerophon,HMS Temeraire,rn,Training,,1919-04-23,1921-04-01
+bb-bismarck,Bismarck,km,Active,,1940-08-24,1941-05-27
+bb-bismarck,Tirpitz,km,Active,,1941-02-25,1944-11-12
+bb-colorado,USS Colorado,usn,Active,,1923-08-30,1947-01-07
+bb-colorado,USS Colorado,usn,Reserve,,1947-01-07,1959-03-01
+bb-colorado,USS Maryland,usn,Active,,1921-07-21,1947-04-03
+bb-colorado,USS Maryland,usn,Reserve,,1947-04-03,1959-03-01
+bb-colorado,USS West Virginia,usn,Active,,1923-12-01,1941-12-07
+bb-colorado,USS West Virginia,usn,Rebuild,,1941-12-07,1944-09-01
+bb-colorado,USS West Virginia,usn,Active,,1944-09-01,1947-01-09
+bb-colorado,USS West Virginia,usn,Reserve,,1947-01-09,1959-03-01
+bb-colossus,HMS Colossus,rn,Active,,1911-07-01,1919-01-01
+bb-colossus,HMS Colossus,rn,Reserve,,1919-01-01,1921-09-01
+bb-colossus,HMS Colossus,rn,Barracks,,1921-09-01,1928-02-23
+bb-colossus,HMS Hercules,rn,Active,,1911-08-01,1919-02-01
+bb-colossus,HMS Hercules,rn,Reserve,,1919-02-01,1921-11-01
+bb-dalaware,USS Dalaware,usn,Active,,1910-04-04,1923-11-10
+bb-dalaware,USS North Dakota,usn,Active,,1910-04-11,1923-11-22
+bb-dalaware,USS North Dakota,usn,Target,,1923-11-22,1931-01-01
+bb-dreadnought,HMS Dreadnought,rn,Active,,1906-12-01,1918-08-07
+bb-dreadnought,HMS Dreadnought,rn,Reserve,,1918-08-07,1921-05-09
+bb-florida,USS Florida,usn,Active,,1911-09-15,1931-04-01
+bb-florida,USS Utah,usn,Active,,1911-08-31,1931-07-01
+bb-florida,USS Utah,usn,Training,,1931-07-01,1941-12-07
+bb-fuso,Fuso,ijn,Active,,1915-11-18,1944-10-25
+bb-fuso,Yamashiro,ijn,Active,,1917-03-31,1944-10-25
+bb-helgoland,SMS Helgoland,km,Active,,1911-08-23,1918-12-16
+bb-helgoland,SMS Helgoland,km,Reserve,,1918-12-16,1920-08-01
+bb-helgoland,SMS Oldenburg,km,Active,,1912-05-01,1918-12-16
+bb-helgoland,SMS Oldenburg,km,Reserve,,1918-12-16,1919-11-01
+bb-helgoland,SMS Ostfriesland,km,Active,,1911-08-01,1918-12-16
+bb-helgoland,SMS Ostfriesland,km,Reserve,,1918-12-16,1919-11-01
+bb-helgoland,SMS Thuringen,km,Active,,1911-09-10,1918-12-16
+bb-helgoland,SMS Thuringen,km,Reserve,,1918-12-16,1919-11-01
+bb-iowa,USS Iowa,usn,Active,,1943-02-22,1949-03-24
+bb-iowa,USS Iowa,usn,Reserve,,1949-03-24,1951-08-25
+bb-iowa,USS Iowa,usn,Active,,1951-08-25,1958-02-24
+bb-iowa,USS Iowa,usn,Reserve,,1958-02-24,1984-04-28
+bb-iowa,USS Iowa,usn,Active,,1984-04-28,1990-10-26
+bb-iowa,USS Iowa,usn,Reserve,,1990-10-26,2006-03-17
+bb-iowa,USS Missouri,usn,Active,,1944-06-11,1955-02-26
+bb-iowa,USS Missouri,usn,Reserve,,1955-02-26,1986-05-10
+bb-iowa,USS Missouri,usn,Active,,1986-05-10,1992-03-31
+bb-iowa,USS Missouri,usn,Reserve,,1992-03-31,1995-01-12
+bb-iowa,USS New Jersey,usn,Active,,1943-05-23,1948-06-30
+bb-iowa,USS New Jersey,usn,Reserve,,1948-06-30,1950-11-21
+bb-iowa,USS New Jersey,usn,Active,,1950-11-21,1957-08-21
+bb-iowa,USS New Jersey,usn,Reserve,,1957-08-21,1968-04-06
+bb-iowa,USS New Jersey,usn,Active,,1968-04-06,1969-12-17
+bb-iowa,USS New Jersey,usn,Reserve,,1969-12-17,1982-12-28
+bb-iowa,USS New Jersey,usn,Active,,1982-12-28,1991-02-08
+bb-iowa,USS New Jersey,usn,Reserve,,1991-02-08,1999-01-04
+bb-iowa,USS Wisconsin,usn,Active,,1944-04-16,1948-07-01
+bb-iowa,USS Wisconsin,usn,Reserve,,1948-07-01,1951-03-03
+bb-iowa,USS Wisconsin,usn,Active,,1951-03-03,1958-03-08
+bb-iowa,USS Wisconsin,usn,Reserve,,1958-03-08,1988-10-22
+bb-iowa,USS Wisconsin,usn,Active,,1988-10-22,1991-09-30
+bb-iowa,USS Wisconsin,usn,Reserve,,1991-09-30,2006-03-17
+bb-iron-duke,HMS Benbow,rn,Active,,1914-10-01,1929-12-01
+bb-iron-duke,HMS Benbow,rn,Reserve,,1929-12-01,1931-03-01
+bb-iron-duke,HMS Emperor of India,rn,Active,,1914-11-01,1931-06-05
+bb-iron-duke,HMS Emperor of India,rn,Target,,1931-06-05,1931-09-01
+bb-iron-duke,HMS Iron Duke,rn,Active,,1914-03-01,1929-05-30
+bb-iron-duke,HMS Iron Duke,rn,Training,,1929-05-30,1946-03-01
+bb-iron-duke,HMS Marlborough,rn,Active,,1914-06-01,1931-06-05
+bb-iron-duke,HMS Marlborough,rn,Target,,1931-06-05,1932-06-01
+bb-ise,Hyuga,ijn,Active,,1918-04-30,1945-07-24
+bb-ise,Ise,ijn,Active,,1917-12-15,1945-07-28
+bb-kaiser,SMS Friedrich der Grosse,km,Active,,1912-10-15,1918-11-21
+bb-kaiser,SMS Friedrich der Grosse,km,Interned,,1918-11-21,1919-06-21
+bb-kaiser,SMS Kaiser,km,Active,,1912-08-01,1918-11-21
+bb-kaiser,SMS Kaiser,km,Interned,,1918-11-21,1919-06-21
+bb-kaiser,SMS Kaiserin,km,Active,,1913-05-14,1918-11-21
+bb-kaiser,SMS Kaiserin,km,Interned,,1918-11-21,1919-06-21
+bb-kaiser,SMS Konig Albert,km,Active,,1913-07-31,1918-11-21
+bb-kaiser,SMS Konig Albert,km,Interned,,1918-11-21,1919-06-21
+bb-kaiser,SMS Prinzregent Luitpold,km,Active,,1913-08-19,1918-11-21
+bb-kaiser,SMS Prinzregent Luitpold,km,Interned,,1918-11-21,1919-06-21
+bb-kawachi,Kawachi,ijn,Active,,1912-03-31,1918-07-12
+bb-kawachi,Settsu,ijn,Active,,1912-07-01,1923-10-01
+bb-kawachi,Settsu,ijn,Target,,1923-10-01,1945-07-24
+bb-king-george-v,HMS Anson,rn,Active,,1942-06-22,1949-11-01
+bb-king-george-v,HMS Anson,rn,Reserve,,1949-11-01,1957-04-01
+bb-king-george-v,HMS Duke of York,rn,Active,,1941-11-04,1949-04-01
+bb-king-george-v,HMS Duke of York,rn,Reserve,,1949-04-01,1957-04-01
+bb-king-george-v,HMS Howe,rn,Active,,1942-08-29,1951-01-01
+bb-king-george-v,HMS Howe,rn,Reserve,,1951-01-01,1957-04-01
+bb-king-george-v,HMS King George V,rn,Active,,1940-12-11,1950-06-01
+bb-king-george-v,HMS King George V,rn,Reserve,,1950-06-01,1957-04-01
+bb-king-george-v,HMS Prince of Wales,rn,Active,,1941-03-31,1941-12-10
+bb-king-george-v-1911,HMS Ajax,rn,Active,,1913-03-01,1924-04-01
+bb-king-george-v-1911,HMS Ajax,rn,Reserve,,1924-04-01,1926-11-01
+bb-king-george-v-1911,HMS Audacious,rn,Active,,1913-10-01,1914-10-27
+bb-king-george-v-1911,HMS Centurion,rn,Active,,1913-05-01,1926-04-01
+bb-king-george-v-1911,HMS Centurion,rn,Target,,1926-04-01,1932-01-01
+bb-king-george-v-1911,HMS Centurion,rn,Target,,1933-04-01,1941-04-01
+bb-king-george-v-1911,HMS King George V,rn,Active,,1912-11-01,1923-01-01
+bb-king-george-v-1911,HMS King George V,rn,Training,,1923-01-01,1926-12-01
+bb-konig,SMS Grosser Kurfurst,km,Active,,1914-07-30,1918-11-21
+bb-konig,SMS Grosser Kurfurst,km,Interned,,1918-11-21,1919-06-21
+bb-konig,SMS Konig,km,Active,,1914-08-09,1918-11-21
+bb-konig,SMS Konig,km,Interned,,1918-11-21,1919-06-21
+bb-konig,SMS Kronprinz,km,Active,,1914-11-08,1918-11-21
+bb-konig,SMS Kronprinz,km,Interned,,1918-11-21,1919-06-21
+bb-konig,SMS Markgraf,km,Active,,1914-10-01,1918-11-21
+bb-konig,SMS Markgraf,km,Interned,,1918-11-21,1919-06-21
+bb-minas-geraes,Minas Gerais,,Built,Scrapped,1910-01-05,1953-09-01
+bb-minas-geraes,Minas Gerais,,Built,Scrapped,1910-01-05,1953-09-01
+bb-minas-geraes,Sao Paolo,,Built,Scrapped,1910-07-12,1947-08-01
+bb-minas-geraes,Sao Paolo,,Built,Scrapped,1910-07-12,1947-08-01
+bb-nagato,Mutsu,ijn,Active,,1921-11-22,1943-06-08
+bb-nagato,Nagato,ijn,Active,,1920-11-25,1945-09-15
+bb-nassau,SMS Nassau,km,Active,,1909-10-01,1918-12-16
+bb-nassau,SMS Nassau,km,Reserve,,1918-12-16,1919-11-05
+bb-nassau,SMS Posen,km,Active,,1910-05-31,1918-12-16
+bb-nassau,SMS Posen,km,Reserve,,1918-12-16,1919-11-05
+bb-nassau,SMS Rheinland,km,Active,,1910-04-30,1918-04-11
+bb-nassau,SMS Rheinland,km,Rebuild,,1918-04-11,1918-10-01
+bb-nassau,SMS Rheinland,km,Barracks,,1918-10-01,1919-11-05
+bb-nassau,SMS Westfalen,km,Active,,1909-11-16,1918-12-16
+bb-nassau,SMS Westfalen,km,Reserve,,1918-12-16,1919-11-05
+bb-nelson,HMS Nelson,rn,Active,,1927-08-01,1946-07-01
+bb-nelson,HMS Nelson,rn,Training,,1946-07-01,1948-02-01
+bb-nelson,HMS Rodney,rn,Active,,1927-11-01,1948-03-01
+bb-neptune,HMS Neptune,rn,Active,,1911-01-01,1919-02-01
+bb-neptune,HMS Neptune,rn,Reserve,,1919-02-01,1922-09-01
+bb-nevada,USS Nevada,usn,Active,,1916-03-11,1941-12-07
+bb-nevada,USS Nevada,usn,Rebuild,,1941-12-07,1942-10-01
+bb-nevada,USS Nevada,usn,Active,,1942-10-01,1946-08-29
+bb-nevada,USS Nevada,usn,Reserve,,1946-08-29,1948-08-12
+bb-nevada,USS Oklahoma,usn,Active,,1916-05-02,1941-12-07
+bb-new-mexico,USS Idaho,usn,Active,,1919-03-24,1946-07-03
+bb-new-mexico,USS Idaho,usn,Reserve,,1946-07-03,1947-02-25
+bb-new-mexico,USS Mississippi,usn,Active,,1917-12-18,1946-02-15
+bb-new-mexico,USS Mississippi,usn,Training,,1946-02-15,1956-09-17
+bb-new-mexico,USS New Mexico,usn,Active,,1918-05-20,1946-07-19
+bb-new-mexico,USS New Mexico,usn,Reserve,,1946-07-19,1947-02-25
+bb-new-york,USS New York,usn,Active,,1914-05-15,1946-08-29
+bb-new-york,USS New York,usn,Reserve,,1946-08-29,1948-07-08
+bb-new-york,USS Texas,usn,Active,,1914-03-12,1948-04-21
+bb-north-carolina,USS North Carolina,usn,Active,,1941-04-09,1947-06-27
+bb-north-carolina,USS North Carolina,usn,Reserve,,1947-06-27,1960-06-01
+bb-north-carolina,USS Washington,usn,Active,,1941-05-14,1947-06-27
+bb-north-carolina,USS Washington,usn,Reserve,,1947-06-27,1960-06-01
+bb-orion,HMS Conqueror,rn,Active,,1912-11-01,1919-11-01
+bb-orion,HMS Conqueror,rn,Reserve,,1919-11-01,1922-12-01
+bb-orion,HMS Monarch,rn,Active,,1912-03-01,1919-11-01
+bb-orion,HMS Monarch,rn,Reserve,,1919-11-01,1925-01-01
+bb-orion,HMS Orion,rn,Active,,1912-01-01,1919-11-01
+bb-orion,HMS Orion,rn,Reserve,,1919-11-01,1921-06-01
+bb-orion,HMS Orion,rn,Training,,1921-06-01,1922-12-01
+bb-orion,HMS Thunderer,rn,Active,,1912-06-01,1919-11-01
+bb-orion,HMS Thunderer,rn,Reserve,,1919-11-01,1921-02-01
+bb-orion,HMS Thunderer,rn,Training,,1921-02-01,1926-12-01
+bb-pennsylvania,USS Arizona,usn,Active,,1916-10-17,1941-12-07
+bb-pennsylvania,USS Pennsylvania,usn,Active,,1916-06-12,1946-08-29
+bb-pennsylvania,USS Pennsylvania,usn,Reserve,,1946-08-29,1948-01-10
+bb-queen-elizabeth,HMS Barham,rn,Active,,1915-10-01,1941-11-25
+bb-queen-elizabeth,HMS Malaya,rn,Active,,1916-02-01,1944-12-01
+bb-queen-elizabeth,HMS Malaya,rn,Barracks,,1944-12-01,1948-02-01
+bb-queen-elizabeth,HMS Queen Elizabeth,rn,Active,,1915-01-01,1945-08-01
+bb-queen-elizabeth,HMS Queen Elizabeth,rn,Reserve,,1945-08-01,1948-03-01
+bb-queen-elizabeth,HMS Valiant,rn,Active,,1916-02-01,1945-07-01
+bb-queen-elizabeth,HMS Valiant,rn,Training,,1945-07-01,1948-03-01
+bb-queen-elizabeth,HMS Warspite,rn,Active,,1915-03-01,1946-07-01
+bb-revenge,HMS Ramillies,rn,Active,,1917-09-01,1945-01-31
+bb-revenge,HMS Ramillies,rn,Reserve,,1945-01-31,1945-05-15
+bb-revenge,HMS Ramillies,rn,Training,,1945-05-15,1948-02-01
+bb-revenge,HMS Resolution,rn,Active,,1916-12-01,1943-10-01
+bb-revenge,HMS Resolution,rn,Reserve,,1943-10-01,1944-12-17
+bb-revenge,HMS Resolution,rn,Training,,1944-12-17,1948-02-01
+bb-revenge,HMS Revenge,rn,Active,,1916-03-01,1943-09-30
+bb-revenge,HMS Revenge,rn,Reserve,,1943-09-30,1944-12-17
+bb-revenge,HMS Revenge,rn,Training,,1944-12-17,1948-09-01
+bb-revenge,HMS Royal Oak,rn,Active,,1916-05-01,1939-10-14
+bb-revenge,HMS Royal Sovereign,rn,Active,,1916-05-01,1944-05-30
+bb-revenge,HMS Royal Sovereign,rn,Reserve,,1949-02-04,1949-05-18
+bb-rio-de-janeiro,Rio de Janeiro,,Built,Sold,,1913-12-01
+bb-rio-de-janeiro,Rio de Janeiro,,Built,Sold,,1913-12-01
+bb-rivadavia,Moreno,,Built,Converted,1915-03-01,1949-01-01
+bb-rivadavia,Moreno,,Built,Converted,1915-03-01,1949-01-01
+bb-rivadavia,Rivadavia,,Built,Scrapped,1914-12-01,1952-01-01
+bb-rivadavia,Rivadavia,,Built,Scrapped,1914-12-01,1952-01-01
+bb-scharnhorst,Gneisenau,km,Active,,1938-05-21,1945-03-23
+bb-scharnhorst,Scharnhorst,km,Active,,1939-01-07,1943-12-26
+bb-south-carolina,USS Michigan,usn,Active,,1910-01-04,1923-11-01
+bb-south-carolina,USS South Carolina,usn,Active,,1910-03-01,1923-11-01
+bb-south-dakota,USS Alabama,usn,Active,,1942-06-16,1947-01-09
+bb-south-dakota,USS Alabama,usn,Reserve,,1947-01-09,1962-06-01
+bb-south-dakota,USS Indiana,usn,Active,,1942-04-30,1947-09-11
+bb-south-dakota,USS Indiana,usn,Reserve,,1947-09-11,1962-06-01
+bb-south-dakota,USS Massachusetts,usn,Active,,1942-05-12,1947-03-27
+bb-south-dakota,USS Massachusetts,usn,Reserve,,1947-03-27,1962-06-01
+bb-south-dakota,USS South Dakota,usn,Active,,1942-03-20,1947-01-31
+bb-south-dakota,USS South Dakota,usn,Reserve,,1947-01-31,1962-06-01
+bb-st-vincent,HMS Collingwood,rn,Active,,1910-04-01,1919-01-01
+bb-st-vincent,HMS Collingwood,rn,Training,,1919-01-01,1922-03-31
+bb-st-vincent,HMS St. Vincent,rn,Active,,1909-05-01,1919-03-01
+bb-st-vincent,HMS St. Vincent,rn,Reserve,,1919-03-01,1922-03-01
+bb-st-vincent,HMS Vanguard,rn,Active,,1910-02-01,1917-07-09
+bb-tegetthoff,Prinz Eugen,,Built,Surrendered,1914-07-17,1919-01-01
+bb-tegetthoff,Prinz Eugen,,Built,Surrendered,1914-07-17,1919-01-01
+bb-tegetthoff,Szent Istvan,,Built,Sunk,1915-12-13,1918-06-10
+bb-tegetthoff,Szent Istvan,,Built,Sunk,1915-12-13,1918-06-10
+bb-tegetthoff,Tegetthoff,,Built,Surrendered,1913-07-21,1919-01-01
+bb-tegetthoff,Tegetthoff,,Built,Surrendered,1913-07-21,1919-01-01
+bb-tegetthoff,Viribus Unitis,,Built,Sunk,1912-12-05,1918-11-01
+bb-tegetthoff,Viribus Unitis,,Built,Sunk,1912-12-05,1918-11-01
+bb-tennessee,USS California,usn,Active,,1921-08-10,1941-12-07
+bb-tennessee,USS California,usn,Rebuild,,1941-12-07,1944-01-31
+bb-tennessee,USS California,usn,Active,,1944-01-31,1947-02-14
+bb-tennessee,USS California,usn,Reserve,,1947-02-14,1959-03-01
+bb-tennessee,USS Tennessee,usn,Active,,1920-06-03,1942-09-01
+bb-tennessee,USS Tennessee,usn,Rebuild,,1942-09-01,1943-05-07
+bb-tennessee,USS Tennessee,usn,Active,,1943-05-07,1947-02-14
+bb-tennessee,USS Tennessee,usn,Reserve,,1947-02-14,1959-03-01
+bb-vanguard,HMS Vanguard,usn,Active,,1946-08-09,1960-06-07
+bb-wyoming,USS Arkansas,usn,Active,,1912-09-17,1946-07-29
+bb-wyoming,USS Wyoming,usn,Active,,1912-09-25,1931-07-01
+bb-wyoming,USS Wyoming,usn,Training,,1931-07-01,1946-07-29
+bb-yamato,Musashi,ijn,Active,,1942-08-05,1944-10-24
+bb-yamato,Yamato,ijn,Active,,1941-12-16,1945-04-07
+bbar-benbow,HMS Benbow,rn,Active,,1888-06-01,1891-10-01
+bbar-benbow,HMS Benbow,rn,Reserve,,1891-10-01,1894-03-01
+bbar-benbow,HMS Benbow,rn,Active,,1894-03-01,1904-04-01
+bbar-benbow,HMS Benbow,rn,Reserve,,1904-04-01,1909-07-13
+bbar-collingwood,HMS Collingwood,rn,Active,,1887-07-01,1903-06-01
+bbar-collingwood,HMS Collingwood,rn,Reserve,,1903-06-01,1909-05-01
+bbar-kronprinz-erzherzog-rudolf,Kronprinz Erzherzog Rudolf,,Built,Transfered,1889-09-01,1918-11-01
+bbar-kronprinz-erzherzog-rudolf,Kronprinz Erzherzog Rudolf,,Built,Transfered,1889-09-01,1918-11-01
+bbar-kronprinzessin-erzherzogin-stefanie,Kronprinzessin Erzherzogin Stefanie,,Built,Converted,1889-07-01,1910-01-01
+bbar-kronprinzessin-erzherzogin-stefanie,Kronprinzessin Erzherzogin Stefanie,,Built,Converted,1889-07-01,1910-01-01
+bbar-rodney,HMS Anson,rn,Active,,1889-05-01,1904-05-01
+bbar-rodney,HMS Anson,rn,Reserve,,1904-05-01,1909-07-01
+bbar-rodney,HMS Camperdown,rn,Active,,1889-08-01,1899-09-01
+bbar-rodney,HMS Camperdown,rn,Reserve,,1899-09-01,1908-10-01
+bbar-rodney,HMS Howe,rn,Active,,1889-08-01,1901-10-12
+bbar-rodney,HMS Howe,rn,Reserve,,1901-10-12,1910-11-01
+bbar-rodney,HMS Rodney,rn,Active,,1888-06-01,1901-02-01
+bbar-rodney,HMS Rodney,rn,Reserve,,1901-02-01,1909-06-01
+bc-admiral,HMS Hood,rn,Active,,1920-05-15,1941-05-24
+bc-courageous,HMS Courageous,rn,Active,,1917-01-01,1924-06-01
+bc-courageous,HMS Glorious,rn,Active,,1917-01-01,1924-02-01
+bc-derfflinger,SMS Derfflinger,km,Active,,1914-09-01,1918-11-21
+bc-derfflinger,SMS Derfflinger,km,Interned,,1918-11-21,1919-06-21
+bc-derfflinger,SMS Lutzow,km,Active,,1915-08-08,1916-06-01
+bc-deutschland,Admiral Graf Spee,km,Active,,1936-01-06,1939-12-17
+bc-deutschland,Admiral Scheer,km,Active,,1934-11-12,1945-04-09
+bc-deutschland,Deutschland,km,Active,,1933-04-01,1945-05-04
+bc-hindenburg,SMS Hindenburg,km,Active,,1917-05-10,1918-11-21
+bc-hindenburg,SMS Hindenburg,km,Interned,,1918-11-21,1919-06-21
+bc-indefatigable,HMS Australia,rn,Active,,1913-06-01,1920-09-01
+bc-indefatigable,HMS Australia,rn,Training,,1920-09-01,1921-12-01
+bc-indefatigable,HMS Australia,rn,Reserve,,1921-12-01,1924-04-12
+bc-indefatigable,HMS Indefatigable,rn,Active,,1911-04-01,1916-05-31
+bc-indefatigable,HMS New Zealand,rn,Active,,1912-11-01,1920-03-15
+bc-indefatigable,HMS New Zealand,rn,Reserve,,1920-03-15,1922-12-01
+bc-invincible,HMS Indomitable,rn,Active,,1908-06-01,1919-01-01
+bc-invincible,HMS Indomitable,rn,Reserve,,1919-01-01,1921-12-01
+bc-invincible,HMS Inflexible,rn,Active,,1908-10-01,1919-01-01
+bc-invincible,HMS Inflexible,rn,Reserve,,1919-01-01,1921-12-01
+bc-invincible,HMS Invincible,rn,Active,,1909-03-01,1916-05-31
+bc-kongo,Haruna,ijn,Active,,1915-04-19,1945-07-28
+bc-kongo,Hiei,ijn,Active,,1914-08-04,1942-11-13
+bc-kongo,Kirishima,ijn,Active,,1915-04-19,1942-11-15
+bc-kongo,Kongo,ijn,Active,,1913-08-16,1944-11-21
+bc-lion,HMS Lion,rn,Active,,1912-05-01,1920-03-01
+bc-lion,HMS Lion,rn,Reserve,,1920-03-01,1922-03-31
+bc-lion,HMS Princess Royal,rn,Active,,1912-11-01,1920-03-01
+bc-lion,HMS Princess Royal,rn,Reserve,,1920-03-01,1922-12-01
+bc-moltke,SMS Goeben,km,Active,,1912-07-02,1914-08-01
+bc-moltke,SMS Moltke,km,Active,,1911-09-30,1918-11-21
+bc-moltke,SMS Moltke,km,Interned,,1918-11-21,1919-06-21
+bc-queen-marry,HMS Queen Mary,rn,Active,,1913-08-01,1916-05-31
+bc-renown,HMS Renown,rn,Active,,1916-09-01,1948-01-21
+bc-renown,HMS Repulse,rn,Active,,1916-08-01,1941-12-10
+bc-seyditz,SMS Seydlitz,km,Active,,1913-05-22,1918-11-21
+bc-seyditz,SMS Seydlitz,km,Interned,,1918-11-21,1919-06-21
+bc-tiger,HMS Tiger,rn,Active,,1914-10-01,1924-02-24
+bc-tiger,HMS Tiger,rn,Training,,1924-02-24,1929-05-01
+bc-tiger,HMS Tiger,rn,Active,,1929-05-01,1931-03-01
+bc-von-der-tann,SMS Von der Tann,km,Active,,1911-02-19,1918-11-21
+bc-von-der-tann,SMS Von der Tann,km,Interned,,1918-11-21,1919-06-21
+bmt-agamemnon,HMS Agamemnon,rn,Active,,1883-03-29,1892-01-01
+bmt-agamemnon,HMS Agamemnon,rn,Reserve,,1892-01-01,1903-01-01
+bmt-agamemnon,HMS Ajax,rn,Active,,1883-03-30,1891-01-01
+bmt-agamemnon,HMS Ajax,rn,Reserve,,1891-01-01,1904-03-01
+bmt-aquidaba,Aquidaba,,Built,Sunk,1887-01-01,1906-01-22
+bmt-aquidaba,Aquidaba,,Built,Sunk,1887-01-01,1906-01-22
+bmt-inflexible,HMS Inflexible,rn,Active,,1881-10-18,1897-01-01
+bmt-inflexible,HMS Inflexible,rn,Reserve,,1897-01-01,1903-09-01
+bmt-riachuelo,Riachuelo,,Built,Scrapped,1883-11-19,1910-01-01
+bmt-riachuelo,Riachuelo,,Built,Scrapped,1883-11-19,1910-01-01
+bt-capitan-prat,Capitan Prat,,Built,Scrapped,1893-05-01,1936-01-01
+bt-capitan-prat,Capitan Prat,,Built,Scrapped,1893-05-01,1936-01-01
+bt-colossus,HMS Colossus,rn,Active,,1885-10-31,1901-11-01
+bt-colossus,HMS Colossus,rn,Reserve,,1901-11-01,1904-03-01
+bt-colossus,HMS Edinburgh,rn,Active,,1887-07-08,1897-03-01
+bt-colossus,HMS Edinburgh,rn,Reserve,,1897-03-01,1908-01-01
+bt-conqueror,HMS Conqueror,rn,Active,,1886-03-01,1889-01-01
+bt-conqueror,HMS Conqueror,rn,Reserve,,1889-01-01,1907-04-01
+bt-conqueror,HMS Hero,rn,Active,,1888-05-01,1905-02-01
+bt-conqueror,HMS Hero,rn,Reserve,,1905-02-01,1907-11-01
+bt-hood,HMS Hood,rn,Active,,1893-05-01,1905-01-03
+bt-hood,HMS Hood,rn,Reserve,,1905-01-03,1911-09-01
+bt-maine,USS Maine,usn,Active,,1895-09-17,1898-02-15
+bt-texas,USS Texas,usn,Active,,1895-08-15,1911-02-11
+bt-texas,USS San Marcos,usn,Target,,1911-02-11,1911-03-22
+bt-trafalgar,HMS Nile,rn,Active,,1891-07-10,1903-02-01
+bt-trafalgar,HMS Nile,rn,Reserve,,1903-02-01,1912-07-01
+bt-trafalgar,HMS Trafalgar,rn,Active,,1890-04-01,1911-09-01
+bt-victoria,HMS Sans Pareil,rn,Active,,1891-07-08,1901-10-01
+bt-victoria,HMS Sans Pareil,rn,Reserve,,1901-10-01,1907-04-01
+bt-victoria,HMS Victoria,rn,Active,,1890-03-01,1893-06-22
+cb-alaska,USS Alaska,usn,Active,,1944-06-17,1947-02-17
+cb-alaska,USS Alaska,usn,Reserve,,1947-02-17,1960-06-01
+cb-alaska,USS Guam,usn,Active,,1944-09-17,1947-02-17
+cb-alaska,USS Guam,usn,Reserve,,1947-02-17,1960-06-01
+cds-el-plata,El Plata,,Built,Scrapped,1875-10-01,1927-11-01
+cds-el-plata,El Plata,,Built,Scrapped,1875-10-01,1927-11-01
+cds-el-plata,Los Andes,,Built,Scrapped,1875-10-01,1927-11-01
+cds-el-plata,Los Andes,,Built,Scrapped,1875-10-01,1927-11-01
+cds-herluf-trolle,Herluf Trolle,,Built,Scrapped,1901-06-07,1932-04-01
+cds-herluf-trolle,Herluf Trolle,,Built,Scrapped,1901-06-07,1932-04-01
+cds-herluf-trolle,Olfert Fischer,,Built,Scrapped,1905-05-31,1936-10-01
+cds-herluf-trolle,Olfert Fischer,,Built,Scrapped,1905-05-31,1936-10-01
+cds-herluf-trolle,Peder Skram,,Built,Sunk,1908-09-24,1943-08-29
+cds-herluf-trolle,Peder Skram,,Built,Sunk,1908-09-24,1943-08-29
+cds-iver-hvitfeldt,Iver Hvitfeldt,,Built,Scrapped,1887-06-01,1919-02-01
+cds-iver-hvitfeldt,Iver Hvitfeldt,,Built,Scrapped,1887-06-01,1919-02-01
+cds-libertad,Independencia,,Built,Scrapped,1892-11-26,1951-01-01
+cds-libertad,Independencia,,Built,Scrapped,1892-11-26,1951-01-01
+cds-libertad,Libertad,,Built,Scrapped,1892-11-26,1946-12-01
+cds-libertad,Libertad,,Built,Scrapped,1892-11-26,1946-12-01
+cds-marshal-deodoro,Marshal Deodoro,,Built,Sold,1900-01-01,1924-01-01
+cds-marshal-deodoro,Marshal Deodoro,,Built,Sold,1900-01-01,1924-01-01
+cds-marshal-deodoro,Marshal Floriano,,Built,Scrapped,1901-01-01,1936-01-01
+cds-marshal-deodoro,Marshal Floriano,,Built,Scrapped,1901-01-01,1936-01-01
+cds-monarch,Budapest,,Built,Converted,1898-05-12,1918-03-01
+cds-monarch,Budapest,,Built,Converted,1898-05-12,1918-03-01
+cds-monarch,Monarch,,Built,Converted,1898-05-11,1918-03-01
+cds-monarch,Monarch,,Built,Converted,1898-05-11,1918-03-01
+cds-monarch,Wien,,Built,Sunk,1898-05-13,1917-12-10
+cds-monarch,Wien,,Built,Sunk,1898-05-13,1917-12-10
+cds-niels-iuel,Niels Iuel,,Built,Sunk,1923-05-23,1943-08-29
+cds-niels-iuel,Niels Iuel,,Built,Sunk,1923-05-23,1943-08-29
+cds-odin,SMS Agir,km,Active,,1896-10-15,1915-08-31
+cds-odin,SMS Agir,km,Barracks,,1915-08-31,1919-06-17
+cds-odin,SMS Odin,km,Active,,1896-09-22,1915-08-31
+cds-odin,SMS Odin,km,Auxiliary,,1915-08-31,1919-12-06
+cds-siegfried,SMS Beowulf,km,Active,,1892-04-01,1915-08-31
+cds-siegfried,SMS Beowulf,km,Target,,1915-08-31,1919-06-17
+cds-siegfried,SMS Frithjof,km,Active,,1893-02-23,1915-08-31
+cds-siegfried,SMS Frithjof,km,Barracks,,1915-08-31,1919-06-17
+cds-siegfried,SMS Hagen,km,Active,,1894-10-02,1915-08-31
+cds-siegfried,SMS Hagen,km,Barracks,,1915-08-31,1919-06-17
+cds-siegfried,SMS Heimdall,km,Active,,1894-04-07,1915-08-31
+cds-siegfried,SMS Heimdall,km,Barracks,,1915-08-31,1919-06-17
+cds-siegfried,SMS Hildebrand,km,Active,,1893-10-28,1915-08-31
+cds-siegfried,SMS Hildebrand,km,Barracks,,1915-08-31,1919-06-17
+cds-siegfried,SMS Siegfried,km,Active,,1890-04-29,1915-08-31
+cds-siegfried,SMS Siegfried,km,Barracks,,1915-08-31,1919-06-17
+cds-spetsai,Idra,,Built,Converted,1892-01-01,1919-01-01
+cds-spetsai,Idra,,Built,Converted,1892-01-01,1919-01-01
+cds-spetsai,Psara,,Built,Converted,1891-01-01,1919-01-01
+cds-spetsai,Psara,,Built,Converted,1891-01-01,1919-01-01
+cds-spetsai,Spetsai,,Built,Converted,1892-01-01,1919-01-01
+cds-spetsai,Spetsai,,Built,Converted,1892-01-01,1919-01-01
+cds-vainamoinen,Ilmarinen,,Built,Sunk,1933-09-01,1941-09-13
+cds-vainamoinen,Ilmarinen,,Built,Sunk,1933-09-01,1941-09-13
+cds-vainamoinen,Vainamoinen,,Built,Sold,1932-12-01,1947-06-01
+cds-vainamoinen,Vainamoinen,,Built,Sold,1932-12-01,1947-06-01
+m-skjold,Skjold,,Built,Scrapped,1897-05-25,1929-05-01
+m-skjold,Skjold,,Built,Scrapped,1897-05-25,1929-05-01
+pred-aki,Aki,ijn,Built,Target,1911-03-11,1923-09-01
+pred-aki,Aki,ijn,Built,Target,1911-03-11,1923-09-01
+pred-asahi,Asahi,ijn,Built,Converted,1900-07-31,1923-04-01
+pred-asahi,Asahi,ijn,Built,Converted,1900-07-31,1923-04-01
+pred-brandenburg,SMS Brandenburg,km,Built,Converted,1893-11-19,1915-01-01
+pred-brandenburg,SMS Brandenburg,km,Built,Converted,1893-11-19,1915-01-01
+pred-brandenburg,SMS Kurfurst Friedrich Wilhelm,km,Built,Sold,1894-04-29,1910-09-01
+pred-brandenburg,SMS Kurfurst Friedrich Wilhelm,km,Built,Sold,1894-04-29,1910-09-01
+pred-brandenburg,SMS Weissenburg,km,Built,Sold,1894-10-14,1910-09-01
+pred-brandenburg,SMS Weissenburg,km,Built,Sold,1894-10-14,1910-09-01
+pred-brandenburg,SMS Worth,km,Built,Converted,1893-10-31,1915-12-01
+pred-brandenburg,SMS Worth,km,Built,Converted,1893-10-31,1915-12-01
+pred-braunschweig,SMS Braunschweig,km,Built,Converted,1904-10-15,1916-07-01
+pred-braunschweig,SMS Braunschweig,km,Built,Converted,1904-10-15,1916-07-01
+pred-braunschweig,SMS Elsass,km,Built,Converted,1904-11-29,1916-07-01
+pred-braunschweig,SMS Elsass,km,Built,Converted,1904-11-29,1916-07-01
+pred-braunschweig,SMS Hessen,km,Built,Converted,1905-09-19,1916-12-01
+pred-braunschweig,SMS Hessen,km,Built,Converted,1905-09-19,1916-12-01
+pred-braunschweig,SMS Lothringen,km,Built,Converted,1906-05-18,1916-12-01
+pred-braunschweig,SMS Lothringen,km,Built,Converted,1906-05-18,1916-12-01
+pred-braunschweig,SMS Preussen,km,Built,Converted,1905-07-12,1916-12-01
+pred-braunschweig,SMS Preussen,km,Built,Converted,1905-07-12,1916-12-01
+pred-canopus,HMS Albion,rn,Active,,1901-06-01,1918-10-01
+pred-canopus,HMS Albion,rn,Barracks,,1918-10-01,1919-12-11
+pred-canopus,HMS Canopus,rn,Active,,1899-12-01,1916-04-22
+pred-canopus,HMS Canopus,rn,Reserve,,1916-04-22,1918-02-01
+pred-canopus,HMS Canopus,rn,Barracks,,1918-02-01,1920-02-18
+pred-canopus,HMS Glory,rn,Active,,1900-10-01,1920-04-01
+pred-canopus,HMS Crescent,rn,Auxiliary,,1920-04-01,1922-12-19
+pred-canopus,HMS Goliath,rn,Active,,1900-03-01,1915-05-15
+pred-canopus,HMS Ocean,rn,Active,,1900-02-01,1915-03-18
+pred-canopus,HMS Vengeance,rn,Active,,1902-04-01,1917-02-01
+pred-canopus,HMS Vengeance,rn,Auxiliary,,1917-02-01,1921-12-01
+pred-centurion,HMS Barfleur,rn,Active,,1894-06-01,1905-05-10
+pred-centurion,HMS Barfleur,rn,Reserve,,1905-05-10,1910-07-12
+pred-centurion,HMS Centurion,rn,Active,,1894-02-01,1909-04-01
+pred-centurion,HMS Centurion,rn,Reserve,,1909-04-01,1910-07-20
+pred-connecticut,USS Connecticut,usn,Active,,1906-09-29,1923-03-01
+pred-connecticut,USS Connecticut,usn,Reserve,,1923-03-01,1923-11-10
+pred-connecticut,USS Louisiana,usn,Active,,1906-06-02,1920-10-20
+pred-connecticut,USS Louisiana,usn,Reserve,,1920-10-20,1923-11-10
+pred-constitucion,Constitucion,,Built,Sold,,1903-03-12
+pred-constitucion,Constitucion,,Built,Sold,,1903-03-12
+pred-constitucion,Libertad,,Built,Sold,,1903-03-12
+pred-constitucion,Libertad,,Built,Sold,,1903-03-12
+pred-deutschland,SMS Deutschland,km,Built,Converted,1906-08-03,1917-10-01
+pred-deutschland,SMS Deutschland,km,Built,Converted,1906-08-03,1917-10-01
+pred-deutschland,SMS Hannover,km,Built,Scrapped,1907-10-01,1931-09-25
+pred-deutschland,SMS Hannover,km,Built,Scrapped,1907-10-01,1931-09-25
+pred-deutschland,SMS Pommern,km,Built,Sunk,1907-08-06,1916-06-01
+pred-deutschland,SMS Pommern,km,Built,Sunk,1907-08-06,1916-06-01
+pred-deutschland,SMS Schlesien,km,Built,Sunk,1908-05-05,1945-05-04
+pred-deutschland,SMS Schlesien,km,Built,Sunk,1908-05-05,1945-05-04
+pred-deutschland,SMS Schleswig-Holstein,km,Built,Sunk,1908-07-06,1944-12-18
+pred-deutschland,SMS Schleswig-Holstein,km,Built,Sunk,1908-07-06,1944-12-18
+pred-duncan,HMS Albermarle,rn,Active,,1903-11-01,1916-09-01
+pred-duncan,HMS Albermarle,rn,Reserve,,1916-09-01,1919-04-01
+pred-duncan,HMS Albermarle,rn,Barracks,,1919-04-01,1919-11-19
+pred-duncan,HMS Cornwallis,rn,Active,,1904-02-01,1917-01-09
+pred-duncan,HMS Duncan,rn,Active,,1903-10-01,1917-02-01
+pred-duncan,HMS Duncan,rn,Barracks,,1917-02-01,1920-02-18
+pred-duncan,HMS Exmouth,rn,Active,,1903-05-01,1917-08-01
+pred-duncan,HMS Exmouth,rn,Reserve,,1917-08-01,1920-01-15
+pred-duncan,HMS Montagu,rn,Active,,1903-10-01,1906-05-30
+pred-duncan,HMS Russell,rn,Active,,1903-02-01,1916-04-27
+pred-erzherzog-karl,Erzherzog Ferdinand Max,,Built,Surrendered,1907-12-21,1920-01-01
+pred-erzherzog-karl,Erzherzog Ferdinand Max,,Built,Surrendered,1907-12-21,1920-01-01
+pred-erzherzog-karl,Erzherzog Friedrich,,Built,Surrendered,1907-01-31,1920-01-01
+pred-erzherzog-karl,Erzherzog Friedrich,,Built,Surrendered,1907-01-31,1920-01-01
+pred-erzherzog-karl,Erzherzog Karl,,Built,Surrendered,1906-06-17,1920-01-01
+pred-erzherzog-karl,Erzherzog Karl,,Built,Surrendered,1906-06-17,1920-01-01
+pred-formidable,HMS Formidable,rn,Active,,1901-09-01,1915-01-01
+pred-formidable,HMS Implacable,rn,Active,,1901-09-01,1917-07-01
+pred-formidable,HMS Implacable,rn,Reserve,,1917-07-01,1918-03-01
+pred-formidable,HMS Implacable,rn,Auxiliary,,1918-03-01,1921-11-08
+pred-formidable,HMS Irresistible,rn,Active,,1902-02-01,1915-03-18
+pred-fuji,Fuji,ijn,Built,Converted,1897-08-17,1922-09-01
+pred-fuji,Fuji,ijn,Built,Converted,1897-08-17,1922-09-01
+pred-fuji,Yashima,ijn,Active,,1897-09-09,1904-05-15
+pred-habsburg,Arpad,,Built,Surrendered,1903-06-15,1920-01-01
+pred-habsburg,Arpad,,Built,Surrendered,1903-06-15,1920-01-01
+pred-habsburg,Babenberg,,Built,Surrendered,1904-04-15,1920-01-01
+pred-habsburg,Babenberg,,Built,Surrendered,1904-04-15,1920-01-01
+pred-habsburg,Habsburg,,Built,Surrendered,1902-12-31,1920-01-01
+pred-habsburg,Habsburg,,Built,Surrendered,1902-12-31,1920-01-01
+pred-illinois,USS Alabama,usn,Active,,1900-10-16,1920-05-07
+pred-illinois,USS Alabama,usn,Reserve,,1920-05-07,1921-09-01
+pred-illinois,USS Illinois,usn,Active,,1901-09-16,1919-01-01
+pred-illinois,USS Illinois,usn,Reserve,,1919-01-01,1924-01-01
+pred-illinois,USS Illinois,usn,Armory,,1924-01-01,1941-01-08
+pred-illinois,USS Illinois,usn,Barracks,,1941-01-08,1955-12-31
+pred-illinois,USS Wisconsin,usn,Active,,1901-02-04,1920-05-15
+pred-illinois,USS Wisconsin,usn,Reserve,,1920-05-15,1921-07-01
+pred-indiana,USS Indiana,usn,Active,,1895-11-20,1903-12-24
+pred-indiana,USS Indiana,usn,Rebuild,,1903-12-24,1906-01-09
+pred-indiana,USS Indiana,usn,Active,,1906-01-09,1914-05-23
+pred-indiana,USS Indiana,usn,Reserve,,1914-05-23,1917-05-24
+pred-indiana,USS Indiana,usn,Active,,1917-05-24,1919-01-31
+pred-indiana,USS Coast Battleship No. 1,usn,Reserve,,1919-01-31,1920-11-01
+pred-indiana,USS Massachusetts,usn,Active,,1896-06-10,1906-01-08
+pred-indiana,USS Massachusetts,usn,Rebuild,,1906-01-08,1910-05-02
+pred-indiana,USS Massachusetts,usn,Active,,1910-05-02,1914-05-23
+pred-indiana,USS Massachusetts,usn,Reserve,,1914-05-23,1917-06-09
+pred-indiana,USS Massachusetts,usn,Active,,1917-06-09,1919-03-29
+pred-indiana,USS Coast Battleship No. 2,usn,Reserve,,1919-03-29,1921-01-06
+pred-indiana,USS Oregon,usn,Active,,1896-07-15,1906-04-27
+pred-indiana,USS Oregon,usn,Rebuild,,1906-04-27,1911-08-29
+pred-indiana,USS Oregon,usn,Active,,1911-08-29,1919-06-12
+pred-indiana,USS Oregon,usn,Reserve,,1919-06-12,1924-01-04
+pred-iowa,USS Iowa,usn,Active,,1897-06-16,1914-05-27
+pred-iowa,USS Iowa,usn,Reserve,,1914-05-27,1917-04-28
+pred-iowa,USS Iowa,usn,Active,,1917-04-28,1919-03-31
+pred-iowa,USS Coast Battleship No. 4,usn,Target,,1919-03-31,1923-03-23
+pred-kaiser-friedrich-iii,SMS Kaiser Barbarossa,km,Built,Converted,1901-06-10,1916-01-01
+pred-kaiser-friedrich-iii,SMS Kaiser Barbarossa,km,Built,Converted,1901-06-10,1916-01-01
+pred-kaiser-friedrich-iii,SMS Kaiser Friedrich III,km,Built,Converted,1898-10-07,1916-01-01
+pred-kaiser-friedrich-iii,SMS Kaiser Friedrich III,km,Built,Converted,1898-10-07,1916-01-01
+pred-kaiser-friedrich-iii,SMS Kaiser Karl der Grosse,km,Built,Converted,1902-02-04,1916-01-01
+pred-kaiser-friedrich-iii,SMS Kaiser Karl der Grosse,km,Built,Converted,1902-02-04,1916-01-01
+pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm der Grosse,km,Built,Converted,1901-05-05,1916-01-01
+pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm der Grosse,km,Built,Converted,1901-05-05,1916-01-01
+pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm II,km,Built,Converted,1900-02-13,1915-01-01
+pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm II,km,Built,Converted,1900-02-13,1915-01-01
+pred-katori,Kashima,ijn,Built,Scrapped,1906-05-23,1923-09-01
+pred-katori,Kashima,ijn,Built,Scrapped,1906-05-23,1923-09-01
+pred-katori,Katori,ijn,Built,Scrapped,1906-05-20,1923-09-01
+pred-katori,Katori,ijn,Built,Scrapped,1906-05-20,1923-09-01
+pred-kearsarge,USS Kearsarge,usn,Active,,1900-02-20,1920-05-18
+pred-kearsarge,USS Kearsarge,usn,Auxiliary,,1920-05-18,1941-11-06
+pred-kearsarge,USS Crane Ship No. 1,usn,Auxiliary,,1941-11-06,1955-08-09
+pred-kearsarge,USS Kentucky,usn,Active,,1900-05-15,1920-03-29
+pred-kearsarge,USS Kentucky,usn,Reserve,,1920-03-29,1922-05-27
+pred-king-edward-vii,HMS Africa,rn,Active,,1906-11-01,1918-11-01
+pred-king-edward-vii,HMS Africa,rn,Reserve,,1918-11-01,1920-06-30
+pred-king-edward-vii,HMS Britannia,rn,Active,,1906-09-01,1918-11-09
+pred-king-edward-vii,HMS Commonwealth,rn,Active,,1905-03-01,1918-08-21
+pred-king-edward-vii,HMS Commonwealth,rn,Training,,1918-08-21,1921-02-01
+pred-king-edward-vii,HMS Dominion,rn,Active,,1905-07-01,1918-03-01
+pred-king-edward-vii,HMS Dominion,rn,Barracks,,1918-03-01,1912-05-09
+pred-king-edward-vii,HMS Hibernia,rn,Active,,1907-01-01,1917-10-01
+pred-king-edward-vii,HMS Hibernia,rn,Barracks,,1917-10-01,1921-11-08
+pred-king-edward-vii,HMS Hindustan,rn,Active,,1905-07-01,1918-05-15
+pred-king-edward-vii,HMS Hindustan,rn,Barracks,,1918-05-15,1921-05-09
+pred-king-edward-vii,HMS King Edward VII,rn,Active,,1905-02-01,1916-01-06
+pred-king-edward-vii,HMS New Zealand,rn,Active,,1905-07-01,1917-09-20
+pred-king-edward-vii,HMS New Zealand,rn,Training,,1917-09-20,1919-01-01
+pred-king-edward-vii,HMS New Zealand,rn,Barracks,,1919-01-01,1921-11-08
+pred-london,HMS Bulwark,rn,Active,,1902-03-01,1914-11-26
+pred-london,HMS London,rn,Active,,1902-06-01,1918-02-01
+pred-london,HMS Prince of Wales,rn,Active,,1904-03-01,1917-03-01
+pred-london,HMS Prince of Wales,rn,Barracks,,1917-03-01,1920-04-12
+pred-london,HMS Queen,rn,Active,,1904-03-01,1916-12-01
+pred-london,HMS Queen,rn,Auxiliary,,1916-12-01,1920-09-04
+pred-london,HMS Venerable,rn,Active,,1902-11-01,1916-12-19
+pred-london,HMS Venerable,rn,Reserve,,1916-12-19,1918-02-01
+pred-london,HMS Venerable,rn,Auxiliary,,1918-02-01,1920-06-04
+pred-lord-nelson,HMS Agamemnon,rn,Active,,1908-06-01,1919-03-20
+pred-lord-nelson,HMS Agamemnon,rn,Target,,1919-03-20,1926-12-01
+pred-lord-nelson,HMS Lord Nelson,rn,Active,,1908-10-01,1919-05-01
+pred-lord-nelson,HMS Lord Nelson,rn,Reserve,,1919-05-01,1920-06-01
+pred-maine,USS Maine,usn,Active,,1902-12-29,1920-05-15
+pred-maine,USS Maine,usn,Reserve,,1920-05-15,1921-07-01
+pred-maine,USS Missouri,usn,Active,,1903-12-01,1919-09-08
+pred-maine,USS Missouri,usn,Reserve,,1919-09-08,1921-07-01
+pred-maine,USS Ohio,usn,Active,,1904-10-04,1919-07-01
+pred-maine,USS Ohio,usn,Reserve,,1919-07-01,1922-05-01
+pred-majestic,HMS Caesar,rn,Active,,1898-01-01,1912-03-01
+pred-majestic,HMS Caesar,rn,Reserve,,1912-03-01,1914-08-01
+pred-majestic,HMS Caesar,rn,Active,,1914-08-01,1918-09-01
+pred-majestic,HMS Hannibal,rn,Active,,1898-04-01,1905-08-03
+pred-majestic,HMS Hannibal,rn,Reserve,,1905-08-03,1907-01-01
+pred-majestic,HMS Hannibal,rn,Active,,1907-01-01,1907-05-01
+pred-majestic,HMS Hannibal,rn,Reserve,,1907-05-01,1914-07-01
+pred-majestic,HMS Hannibal,rn,Reserve,,1914-07-01,1915-02-20
+pred-majestic,HMS Illustrious,rn,Active,,1898-04-01,1915-11-26
+pred-majestic,HMS Jupiter,rn,Active,,1897-05-01,1905-08-15
+pred-majestic,HMS Jupiter,rn,Reserve,,1905-08-15,1905-09-20
+pred-majestic,HMS Jupiter,rn,Active,,1905-09-20,1908-02-03
+pred-majestic,HMS Jupiter,rn,Reserve,,1908-02-03,1913-01-01
+pred-majestic,HMS Jupiter,rn,Active,,1913-01-01,1916-11-22
+pred-majestic,HMS Magnificent,rn,Active,,1895-12-01,1906-11-16
+pred-majestic,HMS Magnificent,rn,Reserve,,1906-11-16,1907-05-01
+pred-majestic,HMS Magnificent,rn,Active,,1907-05-01,1909-02-01
+pred-majestic,HMS Magnificent,rn,Reserve,,1909-02-01,1913-07-01
+pred-majestic,HMS Magnificent,rn,Active,,1913-07-01,1915-02-16
+pred-majestic,HMS Majestic,rn,Active,,1895-12-01,1906-10-01
+pred-majestic,HMS Majestic,rn,Reserve,,1906-10-01,1907-02-26
+pred-majestic,HMS Majestic,rn,Active,,1907-02-26,1915-05-27
+pred-majestic,HMS Mars,rn,Active,,1897-06-01,1906-03-31
+pred-majestic,HMS Mars,rn,Reserve,,1906-03-31,1906-10-31
+pred-majestic,HMS Mars,rn,Active,,1906-10-31,1915-02-01
+pred-majestic,HMS Prince George,rn,Active,,1896-11-01,1905-01-03
+pred-majestic,HMS Prince George,rn,Reserve,,1905-01-03,1905-02-14
+pred-majestic,HMS Prince George,rn,Active,,1905-02-14,1910-12-01
+pred-majestic,HMS Prince George,rn,Reserve,,1910-12-01,1914-08-08
+pred-majestic,HMS Prince George,rn,Active,,1914-08-08,1916-02-01
+pred-majestic,HMS Victorious,rn,Active,,1896-11-01,1908-06-01
+pred-majestic,HMS Victorious,rn,Reserve,,1908-06-01,1914-07-01
+pred-majestic,HMS Victorious,rn,Active,,1914-07-01,1915-02-01
+pred-mikasa,Mikasa,ijn,Built,Museum,1902-03-01,1923-09-20
+pred-mikasa,Mikasa,ijn,Built,Museum,1902-03-01,1923-09-20
+pred-mississippi,USS Idaho,usn,Active,,1908-04-01,1914-07-01
+pred-mississippi,USS Mississippi,usn,Active,,1908-02-01,1914-07-01
+pred-radetzky,Erzherzog Franz Ferdinand,,Built,Surrendered,1910-06-05,1920-01-01
+pred-radetzky,Erzherzog Franz Ferdinand,,Built,Surrendered,1910-06-05,1920-01-01
+pred-radetzky,Radetzky,,Built,Surrendered,1911-01-15,1920-01-01
+pred-radetzky,Radetzky,,Built,Surrendered,1911-01-15,1920-01-01
+pred-radetzky,Zrinyi,,Built,Surrendered,1911-09-15,1920-01-01
+pred-radetzky,Zrinyi,,Built,Surrendered,1911-09-15,1920-01-01
+pred-renown,HMS Renown,rn,Active,,1897-01-01,1904-05-14
+pred-renown,HMS Renown,rn,Reserve,,1904-05-14,1905-02-21
+pred-renown,HMS Renown,rn,Auxiliary,,1905-02-21,1909-10-01
+pred-royal-sovereign,HMS Empress of India,rn,Active,,1893-08-01,1905-02-22
+pred-royal-sovereign,HMS Empress of India,rn,Reserve,,1905-02-22,1912-03-02
+pred-royal-sovereign,HMS Ramillies,rn,Active,,1893-10-01,1905-01-30
+pred-royal-sovereign,HMS Ramillies,rn,Reserve,,1905-01-30,1913-10-01
+pred-royal-sovereign,HMS Repulse,rn,Active,,1894-04-01,1905-01-03
+pred-royal-sovereign,HMS Repulse,rn,Reserve,,1905-01-03,1911-07-01
+pred-royal-sovereign,HMS Resolution,rn,Active,,1893-11-01,1907-02-12
+pred-royal-sovereign,HMS Resolution,rn,Reserve,,1907-02-12,1914-04-01
+pred-royal-sovereign,HMS Revenge,rn,Active,,1894-03-01,1905-07-01
+pred-royal-sovereign,HMS Revenge,rn,Reserve,,1905-07-01,1914-08-01
+pred-royal-sovereign,HMS Revenge,rn,Active,,1914-08-01,1915-08-02
+pred-royal-sovereign,HMS Redoubtable,rn,Active,,1915-08-02,1915-12-01
+pred-royal-sovereign,HMS Royal Oak,rn,Active,,1894-06-01,1905-03-07
+pred-royal-sovereign,HMS Royal Oak,rn,Reserve,,1905-03-07,1914-01-14
+pred-royal-sovereign,HMS Royal Sovereign,rn,Active,,1892-05-01,1907-02-09
+pred-royal-sovereign,HMS Royal Sovereign,rn,Reserve,,1907-02-09,1913-10-07
+pred-satsuma,Satsuma,ijn,Built,Scrapped,1910-03-25,1923-09-01
+pred-satsuma,Satsuma,ijn,Built,Scrapped,1910-03-25,1923-09-01
+pred-shikishima,Hatsuse,ijn,Built,Sunk,1901-01-18,1904-05-15
+pred-shikishima,Hatsuse,ijn,Built,Sunk,1901-01-18,1904-05-15
+pred-shikishima,Shikishima,ijn,Built,Converted,1900-01-26,1923-04-01
+pred-shikishima,Shikishima,ijn,Built,Converted,1900-01-26,1923-04-01
+pred-vermont,USS Kansas,usn,Active,,1907-04-18,1921-12-16
+pred-vermont,USS Kansas,usn,Reserve,,1921-12-16,1923-11-10
+pred-vermont,USS Minnesota,usn,Active,,1907-03-09,1921-12-01
+pred-vermont,USS Minnesota,usn,Reserve,,1921-12-01,1923-11-10
+pred-vermont,USS New Hampshire,usn,Active,,1908-03-19,1921-05-21
+pred-vermont,USS New Hampshire,usn,Reserve,,1921-05-21,1923-11-10
+pred-vermont,USS Vermont,usn,Active,,1907-03-04,1920-06-30
+pred-vermont,USS Vermont,usn,Reserve,,1920-06-30,1923-11-10
+pred-virginia,USS Georgia,usn,Active,,1906-09-24,1920-07-15
+pred-virginia,USS Georgia,usn,Reserve,,1920-07-15,1923-11-10
+pred-virginia,USS Nebraska,usn,Active,,1907-07-01,1920-07-02
+pred-virginia,USS Nebraska,usn,Reserve,,1920-07-02,1922-07-12
+pred-virginia,USS New Jersey,usn,Active,,1906-05-12,1920-08-06
+pred-virginia,USS New Jersey,usn,Reserve,,1920-08-06,1922-07-12
+pred-virginia,USS Rhode Island,usn,Active,,1906-02-19,1920-06-30
+pred-virginia,USS Rhode Island,usn,Reserve,,1920-06-30,1923-11-01
+pred-virginia,USS Virginia,usn,Active,,1906-05-07,1920-08-13
+pred-virginia,USS Virginia,usn,Reserve,,1920-08-13,1923-09-05
+pred-wittelsbach,SMS Mecklenburg,km,Built,Converted,1903-06-25,1916-01-01
+pred-wittelsbach,SMS Mecklenburg,km,Built,Converted,1903-06-25,1916-01-01
+pred-wittelsbach,SMS Schwaben,km,Built,Converted,1904-04-13,1916-01-01
+pred-wittelsbach,SMS Schwaben,km,Built,Converted,1904-04-13,1916-01-01
+pred-wittelsbach,SMS Wettin,km,Built,Converted,1902-10-01,1916-01-01
+pred-wittelsbach,SMS Wettin,km,Built,Converted,1902-10-01,1916-01-01
+pred-wittelsbach,SMS Wittelsbach,km,Built,Converted,1902-10-15,1916-01-01
+pred-wittelsbach,SMS Wittelsbach,km,Built,Converted,1902-10-15,1916-01-01
+pred-wittelsbach,SMS Zahringen,km,Built,Converted,1902-10-25,1916-01-01
+pred-wittelsbach,SMS Zahringen,km,Built,Converted,1902-10-25,1916-01-01
