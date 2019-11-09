@@ -121,10 +121,8 @@ bb-konig,SMS Kronprinz,km,Active,,1914-11-08,1918-11-21
 bb-konig,SMS Kronprinz,km,Interned,,1918-11-21,1919-06-21
 bb-konig,SMS Markgraf,km,Active,,1914-10-01,1918-11-21
 bb-konig,SMS Markgraf,km,Interned,,1918-11-21,1919-06-21
-bb-minas-geraes,Minas Gerais,,Built,Scrapped,1910-01-05,1953-09-01
-bb-minas-geraes,Minas Gerais,,Built,Scrapped,1910-01-05,1953-09-01
-bb-minas-geraes,Sao Paolo,,Built,Scrapped,1910-07-12,1947-08-01
-bb-minas-geraes,Sao Paolo,,Built,Scrapped,1910-07-12,1947-08-01
+bb-minas-geraes,Minas Gerais,bn,Active,,1910-04-18,1952-05-01
+bb-minas-geraes,Sao Paolo,bn,Active,,1910-07-12,1947-08-01
 bb-nagato,Mutsu,ijn,Active,,1921-11-22,1943-06-08
 bb-nagato,Nagato,ijn,Active,,1920-11-25,1945-09-15
 bb-nassau,SMS Nassau,km,Active,,1909-10-01,1918-12-16
@@ -192,12 +190,9 @@ bb-revenge,HMS Revenge,rn,Training,,1944-12-17,1948-09-01
 bb-revenge,HMS Royal Oak,rn,Active,,1916-05-01,1939-10-14
 bb-revenge,HMS Royal Sovereign,rn,Active,,1916-05-01,1944-05-30
 bb-revenge,HMS Royal Sovereign,rn,Reserve,,1949-02-04,1949-05-18
-bb-rio-de-janeiro,Rio de Janeiro,,Built,Sold,,1913-12-01
-bb-rio-de-janeiro,Rio de Janeiro,,Built,Sold,,1913-12-01
-bb-rivadavia,Moreno,,Built,Converted,1915-03-01,1949-01-01
-bb-rivadavia,Moreno,,Built,Converted,1915-03-01,1949-01-01
-bb-rivadavia,Rivadavia,,Built,Scrapped,1914-12-01,1952-01-01
-bb-rivadavia,Rivadavia,,Built,Scrapped,1914-12-01,1952-01-01
+bb-rivadavia,ARA Moreno,an,Active,,1915-03-01,1949-01-01
+bb-rivadavia,ARA Moreno,an,Barracks,,1949-01-01,1956-10-01
+bb-rivadavia,ARA Rivadavia,an,Active,,1914-08-27,1951-01-01
 bb-scharnhorst,Gneisenau,km,Active,,1938-05-21,1945-03-23
 bb-scharnhorst,Scharnhorst,km,Active,,1939-01-07,1943-12-26
 bb-south-carolina,USS Michigan,usn,Active,,1910-01-04,1923-11-01
@@ -215,14 +210,10 @@ bb-st-vincent,HMS Collingwood,rn,Training,,1919-01-01,1922-03-31
 bb-st-vincent,HMS St. Vincent,rn,Active,,1909-05-01,1919-03-01
 bb-st-vincent,HMS St. Vincent,rn,Reserve,,1919-03-01,1922-03-01
 bb-st-vincent,HMS Vanguard,rn,Active,,1910-02-01,1917-07-09
-bb-tegetthoff,Prinz Eugen,,Built,Surrendered,1914-07-17,1919-01-01
-bb-tegetthoff,Prinz Eugen,,Built,Surrendered,1914-07-17,1919-01-01
-bb-tegetthoff,Szent Istvan,,Built,Sunk,1915-12-13,1918-06-10
-bb-tegetthoff,Szent Istvan,,Built,Sunk,1915-12-13,1918-06-10
-bb-tegetthoff,Tegetthoff,,Built,Surrendered,1913-07-21,1919-01-01
-bb-tegetthoff,Tegetthoff,,Built,Surrendered,1913-07-21,1919-01-01
-bb-tegetthoff,Viribus Unitis,,Built,Sunk,1912-12-05,1918-11-01
-bb-tegetthoff,Viribus Unitis,,Built,Sunk,1912-12-05,1918-11-01
+bb-tegetthoff,SMS Prinz Eugen,ahn,Active,,1914-07-17,1918-11-01
+bb-tegetthoff,SMS Szent Istvan,ahn,Active,,1915-12-13,1918-06-10
+bb-tegetthoff,SMS Tegetthoff,ahn,Active,,1913-07-21,1918-11-01
+bb-tegetthoff,SMS Viribus Unitis,ahn,Active,,1912-12-05,1918-11-01
 bb-tennessee,USS California,usn,Active,,1921-08-10,1941-12-07
 bb-tennessee,USS California,usn,Rebuild,,1941-12-07,1944-01-31
 bb-tennessee,USS California,usn,Active,,1944-01-31,1947-02-14
@@ -243,10 +234,9 @@ bbar-benbow,HMS Benbow,rn,Active,,1894-03-01,1904-04-01
 bbar-benbow,HMS Benbow,rn,Reserve,,1904-04-01,1909-07-13
 bbar-collingwood,HMS Collingwood,rn,Active,,1887-07-01,1903-06-01
 bbar-collingwood,HMS Collingwood,rn,Reserve,,1903-06-01,1909-05-01
-bbar-kronprinz-erzherzog-rudolf,Kronprinz Erzherzog Rudolf,,Built,Transfered,1889-09-01,1918-11-01
-bbar-kronprinz-erzherzog-rudolf,Kronprinz Erzherzog Rudolf,,Built,Transfered,1889-09-01,1918-11-01
-bbar-kronprinzessin-erzherzogin-stefanie,Kronprinzessin Erzherzogin Stefanie,,Built,Converted,1889-07-01,1910-01-01
-bbar-kronprinzessin-erzherzogin-stefanie,Kronprinzessin Erzherzogin Stefanie,,Built,Converted,1889-07-01,1910-01-01
+bbar-kronprinz-erzherzog-rudolf,SMS Kronprinz Erzherzog Rudolf,ahn,Active,,1889-09-01,1921-03-01
+bbar-kronprinzessin-erzherzogin-stephanie,SMS Kronprinzessin Erzherzogin Stephanie,ahn,Active,,1889-07-01,1905-01-01
+bbar-kronprinzessin-erzherzogin-stephanie,SMS Kronprinzessin Erzherzogin Stephanie,ahn,Reserve,,1905-01-01,1910-01-01
 bbar-rodney,HMS Anson,rn,Active,,1889-05-01,1904-05-01
 bbar-rodney,HMS Anson,rn,Reserve,,1904-05-01,1909-07-01
 bbar-rodney,HMS Camperdown,rn,Active,,1889-08-01,1899-09-01
@@ -302,14 +292,12 @@ bmt-agamemnon,HMS Agamemnon,rn,Active,,1883-03-29,1892-01-01
 bmt-agamemnon,HMS Agamemnon,rn,Reserve,,1892-01-01,1903-01-01
 bmt-agamemnon,HMS Ajax,rn,Active,,1883-03-30,1891-01-01
 bmt-agamemnon,HMS Ajax,rn,Reserve,,1891-01-01,1904-03-01
-bmt-aquidaba,Aquidaba,,Built,Sunk,1887-01-01,1906-01-22
-bmt-aquidaba,Aquidaba,,Built,Sunk,1887-01-01,1906-01-22
+bmt-aquidaba,Aquidaba,bn,Active,,1887-01-01,1906-01-22
 bmt-inflexible,HMS Inflexible,rn,Active,,1881-10-18,1897-01-01
 bmt-inflexible,HMS Inflexible,rn,Reserve,,1897-01-01,1903-09-01
-bmt-riachuelo,Riachuelo,,Built,Scrapped,1883-11-19,1910-01-01
-bmt-riachuelo,Riachuelo,,Built,Scrapped,1883-11-19,1910-01-01
-bt-capitan-prat,Capitan Prat,,Built,Scrapped,1893-05-01,1936-01-01
-bt-capitan-prat,Capitan Prat,,Built,Scrapped,1893-05-01,1936-01-01
+bmt-riachuelo,Riachuelo,bn,Active,,1883-11-19,1910-01-01
+bt-capitan-prat,Capitan Prat,cn,Active,,1893-05-01,1928-01-01
+bt-capitan-prat,Capitan Prat,cn,Auxiliary,,1928-01-01,1935-01-01
 bt-colossus,HMS Colossus,rn,Active,,1885-10-31,1901-11-01
 bt-colossus,HMS Colossus,rn,Reserve,,1901-11-01,1904-03-01
 bt-colossus,HMS Edinburgh,rn,Active,,1887-07-08,1897-03-01
@@ -389,28 +377,32 @@ cds-vainamoinen,Vainamoinen,,Built,Sold,1932-12-01,1947-06-01
 cds-vainamoinen,Vainamoinen,,Built,Sold,1932-12-01,1947-06-01
 m-skjold,Skjold,,Built,Scrapped,1897-05-25,1929-05-01
 m-skjold,Skjold,,Built,Scrapped,1897-05-25,1929-05-01
-pred-aki,Aki,ijn,Built,Target,1911-03-11,1923-09-01
-pred-aki,Aki,ijn,Built,Target,1911-03-11,1923-09-01
-pred-asahi,Asahi,ijn,Built,Converted,1900-07-31,1923-04-01
-pred-asahi,Asahi,ijn,Built,Converted,1900-07-31,1923-04-01
-pred-brandenburg,SMS Brandenburg,km,Built,Converted,1893-11-19,1915-01-01
-pred-brandenburg,SMS Brandenburg,km,Built,Converted,1893-11-19,1915-01-01
-pred-brandenburg,SMS Kurfurst Friedrich Wilhelm,km,Built,Sold,1894-04-29,1910-09-01
-pred-brandenburg,SMS Kurfurst Friedrich Wilhelm,km,Built,Sold,1894-04-29,1910-09-01
-pred-brandenburg,SMS Weissenburg,km,Built,Sold,1894-10-14,1910-09-01
-pred-brandenburg,SMS Weissenburg,km,Built,Sold,1894-10-14,1910-09-01
-pred-brandenburg,SMS Worth,km,Built,Converted,1893-10-31,1915-12-01
-pred-brandenburg,SMS Worth,km,Built,Converted,1893-10-31,1915-12-01
-pred-braunschweig,SMS Braunschweig,km,Built,Converted,1904-10-15,1916-07-01
-pred-braunschweig,SMS Braunschweig,km,Built,Converted,1904-10-15,1916-07-01
-pred-braunschweig,SMS Elsass,km,Built,Converted,1904-11-29,1916-07-01
-pred-braunschweig,SMS Elsass,km,Built,Converted,1904-11-29,1916-07-01
-pred-braunschweig,SMS Hessen,km,Built,Converted,1905-09-19,1916-12-01
-pred-braunschweig,SMS Hessen,km,Built,Converted,1905-09-19,1916-12-01
-pred-braunschweig,SMS Lothringen,km,Built,Converted,1906-05-18,1916-12-01
-pred-braunschweig,SMS Lothringen,km,Built,Converted,1906-05-18,1916-12-01
-pred-braunschweig,SMS Preussen,km,Built,Converted,1905-07-12,1916-12-01
-pred-braunschweig,SMS Preussen,km,Built,Converted,1905-07-12,1916-12-01
+pred-aki,Aki,ijn,Active,,1911-03-11,1922-01-01
+pred-asahi,Asahi,ijn,Active,,1900-07-31,1922-01-01
+pred-brandenburg,SMS Brandenburg,km,Active,,1893-11-19,1915-02-01
+pred-brandenburg,SMS Kurfurst Friedrich Wilhelm,km,Active,,1894-04-29,1907-10-01
+pred-brandenburg,SMS Kurfurst Friedrich Wilhelm,km,Reserve,,1907-10-01,1910-09-01
+pred-brandenburg,SMS Weissenburg,km,Active,,1894-10-14,1907-09-28
+pred-brandenburg,SMS Weissenburg,km,Reserve,,1907-09-28,1910-09-01
+pred-brandenburg,SMS Worth,km,Active,,1893-10-31,1915-02-01
+pred-braunschweig,SMS Braunschweig,km,Active,,1904-10-15,1916-08-24
+pred-braunschweig,SMS Braunschweig,km,Training,,1916-08-24,1917-08-20
+pred-braunschweig,SMS Braunschweig,km,Barracks,,1917-08-20,1921-12-01
+pred-braunschweig,SMS Braunschweig,km,Active,,1921-12-01,1926-01-31
+pred-braunschweig,SMS Braunschweig,km,Reserve,,1926-01-31,1931-03-01
+pred-braunschweig,SMS Elsass,km,Active,,1904-11-29,1916-07-25
+pred-braunschweig,SMS Elsass,km,Training,,1916-07-25,1924-02-15
+pred-braunschweig,SMS Elsass,km,Active,,1924-02-15,1930-02-25
+pred-braunschweig,SMS Hessen,km,Active,,1905-09-19,1916-12-12
+pred-braunschweig,SMS Hessen,km,Reserve,,1916-12-12,1925-01-05
+pred-braunschweig,SMS Hessen,km,Active,,1925-01-05,1934-11-12
+pred-braunschweig,SMS Lothringen,km,Active,,1906-05-18,1917-09-15
+pred-braunschweig,SMS Lothringen,km,Training,,1917-09-15,1919-01-01
+pred-braunschweig,SMS Lothringen,km,Auxiliary,,1919-01-01,1920-03-02
+pred-braunschweig,SMS Lothringen,km,Reserve,,1920-03-02,1931-03-31
+pred-braunschweig,SMS Preussen,km,Active,,1905-07-12,1916-05-05
+pred-braunschweig,SMS Preussen,km,Auxiliary,,1916-05-05,1919-01-01
+pred-braunschweig,SMS Preussen,km,Reserve,,1919-01-01,1929-04-05
 pred-canopus,HMS Albion,rn,Active,,1901-06-01,1918-10-01
 pred-canopus,HMS Albion,rn,Barracks,,1918-10-01,1919-12-11
 pred-canopus,HMS Canopus,rn,Active,,1899-12-01,1916-04-22
@@ -430,20 +422,12 @@ pred-connecticut,USS Connecticut,usn,Active,,1906-09-29,1923-03-01
 pred-connecticut,USS Connecticut,usn,Reserve,,1923-03-01,1923-11-10
 pred-connecticut,USS Louisiana,usn,Active,,1906-06-02,1920-10-20
 pred-connecticut,USS Louisiana,usn,Reserve,,1920-10-20,1923-11-10
-pred-constitucion,Constitucion,,Built,Sold,,1903-03-12
-pred-constitucion,Constitucion,,Built,Sold,,1903-03-12
-pred-constitucion,Libertad,,Built,Sold,,1903-03-12
-pred-constitucion,Libertad,,Built,Sold,,1903-03-12
-pred-deutschland,SMS Deutschland,km,Built,Converted,1906-08-03,1917-10-01
-pred-deutschland,SMS Deutschland,km,Built,Converted,1906-08-03,1917-10-01
-pred-deutschland,SMS Hannover,km,Built,Scrapped,1907-10-01,1931-09-25
-pred-deutschland,SMS Hannover,km,Built,Scrapped,1907-10-01,1931-09-25
-pred-deutschland,SMS Pommern,km,Built,Sunk,1907-08-06,1916-06-01
-pred-deutschland,SMS Pommern,km,Built,Sunk,1907-08-06,1916-06-01
-pred-deutschland,SMS Schlesien,km,Built,Sunk,1908-05-05,1945-05-04
-pred-deutschland,SMS Schlesien,km,Built,Sunk,1908-05-05,1945-05-04
-pred-deutschland,SMS Schleswig-Holstein,km,Built,Sunk,1908-07-06,1944-12-18
-pred-deutschland,SMS Schleswig-Holstein,km,Built,Sunk,1908-07-06,1944-12-18
+pred-deutschland,SMS Deutschland,km,Active,,1906-08-03,1917-09-10
+pred-deutschland,SMS Deutschland,km,Barracks,,1917-09-10,1920-01-10
+pred-deutschland,SMS Hannover,km,Active,,1907-10-01,1931-09-25
+pred-deutschland,SMS Pommern,km,Active,,1907-08-06,1916-06-01
+pred-deutschland,SMS Schlesien,km,Active,,1908-05-05,1945-05-03
+pred-deutschland,SMS Schleswig-Holstein,km,Active,,1908-07-06,1944-12-18
 pred-duncan,HMS Albermarle,rn,Active,,1903-11-01,1916-09-01
 pred-duncan,HMS Albermarle,rn,Reserve,,1916-09-01,1919-04-01
 pred-duncan,HMS Albermarle,rn,Barracks,,1919-04-01,1919-11-19
@@ -454,26 +438,23 @@ pred-duncan,HMS Exmouth,rn,Active,,1903-05-01,1917-08-01
 pred-duncan,HMS Exmouth,rn,Reserve,,1917-08-01,1920-01-15
 pred-duncan,HMS Montagu,rn,Active,,1903-10-01,1906-05-30
 pred-duncan,HMS Russell,rn,Active,,1903-02-01,1916-04-27
-pred-erzherzog-karl,Erzherzog Ferdinand Max,,Built,Surrendered,1907-12-21,1920-01-01
-pred-erzherzog-karl,Erzherzog Ferdinand Max,,Built,Surrendered,1907-12-21,1920-01-01
-pred-erzherzog-karl,Erzherzog Friedrich,,Built,Surrendered,1907-01-31,1920-01-01
-pred-erzherzog-karl,Erzherzog Friedrich,,Built,Surrendered,1907-01-31,1920-01-01
-pred-erzherzog-karl,Erzherzog Karl,,Built,Surrendered,1906-06-17,1920-01-01
-pred-erzherzog-karl,Erzherzog Karl,,Built,Surrendered,1906-06-17,1920-01-01
+pred-erzherzog-karl,SMS Erzherzog Ferdinand Max,ahn,Active,,1907-12-21,1919-11-10
+pred-erzherzog-karl,SMS Erzherzog Friedrich,ahn,Active,,1907-01-31,1919-11-10
+pred-erzherzog-karl,SMS Erzherzog Karl,ahn,Active,,1906-06-17,1919-11-10
 pred-formidable,HMS Formidable,rn,Active,,1901-09-01,1915-01-01
 pred-formidable,HMS Implacable,rn,Active,,1901-09-01,1917-07-01
 pred-formidable,HMS Implacable,rn,Reserve,,1917-07-01,1918-03-01
 pred-formidable,HMS Implacable,rn,Auxiliary,,1918-03-01,1921-11-08
 pred-formidable,HMS Irresistible,rn,Active,,1902-02-01,1915-03-18
-pred-fuji,Fuji,ijn,Built,Converted,1897-08-17,1922-09-01
-pred-fuji,Fuji,ijn,Built,Converted,1897-08-17,1922-09-01
+pred-fuji,Fuji,ijn,Active,,1897-08-17,1922-09-01
+pred-fuji,Fuji,ijn,Barracks,,1922-09-01,1945-07-18
 pred-fuji,Yashima,ijn,Active,,1897-09-09,1904-05-15
-pred-habsburg,Arpad,,Built,Surrendered,1903-06-15,1920-01-01
-pred-habsburg,Arpad,,Built,Surrendered,1903-06-15,1920-01-01
-pred-habsburg,Babenberg,,Built,Surrendered,1904-04-15,1920-01-01
-pred-habsburg,Babenberg,,Built,Surrendered,1904-04-15,1920-01-01
-pred-habsburg,Habsburg,,Built,Surrendered,1902-12-31,1920-01-01
-pred-habsburg,Habsburg,,Built,Surrendered,1902-12-31,1920-01-01
+pred-habsburg,SMS Arpad,ahn,Active,,1903-06-15,1918-01-01
+pred-habsburg,SMS Arpad,ahn,Reserve,,1918-01-01,1920-01-01
+pred-habsburg,SMS Babenberg,ahn,Active,,1904-04-15,1918-01-01
+pred-habsburg,SMS Babenberg,ahn,Reserve,,1918-01-01,1920-01-01
+pred-habsburg,SMS Habsburg,ahn,Active,,1902-12-31,1918-01-01
+pred-habsburg,SMS Habsburg,ahn,Training,,1918-01-01,1920-01-01
 pred-illinois,USS Alabama,usn,Active,,1900-10-16,1920-05-07
 pred-illinois,USS Alabama,usn,Reserve,,1920-05-07,1921-09-01
 pred-illinois,USS Illinois,usn,Active,,1901-09-16,1919-01-01
@@ -502,20 +483,13 @@ pred-iowa,USS Iowa,usn,Active,,1897-06-16,1914-05-27
 pred-iowa,USS Iowa,usn,Reserve,,1914-05-27,1917-04-28
 pred-iowa,USS Iowa,usn,Active,,1917-04-28,1919-03-31
 pred-iowa,USS Coast Battleship No. 4,usn,Target,,1919-03-31,1923-03-23
-pred-kaiser-friedrich-iii,SMS Kaiser Barbarossa,km,Built,Converted,1901-06-10,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Barbarossa,km,Built,Converted,1901-06-10,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Friedrich III,km,Built,Converted,1898-10-07,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Friedrich III,km,Built,Converted,1898-10-07,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Karl der Grosse,km,Built,Converted,1902-02-04,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Karl der Grosse,km,Built,Converted,1902-02-04,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm der Grosse,km,Built,Converted,1901-05-05,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm der Grosse,km,Built,Converted,1901-05-05,1916-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm II,km,Built,Converted,1900-02-13,1915-01-01
-pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm II,km,Built,Converted,1900-02-13,1915-01-01
-pred-katori,Kashima,ijn,Built,Scrapped,1906-05-23,1923-09-01
-pred-katori,Kashima,ijn,Built,Scrapped,1906-05-23,1923-09-01
-pred-katori,Katori,ijn,Built,Scrapped,1906-05-20,1923-09-01
-pred-katori,Katori,ijn,Built,Scrapped,1906-05-20,1923-09-01
+pred-kaiser-friedrich-iii,SMS Kaiser Barbarossa,km,Active,,1901-06-10,1915-02-01
+pred-kaiser-friedrich-iii,SMS Kaiser Friedrich III,km,Active,,1898-10-07,1915-11-20
+pred-kaiser-friedrich-iii,SMS Kaiser Karl der Grosse,km,Active,,1902-02-04,1915-02-01
+pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm der Grosse,km,Active,,1901-05-05,1915-04-30
+pred-kaiser-friedrich-iii,SMS Kaiser Wilhelm II,km,Active,,1900-02-13,1915-02-01
+pred-katori,Kashima,ijn,Active,,1906-05-23,1922-04-01
+pred-katori,Katori,ijn,Active,,1906-05-20,1922-04-01
 pred-kearsarge,USS Kearsarge,usn,Active,,1900-02-20,1920-05-18
 pred-kearsarge,USS Kearsarge,usn,Auxiliary,,1920-05-18,1941-11-06
 pred-kearsarge,USS Crane Ship No. 1,usn,Auxiliary,,1941-11-06,1955-08-09
@@ -588,16 +562,12 @@ pred-majestic,HMS Prince George,rn,Active,,1914-08-08,1916-02-01
 pred-majestic,HMS Victorious,rn,Active,,1896-11-01,1908-06-01
 pred-majestic,HMS Victorious,rn,Reserve,,1908-06-01,1914-07-01
 pred-majestic,HMS Victorious,rn,Active,,1914-07-01,1915-02-01
-pred-mikasa,Mikasa,ijn,Built,Museum,1902-03-01,1923-09-20
-pred-mikasa,Mikasa,ijn,Built,Museum,1902-03-01,1923-09-20
+pred-mikasa,Mikasa,ijn,Active,,1902-03-01,1923-09-23
 pred-mississippi,USS Idaho,usn,Active,,1908-04-01,1914-07-01
 pred-mississippi,USS Mississippi,usn,Active,,1908-02-01,1914-07-01
-pred-radetzky,Erzherzog Franz Ferdinand,,Built,Surrendered,1910-06-05,1920-01-01
-pred-radetzky,Erzherzog Franz Ferdinand,,Built,Surrendered,1910-06-05,1920-01-01
-pred-radetzky,Radetzky,,Built,Surrendered,1911-01-15,1920-01-01
-pred-radetzky,Radetzky,,Built,Surrendered,1911-01-15,1920-01-01
-pred-radetzky,Zrinyi,,Built,Surrendered,1911-09-15,1920-01-01
-pred-radetzky,Zrinyi,,Built,Surrendered,1911-09-15,1920-01-01
+pred-radetzky,SMS Erzherzog Franz Ferdinand,ahn,Active,,1910-06-05,1919-11-10
+pred-radetzky,SMS Radetzky,ahn,Active,,1911-01-15,1919-11-10
+pred-radetzky,SMS Zrinyi,ahn,Active,,1911-09-15,1919-11-10
 pred-renown,HMS Renown,rn,Active,,1897-01-01,1904-05-14
 pred-renown,HMS Renown,rn,Reserve,,1904-05-14,1905-02-21
 pred-renown,HMS Renown,rn,Auxiliary,,1905-02-21,1909-10-01
@@ -617,12 +587,10 @@ pred-royal-sovereign,HMS Royal Oak,rn,Active,,1894-06-01,1905-03-07
 pred-royal-sovereign,HMS Royal Oak,rn,Reserve,,1905-03-07,1914-01-14
 pred-royal-sovereign,HMS Royal Sovereign,rn,Active,,1892-05-01,1907-02-09
 pred-royal-sovereign,HMS Royal Sovereign,rn,Reserve,,1907-02-09,1913-10-07
-pred-satsuma,Satsuma,ijn,Built,Scrapped,1910-03-25,1923-09-01
-pred-satsuma,Satsuma,ijn,Built,Scrapped,1910-03-25,1923-09-01
-pred-shikishima,Hatsuse,ijn,Built,Sunk,1901-01-18,1904-05-15
-pred-shikishima,Hatsuse,ijn,Built,Sunk,1901-01-18,1904-05-15
-pred-shikishima,Shikishima,ijn,Built,Converted,1900-01-26,1923-04-01
-pred-shikishima,Shikishima,ijn,Built,Converted,1900-01-26,1923-04-01
+pred-satsuma,Satsuma,ijn,Active,,1910-03-25,1922-01-01
+pred-shikishima,Hatsuse,ijn,Active,,1901-01-18,1904-05-15
+pred-shikishima,Shikishima,ijn,Active,,1900-01-26,1923-04-01
+pred-shikishima,Shikishima,ijn,Barracks,,1923-04-01,1948-01-01
 pred-vermont,USS Kansas,usn,Active,,1907-04-18,1921-12-16
 pred-vermont,USS Kansas,usn,Reserve,,1921-12-16,1923-11-10
 pred-vermont,USS Minnesota,usn,Active,,1907-03-09,1921-12-01
@@ -641,13 +609,14 @@ pred-virginia,USS Rhode Island,usn,Active,,1906-02-19,1920-06-30
 pred-virginia,USS Rhode Island,usn,Reserve,,1920-06-30,1923-11-01
 pred-virginia,USS Virginia,usn,Active,,1906-05-07,1920-08-13
 pred-virginia,USS Virginia,usn,Reserve,,1920-08-13,1923-09-05
-pred-wittelsbach,SMS Mecklenburg,km,Built,Converted,1903-06-25,1916-01-01
-pred-wittelsbach,SMS Mecklenburg,km,Built,Converted,1903-06-25,1916-01-01
-pred-wittelsbach,SMS Schwaben,km,Built,Converted,1904-04-13,1916-01-01
-pred-wittelsbach,SMS Schwaben,km,Built,Converted,1904-04-13,1916-01-01
-pred-wittelsbach,SMS Wettin,km,Built,Converted,1902-10-01,1916-01-01
-pred-wittelsbach,SMS Wettin,km,Built,Converted,1902-10-01,1916-01-01
-pred-wittelsbach,SMS Wittelsbach,km,Built,Converted,1902-10-15,1916-01-01
-pred-wittelsbach,SMS Wittelsbach,km,Built,Converted,1902-10-15,1916-01-01
-pred-wittelsbach,SMS Zahringen,km,Built,Converted,1902-10-25,1916-01-01
-pred-wittelsbach,SMS Zahringen,km,Built,Converted,1902-10-25,1916-01-01
+pred-wittelsbach,SMS Mecklenburg,km,Active,,1903-06-25,1916-01-24
+pred-wittelsbach,SMS Mecklenburg,km,Barracks,,1916-01-24,1920-01-25
+pred-wittelsbach,SMS Schwaben,km,Active,,1904-04-13,1916-01-31
+pred-wittelsbach,SMS Schwaben,km,Reserve,,1916-01-31,1919-01-01
+pred-wittelsbach,SMS Schwaben,km,Auxiliary,,1919-01-01,1921-03-08
+pred-wittelsbach,SMS Wettin,km,Active,,1902-10-01,1916-01-31
+pred-wittelsbach,SMS Wettin,km,Training,,1916-01-31,1920-03-11
+pred-wittelsbach,SMS Wittelsbach,km,Active,,1902-10-15,1916-08-01
+pred-wittelsbach,SMS Wittelsbach,km,Auxiliary,,1916-08-01,1921-03-08
+pred-wittelsbach,SMS Zahringen,km,Active,,1902-10-25,1916-01-31
+pred-wittelsbach,SMS Zahringen,km,Training,,1916-01-31,1920-03-11
