@@ -321,34 +321,20 @@ cb-alaska,USS Alaska,usn,Active,,1944-06-17,1947-02-17
 cb-alaska,USS Alaska,usn,Reserve,,1947-02-17,1960-06-01
 cb-alaska,USS Guam,usn,Active,,1944-09-17,1947-02-17
 cb-alaska,USS Guam,usn,Reserve,,1947-02-17,1960-06-01
-cds-el-plata,El Plata,,Built,Scrapped,1875-10-01,1927-11-01
-cds-el-plata,El Plata,,Built,Scrapped,1875-10-01,1927-11-01
-cds-el-plata,Los Andes,,Built,Scrapped,1875-10-01,1927-11-01
-cds-el-plata,Los Andes,,Built,Scrapped,1875-10-01,1927-11-01
-cds-herluf-trolle,Herluf Trolle,,Built,Scrapped,1901-06-07,1932-04-01
-cds-herluf-trolle,Herluf Trolle,,Built,Scrapped,1901-06-07,1932-04-01
-cds-herluf-trolle,Olfert Fischer,,Built,Scrapped,1905-05-31,1936-10-01
-cds-herluf-trolle,Olfert Fischer,,Built,Scrapped,1905-05-31,1936-10-01
-cds-herluf-trolle,Peder Skram,,Built,Sunk,1908-09-24,1943-08-29
-cds-herluf-trolle,Peder Skram,,Built,Sunk,1908-09-24,1943-08-29
-cds-iver-hvitfeldt,Iver Hvitfeldt,,Built,Scrapped,1887-06-01,1919-02-01
-cds-iver-hvitfeldt,Iver Hvitfeldt,,Built,Scrapped,1887-06-01,1919-02-01
-cds-libertad,Independencia,,Built,Scrapped,1892-11-26,1951-01-01
-cds-libertad,Independencia,,Built,Scrapped,1892-11-26,1951-01-01
-cds-libertad,Libertad,,Built,Scrapped,1892-11-26,1946-12-01
-cds-libertad,Libertad,,Built,Scrapped,1892-11-26,1946-12-01
-cds-marshal-deodoro,Marshal Deodoro,,Built,Sold,1900-01-01,1924-01-01
-cds-marshal-deodoro,Marshal Deodoro,,Built,Sold,1900-01-01,1924-01-01
-cds-marshal-deodoro,Marshal Floriano,,Built,Scrapped,1901-01-01,1936-01-01
-cds-marshal-deodoro,Marshal Floriano,,Built,Scrapped,1901-01-01,1936-01-01
-cds-monarch,Budapest,,Built,Converted,1898-05-12,1918-03-01
-cds-monarch,Budapest,,Built,Converted,1898-05-12,1918-03-01
-cds-monarch,Monarch,,Built,Converted,1898-05-11,1918-03-01
-cds-monarch,Monarch,,Built,Converted,1898-05-11,1918-03-01
-cds-monarch,Wien,,Built,Sunk,1898-05-13,1917-12-10
-cds-monarch,Wien,,Built,Sunk,1898-05-13,1917-12-10
-cds-niels-iuel,Niels Iuel,,Built,Sunk,1923-05-23,1943-08-29
-cds-niels-iuel,Niels Iuel,,Built,Sunk,1923-05-23,1943-08-29
+cds-el-plata,ARA El Plata,an,Active,,1875-10-01,1927-11-16
+cds-el-plata,ARA Los Andes,an,Active,,1875-10-01,1927-11-16
+cds-herluf-trolle,HDMS Herluf Trolle,dn,Active,,1901-06-07,1932-04-01
+cds-herluf-trolle,HDMS Olfert Fischer,dn,Active,,1905-05-31,1936-10-01
+cds-herluf-trolle,HDMS Peder Skram,dn,Active,,1908-09-24,1943-08-29
+cds-iver-hvitfeldt,HDMS Iver Hvitfeldt,dn,Active,,1887-06-01,1919-02-01
+cds-libertad,ARA Independencia,an,Active,,1892-11-26,1951-01-01
+cds-libertad,ARA Libertad,an,Active,,1892-11-26,1946-12-01
+cds-marshal-deodoro,Marshal Deodoro,bn,Active,,1900-01-01,1924-01-01
+cds-marshal-deodoro,Marshal Floriano,bn,Active,,1901-01-01,1924-01-01
+cds-monarch,SMS Budapest,ahn,Active,,1898-05-12,1918-03-11
+cds-monarch,SMS Monarch,ahn,Active,,1898-05-11,1918-03-14
+cds-monarch,SMS Wien,ahn,Active,,1898-05-13,1917-12-10
+cds-niels-iuel,HDMS Niels Iuel,dn,Active,,1923-05-23,1943-08-29
 cds-odin,SMS Agir,km,Active,,1896-10-15,1915-08-31
 cds-odin,SMS Agir,km,Barracks,,1915-08-31,1919-06-17
 cds-odin,SMS Odin,km,Active,,1896-09-22,1915-08-31
@@ -365,18 +351,12 @@ cds-siegfried,SMS Hildebrand,km,Active,,1893-10-28,1915-08-31
 cds-siegfried,SMS Hildebrand,km,Barracks,,1915-08-31,1919-06-17
 cds-siegfried,SMS Siegfried,km,Active,,1890-04-29,1915-08-31
 cds-siegfried,SMS Siegfried,km,Barracks,,1915-08-31,1919-06-17
-cds-spetsai,Idra,,Built,Converted,1892-01-01,1919-01-01
-cds-spetsai,Idra,,Built,Converted,1892-01-01,1919-01-01
-cds-spetsai,Psara,,Built,Converted,1891-01-01,1919-01-01
-cds-spetsai,Psara,,Built,Converted,1891-01-01,1919-01-01
-cds-spetsai,Spetsai,,Built,Converted,1892-01-01,1919-01-01
-cds-spetsai,Spetsai,,Built,Converted,1892-01-01,1919-01-01
-cds-vainamoinen,Ilmarinen,,Built,Sunk,1933-09-01,1941-09-13
-cds-vainamoinen,Ilmarinen,,Built,Sunk,1933-09-01,1941-09-13
-cds-vainamoinen,Vainamoinen,,Built,Sold,1932-12-01,1947-06-01
-cds-vainamoinen,Vainamoinen,,Built,Sold,1932-12-01,1947-06-01
-m-skjold,Skjold,,Built,Scrapped,1897-05-25,1929-05-01
-m-skjold,Skjold,,Built,Scrapped,1897-05-25,1929-05-01
+cds-spetsai,Idra,gn,Active,,1892-01-01,1919-01-01
+cds-spetsai,Psara,gn,Active,,1891-01-01,1919-01-01
+cds-spetsai,Spetsai,gn,Active,,1892-01-01,1919-01-01
+cds-vainamoinen,Ilmarinen,fn,Active,,1933-09-01,1941-09-13
+cds-vainamoinen,Vainamoinen,fn,Active,,1932-12-01,1947-06-01
+m-skjold,HDMS Skjold,dn,Active,,1897-05-25,1929-05-01
 pred-aki,Aki,ijn,Active,,1911-03-11,1922-01-01
 pred-asahi,Asahi,ijn,Active,,1900-07-31,1922-01-01
 pred-brandenburg,SMS Brandenburg,km,Active,,1893-11-19,1915-02-01
@@ -620,3 +600,191 @@ pred-wittelsbach,SMS Wittelsbach,km,Active,,1902-10-15,1916-08-01
 pred-wittelsbach,SMS Wittelsbach,km,Auxiliary,,1916-08-01,1921-03-08
 pred-wittelsbach,SMS Zahringen,km,Active,,1902-10-25,1916-01-31
 pred-wittelsbach,SMS Zahringen,km,Training,,1916-01-31,1920-03-11
+bbar-bayard,Bayard,mn,Active,,1882-01-01,1885-12-01
+bbar-bayard,Bayard,mn,Reserve,,1885-12-01,1899-01-01
+bbar-bayard,Turenne,mn,Active,,1882-01-01,1901-01-01
+bbar-admiral-duperre,Amiral Duperre,mn,Active,,1883-04-21,1906-12-01
+bbar-terrible,Caiman,mn,Active,,1888-11-01,1913-01-01
+bbar-terrible,Indomptable,mn,Active,,1887-02-01,1913-01-01
+bbar-terrible,Requin,mn,Active,,1888-12-01,1920-02-01
+bbar-terrible,Terrible,mn,Active,,1887-01-01,1911-01-01
+bbar-vauban,Duguesclin,mn,Active,,1886-08-01,1904-01-01
+bbar-vauban,Vauban,mn,Active,,1885-12-01,1905-01-01
+bbar-admiral-baudin,Amiral Baudin,mn,Active,,1888-12-01,1909-01-01
+bbar-admiral-baudin,Formidable,mn,Active,,1889-02-01,1909-02-09
+bt-hoche,Hoche,mn,Active,,1890-06-01,1908-04-01
+bbar-Marceau,Magenta,mn,Active,,1893-02-01,1910-01-01
+bbar-Marceau,Marceau,mn,Active,,1891-03-14,1914-08-01
+bbar-Marceau,Neptune,mn,Active,,1892-07-01,1908-02-01
+bt-brennus,Brennus,mn,Active,,1896-12-16,1919-01-01
+pred-carnot,Carnot,mn,Active,,1897-07-01,1914-03-01
+pred-carnot,Carnot,mn,Reserve,,1914-03-01,1922-01-01
+pred-charles-martel,Charles Martel,mn,Active,,1897-06-01,1914-03-01
+pred-charles-martel,Charles Martel,mn,Reserve,,1914-03-01,1922-01-01
+pred-jaureguiberry,Jaureguiberry,mn,Active,,1897-01-30,1918-01-01
+pred-jaureguiberry,Jaureguiberry,mn,Reserve,,1918-01-01,1920-06-20
+pred-massena,Massena,mn,Active,,1898-06-01,1915-01-01
+pred-bouvet,Bouvet,mn,Active,,1898-06-01,1915-03-18
+pred-charlemagne,Charlemagne,mn,Active,,1897-09-12,1917-09-17
+pred-charlemagne,Charlemagne,mn,Reserve,,1917-09-17,1917-11-01
+pred-charlemagne,Saint-Louis,mn,Active,,1900-09-15,1917-04-01
+pred-charlemagne,Saint-Louis,mn,Reserve,,1917-04-01,1919-02-01
+pred-charlemagne,Gaulois,mn,Active,,1899-10-23,1916-12-27
+pred-henry-iv,Henry IV,mn,Active,,1903-09-01,1918-01-01
+pred-iena,Iena,mn,Active,,1902-04-14,1907-03-12
+pred-suffren,Suffren,mn,Active,,1903-10-01,1916-11-26
+pred-liberte,Democratie,mn,Active,,1908-01-01,1920-04-01
+pred-liberte,Democratie,mn,Reserve,,1920-04-01,1921-05-18
+pred-liberte,Justice,mn,Active,,1908-02-01,1919-06-17
+pred-liberte,Liberte,mn,Active,,1908-03-01,1911-09-25
+pred-liberte,Verite,mn,Active,,1908-06-01,1919-08-01
+pred-liberte,Verite,mn,Reserve,,1919-08-01,1921-05-18
+pred-republique,Republique,mn,Active,,1906-12-01,1918-02-19
+pred-republique,Patrie,mn,Active,,1906-12-01,1919-06-15
+pred-danton,Condorcet,mn,Active,,1911-07-25,1931-01-01
+pred-danton,Danton,mn,Active,,1911-06-01,1917-03-19
+pred-danton,Diderot,mn,Active,,1911-08-01,1927-01-01
+pred-danton,Mirabeau,mn,Active,,1911-08-01,1919-02-18
+pred-danton,Vergniaud,mn,Active,,1911-09-22,1921-06-01
+pred-danton,Voltaire,mn,Active,,1911-08-01,1927-01-01
+bb-courbet,Courbet,mn,Active,,1913-11-19,1944-06-09
+bb-courbet,France,mn,Active,,1914-08-01,1922-08-26
+bb-courbet,Jean Bart,mn,Active,,1913-06-05,1934-11-01
+bb-courbet,Paris,mn,Active,,1914-08-01,1940-07-03
+bb-bretagne,Bretagne,mn,Active,,1915-09-01,1940-07-03
+bb-bretagne,Lorraine,mn,Active,,1916-07-01,1940-06-25
+bb-bretagne,Lorraine,mn,Interned,,1940-06-25,1943-01-01
+bb-bretagne,Provence,mn,Active,,1915-06-01,1942-11-27
+bb-dunkerque,Dunkerque,mn,Active,,1937-05-01,1942-11-27
+bb-strasbourg,Strasbourg,mn,Active,,1939-04-06,1942-11-27
+bb-richelieu,Richelieu,mn,Active,,1940-07-15,1942-11-27
+bb-jean-bart,Jean Bart,mn,Active,,1949-01-16,1961-01-01
+cds-tonnant,Tonnant,mn,Active,,1884-01-01,1903-01-01
+cds-furieux,Furieux,mn,Active,,1887-02-01,1913-01-01
+cds-jemmapes,Jemmapes,mn,Active,,1894-06-01,1911-01-01
+cds-jemmapes,Valmy,mn,Active,,1894-06-01,1911-01-01
+cds-bouvines,Amiral Trehouart,mn,Active,,1896-05-01,1913-07-01
+cds-bouvines,Bouvines,mn,Active,,1894-12-01,1913-07-01
+cds-harald-haarfagre,HNoMS Harald Haarfagre,norway,Active,,1898-03-01,1940-04-09
+cds-harald-haarfagre,HNoMS Tordenskjold,norway,Active,,1898-03-01,1940-04-09
+cds-norge,HNoMS Norge,norway,Active,,1901-02-01,1940-04-09
+cds-norge,HNoMS Eidsvold,norway,Active,,1901-06-01,1940-04-09
+bt-duilio,Duilio,rm,Active,,1880-01-06,1906-06-01
+bt-duilio,Dandolo,rm,Active,,1882-04-11,1920-01-01
+bt-italia,Italia,rm,Active,,1885-10-16,1914-06-01
+bt-lepanto,Lepanto,rm,Active,,1887-08-16,1914-01-15
+pred-ruggiero-di-lauria,Ruggiero di Lauria,rm,Active,,1888-02-01,1909-11-01
+pred-ruggiero-di-lauria,Francesco Morosini,rm,Active,,1889-08-21,1909-09-15
+pred-ruggiero-di-lauria,Andrea Doria,rm,Active,,1891-05-16,1911-01-15
+pred-re-umberto,Re Umberto,rm,Active,,1893-02-16,1920-07-01
+pred-sicilia,Sicilia,rm,Active,,1895-05-04,1914-07-01
+pred-sicilia,Sardegna,rm,Active,,1895-02-16,1923-01-01
+pred-ammiraglio-di-saint-bon,Ammiraglio di Saint Bon,rm,Active,,1901-05-24,1920-06-01
+pred-ammiraglio-di-saint-bon,Emanuele Filiberto,rm,Active,,1902-04-16,1920-03-01
+pred-regina-margherita,Regina Margherita,rm,Active,,1904-04-14,1916-12-11
+pred-regina-margherita,Benedetto Brin,rm,Active,,1905-09-01,1915-09-27
+pred-regina-elena,Regina Elena,rm,Active,,1907-09-11,1923-02-01
+pred-regina-elena,Vittorio Emanuele,rm,Active,,1908-08-01,1923-04-01
+pred-regina-elena,Roma,rm,Active,,1908-12-17,1923-09-03
+pred-regina-elena,Napoli,rm,Active,,1908-09-01,1926-09-01
+bb-dante-aligieri,Dante Alighieri,rm,Active,,1913-01-15,1928-07-01
+bb-conte-di-cavour,Conte di Cavour,rm,Active,,1915-04-01,1940-11-12
+bb-conte-di-cavour,Giulio Cesare,rm,Active,,1914-05-14,1949-02-01
+bb-conte-di-cavour,Leonardo da Vinci,rm,Active,,1914-05-17,1916-08-02
+bb-andrea-doria,Andrea Doria,rm,Active,,1916-03-13,1956-11-01
+bb-andrea-doria,Caio Duilio,rm,Active,,1915-05-10,1956-09-01
+bb-littorio,Vittorio Veneto,rm,Active,,1940-04-28,1948-01-01
+bb-littorio,Littorio,rm,Active,,1940-05-06,1948-06-01
+bb-littorio,Roma,rm,Active,,1942-06-14,1943-09-09
+m-alfredo-cappellini,Alfredo Cappellini,rm,Active,,1916-04-01,1917-11-16
+m-faa-di-bruno,Faa di Bruno,rm,Active,,1917-07-23,1924-11-13
+m-faa-di-bruno,Faa di Bruno,rm,Active,,1939-01-01,1945-06-01
+m-monte-grappa,Monte Cengio,rm,Active,,1920-06-01,1924-11-01
+m-monte-grappa,Monte Grappa,rm,Active,,1919-01-01,1924-11-01
+m-monte-grappa,Montello,rm,Active,,1919-05-01,1924-11-01
+m-monte-grappa,Monte Novegno,rm,Active,,1920-06-01,1924-11-01
+bmt-neptune,Neptune,rn,Active,,1881-09-03,1903-09-01
+m-reinier-claeszen,HNLMS Reinier Claeszen,rnn,Active,,1894-03-01,1914-04-01
+cds-eversten,HNLMS Evertsen,rnn,Active,,1896-02-01,1913-01-01
+cds-eversten,HNLMS Piet Hein,rnn,Active,,1896-01-03,1914-01-01
+cds-eversten,HNLMS Kortenaer,rnn,Active,,1895-12-17,1920-01-01
+cds-koningin-regentes,HNLMS Koningin Regentes,rnn,Active,,1901-08-09,1920-01-01
+cds-koningin-regentes,HNLMS De Ruyter,rnn,Active,,1902-10-29,1923-01-01
+cds-koningin-regentes,HNLMS Hertog Hendrik,rnn,Active,,1904-01-05,1939-12-01
+cds-marten-harpertszoon-tromp,HNLMS Marten Harpertzoon Tromp,rnn,Active,,1905-11-17,1932-01-01
+cds-jacob-van-heemskerck,HNLMS Jacob van Heemskerck,rnn,Active,,1908-04-22,1939-04-19
+cds-de-zeven-provincien,HNLMS De Zeven Provincien,rnn,Active,,1910-10-06,1936-01-01
+cds-de-zeven-provincien,HNLMS Soerabaja,rnn,Active,,1936-01-01,1942-02-18
+bt-pyotr-velikliy,Piotr Velikiy,rus,Active,,1876-10-15,1917-01-01
+bbar-ekaterina-ii,Ekaterina II,rus,Active,,1888-11-01,1907-08-14
+bbar-ekaterina-ii,Chesma,rus,Active,,1889-05-29,1907-08-14
+bbar-sinop,Sinop,rus,Active,,1889-06-01,1919-04-24
+bbar-sinop,Georgiy Pobedonosets,rus,Active,,1893-09-01,1918-05-01
+bt-imperator-nikolay-i,Imperator Nikolay I,rus,Active,,1891-07-01,1905-05-28
+bbar-imperator-alexandr-ii,Imperator Alexandr II,rus,Active,,1890-09-01,1907-01-01
+bbar-dvenadsat-apostolov,Dvenadtsat Apostolov,rus,Active,,1892-05-10,1911-04-15
+bt-navarin,Navarin,rus,Active,,1896-06-01,1905-05-28
+bt-sissoi-veliky,Sisoy Velikiy,rus,Active,,1896-08-30,1905-05-28
+pred-tri-sviatitelia,Tri Sviatitelia,rus,Active,,1897-08-01,1918-05-01
+pred-petropavlovsk,Poltava,rus,Active,,1896-08-30,1905-01-01
+pred-petropavlovsk,Chesma,rus,Active,,1916-04-04,1919-03-01
+pred-petropavlovsk,Chesma,rus,Active,,1919-10-01,1924-01-01
+pred-petropavlovsk,Petropavlovsk,rus,Active,,1897-06-01,1904-04-13
+pred-petropavlovsk,Sevastopol,rus,Active,,1898-06-01,1905-01-02
+pred-rostislav,Rostislav,rus,Active,,1898-10-01,1919-04-01
+pred-peresvet,Peresvet,rus,Active,,1901-07-01,1917-01-04
+pred-peresvet,Osliabia,rus,Active,,1901-08-01,1905-05-27
+pred-peresvet,Pobeda,rus,Active,,1902-10-01,1904-12-07
+pred-potemkin,Knyaz' Potyomkin Tavricheskiy,rus,Active,,1905-06-02,1919-04-01
+pred-tsesarevich,Tsesarevich,rus,Active,,1903-09-03,1925-11-21
+pred-retvizan,Retvizan,rus,Active,,1901-12-01,1904-12-06
+pred-borodino,Imperator Alexandr III,rus,Active,,1903-07-01,1905-05-27
+pred-borodino,Borodino,rus,Active,,1904-08-01,1905-05-27
+pred-borodino,Oriol,rus,Active,,1904-08-01,1905-05-28
+pred-borodino,Knyaz' Suvorov,rus,Active,,1904-10-01,1905-05-27
+pred-borodino,Slava,rus,Active,,1905-10-01,1917-10-17
+pred-andrei-pervozvanny,Andrey Pervozvannyy,rus,Active,,1912-05-13,1923-12-01
+pred-andrei-pervozvanny,Respublika,rus,Active,,1912-05-01,1923-11-01
+pred-evstafi,Eevstafi,rus,Active,,1911-05-28,1918-05-01
+pred-evstafi,Ioann Zlatoust,rus,Active,,1911-04-01,1918-05-01
+bb-gangut,Gangut,rus,Active,,1914-11-04,1954-07-24
+bb-gangut,Sevastopol,rus,Active,,1914-11-17,1954-07-24
+bb-gangut,Poltava,rus,Active,,1914-12-17,1919-11-25
+bb-gangut,Petropavlovsk,rus,Active,,1915-01-02,1915-11-28
+bb-imperatritsa-mariya,Imperatritsa Mariya,rus,Active,,1915-07-06,1916-10-20
+bb-imperatritsa-mariya,Imperatritsa Yekaterina Velikaya,rus,Active,,1915-10-18,1918-06-18
+bb-imperatritsa-mariya,Imperator Alexandr III,rus,Active,,1917-06-28,1918-06-18
+bb-imperatritsa-mariya,Imperator Alexandr III,rus,Active,,1919-11-01,1920-12-29
+bbar-pelayo,Pelayo,sn,Active,,1888-09-09,1913-01-01
+bb-espana,Espana,sn,Active,,1913-10-23,1923-08-26
+bb-espana,Alfonso XIII,sn,Active,,1915-08-16,1937-04-30
+bb-espana,Jaime I,sn,Active,,1921-12-20,1937-06-07
+cds-svea,HSwMS Svea,swn,Active,,1886-09-20,1920-01-01
+cds-svea,HSwMS Gota,swn,Active,,1891-06-01,1927-10-01
+cds-svea,HSwMS Thule,swn,Active,,1893-12-01,1928-08-01
+cds-oden,HSwMS Oden,swn,Active,,1897-06-08,1937-01-01
+cds-oden,HSwMS Thor,swn,Active,,1899-06-29,1937-01-01
+cds-oden,HSwMS Niord,swn,Active,,1899-02-23,1926-01-01
+cds-dristigheten,HSwMS Dristigheten,swn,Active,,1901-09-05,1947-06-01
+cds-aran,HSwMS Aran,swn,Active,,1902-09-07,1947-06-01
+cds-aran,HSwMS Wasa,swn,Active,,1902-12-06,1940-03-01
+cds-aran,HSwMS Tapperheten,swn,Active,,1903-04-01,1947-06-01
+cds-aran,HSwMS Manligheten,swn,Active,,1904-12-03,1950-02-01
+cds-oscar-ii,HSwMS Oscar II,swn,Active,,1907-04-01,1950-02-01
+cds-sverige,HSwMS Sverige,swn,Active,,1917-05-10,1953-01-01
+cds-sverige,HSwMS Drottning Victoria,swn,Active,,1921-03-01,1957-04-01
+cds-sverige,HSwMS Gustaf V,swn,Active,,1922-01-01,1957-04-01
+m-amphitrite,Amphitrite,usn,Active,,1895-04-23,1919-07-24
+m-amphitrite,Monadnock,usn,Active,,1896-02-20,1923-02-02
+m-amphitrite,Terror,usn,Active,,1896-04-15,1915-12-31
+m-amphitrite,Miantonomoh,usn,Active,,1891-10-27,1915-12-31
+m-puritan,Puritan,usn,Active,,1896-12-10,1910-04-23
+m-monterey,Monterey,usn,Active,,1893-02-13,1921-08-27
+m-arkansas,Arkansas,usn,Active,,1902-10-28,1909-03-02
+m-arkansas,Ozark,usn,Active,,1909-03-02,1913-03-06
+m-arkansas,Nevada,usn,Active,,1903-03-05,1909-03-02
+m-arkansas,Tonopah,usn,Active,,1909-03-02,1918-01-01
+m-arkansas,Florida,usn,Active,,1903-06-18,1908-07-01
+m-arkansas,Tallahassee,usn,Active,,1908-07-01,1922-03-24
+m-arkansas,Wyoming,usn,Active,,1902-12-08,1909-01-01
+m-arkansas,Cheyenne,usn,Active,,1909-01-01,1920-07-17
