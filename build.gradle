@@ -106,9 +106,6 @@ task generateShipHistory {
         // Service
         records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
         records.forEach { record ->
-            if (record.get('Fate')) {
-                return
-            }
             def currentDate = LocalDate.parse(record.get("Start"))
             currentDate = currentDate.minusDays(currentDate.getDayOfMonth() - 1)
             def endDate = LocalDate.parse(record.get("End"))
