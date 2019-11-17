@@ -774,17 +774,172 @@ cds-oscar-ii,HSwMS Oscar II,swn,Active,,1907-04-01,1950-02-01
 cds-sverige,HSwMS Sverige,swn,Active,,1917-05-10,1953-01-01
 cds-sverige,HSwMS Drottning Victoria,swn,Active,,1921-03-01,1957-04-01
 cds-sverige,HSwMS Gustaf V,swn,Active,,1922-01-01,1957-04-01
-m-amphitrite,Amphitrite,usn,Active,,1895-04-23,1919-07-24
-m-amphitrite,Monadnock,usn,Active,,1896-02-20,1923-02-02
-m-amphitrite,Terror,usn,Active,,1896-04-15,1915-12-31
-m-amphitrite,Miantonomoh,usn,Active,,1891-10-27,1915-12-31
-m-puritan,Puritan,usn,Active,,1896-12-10,1910-04-23
-m-monterey,Monterey,usn,Active,,1893-02-13,1921-08-27
-m-arkansas,Arkansas,usn,Active,,1902-10-28,1909-03-02
-m-arkansas,Ozark,usn,Active,,1909-03-02,1913-03-06
-m-arkansas,Nevada,usn,Active,,1903-03-05,1909-03-02
-m-arkansas,Tonopah,usn,Active,,1909-03-02,1918-01-01
-m-arkansas,Florida,usn,Active,,1903-06-18,1908-07-01
-m-arkansas,Tallahassee,usn,Active,,1908-07-01,1922-03-24
-m-arkansas,Wyoming,usn,Active,,1902-12-08,1909-01-01
-m-arkansas,Cheyenne,usn,Active,,1909-01-01,1920-07-17
+m-amphitrite,USS Amphitrite,usn,Active,,1895-04-23,1919-07-24
+m-amphitrite,USS Monadnock,usn,Active,,1896-02-20,1923-02-02
+m-amphitrite,USS Terror,usn,Active,,1896-04-15,1915-12-31
+m-amphitrite,USS Miantonomoh,usn,Active,,1891-10-27,1915-12-31
+m-puritan,USS Puritan,usn,Active,,1896-12-10,1910-04-23
+m-monterey,USS Monterey,usn,Active,,1893-02-13,1921-08-27
+m-arkansas,USS Arkansas,usn,Active,Renamed,1902-10-28,1909-03-02
+m-arkansas,USS Ozark,usn,Active,,1909-03-02,1913-03-06
+m-arkansas,USS Nevada,usn,Active,Renamed,1903-03-05,1909-03-02
+m-arkansas,USS Tonopah,usn,Active,,1909-03-02,1918-01-01
+m-arkansas,USS Florida,usn,Active,Renamed,1903-06-18,1908-07-01
+m-arkansas,USS Tallahassee,usn,Active,,1908-07-01,1922-03-24
+m-arkansas,USS Wyoming,usn,Active,Renamed,1902-12-08,1909-01-01
+m-arkansas,USS Cheyenne,usn,Active,,1909-01-01,1920-07-17
+pc-atlanta,USS Atlanta,usn,Active,,1886-07-19,1912-03-23
+pc-atlanta,USS Boston,usn,Active,,1887-05-02,1911-06-01
+pc-chicago,USS Chicago,usn,Active,,1889-04-17,1910-01-01
+pc-baltimore,USS Baltimore,usn,Active,,1890-01-07,1914-01-01
+pc-philadelphia,USS Philadelphia,usn,Active,,1890-07-28,1904-05-01
+pc-newark,USS Newark,usn,Active,,1891-02-02,1913-06-01
+pc-san-francisco,USS San Francisco,usn,Active,,1890-11-15,1908-06-01
+pc-montgomery,USS Montgomery,usn,Active,,1894-06-21,1919-08-01
+pc-montgomery,USS Detroit,usn,Active,,1893-07-20,1910-07-01
+pc-montgomery,USS Marblehead,usn,Active,,1894-04-02,1920-07-01
+ac-new-york,USS New York,usn,Active,,1893-08-01,1911-02-16
+ac-new-york,USS Saratoga,usn,Active,,1911-02-16,1917-12-01
+ac-new-york,USS Rochester,usn,Active,,1917-12-01,1933-04-29
+ac-brooklyn,USS Brooklyn,usn,Active,,1896-12-01,1921-03-01
+pc-olympia,USS Olympia,usn,Active,,1895-02-05,1922-12-09
+pc-denver,USS Denver,usn,Active,,1904-05-17,1931-03-01
+pc-denver,USS Des Moines,usn,Active,,1904-03-05,1929-12-01
+pc-denver,USS Chattanooga,usn,Active,,1904-10-11,1929-12-01
+pc-denver,USS Galveston,usn,Active,,1905-02-15,1930-11-01
+pc-denver,USS Tacoma,usn,Active,,1904-01-30,1924-01-16
+pc-denver,USS Cleveland,usn,Active,,1903-11-02,1929-12-01
+ac-pennsylvania,USS Pennsylvania,usn,Active,Renamed,1905-03-09,1912-08-27
+ac-pennsylvania,USS Pittsburgh,usn,Active,,1912-08-27,1931-10-01
+ac-pennsylvania,USS West Virginia,usn,Active,Renamed,1905-02-23,1916-11-11
+ac-pennsylvania,USS Huntington,usn,Active,,1916-11-11,1930-03-01
+ac-pennsylvania,USS California,usn,Active,Renamed,1907-08-01,1914-09-01
+ac-pennsylvania,USS San Diego,usn,Active,,1914-09-01,1918-07-19
+ac-pennsylvania,USS Colorado,usn,Active,Renamed,1905-01-19,1916-09-09
+ac-pennsylvania,USS Pueblo,usn,Active,,1916-09-09,1930-10-01
+ac-pennsylvania,USS Maryland,usn,Active,Renamed,1905-04-18,1916-11-09
+ac-pennsylvania,USS Frederick,usn,Active,,1916-11-09,1929-11-01
+ac-pennsylvania,USS South Dakota,usn,Active,Renamed,1908-01-27,1920-06-07
+ac-pennsylvania,USS Huron,usn,Active,,1920-06-07,1929-11-01
+ac-st-louis,USS St. Louis,usn,Active,,1906-08-18,1930-03-01
+ac-st-louis,USS Milwaukee,usn,Active,,1906-05-11,1917-01-13
+ac-st-louis,USS Charleston,usn,Active,,1905-10-17,1930-03-01
+ac-tennessee,USS Tennessee,usn,Active,Renamed,1906-07-17,1915-05-29
+ac-tennessee,USS Memphis,usn,Active,,1915-05-29,1916-08-29
+ac-tennessee,USS Washington,usn,Active,Renamed,1906-08-07,1916-11-09
+ac-tennessee,USS Seattle,usn,Active,,1916-11-09,1931-07-01
+ac-tennessee,USS North Carolina,usn,Active,Renamed,1908-05-07,1920-06-07
+ac-tennessee,USS Charlotte,usn,Active,,1920-06-07,1930-07-01
+ac-tennessee,USS Montana,usn,Active,Renamed,1908-07-21,1920-06-07
+ac-tennessee,USS Missoula,usn,Active,,1920-06-07,1930-07-01
+cs-chester,USS Chester,usn,Active,,1908-04-25,1930-05-01
+cs-chester,USS Birmingham,usn,Active,,1908-04-11,1930-05-01
+cs-chester,USS Salem,usn,Active,,1908-08-01,1929-11-01
+cl-omaha,USS Omaha,usn,Active,,1923-02-24,1945-11-01
+cl-omaha,USS Milwaukee,usn,Active,,1923-06-20,1944-04-01
+cl-omaha,USS Cincinnati,usn,Active,,1924-01-01,1945-11-01
+cl-omaha,USS Raleigh,usn,Active,,1924-02-06,1945-11-01
+cl-omaha,USS Detroit,usn,Active,,1923-07-31,1946-01-01
+cl-omaha,USS Richmond,usn,Active,,1923-07-02,1946-01-01
+cl-omaha,USS Concord,usn,Active,,1923-11-03,1945-12-01
+cl-omaha,USS Trenton,usn,Active,,1924-04-19,1946-01-01
+cl-omaha,USS Marblehead,usn,Active,,1924-09-08,1945-11-01
+cl-omaha,USS Memphis,usn,Active,,1925-02-04,1946-01-01
+ca-pensacola,USS Pensacola,usn,Active,,1930-02-06,1946-08-26
+ca-pensacola,USS Salt Lake City,usn,Active,,1929-12-11,1947-08-29
+ca-northampton,USS Northampton,usn,Active,,1930-05-01,1942-12-01
+ca-northampton,USS Chester,usn,Active,,1930-06-01,1946-06-10
+ca-northampton,USS Louisville,usn,Active,,1931-03-01,1946-06-17
+ca-northampton,USS Chicago,usn,Active,,1931-03-01,1943-01-30
+ca-northampton,USS Houston,usn,Active,,1930-06-01,1942-03-01
+ca-northampton,USS Augusta,usn,Active,,1931-01-01,1946-07-16
+ca-portland,USS Portland,usn,Active,,1933-02-23,1946-07-12
+ca-portland,USS Indianapolis,usn,Active,,1932-11-15,1945-07-29
+ca-new-orleans,USS New Orleans,usn,Active,,1934-04-18,1947-02-10
+ca-new-orleans,USS Astoria,usn,Active,,1934-06-01,1942-08-09
+ca-new-orleans,USS Minneapolis,usn,Active,,1934-06-20,1947-02-10
+ca-new-orleans,USS Tuscaloosa,usn,Active,,1934-08-17,1946-02-13
+ca-new-orleans,USS San Francisco,usn,Active,,1934-04-23,1946-02-10
+ca-new-orleans,USS Quincy,usn,Active,,1936-06-09,1942-08-09
+ca-new-orleans,USS Vincennes,usn,Active,,1937-02-24,1942-08-09
+cl-brooklyn,USS Brooklyn,usn,Active,Sold,1938-07-18,1947-01-03
+cl-brooklyn,USS Philadelphia,usn,Active,Sold,1938-07-28,1947-02-03
+cl-brooklyn,USS Savannah,usn,Active,Reserve,1938-08-30,1947-02-03
+cl-brooklyn,USS Nashville,usn,Active,Sold,1938-11-25,1946-06-24
+cl-brooklyn,USS Phoenix,usn,Active,Sold,1939-03-18,1946-07-03
+cl-brooklyn,USS Boise,usn,Active,Sold,1939-02-01,1946-07-01
+cl-brooklyn,USS Honolulu,usn,Active,Reserve,1938-09-07,1947-02-03
+cl-brooklyn,USS St. Louis,usn,Active,Sold,1939-12-01,1946-06-20
+cl-brooklyn,USS Helena,usn,Active,Sunk,1939-12-14,1943-07-06
+ca-wichita,USS Wichita,usn,Active,Reserve,1939-02-16,1947-02-03
+cl-atlanta,USS Atlanta,usn,Active,Sunk,1941-12-24,1942-11-13
+cl-atlanta,USS Juneau,usn,Active,Sunk,1942-02-14,1942-11-13
+cl-atlanta,USS San Diego,usn,Active,Reserve,1942-01-10,1946-11-04
+cl-atlanta,USS San Juan,usn,Active,Reserve,1942-02-28,1946-11-09
+cl-atlanta,USS Oakland,usn,Active,Reserve,1943-07-17,1949-07-01
+cl-atlanta,USS Reno,usn,Active,Reserve,1943-12-28,1946-11-04
+cl-atlanta,USS Flint,usn,Active,Reserve,1944-08-31,1947-05-06
+cl-atlanta,USS Tucson,usn,Active,Reserve,1945-02-03,1949-06-11
+cl-cleveland,USS Cleveland,usn,Active,Reserve,1942-06-15,1947-02-07
+cl-cleveland,USS Columbia,usn,Active,Reserve,1942-06-29,1946-11-30
+cl-cleveland,USS Montpelier,usn,Active,Reserve,1942-09-09,1947-01-24
+cl-cleveland,USS Denver,usn,Active,Reserve,1942-10-15,1947-02-07
+cl-cleveland,USS Santa Fe,usn,Active,Reserve,1942-11-24,1946-10-29
+cl-cleveland,USS Birmingham,usn,Active,Reserve,1943-01-29,1947-01-02
+cl-cleveland,USS Mobile,usn,Active,Reserve,1943-03-24,1947-05-09
+cl-cleveland,USS Vincennes,usn,Active,Reserve,1944-01-21,1946-09-10
+cl-cleveland,USS Pasadena,usn,Active,Reserve,1944-06-08,1950-01-12
+cl-cleveland,USS Springfield,usn,Active,Reserve,1944-09-09,1949-09-30
+cl-cleveland,USS Topeka,usn,Active,Reserve,1944-12-23,1949-06-18
+cl-cleveland,USS Biloxi,usn,Active,Reserve,1943-08-21,1946-08-29
+cl-cleveland,USS Houston,usn,Active,Reserve,1943-12-20,1947-12-15
+cl-cleveland,USS Providence,usn,Active,Reserve,1945-05-15,1949-06-14
+cl-cleveland,USS Manchester,usn,Active,Reserve,1946-10-29,1956-06-27
+cl-cleveland,USS Vicksburg,usn,Active,Reserve,1944-06-12,1947-06-30
+cl-cleveland,USS Duluth,usn,Active,Reserve,1944-09-18,1949-06-25
+cl-cleveland,USS Miami,usn,Active,Reserve,1943-12-28,1947-06-30
+cl-cleveland,USS Astoria,usn,Active,Reserve,1944-05-17,1949-07-01
+cl-cleveland,USS Oklahoma City,usn,Active,Reserve,1944-12-22,1947-06-30
+cl-cleveland,USS Little Rock,usn,Active,Reserve,1945-06-17,1949-06-24
+cl-cleveland,USS Amsterdam,usn,Active,Reserve,1945-01-08,1947-06-30
+cl-cleveland,USS Portsmouth,usn,Active,Reserve,1945-06-25,1949-06-15
+cl-cleveland,USS Wilkes-Barre,usn,Active,Reserve,1944-07-01,1947-10-09
+cl-cleveland,USS Atlanta,usn,Active,Reserve,1944-12-03,1949-07-01
+cl-cleveland,USS Dayton,usn,Active,Reserve,1945-01-07,1949-03-01
+ca-baltimore,USS Baltimore,usn,Active,Reserve,1943-04-15,1946-07-08
+ca-baltimore,USS Baltimore,usn,Active,Reserve,1951-11-28,1956-05-31
+ca-baltimore,USS Boston,usn,Active,Reserve,1943-06-30,1946-10-29
+ca-baltimore,USS Canberra,usn,Active,Reserve,1943-10-14,1947-03-07
+ca-baltimore,USS Quincy,usn,Active,Reserve,1943-12-15,1946-10-19
+ca-baltimore,USS Quincy,usn,Active,Reserve,1952-01-31,1954-07-02
+ca-baltimore,USS Pittsburgh,usn,Active,Reserve,1944-10-10,1947-03-07
+ca-baltimore,USS Pittsburgh,usn,Active,Reserve,1951-09-25,1956-08-28
+ca-baltimore,USS St. Paul,usn,Active,Reserve,1945-02-17,1971-04-30
+ca-baltimore,USS Columbus,usn,Active,Reserve,1945-06-08,1959-05-08
+ca-baltimore,USS Helena,usn,Active,Reserve,1945-09-04,1963-06-29
+ca-baltimore,USS Bremerton,usn,Active,Reserve,1945-04-29,1948-04-09
+ca-baltimore,USS Bremerton,usn,Active,Reserve,1951-11-23,1960-07-29
+ca-baltimore,USS Fall River,usn,Active,Reserve,1945-07-01,1947-10-31
+ca-baltimore,USS Macon,usn,Active,Reserve,1945-08-26,1950-04-12
+ca-baltimore,USS Macon,usn,Active,Reserve,1950-10-16,1961-03-10
+ca-baltimore,USS Toledo,usn,Active,Reserve,1946-10-27,1960-05-21
+ca-baltimore,USS Los Angeles,usn,Active,Reserve,1945-07-22,1948-04-09
+ca-baltimore,USS Los Angeles,usn,Active,Reserve,1951-01-27,1963-11-15
+ca-baltimore,USS Chicago,usn,Active,Reserve,1945-01-10,1947-06-06
+cl-fargo,USS Fargo,usn,Active,Reserve,1945-12-09,1950-02-14
+cl-fargo,USS Huntington,usn,Active,Reserve,1946-02-23,1949-06-15
+ca-oregon-city,USS Oregon City,usn,Active,,1946-02-16,1947-05-15
+ca-oregon-city,USS Albany,usn,Active,,1946-06-15,1958-06-30
+ca-oregon-city,USS Rochester,usn,Active,,1946-12-20,1961-08-15
+cl-juneau,USS Juneau,usn,Active,,1946-02-15,1955-07-23
+cl-juneau,USS Spokane,usn,Active,,1946-05-17,1950-02-27
+cl-juneau,USS Fresno,usn,Active,,1946-11-27,1949-05-17
+cl-worcester,USS Worcester,usn,Active,Reserve,1948-06-25,1958-12-19
+cl-worcester,USS Roanoke,usn,Active,Reserve,1949-04-04,1958-10-31
+ca-des-moines,USS Des Moines,usn,Active,,1948-11-17,1961-07-06
+ca-des-moines,USS Salem,usn,Active,,1949-05-09,1959-01-30
+ca-des-moines,USS Newport News,usn,Active,,1949-01-29,1975-06-27
+pc-cincinnati,USS Cincinnati,usn,Active,,1894-06-16,1921-08-01
+pc-cincinnati,USS Raleigh,usn,Active,,1894-04-17,1921-08-01
+pc-columbia,USS Columbia,usn,Active,,1894-04-23,1922-01-01
+pc-columbia,USS Minneapolis,usn,Active,,1894-12-13,1921-08-01
