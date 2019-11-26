@@ -1649,7 +1649,7 @@ ac-admiral-nakhimov,Admiral Nakhimov,rus,Active,Sunk,1888-09-21,1905-05-28
 pc-admiral-kornilov,Admiral Kornilov,rus,Active,Training,1888-09-01,1907-10-01
 pc-admiral-kornilov,Admiral Kornilov,rus,Training,Scrapped,1907-10-01,1911-05-01
 ac-pamiat-azova,Pamiat Azova,rus,Active,Training,1890-06-01,1907-10-10
-ac-pamiat-azova,Pamiat Azova,rus,Training,Auxillary,1907-10-10,1919-08-01
+ac-pamiat-azova,Pamiat Azova,rus,Training,Auxiliary,1907-10-10,1919-08-01
 ac-riurik-1895,Riurik,rus,Active,Sunk,1895-11-16,1904-08-14
 ac-rossiya,Rossiya,rus,Active,Sold,1897-09-25,1922-07-01
 pc-svetlana,Svetlana,rus,Active,Sunk,1898-04-02,1905-05-28
@@ -1674,7 +1674,7 @@ pc-bogatyr,Oleg,rus,Interned,Returned,1905-06-01,1905-11-01
 pc-bogatyr,Oleg,rus,Active,Sunk,1905-11-01,1919-06-18
 pc-bogatyr,Kagul,rus,Active,Reserve,1905-01-01,1918-03-01
 pc-bogatyr,Kagul,rus,Reserve,Active,1918-03-01,1923-11-01
-pc-bogatyr,Kagul,rus,Active,Auxillary,1923-11-01,1941-06-01
+pc-bogatyr,Kagul,rus,Active,Auxiliary,1923-11-01,1941-06-01
 pc-bogatyr,Pamiat Merkuriya,rus,Active,Captured,1909-06-23,1918-05-01
 ac-admiral-makarov,Admiral Makarov,rus,Active,Sold,1908-05-29,1922-08-01
 ac-admiral-makarov,Pallada,rus,Active,Sunk,1911-02-21,1914-10-11
@@ -1700,10 +1700,10 @@ cl-chapayev,Komsomolets,rus,Training,Barracks,1958-04-01,1979-09-01
 cl-chapayev,Frunze,rus,Active,Training,1950-12-19,1958-04-01
 cl-chapayev,Frunze,rus,Training,Scrapped,1958-04-01,1960-02-01
 cl-sverdlov,Sverdlov,rus,Active,Scrapped,1952-05-15,1989-05-01
-cl-sverdlov,Zhdanov,rus,Active,Auxillary,1952-12-31,1971-12-01
+cl-sverdlov,Zhdanov,rus,Active,Auxiliary,1952-12-31,1971-12-01
 cl-sverdlov,Admiral Ushakov,rus,Active,Scrapped,1953-09-08,1987-09-01
 cl-sverdlov,Aleksandr Suvorov,rus,Active,Scrapped,1953-12-31,1989-12-01
-cl-sverdlov,Admiral Senyavin,rus,Active,Auxillary,1954-11-30,1973-03-01
+cl-sverdlov,Admiral Senyavin,rus,Active,Auxiliary,1954-11-30,1973-03-01
 cl-sverdlov,Dmitriy Pozharskiy,rus,Active,Scrapped,1954-12-31,1987-03-01
 cl-sverdlov,Dzerzhinskiy,rus,Active,Training,1952-08-18,1961-08-01
 cl-sverdlov,Dzerzhinskiy,rus,Training,Scrapped,1961-08-01,1988-10-01
@@ -1715,3 +1715,1621 @@ cl-sverdlov,Admiral Lazarev,rus,Active,Scrapped,1953-12-30,1986-10-01
 cl-sverdlov,Molotovsk,rus,Active,Renamed,1954-11-30,1957-08-01
 cl-sverdlov,Oktyabr'skaya Revoliutsiya,rus,Active,Scrapped,1957-08-01,1987-09-01
 cl-sverdlov,Murmansk,rus,Active,Scrapped,1955-09-22,1992-07-01
+tbd-farragut,USS Farragut,usn,Active,Sold,1899-03-01,1919-09-01
+tbd-stringham,USS Stringham,usn,Active,Scrapped,1905-11-01,1913-11-01
+tbd-bailey,USS Bailey,usn,Active,Scrapped,1901-07-01,1919-10-01
+tbd-goldsborough,USS Goldsborough,usn,Active,Sold,1908-04-01,1919-09-01
+dd-hopkins,USS Hopkins,usn,Active,Scrapped,1903-09-01,1919-10-01
+dd-hopkins,USS Hull,usn,Active,Scrapped,1903-05-01,1919-09-01
+dd-lawrence,USS Lawrence,usn,Active,Scrapped,1903-04-01,1919-09-01
+dd-lawrence,USS MacDonough,usn,Active,Scrapped,1903-09-01,1919-11-01
+dd-paul-jones,USS Paul Jones,usn,Active,Scrapped,1903-12-01,1919-09-01
+dd-paul-jones,USS Perry,usn,Active,Scrapped,1902-09-01,1919-09-01
+dd-paul-jones,USS Preble,usn,Active,Scrapped,1903-12-01,1919-09-01
+dd-bainbridge,USS Bainbridge,usn,Active,Scrapped,1902-11-01,1919-09-01
+dd-bainbridge,USS Barry,usn,Active,Scrapped,1902-11-01,1919-09-01
+dd-bainbridge,USS Chauncey,usn,Active,Sunk,1902-11-01,1917-11-19
+dd-bainbridge,USS Dale,usn,Active,Scrapped,1902-10-01,1919-09-01
+dd-bainbridge,USS Decatur,usn,Active,Scrapped,1902-05-01,1919-09-01
+dd-truxtun,USS Truxtun,usn,Active,Scrapped,1902-09-01,1919-09-01
+dd-truxtun,USS Whipple,usn,Active,Scrapped,1902-10-01,1919-09-01
+dd-truxtun,USS Worden,usn,Active,Scrapped,1902-12-01,1919-09-01
+dd-stewart,USS Stewart,usn,Active,Scrapped,1902-12-01,1919-09-01
+dd-smith,USS Smith,usn,Active,Scrapped,1909-11-01,1919-09-01
+dd-smith,USS Lamson,usn,Active,Scrapped,1910-02-01,1919-09-01
+dd-smith,USS Preston,usn,Active,Scrapped,1909-12-01,1919-09-01
+dd-smith,USS Flusser,usn,Active,Scrapped,1909-10-01,1919-09-01
+dd-smith,USS Reid,usn,Active,Scrapped,1909-12-01,1919-09-01
+dd-paulding,USS Paulding,usn,Active,Scrapped,1910-09-01,1934-06-01
+dd-paulding,USS Drayton,usn,Active,Scrapped,1910-10-01,1935-03-01
+dd-paulding,USS Roe,usn,Active,Scrapped,1910-09-01,1934-06-01
+dd-paulding,USS Terry,usn,Active,Scrapped,1910-10-01,1934-06-01
+dd-paulding,USS Perkins,usn,Active,Scrapped,1910-11-01,1935-03-01
+dd-paulding,USS Sterett,usn,Active,Scrapped,1910-12-01,1935-03-01
+dd-paulding,USS McCall,usn,Active,Scrapped,1911-01-01,1934-06-01
+dd-paulding,USS Burrows,usn,Active,Scrapped,1911-02-01,1934-07-01
+dd-paulding,USS Warrington,usn,Active,Scrapped,1911-03-01,1935-03-01
+dd-paulding,USS Mayrant,usn,Active,Scrapped,1911-07-01,1935-03-01
+dd-perkins,USS Paulding,usn,Active,Scrapped,1910-09-01,1934-06-01
+dd-perkins,USS Drayton,usn,Active,Scrapped,1910-10-01,1935-03-01
+dd-perkins,USS Roe,usn,Active,Scrapped,1910-09-01,1934-06-01
+dd-perkins,USS Terry,usn,Active,Scrapped,1910-10-01,1934-06-01
+dd-perkins,USS Perkins,usn,Active,Scrapped,1910-11-01,1935-03-01
+dd-perkins,USS Sterett,usn,Active,Scrapped,1910-12-01,1935-03-01
+dd-perkins,USS McCall,usn,Active,Scrapped,1911-01-01,1934-06-01
+dd-perkins,USS Burrows,usn,Active,Scrapped,1911-02-01,1934-07-01
+dd-perkins,USS Warrington,usn,Active,Scrapped,1911-03-01,1935-03-01
+dd-perkins,USS Mayrant,usn,Active,Scrapped,1911-07-01,1935-03-01
+dd-monaghan,USS Monaghan,usn,Active,Scrapped,1911-07-01,1934-07-01
+dd-monaghan,USS Trippe,usn,Active,Scrapped,1911-03-01,1934-07-01
+dd-monaghan,USS Walke,usn,Active,Scrapped,1911-06-01,1935-03-01
+dd-monaghan,USS Ammen,usn,Active,Scrapped,1911-05-01,1934-07-01
+dd-monaghan,USS Patterson,usn,Active,Scrapped,1911-10-01,1934-06-01
+dd-monaghan,USS Fanning,usn,Active,Scrapped,1912-06-01,1934-06-01
+dd-monaghan,USS Jarvis,usn,Active,Scrapped,1912-10-01,1935-03-01
+dd-monaghan,USS Henley,usn,Active,Scrapped,1912-12-01,1934-07-01
+dd-monaghan,USS Beale,usn,Active,Scrapped,1912-08-01,1934-06-01
+dd-monaghan,USS Jouett,usn,Active,Scrapped,1912-05-01,1934-07-01
+dd-monaghan,USS Jenkins,usn,Active,Scrapped,1912-06-01,1935-03-01
+dd-cassin,USS Cassin,usn,Active,Scrapped,1913-07-01,1934-07-01
+dd-cassin,USS Cummings,usn,Active,Scrapped,1913-09-01,1934-07-01
+dd-cassin,USS Downes,usn,Active,Scrapped,1915-02-01,1934-07-01
+dd-cassin,USS Duncan,usn,Active,Scrapped,1913-08-01,1935-03-01
+dd-cassin,USS Aylwin,usn,Active,Scrapped,1914-01-01,1935-03-01
+dd-cassin,USS Parker,usn,Active,Scrapped,1913-12-01,1935-03-01
+dd-cassin,USS Benham,usn,Active,Scrapped,1914-01-01,1935-03-01
+dd-cassin,USS Balch,usn,Active,Scrapped,1914-03-01,1935-03-01
+dd-o-brien,USS O'Brien,usn,Active,Scrapped,1915-05-01,1935-03-01
+dd-o-brien,USS Nicholson,usn,Active,Scrapped,1915-04-01,1936-01-01
+dd-o-brien,USS Winslow,usn,Active,Scrapped,1915-08-01,1936-01-01
+dd-o-brien,USS McDougal,usn,Active,Scrapped,1914-05-01,1934-07-01
+dd-o-brien,USS Cushing,usn,Active,Scrapped,1915-08-01,1936-01-01
+dd-o-brien,USS Ericsson,usn,Active,Scrapped,1915-08-01,1934-07-01
+dd-tucker,USS Tucker,usn,Active,Scrapped,1916-04-01,1936-10-01
+dd-tucker,USS Conyngham,usn,Active,Scrapped,1916-01-01,1934-07-01
+dd-tucker,USS Porter,usn,Active,Scrapped,1916-04-01,1934-07-01
+dd-tucker,USS Wadsworth,usn,Active,Scrapped,1915-07-01,1936-01-01
+dd-tucker,USS Jacob Jones,usn,Active,Sunk,1916-02-01,1917-12-06
+dd-tucker,USS Wainwright,usn,Active,Scrapped,1916-05-01,1934-07-01
+dd-sampson,USS Sampson,usn,Active,Scrapped,1916-06-01,1936-01-01
+dd-sampson,USS Rowan,usn,Active,Scrapped,1916-08-01,1936-01-01
+dd-sampson,USS Davis,usn,Active,Scrapped,1916-10-01,1934-07-01
+dd-sampson,USS Allen,usn,Active,Scrapped,1917-01-01,1945-11-01
+dd-sampson,USS Wilkes,usn,Active,Scrapped,1916-11-01,1934-07-01
+dd-sampson,USS Shaw,usn,Active,Scrapped,1917-04-01,1934-07-01
+dd-caldwell,USS Caldwell,usn,Active,Scrapped,1917-12-01,1936-01-01
+dd-caldwell,USS Craven,usn,Active,Renamed,1918-10-01,1939-11-01
+dd-caldwell,USS Conway,usn,Active,Sold,1939-11-01,1940-10-01
+dd-caldwell,USS Gwin,usn,Active,Scrapped,1920-03-01,1937-01-01
+dd-caldwell,USS Conner,usn,Active,Sold,1918-01-01,1940-10-01
+dd-caldwell,USS Stockton,usn,Active,Sold,1917-11-01,1940-10-01
+dd-caldwell,USS Manley,usn,Active,Auxiliary,1917-10-01,1938-11-01
+dd-caldwell,USS Manley,usn,Auxiliary,Auxiliary,1938-11-01,1940-08-01
+dd-caldwell,USS Manley,usn,Auxiliary,Training,1940-08-01,1945-06-01
+dd-caldwell,USS Manley,usn,Training,Scrapped,1945-06-01,1945-12-01
+dd-wickes,USS Wickes,usn,Active,Sold,1918-07-01,1940-10-01
+dd-wickes,USS Philip,usn,Active,Sold,1918-08-01,1940-10-01
+dd-wickes,USS Woolsey,usn,Active,Sunk,1918-09-01,1921-02-26
+dd-wickes,USS Evans,usn,Active,Sold,1918-11-01,1940-10-01
+dd-wickes,USS Little,usn,Active,Auxiliary,1918-04-01,1940-08-01
+dd-wickes,USS Little,usn,Auxiliary,Sunk,1940-08-01,1942-09-05
+dd-wickes,USS Kimberly,usn,Active,Scrapped,1918-04-01,1937-01-01
+dd-wickes,USS Sigourney,usn,Active,Sold,1918-05-01,1940-11-01
+dd-wickes,USS Gregory,usn,Active,Auxiliary,1918-06-01,1940-11-01
+dd-wickes,USS Gregory,usn,Auxiliary,Sunk,1940-11-01,1942-09-05
+dd-wickes,USS Stringham,usn,Active,Auxiliary,1918-07-01,1940-12-01
+dd-wickes,USS Stringham,usn,Auxiliary,Training,1940-12-01,1945-06-01
+dd-wickes,USS Stringham,usn,Training,Scrapped,1945-06-01,1945-12-01
+dd-wickes,USS Dyer,usn,Active,Scrapped,1918-07-01,1936-01-01
+dd-wickes,USS Colhoun,usn,Active,Auxiliary,1918-07-01,1940-12-01
+dd-wickes,USS Colhoun,usn,Auxiliary,Sunk,1940-12-01,1942-08-30
+dd-wickes,USS Stevens,usn,Active,Scrapped,1918-05-01,1936-01-01
+dd-wickes,USS McKee,usn,Active,Scrapped,1918-09-01,1936-01-01
+dd-wickes,USS Robinson,usn,Active,Sold,1918-10-01,1940-11-01
+dd-wickes,USS Ringgold,usn,Active,Sold,1918-11-01,1940-11-01
+dd-wickes,USS McKean,usn,Active,Auxiliary,1919-02-01,1940-12-01
+dd-wickes,USS McKean,usn,Auxiliary,Sunk,1940-12-01,1943-11-17
+dd-wickes,USS Harding,usn,Active,Scrapped,1919-01-01,1936-01-01
+dd-wickes,USS Gridley,usn,Active,Renamed,1919-01-01,1935-05-01
+dd-wickes,DD92,usn,Active,Scrapped,1935-05-01,1937-01-01
+dd-wickes,USS Fairfax,usn,Active,Sold,1918-04-01,1940-10-01
+dd-wickes,USS Taylor,usn,Active,Scrapped,1918-07-01,1938-12-01
+dd-wickes,USS Bell,usn,Active,Scrapped,1918-07-01,1937-01-01
+dd-wickes,USS Stribling,usn,Active,Auxiliary,1918-08-01,1920-07-01
+dd-wickes,USS Stribling,usn,Auxiliary,Scrapped,1920-07-01,1936-12-01
+dd-wickes,USS Murray,usn,Active,Auxiliary,1918-08-01,1920-07-01
+dd-wickes,USS Murray,usn,Auxiliary,Scrapped,1920-07-01,1936-01-01
+dd-wickes,USS Israel,usn,Active,Auxiliary,1918-08-01,1920-07-01
+dd-wickes,USS Israel,usn,Auxiliary,Scrapped,1920-07-01,1937-01-01
+dd-wickes,USS Luce,usn,Active,Auxiliary,1918-09-01,1920-07-01
+dd-wickes,USS Luce,usn,Auxiliary,Scrapped,1920-07-01,1936-01-01
+dd-wickes,USS Maury,usn,Active,Auxiliary,1918-09-01,1920-07-01
+dd-wickes,USS Maury,usn,Auxiliary,Scrapped,1920-07-01,1930-10-01
+dd-wickes,USS Lansdale,usn,Active,Auxiliary,1918-10-01,1920-07-01
+dd-wickes,USS Lansdale,usn,Auxiliary,Scrapped,1920-07-01,1937-01-01
+dd-wickes,USS Mahan,usn,Active,Auxiliary,1918-10-01,1920-07-01
+dd-wickes,USS Mahan,usn,Auxiliary,Scrapped,1920-07-01,1930-10-01
+dd-wickes,USS Schley,usn,Active,Auxiliary,1918-09-01,1943-02-01
+dd-wickes,USS Schley,usn,Auxiliary,Training,1943-02-01,1945-07-01
+dd-wickes,USS Schley,usn,Training,Scrapped,1945-07-01,1945-12-01
+dd-wickes,USS Champlin,usn,Active,Scrapped,1918-11-01,1936-05-01
+dd-wickes,USS Mugford,usn,Active,Scrapped,1918-11-01,1936-05-01
+dd-wickes,USS Chew,usn,Active,Scrapped,1918-12-01,1945-11-01
+dd-wickes,USS Hazelwood,usn,Active,Scrapped,1919-02-01,1930-11-01
+dd-wickes,USS Williams,usn,Active,Sold,1919-03-01,1940-09-01
+dd-wickes,USS Crane,usn,Active,Scrapped,1919-04-01,1945-12-01
+dd-wickes,USS Hart,usn,Active,Auxiliary,1919-05-01,1920-07-01
+dd-wickes,USS Hart,usn,Auxiliary,Scrapped,1920-07-01,1931-11-01
+dd-wickes,USS Ingraham,usn,Active,Auxiliary,1919-05-01,1920-07-01
+dd-wickes,USS Ingraham,usn,Auxiliary,Scrapped,1920-07-01,1936-12-01
+dd-wickes,USS Ludlow,usn,Active,Auxiliary,1918-12-01,1920-07-01
+dd-wickes,USS Ludlow,usn,Auxiliary,Scrapped,1920-07-01,1930-11-01
+dd-wickes,USS Rathburne,usn,Active,Auxiliary,1918-06-01,1944-05-01
+dd-wickes,USS Rathburne,usn,Auxiliary,Training,1944-05-01,1945-07-01
+dd-wickes,USS Rathburne,usn,Training,Scrapped,1945-07-01,1945-11-01
+dd-wickes,USS Talbot,usn,Active,Auxiliary,1918-07-01,1942-10-01
+dd-wickes,USS Talbot,usn,Auxiliary,Training,1942-10-01,1945-07-01
+dd-wickes,USS Talbot,usn,Training,Scrapped,1945-07-01,1945-10-01
+dd-wickes,USS Waters,usn,Active,Auxiliary,1918-08-01,1942-10-01
+dd-wickes,USS Waters,usn,Auxiliary,Training,1942-10-01,1945-08-01
+dd-wickes,USS Waters,usn,Training,Scrapped,1945-08-01,1945-10-01
+dd-wickes,USS Dent,usn,Active,Auxiliary,1918-09-01,1942-10-01
+dd-wickes,USS Dent,usn,Auxiliary,Scrapped,1942-10-01,1946-01-01
+dd-wickes,USS Dorsey,usn,Active,Auxiliary,1918-09-01,1940-11-01
+dd-wickes,USS Dorsey,usn,Auxiliary,Sunk,1940-11-01,1945-10-09
+dd-wickes,USS Lea,usn,Active,Scrapped,1918-10-01,1945-08-01
+dd-wickes,USS Lamberton,usn,Active,Target,1918-08-01,1932-04-01
+dd-wickes,USS Lamberton,usn,Target,Auxiliary,1932-04-01,1940-11-01
+dd-wickes,USS Lamberton,usn,Auxiliary,Scrapped,1940-11-01,1947-01-01
+dd-wickes,USS Radford,usn,Active,Scrapped,1918-09-01,1936-05-01
+dd-wickes,USS Montgomery,usn,Active,Auxiliary,1918-07-01,1931-01-01
+dd-wickes,USS Montgomery,usn,Auxiliary,Scrapped,1931-01-01,1944-10-17
+dd-wickes,USS Breese,usn,Active,Auxiliary,1918-10-01,1931-06-01
+dd-wickes,USS Breese,usn,Auxiliary,Scrapped,1931-06-01,1946-02-01
+dd-wickes,USS Gamble,usn,Active,Auxiliary,1918-11-01,1930-06-01
+dd-wickes,USS Gamble,usn,Auxiliary,Scrapped,1930-06-01,1945-02-18
+dd-wickes,USS Ramsay,usn,Active,Auxiliary,1919-02-01,1930-06-01
+dd-wickes,USS Ramsay,usn,Auxiliary,Auxiliary,1930-06-01,1945-06-01
+dd-wickes,USS Tattnall,usn,Active,Auxiliary,1919-06-01,1943-07-01
+dd-wickes,USS Tattnall,usn,Auxiliary,Auxiliary,1943-07-01,1946-01-01
+dd-wickes,USS Badger,usn,Active,Scrapped,1919-05-01,1945-08-01
+dd-wickes,USS Twiggs,usn,Active,Sold,1919-07-01,1940-10-01
+dd-wickes,USS Babbitt,usn,Active,Auxiliary,1919-10-01,1945-06-01
+dd-wickes,USS De Long,usn,Active,Sunk,1919-09-01,1921-12-01
+dd-wickes,USS Jacob Jones,usn,Active,Sunk,1919-10-01,1942-02-28
+dd-wickes,USS Buchanan,usn,Active,Sold,1919-01-01,1940-09-01
+dd-wickes,USS Aaron Ward,usn,Active,Sold,1919-04-01,1940-09-01
+dd-wickes,USS Hale,usn,Active,Sold,1919-06-01,1940-09-01
+dd-wickes,USS Crowninshield,usn,Active,Sold,1919-08-01,1940-09-01
+dd-wickes,USS Tillman,usn,Active,Sold,1920-04-01,1940-11-01
+dd-wickes,USS Boggs,usn,Active,Auxiliary,1918-09-01,1945-06-01
+dd-wickes,USS Boggs,usn,Target,Auxiliary,1918-09-01,1945-06-01
+dd-wickes,USS Boggs,usn,Auxiliary,Auxiliary,1918-09-01,1945-06-01
+dd-wickes,USS Kilty,usn,Active,Target,1918-12-01,1931-08-01
+dd-wickes,USS Kilty,usn,Target,Active,1931-08-01,1932-04-01
+dd-wickes,USS Kilty,usn,Active,Auxiliary,1932-04-01,1943-01-01
+dd-wickes,USS Kilty,usn,Auxiliary,Training,1943-01-01,1945-07-01
+dd-wickes,USS Kilty,usn,Training,Scrapped,1945-07-01,1945-11-01
+dd-wickes,USS Kennison,usn,Active,Auxiliary,1919-04-01,1944-10-01
+dd-wickes,USS Ward,usn,Active,Auxiliary,1919-07-01,1943-01-01
+dd-wickes,USS Ward,usn,Auxiliary,Sunk,1943-01-01,1944-12-07
+dd-wickes,USS Claxton,usn,Active,Sold,1919-09-01,1940-11-01
+dd-wickes,USS Hamilton,usn,Active,Auxiliary,1919-11-01,1941-10-01
+dd-wickes,USS Hamilton,usn,Auxiliary,Auxiliary,1941-10-01,1945-06-01
+dd-wickes,USS Tarbell,usn,Active,Scrapped,1918-11-01,1945-08-01
+dd-wickes,USS Yarnall,usn,Active,Sold,1918-11-01,1940-10-01
+dd-wickes,USS Upshur,usn,Active,Auxiliary,1918-12-01,1945-06-01
+dd-wickes,USS Greer,usn,Active,Scrapped,1918-12-01,1945-08-01
+dd-wickes,USS Elliot,usn,Active,Auxiliary,1919-01-01,1940-11-01
+dd-wickes,USS Elliot,usn,Auxiliary,Auxiliary,1940-11-01,1945-06-01
+dd-wickes,USS Roper,usn,Active,Auxiliary,1919-02-01,1943-10-01
+dd-wickes,USS Roper,usn,Auxiliary,Scrapped,1943-10-01,1945-10-01
+dd-wickes,USS Breckinridge,usn,Active,Auxiliary,1919-02-01,1945-06-01
+dd-wickes,USS Barney,usn,Active,Auxiliary,1919-03-01,1945-06-01
+dd-wickes,USS Blakeley,usn,Active,Scrapped,1919-05-01,1945-08-01
+dd-wickes,USS Biddle,usn,Active,Auxiliary,1919-04-01,1945-06-01
+dd-wickes,USS Du Pont,usn,Active,Auxiliary,1919-04-01,1944-09-01
+dd-wickes,USS Bernadou,usn,Active,Scrapped,1919-05-01,1945-08-01
+dd-wickes,USS Ellis,usn,Active,Auxiliary,1919-06-01,1945-06-01
+dd-wickes,USS Cole,usn,Active,Auxiliary,1919-06-01,1945-06-01
+dd-wickes,USS J. Fred Talbott,usn,Active,Auxiliary,1919-06-01,1944-09-01
+dd-wickes,USS Dickerson,usn,Active,Auxiliary,1919-09-01,1943-08-01
+dd-wickes,USS Dickerson,usn,Auxiliary,Sunk,1943-08-01,1945-04-04
+dd-wickes,USS Leary,usn,Active,Sunk,1919-12-01,1943-12-24
+dd-wickes,USS Schenck,usn,Active,Auxiliary,1919-10-01,1944-09-01
+dd-wickes,USS Herbert,usn,Active,Auxiliary,1919-11-01,1943-12-01
+dd-wickes,USS Herbert,usn,Auxiliary,Scrapped,1943-12-01,1945-10-01
+dd-wickes,USS Palmer,usn,Active,Auxiliary,1918-11-01,1940-11-01
+dd-wickes,USS Palmer,usn,Auxiliary,Sunk,1940-11-01,1945-01-07
+dd-wickes,USS Thatcher,usn,Active,Sold,1919-01-01,1940-09-01
+dd-wickes,USS Walker,usn,Active,Auxiliary,1919-01-01,1938-03-01
+dd-wickes,USS Crosby,usn,Active,Auxiliary,1919-01-01,1943-01-01
+dd-wickes,USS Crosby,usn,Auxiliary,Scrapped,1943-01-01,1945-10-01
+dd-wickes,USS Meredith,usn,Active,Scrapped,1919-01-01,1936-01-01
+dd-wickes,USS Bush,usn,Active,Scrapped,1919-02-01,1936-01-01
+dd-wickes,USS Cowell,usn,Active,Sold,1919-03-01,1940-09-01
+dd-wickes,USS Maddox,usn,Active,Sold,1919-03-01,1940-09-01
+dd-wickes,USS Foote,usn,Active,Sold,1919-03-01,1940-09-01
+dd-wickes,USS Kalk,usn,Active,Sold,1919-03-01,1940-09-01
+dd-wickes,USS Burns,usn,Active,Auxiliary,1919-08-01,1920-07-01
+dd-wickes,USS Burns,usn,Auxiliary,Scrapped,1920-07-01,1930-11-01
+dd-wickes,USS Anthony,usn,Active,Auxiliary,1919-07-01,1920-07-01
+dd-wickes,USS Anthony,usn,Auxiliary,Scrapped,1920-07-01,1936-12-01
+dd-wickes,USS Sproston,usn,Active,Auxiliary,1919-07-01,1920-07-01
+dd-wickes,USS Sproston,usn,Auxiliary,Scrapped,1920-07-01,1936-12-01
+dd-wickes,USS Rizal,usn,Active,Auxiliary,1919-05-01,1920-07-01
+dd-wickes,USS Rizal,usn,Auxiliary,Scrapped,1920-07-01,1931-11-01
+dd-wickes,USS Mackenzie,usn,Active,Sold,1919-07-01,1940-09-01
+dd-wickes,USS Renshaw,usn,Active,Scrapped,1919-07-01,1936-05-01
+dd-wickes,USS O`Bannon,usn,Active,Scrapped,1919-08-01,1936-05-01
+dd-wickes,USS Hogan,usn,Active,Auxiliary,1919-10-01,1940-11-01
+dd-wickes,USS Hogan,usn,Auxiliary,Auxiliary,1940-11-01,1945-06-01
+dd-wickes,USS Howard,usn,Active,Auxiliary,1920-01-01,1940-11-01
+dd-wickes,USS Howard,usn,Auxiliary,Auxiliary,1940-11-01,1945-06-01
+dd-wickes,USS Stansbury,usn,Active,Auxiliary,1920-01-01,1940-11-01
+dd-wickes,USS Stansbury,usn,Auxiliary,Auxiliary,1940-11-01,1945-06-01
+dd-wickes,USS Hopewell,usn,Active,Sold,1919-03-01,1940-09-01
+dd-wickes,USS Thomas,usn,Active,Sold,1919-04-01,1940-09-01
+dd-wickes,USS Haraden,usn,Active,Sold,1919-06-01,1940-09-01
+dd-wickes,USS Abbot,usn,Active,Sold,1919-06-01,1940-09-01
+dd-wickes,USS Bagley,usn,Active,Renamed,1919-08-01,1939-12-01
+dd-wickes,USS Doran,usn,Active,Sold,1939-12-01,1940-09-01
+dd-clemson,USS Clemson,usn,Active,Auxiliary,1919-12-01,1939-11-01
+dd-clemson,USS Clemson,usn,Auxiliary,Active,1939-11-01,1943-12-01
+dd-clemson,USS Clemson,usn,Active,Auxiliary,1943-12-01,1944-05-01
+dd-clemson,USS Clemson,usn,Auxiliary,Training,1944-05-01,1945-07-01
+dd-clemson,USS Clemson,usn,Training,Scrapped,1945-07-01,1945-10-01
+dd-clemson,USS Dahlgren,usn,Active,Auxiliary,1920-01-01,1945-03-01
+dd-clemson,USS Goldsborough,usn,Active,Auxiliary,1920-01-01,1939-11-01
+dd-clemson,USS Goldsborough,usn,Auxiliary,Active,1939-11-01,1943-12-01
+dd-clemson,USS Goldsborough,usn,Active,Auxiliary,1943-12-01,1944-03-01
+dd-clemson,USS Goldsborough,usn,Auxiliary,Training,1944-03-01,1945-07-01
+dd-clemson,USS Goldsborough,usn,Training,Scrapped,1945-07-01,1945-10-01
+dd-clemson,USS Semmes,usn,Active,Auxiliary,1920-02-01,1935-07-01
+dd-clemson,USS Satterlee,usn,Active,Sold,1919-12-01,1940-10-01
+dd-clemson,USS Mason,usn,Active,Sold,1920-02-01,1940-10-01
+dd-clemson,USS Graham,usn,Active,Sunk,1920-03-01,1921-12-16
+dd-clemson,USS Abel P. Upshur,usn,Active,Sold,1920-11-01,1940-09-01
+dd-clemson,USS Hunt,usn,Active,Sold,1920-11-01,1940-10-01
+dd-clemson,USS Welborn C. Wood,usn,Active,Sold,1921-01-01,1940-09-01
+dd-clemson,USS George E. Badger,usn,Active,Scrapped,1920-07-01,1945-10-01
+dd-clemson,USS Branch,usn,Active,Sold,1920-07-01,1940-10-01
+dd-clemson,USS Herndon,usn,Active,Sold,1920-09-01,1940-09-01
+dd-clemson,USS Dallas,usn,Active,Renamed,1920-10-01,1945-03-01
+dd-clemson,USS Alexander Dallas,usn,Active,Scrapped,1945-03-01,1945-08-01
+dd-clemson,USS Chandler,usn,Active,Auxiliary,1919-09-01,1940-11-01
+dd-clemson,USS Chandler,usn,Auxiliary,Auxiliary,1940-11-01,1945-06-01
+dd-clemson,USS Southard,usn,Active,Auxiliary,1919-09-01,1940-11-01
+dd-clemson,USS Southard,usn,Auxiliary,Sunk,1919-09-01,1945-10-09
+dd-clemson,USS Broome,usn,Active,Auxiliary,1919-10-01,1945-05-01
+dd-clemson,USS Alden,usn,Active,Scrapped,1919-11-01,1945-08-01
+dd-clemson,USS Smith Thompson,usn,Active,Sunk,1919-12-01,1936-04-14
+dd-clemson,USS Barker,usn,Active,Scrapped,1919-12-01,1945-08-01
+dd-clemson,USS Tracy,usn,Active,Auxiliary,1920-03-01,1937-06-01
+dd-clemson,USS Tracy,usn,Auxiliary,Scrapped,1937-06-01,1946-02-01
+dd-clemson,USS Borie,usn,Active,Sunk,1920-03-01,1943-11-02
+dd-clemson,USS John D. Edwards,usn,Active,Scrapped,1920-04-01,1945-08-01
+dd-clemson,USS Whipple,usn,Active,Auxiliary,1920-04-01,1945-06-01
+dd-clemson,USS Parrott,usn,Active,Sunk,1920-05-01,1944-05-02
+dd-clemson,USS Edsall,usn,Active,Sunk,1920-11-01,1942-03-01
+dd-clemson,USS MacLeish,usn,Active,Auxiliary,1920-08-01,1945-01-01
+dd-clemson,USS Simpson,usn,Active,Auxiliary,1920-11-01,1945-05-01
+dd-clemson,USS Bulmer,usn,Active,Auxiliary,1920-08-01,1944-11-01
+dd-clemson,USS McCormick,usn,Active,Auxiliary,1920-08-01,1945-06-01
+dd-clemson,USS Stewart,usn,Active,Sunk,1920-09-01,1942-03-02
+dd-clemson,USS Stewart,usn,Active,Scrapped,1945-10-01,1946-04-01
+dd-clemson,USS Pope,usn,Active,Sunk,1920-10-01,1942-03-01
+dd-clemson,USS Peary,usn,Active,Sunk,1920-10-01,1942-02-19
+dd-clemson,USS Pillsbury,usn,Active,Sunk,1920-12-01,1942-03-01
+dd-clemson,USS Ford,usn,Active,Renamed,1920-12-01,1921-11-01
+dd-clemson,USS John D. Ford,usn,Active,Auxiliary,1921-11-01,1945-06-01
+dd-clemson,USS Truxtun,usn,Active,Sunk,1921-02-01,1942-02-18
+dd-clemson,USS Paul Jones,usn,Active,Auxiliary,1921-04-01,1945-06-01
+dd-clemson,USS Humphreys,usn,Active,Auxiliary,1920-07-01,1942-10-01
+dd-clemson,USS Humphreys,usn,Auxiliary,Training,1942-10-01,1945-07-01
+dd-clemson,USS Humphreys,usn,Training,Scrapped,1945-07-01,1945-11-01
+dd-clemson,USS McFarland,usn,Active,Auxiliary,1920-09-01,1940-08-01
+dd-clemson,USS McFarland,usn,Auxiliary,Active,1940-08-01,1943-12-01
+dd-clemson,USS McFarland,usn,Active,Scrapped,1943-12-01,1945-12-01
+dd-clemson,USS James K. Paulding,usn,Active,Scrapped,1920-11-01,1937-01-01
+dd-clemson,USS Overton,usn,Active,Auxiliary,1920-06-01,1943-08-01
+dd-clemson,USS Overton,usn,Auxiliary,Scrapped,1943-08-01,1945-08-01
+dd-clemson,USS Sturtevant,usn,Active,Sunk,1920-09-01,1942-04-26
+dd-clemson,USS Childs,usn,Active,Auxiliary,1920-10-01,1938-07-01
+dd-clemson,USS Childs,usn,Auxiliary,Scrapped,1938-07-01,1946-01-01
+dd-clemson,USS King,usn,Active,Scrapped,1920-12-01,1945-11-01
+dd-clemson,USS Sands,usn,Active,Auxiliary,1920-11-01,1942-12-01
+dd-clemson,USS Sands,usn,Auxiliary,Scrapped,1942-12-01,1945-11-01
+dd-clemson,USS Williamson,usn,Active,Auxiliary,1920-10-01,1938-07-01
+dd-clemson,USS Williamson,usn,Auxiliary,Active,1938-07-01,1943-12-01
+dd-clemson,USS Williamson,usn,Active,Scrapped,1943-12-01,1945-12-01
+dd-clemson,USS Reuben James,usn,Active,Sunk,1920-09-01,1941-10-30
+dd-clemson,USS Bainbridge,usn,Active,Scrapped,1921-02-01,1945-08-01
+dd-clemson,USS Goff,usn,Active,Scrapped,1921-01-01,1945-08-01
+dd-clemson,USS Barry,usn,Active,Auxiliary,1920-12-01,1944-01-01
+dd-clemson,USS Barry,usn,Auxiliary,Sunk,1944-01-01,1945-05-25
+dd-clemson,USS Hopkins,usn,Active,Auxiliary,1921-03-01,1940-11-01
+dd-clemson,USS Hopkins,usn,Auxiliary,Scrapped,1940-11-01,1946-01-01
+dd-clemson,USS Lawrence,usn,Active,Scrapped,1921-04-01,1945-08-01
+dd-clemson,USS Belknap,usn,Active,Auxiliary,1919-04-01,1940-08-01
+dd-clemson,USS Belknap,usn,Auxiliary,Active,1940-08-01,1943-12-01
+dd-clemson,USS Belknap,usn,Active,Auxiliary,1943-12-01,1944-06-01
+dd-clemson,USS Belknap,usn,Auxiliary,Scrapped,1944-06-01,1945-01-11
+dd-clemson,USS McCook,usn,Active,Sold,1919-04-01,1940-09-01
+dd-clemson,USS McCalla,usn,Active,Sold,1919-05-01,1940-10-01
+dd-clemson,USS Rodgers,usn,Active,Sold,1919-07-01,1940-10-01
+dd-clemson,USS Ingram,usn,Active,Renamed,1919-06-01,1919-11-01
+dd-clemson,USS Osmond Ingram,usn,Active,Auxiliary,1919-11-01,1940-08-01
+dd-clemson,USS Osmond Ingram,usn,Auxiliary,Active,1940-08-01,1943-12-01
+dd-clemson,USS Osmond Ingram,usn,Active,Auxiliary,1943-12-01,1944-06-01
+dd-clemson,USS Osmond Ingram,usn,Auxiliary,Scrapped,1944-06-01,1946-01-01
+dd-clemson,USS Bancroft,usn,Active,Sold,1919-06-01,1940-09-01
+dd-clemson,USS Welles,usn,Active,Sold,1919-09-01,1940-09-01
+dd-clemson,USS Aulick,usn,Active,Sold,1919-07-01,1940-10-01
+dd-clemson,USS Turner,usn,Active,Auxiliary,1919-09-01,1936-08-01
+dd-clemson,USS Gillis,usn,Active,Auxiliary,1919-09-01,1940-08-01
+dd-clemson,USS Gillis,usn,Auxiliary,Scrapped,1940-08-01,1945-11-01
+dd-clemson,USS Delphy,usn,Active,Sunk,1918-11-01,1923-09-08
+dd-clemson,USS McDermut,usn,Active,Scrapped,1919-03-01,1931-11-01
+dd-clemson,USS Laub,usn,Active,Sold,1919-03-01,1940-10-01
+dd-clemson,USS McLanahan,usn,Active,Sold,1919-04-01,1940-10-01
+dd-clemson,USS Edwards,usn,Active,Sold,1919-04-01,1940-10-01
+dd-clemson,USS Greene,usn,Active,Auxiliary,1919-05-01,1940-08-01
+dd-clemson,USS Greene,usn,Auxiliary,Active,1940-08-01,1943-12-01
+dd-clemson,USS Greene,usn,Active,Auxiliary,1943-12-01,1944-02-01
+dd-clemson,USS Greene,usn,Auxiliary,Sunk,1944-02-01,1945-10-09
+dd-clemson,USS Ballard,usn,Active,Auxiliary,1919-06-01,1940-08-01
+dd-clemson,USS Ballard,usn,Auxiliary,Scrapped,1940-08-01,1946-01-01
+dd-clemson,USS Shubrick,usn,Active,Sold,1919-07-01,1940-11-01
+dd-clemson,USS Bailey,usn,Active,Sold,1919-06-01,1940-11-01
+dd-clemson,USS Thornton,usn,Active,Auxiliary,1919-07-01,1940-08-01
+dd-clemson,USS Thornton,usn,Auxiliary,Scrapped,1940-08-01,1945-04-05
+dd-clemson,USS Morris,usn,Active,Scrapped,1919-07-01,1936-05-01
+dd-clemson,USS Tingey,usn,Active,Scrapped,1919-07-01,1936-05-01
+dd-clemson,USS Swasey,usn,Active,Sold,1919-08-01,1940-11-01
+dd-clemson,USS Meade,usn,Active,Sold,1919-09-01,1940-11-01
+dd-clemson,USS Sinclair,usn,Active,Scrapped,1919-10-01,1935-06-01
+dd-clemson,USS McCawley,usn,Active,Scrapped,1919-09-01,1930-08-01
+dd-clemson,USS Moody,usn,Active,Scrapped,1919-12-01,1930-11-01
+dd-clemson,USS Henshaw,usn,Active,Scrapped,1919-12-01,1930-07-01
+dd-clemson,USS Meyer,usn,Active,Scrapped,1919-12-01,1930-11-01
+dd-clemson,USS Doyen,usn,Active,Scrapped,1919-12-01,1930-07-01
+dd-clemson,USS Sharkey,usn,Active,Scrapped,1919-11-01,1930-10-01
+dd-clemson,USS Toucey,usn,Active,Scrapped,1919-12-01,1930-10-01
+dd-clemson,USS Breck,usn,Active,Scrapped,1919-12-01,1930-10-01
+dd-clemson,USS Isherwood,usn,Active,Scrapped,1919-12-01,1930-10-01
+dd-clemson,USS Case,usn,Active,Scrapped,1919-12-01,1930-10-01
+dd-clemson,USS Lardner,usn,Active,Scrapped,1919-12-01,1930-10-01
+dd-clemson,USS Putnam,usn,Active,Scrapped,1919-12-01,1930-10-01
+dd-clemson,USS Worden,usn,Active,Scrapped,1920-02-01,1930-10-01
+dd-clemson,USS Flusser,usn,Active,Scrapped,1920-02-01,1930-10-01
+dd-clemson,USS Dale,usn,Active,Scrapped,1920-02-01,1930-10-01
+dd-clemson,USS Converse,usn,Active,Scrapped,1920-04-01,1930-10-01
+dd-clemson,USS Reid,usn,Active,Scrapped,1919-12-01,1930-10-01
+dd-clemson,USS Billingsley,usn,Active,Scrapped,1920-03-01,1930-10-01
+dd-clemson,USS Charles Ausburn,usn,Active,Scrapped,1920-03-01,1930-10-01
+dd-clemson,USS Osborne,usn,Active,Scrapped,1920-05-01,1930-10-01
+dd-clemson,USS Chauncey,usn,Active,Sunk,1919-06-01,1923-09-08
+dd-clemson,USS Fuller,usn,Active,Sunk,1920-02-01,1923-09-08
+dd-clemson,USS Percival,usn,Active,Scrapped,1920-03-01,1930-11-01
+dd-clemson,USS John Francis Burnes,usn,Active,Scrapped,1920-05-01,1930-07-01
+dd-clemson,USS Farragut,usn,Active,Scrapped,1920-06-01,1930-07-01
+dd-clemson,USS Somers,usn,Active,Scrapped,1920-06-01,1930-11-01
+dd-clemson,USS Stoddert,usn,Active,Scrapped,1920-06-01,1935-06-01
+dd-clemson,USS Reno,usn,Active,Scrapped,1920-07-01,1930-07-01
+dd-clemson,USS Farquhar,usn,Active,Scrapped,1920-08-01,1930-11-01
+dd-clemson,USS Thompson,usn,Active,Scrapped,1920-08-01,1930-06-01
+dd-clemson,USS Kennedy,usn,Active,Scrapped,1920-08-01,1930-11-01
+dd-clemson,USS Paul Hamilton,usn,Active,Scrapped,1920-09-01,1930-07-01
+dd-clemson,USS William Jones,usn,Active,Scrapped,1920-09-01,1930-08-01
+dd-clemson,USS Woodbury,usn,Active,Sunk,1920-10-01,1923-09-08
+dd-clemson,USS S. P. Lee,usn,Active,Sunk,1920-10-01,1923-09-08
+dd-clemson,USS Nicholas,usn,Active,Sunk,1920-11-01,1923-09-08
+dd-clemson,USS Young,usn,Active,Sunk,1920-11-01,1923-09-08
+dd-clemson,USS Zeilin,usn,Active,Scrapped,1920-12-01,1930-07-01
+dd-clemson,USS Yarborough,usn,Active,Scrapped,1920-12-01,1930-11-01
+dd-clemson,USS La Vallette,usn,Active,Scrapped,1920-12-01,1930-07-01
+dd-clemson,USS Sloat,usn,Active,Scrapped,1920-12-01,1935-01-01
+dd-clemson,USS Wood,usn,Active,Scrapped,1921-01-01,1930-07-01
+dd-clemson,USS Shirk,usn,Active,Scrapped,1921-02-01,1930-07-01
+dd-clemson,USS Kidder,usn,Active,Scrapped,1921-02-01,1930-07-01
+dd-clemson,USS Selfridge,usn,Active,Scrapped,1921-02-01,1930-11-01
+dd-clemson,USS Marcus,usn,Active,Scrapped,1921-02-01,1935-01-01
+dd-clemson,USS Mervine,usn,Active,Scrapped,1921-03-01,1930-11-01
+dd-clemson,USS Chase,usn,Active,Scrapped,1921-03-01,1930-08-01
+dd-clemson,USS Robert Smith,usn,Active,Scrapped,1921-03-01,1930-07-01
+dd-clemson,USS Mullany,usn,Active,Scrapped,1921-03-01,1930-11-01
+dd-clemson,USS Coghlan,usn,Active,Scrapped,1921-03-01,1930-10-01
+dd-clemson,USS Preston,usn,Active,Scrapped,1921-04-01,1931-11-01
+dd-clemson,USS Lamson,usn,Active,Scrapped,1921-04-01,1930-10-01
+dd-clemson,USS Bruce,usn,Active,Scrapped,1921-09-01,1931-11-01
+dd-clemson,USS Hull,usn,Active,Scrapped,1921-09-01,1930-07-01
+dd-clemson,USS MacDonough,usn,Active,Scrapped,1921-04-01,1930-07-01
+dd-clemson,USS Farenholt,usn,Active,Scrapped,1921-05-01,1930-07-01
+dd-clemson,USS Sumner,usn,Active,Scrapped,1921-05-01,1930-11-01
+dd-clemson,USS Corry,usn,Active,Scrapped,1921-05-01,1930-07-01
+dd-clemson,USS Melvin,usn,Active,Scrapped,1921-05-01,1930-07-01
+dd-clemson,USS Litchfield,usn,Active,Auxiliary,1920-05-01,1945-03-01
+dd-clemson,USS Zane,usn,Active,Auxiliary,1921-02-01,1940-11-01
+dd-clemson,USS Zane,usn,Auxiliary,Auxiliary,1940-11-01,1945-06-01
+dd-clemson,USS Wasmuth,usn,Active,Auxiliary,1921-12-01,1940-11-01
+dd-clemson,USS Wasmuth,usn,Auxiliary,Sunk,1940-11-01,1942-12-29
+dd-clemson,USS Trever,usn,Active,Auxiliary,1922-08-01,1940-11-01
+dd-clemson,USS Trever,usn,Auxiliary,Auxiliary,1940-11-01,1945-06-01
+dd-clemson,USS Perry,usn,Active,Auxiliary,1922-08-01,1940-11-01
+dd-clemson,USS Perry,usn,Auxiliary,Sunk,1940-11-01,1944-09-13
+dd-clemson,USS Decatur,usn,Active,Scrapped,1922-08-01,1945-08-01
+dd-clemson,USS Hulbert,usn,Active,Auxiliary,1920-10-01,1940-08-01
+dd-clemson,USS Hulbert,usn,Auxiliary,Active,1940-08-01,1943-12-01
+dd-clemson,USS Hulbert,usn,Active,Scrapped,1943-12-01,1945-11-01
+dd-clemson,USS Noa,usn,Active,Auxiliary,1921-02-01,1943-08-01
+dd-clemson,USS Noa,usn,Auxiliary,Sunk,1943-08-01,1944-09-12
+dd-clemson,USS William B. Preston,usn,Active,Auxiliary,1920-08-01,1940-08-01
+dd-clemson,USS William B. Preston,usn,Auxiliary,Scrapped,1940-08-01,1946-01-01
+dd-clemson,USS Preble,usn,Active,Auxiliary,1920-03-01,1937-06-01
+dd-clemson,USS Preble,usn,Auxiliary,Auxiliary,1937-06-01,1945-06-01
+dd-clemson,USS Sicard,usn,Active,Auxiliary,1920-06-01,1937-06-01
+dd-clemson,USS Sicard,usn,Auxiliary,Auxiliary,1937-06-01,1945-06-01
+dd-clemson,USS Pruitt,usn,Active,Auxiliary,1920-09-01,1937-06-01
+dd-clemson,USS Pruitt,usn,Auxiliary,Auxiliary,1937-06-01,1945-06-01
+dd-hatfield,USS Hatfield,usn,Active,Auxiliary,1920-04-01,1944-10-01
+dd-hatfield,USS Brooks,usn,Active,Auxiliary,1920-06-01,1942-10-01
+dd-hatfield,USS Brooks,usn,Auxiliary,Scrapped,1942-10-01,1945-01-06
+dd-hatfield,USS Gilmer,usn,Active,Auxiliary,1920-04-01,1942-10-01
+dd-hatfield,USS Gilmer,usn,Auxiliary,Scrapped,1942-10-01,1946-02-01
+dd-hatfield,USS Fox,usn,Active,Auxiliary,1920-05-01,1944-10-01
+dd-hatfield,USS Kane,usn,Active,Auxiliary,1920-06-01,1943-01-01
+dd-hatfield,USS Kane,usn,Auxiliary,Scrapped,1943-01-01,1946-02-01
+dd-hovey,USS Hovey,usn,Active,Auxiliary,1919-10-01,1940-11-01
+dd-hovey,USS Hovey,usn,Auxiliary,Sunk,1919-10-01,1945-01-07
+dd-hovey,USS Long,usn,Active,Auxiliary,1919-10-01,1940-11-01
+dd-hovey,USS Long,usn,Auxiliary,Sunk,1940-11-01,1945-01-06
+dd-farragut,USS Farragut,usn,Active,Scrapped,1934-06-01,1947-01-01
+dd-farragut,USS Dewey,usn,Active,Scrapped,1934-10-01,1945-11-01
+dd-farragut,USS Hull,usn,Active,Sunk,1935-01-01,1944-12-18
+dd-farragut,USS MacDonough,usn,Active,Scrapped,1935-03-01,1945-11-01
+dd-farragut,USS Worden,usn,Active,Sunk,1935-01-01,1943-01-12
+dd-farragut,USS Dale,usn,Active,Scrapped,1935-06-01,1945-11-01
+dd-farragut,USS Monaghan,usn,Active,Sunk,1935-04-01,1944-12-18
+dd-farragut,USS Aylwin,usn,Active,Scrapped,1935-03-01,1945-11-01
+dl-porter,USS Porter,usn,Active,Sunk,1936-08-01,1942-10-26
+dl-porter,USS Selfridge,usn,Active,Scrapped,1936-11-01,1945-11-01
+dl-porter,USS McDougal,usn,Active,Auxiliary,1936-12-01,1945-09-01
+dl-porter,USS Winslow,usn,Active,Auxiliary,1937-02-01,1945-09-01
+dl-porter,USS Phelps,usn,Active,Scrapped,1936-02-01,1947-01-01
+dl-porter,USS Clark,usn,Active,Scrapped,1936-05-01,1945-11-01
+dl-porter,USS Moffett,usn,Active,Scrapped,1936-08-01,1947-01-01
+dl-porter,USS Balch,usn,Active,Scrapped,1936-10-01,1945-11-01
+dd-mahan,USS Mahan,usn,Active,Sunk,1936-09-01,1944-12-07
+dd-mahan,USS Cummings,usn,Active,Scrapped,1936-11-01,1947-01-01
+dd-mahan,USS Drayton,usn,Active,Scrapped,1936-09-01,1945-10-01
+dd-mahan,USS Lamson,usn,Active,Target,1936-10-01,1946-07-25
+dd-mahan,USS Flusser,usn,Active,Scrapped,1936-10-01,1947-04-01
+dd-mahan,USS Reid,usn,Active,Sunk,1936-11-01,1944-12-11
+dd-mahan,USS Case,usn,Active,Scrapped,1936-09-01,1947-01-01
+dd-mahan,USS Conyngham,usn,Active,Scrapped,1936-11-01,1948-06-01
+dd-mahan,USS Cassin,usn,Active,Sunk,1936-08-01,1941-12-07
+dd-mahan,USS Cassin,usn,Active,Scrapped,1944-02-01,1947-01-01
+dd-mahan,USS Shaw,usn,Active,Scrapped,1936-09-01,1945-10-01
+dd-mahan,USS Tucker,usn,Active,Sunk,1936-07-01,1942-08-04
+dd-mahan,USS Downes,usn,Active,Sunk,1937-01-01,1941-12-07
+dd-mahan,USS Downes,usn,Active,Scrapped,1943-11-01,1947-01-01
+dd-mahan,USS Cushing,usn,Active,Sunk,1936-08-01,1942-11-13
+dd-mahan,USS Perkins,usn,Active,Sunk,1936-09-01,1943-11-29
+dd-mahan,USS Smith,usn,Active,Scrapped,1936-09-01,1947-02-01
+dd-mahan,USS Preston,usn,Active,Sunk,1936-10-01,1942-11-14
+dd-mahan,USS Dunlap,usn,Active,Scrapped,1937-06-01,1947-01-01
+dd-mahan,USS Fanning,usn,Active,Scrapped,1937-10-01,1947-01-01
+dd-grindley,USS Gridley,usn,Active,Scrapped,1937-06-01,1947-02-01
+dd-grindley,USS Craven,usn,Active,Scrapped,1937-09-01,1947-02-01
+dd-grindley,USS McCall,usn,Active,Scrapped,1938-06-01,1947-01-01
+dd-grindley,USS Maury,usn,Active,Scrapped,1938-08-01,1945-11-01
+dl-somers,USS Somers,usn,Active,Scrapped,1937-12-01,1947-01-01
+dl-somers,USS Warrington,usn,Active,Sunk,1938-02-01,1944-09-13
+dl-somers,USS Sampson,usn,Active,Scrapped,1938-08-01,1945-11-01
+dl-somers,USS Davis,usn,Active,Scrapped,1938-11-01,1945-11-01
+dl-somers,USS Jouett,usn,Active,Scrapped,1939-01-01,1945-11-01
+dd-bagley,USS Bagley,usn,Active,Scrapped,1937-06-01,1947-02-01
+dd-bagley,USS Blue,usn,Active,Sunk,1937-08-01,1942-08-22
+dd-bagley,USS Helm,usn,Active,Scrapped,1937-10-01,1947-02-01
+dd-bagley,USS Mugford,usn,Active,Target,1937-08-01,1946-08-29
+dd-bagley,USS Mugford,usn,Target,Sunk,1946-08-29,1948-04-05
+dd-bagley,USS Ralph Talbot,usn,Active,Target,1937-10-01,1946-08-29
+dd-bagley,USS Ralph Talbot,usn,Target,Sunk,1946-08-29,1948-03-08
+dd-bagley,USS Henley,usn,Active,Sunk,1937-08-01,1943-10-03
+dd-bagley,USS Patterson,usn,Active,Scrapped,1937-09-01,1947-02-01
+dd-bagley,USS Jarvis,usn,Active,Sunk,1937-10-01,1942-08-09
+dd-benham,USS Benham,usn,Active,Sunk,1939-02-01,1942-11-15
+dd-benham,USS Ellet,usn,Active,Scrapped,1939-02-01,1945-11-01
+dd-benham,USS Lang,usn,Active,Scrapped,1939-03-01,1945-11-01
+dd-benham,USS Mayrant,usn,Active,Target,1939-09-01,1946-08-28
+dd-benham,USS Mayrant,usn,Target,Sunk,1946-08-28,1948-04-04
+dd-benham,USS Trippe,usn,Active,Target,1939-11-01,1946-08-28
+dd-benham,USS Trippe,usn,Target,Sunk,1946-08-28,1948-02-03
+dd-benham,USS Rhind,usn,Active,Target,1939-11-01,1946-08-26
+dd-benham,USS Rhind,usn,Target,Sunk,1946-08-26,1948-03-22
+dd-benham,USS Rowan,usn,Active,Sunk,1939-09-01,1943-09-10
+dd-benham,USS Stack,usn,Active,Target,1939-11-01,1946-08-29
+dd-benham,USS Stack,usn,Target,Sunk,1946-08-29,1948-04-24
+dd-benham,USS Sterett,usn,Active,Scrapped,1939-08-01,1947-02-01
+dd-benham,USS Wilson,usn,Active,Target,1939-07-01,1946-08-29
+dd-benham,USS Wilson,usn,Target,Sunk,1946-08-29,1948-03-08
+dd-sims,USS Sims,usn,Active,Sunk,1939-08-01,1942-05-07
+dd-sims,USS Hughes,usn,Active,Target,1939-09-01,1946-08-28
+dd-sims,USS Hughes,usn,Target,Sunk,1946-08-28,1948-10-16
+dd-sims,USS Anderson,usn,Active,Target,1939-05-01,1946-08-28
+dd-sims,USS Anderson,usn,Target,Sunk,1946-08-28,1946-07-01
+dd-sims,USS Hammann,usn,Active,Sunk,1939-08-01,1942-06-06
+dd-sims,USS Mustin,usn,Active,Target,1939-09-01,1946-08-29
+dd-sims,USS Mustin,usn,Target,Sunk,1946-08-29,1948-04-18
+dd-sims,USS Russell,usn,Active,Scrapped,1939-11-01,1945-11-01
+dd-sims,USS O`Brien,usn,Active,Sunk,1940-03-01,1942-10-19
+dd-sims,USS Walke,usn,Active,Sunk,1940-04-01,1942-11-14
+dd-sims,USS Morris,usn,Active,Scrapped,1940-03-01,1945-04-06
+dd-sims,USS Roe,usn,Active,Scrapped,1940-01-01,1945-11-01
+dd-sims,USS Wainwright,usn,Active,Target,1940-04-01,1946-08-29
+dd-sims,USS Wainwright,usn,Target,Sunk,1946-08-29,1948-07-02
+dd-sims,USS Buck,usn,Active,Sunk,1940-05-01,1943-10-09
+dd-benson,USS Benson,usn,Active,Sold,1940-07-01,1954-02-01
+dd-benson,USS Mayo,usn,Active,Scrapped,1940-09-01,1970-12-01
+dd-benson,USS Madison,usn,Active,Scrapped,1940-08-01,1968-06-01
+dd-benson,USS Lansdale,usn,Active,Sunk,1940-09-01,1944-04-20
+dd-benson,USS Hilary P. Jones,usn,Active,Sold,1940-09-01,1954-02-01
+dd-benson,USS Charles F. Hughes,usn,Active,Scrapped,1940-10-01,1968-06-01
+dd-gleaves,USS Gleaves,usn,Active,Scrapped,1940-06-01,1969-11-01
+dd-gleaves,USS Niblack,usn,Active,Scrapped,1940-08-01,1968-07-01
+dd-gleaves,USS Livermore,usn,Active,Scrapped,1940-10-01,1956-07-01
+dd-gleaves,USS Eberle,usn,Active,Sold,1940-12-01,1951-01-01
+dd-gleaves,USS Plunkett,usn,Active,Sold,1940-07-01,1959-02-01
+dd-gleaves,USS Kearny,usn,Active,Scrapped,1940-09-01,1971-06-01
+dd-gleaves,USS Gwin,usn,Active,Sold,1941-01-01,1943-07-13
+dd-gleaves,USS Meredith,usn,Active,Sold,1941-03-01,1942-10-15
+dd-gleaves,USS Grayson,usn,Active,Scrapped,1941-04-01,1971-06-01
+dd-gleaves,USS Monssen,usn,Active,Sold,1941-03-01,1942-11-13
+dd-gleaves,USS Woolsey,usn,Active,Scrapped,1941-05-01,1971-07-01
+dd-gleaves,USS Ludlow,usn,Active,Sold,1941-03-01,1951-01-01
+dd-gleaves,USS Edison,usn,Active,Scrapped,1941-01-01,1966-04-01
+dd-gleaves,USS Ericsson,usn,Active,Scrapped,1941-03-01,1970-06-01
+dd-gleaves,USS Wilkes,usn,Active,Scrapped,1941-06-01,1971-03-01
+dd-gleaves,USS Nicholson,usn,Active,Sold,1941-06-01,1951-01-01
+dd-gleaves,USS Swanson,usn,Active,Scrapped,1941-05-01,1971-03-01
+dd-gleaves,USS Ingraham,usn,Active,Sunk,1941-07-01,1942-08-22
+dd-bristol,USS Bristol,usn,Active,Sunk,1941-10-01,1943-10-12
+dd-bristol,USS Ellyson,usn,Active,Auxiliary,1941-11-01,1944-11-01
+dd-bristol,USS Ellyson,usn,Auxiliary,Active,1944-11-01,1954-05-01
+dd-bristol,USS Ellyson,usn,Active,Sold,1954-05-01,1954-10-19
+dd-bristol,USS Hambleton,usn,Active,Auxiliary,1941-12-01,1944-11-01
+dd-bristol,USS Hambleton,usn,Auxiliary,Active,1944-11-01,1955-01-01
+dd-bristol,USS Hambleton,usn,Active,Scrapped,1955-01-01,1971-06-01
+dd-bristol,USS Rodman,usn,Active,Auxiliary,1942-01-01,1944-12-01
+dd-bristol,USS Rodman,usn,Auxiliary,Active,1944-12-01,1955-01-01
+dd-bristol,USS Rodman,usn,Active,Sold,1955-01-01,1955-07-01
+dd-bristol,USS Emmons,usn,Active,Auxiliary,1941-12-01,1944-11-01
+dd-bristol,USS Emmons,usn,Auxiliary,Sunk,1944-11-01,1945-04-06
+dd-bristol,USS Macomb,usn,Active,Auxiliary,1942-01-01,1944-11-01
+dd-bristol,USS Macomb,usn,Auxiliary,Active,1944-11-01,1954-05-01
+dd-bristol,USS Macomb,usn,Active,Sold,1954-05-01,1954-10-01
+dd-bristol,USS Forrest,usn,Active,Auxiliary,1942-01-01,1944-11-01
+dd-bristol,USS Forrest,usn,Auxiliary,Scrapped,1944-11-01,1945-12-01
+dd-bristol,USS Fitch,usn,Active,Auxiliary,1942-02-01,1944-11-01
+dd-bristol,USS Fitch,usn,Auxiliary,Active,1944-11-01,1955-07-01
+dd-bristol,USS Fitch,usn,Active,Scrapped,1955-07-01,1971-07-01
+dd-bristol,USS Corry,usn,Active,Sunk,1941-12-01,1944-06-06
+dd-bristol,USS Hobson,usn,Active,Auxiliary,1942-01-01,1944-11-01
+dd-bristol,USS Hobson,usn,Auxiliary,Sunk,1944-11-01,1952-04-26
+dd-bristol,USS Aaron Ward,usn,Active,Sunk,1942-03-01,1943-04-07
+dd-bristol,USS Buchanan,usn,Active,Sold,1942-03-01,1949-04-01
+dd-bristol,USS Duncan,usn,Active,Sunk,1942-04-01,1942-10-12
+dd-bristol,USS Lansdowne,usn,Active,Sold,1942-04-01,1949-04-01
+dd-bristol,USS Lardner,usn,Active,Sold,1942-05-01,1949-04-01
+dd-bristol,USS McCalla,usn,Active,Sold,1942-05-01,1949-04-01
+dd-bristol,USS Mervine,usn,Active,Auxiliary,1942-06-01,1945-05-01
+dd-bristol,USS Mervine,usn,Auxiliary,Active,1945-05-01,1955-07-01
+dd-bristol,USS Mervine,usn,Active,Scrapped,1955-07-01,1968-07-01
+dd-bristol,USS Quick,usn,Active,Auxiliary,1942-07-01,1945-06-01
+dd-bristol,USS Quick,usn,Auxiliary,Active,1945-06-01,1955-07-01
+dd-bristol,USS Quick,usn,Active,Scrapped,1955-07-01,1972-01-01
+dd-bristol,USS Carmick,usn,Active,Auxiliary,1942-12-01,1945-06-01
+dd-bristol,USS Carmick,usn,Auxiliary,Active,1945-06-01,1955-07-01
+dd-bristol,USS Carmick,usn,Active,Scrapped,1955-07-01,1971-07-01
+dd-bristol,USS Doyle,usn,Active,Auxiliary,1943-01-01,1945-06-01
+dd-bristol,USS Doyle,usn,Auxiliary,Active,1945-06-01,1955-07-01
+dd-bristol,USS Doyle,usn,Active,Scrapped,1955-07-01,1970-12-01
+dd-bristol,USS Endicott,usn,Active,Auxiliary,1943-02-01,1945-05-01
+dd-bristol,USS Endicott,usn,Auxiliary,Active,1945-05-01,1955-07-01
+dd-bristol,USS Endicott,usn,Active,Scrapped,1955-07-01,1969-11-01
+dd-bristol,USS McCook,usn,Active,Auxiliary,1943-03-01,1972-01-01
+dd-bristol,USS McCook,usn,Auxiliary,Active,1943-03-01,1972-01-01
+dd-bristol,USS McCook,usn,Active,Scrapped,1943-03-01,1972-01-01
+dd-bristol,USS Frankford,usn,Active,Scrapped,1943-03-01,1971-06-01
+dd-bristol,USS Davison,usn,Active,Auxiliary,1942-09-01,1945-06-01
+dd-bristol,USS Davison,usn,Auxiliary,Active,1945-06-01,1955-07-01
+dd-bristol,USS Davison,usn,Active,Scrapped,1955-07-01,1972-01-01
+dd-bristol,USS Edwards,usn,Active,Scrapped,1942-09-01,1971-07-01
+dd-bristol,USS Glennon,usn,Active,Sunk,1942-10-01,1944-06-10
+dd-bristol,USS Jeffers,usn,Active,Auxiliary,1942-11-01,1944-11-01
+dd-bristol,USS Jeffers,usn,Auxiliary,Active,1944-11-01,1955-07-01
+dd-bristol,USS Jeffers,usn,Active,Scrapped,1955-07-01,1971-07-01
+dd-bristol,USS Maddox,usn,Active,Sunk,1942-10-01,1943-07-10
+dd-bristol,USS Nelson,usn,Active,Scrapped,1942-11-01,1968-03-01
+dd-bristol,USS Baldwin,usn,Active,Sunk,1943-04-01,1961-04-19
+dd-bristol,USS Harding,usn,Active,Auxiliary,1943-05-01,1944-11-01
+dd-bristol,USS Harding,usn,Auxiliary,Scrapped,1944-11-01,1945-04-06
+dd-bristol,USS Satterlee,usn,Active,Scrapped,1943-07-01,1970-12-01
+dd-bristol,USS Thompson,usn,Active,Auxiliary,1943-07-01,1945-05-01
+dd-bristol,USS Thompson,usn,Auxiliary,Active,1945-05-01,1955-07-01
+dd-bristol,USS Thompson,usn,Active,Scrapped,1955-07-01,1971-07-01
+dd-bristol,USS Welles,usn,Active,Scrapped,1943-08-01,1968-03-01
+dd-bristol,USS Cowie,usn,Active,Auxiliary,1942-07-01,1945-05-01
+dd-bristol,USS Cowie,usn,Auxiliary,Active,1945-05-01,1955-07-01
+dd-bristol,USS Cowie,usn,Active,Scrapped,1955-07-01,1970-12-01
+dd-bristol,USS Knight,usn,Active,Auxiliary,1942-06-01,1945-06-01
+dd-bristol,USS Knight,usn,Auxiliary,Active,1945-06-01,1955-07-01
+dd-bristol,USS Knight,usn,Active,Scrapped,1955-07-01,1967-06-01
+dd-bristol,USS Doran,usn,Active,Auxiliary,1942-08-01,1945-05-01
+dd-bristol,USS Doran,usn,Auxiliary,Active,1945-05-01,1955-07-01
+dd-bristol,USS Doran,usn,Active,Scrapped,1955-07-01,1972-01-01
+dd-bristol,USS Earle,usn,Active,Auxiliary,1942-09-01,1945-06-01
+dd-bristol,USS Earle,usn,Auxiliary,Active,1945-06-01,1955-07-01
+dd-bristol,USS Earle,usn,Active,Scrapped,1955-07-01,1969-12-01
+dd-bristol,USS Butler,usn,Active,Auxiliary,1942-08-01,1944-11-01
+dd-bristol,USS Butler,usn,Auxiliary,Scrapped,1944-11-01,1945-05-25
+dd-bristol,USS Gherardi,usn,Active,Auxiliary,1942-09-01,1944-11-01
+dd-bristol,USS Gherardi,usn,Auxiliary,Active,1944-11-01,1955-07-01
+dd-bristol,USS Gherardi,usn,Active,Scrapped,1955-07-01,1971-06-01
+dd-bristol,USS Herndon,usn,Active,Scrapped,1942-12-01,1971-07-01
+dd-bristol,USS Shubrick,usn,Active,Scrapped,1943-02-01,1945-05-28
+dd-bristol,USS Beatty,usn,Active,Sunk,1942-05-01,1943-11-06
+dd-bristol,USS Tillman,usn,Active,Scrapped,1942-06-01,1970-06-01
+dd-bristol,USS Stevenson,usn,Active,Scrapped,1942-12-01,1968-06-01
+dd-bristol,USS Stockton,usn,Active,Scrapped,1943-01-01,1971-07-01
+dd-bristol,USS Thorn,usn,Active,Scrapped,1943-03-01,1971-07-01
+dd-bristol,USS Turner,usn,Active,Sunk,1943-04-01,1944-01-03
+dd-bristol,USS Laffey,usn,Active,Sunk,1942-03-01,1942-11-13
+dd-bristol,USS Woodworth,usn,Active,Sold,1942-04-01,1951-05-01
+dd-bristol,USS Farenholt,usn,Active,Scrapped,1942-04-01,1971-06-01
+dd-bristol,USS Bailey,usn,Active,Scrapped,1942-05-01,1968-06-01
+dd-bristol,USS Bancroft,usn,Active,Scrapped,1942-04-01,1971-06-01
+dd-bristol,USS Barton,usn,Active,Sunk,1942-05-01,1942-11-13
+dd-bristol,USS Boyle,usn,Active,Scrapped,1942-08-01,1971-06-01
+dd-bristol,USS Champlin,usn,Active,Scrapped,1942-09-01,1971-01-01
+dd-bristol,USS Meade,usn,Active,Scrapped,1942-06-01,1971-06-01
+dd-bristol,USS Murphy,usn,Active,Scrapped,1942-07-01,1970-11-01
+dd-bristol,USS Parker,usn,Active,Scrapped,1942-08-01,1971-07-01
+dd-bristol,USS Caldwell,usn,Active,Scrapped,1942-06-01,1965-05-01
+dd-bristol,USS Coghlan,usn,Active,Scrapped,1942-07-01,1971-07-01
+dd-bristol,USS Frazier,usn,Active,Scrapped,1942-07-01,1971-07-01
+dd-bristol,USS Gansevoort,usn,Active,Scrapped,1942-08-01,1971-07-01
+dd-bristol,USS Gillespie,usn,Active,Scrapped,1942-09-01,1971-07-01
+dd-bristol,USS Hobby,usn,Active,Scrapped,1942-11-01,1971-07-01
+dd-bristol,USS Kalk,usn,Active,Scrapped,1942-10-01,1968-06-01
+dd-bristol,USS Kendrick,usn,Active,Scrapped,1942-09-01,1966-05-01
+dd-bristol,USS Laub,usn,Active,Scrapped,1942-10-01,1971-07-01
+dd-bristol,USS Mackenzie,usn,Active,Scrapped,1942-11-01,1971-07-01
+dd-bristol,USS McLanahan,usn,Active,Scrapped,1942-12-01,1971-07-01
+dd-bristol,USS Nields,usn,Active,Scrapped,1943-01-01,1970-09-01
+dd-bristol,USS Ordronaux,usn,Active,Scrapped,1943-02-01,1971-07-01
+dd-fletcher,USS Fletcher,usn,Active,Scrapped,1942-06-01,1967-08-01
+dd-fletcher,USS Radford,usn,Active,Scrapped,1942-07-01,1969-07-15
+dd-fletcher,USS Jenkins,usn,Active,Scrapped,1942-07-01,1969-07-01
+dd-fletcher,USS La Vallette,usn,Active,Scrapped,1942-08-01,1974-02-01
+dd-fletcher,USS Nicholas,usn,Active,Scrapped,1942-06-01,1970-01-01
+dd-fletcher,USS O`Bannon,usn,Active,Scrapped,1942-06-01,1970-01-01
+dd-fletcher,USS Chevalier,usn,Active,Sunk,1942-07-01,1943-10-07
+dd-fletcher,USS Saufley,usn,Active,Scrapped,1942-08-01,1966-09-01
+dd-fletcher,USS Waller,usn,Active,Scrapped,1942-10-01,1969-07-01
+dd-fletcher,USS Strong,usn,Active,Sunk,1942-08-01,1943-07-05
+dd-fletcher,USS Taylor,usn,Active,Sold,1942-08-01,1969-07-01
+dd-fletcher,USS De Haven,usn,Active,Sunk,1942-09-01,1943-02-01
+dd-fletcher,USS Bache,usn,Active,Scrapped,1942-11-01,1968-03-01
+dd-fletcher,USS Beale,usn,Active,Scrapped,1942-12-01,1968-10-01
+dd-fletcher,USS Guest,usn,Active,Sold,1942-12-01,1959-06-01
+dd-fletcher,USS Bennett,usn,Active,Sold,1943-02-01,1959-12-01
+dd-fletcher,USS Fullam,usn,Active,Scrapped,1943-03-01,1962-06-01
+dd-fletcher,USS Hudson,usn,Active,Scrapped,1943-03-01,1972-12-01
+dd-fletcher,USS Hutchins,usn,Active,Scrapped,1942-11-01,1945-12-01
+dd-fletcher,USS Pringle,usn,Active,Sunk,1942-09-01,1945-05-03
+dd-fletcher,USS Stanly,usn,Active,Scrapped,1942-10-01,1970-12-01
+dd-fletcher,USS Stevens,usn,Active,Scrapped,1943-02-01,1972-12-01
+dd-fletcher,USS Halford,usn,Active,Scrapped,1943-04-01,1968-05-01
+dd-fletcher,USS Leutze,usn,Active,Scrapped,1943-03-01,1945-04-06
+dd-fletcher,USS Philip,usn,Active,Scrapped,1942-11-01,1968-10-01
+dd-fletcher,USS Renshaw,usn,Active,Scrapped,1942-12-01,1970-01-01
+dd-fletcher,USS Ringgold,usn,Active,Sold,1942-12-01,1959-07-01
+dd-fletcher,USS Schroeder,usn,Active,Scrapped,1943-01-01,1972-10-01
+dd-fletcher,USS Sigsbee,usn,Active,Scrapped,1943-01-01,1974-12-01
+dd-fletcher,USS Conway,usn,Active,Scrapped,1942-10-01,1969-11-01
+dd-fletcher,USS Cony,usn,Active,Scrapped,1942-10-01,1969-07-01
+dd-fletcher,USS Converse,usn,Active,Sold,1942-11-01,1959-07-01
+dd-fletcher,USS Eaton,usn,Active,Scrapped,1942-12-01,1969-07-01
+dd-fletcher,USS Foote,usn,Active,Scrapped,1942-12-01,1972-10-01
+dd-fletcher,USS Spence,usn,Active,Sunk,1943-01-01,1944-12-18
+dd-fletcher,USS Terry,usn,Active,Scrapped,1943-01-01,1974-04-01
+dd-fletcher,USS Thatcher,usn,Active,Scrapped,1943-02-01,1945-12-01
+dd-fletcher,USS Anthony,usn,Active,Sold,1943-02-01,1958-01-01
+dd-fletcher,USS Wadsworth,usn,Active,Sold,1943-03-01,1959-10-01
+dd-fletcher,USS Walker,usn,Active,Sold,1943-04-01,1969-07-01
+dd-fletcher,USS Brownson,usn,Active,Sunk,1943-02-01,1943-12-26
+dd-fletcher,USS Daly,usn,Active,Scrapped,1943-03-01,1974-12-01
+dd-fletcher,USS Isherwood,usn,Active,Sold,1943-04-01,1960-12-01
+dd-fletcher,USS Kimberly,usn,Active,Sold,1943-05-01,1967-06-01
+dd-fletcher,USS Luce,usn,Active,Sunk,1943-06-01,1945-05-03
+dd-fletcher,USS Abner Read,usn,Active,Sunk,1943-02-01,1944-11-01
+dd-fletcher,USS Ammen,usn,Active,Scrapped,1943-03-01,1960-10-01
+dd-fletcher,USS Mullany,usn,Active,Sold,1943-04-01,1971-10-01
+dd-fletcher,USS Bush,usn,Active,Sunk,1943-05-01,1945-04-06
+dd-fletcher,USS Trathen,usn,Active,Scrapped,1943-05-01,1972-11-01
+dd-fletcher,USS Hazelwood,usn,Active,Scrapped,1943-06-01,1974-12-01
+dd-fletcher,USS Heermann,usn,Active,Sold,1943-07-01,1961-08-01
+dd-fletcher,USS Hoel,usn,Active,Sunk,1943-07-01,1944-10-25
+dd-fletcher,USS McCord,usn,Active,Scrapped,1943-08-01,1972-10-01
+dd-fletcher,USS Miller,usn,Active,Scrapped,1943-08-01,1974-12-01
+dd-fletcher,USS Owen,usn,Active,Scrapped,1943-09-01,1973-04-01
+dd-fletcher,USS The Sullivans,usn,Active,Scrapped,1943-09-01,1974-12-01
+dd-fletcher,USS Stephen Potter,usn,Active,Scrapped,1943-10-01,1972-12-01
+dd-fletcher,USS Tingey,usn,Active,Scrapped,1943-11-01,1965-11-01
+dd-fletcher,USS Twining,usn,Active,Sold,1943-12-01,1971-10-01
+dd-fletcher,USS Yarnall,usn,Active,Sold,1943-12-01,1968-06-01
+dd-fletcher,USS Boyd,usn,Active,Sold,1943-05-01,1969-10-01
+dd-fletcher,USS Bradford,usn,Active,Sold,1943-06-01,1962-09-01
+dd-fletcher,USS Brown,usn,Active,Sold,1943-07-01,1962-09-01
+dd-fletcher,USS Cowell,usn,Active,Sold,1943-08-01,1971-08-01
+dd-fletcher,USS Capps,usn,Active,Sold,1943-06-01,1957-05-01
+dd-fletcher,USS David W. Taylor,usn,Active,Sold,1943-06-01,1957-05-01
+dd-fletcher,USS Evans,usn,Active,Scrapped,1943-12-01,1945-11-01
+dd-fletcher,USS John D. Henley,usn,Active,Scrapped,1943-12-01,1968-05-01
+dd-fletcher,USS Franks,usn,Active,Scrapped,1943-06-01,1974-12-01
+dd-fletcher,USS Haggard,usn,Active,Scrapped,1943-08-01,1945-04-29
+dd-fletcher,USS Hailey,usn,Active,Sold,1943-09-01,1961-07-01
+dd-fletcher,USS Johnston,usn,Active,Sunk,1943-10-01,1944-10-24
+dd-fletcher,USS Laws,usn,Active,Scrapped,1943-11-01,1973-04-01
+dd-fletcher,USS Longshaw,usn,Active,Sunk,1943-12-01,1945-05-18
+dd-fletcher,USS Morrison,usn,Active,Sunk,1943-12-01,1945-05-03
+dd-fletcher,USS Prichett,usn,Active,Sold,1944-01-01,1970-01-01
+dd-fletcher,USS Robinson,usn,Active,Scrapped,1944-01-01,1974-12-01
+dd-fletcher,USS Ross,usn,Active,Scrapped,1944-02-01,1974-12-01
+dd-fletcher,USS Rowe,usn,Active,Scrapped,1944-03-01,1974-12-01
+dd-fletcher,USS Smalley,usn,Active,Scrapped,1944-03-01,1965-04-01
+dd-fletcher,USS Stoddard,usn,Active,Scrapped,1944-04-01,1975-06-01
+dd-fletcher,USS Watts,usn,Active,Scrapped,1944-04-01,1974-02-01
+dd-fletcher,USS Wren,usn,Active,Scrapped,1944-05-01,1974-12-01
+dd-fletcher,USS Aulick,usn,Active,Sold,1942-10-01,1959-08-01
+dd-fletcher,USS Charles Ausburne,usn,Active,Sold,1942-11-01,1960-04-01
+dd-fletcher,USS Claxton,usn,Active,Sold,1942-12-01,1959-12-01
+dd-fletcher,USS Dyson,usn,Active,Sold,1942-12-01,1960-12-01
+dd-fletcher,USS Harrison,usn,Active,Sold,1943-01-01,1968-05-01
+dd-fletcher,USS John Rodgers,usn,Active,Sold,1943-02-01,1968-05-01
+dd-fletcher,USS McKee,usn,Active,Scrapped,1943-03-01,1972-10-01
+dd-fletcher,USS Murray,usn,Active,Scrapped,1943-04-01,1965-06-01
+dd-fletcher,USS Sproston,usn,Active,Scrapped,1943-05-01,1968-10-01
+dd-fletcher,USS Wickes,usn,Active,Scrapped,1943-06-01,1972-11-01
+dd-fletcher,USS William D. Porter,usn,Active,Sunk,1943-07-01,1945-06-10
+dd-fletcher,USS Young,usn,Active,Scrapped,1943-07-01,1968-05-01
+dd-fletcher,USS Charrette,usn,Active,Sold,1943-05-01,1959-06-01
+dd-fletcher,USS Conner,usn,Active,Sold,1943-06-01,1959-09-01
+dd-fletcher,USS Hall,usn,Active,Sold,1943-07-01,1960-02-01
+dd-fletcher,USS Halligan,usn,Active,Sunk,1943-08-01,1945-03-26
+dd-fletcher,USS Haraden,usn,Active,Scrapped,1943-09-01,1972-11-01
+dd-fletcher,USS Newcomb,usn,Active,Scrapped,1943-11-01,1945-04-06
+dd-fletcher,USS Bell,usn,Active,Scrapped,1943-03-01,1972-11-01
+dd-fletcher,USS Burns,usn,Active,Scrapped,1943-04-01,1972-11-01
+dd-fletcher,USS Izard,usn,Active,Scrapped,1943-05-01,1968-05-01
+dd-fletcher,USS Paul Hamilton,usn,Active,Scrapped,1943-10-01,1968-05-01
+dd-fletcher,USS Twiggs,usn,Active,Sunk,1943-11-01,1945-06-16
+dd-fletcher,USS Howorth,usn,Active,Scrapped,1944-04-01,1962-03-01
+dd-fletcher,USS Killen,usn,Active,Scrapped,1944-05-01,1963-01-01
+dd-fletcher,USS Hart,usn,Active,Scrapped,1944-11-01,1973-04-01
+dd-fletcher,USS Metcalfe,usn,Active,Scrapped,1944-11-01,1971-01-01
+dd-fletcher,USS Shields,usn,Active,Sold,1945-02-01,1972-07-01
+dd-fletcher,USS Wiley,usn,Active,Scrapped,1945-02-01,1968-05-01
+dd-fletcher,USS Abbot,usn,Active,Scrapped,1943-04-01,1974-12-01
+dd-fletcher,USS Braine,usn,Active,Sold,1943-05-01,1961-08-01
+dd-fletcher,USS Erben,usn,Active,Sold,1943-05-01,1963-05-01
+dd-fletcher,USS Hale,usn,Active,Sold,1943-06-01,1960-12-01
+dd-fletcher,USS Sigourney,usn,Active,Scrapped,1943-06-01,1974-12-01
+dd-fletcher,USS Stembel,usn,Active,Sold,1943-07-01,1961-08-01
+dd-fletcher,USS Albert W. Grant,usn,Active,Scrapped,1943-11-01,1971-04-01
+dd-fletcher,USS Caperton,usn,Active,Scrapped,1943-07-01,1974-12-01
+dd-fletcher,USS Cogswell,usn,Active,Sold,1943-08-01,1969-10-01
+dd-fletcher,USS Ingersoll,usn,Active,Scrapped,1943-08-01,1970-01-01
+dd-fletcher,USS Knapp,usn,Active,Scrapped,1943-09-01,1972-03-01
+dd-fletcher,USS Bearss,usn,Active,Scrapped,1944-04-01,1974-12-01
+dd-fletcher,USS John Hood,usn,Active,Scrapped,1944-07-01,1974-12-01
+dd-fletcher,USS Van Valkenburgh,usn,Active,Sold,1944-08-01,1967-02-01
+dd-fletcher,USS Charles J. Badger,usn,Active,Scrapped,1943-07-01,1974-01-01
+dd-fletcher,USS Colahan,usn,Active,Scrapped,1943-08-01,1966-08-01
+dd-fletcher,USS Dashiell,usn,Active,Scrapped,1943-03-01,1974-12-01
+dd-fletcher,USS Bullard,usn,Active,Scrapped,1943-04-01,1972-12-01
+dd-fletcher,USS Kidd,usn,Active,Scrapped,1943-04-01,1974-12-01
+dd-fletcher,USS Bennion,usn,Active,Scrapped,1943-12-01,1971-04-01
+dd-fletcher,USS Heywood L. Edwards,usn,Active,Sold,1944-01-01,1959-03-01
+dd-fletcher,USS Richard P. Leary,usn,Active,Sold,1944-02-01,1959-03-01
+dd-fletcher,USS Bryant,usn,Active,Scrapped,1943-12-01,1968-06-01
+dd-fletcher,USS Black,usn,Active,Scrapped,1943-05-01,1969-09-01
+dd-fletcher,USS Chauncey,usn,Active,Scrapped,1943-05-01,1972-10-01
+dd-fletcher,USS Clarence K. Bronson,usn,Active,Sold,1943-06-01,1967-01-01
+dd-fletcher,USS Cotten,usn,Active,Scrapped,1943-07-01,1974-12-01
+dd-fletcher,USS Dortch,usn,Active,Sold,1943-08-01,1961-08-01
+dd-fletcher,USS Gatling,usn,Active,Scrapped,1943-08-01,1974-12-01
+dd-fletcher,USS Healy,usn,Active,Scrapped,1943-09-01,1974-12-01
+dd-fletcher,USS Hickox,usn,Active,Sold,1943-09-01,1968-11-01
+dd-fletcher,USS Hunt,usn,Active,Scrapped,1943-09-01,1974-12-01
+dd-fletcher,USS Lewis Hancock,usn,Active,Sold,1943-09-01,1967-08-01
+dd-fletcher,USS Marshall,usn,Active,Scrapped,1943-10-01,1969-07-01
+dd-fletcher,USS McDermut,usn,Active,Scrapped,1943-11-01,1965-04-01
+dd-fletcher,USS McGowan,usn,Active,Sold,1943-12-01,1960-11-01
+dd-fletcher,USS McNair,usn,Active,Scrapped,1944-01-01,1974-12-01
+dd-fletcher,USS Melvin,usn,Active,Scrapped,1943-11-01,1974-12-01
+dd-fletcher,USS Hopewell,usn,Active,Scrapped,1943-09-01,1970-01-01
+dd-fletcher,USS Porterfield,usn,Active,Scrapped,1943-10-01,1975-03-01
+dd-fletcher,USS Stockham,usn,Active,Scrapped,1944-02-01,1974-12-01
+dd-fletcher,USS Wedderburn,usn,Active,Scrapped,1944-03-01,1969-10-01
+dd-fletcher,USS Picking,usn,Active,Scrapped,1943-09-01,1975-03-01
+dd-fletcher,USS Halsey Powell,usn,Active,Sold,1943-10-01,1968-04-01
+dd-fletcher,USS Uhlmann,usn,Active,Scrapped,1943-11-01,1972-07-01
+dd-fletcher,USS Remey,usn,Active,Scrapped,1943-09-01,1974-12-01
+dd-fletcher,USS Wadleigh,usn,Active,Sold,1943-10-01,1962-07-01
+dd-fletcher,USS Norman Scott,usn,Active,Scrapped,1943-11-01,1973-04-01
+dd-fletcher,USS Mertz,usn,Active,Scrapped,1943-11-01,1970-10-01
+dd-fletcher,USS Callaghan,usn,Active,Sunk,1943-11-01,1945-07-28
+dd-fletcher,USS Cassin,usn,Active,Scrapped,1943-12-01,1974-12-01
+dd-fletcher,USS Irwin,usn,Active,Sold,1944-02-01,1968-05-01
+dd-fletcher,USS Preston,usn,Active,Sold,1944-03-01,1969-11-01
+dd-fletcher,USS Benham,usn,Active,Sold,1943-12-01,1961-10-01
+dd-fletcher,USS Cushing,usn,Active,Sold,1944-01-01,1961-07-01
+dd-fletcher,USS Monssen,usn,Active,Scrapped,1944-02-01,1963-02-01
+dd-fletcher,USS Jarvis,usn,Active,Sold,1944-06-01,1960-11-01
+dd-fletcher,USS Porter,usn,Active,Scrapped,1944-06-01,1972-10-01
+dd-fletcher,USS Colhoun,usn,Active,Sunk,1944-07-01,1945-04-06
+dd-fletcher,USS Gregory,usn,Active,Scrapped,1944-07-01,1966-05-01
+dd-fletcher,USS Little,usn,Active,Sunk,1944-08-01,1945-05-03
+dd-fletcher,USS Rooks,usn,Active,Sold,1944-09-01,1962-07-01
+pf-asheville,USS Asheville,usn,Active,Sold,1942-12-01,1946-02-01
+pf-asheville,USS Natchez,usn,Active,Sold,1942-12-01,1947-07-01
+de-gmt,USS Evarts,usn,Active,Scrapped,1943-04-01,1945-10-01
+de-gmt,USS Wyffels,usn,Active,Sold,1943-04-01,1945-08-01
+de-gmt,USS Griswold,usn,Active,Scrapped,1943-04-01,1945-12-01
+de-gmt,USS Steele,usn,Active,Scrapped,1943-04-01,1945-12-01
+de-gmt,USS Carlson,usn,Active,Scrapped,1943-05-01,1946-01-01
+de-gmt,USS Bebas,usn,Active,Scrapped,1943-05-01,1945-11-01
+de-gmt,USS Crouter,usn,Active,Scrapped,1943-05-01,1945-12-01
+de-gmt,USS Brennan,usn,Active,Scrapped,1943-01-01,1945-10-01
+de-gmt,USS Doherty,usn,Active,Scrapped,1943-02-01,1946-01-01
+de-gmt,USS Austin,usn,Active,Scrapped,1943-05-01,1946-01-01
+de-gmt,USS Edgar G. Chase,usn,Active,Scrapped,1943-03-01,1945-11-01
+de-gmt,USS Edward C. Daly,usn,Active,Scrapped,1943-04-01,1946-01-01
+de-gmt,USS Gilmore,usn,Active,Scrapped,1943-04-01,1946-01-01
+de-gmt,USS Burden R. Hastings,usn,Active,Scrapped,1943-05-01,1945-11-01
+de-gmt,USS Le Hardy,usn,Active,Scrapped,1943-05-01,1945-11-01
+de-gmt,USS Harold C. Thomas,usn,Active,Scrapped,1943-05-01,1945-11-01
+de-gmt,USS Wileman,usn,Active,Scrapped,1943-06-01,1945-11-01
+de-gmt,USS Charles R. Greer,usn,Active,Scrapped,1943-06-01,1945-11-01
+de-gmt,USS Whitman,usn,Active,Scrapped,1943-07-01,1945-11-01
+de-gmt,USS Wintle,usn,Active,Scrapped,1943-07-01,1945-11-01
+de-gmt,USS Dempsey,usn,Active,Scrapped,1943-07-01,1945-11-01
+de-gmt,USS Duffy,usn,Active,Scrapped,1943-08-01,1945-11-01
+de-gmt,USS Emery,usn,Active,Scrapped,1943-08-01,1945-11-01
+de-gmt,USS Stadtfeld,usn,Active,Scrapped,1943-08-01,1945-11-01
+de-gmt,USS Martin,usn,Active,Scrapped,1943-09-01,1945-12-01
+de-gmt,USS Sederstrom,usn,Active,Scrapped,1943-09-01,1945-11-01
+de-gmt,USS Fleming,usn,Active,Scrapped,1943-09-01,1945-11-01
+de-gmt,USS Tisdale,usn,Active,Scrapped,1943-10-01,1945-11-01
+de-gmt,USS Eisele,usn,Active,Scrapped,1943-10-01,1945-11-01
+de-gmt,USS Fair,usn,Active,Scrapped,1943-10-01,1945-11-01
+de-gmt,USS Manlove,usn,Active,Scrapped,1943-11-01,1945-11-01
+de-gmt,USS Greiner,usn,Active,Scrapped,1943-08-01,1945-12-01
+de-gmt,USS Wyman,usn,Active,Scrapped,1943-09-01,1946-01-01
+de-gmt,USS Lovering,usn,Active,Scrapped,1943-09-01,1945-11-01
+de-gmt,USS Sanders,usn,Active,Scrapped,1943-10-01,1946-01-01
+de-gmt,USS Brackett,usn,Active,Scrapped,1943-10-01,1945-12-01
+de-gmt,USS Reynolds,usn,Active,Scrapped,1943-11-01,1945-12-01
+de-gmt,USS Mitchell,usn,Active,Scrapped,1943-11-01,1945-12-01
+de-gmt,USS Donaldson,usn,Active,Scrapped,1943-12-01,1945-12-01
+de-gmt,USS Andres,usn,Active,Scrapped,1943-03-01,1945-11-01
+de-gmt,USS Decker,usn,Active,Sold,1943-05-01,1945-08-01
+de-gmt,USS Dobler,usn,Active,Scrapped,1943-05-01,1945-10-01
+de-gmt,USS Doneff,usn,Active,Scrapped,1943-06-01,1946-01-01
+de-gmt,USS Engstrom,usn,Active,Scrapped,1943-06-01,1946-01-01
+de-gmt,USS Seid,usn,Active,Scrapped,1943-06-01,1946-01-01
+de-gmt,USS Smartt,usn,Active,Scrapped,1943-06-01,1945-10-01
+de-gmt,USS Walter S. Brown,usn,Active,Scrapped,1943-06-01,1945-10-01
+de-gmt,USS William C. Miller,usn,Active,Scrapped,1943-07-01,1946-01-01
+de-gmt,USS Cabana,usn,Active,Scrapped,1943-07-01,1946-01-01
+de-gmt,USS Dionne,usn,Active,Scrapped,1943-07-01,1946-02-01
+de-gmt,USS Canfield,usn,Active,Scrapped,1943-07-01,1946-01-01
+de-gmt,USS Deede,usn,Active,Scrapped,1943-07-01,1946-01-01
+de-gmt,USS Eldon,usn,Active,Scrapped,1943-08-01,1946-02-01
+de-gmt,USS Cloues,usn,Active,Scrapped,1943-08-01,1945-12-01
+de-gmt,USS Lake,usn,Active,Scrapped,1944-02-01,1945-12-01
+de-gmt,USS Lyman,usn,Active,Scrapped,1944-02-01,1945-12-01
+de-gmt,USS Crowley,usn,Active,Scrapped,1944-03-01,1945-12-01
+de-gmt,USS Rall,usn,Active,Scrapped,1944-04-01,1946-01-01
+de-gmt,USS Halloran,usn,Active,Scrapped,1944-05-01,1945-11-01
+de-gmt,USS Connolly,usn,Active,Scrapped,1944-07-01,1945-12-01
+de-gmt,USS Finnegan,usn,Active,Scrapped,1944-08-01,1945-12-01
+de-gmt,USS O`Toole,usn,Active,Scrapped,1944-01-01,1945-11-01
+de-gmt,USS John J. Powers,usn,Active,Scrapped,1944-02-01,1945-11-01
+de-gmt,USS Mason,usn,Active,Scrapped,1944-03-01,1945-11-01
+de-gmt,USS John M. Bermingham,usn,Active,Scrapped,1944-04-01,1945-11-01
+de-fmr,USS Edsall,usn,Active,Scrapped,1943-04-01,1968-06-01
+de-fmr,USS Jacob Jones,usn,Active,Scrapped,1943-04-01,1971-01-01
+de-fmr,USS Hammann,usn,Active,Scrapped,1943-05-01,1972-10-01
+de-fmr,USS Robert E. Peary,usn,Active,Scrapped,1943-05-01,1966-07-01
+de-fmr,USS Pillsbury,usn,Active,Scrapped,1943-06-01,1965-07-01
+de-fmr,USS Pope,usn,Active,Scrapped,1943-06-01,1971-01-01
+de-fmr,USS Flaherty,usn,Active,Scrapped,1943-06-01,1965-04-01
+de-fmr,USS Frederick C. Davis,usn,Active,Sunk,1943-07-01,1945-04-24
+de-fmr,USS Herbert C. Jones,usn,Active,Scrapped,1943-07-01,1972-07-01
+de-fmr,USS Douglas L. Howard,usn,Active,Scrapped,1943-07-01,1972-10-01
+de-fmr,USS Farquhar,usn,Active,Scrapped,1943-08-01,1972-10-01
+de-fmr,USS J. R. Y. Blakely,usn,Active,Scrapped,1943-08-01,1971-01-01
+de-fmr,USS Hill,usn,Active,Scrapped,1943-08-01,1972-10-01
+de-fmr,USS Fessenden,usn,Active,Scrapped,1943-08-01,1966-09-01
+de-fmr,USS Fiske,usn,Active,Sunk,1943-08-01,1944-08-02
+de-fmr,USS Frost,usn,Active,Scrapped,1943-08-01,1965-04-01
+de-fmr,USS Huse,usn,Active,Scrapped,1943-08-01,1973-08-01
+de-fmr,USS Inch,usn,Active,Scrapped,1943-09-01,1972-10-01
+de-fmr,USS Blair,usn,Active,Scrapped,1943-09-01,1972-12-01
+de-fmr,USS Brough,usn,Active,Scrapped,1943-09-01,1965-11-01
+de-fmr,USS Chatelaine,usn,Active,Scrapped,1943-09-01,1973-08-01
+de-fmr,USS Neunzer,usn,Active,Scrapped,1943-09-01,1972-07-01
+de-fmr,USS Poole,usn,Active,Scrapped,1943-09-01,1971-01-01
+de-fmr,USS Peterson,usn,Active,Scrapped,1943-09-01,1973-08-01
+de-fmr,USS Stewart,usn,Active,Scrapped,1943-05-01,1972-10-01
+de-fmr,USS Sturtevant,usn,Active,Scrapped,1943-06-01,1972-12-01
+de-fmr,USS Moore,usn,Active,Scrapped,1943-07-01,1973-08-01
+de-fmr,USS Keith,usn,Active,Scrapped,1943-07-01,1972-11-01
+de-fmr,USS Tomich,usn,Active,Scrapped,1943-07-01,1972-11-01
+de-fmr,USS J. Richard Ward,usn,Active,Scrapped,1943-07-01,1971-01-01
+de-fmr,USS Otterstetter,usn,Active,Scrapped,1943-08-01,1974-08-01
+de-fmr,USS Sloat,usn,Active,Scrapped,1943-08-01,1971-01-01
+de-fmr,USS Snowden,usn,Active,Scrapped,1943-08-01,1968-09-01
+de-fmr,USS Stanton,usn,Active,Scrapped,1943-08-01,1970-12-01
+de-fmr,USS Swasey,usn,Active,Scrapped,1943-08-01,1972-11-01
+de-fmr,USS Marchand,usn,Active,Scrapped,1943-09-01,1971-01-01
+de-fmr,USS Hurst,usn,Active,Sold,1943-08-01,1972-12-01
+de-fmr,USS Camp,usn,Active,Sold,1943-09-01,1971-02-01
+de-fmr,USS Howard D. Crow,usn,Active,Scrapped,1943-09-01,1968-09-01
+de-fmr,USS Pettit,usn,Active,Scrapped,1943-09-01,1973-08-01
+de-fmr,USS Picketts,usn,Active,Scrapped,1943-10-01,1972-11-01
+de-fmr,USS Sellstrom,usn,Active,Scrapped,1943-10-01,1965-11-01
+de-fmr,USS Harveston,usn,Active,Scrapped,1943-10-01,1966-12-01
+de-fmr,USS Joyce,usn,Active,Scrapped,1943-09-01,1972-12-01
+de-fmr,USS Kirkpatrick,usn,Active,Scrapped,1943-10-01,1974-08-01
+de-fmr,USS Leopold,usn,Active,Sunk,1943-10-01,1944-03-10
+de-fmr,USS Menges,usn,Active,Scrapped,1943-10-01,1971-01-01
+de-fmr,USS Mosley,usn,Active,Scrapped,1943-10-01,1971-01-01
+de-fmr,USS Newell,usn,Active,Scrapped,1943-10-01,1968-09-01
+de-fmr,USS Pride,usn,Active,Scrapped,1943-11-01,1971-01-01
+de-fmr,USS Falgout,usn,Active,Scrapped,1943-11-01,1975-06-01
+de-fmr,USS Lowe,usn,Active,Scrapped,1943-11-01,1968-09-01
+de-fmr,USS Thomas J. Gary,usn,Active,Sold,1943-11-01,1973-10-01
+de-fmr,USS Brister,usn,Active,Scrapped,1943-11-01,1968-09-01
+de-fmr,USS Finch,usn,Active,Scrapped,1943-12-01,1974-02-01
+de-fmr,USS Kretchmer,usn,Active,Scrapped,1943-12-01,1973-10-01
+de-fmr,USS O`Reilly,usn,Active,Scrapped,1943-12-01,1971-01-01
+de-fmr,USS Koiner,usn,Active,Scrapped,1943-12-01,1968-09-01
+de-fmr,USS Price,usn,Active,Scrapped,1944-01-01,1974-08-01
+de-fmr,USS Strickland,usn,Active,Scrapped,1944-01-01,1972-12-01
+de-fmr,USS Forster,usn,Active,Scrapped,1944-01-01,1971-09-01
+de-fmr,USS Daniel,usn,Active,Scrapped,1944-01-01,1971-01-01
+de-fmr,USS Roy O. Hale,usn,Active,Scrapped,1944-02-01,1974-08-01
+de-fmr,USS Dale W. Peterson,usn,Active,Scrapped,1944-02-01,1971-01-01
+de-fmr,USS Martin H. Ray,usn,Active,Scrapped,1944-02-01,1966-05-01
+de-fmr,USS Ramsden,usn,Active,Scrapped,1943-10-01,1974-08-01
+de-fmr,USS Mills,usn,Active,Scrapped,1943-10-01,1974-08-01
+de-fmr,USS Rhodes,usn,Active,Scrapped,1943-10-01,1974-08-01
+de-fmr,USS Richey,usn,Active,Scrapped,1943-10-01,1968-06-01
+de-fmr,USS Savage,usn,Active,Scrapped,1943-10-01,1975-06-01
+de-fmr,USS Vance,usn,Active,Scrapped,1943-11-01,1975-06-01
+de-fmr,USS Lansing,usn,Active,Scrapped,1943-11-01,1974-02-01
+de-fmr,USS Durant,usn,Active,Scrapped,1943-11-01,1974-04-01
+de-fmr,USS Calcaterra,usn,Active,Scrapped,1943-11-01,1973-07-01
+de-fmr,USS Chambers,usn,Active,Scrapped,1943-11-01,1975-03-01
+de-fmr,USS Merrill,usn,Active,Scrapped,1943-11-01,1971-04-01
+de-fmr,USS Haverfield,usn,Active,Scrapped,1943-11-01,1969-06-01
+de-fmr,USS Swenning,usn,Active,Scrapped,1943-12-01,1972-07-01
+de-fmr,USS Willis,usn,Active,Scrapped,1943-12-01,1972-07-01
+de-fmr,USS Janssen,usn,Active,Scrapped,1943-12-01,1972-07-01
+de-fmr,USS Wilhoite,usn,Active,Scrapped,1943-12-01,1969-07-01
+de-fmr,USS Cockrill,usn,Active,Scrapped,1943-12-01,1973-08-01
+de-fmr,USS Stockdale,usn,Active,Scrapped,1943-12-01,1972-07-01
+de-fmr,USS Hissem,usn,Active,Scrapped,1944-01-01,1975-06-01
+de-fmr,USS Holder,usn,Active,Sunk,1944-01-01,1944-04-11
+de-te,USS Buckley,usn,Active,Scrapped,1943-04-01,1968-06-01
+de-te,USS Charles Lawrence,usn,Active,Auxiliary,1943-05-01,1944-01-01
+de-te,USS Charles Lawrence,usn,Auxiliary,Scrapped,1944-01-01,1964-09-01
+de-te,USS Daniel T. Griffin,usn,Active,Auxiliary,1943-06-01,1944-10-01
+de-te,USS Daniel T. Griffin,usn,Auxiliary,Sold,1944-10-01,1966-11-01
+de-te,USS Donnell,usn,Active,Auxiliary,1943-06-01,1944-05-03
+de-te,USS Fogg,usn,Active,Scrapped,1943-07-01,1965-01-01
+de-te,USS Foss,usn,Active,Scrapped,1943-07-01,1965-01-01
+de-te,USS Gantner,usn,Active,Auxiliary,1943-07-01,1945-02-01
+de-te,USS Gantner,usn,Auxiliary,Sold,1945-02-01,1966-01-01
+de-te,USS George W. Ingram,usn,Active,Auxiliary,1943-08-01,1945-02-01
+de-te,USS George W. Ingram,usn,Auxiliary,Sold,1945-02-01,1967-01-01
+de-te,USS Ira Jeffery,usn,Active,Auxiliary,1943-08-01,1945-02-01
+de-te,USS Ira Jeffery,usn,Auxiliary,Scrapped,1945-02-01,1960-06-01
+de-te,USS Lee Fox,usn,Active,Auxiliary,1943-08-01,1945-02-01
+de-te,USS Lee Fox,usn,Auxiliary,Scrapped,1945-02-01,1964-09-01
+de-te,USS Amesbury,usn,Active,Auxiliary,1943-08-01,1945-02-01
+de-te,USS Amesbury,usn,Auxiliary,Scrapped,1945-02-01,1960-06-01
+de-te,USS Bates,usn,Active,Auxiliary,1943-09-01,1944-07-01
+de-te,USS Bates,usn,Auxiliary,Sunk,1944-07-01,1945-05-25
+de-te,USS Blessman,usn,Active,Auxiliary,1943-09-01,1944-07-01
+de-te,USS Blessman,usn,Auxiliary,Sold,1944-07-01,1967-06-01
+de-te,USS Joseph E. Campbell,usn,Active,Auxiliary,1943-09-01,1944-07-01
+de-te,USS Joseph E. Campbell,usn,Auxiliary,Sold,1944-07-01,1966-11-01
+de-te,USS Reuben James,usn,Active,Scrapped,1943-04-01,1968-06-01
+de-te,USS Sims,usn,Active,Auxiliary,1943-04-01,1944-09-01
+de-te,USS Sims,usn,Auxiliary,Scrapped,1944-09-01,1960-06-01
+de-te,USS Hopping,usn,Active,Auxiliary,1943-05-01,1944-09-01
+de-te,USS Hopping,usn,Auxiliary,Scrapped,1944-09-01,1964-09-01
+de-te,USS Reeves,usn,Active,Auxiliary,1943-06-01,1944-09-01
+de-te,USS Reeves,usn,Auxiliary,Scrapped,1944-09-01,1960-06-01
+de-te,USS Fechteler,usn,Active,Sunk,1943-07-01,1944-05-04
+de-te,USS Chase,usn,Active,Auxiliary,1943-07-01,1944-11-01
+de-te,USS Chase,usn,Auxiliary,Scrapped,1944-11-01,1945-05-20
+de-te,USS Laning,usn,Active,Auxiliary,1943-08-01,1944-11-01
+de-te,USS Laning,usn,Auxiliary,Scrapped,1944-11-01,1975-03-01
+de-te,USS Loy,usn,Active,Auxiliary,1943-09-01,1944-10-01
+de-te,USS Loy,usn,Auxiliary,Scrapped,1944-10-01,1964-09-01
+de-te,USS Barber,usn,Active,Auxiliary,1943-10-01,1944-10-01
+de-te,USS Barber,usn,Auxiliary,Sold,1944-10-01,1968-11-01
+de-te,USS Lovelace,usn,Active,Scrapped,1943-11-01,1967-07-01
+de-te,USS Manning,usn,Active,Scrapped,1943-10-01,1968-07-01
+de-te,USS Neuendorf,usn,Active,Scrapped,1943-10-01,1967-07-01
+de-te,USS James E. Craig,usn,Active,Scrapped,1943-11-01,1968-06-01
+de-te,USS Eichenberger,usn,Active,Scrapped,1943-11-01,1972-12-01
+de-te,USS Thomason,usn,Active,Scrapped,1943-12-01,1968-06-01
+de-te,USS Jordan,usn,Active,Scrapped,1943-12-01,1945-09-18
+de-te,USS Newman,usn,Active,Auxiliary,1943-11-01,1944-07-01
+de-te,USS Newman,usn,Auxiliary,Scrapped,1944-07-01,1964-09-01
+de-te,USS Liddle,usn,Active,Auxiliary,1943-12-01,1944-07-01
+de-te,USS Liddle,usn,Auxiliary,Scrapped,1943-12-01,1967-04-01
+de-te,USS Kephart,usn,Active,Auxiliary,1944-01-01,1944-07-01
+de-te,USS Kephart,usn,Auxiliary,Sold,1944-07-01,1967-05-01
+de-te,USS Cofer,usn,Active,Auxiliary,1944-01-01,1944-07-01
+de-te,USS Cofer,usn,Auxiliary,Scrapped,1944-07-01,1966-04-01
+de-te,USS Lloyd,usn,Active,Auxiliary,1944-02-01,1944-07-01
+de-te,USS Lloyd,usn,Auxiliary,Scrapped,1944-07-01,1966-06-01
+de-te,USS Otter,usn,Active,Scrapped,1944-02-01,1969-11-01
+de-te,USS Joseph C. Hubbard,usn,Active,Auxiliary,1944-03-01,1945-06-01
+de-te,USS Joseph C. Hubbard,usn,Auxiliary,Scrapped,1945-06-01,1969-05-01
+de-te,USS Hayter,usn,Active,Auxiliary,1944-03-01,1945-06-01
+de-te,USS Hayter,usn,Auxiliary,Sold,1945-06-01,1966-12-01
+de-te,USS William T. Powell,usn,Active,Scrapped,1944-03-01,1965-11-01
+de-te,USS Scott,usn,Active,Scrapped,1943-07-01,1965-07-01
+de-te,USS Burke,usn,Active,Auxiliary,1943-07-01,1945-01-01
+de-te,USS Burke,usn,Auxiliary,Sold,1945-01-01,1968-06-01
+de-te,USS Enright,usn,Active,Auxiliary,1943-09-01,1945-01-01
+de-te,USS Enright,usn,Auxiliary,Sold,1945-01-01,1967-07-01
+de-te,USS Coolbaugh,usn,Active,Scrapped,1943-10-01,1972-07-01
+de-te,USS Darby,usn,Active,Scrapped,1943-11-01,1968-09-01
+de-te,USS J. Douglas Blackwood,usn,Active,Scrapped,1943-12-01,1970-01-01
+de-te,USS Francis M. Robinson,usn,Active,Scrapped,1944-01-01,1972-07-01
+de-te,USS Solar,usn,Active,Sunk,1944-02-01,1946-04-30
+de-te,USS Fowler,usn,Active,Scrapped,1944-03-01,1965-07-01
+de-te,USS Spangenberg,usn,Active,Scrapped,1944-03-01,1965-11-01
+de-te,USS Ahrens,usn,Active,Scrapped,1944-02-01,1965-04-01
+de-te,USS Barr,usn,Active,Auxiliary,1944-02-01,1944-10-01
+de-te,USS Barr,usn,Auxiliary,Scrapped,1944-10-01,1960-06-01
+de-te,USS Alexander J. Luke,usn,Active,Scrapped,1944-02-01,1970-05-01
+de-te,USS Robert I. Paine,usn,Active,Scrapped,1944-02-01,1968-06-01
+de-te,USS Foreman,usn,Active,Scrapped,1943-10-01,1965-11-01
+de-te,USS Whitehurst,usn,Active,Scrapped,1943-11-01,1969-07-01
+de-te,USS England,usn,Active,Scrapped,1943-12-01,1945-05-09
+de-te,USS Witter,usn,Active,Scrapped,1943-12-01,1945-04-06
+de-te,USS Bowers,usn,Active,Auxiliary,1944-01-01,1945-06-01
+de-te,USS Bowers,usn,Auxiliary,Sold,1945-06-01,1961-04-01
+de-te,USS Willmarth,usn,Active,Scrapped,1944-03-01,1966-12-01
+de-te,USS Gendreau,usn,Active,Scrapped,1944-03-01,1972-12-01
+de-te,USS Fieberling,usn,Active,Scrapped,1944-04-01,1972-03-01
+de-te,USS William C. Cole,usn,Active,Scrapped,1944-05-01,1972-03-01
+de-te,USS Paul G. Baker,usn,Active,Scrapped,1944-05-01,1969-12-01
+de-te,USS Damon M. Cummings,usn,Active,Scrapped,1944-06-01,1972-03-01
+de-te,USS Vammen,usn,Active,Scrapped,1944-07-01,1969-07-01
+de-te,USS Jenks,usn,Active,Scrapped,1944-06-01,1966-02-01
+de-te,USS Durik,usn,Active,Scrapped,1944-03-01,1965-06-01
+de-te,USS Wiseman,usn,Active,Scrapped,1944-04-01,1973-04-01
+de-te,USS Weber,usn,Active,Auxiliary,1943-06-01,1944-12-01
+de-te,USS Weber,usn,Auxiliary,Scrapped,1944-12-01,1960-06-01
+de-te,USS Schmitt,usn,Active,Auxiliary,1943-07-01,1945-01-01
+de-te,USS Schmitt,usn,Auxiliary,Sold,1945-01-01,1967-05-01
+de-te,USS Frament,usn,Active,Auxiliary,1943-08-01,1944-12-01
+de-te,USS Frament,usn,Auxiliary,Scrapped,1944-12-01,1960-01-01
+de-te,USS Harmon,usn,Active,Scrapped,1943-08-01,1965-08-01
+de-te,USS Greenwood,usn,Active,Scrapped,1943-09-01,1967-02-01
+de-te,USS Loeser,usn,Active,Scrapped,1943-10-01,1968-08-01
+de-te,USS Gillette,usn,Active,Scrapped,1943-10-01,1972-12-01
+de-te,USS Underhill,usn,Active,Sunk,1943-11-01,1945-07-24
+de-te,USS Henry R. Kenyon,usn,Active,Scrapped,1943-11-01,1969-12-01
+de-te,USS Bull,usn,Active,Auxiliary,1943-08-01,1944-07-01
+de-te,USS Bull,usn,Auxiliary,Sold,1944-07-01,1966-06-01
+de-te,USS Bunch,usn,Active,Auxiliary,1943-08-01,1944-07-01
+de-te,USS Bunch,usn,Auxiliary,Scrapped,1944-07-01,1964-04-01
+de-te,USS Rich,usn,Active,Sunk,1943-10-01,1944-06-08
+de-te,USS Spangler,usn,Active,Scrapped,1943-10-01,1972-03-01
+de-te,USS George,usn,Active,Scrapped,1943-11-01,1969-11-01
+de-te,USS Raby,usn,Active,Scrapped,1943-12-01,1968-06-01
+de-te,USS Marsh,usn,Active,Scrapped,1944-01-01,1973-04-01
+de-te,USS Currier,usn,Active,Scrapped,1944-02-01,1966-12-01
+de-te,USS Osmus,usn,Active,Scrapped,1944-02-01,1972-12-01
+de-te,USS Earl V. Johnson,usn,Active,Scrapped,1944-03-01,1967-05-01
+de-te,USS Holton,usn,Active,Scrapped,1944-05-01,1972-11-01
+de-te,USS Cronin,usn,Active,Scrapped,1944-05-01,1970-06-01
+de-te,USS Frybarger,usn,Active,Scrapped,1944-05-01,1972-12-01
+de-te,USS Tatum,usn,Active,Auxiliary,1943-11-01,1944-12-01
+de-te,USS Tatum,usn,Auxiliary,Scrapped,1944-12-01,1960-06-01
+de-te,USS Borum,usn,Active,Scrapped,1943-11-01,1965-08-01
+de-te,USS Maloy,usn,Active,Scrapped,1943-12-01,1965-06-01
+de-te,USS Haines,usn,Active,Auxiliary,1943-12-01,1944-12-01
+de-te,USS Haines,usn,Auxiliary,Scrapped,1944-12-01,1960-06-01
+de-te,USS Runels,usn,Active,Auxiliary,1944-01-01,1945-01-01
+de-te,USS Runels,usn,Auxiliary,Scrapped,1945-01-01,1960-06-01
+de-te,USS Hollis,usn,Active,Auxiliary,1944-01-01,1945-01-01
+de-te,USS Hollis,usn,Auxiliary,Scrapped,1945-01-01,1974-09-01
+de-te,USS Gunason,usn,Active,Scrapped,1944-02-01,1973-09-01
+de-te,USS Major,usn,Active,Scrapped,1944-02-01,1972-12-01
+de-te,USS Weeden,usn,Active,Scrapped,1944-02-01,1968-06-01
+de-te,USS Varian,usn,Active,Scrapped,1944-02-01,1972-12-01
+de-te,USS Scroggins,usn,Active,Scrapped,1944-03-01,1965-07-01
+de-te,USS Jack W. Wilke,usn,Active,Scrapped,1944-03-01,1972-08-01
+de-det,USS Cannon,usn,Active,Sold,1943-09-01,1944-12-01
+de-det,USS Christopher,usn,Active,Sold,1943-10-01,1944-12-01
+de-det,USS Alger,usn,Active,Sold,1943-11-01,1945-03-01
+de-det,USS Thomas,usn,Active,Sold,1943-11-01,1948-12-01
+de-det,USS Bostwick,usn,Active,Sold,1943-12-01,1948-12-01
+de-det,USS Breeman,usn,Active,Sold,1943-12-01,1948-10-01
+de-det,USS Burrows,usn,Active,Sold,1943-12-01,1950-06-01
+de-det,USS Carter,usn,Active,Sold,1944-05-01,1948-12-01
+de-det,USS Clarence L. Evans,usn,Active,Sold,1944-06-01,1952-03-01
+de-det,USS Levy,usn,Active,Scrapped,1943-05-01,1973-08-01
+de-det,USS McConnell,usn,Active,Scrapped,1943-05-01,1972-10-01
+de-det,USS Osterhaus,usn,Active,Scrapped,1943-06-01,1972-11-01
+de-det,USS Parks,usn,Active,Scrapped,1943-06-01,1972-07-01
+de-det,USS Baron,usn,Active,Sold,1943-07-01,1952-05-01
+de-det,USS Acree,usn,Active,Scrapped,1943-07-01,1972-07-01
+de-det,USS Amick,usn,Active,Sold,1943-07-01,1955-06-01
+de-det,USS Atherton,usn,Active,Sold,1943-08-01,1955-06-01
+de-det,USS Booth,usn,Active,Sold,1943-09-01,1967-12-01
+de-det,USS Carroll,usn,Active,Scrapped,1943-10-01,1965-08-01
+de-det,USS Cooner,usn,Active,Scrapped,1943-08-01,1972-07-01
+de-det,USS Eldridge,usn,Active,Sold,1943-08-01,1951-01-01
+de-det,USS Marts,usn,Active,Sold,1943-09-01,1945-03-01
+de-det,USS Pennewill,usn,Active,Sold,1943-09-01,1944-08-01
+de-det,USS Micka,usn,Active,Scrapped,1943-09-01,1965-08-01
+de-det,USS Reybold,usn,Active,Sold,1943-09-01,1944-08-01
+de-det,USS Herzog,usn,Active,Sold,1943-10-01,1944-08-01
+de-det,USS McAnn,usn,Active,Sold,1943-10-01,1944-08-01
+de-det,USS Trumpeter,usn,Active,Scrapped,1943-10-01,1973-08-01
+de-det,USS Straub,usn,Active,Scrapped,1943-10-01,1973-08-01
+de-det,USS Gustafson,usn,Active,Sold,1943-11-01,1950-10-01
+de-det,USS Samuel S. Miles,usn,Active,Sold,1943-11-01,1950-08-01
+de-det,USS Wesson,usn,Active,Sold,1943-11-01,1951-01-01
+de-det,USS Riddle,usn,Active,Sold,1943-11-01,1950-08-01
+de-det,USS Swearer,usn,Active,Sold,1943-11-01,1950-09-01
+de-det,USS Stern,usn,Active,Sold,1943-12-01,1951-03-01
+de-det,USS O`Neill,usn,Active,Sold,1943-12-01,1950-10-01
+de-det,USS Bronstein,usn,Active,Sold,1943-12-01,1952-05-01
+de-det,USS Baker,usn,Active,Sold,1943-12-01,1952-03-01
+de-det,USS Coffman,usn,Active,Scrapped,1943-12-01,1972-07-01
+de-det,USS Eisner,usn,Active,Sold,1944-01-01,1951-03-01
+de-det,USS Garfield Thomas,usn,Active,Sold,1944-01-01,1951-01-01
+de-det,USS Wingfield,usn,Active,Sold,1944-01-01,1950-09-01
+de-det,USS Thornhill,usn,Active,Sold,1944-02-01,1951-01-01
+de-det,USS Rinehart,usn,Active,Sold,1944-02-01,1950-06-01
+de-det,USS Roche,usn,Active,,1944-02-01,1945-09-22
+de-det,USS Bangust,usn,Active,Sold,1943-10-01,1952-02-01
+de-det,USS Waterman,usn,Active,Sold,1943-11-01,1952-02-01
+de-det,USS Weaver,usn,Active,Sold,1943-12-01,1952-02-01
+de-det,USS Hilbert,usn,Active,Scrapped,1944-02-01,1972-08-01
+de-det,USS Lamons,usn,Active,Scrapped,1944-02-01,1972-08-01
+de-det,USS Kyne,usn,Active,Scrapped,1944-04-01,1972-08-01
+de-det,USS Snyder,usn,Active,Scrapped,1944-05-01,1972-08-01
+de-det,USS Hemminger,usn,Active,Sold,1944-05-01,1959-07-01
+de-det,USS Bright,usn,Active,Sold,1944-06-01,1950-11-01
+de-det,USS Tills,usn,Active,Scrapped,1944-08-01,1968-09-01
+de-det,USS Roberts,usn,Active,Scrapped,1944-09-01,1968-09-01
+de-det,USS McClelland,usn,Active,Scrapped,1944-09-01,1972-08-01
+de-det,USS Cates,usn,Active,Sold,1943-12-01,1950-11-01
+de-det,USS Gandy,usn,Active,Sold,1944-02-01,1951-01-01
+de-det,USS Earl K. Olsen,usn,Active,Scrapped,1944-04-01,1972-08-01
+de-det,USS Slater,usn,Active,Sold,1944-05-01,1951-03-01
+de-det,USS Oswald,usn,Active,Scrapped,1944-06-01,1972-08-01
+de-det,USS Ebert,usn,Active,Sold,1944-06-01,1951-03-01
+de-det,USS Neal A. Scott,usn,Active,Scrapped,1944-07-01,1968-06-01
+de-det,USS Muir,usn,Active,Sold,1944-08-01,1956-02-01
+de-det,USS Sutton,usn,Active,Sold,1944-12-01,1956-02-01
+pf-key-west,USS Key West,usn,Active,Scrapped,1944-11-01,1947-04-01
+pf-key-west,USS Alexandria,usn,Active,Scrapped,1945-03-01,1946-05-01
+pf-key-west,USS Gulfport,usn,Active,Scrapped,1944-09-01,1946-06-01
+pf-key-west,USS Shreveport,usn,Active,Scrapped,1943-12-01,1946-06-01
+pf-key-west,USS Muskegon,usn,Active,Sold,1944-02-01,1947-03-01
+pf-key-west,USS Emporia,usn,Active,Sold,1944-10-01,1947-03-01
+pf-key-west,USS Groton,usn,Active,Sold,1944-09-01,1947-03-01
+pf-key-west,USS Hingham,usn,Active,Scrapped,1944-11-01,1947-08-01
+pf-key-west,USS Grand Rapids,usn,Active,Scrapped,1944-10-01,1947-04-01
+pf-key-west,USS Woonsocket,usn,Active,Sold,1944-09-01,1947-05-01
+pf-key-west,USS Dearborn,usn,Active,Scrapped,1944-09-01,1947-07-01
+pf-key-west,USS Eugene,usn,Active,Sold,1944-01-01,1946-07-01
+pf-key-west,USS El Paso,usn,Active,Scrapped,1943-12-01,1947-10-01
+pf-key-west,USS Reading,usn,Active,Sold,1944-08-01,1946-01-01
+pf-key-west,USS Peoria,usn,Active,Sold,1945-01-01,1946-06-01
+pf-key-west,USS Brunswick,usn,Active,Scrapped,1944-10-01,1946-06-01
+pf-key-west,USS Davenport,usn,Active,Scrapped,1945-02-01,1946-06-01
+pf-key-west,USS New Bedford,usn,Active,Scrapped,1944-11-01,1947-11-01
+pf-key-west,USS Lorain,usn,Active,Sold,1945-01-01,1947-03-01
+pf-key-west,USS Milledgeville,usn,Active,Scrapped,1945-01-01,1947-04-01
+pf-key-west,USS Orlando,usn,Active,Scrapped,1944-11-01,1946-07-01
+pf-key-west,USS Racine,usn,Active,Scrapped,1945-01-01,1946-07-01
+pf-key-west,USS Greensboro,usn,Active,Scrapped,1945-01-01,1947-04-01
+pf-key-west,USS Forsyth,usn,Active,Sold,1945-02-01,1947-07-01
+pf-tacoma,USS Tacoma,usn,Active,Sold,1943-11-01,1945-08-01
+pf-tacoma,EK-11,rus,Active,Sold,1945-08-01,1949-10-01
+pf-tacoma,USS Tacoma,usn,Active,Sold,1949-10-01,1951-10-01
+pf-tacoma,USS Sausalito,usn,Active,Sold,1944-03-01,1945-08-01
+pf-tacoma,EK-19,rus,Active,Sold,1945-08-01,1949-11-01
+pf-tacoma,USS Sausalito,usn,Active,Sold,1949-11-01,1952-09-01
+pf-tacoma,USS Hoquiam,usn,Active,Sold,1944-05-01,1945-08-01
+pf-tacoma,EK-13,rus,Active,Sold,1945-08-01,1949-11-01
+pf-tacoma,USS Hoquiam,usn,Active,Sold,1949-11-01,1951-10-01
+pf-tacoma,USS Pasco,usn,Active,Sold,1944-04-01,1945-08-01
+pf-tacoma,EK-12,rus,Active,Sold,1945-08-01,1950-01-01
+pf-tacoma,USS Pasco,usn,Active,Sold,1950-01-01,1953-01-01
+pf-tacoma,USS Albuquerque,usn,Active,Sold,1943-12-01,1945-08-01
+pf-tacoma,EK-14,rus,Active,Sold,1945-08-01,1949-11-01
+pf-tacoma,USS Albuquerque,usn,Active,Sold,1949-11-01,1953-11-01
+pf-tacoma,USS Everett,usn,Active,Sold,1944-01-01,1945-08-01
+pf-tacoma,EK-15,rus,Active,Sold,1945-08-01,1949-11-01
+pf-tacoma,USS Everett,usn,Active,Sold,1949-11-01,1953-05-01
+pf-tacoma,USS Pocatello,usn,Active,Scrapped,1944-02-01,1947-09-01
+pf-tacoma,USS Brownsville,usn,Active,Scrapped,1944-05-01,1947-09-01
+pf-tacoma,USS Grand Forks,usn,Active,Scrapped,1944-03-01,1946-06-01
+pf-tacoma,USS Casper,usn,Active,Scrapped,1944-03-01,1947-05-01
+pf-tacoma,USS Pueblo,usn,Active,Sold,1944-05-01,1947-09-01
+pf-tacoma,USS Grand Island,usn,Active,Sold,1944-05-01,1947-06-01
+pf-tacoma,USS Annapolis,usn,Active,Sold,1944-12-01,1946-06-01
+pf-tacoma,USS Bangor,usn,Active,Sold,1944-11-01,1947-11-01
+pf-tacoma,USS Huron,usn,Active,Sold,1944-09-01,1947-05-01
+pf-tacoma,USS Bayonne,usn,Active,Sold,1945-02-01,1945-09-01
+pf-tacoma,EK-25,rus,Active,Sold,1945-09-01,1949-11-01
+pf-tacoma,USS Bayonne,usn,Active,Sold,1949-11-01,1953-01-01
+pf-tacoma,USS Gloucester,usn,Active,Sold,1943-12-01,1945-09-01
+pf-tacoma,EK-26,rus,Active,Sold,1945-09-01,1949-11-01
+pf-tacoma,USS Gloucester,usn,Active,Sold,1949-11-01,1953-10-01
+pf-tacoma,USS Charlottesville,usn,Active,Sold,1944-04-01,1945-07-01
+pf-tacoma,EK-1,rus,Active,Sold,1945-07-01,1949-10-01
+pf-tacoma,USS Charlottesville,usn,Active,Sold,1949-10-01,1953-01-01
+pf-tacoma,USS Poughkeepsie,usn,Active,Sold,1944-09-01,1945-09-01
+pf-tacoma,EK-27,rus,Active,Sold,1945-09-01,1950-10-01
+pf-tacoma,USS Poughkeepsie,usn,Active,Sold,1950-10-01,1953-01-01
+pf-tacoma,USS Newport,usn,Active,Sold,1944-09-01,1945-09-01
+pf-tacoma,EK-28,rus,Active,Sold,1945-09-01,1949-11-01
+pf-tacoma,USS Newport,usn,Active,Sold,1949-11-01,1953-10-01
+pf-tacoma,USS Long Beach,usn,Active,Sold,1943-09-01,1945-07-01
+pf-tacoma,EK-2,rus,Active,Sold,1945-07-01,1949-11-01
+pf-tacoma,USS Long Beach,usn,Active,Sold,1949-11-01,1953-11-01
+pf-tacoma,USS Belfast,usn,Active,Sold,1943-11-01,1945-07-01
+pf-tacoma,USS Glendale,usn,Active,Sold,1943-10-01,1945-06-01
+pf-tacoma,EK-6,rus,Active,Sold,1945-06-01,1949-11-01
+pf-tacoma,USS Glendale,usn,Active,Sold,1949-11-01,1951-10-01
+pf-tacoma,USS San Pedro,usn,Active,Sold,1943-10-01,1945-07-01
+pf-tacoma,EK-5,rus,Active,Sold,1945-07-01,1949-10-01
+pf-tacoma,USS San Pedro,usn,Active,Sold,1949-10-01,1953-04-01
+pf-tacoma,USS Coronado,usn,Active,Sold,1943-11-01,1945-07-01
+pf-tacoma,EK-8,rus,Active,Sold,1945-07-01,1949-10-01
+pf-tacoma,USS Coronado,usn,Active,Sold,1949-10-01,1953-01-01
+pf-tacoma,USS Ogden,usn,Active,Sold,1943-12-01,1945-07-01
+pf-tacoma,EK-10,rus,Active,Sold,1945-07-01,1949-10-01
+pf-tacoma,USS Ogden,usn,Active,Sold,1949-10-01,1953-01-01
+pf-tacoma,USS Van Buren,usn,Active,Scrapped,1943-12-01,1946-06-01
+pf-tacoma,USS Orange,usn,Active,Scrapped,1944-01-01,1947-04-01
+pf-tacoma,USS Corpus Christi,usn,Active,Scrapped,1944-01-01,1947-10-01
+pf-tacoma,USS Hutchinson,usn,Active,Sold,1944-02-01,1946-10-01
+pf-tacoma,USS Bisbee,usn,Active,Sold,1944-02-01,1945-08-01
+pf-tacoma,EK-17,rus,Active,Sold,1945-08-01,1950-10-01
+pf-tacoma,USS Bisbee,usn,Active,Sold,1950-10-01,1953-02-01
+pf-tacoma,USS Gallup,usn,Active,Sold,1944-02-01,1945-08-01
+pf-tacoma,EK-22,rus,Active,Sold,1945-08-01,1949-11-01
+pf-tacoma,USS Gallup,usn,Active,Sold,1949-11-01,1951-10-01
+pf-tacoma,USS Rockford,usn,Active,Sold,1944-03-01,1945-08-01
+pf-tacoma,EK-18,rus,Active,Sold,1945-08-01,1949-11-01
+pf-tacoma,USS Rockford,usn,Active,Sold,1949-11-01,1950-10-01
+pf-tacoma,USS Muskogee,usn,Active,Sold,1944-03-01,1945-08-01
+pf-tacoma,EK-19,rus,Active,Sold,1945-08-01,1949-11-01
+pf-tacoma,USS Muskogee,usn,Active,Sold,1949-11-01,1950-10-01
+pf-tacoma,USS Carson City,usn,Active,Sold,1944-03-01,1945-08-01
+pf-tacoma,EK-20,rus,Active,Sold,1945-08-01,1950-10-01
+pf-tacoma,USS Carson City,usn,Active,Sold,1950-10-01,1953-04-01
+pf-tacoma,USS Burlington,usn,Active,Sold,1944-04-01,1945-08-01
+pf-tacoma,EK-21,rus,Active,Sold,1945-08-01,1949-11-01
+pf-tacoma,USS Burlington,usn,Active,Sold,1949-11-01,1953-06-01
+pf-tacoma,USS Allentown,usn,Active,Sold,1944-03-01,1945-07-01
+pf-tacoma,EK-9,rus,Active,Sold,1945-07-01,1949-10-01
+pf-tacoma,USS Allentown,usn,Active,Sold,1949-10-01,1953-04-01
+pf-tacoma,USS Machias,usn,Active,Sold,1944-03-01,1945-07-01
+pf-tacoma,EK-4,rus,Active,Sold,1945-07-01,1949-10-01
+pf-tacoma,USS Machias,usn,Active,Sold,1949-10-01,1953-01-01
+pf-tacoma,USS Sandusky,usn,Active,Sold,1944-04-01,1945-07-01
+pf-tacoma,EK-7,rus,Active,Sold,1945-07-01,1949-10-01
+pf-tacoma,USS Sandusky,usn,Active,Sold,1949-10-01,1953-02-01
+pf-tacoma,USS Bath,usn,Active,Sold,1944-09-01,1945-07-01
+pf-tacoma,EK-29,rus,Active,Sold,1945-07-01,1949-11-01
+pf-tacoma,USS Bath,usn,Active,Sold,1949-11-01,1953-12-01
+pf-tacoma,USS Covington,usn,Active,Sold,1944-10-01,1947-04-01
+pf-tacoma,USS Sheboygan,usn,Active,Sold,1944-05-01,1947-03-01
+pf-tacoma,USS Abilene,usn,Active,Sold,1944-10-01,1947-05-01
+pf-tacoma,USS Beaufort,usn,Active,Scrapped,1944-08-01,1947-04-01
+pf-tacoma,USS Charlotte,usn,Active,Scrapped,1944-10-01,1947-05-01
+pf-tacoma,USS Manitowoc,usn,Active,Sold,1944-12-01,1947-03-01
+pf-tacoma,USS Gladwyne,usn,Active,Sold,1944-11-01,1946-10-01
+pf-tacoma,USS Moberly,usn,Active,Scrapped,1944-12-01,1947-04-01
+pf-tacoma,USS Knoxville,usn,Active,Sold,1944-04-01,1947-09-01
+pf-tacoma,USS Uniontown,usn,Active,Sold,1944-10-01,1946-01-01
+pf-tacoma,USS Evansville,usn,Active,Sold,1944-12-01,1945-09-01
+pf-tacoma,EK-30,rus,Active,Sold,1945-09-01,1949-11-01
+pf-tacoma,USS Evansville,usn,Active,Sold,1949-11-01,1953-10-01
+dd-allen-m-sumner,USS Allen M. Sumner,usn,Active,Scrapped,1944-01-01,1973-08-01
+dd-allen-m-sumner,USS Moale,usn,Active,Scrapped,1944-02-01,1973-07-01
+dd-allen-m-sumner,USS Ingraham,usn,Active,Sold,1944-03-01,1971-07-01
+dd-allen-m-sumner,USS Cooper,usn,Active,Sunk,1944-03-01,1944-12-03
+dd-allen-m-sumner,USS English,usn,Active,Sold,1944-05-01,1970-08-01
+dd-allen-m-sumner,USS Charles S. Sperry,usn,Active,Sold,1944-05-01,1974-01-01
+dd-allen-m-sumner,USS Ault,usn,Active,Scrapped,1944-05-01,1973-07-01
+dd-allen-m-sumner,USS Waldron,usn,Active,Sold,1944-06-01,1973-10-01
+dd-allen-m-sumner,USS Haynsworth,usn,Active,Sold,1944-06-01,1970-05-01
+dd-allen-m-sumner,USS John W. Weeks,usn,Active,Scrapped,1944-07-01,1970-08-01
+dd-allen-m-sumner,USS Hank,usn,Active,Sold,1944-08-01,1972-07-01
+dd-allen-m-sumner,USS Wallace L. Lind,usn,Active,Sold,1944-09-01,1973-12-01
+dd-allen-m-sumner,USS Borie,usn,Active,Sold,1944-09-01,1972-07-01
+dd-allen-m-sumner,USS Compton,usn,Active,Sold,1944-11-01,1972-09-01
+dd-allen-m-sumner,USS Gainard,usn,Active,Scrapped,1944-11-01,1971-02-01
+dd-allen-m-sumner,USS Soley,usn,Active,Scrapped,1944-12-01,1970-02-01
+dd-allen-m-sumner,USS Harlan R. Dickson,usn,Active,Scrapped,1945-02-01,1972-07-01
+dd-allen-m-sumner,USS Hugh Purvis,usn,Active,Sold,1945-03-01,1972-02-01
+dd-allen-m-sumner,USS Barton,usn,Active,Scrapped,1943-12-01,1968-10-01
+dd-allen-m-sumner,USS Walke,usn,Active,Scrapped,1944-01-01,1974-02-01
+dd-allen-m-sumner,USS Laffey,usn,Active,Scrapped,1944-02-01,1975-03-01
+dd-allen-m-sumner,USS O'Brien,usn,Active,Scrapped,1944-02-01,1972-02-01
+dd-allen-m-sumner,USS Meredith,usn,Active,Sunk,1944-03-01,1944-06-09
+dd-allen-m-sumner,USS De Haven,usn,Active,Sold,1944-03-01,1973-12-01
+dd-allen-m-sumner,USS Mansfield,usn,Active,Sold,1944-04-01,1974-06-01
+dd-allen-m-sumner,USS Lyman K. Swenson,usn,Active,Sold,1944-05-01,1974-05-01
+dd-allen-m-sumner,USS Collett,usn,Active,Sold,1944-05-01,1974-06-01
+dd-allen-m-sumner,USS Maddox,usn,Active,Sold,1944-06-01,1972-07-01
+dd-allen-m-sumner,USS Hyman,usn,Active,Scrapped,1944-06-01,1969-11-01
+dd-allen-m-sumner,USS Mannert L. Abele,usn,Active,Sunk,1944-07-01,1945-04-12
+dd-allen-m-sumner,USS Purdy,usn,Active,Scrapped,1944-07-01,1973-07-01
+dd-allen-m-sumner,USS Drexler,usn,Active,Sunk,1944-11-01,1945-05-28
+dd-allen-m-sumner,USS Blue,usn,Active,Scrapped,1944-03-01,1974-02-01
+dd-allen-m-sumner,USS Brush,usn,Active,Sold,1944-04-01,1969-12-01
+dd-allen-m-sumner,USS Taussig,usn,Active,Sold,1944-05-01,1974-05-01
+dd-allen-m-sumner,USS Samuel N. Moore,usn,Active,Sold,1944-06-01,1969-12-01
+dd-allen-m-sumner,USS Harry E. Hubbard,usn,Active,Scrapped,1944-07-01,1969-10-01
+dd-allen-m-sumner,USS Alfred A. Cunningham,usn,Active,Scrapped,1944-11-01,1974-02-01
+dd-allen-m-sumner,USS John R. Pierce,usn,Active,Scrapped,1944-12-01,1973-07-02
+dd-allen-m-sumner,USS Frank E. Evans,usn,Active,Sunk,1945-02-01,1969-06-02
+dd-allen-m-sumner,USS John A. Bole,usn,Active,Sold,1945-03-01,1974-05-01
+dd-allen-m-sumner,USS Beatty,usn,Active,Sold,1945-03-01,1972-08-01
+dd-allen-m-sumner,USS Putnam,usn,Active,Scrapped,1944-10-01,1973-08-01
+dd-allen-m-sumner,USS Strong,usn,Active,Sold,1945-03-01,1973-10-01
+dd-allen-m-sumner,USS Lofberg,usn,Active,Sold,1945-04-01,1974-05-01
+dd-allen-m-sumner,USS John W. Thomason,usn,Active,Sold,1945-10-01,1974-05-01
+dd-allen-m-sumner,USS Buck,usn,Active,Sold,1946-06-01,1973-07-01
+dd-allen-m-sumner,USS Henley,usn,Active,Scrapped,1946-10-01,1973-07-01
+dd-allen-m-sumner,USS Lowry,usn,Active,Sold,1944-07-01,1973-10-01
+dd-allen-m-sumner,USS Hugh W. Hadley,usn,Active,,1944-11-01,1945-05-11
+dd-allen-m-sumner,USS Willard Keith,usn,Active,Sold,1944-12-01,1972-07-01
+dd-allen-m-sumner,USS James C. Owens,usn,Active,Sold,1945-02-01,1973-07-01
+dd-allen-m-sumner,USS Zellars,usn,Active,Sold,1944-10-01,1971-03-01
+dd-allen-m-sumner,USS Massey,usn,Active,Scrapped,1944-11-01,1973-09-01
+dd-allen-m-sumner,USS Douglas H. Fox,usn,Active,Sold,1944-12-01,1974-01-01
+dd-allen-m-sumner,USS Stormes,usn,Active,Sold,1945-01-01,1972-02-01
+dd-allen-m-sumner,USS Robert K. Huntington,usn,Active,Sold,1945-03-01,1973-10-01
+dd-allen-m-sumner,USS Bristol,usn,Active,Sold,1945-03-01,1969-09-01
+de-tev,USS Rudderow,usn,Active,Scrapped,1944-05-01,1969-11-01
+de-tev,USS Day,usn,Active,Scrapped,1944-06-01,1968-06-01
+de-tev,USS Chaffee,usn,Active,Scrapped,1944-05-01,1946-08-01
+de-tev,USS Hodges,usn,Active,Scrapped,1944-05-01,1972-12-01
+de-tev,USS Riley,usn,Active,Sold,1944-03-01,1968-07-01
+de-tev,USS Leslie L. B. Knox,usn,Active,Scrapped,1944-03-01,1972-01-01
+de-tev,USS McNulty,usn,Active,Scrapped,1944-03-01,1972-03-01
+de-tev,USS Metivier,usn,Active,Scrapped,1944-04-01,1968-06-01
+de-tev,USS George A. Johnson,usn,Active,Scrapped,1944-04-01,1965-11-01
+de-tev,USS Charles J. Kimmel,usn,Active,Scrapped,1944-04-01,1968-06-01
+de-tev,USS Daniel A. Joy,usn,Active,Scrapped,1944-04-01,1965-05-01
+de-tev,USS Lough,usn,Active,Scrapped,1944-05-01,1969-11-01
+de-tev,USS Thomas F. Nickel,usn,Active,Scrapped,1944-06-01,1972-12-01
+de-tev,USS Peiffer,usn,Active,Scrapped,1944-06-01,1966-12-01
+de-tev,USS Tinsman,usn,Active,Scrapped,1944-06-01,1969-11-01
+de-tev,USS DeLong,usn,Active,Scrapped,1943-12-01,1969-08-01
+de-tev,USS Coates,usn,Active,Scrapped,1944-01-01,1970-01-01
+de-tev,USS Eugene E. Elmore,usn,Active,Scrapped,1944-02-01,1968-06-01
+de-tev,USS Holt,usn,Active,Sold,1944-06-01,1963-06-01
+de-tev,USS Jobb,usn,Active,Scrapped,1944-07-01,1969-11-01
+de-tev,USS Parle,usn,Active,Scrapped,1944-07-01,1970-07-01
+de-tev,USS Bray,usn,Active,Auxiliary,1944-09-01,1945-07-01
+de-tev,USS Bray,usn,Auxiliary,Scrapped,1945-07-01,1960-06-01
+de-wgt,USS John C. Butler,usn,Active,Scrapped,1944-03-01,1970-06-01
+de-wgt,USS O`Flaherty,usn,Active,Scrapped,1944-04-01,1972-12-01
+de-wgt,USS Raymond,usn,Active,Scrapped,1944-04-01,1972-07-01
+de-wgt,USS Richard W. Suesens,usn,Active,Scrapped,1944-04-01,1972-03-01
+de-wgt,USS Abercrombie,usn,Active,Scrapped,1944-05-01,1967-05-01
+de-wgt,USS Oberrender,usn,Active,Sunk,1944-05-01,1945-05-09
+de-wgt,USS Robert Brazier,usn,Active,Scrapped,1944-05-01,1968-01-01
+de-wgt,USS Edwin A. Howard,usn,Active,Scrapped,1944-05-01,1972-12-01
+de-wgt,USS Jesse Rutherford,usn,Active,Scrapped,1944-05-01,1968-01-01
+de-wgt,USS Key,usn,Active,Scrapped,1944-06-01,1972-03-01
+de-wgt,USS Gentry,usn,Active,Scrapped,1944-06-01,1972-01-01
+de-wgt,USS Traw,usn,Active,Scrapped,1944-06-01,1967-08-01
+de-wgt,USS Maurice J. Manuel,usn,Active,Scrapped,1944-06-01,1966-05-01
+de-wgt,USS Naifeh,usn,Active,Scrapped,1944-07-01,1966-01-01
+de-wgt,USS Doyle C. Barnes,usn,Active,Scrapped,1944-07-01,1972-12-01
+de-wgt,USS Kenneth M. Willett,usn,Active,Scrapped,1944-07-01,1972-07-01
+de-wgt,USS Jaccard,usn,Active,Scrapped,1944-07-01,1967-11-01
+de-wgt,USS Lloyd E. Acree,usn,Active,Scrapped,1944-08-01,1972-01-01
+de-wgt,USS George E. Davis,usn,Active,Scrapped,1944-08-01,1972-12-01
+de-wgt,USS Mack,usn,Active,Scrapped,1944-08-01,1972-03-01
+de-wgt,USS Woodson,usn,Active,Scrapped,1944-08-01,1965-07-01
+de-wgt,USS Johnnie Hutchins,usn,Active,Scrapped,1944-08-01,1972-07-01
+de-wgt,USS Walton,usn,Active,Scrapped,1944-09-01,1968-09-01
+de-wgt,USS Rolf,usn,Active,Scrapped,1944-09-01,1972-12-01
+de-wgt,USS Pratt,usn,Active,Scrapped,1944-10-01,1972-03-01
+de-wgt,USS Rombach,usn,Active,Scrapped,1944-09-01,1972-03-01
+de-wgt,USS McGinty,usn,Active,Scrapped,1944-09-01,1968-09-01
+de-wgt,USS Alvin C. Cockrell,usn,Active,Scrapped,1944-10-01,1968-09-01
+de-wgt,USS French,usn,Active,Scrapped,1944-10-01,1972-05-01
+de-wgt,USS Cecil J. Doyle,usn,Active,Scrapped,1944-10-01,1967-07-01
+de-wgt,USS Thaddeus Parker,usn,Active,Scrapped,1944-10-01,1967-09-01
+de-wgt,USS John L. Williamson,usn,Active,Scrapped,1944-10-01,1970-09-01
+de-wgt,USS Presley,usn,Active,Scrapped,1944-11-01,1968-06-01
+de-wgt,USS Williams,usn,Active,Scrapped,1944-11-01,1967-07-01
+de-wgt,USS Richard S. Bull,usn,Active,Scrapped,1944-02-01,1968-06-01
+de-wgt,USS Richard M. Rowell,usn,Active,Scrapped,1944-03-01,1968-06-01
+de-wgt,USS Eversole,usn,Active,Sunk,1944-03-01,1944-10-28
+de-wgt,USS Dennis,usn,Active,Scrapped,1944-03-01,1972-12-01
+de-wgt,USS Edmonds,usn,Active,Scrapped,1944-04-01,1972-05-01
+de-wgt,USS Shelton,usn,Active,Sunk,1944-04-01,1944-10-03
+de-wgt,USS Straus,usn,Active,Scrapped,1944-04-01,1966-05-01
+de-wgt,USS La Prade,usn,Active,Scrapped,1944-04-01,1972-01-01
+de-wgt,USS Jack Miller,usn,Active,Scrapped,1944-04-01,1968-06-01
+de-wgt,USS Stafford,usn,Active,Scrapped,1944-04-01,1972-03-01
+de-wgt,USS Walter C. Wann,usn,Active,Scrapped,1944-05-01,1968-06-01
+de-wgt,USS Samuel B. Roberts,usn,Active,Sunk,1944-04-01,1944-10-25
+de-wgt,USS Le Ray Wilson,usn,Active,Scrapped,1944-05-01,1972-05-01
+de-wgt,USS Lawrence C. Taylor,usn,Active,Scrapped,1944-05-01,1972-12-01
+de-wgt,USS Melvin R. Nawman,usn,Active,Scrapped,1944-05-01,1972-07-01
+de-wgt,USS Oliver Mitchell,usn,Active,Scrapped,1944-06-01,1972-03-01
+de-wgt,USS Tabberer,usn,Active,Scrapped,1944-05-01,1972-07-01
+de-wgt,USS Robert F. Keller,usn,Active,Scrapped,1944-06-01,1972-07-01
+de-wgt,USS Leland E. Thomas,usn,Active,Scrapped,1944-06-01,1972-12-01
+de-wgt,USS Chester T. O`Brien,usn,Active,Scrapped,1944-07-01,1972-07-01
+de-wgt,USS Douglas A. Munro,usn,Active,Scrapped,1944-07-01,1965-12-01
+de-wgt,USS Dufilho,usn,Active,Scrapped,1944-07-01,1972-12-01
+de-wgt,USS Haas,usn,Active,Scrapped,1944-08-01,1966-07-01
+de-wgt,USS Corbesier,usn,Active,Scrapped,1944-03-01,1972-12-01
+de-wgt,USS Conklin,usn,Active,Scrapped,1944-04-01,1970-10-01
+de-wgt,USS McCoy Reynolds,usn,Active,Sold,1944-05-01,1957-02-01
+de-wgt,USS William Seiverling,usn,Active,Scrapped,1944-06-01,1972-12-01
+de-wgt,USS Ulvert M. Moore,usn,Active,Scrapped,1944-07-01,1965-12-01
+de-wgt,USS Kendall C. Campbell,usn,Active,Scrapped,1944-07-01,1972-01-01
+de-wgt,USS Goss,usn,Active,Scrapped,1944-08-01,1972-03-01
+de-wgt,USS Grady,usn,Active,Scrapped,1944-09-01,1968-06-01
+de-wgt,USS Charles E. Brannon,usn,Active,Scrapped,1944-11-01,1968-09-01
+de-wgt,USS Albert T. Harris,usn,Active,Scrapped,1944-11-01,1968-09-01
+de-wgt,USS Cross,usn,Active,Scrapped,1945-01-01,1966-07-01
+de-wgt,USS Hanna,usn,Active,Scrapped,1945-01-01,1972-12-01
+de-wgt,USS Joseph E. Connolly,usn,Active,Scrapped,1945-02-01,1970-06-01
+de-wgt,USS Gilligan,usn,Active,Scrapped,1944-05-01,1972-03-01
+de-wgt,USS Formoe,usn,Active,Sold,1944-10-01,1957-02-01
+de-wgt,USS Heyliger,usn,Active,Scrapped,1945-03-01,1966-05-01
+de-wgt,USS Edward H. Allen,usn,Active,Scrapped,1943-12-01,1972-07-01
+de-wgt,USS Tweedy,usn,Active,Scrapped,1944-02-01,1969-06-01
+de-wgt,USS Howard F. Clark,usn,Active,Scrapped,1944-05-01,1972-05-01
+de-wgt,USS Silverstein,usn,Active,Scrapped,1944-07-01,1972-12-01
+de-wgt,USS Lewis,usn,Active,Scrapped,1944-09-01,1966-01-01
+de-wgt,USS Bivin,usn,Active,Scrapped,1944-10-01,1968-06-01
+de-wgt,USS Rizzi,usn,Active,Scrapped,1945-06-01,1972-08-01
+de-wgt,USS Osberg,usn,Active,Scrapped,1945-12-01,1972-08-01
+de-wgt,USS Wagner,usn,Active,Scrapped,1955-11-01,1974-11-01
+de-wgt,USS Vandivier,usn,Active,Scrapped,1955-10-01,1974-11-01
+dd-gearing,USS Gearing,usn,Active,Scrapped,1945-05-01,1973-07-01
+dd-gearing,USS Eugene A. Greene,usn,Active,Sold,1945-06-01,1972-08-01
+dd-gearing,USS Gyatt,usn,Active,Scrapped,1945-07-01,1969-10-01
+dd-gearing,USS Kenneth D. Bailey,usn,Active,Sold,1945-07-01,1975-01-01
+dd-gearing,USS William R. Rush,usn,Active,Sold,1945-09-01,1978-07-01
+dd-gearing,USS William M. Wood,usn,Active,Scrapped,1945-11-01,1976-12-01
+dd-gearing,USS Wiltsie,usn,Active,Sold,1946-01-01,1977-04-01
+dd-gearing,USS Theodore E. Chandler,usn,Active,Scrapped,1946-03-01,1975-04-01
+dd-gearing,USS Hamner,usn,Active,Sold,1946-07-01,1981-02-01
+dd-gearing,USS Epperson,usn,Active,Sold,1949-03-01,1977-04-01
+dd-gearing,USS Frank Knox,usn,Active,Sold,1944-12-01,1971-01-01
+dd-gearing,USS Southerland,usn,Active,Scrapped,1944-12-01,1981-02-01
+dd-gearing,USS William C. Lawe,usn,Active,Scrapped,1946-12-01,1983-01-01
+dd-gearing,USS Lloyd Thomas,usn,Active,Sold,1947-03-01,1972-10-01
+dd-gearing,USS Keppler,usn,Active,Sold,1947-05-01,1972-06-01
+dd-gearing,USS Rowan,usn,Active,Sold,1945-03-01,1975-12-01
+dd-gearing,USS Gurke,usn,Active,Sold,1945-05-01,1977-03-01
+dd-gearing,USS McKean,usn,Active,Sold,1945-06-01,1982-11-01
+dd-gearing,USS Henderson,usn,Active,Sold,1945-08-01,1980-09-01
+dd-gearing,USS Richard B. Anderson,usn,Active,Sold,1945-10-01,1977-06-01
+dd-gearing,USS James E. Kyes,usn,Active,Sold,1946-02-01,1973-04-01
+dd-gearing,USS Hollister,usn,Active,Scrapped,1946-03-01,1979-10-01
+dd-gearing,USS Eversole,usn,Active,Sold,1946-05-01,1973-07-01
+dd-gearing,USS Shelton,usn,Active,Sold,1946-06-01,1973-04-01
+dd-gearing,USS Seaman,usn,Active,Scrapped,,1946-06-01
+dd-gearing,USS Chevalier,usn,Active,Sold,1945-01-01,1972-07-01
+dd-gearing,USS Higbee,usn,Active,Scrapped,1945-01-01,1979-07-01
+dd-gearing,USS Benner,usn,Active,Scrapped,1945-02-01,1974-02-01
+dd-gearing,USS Dennis J. Buckley,usn,Active,Scrapped,1945-03-01,1973-07-01
+dd-gearing,USS Corry,usn,Active,Sold,1946-02-01,1981-07-01
+dd-gearing,USS New,usn,Active,Sold,1946-04-01,1977-02-01
+dd-gearing,USS Holder,usn,Active,Sold,1946-05-01,1978-09-01
+dd-gearing,USS Rich,usn,Active,Scrapped,1946-07-01,1977-12-01
+dd-gearing,USS Johnston,usn,Active,Sold,1946-08-01,1981-02-01
+dd-gearing,USS Robert H. McCard,usn,Active,Sold,1946-10-01,1980-06-01
+dd-gearing,USS Samuel B. Roberts,usn,Active,Scrapped,1946-12-01,1970-11-01
+dd-gearing,USS Basilone,usn,Active,Scrapped,1949-07-01,1977-11-01
+dd-gearing,USS Carpenter,usn,Active,Sold,1949-12-01,1981-02-01
+dd-gearing,USS Agerholm,usn,Active,Scrapped,1946-06-01,1978-12-01
+dd-gearing,USS Robert A. Owens,usn,Active,Sold,1949-09-01,1982-02-01
+dd-gearing,USS Timmerman,usn,Active,Auxiliary,1952-09-01,1954-01-01
+dd-gearing,USS Myles C. Fox,usn,Active,Sold,1945-03-01,1980-08-01
+dd-gearing,USS Everett F. Larson,usn,Active,Sold,1945-04-01,1972-10-01
+dd-gearing,USS Goodrich,usn,Active,Scrapped,1945-04-01,1974-02-01
+dd-gearing,USS Hanson,usn,Active,Sold,1945-05-01,1973-04-01
+dd-gearing,USS Herbert J. Thomas,usn,Active,Sold,1945-05-01,1974-05-01
+dd-gearing,USS Turner,usn,Active,Scrapped,1945-06-01,1969-09-01
+dd-gearing,USS Charles P. Cecil,usn,Active,Sold,1945-06-01,1980-08-01
+dd-gearing,USS George K. Mackenzie,usn,Active,Scrapped,1945-07-01,1976-10-01
+dd-gearing,USS Sarsfield,usn,Active,Sold,1945-07-01,1977-10-01
+dd-gearing,USS Ernest G. Small,usn,Active,Sold,1945-08-01,1971-04-01
+dd-gearing,USS Power,usn,Active,Sold,1945-09-01,1977-10-01
+dd-gearing,USS Glennon,usn,Active,Scrapped,1945-10-01,1976-10-01
+dd-gearing,USS Noa,usn,Active,Sold,1945-11-01,1973-10-01
+dd-gearing,USS Fiske,usn,Active,Sold,1945-11-01,1980-06-01
+dd-gearing,USS Warrington,usn,Active,Sold,1945-12-01,1973-04-01
+dd-gearing,USS Perry,usn,Active,Scrapped,1946-01-01,1973-07-01
+dd-gearing,USS Baussell,usn,Active,Scrapped,1946-02-01,1978-05-01
+dd-gearing,USS Ozbourn,usn,Active,Scrapped,1946-03-01,1975-06-01
+dd-gearing,USS Robert L. Wilson,usn,Active,Scrapped,1946-03-01,1974-09-01
+dd-gearing,USS Witek,usn,Active,Scrapped,1946-04-01,1968-09-01
+dd-gearing,USS Richard E. Kraus,usn,Active,Sold,1946-05-01,1972-10-01
+dd-gearing,"USS Joseph P. Kennedy, Jr.",usn,Active,Scrapped,1945-12-01,1973-07-01
+dd-gearing,USS Rupertus,usn,Active,Sold,1946-03-01,1973-07-01
+dd-gearing,USS Leonard F. Mason,usn,Active,Sold,1946-06-01,1978-03-01
+dd-gearing,USS Charles H. Roan,usn,Active,Sold,1946-09-01,1973-09-01
+dd-gearing,USS Fred T. Berry,usn,Active,Scrapped,1945-05-01,1970-09-01
+dd-gearing,USS Norris,usn,Active,Sold,1945-06-01,1974-07-01
+dd-gearing,USS McCaffery,usn,Active,Scrapped,1945-07-01,1973-09-01
+dd-gearing,USS Harwood,usn,Active,Sold,1945-09-01,1971-12-01
+dd-gearing,USS Vogelgesang,usn,Active,Sold,1945-04-01,1982-02-01
+dd-gearing,USS Steinaker,usn,Active,Sold,1945-05-01,1982-02-01
+dd-gearing,USS Harold J. Ellison,usn,Active,Sold,1945-06-01,1983-10-01
+dd-gearing,USS Charles R. Ware,usn,Active,Scrapped,1945-07-01,1974-12-01
+dd-gearing,USS Cone,usn,Active,Sold,1945-08-01,1982-10-01
+dd-gearing,USS Stribling,usn,Active,Scrapped,1945-09-01,1976-07-01
+dd-gearing,USS Brownson,usn,Active,Scrapped,1945-11-01,1976-09-01
+dd-gearing,USS Arnold J. Isbell,usn,Active,Sold,1946-01-01,1973-12-01
+dd-gearing,USS Fechteler,usn,Active,Scrapped,1946-03-01,1970-09-01
+dd-gearing,USS Damato,usn,Active,Sold,1946-04-01,1980-09-01
+dd-gearing,USS Forrest Royal,usn,Active,Sold,1946-06-01,1971-03-01
+dd-gearing,USS Hawkins,usn,Active,Scrapped,1945-02-01,1979-10-01
+dd-gearing,USS Duncan,usn,Active,Scrapped,1945-02-01,1973-09-01
+dd-gearing,USS Henry W. Tucker,usn,Active,Sold,1945-03-01,1973-12-01
+dd-gearing,USS Rogers,usn,Active,Sold,1945-03-01,1981-08-01
+dd-gearing,USS Perkins,usn,Active,Sold,1945-04-01,1973-01-01
+dd-gearing,USS Vesole,usn,Active,Scrapped,1945-04-01,1976-12-01
+dd-gearing,USS Leary,usn,Active,Sold,1945-05-01,1973-10-01
+dd-gearing,USS Dyess,usn,Active,Sold,1945-05-01,1981-07-01
+dd-gearing,USS Bordelon,usn,Active,Scrapped,1945-06-01,1977-02-01
+dd-gearing,USS Furse,usn,Active,Sold,1945-07-01,1972-08-01
+dd-gearing,USS Newman K. Perry,usn,Active,Sold,1945-07-01,1981-07-01
+dd-gearing,USS Floyd B. Parks,usn,Active,Scrapped,1945-07-01,1973-07-01
+dd-gearing,USS John R. Craig,usn,Active,Scrapped,1945-08-01,1979-07-01
+dd-gearing,USS Orleck,usn,Active,Sold,1945-09-01,1982-10-01
+dd-gearing,USS Brinkley Bass,usn,Active,Sold,1945-10-01,1973-12-01
+dd-gearing,USS Stickell,usn,Active,Sold,1945-10-01,1972-07-01
+dd-gearing,USS O`Hare,usn,Active,Sold,1945-11-01,1973-10-01
+dd-gearing,USS Meredith,usn,Active,Sold,1945-10-01,1979-06-01
