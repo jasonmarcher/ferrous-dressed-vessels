@@ -346,51 +346,51 @@ ca-suffren,Suffren Class,mn,Cruiser,Heavy Cruiser,Built,1926-04-17,10000,Geared 
 ca-algerie,Algerie Class,mn,Cruiser,Heavy Cruiser,Built,1931-03-19,10109,Geared Turbine,84000,Oil,31,16112,203/55 M1931,8,100/45 M1930,6,Krupp Cemented,110,0,0,http://www.navypedia.org/ships/france/fr_cr_algerie.htm
 cl-emile-bertin,Emile Bertin Class,mn,Cruiser,Light Cruiser,Built,1931-08-18,5886,Geared Turbine,102000,Oil,34,6667,152/55 M1930,9,90/50 M1926,3,Krupp Cemented,30,0,0,http://www.navypedia.org/ships/france/fr_cr_emile_bertin.htm
 cl-la-galissonniere,La Galissonniere Class,mn,Cruiser,Light Cruiser,Built,1931-12-15,7600,Geared Turbine,84000,Oil,31,10186,152/55 M1930,9,90/50 M1926,4,Krupp Cemented,105,0,0,http://www.navypedia.org/ships/france/fr_cr_la_galissoniere.htm
-tc-condor,Condor Class,mn,Escort,Torpedo Cruiser,Built,1883-04-01,1260,2C-EE,3000,Coal,17,5185,100/26 M1881,3,47/40 M1885,2,Steel,0,0,40,
-tg-bombe,Bombe Class,mn,Escort,Torpedo Gunboat,Built,1883-11-01,400,2C-EE,1800,Coal,18,7000,47/40 M1885,2,37/40 M1885,3,,0,0,0,
-tc-wattignies,Wattignies Class,mn,Escort,Torpedo Cruiser,Built,1889-10-01,1280,3C-EE,4000,Coal,18,5185,100/26 M1881,3,47/40 M1885,3,Steel,0,0,40,
-tg-levrier,Levrier Class,mn,Escort,Torpedo Gunboat,Built,1890-02-01,503,3C-EE,2400,Coal,18.7,9260,65/50 M1888,1,47/40 M1885,2,,0,0,0,
-tg-d-iberville,D'Iberville Class,mn,Escort,Torpedo Gunboat,Built,1891-08-01,960,3C-EE,5000,Coal,22,9260,100/45 M1891,1,65/50 M1888,2,Steel,0,0,40,
-dd-durandal,Durandal Class,mn,Escort,Destroyer,Built,1896-05-01,300,3C-EE,4800,Coal,26,4259,65/50 M1888,1,47/40 M1885,3,,0,0,0,
-tg-dunois,Dunois Class,mn,Escort,Torpedo Gunboat,Built,1896-09-01,889,3C-EE,7500,Coal,22,9260,65/50 M1888,4,,0,Steel,25,0,0,
-dd-framee,Framee Class,mn,Escort,Destroyer,Built,1897-05-01,314,3C-EE,4800,Coal,26,3796,65/50 M1888,1,47/40 M1885,3,,0,0,0,
-dd-pertuisane,Pertuisane Class,mn,Escort,Destroyer,Built,1899-06-01,306,3C-EE,4800,Coal,26,4259,65/50 M1888,1,47/40 M1885,3,,0,0,0,
-dd-arquebuse,Arquebuse Class,mn,Escort,Destroyer,Built,1901-05-01,298,3C-EE,6300,Coal,28,4259,65/50 M1902,1,47/40 M1885,3,,0,0,0,
-dd-claymore,Claymore Class,mn,Escort,Destroyer,Built,1904-03-01,350,3C-EE,6800,Coal,28,4259,65/50 M1902,1,47/50 M1902,3,,0,0,0,
-dd-branlebas,Branlebas Class,mn,Escort,Destroyer,Built,1905-09-01,339,3C-EE,6800,Coal,27.5,3889,65/50 M1902,1,47/50 M1902,3,,0,0,0,
-dd-spahi,Spahi Class,mn,Escort,Destroyer,Built,1906-11-01,530,3C-EE,7500,Coal,28,2222,65/50 M1902,4,,0,,0,0,0,
-dd-voltigeur,Voltigeur Class,mn,Escort,Destroyer,Built,1907-11-01,450,3C-EE,7500,Coal,28,2815,65/50 M1902,4,,0,,0,0,0,
-dd-chasseur,Chasseur Class,mn,Escort,Destroyer,Built,1907-12-01,450,Turbine,7200,Coal,28,2592,65/50 M1902,4,,0,,0,0,0,
-dd-janissaire,Janissaire Class,mn,Escort,Destroyer,Built,1908-10-01,450,Turbine,7200,Oil,28,2778,65/50 M1902,4,,0,,0,0,0,
-dd-bouclier,Bouclier Class,mn,Escort,Destroyer,Built,1909-11-01,740,Turbine,13000,Oil,30,2407,100/45 M1891,2,65/50 M1902,2,,0,0,0,
-dd-bisson,Bisson Class,mn,Escort,Destroyer,Built,1911-01-01,780,Turbine,15000,Oil,30,2592,100/45 M1891,2,65/50 M1888,2,,0,0,0,
-dd-enseigne-roux,Enseigne Roux Class,mn,Escort,Destroyer,Built,1913-11-01,850,Turbine,17000,Oil,30,2592,100/45 M1891,2,65/50 M1888,2,,0,0,0,
-dd-enseigne-gabolde,Enseigne Gabolde Class,mn,Escort,Destroyer,Built,1914-06-01,835,Geared Turbine,20000,Oil,31,2407,100/45 M1891,3,,0,,0,0,0,
-dd-arabe,Arabe Class,mn,Escort,Destroyer,Built,1917-01-01,685,3C-EE,10000,Coal+Oil,29,3704,120/40 41-shiki,1,76/40 41-shiki,2,,0,0,0,
-dd-chacal,Chacal Class,mn,Escort,Destroyer,Built,1922-08-01,2126,Geared Turbine,50000,Oil,35.5,5370,130/40 M1919,5,,0,,0,0,0,
-dd-bourrasque,Bourrasque Class,mn,Escort,Destroyer,Built,1923-03-01,1319,Geared Turbine,33000,Oil,33,3981,130/40 M1919,4,,0,,0,0,0,
-dd-l-adroit,L'Adroit Class,mn,Escort,Destroyer,Built,1925-02-01,1378,Geared Turbine,34000,Oil,33,3981,130/40 M1924,4,,0,,0,0,0,
-dd-guepard,Guepard Class,mn,Escort,Destroyer,Built,1927-03-01,2441,Geared Turbine,64000,Oil,35.5,6389,139/40 M1923,5,,0,,0,0,0,
-dd-aigle,Aigle Class,mn,Escort,Destroyer,Built,1928-10-01,2441,Geared Turbine,64000,Oil,36,6759,139/40 M1927,5,,0,,0,0,0,
-dd-vauguelin,Vauguelin Class,mn,Escort,Destroyer,Built,1930-03-01,2441,Geared Turbine,64000,Oil,36,6759,139/40 M1927,5,,0,,0,0,0,
-dd-le-fantasque,Le Fantasque Class,mn,Escort,Destroyer,Built,1931-11-01,2569,Geared Turbine,74000,Oil,37,5556,139/50 M1929,5,,0,,0,0,0,
-dd-mogador,Mogador Class,mn,Escort,Destroyer,Built,1934-12-01,2884,Geared Turbine,92000,Oil,39,7778,139/50 M1934,8,,0,,0,0,0,
-dd-le-hardi,Le Hardi Class,mn,Escort,Destroyer,Built,1936-05-01,1772,Geared Turbine,58000,Oil,37,3518,130/45 M1932,6,,0,,0,0,0,
-dd-l-intrepide,L'Intrepide Class,mn,Escort,Destroyer,Cancelled,1939-01-01,2215,Geared Turbine,62000,Oil,35,3518,130/45 M1932,6,,0,,0,0,0,
-dd-surcouf,Surcouf Class,mn,Escort,Destroyer,Built,1951-07-01,2750,Geared Turbine,63000,Oil,34,9260,127/54 M1948,6,,0,,0,0,0,
-dd-duperre,Duperre Class,mn,Escort,Destroyer,Built,1954-09-01,2750,Geared Turbine,63000,Oil,34,9260,127/54 M1948,6,,0,,0,0,0,
+tc-condor,Condor Class,mn,Escort,Torpedo Cruiser,Built,1883-04-01,1260,2C-EE,3000,Coal,17,5185,100/26 M1881,3,47/40 M1885,2,Steel,0,0,40,http://www.navypedia.org/ships/france/fr_dd_condor.htm
+tg-bombe,Bombe Class,mn,Escort,Torpedo Gunboat,Built,1883-11-01,400,2C-EE,1800,Coal,18,7000,47/40 M1885,2,37/40 M1885,3,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_bombe.htm
+tc-wattignies,Wattignies Class,mn,Escort,Torpedo Cruiser,Built,1889-10-01,1280,3C-EE,4000,Coal,18,5185,100/26 M1881,3,47/40 M1885,3,Steel,0,0,40,http://www.navypedia.org/ships/france/fr_dd_wattignies.htm
+tg-levrier,Levrier Class,mn,Escort,Torpedo Gunboat,Built,1890-02-01,503,3C-EE,2400,Coal,18.7,9260,65/50 M1888,1,47/40 M1885,2,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_levrier.htm
+tg-d-iberville,D'Iberville Class,mn,Escort,Torpedo Gunboat,Built,1891-08-01,960,3C-EE,5000,Coal,22,9260,100/45 M1891,1,65/50 M1888,2,Steel,0,0,40,http://www.navypedia.org/ships/france/fr_dd_diberville.htm
+dd-durandal,Durandal Class,mn,Escort,Destroyer,Built,1896-05-01,300,3C-EE,4800,Coal,26,4259,65/50 M1888,1,47/40 M1885,3,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_durandal.htm
+tg-dunois,Dunois Class,mn,Escort,Torpedo Gunboat,Built,1896-09-01,889,3C-EE,7500,Coal,22,9260,65/50 M1888,4,,0,Steel,25,0,0,http://www.navypedia.org/ships/france/fr_dd_dunois.htm
+dd-framee,Framee Class,mn,Escort,Destroyer,Built,1897-05-01,314,3C-EE,4800,Coal,26,3796,65/50 M1888,1,47/40 M1885,3,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_framee.htm
+dd-pertuisane,Pertuisane Class,mn,Escort,Destroyer,Built,1899-06-01,306,3C-EE,4800,Coal,26,4259,65/50 M1888,1,47/40 M1885,3,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_pertuisane.htm
+dd-arquebuse,Arquebuse Class,mn,Escort,Destroyer,Built,1901-05-01,298,3C-EE,6300,Coal,28,4259,65/50 M1902,1,47/40 M1885,3,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_arquebuse.htm
+dd-claymore,Claymore Class,mn,Escort,Destroyer,Built,1904-03-01,350,3C-EE,6800,Coal,28,4259,65/50 M1902,1,47/50 M1902,3,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_claymore.htm
+dd-branlebas,Branlebas Class,mn,Escort,Destroyer,Built,1905-09-01,339,3C-EE,6800,Coal,27.5,3889,65/50 M1902,1,47/50 M1902,3,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_branlebas.htm
+dd-spahi,Spahi Class,mn,Escort,Destroyer,Built,1906-11-01,530,3C-EE,7500,Coal,28,2222,65/50 M1902,4,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_spahi.htm
+dd-voltigeur,Voltigeur Class,mn,Escort,Destroyer,Built,1907-11-01,450,3C-EE,7500,Coal,28,2815,65/50 M1902,4,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_voltigeur.htm
+dd-chasseur,Chasseur Class,mn,Escort,Destroyer,Built,1907-12-01,450,Turbine,7200,Coal,28,2592,65/50 M1902,4,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_chasseur.htm
+dd-janissaire,Janissaire Class,mn,Escort,Destroyer,Built,1908-10-01,450,Turbine,7200,Oil,28,2778,65/50 M1902,4,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_chasseur.htm
+dd-bouclier,Bouclier Class,mn,Escort,Destroyer,Built,1909-11-01,740,Turbine,13000,Oil,30,2407,100/45 M1891,2,65/50 M1902,2,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_bouclier.htm
+dd-bisson,Bisson Class,mn,Escort,Destroyer,Built,1911-01-01,780,Turbine,15000,Oil,30,2592,100/45 M1891,2,65/50 M1888,2,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_bisson.htm
+dd-enseigne-roux,Enseigne Roux Class,mn,Escort,Destroyer,Built,1913-11-01,850,Turbine,17000,Oil,30,2592,100/45 M1891,2,65/50 M1888,2,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_enseigne_roux.htm
+dd-enseigne-gabolde,Enseigne Gabolde Class,mn,Escort,Destroyer,Built,1914-06-01,835,Geared Turbine,20000,Oil,31,2407,100/45 M1891,3,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_enseigne_roux.htm
+dd-arabe,Arabe Class,mn,Escort,Destroyer,Built,1917-01-01,685,3C-EE,10000,Coal+Oil,29,3704,120/40 41-shiki,1,76/40 41-shiki,2,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_arabe.htm
+dd-chacal,Chacal Class,mn,Escort,Destroyer,Built,1922-08-01,2126,Geared Turbine,50000,Oil,35.5,5370,130/40 M1919,5,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_chacal.htm
+dd-bourrasque,Bourrasque Class,mn,Escort,Destroyer,Built,1923-03-01,1319,Geared Turbine,33000,Oil,33,3981,130/40 M1919,4,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_bourrasque.htm
+dd-l-adroit,L'Adroit Class,mn,Escort,Destroyer,Built,1925-02-01,1378,Geared Turbine,34000,Oil,33,3981,130/40 M1924,4,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_ladroit.htm
+dd-guepard,Guepard Class,mn,Escort,Destroyer,Built,1927-03-01,2441,Geared Turbine,64000,Oil,35.5,6389,139/40 M1923,5,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_guepard.htm
+dd-aigle,Aigle Class,mn,Escort,Destroyer,Built,1928-10-01,2441,Geared Turbine,64000,Oil,36,6759,139/40 M1927,5,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_aigle.htm
+dd-vauguelin,Vauguelin Class,mn,Escort,Destroyer,Built,1930-03-01,2441,Geared Turbine,64000,Oil,36,6759,139/40 M1927,5,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_vauquelin.htm
+dd-le-fantasque,Le Fantasque Class,mn,Escort,Destroyer,Built,1931-11-01,2569,Geared Turbine,74000,Oil,37,5556,139/50 M1929,5,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_le_fantasque.htm
+dd-mogador,Mogador Class,mn,Escort,Destroyer,Built,1934-12-01,2884,Geared Turbine,92000,Oil,39,7778,139/50 M1934,8,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_mogador.htm
+dd-le-hardi,Le Hardi Class,mn,Escort,Destroyer,Built,1936-05-01,1772,Geared Turbine,58000,Oil,37,3518,130/45 M1932,6,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_le_hardi.htm
+dd-l-intrepide,L'Intrepide Class,mn,Escort,Destroyer,Cancelled,1939-01-01,2215,Geared Turbine,62000,Oil,35,3518,130/45 M1932,6,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_le_hardi.htm
+dd-surcouf,Surcouf Class,mn,Escort,Destroyer,Built,1951-07-01,2750,Geared Turbine,63000,Oil,34,9260,127/54 M1948,6,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_suffren.htm
+dd-duperre,Duperre Class,mn,Escort,Destroyer,Built,1954-09-01,2750,Geared Turbine,63000,Oil,34,9260,127/54 M1948,6,,0,,0,0,0,http://www.navypedia.org/ships/france/fr_dd_duperre.htm
 cds-harald-haarfagre,Harald Haarfagre Class,norway,Coastal Defense,Coastal Defense Ship,Built,1896-03-01,3380,3C-EE,4000,Coal,16.9,9260,210/45 Armstrong B,2,120/45 Armstrong Y,3,Harvey,178,0,0,http://www.navypedia.org/ships/norway/no_bb_harald_haarfagre.htm
 cds-norge,Norge Class,norway,Coastal Defense,Coastal Defense Ship,Built,1899-03-01,3645,3C-EE,4500,Coal,16.5,11112,210/45 Armstrong C,2,150/45 Armstrong FF,3,Krupp,152,0,0,http://www.navypedia.org/ships/norway/no_bb_norge.htm
 cds-nidaros,Nidaros Class,norway,Coastal Defense,Coastal Defense Ship,Built,1913-05-26,4900,3C-EE,4500,Coal+Oil,15,4630,240/50 Armstrong E,2,150/50 Armstrong UU,4,Krupp Cemented,178,0,0,http://www.navypedia.org/ships/norway/no_bb_nidaros.htm
 cl-viking,Viking Class,norway,Cruiser,Protected Cruiser,Built,1890-06-01,1120,2C-EE,2800,Coal,15,4259,150/40 SK C/92,2,,0,Harvey,0,0,35,http://www.navypedia.org/ships/norway/no_cr_viking.htm
 cl-frithjof,Frithjof Class,norway,Cruiser,Protected Cruiser,Built,1895-01-01,1360,3C-EE,2800,Coal,15,4259,120/45 Armstrong Y,2,76/40 Armstrong N,2,Harvey,0,0,30,http://www.navypedia.org/ships/norway/no_cr_frithjof.htm
-dd-valkyrjen,Valkyrjen Class,norway,Escort,Destroyer,Built,1895-06-01,375,3C-EE,3300,Coal,23,7037,76/40 Armstrong N,2,,0,,0,0,0,
-dd-draug,Draug Class,norway,Escort,Destroyer,Built,1907-03-01,550,3C-EE,7500,Coal,27,5185,76/40 Armstrong N,4,,0,,0,0,0,
-dd-garm,Garm Class,norway,Escort,Destroyer,Built,1912-01-01,550,Turbine,8000,Coal,27.4,5185,76/40 Armstrong N,4,,0,,0,0,0,
-dd-alesund,Alesund Class,norway,Escort,Destroyer,Cancelled,1939-04-01,1220,Geared Turbine,30000,Oil,34,5741,120/44 Bofors,4,,0,,0,0,0,
+dd-valkyrjen,Valkyrjen Class,norway,Escort,Destroyer,Built,1895-06-01,375,3C-EE,3300,Coal,23,7037,76/40 Armstrong N,2,,0,,0,0,0,http://www.navypedia.org/ships/norway/no_dd_valkirjen.htm
+dd-draug,Draug Class,norway,Escort,Destroyer,Built,1907-03-01,550,3C-EE,7500,Coal,27,5185,76/40 Armstrong N,4,,0,,0,0,0,http://www.navypedia.org/ships/norway/no_dd_draug.htm
+dd-garm,Garm Class,norway,Escort,Destroyer,Built,1912-01-01,550,Turbine,8000,Coal,27.4,5185,76/40 Armstrong N,4,,0,,0,0,0,http://www.navypedia.org/ships/norway/no_dd_draug.htm
+dd-alesund,Alesund Class,norway,Escort,Destroyer,Cancelled,1939-04-01,1220,Geared Turbine,30000,Oil,34,5741,120/44 Bofors,4,,0,,0,0,0,http://www.navypedia.org/ships/norway/no_dd_aalesund.htm
 cl-almirante-grau-1907,Almirante Grau Class (1907),peru,Cruiser,Light Cruiser,Built,1905-03-01,3100,4C-EE,14000,Coal,24,6067,150/50 Vickers J,2,76/40 Vickers N,4,Krupp Cemented,38,0,0,http://www.navypedia.org/ships/peru/per_cr_almirante_grau.htm
-dd-wicher,Wicher Class,poland,Escort,Destroyer,Built,1927-02-01,1540,Geared Turbine,30000,Oil,33,5556,130/40 M1924,4,,0,,0,0,0,
-dd-grom,Grom Class,poland,Escort,Destroyer,Built,1935-07-01,1975,Geared Turbine,54000,Oil,39,6482,120/50 Bofors M34,7,,0,,0,0,0,
+dd-wicher,Wicher Class,poland,Escort,Destroyer,Built,1927-02-01,1540,Geared Turbine,30000,Oil,33,5556,130/40 M1924,4,,0,,0,0,0,http://www.navypedia.org/ships/poland/pl_dd_wicher.htm
+dd-grom,Grom Class,poland,Escort,Destroyer,Built,1935-07-01,1975,Geared Turbine,54000,Oil,39,6482,120/50 Bofors M34,7,,0,,0,0,0,http://www.navypedia.org/ships/poland/pl_dd_grom.htm
 bt-duilio,Duilio Class,rm,Battleship,Turret Ship,Built,1873-01-06,10962,2C-EE,7711,Coal,15,6963,450/20 Armstrong MLR,2,,0,Steel,550,0,0,http://www.navypedia.org/ships/italy/it_bb_duilio80.htm
 bt-italia,Italia Class,rm,Battleship,Turret Ship,Built,1876-01-03,13678,2C-EE,11986,Coal,17.8,9260,432/27,2,149/26 C,3,Steel,0,0,100,http://www.navypedia.org/ships/italy/it_bb_italia.htm
 bt-lepanto,Lepanto Class,rm,Battleship,Turret Ship,Built,1876-11-04,13336,2C-EE,15797,Coal,18.4,9260,432/27,2,152/32 B,4,Steel,0,0,100,http://www.navypedia.org/ships/italy/it_bb_italia.htm
@@ -433,43 +433,43 @@ cl-duca-d'aosta,Duca d'Aosta Class,rm,Cruiser,Light Cruiser,Built,1932-10-29,831
 cl-duca-degli-abruzzi,Duca degli Abruzzi Class,rm,Cruiser,Light Cruiser,Built,1933-12-28,9440,Geared Turbine,100000,Oil,34,7639,152/55 Ansaldo 1934,10,100/47 OTO 1924,4,Krupp Cemented,100,0,0,http://www.navypedia.org/ships/italy/it_cr_abruzzi.htm
 cl-capitani-romani,Capitani Romani Class,rm,Cruiser,Light Cruiser,Built,1939-09-23,3686,Geared Turbine,110000,Oil,40,5556,135/45 Ansaldo 1938,8,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_cr_regolo.htm
 cl-etna,Etna Class,rm,Cruiser,Light Cruiser,Cancelled,1939-09-23,5900,Geared Turbine,40000,Oil,28,0,135/45 Ansaldo 1938,6,,0,Krupp Cemented,60,0,0,http://www.navypedia.org/ships/italy/it_cr_etna.htm
-tg-folgore,Folgore Class,rm,Escort,Torpedo Gunboat,Built,1885-02-01,375,2C-EE,2140,Coal,17,0,57/42 Nordenfelt,2,,0,,0,0,0,
-tg-goito,Goito Class,rm,Escort,Torpedo Gunboat,Built,1885-05-01,800,2C-EE,2800,Coal,18,2037,57/42 Nordenfelt,3,,0,Steel,0,0,40,
-tg-tripoli,Tripoli Class,rm,Escort,Torpedo Gunboat,Built,1885-06-01,835,2C-EE,2500,Coal,17.5,1852,120/32 B,1,57/42 Nordenfelt,3,Steel,0,0,40,
-tg-partenope,Partenope Class,rm,Escort,Torpedo Gunboat,Built,1888-06-01,880,3C-EE,4100,Coal,20,3333,120/40 A91,1,57/42 Nordenfelt,3,,0,0,0,
-tg-agordat,Agordat Class,rm,Escort,Torpedo Gunboat,Built,1897-02-01,1300,3C-EE,7750,Coal,22,5556,76/40 A1897,6,,0,Steel,0,0,20,
-dd-fulmine,Fulmine Class,rm,Escort,Destroyer,Built,1897-07-01,293,3C-EE,4729,Coal,24,1481,57/42 Nordenfelt,3,,0,,0,0,0,
-dd-lampo,Lampo Class,rm,Escort,Destroyer,Built,1899-05-01,315,3C-EE,5500,Coal,30,3704,76/40 A1897,1,57/42 Nordenfelt,3,,0,0,0,
-dd-aquilone,Aquilone Class,rm,Escort,Destroyer,Built,1899-08-01,325,3C-EE,5300,Coal,30,4074,57/42 Nordenfelt,3,,0,,0,0,0,
-dd-nembo,Nembo Class,rm,Escort,Destroyer,Built,1899-08-01,325,3C-EE,5300,Coal,30,4074,76/40 A1897,1,57/42 Nordenfelt,3,,0,0,0,
-dd-strale,Strale Class,rm,Escort,Destroyer,Built,1899-11-01,315,3C-EE,5500,Coal,30,3704,57/42 Nordenfelt,4,,0,,0,0,0,
-dd-artigliere,Artigliere Class,rm,Escort,Destroyer,Built,1905-07-01,395,3C-EE,6000,Coal,28.5,2778,76/40 A1897,2,,0,,0,0,0,
-dd-alpino,Alpino Class,rm,Escort,Destroyer,Built,1905-10-01,407,3C-EE,6000,Oil,28.5,2963,76/40 A1897,2,,0,,0,0,0,
-dd-indomito,Indomito Class,rm,Escort,Destroyer,Built,1910-06-01,672,Turbine,16000,Oil,30,2222,120/40 A91,1,76/40 A1897,2,,0,0,0,
-dd-ardito,Ardito Class,rm,Escort,Destroyer,Built,1912-02-01,695,Turbine,16000,Oil,30,2222,120/40 A91,1,76/40 A1897,2,,0,0,0,
-dl-alessandro-poerio,Alessandro Poerio Class,rm,Escort,Destroyer Leader,Built,1913-06-01,1028,Turbine,20000,Oil,31.5,3889,76/40 A1916,4,,0,,0,0,0,
-dd-audace,Audace Class,rm,Escort,Destroyer,Built,1913-08-01,750,Turbine,16000,Oil,30,1759,120/40 A91,1,76/40 A1897,2,,0,0,0,
-dd-rosolino-pilo,Rosolino Pilo Class,rm,Escort,Destroyer,Built,1913-08-01,770,Turbine,16000,Oil,30,2222,76/40 A1916,3,,0,,0,0,0,
-dl-carlo-mirabello,Carlo Mirabello Class,rm,Escort,Destroyer Leader,Built,1914-11-01,1784,Turbine,44000,Oil,35,4259,152/40 A1899,1,102/35 1914,4,,0,0,0,
-dd-giuseppe-sitori,Giuseppe Sitori Class,rm,Escort,Destroyer,Built,1916-02-01,790,Turbine,15500,Oil,30,3704,102/35 1914,3,,0,,0,0,0,
-dd-giuseppe-la-masa,Giuseppe La Masa Class,rm,Escort,Destroyer,Built,1916-09-01,785,Turbine,15500,Oil,30,4129,102/45 1917,4,,0,,0,0,0,
-dd-palestro,Palestro Class,rm,Escort,Destroyer,Built,1917-04-01,875,Turbine,18000,Oil,32,3648,102/45 1917,4,,0,,0,0,0,
-dd-generale-antonio-cantore,Generale Antonio Cantore Class,rm,Escort,Destroyer,Built,1919-11-01,730,Turbine,15500,Oil,30,3704,102/45 1917,3,,0,,0,0,0,
-dd-curtalone,Curtalone Class,rm,Escort,Destroyer,Built,1920-01-01,953,Turbine,22000,Oil,32,3333,120/45 1918,4,,0,,0,0,0,
-dl-leone,Leone Class,rm,Escort,Destroyer Leader,Built,1921-11-01,1745,Turbine,42000,Oil,34,3833,120/45 1918,8,,0,,0,0,0,
-dd-quintino-sella,Quintino Sella Class,rm,Escort,Destroyer,Built,1922-10-01,1140,Geared Turbine,36000,Oil,35,3333,120/45 1918,3,,0,,0,0,0,
-dd-nazzario-sauro,Nazzario Sauro Class,rm,Escort,Destroyer,Built,1924-02-01,1260,Geared Turbine,36000,Oil,35,4815,120/45 1926,4,,0,,0,0,0,
-dd-turbine,Turbine Class,rm,Escort,Destroyer,Built,1925-01-01,1220,Geared Turbine,40000,Oil,36,5926,120/45 1926,4,,0,,0,0,0,
-dl-navigatori,Navigatori Class,rm,Escort,Destroyer Leader,Built,1927-05-01,1935,Geared Turbine,50000,Oil,38,7037,120/50 1926,6,,0,,0,0,0,
-dd-freccia,Freccia Class,rm,Escort,Destroyer,Built,1929-01-01,1400,Geared Turbine,44000,Oil,38,6667,120/50 1926,4,,0,,0,0,0,
-dd-folgore,Folgore Class,rm,Escort,Destroyer,Built,1929-10-01,1450,Geared Turbine,44000,Oil,38,6667,120/50 1926,4,,0,,0,0,0,
-dd-maestrale,Maestrale Class,rm,Escort,Destroyer,Built,1931-09-01,1615,Geared Turbine,44000,Oil,38,7408,120/50 1926,4,,0,,0,0,0,
-dd-alfredo-oriani,Alfredo Oriani Class,rm,Escort,Destroyer,Built,1935-10-01,1675,Geared Turbine,48000,Oil,38,4055,120/50 1926,4,,0,,0,0,0,
-de-pegaso,Pegaso Class,rm,Escort,Destroyer Escort,Built,1936-02-01,1000,Geared Turbine,16000,Oil,28,9445,100/47 OTO 1931,2,,0,,0,0,0,
-dd-soldati-i,Soldati I Class,rm,Escort,Destroyer,Built,1937-01-01,1830,Geared Turbine,48000,Oil,38,4074,120/50 1926,4,,0,,0,0,0,
-dd-soldati-ii,Soldati II Class,rm,Escort,Destroyer,Built,1940-10-01,1830,Geared Turbine,48000,Oil,38,4074,120/50 1926,4,,0,,0,0,0,
-de-ciclone,ciclone Class,rm,Escort,Destroyer Escort,Built,1941-04-01,1113,Geared Turbine,16000,Oil,26,7408,100/47 OTO 1931,2,,0,,0,0,0,
-dd-comandanti,Comandanti Class,rm,Escort,Destroyer,Cancelled,1943-02-01,2067,Geared Turbine,60000,Oil,35,0,135/45 Ansaldo 1938,4,,0,,0,0,0,
+tg-folgore,Folgore Class,rm,Escort,Torpedo Gunboat,Built,1885-02-01,375,2C-EE,2140,Coal,17,0,57/42 Nordenfelt,2,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_folgore87.htm
+tg-goito,Goito Class,rm,Escort,Torpedo Gunboat,Built,1885-05-01,800,2C-EE,2800,Coal,18,2037,57/42 Nordenfelt,3,,0,Steel,0,0,40,http://www.navypedia.org/ships/italy/it_dd_goito.htm
+tg-tripoli,Tripoli Class,rm,Escort,Torpedo Gunboat,Built,1885-06-01,835,2C-EE,2500,Coal,17.5,1852,120/32 B,1,57/42 Nordenfelt,3,Steel,0,0,40,http://www.navypedia.org/ships/italy/it_dd_tripoli.htm
+tg-partenope,Partenope Class,rm,Escort,Torpedo Gunboat,Built,1888-06-01,880,3C-EE,4100,Coal,20,3333,120/40 A91,1,57/42 Nordenfelt,3,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_partenope.htm
+tg-agordat,Agordat Class,rm,Escort,Torpedo Gunboat,Built,1897-02-01,1300,3C-EE,7750,Coal,22,5556,76/40 A1897,6,,0,Steel,0,0,20,http://www.navypedia.org/ships/italy/it_dd_agordat.htm
+dd-fulmine,Fulmine Class,rm,Escort,Destroyer,Built,1897-07-01,293,3C-EE,4729,Coal,24,1481,57/42 Nordenfelt,3,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_fulmine.htm
+dd-lampo,Lampo Class,rm,Escort,Destroyer,Built,1899-05-01,315,3C-EE,5500,Coal,30,3704,76/40 A1897,1,57/42 Nordenfelt,3,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_lampo.htm
+dd-aquilone,Aquilone Class,rm,Escort,Destroyer,Built,1899-08-01,325,3C-EE,5300,Coal,30,4074,57/42 Nordenfelt,3,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_nembo.htm
+dd-nembo,Nembo Class,rm,Escort,Destroyer,Built,1899-08-01,325,3C-EE,5300,Coal,30,4074,76/40 A1897,1,57/42 Nordenfelt,3,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_nembo.htm
+dd-strale,Strale Class,rm,Escort,Destroyer,Built,1899-11-01,315,3C-EE,5500,Coal,30,3704,57/42 Nordenfelt,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_lampo.htm
+dd-artigliere,Artigliere Class,rm,Escort,Destroyer,Built,1905-07-01,395,3C-EE,6000,Coal,28.5,2778,76/40 A1897,2,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_artigliere.htm
+dd-alpino,Alpino Class,rm,Escort,Destroyer,Built,1905-10-01,407,3C-EE,6000,Oil,28.5,2963,76/40 A1897,2,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_alpino.htm
+dd-indomito,Indomito Class,rm,Escort,Destroyer,Built,1910-06-01,672,Turbine,16000,Oil,30,2222,120/40 A91,1,76/40 A1897,2,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_indomito.htm
+dd-ardito,Ardito Class,rm,Escort,Destroyer,Built,1912-02-01,695,Turbine,16000,Oil,30,2222,120/40 A91,1,76/40 A1897,2,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_ardito.htm
+dl-alessandro-poerio,Alessandro Poerio Class,rm,Escort,Destroyer Leader,Built,1913-06-01,1028,Turbine,20000,Oil,31.5,3889,76/40 A1916,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_poerio.htm
+dd-audace,Audace Class,rm,Escort,Destroyer,Built,1913-08-01,750,Turbine,16000,Oil,30,1759,120/40 A91,1,76/40 A1897,2,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_audace.htm
+dd-rosolino-pilo,Rosolino Pilo Class,rm,Escort,Destroyer,Built,1913-08-01,770,Turbine,16000,Oil,30,2222,76/40 A1916,3,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_pilo.htm
+dl-carlo-mirabello,Carlo Mirabello Class,rm,Escort,Destroyer Leader,Built,1914-11-01,1784,Turbine,44000,Oil,35,4259,152/40 A1899,1,102/35 1914,4,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_mirabello.htm
+dd-giuseppe-sitori,Giuseppe Sitori Class,rm,Escort,Destroyer,Built,1916-02-01,790,Turbine,15500,Oil,30,3704,102/35 1914,3,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_sirtori.htm
+dd-giuseppe-la-masa,Giuseppe La Masa Class,rm,Escort,Destroyer,Built,1916-09-01,785,Turbine,15500,Oil,30,4129,102/45 1917,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_la_masa.htm
+dd-palestro,Palestro Class,rm,Escort,Destroyer,Built,1917-04-01,875,Turbine,18000,Oil,32,3648,102/45 1917,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_palestro.htm
+dd-generale-antonio-cantore,Generale Antonio Cantore Class,rm,Escort,Destroyer,Built,1919-11-01,730,Turbine,15500,Oil,30,3704,102/45 1917,3,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_generali.htm
+dd-curtalone,Curtalone Class,rm,Escort,Destroyer,Built,1920-01-01,953,Turbine,22000,Oil,32,3333,120/45 1918,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_curtatone.htm
+dl-leone,Leone Class,rm,Escort,Destroyer Leader,Built,1921-11-01,1745,Turbine,42000,Oil,34,3833,120/45 1918,8,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_leone.htm
+dd-quintino-sella,Quintino Sella Class,rm,Escort,Destroyer,Built,1922-10-01,1140,Geared Turbine,36000,Oil,35,3333,120/45 1918,3,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_sella.htm
+dd-nazzario-sauro,Nazzario Sauro Class,rm,Escort,Destroyer,Built,1924-02-01,1260,Geared Turbine,36000,Oil,35,4815,120/45 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_sauro.htm
+dd-turbine,Turbine Class,rm,Escort,Destroyer,Built,1925-01-01,1220,Geared Turbine,40000,Oil,36,5926,120/45 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_turbine.htm
+dl-navigatori,Navigatori Class,rm,Escort,Destroyer Leader,Built,1927-05-01,1935,Geared Turbine,50000,Oil,38,7037,120/50 1926,6,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_navigatori.htm
+dd-freccia,Freccia Class,rm,Escort,Destroyer,Built,1929-01-01,1400,Geared Turbine,44000,Oil,38,6667,120/50 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_freccia.htm
+dd-folgore,Folgore Class,rm,Escort,Destroyer,Built,1929-10-01,1450,Geared Turbine,44000,Oil,38,6667,120/50 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_folgore.htm
+dd-maestrale,Maestrale Class,rm,Escort,Destroyer,Built,1931-09-01,1615,Geared Turbine,44000,Oil,38,7408,120/50 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_maestrale.htm
+dd-alfredo-oriani,Alfredo Oriani Class,rm,Escort,Destroyer,Built,1935-10-01,1675,Geared Turbine,48000,Oil,38,4055,120/50 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_oriani.htm
+de-pegaso,Pegaso Class,rm,Escort,Destroyer Escort,Built,1936-02-01,1000,Geared Turbine,16000,Oil,28,9445,100/47 OTO 1931,2,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_pegaso.htm
+dd-soldati-i,Soldati I Class,rm,Escort,Destroyer,Built,1937-01-01,1830,Geared Turbine,48000,Oil,38,4074,120/50 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_soldati.htm
+dd-soldati-ii,Soldati II Class,rm,Escort,Destroyer,Built,1940-10-01,1830,Geared Turbine,48000,Oil,38,4074,120/50 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_soldati.htm
+de-ciclone,ciclone Class,rm,Escort,Destroyer Escort,Built,1941-04-01,1113,Geared Turbine,16000,Oil,26,7408,100/47 OTO 1931,2,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_ciclone.htm
+dd-comandanti,Comandanti Class,rm,Escort,Destroyer,Cancelled,1943-02-01,2067,Geared Turbine,60000,Oil,35,0,135/45 Ansaldo 1938,4,,0,,0,0,0,http://www.navypedia.org/ships/italy/it_dd_comandanti.htm
 bc-invincible,Invincible Class,rn,Battlecruiser,Battlecruiser,Built,1906-02-05,17530,Turbine,41000,Coal+Oil,25,5720,305/45 Mark X,6,102/40 QF Mark III,8,Krupp Cemented,152,0,0,http://www.navypedia.org/ships/uk/brit_bb1_invincible.htm
 bc-indefatigable,Indefatigable Class,rn,Battlecruiser,Battlecruiser,Built,1909-02-23,18800,Turbine,43000,Coal+Oil,25.8,12390,305/45 Mark X,6,102/50 BL Mark VII,8,Krupp Cemented,152,0,0,http://www.navypedia.org/ships/uk/brit_bb1_indefatigable.htm
 bc-lion,Lion Class,rn,Battlecruiser,Battlecruiser,Built,1909-09-29,26690,Turbine,70000,Coal+Oil,27.5,10390,343/45 Mark V,8,102/50 BL Mark VII,8,Krupp Cemented,229,0,0,http://www.navypedia.org/ships/uk/brit_bb1_lion.htm
@@ -858,30 +858,29 @@ cds-sverige,Sverige Class,swn,Coastal Defense,Coastal Defense Ship,Built,1912-12
 ac-fylgia,Filgia Class,swn,Cruiser,Armored Cruiser,Built,1903-10-01,4310,4C-EE,12000,Coal,21.5,0,152/50 M1903,6,,0,Krupp,100,0,0,http://www.navypedia.org/ships/sweden/sw_cr_fylgia.htm
 cl-gotland,Gotland Class,swn,Cruiser,Light Cruiser,Built,1930-06-01,4750,Geared Turbine,33000,Oil,27.5,7408,152/55 M30,5,,0,Krupp Cemented,24,0,0,http://www.navypedia.org/ships/sweden/sw_cr_gotland.htm
 cl-tre-kronor,Tre Kronor Class,swn,Cruiser,Light Cruiser,Built,1943-09-27,7650,Geared Turbine,90000,Oil,33,8056,152/53 M42,7,,0,Krupp Cemented,70,0,0,http://www.navypedia.org/ships/sweden/sw_cr_tre_cronor.htm
-tg-ornen,Ornen Class,swn,Escort,Torpedo Gunboat,Built,1895-06-01,844,3C-EE,4000,Coal,20,2222,120/45 M1894,2,57/50 M98B,2,,0,0,0,
-dd-mode,Mode Class,swn,Escort,Destroyer,Built,1901-03-01,410,3C-EE,6000,Coal,30,2916,57/50 M98B,4,,0,,0,0,0,
-dd-magne,Magne Class,swn,Escort,Destroyer,Built,1904-03-01,430,3C-EE,7200,Coal,30,2592,57/50 M98B,4,,0,,0,0,0,
-dd-wale,Wale Class,swn,Escort,Destroyer,Built,1906-03-01,430,3C-EE,7665,Coal,30,2592,75/50 M1905,2,57/50 M98B,2,,0,0,0,
-dd-ragnar,Ragnar Class,swn,Escort,Destroyer,Built,1907-03-01,430,4C-EE,7200,Coal,30,2592,75/50 M1905,2,57/50 M98B,2,,0,0,0,
-dd-hugin,Hugin Class,swn,Escort,Destroyer,Built,1909-03-01,446,Turbine,10000,Coal,33,2778,75/50 M1905,4,,0,,0,0,0,
-dd-wrangle,Wrangle Class,swn,Escort,Destroyer,Built,1916-03-01,415,Geared Turbine,13000,Coal,34,2407,75/50 M1912,4,,0,,0,0,0,
-dd-ehrenskold,Ehrenskold Class,swn,Escort,Destroyer,Built,1924-06-01,974,Geared Turbine,24000,Oil,36,2963,120/45 M1924,3,,0,,0,0,0,
-dd-klas-horn,Klas Horn Class,swn,Escort,Destroyer,Built,1929-06-01,1004,Geared Turbine,26000,Oil,37,2963,120/45 M1924,3,,0,,0,0,0,
-dd-goteborg,Goteborg Class,swn,Escort,Destroyer,Built,1934-06-01,1024,Geared Turbine,32000,Oil,39,2222,120/45 M1924,3,,0,,0,0,0,
-de-mode,Mode Class,swn,Escort,Destroyer Escort,Built,1941-09-01,750,Geared Turbine,16000,Oil,31,2222,105/50 M1942,3,,0,,0,0,0,
-dd-visby,Visby Class,swn,Escort,Destroyer,Built,1942-04-01,1135,Geared Turbine,32000,Oil,39,2963,120/45 M1924,3,,0,,0,0,0,
-dd-oland,Oland Class,swn,Escort,Destroyer,Built,1943-06-01,1880,Geared Turbine,44000,Oil,35,4630,120/45 M1942,4,,0,,0,0,0,
+tg-ornen,Ornen Class,swn,Escort,Torpedo Gunboat,Built,1895-06-01,844,3C-EE,4000,Coal,20,2222,120/45 M1894,2,57/50 M98B,2,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_ornen.htm
+dd-mode,Mode Class,swn,Escort,Destroyer,Built,1901-03-01,410,3C-EE,6000,Coal,30,2916,57/50 M98B,4,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_mode.htm
+dd-magne,Magne Class,swn,Escort,Destroyer,Built,1904-03-01,430,3C-EE,7200,Coal,30,2592,57/50 M98B,4,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_magne.htm
+dd-wale,Wale Class,swn,Escort,Destroyer,Built,1906-03-01,430,3C-EE,7665,Coal,30,2592,75/50 M1905,2,57/50 M98B,2,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_wale.htm
+dd-ragnar,Ragnar Class,swn,Escort,Destroyer,Built,1907-03-01,430,4C-EE,7200,Coal,30,2592,75/50 M1905,2,57/50 M98B,2,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_ragnar.htm
+dd-hugin,Hugin Class,swn,Escort,Destroyer,Built,1909-03-01,446,Turbine,10000,Coal,33,2778,75/50 M1905,4,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_hugin.htm
+dd-wrangle,Wrangle Class,swn,Escort,Destroyer,Built,1916-03-01,415,Geared Turbine,13000,Coal,34,2407,75/50 M1912,4,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_wrangel.htm
+dd-ehrenskold,Ehrenskold Class,swn,Escort,Destroyer,Built,1924-06-01,974,Geared Turbine,24000,Oil,36,2963,120/45 M1924,3,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_ehrenskold.htm
+dd-klas-horn,Klas Horn Class,swn,Escort,Destroyer,Built,1929-06-01,1004,Geared Turbine,26000,Oil,37,2963,120/45 M1924,3,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_klas_horn.htm
+dd-goteborg,Goteborg Class,swn,Escort,Destroyer,Built,1934-06-01,1024,Geared Turbine,32000,Oil,39,2222,120/45 M1924,3,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_goteborg.htm
+de-mode,Mode Class,swn,Escort,Destroyer Escort,Built,1941-09-01,750,Geared Turbine,16000,Oil,31,2222,105/50 M1942,3,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_mode2.htm
+dd-visby,Visby Class,swn,Escort,Destroyer,Built,1942-04-01,1135,Geared Turbine,32000,Oil,39,2963,120/45 M1924,3,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_visby.htm
+dd-oland,Oland Class,swn,Escort,Destroyer,Built,1943-06-01,1880,Geared Turbine,44000,Oil,35,4630,120/45 M1942,4,,0,,0,0,0,http://www.navypedia.org/ships/sweden/sw_dd_oland.htm
 bb-resadiye,Resadiye Class,tn,Battleship,Dreadnought,Built,1911-08-01,23000,Turbine,26500,Coal+Oil,21,9400,343/45 Vickers A,10,152/50 Vickers O,8,Krupp Cemented,305,0,0,http://www.navypedia.org/ships/turkey/tu_bb_resadiye.htm
 pc-mecidiye,Mecidiye Class,tn,Cruiser,Protected Cruiser,Built,1901-11-07,3485,3C-EE,12500,Coal,22,8704,152/45 Armstrong BB,2,120/45 Armstrong Y,4,Krupp,0,0,102,http://www.navypedia.org/ships/turkey/tu_cr_mecidiye.htm
 pc-hamidiye,Hamidiye Class,tn,Cruiser,Protected Cruiser,Built,1902-04-01,1904,4C-EE,12000,Coal,22,9260,152/45 Armstrong BB,2,120/45 Armstrong Y,4,Krupp,0,0,102,http://www.navypedia.org/ships/turkey/tu_cr_hamidiye.htm
 pc-drama,Drama Class,tn,Cruiser,Protected Cruiser,Built,1907-06-01,3760,4C-EE,11530,Coal,22.95,5833,152/50 A1913,2,120/45 A1913,4,Krupp,0,0,100,http://www.navypedia.org/ships/turkey/tu_cr_drama.htm
-tg-peleng-i-derya,Peleng-i Derya Class,tn,Escort,Torpedo Gunboat,Built,1889-01-01,755,3C-EE,4700,Coal,18,2222,105/35 SK C/91,2,47/40 M1885,3,,0,0,0,
-tg-peyk-i-sevket,Peyk-i Sevket Class,tn,Escort,Torpedo Gunboat,Built,1906-02-01,775,3C-EE,5100,Coal,21,6000,105/40 SK C/97,2,57/45 SK C/99,3,,0,0,0,
-dd-samsun,Samsun Class,tn,Escort,Destroyer,Built,1906-06-01,284,3C-EE,5950,Coal,28,1805,65/50 M1902,1,47/50 M1902,3,,0,0,0,
-dd-talisman,Talisman Class,tn,Escort,Destroyer,Built,1914-12-01,1098,Turbine,25000,Oil,32,0,102/40 QF Mark IV,5,,0,,0,0,0,
-dd-zafer,Zafer Class,tn,Escort,Destroyer,Built,1930-01-01,1206,Geared Turbine,35000,Oil,36,6482,120/50 1926,4,,0,,0,0,0,
-dd-kocatepe,Kocatepe Class,tn,Escort,Destroyer,Built,1930-01-01,1250,Geared Turbine,40000,Oil,36,6482,120/50 1926,4,,0,,0,0,0,
-dd-demirhisar,Demirhisar Class,tn,Escort,Destroyer,Built,1939-03-01,1370,Geared Turbine,34000,Oil,35.5,10186,120/45 Mark IX,4,,0,,0,0,0,
+tg-peleng-i-derya,Peleng-i Derya Class,tn,Escort,Torpedo Gunboat,Built,1889-01-01,755,3C-EE,4700,Coal,18,2222,105/35 SK C/91,2,47/40 M1885,3,,0,0,0,http://www.navypedia.org/ships/turkey/tu_dd_pelengi_derya.htm
+tg-peyk-i-sevket,Peyk-i Sevket Class,tn,Escort,Torpedo Gunboat,Built,1906-02-01,775,3C-EE,5100,Coal,21,6000,105/40 SK C/97,2,57/45 SK C/99,3,,0,0,0,http://www.navypedia.org/ships/turkey/tu_dd_berk.htm
+dd-samsun,Samsun Class,tn,Escort,Destroyer,Built,1906-06-01,284,3C-EE,5950,Coal,28,1805,65/50 M1902,1,47/50 M1902,3,,0,0,0,http://www.navypedia.org/ships/turkey/tu_dd_samsun.htm
+dd-zafer,Zafer Class,tn,Escort,Destroyer,Built,1930-01-01,1206,Geared Turbine,35000,Oil,36,6482,120/50 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/turkey/tu_dd_zafer.htm
+dd-kocatepe,Kocatepe Class,tn,Escort,Destroyer,Built,1930-01-01,1250,Geared Turbine,40000,Oil,36,6482,120/50 1926,4,,0,,0,0,0,http://www.navypedia.org/ships/turkey/tu_dd_kocatepe.htm
+dd-demirhisar,Demirhisar Class,tn,Escort,Destroyer,Built,1939-03-01,1370,Geared Turbine,34000,Oil,35.5,10186,120/45 Mark IX,4,,0,,0,0,0,http://www.navypedia.org/ships/turkey/tu_dd_demirhisar_2.htm
 bc-lexington,Lexington Class,usn,Battlecruiser,Battlecruiser,Cancelled,1921-01-08,42000,Turbo Generator,180000,Oil,33,12000,406/50 Mk 2,8,152/53 Mk 12,8,Krupp Cemented,178,11,0,http://www.navypedia.org/ships/usa/us_bb_lexington.htm
 cb-alaska,Alaska Class,usn,Battlecruiser,Large Cruiser,Built,1941-12-17,30249,Geared Turbine,150000,Oil,33,22000,305/50 Mk 8,9,127/38 Mk 12 Ring,8,Krupp Cemented,230,0,0,http://www.navypedia.org/ships/usa/us_cr_alaska.htm
 bt-maine,Maine Class (1889),usn,Battleship,Turret Ship,Built,1888-10-17,6682,3C-EE,9293,Coal,16.5,6700,254/31 Mk 2,2,152/30 Mk 3,3,Harvey,305,0,76,
