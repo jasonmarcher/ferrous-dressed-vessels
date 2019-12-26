@@ -16,6 +16,7 @@ import groovy.json.JsonSlurper
 import java.io.FileWriter
 import java.nio.charset.Charset
 import java.time.LocalDate
+import java.time.format.DateTimeFormatter
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVParser
 import org.apache.commons.csv.CSVPrinter
@@ -64,6 +65,7 @@ task generateShipHistory {
 
     doLast {
         file(buildDir).mkdirs()
+        def today = LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE)
 
         def printer = new CSVPrinter(new FileWriter("$buildDir/history.csv"), CSVFormat.EXCEL)
         printer.printRecord('ClassID','ShipName','State','Date')
@@ -71,9 +73,10 @@ task generateShipHistory {
         // Construction / Fitting
         def records = CSVParser.parse(file("$buildDir/ships.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
         records.forEach { record ->
+            // println(record.get("ShipName"))
             def laidDown = LocalDate.parse(record.get("LaidDown"))
-            def launched = LocalDate.parse(record.get("Launched") ?: record.get("Stricken"))
-            def commissioned = LocalDate.parse(record.get("Commissioned") ?: record.get("Stricken"))
+            def launched = LocalDate.parse(record.get("Launched") ?: record.get("Stricken") ?: today)
+            def commissioned = LocalDate.parse(record.get("Commissioned") ?: record.get("Stricken") ?: today)
             def currentDate = laidDown.minusDays(laidDown.getDayOfMonth() - 1)
             def compareDate = laidDown
             def state = ""
@@ -106,9 +109,10 @@ task generateShipHistory {
         // Service
         records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
         records.forEach { record ->
+            // println(record.get("ShipName"))
             def currentDate = LocalDate.parse(record.get("Start"))
             currentDate = currentDate.minusDays(currentDate.getDayOfMonth() - 1)
-            def endDate = LocalDate.parse(record.get("End"))
+            def endDate = LocalDate.parse(record.get("End") ?: today)
             endDate = endDate.minusDays(endDate.getDayOfMonth() - 1)
             
             while (currentDate.isBefore(endDate)) {
