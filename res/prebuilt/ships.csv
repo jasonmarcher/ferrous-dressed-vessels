@@ -561,6 +561,8 @@ m-arkansas,USS Wyoming,Built,Scrapped,1899-04-11,1900-09-08,1902-12-08,1920-09-0
 pc-atlanta,USS Atlanta,Built,,1883-11-08,1884-10-09,1886-07-19,1912-04-01
 pc-atlanta,USS Boston,Built,,1883-11-15,1884-12-04,1887-05-02,1911-06-01
 pc-chicago,USS Chicago,Built,,1883-12-29,1885-12-05,1889-04-17,1910-01-01
+pc-new-orleans,USS New Orleans,Built,Scrapped,1895-03-01,1896-12-04,1898-03-18,1929-11-01
+pc-new-orleans,USS Albany,Built,Scrapped,1897-12-01,1899-01-14,1900-05-25,1929-11-01
 pc-baltimore,USS Baltimore,Built,,1887-05-05,1888-10-06,1890-01-07,1914-01-01
 pc-philadelphia,USS Philadelphia,Built,,1888-03-22,1889-09-07,1890-07-28,1904-05-01
 pc-newark,USS Newark,Built,,1888-06-12,1890-03-19,1891-02-02,1913-06-01
@@ -2244,7 +2246,7 @@ de-gmt,DE1,Built,Sold,1942-04-01,1942-06-27,,1945-11-01
 de-gmt,DE2,Built,Sold,1942-04-01,1942-06-27,,1945-11-01
 de-gmt,DE3,Built,Sold,1942-09-01,1942-11-23,,1943-03-01
 de-gmt,DE4,Built,Sold,1942-09-01,1942-11-23,,1943-03-01
-de-gmt,USS Evarts,Built,Scrapped,1942-10-01,1942-12-07,1943-04-01,1945-10-01
+de-gmt,USS Evarts,Built,Scrapped,1942-10-01,1942-12-07,1943-04-01,1945-10-02
 de-gmt,USS Wyffels,Built,Sold,1942-10-01,1942-12-07,1943-04-01,1945-08-01
 de-gmt,USS Griswold,Built,Scrapped,1942-11-01,1943-01-09,1943-04-01,1945-12-01
 de-gmt,USS Steele,Built,Scrapped,1942-11-01,1943-01-09,1943-04-01,1945-12-01
@@ -2349,7 +2351,7 @@ de-fmr,USS Edsall,Built,Scrapped,1942-07-01,1942-11-01,1943-04-01,1968-06-01
 de-fmr,USS Jacob Jones,Built,Scrapped,1942-06-01,1942-11-29,1943-04-01,1971-01-01
 de-fmr,USS Hammann,Built,Scrapped,1942-07-01,1942-12-13,1943-05-01,1972-10-01
 de-fmr,USS Robert E. Peary,Built,Scrapped,1942-06-01,1943-01-03,1943-05-01,1966-07-01
-de-fmr,USS Pillsbury,Built,Scrapped,1942-07-01,1943-01-10,1943-06-01,1965-07-01
+de-fmr,USS Pillsbury,Built,Converted,1942-07-01,1943-01-10,1943-06-01,1955-03-15
 de-fmr,USS Pope,Built,Scrapped,1942-07-01,1943-01-12,1943-06-01,1971-01-01
 de-fmr,USS Flaherty,Built,Scrapped,1942-11-01,1943-01-17,1943-06-01,1965-04-01
 de-fmr,USS Frederick C. Davis,Built,Sunk,1942-11-01,1943-01-24,1943-07-01,1945-04-24
@@ -2358,77 +2360,77 @@ de-fmr,USS Douglas L. Howard,Built,Scrapped,1942-12-01,1943-01-24,1943-07-01,197
 de-fmr,USS Farquhar,Built,Scrapped,1942-12-01,1943-02-13,1943-08-01,1972-10-01
 de-fmr,USS J. R. Y. Blakely,Built,Scrapped,1942-12-01,1943-03-07,1943-08-01,1971-01-01
 de-fmr,USS Hill,Built,Scrapped,1942-12-01,1943-02-28,1943-08-01,1972-10-01
-de-fmr,USS Fessenden,Built,Scrapped,1943-01-01,1943-03-09,1943-08-01,1966-09-01
+de-fmr,USS Fessenden,Built,Converted,1943-01-01,1943-03-09,1943-08-01,1952-03-04
 de-fmr,USS Fiske,Built,Sunk,1943-01-01,1943-03-14,1943-08-01,1944-08-02
 de-fmr,USS Frost,Built,Scrapped,1943-01-01,1943-03-21,1943-08-01,1965-04-01
 de-fmr,USS Huse,Built,Scrapped,1943-01-01,1943-03-23,1943-08-01,1973-08-01
 de-fmr,USS Inch,Built,Scrapped,1943-01-01,1943-04-04,1943-09-01,1972-10-01
-de-fmr,USS Blair,Built,Scrapped,1943-01-01,1943-04-06,1943-09-01,1972-12-01
+de-fmr,USS Blair,Built,Converted,1943-01-01,1943-04-06,1943-09-01,1951-10-05
 de-fmr,USS Brough,Built,Scrapped,1943-01-01,1943-04-10,1943-09-01,1965-11-01
 de-fmr,USS Chatelaine,Built,Scrapped,1943-01-01,1943-04-21,1943-09-01,1973-08-01
 de-fmr,USS Neunzer,Built,Scrapped,1943-01-01,1943-04-27,1943-09-01,1972-07-01
 de-fmr,USS Poole,Built,Scrapped,1943-02-01,1943-05-08,1943-09-01,1971-01-01
 de-fmr,USS Peterson,Built,Scrapped,1943-02-01,1943-05-15,1943-09-01,1973-08-01
 de-fmr,USS Stewart,Built,Scrapped,1942-07-01,1942-11-22,1943-05-01,1972-10-01
-de-fmr,USS Sturtevant,Built,Scrapped,1942-07-01,1942-12-03,1943-06-01,1972-12-01
+de-fmr,USS Sturtevant,Built,Converted,1942-07-01,1942-12-03,1943-06-01,1951-08-03
 de-fmr,USS Moore,Built,Scrapped,1942-07-01,1942-12-21,1943-07-01,1973-08-01
 de-fmr,USS Keith,Built,Scrapped,1942-08-01,1942-12-21,1943-07-01,1972-11-01
 de-fmr,USS Tomich,Built,Scrapped,1942-09-01,1942-12-28,1943-07-01,1972-11-01
 de-fmr,USS J. Richard Ward,Built,Scrapped,1942-09-01,1943-01-06,1943-07-01,1971-01-01
-de-fmr,USS Otterstetter,Built,Scrapped,1942-11-01,1943-01-19,1943-08-01,1974-08-01
+de-fmr,USS Otterstetter,Built,Converted,1942-11-01,1943-01-19,1943-08-01,1952-06-06
 de-fmr,USS Sloat,Built,Scrapped,1942-11-01,1943-01-21,1943-08-01,1971-01-01
 de-fmr,USS Snowden,Built,Scrapped,1942-12-01,1943-02-19,1943-08-01,1968-09-01
 de-fmr,USS Stanton,Built,Scrapped,1942-12-01,1943-02-21,1943-08-01,1970-12-01
 de-fmr,USS Swasey,Built,Scrapped,1942-12-01,1943-03-18,1943-08-01,1972-11-01
 de-fmr,USS Marchand,Built,Scrapped,1942-12-01,1943-03-20,1943-09-01,1971-01-01
 de-fmr,USS Hurst,Built,Sold,1943-01-01,1943-04-14,1943-08-01,1972-12-01
-de-fmr,USS Camp,Built,Sold,1943-01-01,1943-04-16,1943-09-01,1971-02-01
+de-fmr,USS Camp,Built,Converted,1943-01-01,1943-04-16,1943-09-01,1956-07-31
 de-fmr,USS Howard D. Crow,Built,Scrapped,1943-02-01,1943-04-26,1943-09-01,1968-09-01
 de-fmr,USS Pettit,Built,Scrapped,1943-02-01,1943-04-28,1943-09-01,1973-08-01
 de-fmr,USS Picketts,Built,Scrapped,1943-03-01,1943-05-10,1943-10-01,1972-11-01
-de-fmr,USS Sellstrom,Built,Scrapped,1943-03-01,1943-05-12,1943-10-01,1965-11-01
-de-fmr,USS Harveston,Built,Scrapped,1943-03-01,1943-05-22,1943-10-01,1966-12-01
-de-fmr,USS Joyce,Built,Scrapped,1943-03-01,1943-05-26,1943-09-01,1972-12-01
-de-fmr,USS Kirkpatrick,Built,Scrapped,1943-03-01,1943-06-05,1943-10-01,1974-08-01
+de-fmr,USS Sellstrom,Built,Converted,1943-03-01,1943-05-12,1943-10-01,1956-10-01
+de-fmr,USS Harveston,Built,Converted,1943-03-01,1943-05-22,1943-10-01,1951-02-12
+de-fmr,USS Joyce,Built,Converted,1943-03-01,1943-05-26,1943-09-01,1951-02-28
+de-fmr,USS Kirkpatrick,Built,Converted,1943-03-01,1943-06-05,1943-10-01,1952-02-23
 de-fmr,USS Leopold,Built,Sunk,1943-03-01,1943-06-12,1943-10-01,1944-03-10
 de-fmr,USS Menges,Built,Scrapped,1943-03-01,1943-06-15,1943-10-01,1971-01-01
 de-fmr,USS Mosley,Built,Scrapped,1943-04-01,1943-06-26,1943-10-01,1971-01-01
-de-fmr,USS Newell,Built,Scrapped,1943-04-01,1943-06-29,1943-10-01,1968-09-01
+de-fmr,USS Newell,Built,Converted,1943-04-01,1943-06-29,1943-10-01,1957-08-20
 de-fmr,USS Pride,Built,Scrapped,1943-04-01,1943-07-03,1943-11-01,1971-01-01
-de-fmr,USS Falgout,Built,Scrapped,1943-05-01,1943-07-24,1943-11-01,1975-06-01
-de-fmr,USS Lowe,Built,Scrapped,1943-05-01,1943-07-28,1943-11-01,1968-09-01
-de-fmr,USS Thomas J. Gary,Built,Sold,1943-06-01,1943-08-21,1943-11-01,1973-10-01
-de-fmr,USS Brister,Built,Scrapped,1943-06-01,1943-08-24,1943-11-01,1968-09-01
-de-fmr,USS Finch,Built,Scrapped,1943-06-01,1943-08-28,1943-12-01,1974-02-01
-de-fmr,USS Kretchmer,Built,Scrapped,1943-06-01,1943-08-31,1943-12-01,1973-10-01
+de-fmr,USS Falgout,Built,Converted,1943-05-01,1943-07-24,1943-11-01,1955-06-30
+de-fmr,USS Lowe,Built,Converted,1943-05-01,1943-07-28,1943-11-01,1955-01-15
+de-fmr,USS Thomas J. Gary,Built,Converted,1943-06-01,1943-08-21,1943-11-01,1957-08-02
+de-fmr,USS Brister,Built,Converted,1943-06-01,1943-08-24,1943-11-01,1956-07-21
+de-fmr,USS Finch,Built,Converted,1943-06-01,1943-08-28,1943-12-01,1956-09-17
+de-fmr,USS Kretchmer,Built,Converted,1943-06-01,1943-08-31,1943-12-01,1956-09-22
 de-fmr,USS O`Reilly,Built,Scrapped,1943-07-01,1943-10-02,1943-12-01,1971-01-01
-de-fmr,USS Koiner,Built,Scrapped,1943-07-01,1943-10-05,1943-12-01,1968-09-01
-de-fmr,USS Price,Built,Scrapped,1943-08-01,1943-10-30,1944-01-01,1974-08-01
-de-fmr,USS Strickland,Built,Scrapped,1943-08-01,1943-11-02,1944-01-01,1972-12-01
-de-fmr,USS Forster,Built,Scrapped,1943-08-01,1943-11-13,1944-01-01,1971-09-01
+de-fmr,USS Koiner,Built,Converted,1943-07-01,1943-10-05,1943-12-01,1955-08-26
+de-fmr,USS Price,Built,Converted,1943-08-01,1943-10-30,1944-01-01,1956-08-01
+de-fmr,USS Strickland,Built,Converted,1943-08-01,1943-11-02,1944-01-01,1952-02-02
+de-fmr,USS Forster,Built,Converted,1943-08-01,1943-11-13,1944-01-01,1956-10-23
 de-fmr,USS Daniel,Built,Scrapped,1943-08-01,1943-11-16,1944-01-01,1971-01-01
-de-fmr,USS Roy O. Hale,Built,Scrapped,1943-09-01,1943-11-20,1944-02-01,1974-08-01
+de-fmr,USS Roy O. Hale,Built,Converted,1943-09-01,1943-11-20,1944-02-01,1957-01-29
 de-fmr,USS Dale W. Peterson,Built,Scrapped,1943-10-01,1943-12-22,1944-02-01,1971-01-01
 de-fmr,USS Martin H. Ray,Built,Scrapped,1943-10-01,1943-12-29,1944-02-01,1966-05-01
-de-fmr,USS Ramsden,Built,Scrapped,1943-03-01,1943-05-24,1943-10-01,1974-08-01
-de-fmr,USS Mills,Built,Scrapped,1943-03-01,1943-05-26,1943-10-01,1974-08-01
-de-fmr,USS Rhodes,Built,Scrapped,1943-04-01,1943-06-29,1943-10-01,1974-08-01
+de-fmr,USS Ramsden,Built,Converted,1943-03-01,1943-05-24,1943-10-01,1957-12-10
+de-fmr,USS Mills,Built,Converted,1943-03-01,1943-05-26,1943-10-01,1957-10-03
+de-fmr,USS Rhodes,Built,Converted,1943-04-01,1943-06-29,1943-10-01,1955-08-01
 de-fmr,USS Richey,Built,Scrapped,1943-04-01,1943-06-30,1943-10-01,1968-06-01
-de-fmr,USS Savage,Built,Scrapped,1943-04-01,1943-07-15,1943-10-01,1975-06-01
-de-fmr,USS Vance,Built,Scrapped,1943-04-01,1943-07-16,1943-11-01,1975-06-01
-de-fmr,USS Lansing,Built,Scrapped,1943-05-01,1943-08-02,1943-11-01,1974-02-01
-de-fmr,USS Durant,Built,Scrapped,1943-05-01,1943-08-03,1943-11-01,1974-04-01
-de-fmr,USS Calcaterra,Built,Scrapped,1943-05-01,1943-08-16,1943-11-01,1973-07-01
-de-fmr,USS Chambers,Built,Scrapped,1943-05-01,1943-08-17,1943-11-01,1975-03-01
+de-fmr,USS Savage,Built,Converted,1943-04-01,1943-07-15,1943-10-01,1955-02-18
+de-fmr,USS Vance,Built,Converted,1943-04-01,1943-07-16,1943-11-01,1956-10-05
+de-fmr,USS Lansing,Built,Converted,1943-05-01,1943-08-02,1943-11-01,1956-12-18
+de-fmr,USS Durant,Built,Converted,1943-05-01,1943-08-03,1943-11-01,1956-12-07
+de-fmr,USS Calcaterra,Built,Converted,1943-05-01,1943-08-16,1943-11-01,1955-09-12
+de-fmr,USS Chambers,Built,Converted,1943-05-01,1943-08-17,1943-11-01,1955-06-01
 de-fmr,USS Merrill,Built,Scrapped,1943-07-01,1943-08-29,1943-11-01,1971-04-01
-de-fmr,USS Haverfield,Built,Scrapped,1943-07-01,1943-08-30,1943-11-01,1969-06-01
+de-fmr,USS Haverfield,Built,Converted,1943-07-01,1943-08-30,1943-11-01,1955-01-04
 de-fmr,USS Swenning,Built,Scrapped,1943-07-01,1943-09-13,1943-12-01,1972-07-01
 de-fmr,USS Willis,Built,Scrapped,1943-07-01,1943-09-14,1943-12-01,1972-07-01
 de-fmr,USS Janssen,Built,Scrapped,1943-08-01,1943-10-04,1943-12-01,1972-07-01
-de-fmr,USS Wilhoite,Built,Scrapped,1943-08-01,1943-10-05,1943-12-01,1969-07-01
+de-fmr,USS Wilhoite,Built,Converted,1943-08-01,1943-10-05,1943-12-01,1955-01-29
 de-fmr,USS Cockrill,Built,Scrapped,1943-08-01,1943-10-29,1943-12-01,1973-08-01
 de-fmr,USS Stockdale,Built,Scrapped,1943-08-01,1943-10-30,1943-12-01,1972-07-01
-de-fmr,USS Hissem,Built,Scrapped,1943-10-01,1943-12-26,1944-01-01,1975-06-01
+de-fmr,USS Hissem,Built,Converted,1943-10-01,1943-12-26,1944-01-01,1956-08-31
 de-fmr,USS Holder,Built,Sunk,1943-10-01,1943-12-27,1944-01-01,1944-04-11
 de-te,USS Buckley,Built,Scrapped,1942-06-01,1943-01-09,1943-04-01,1968-06-01
 de-te,USS Bull,Built,Sold,1942-06-01,1943-02-03,,1946-02-01
@@ -6500,3 +6502,37 @@ cag-boston,USS Canberra,Converted,Scrapped,1952-01-01,,1956-06-15,1978-07-01
 cg-albany,USS Albany,Converted,Scrapped,1958-11-01,,1962-11-03,1985-06-01
 cg-albany,USS Chicago,Converted,Scrapped,1958-11-01,,1964-05-02,1984-01-01
 cg-albany,USS Columbus,Converted,Scrapped,1959-09-01,,1962-12-01,1976-08-01
+der-harveston,USS Pillsbury,Built,Scrapped,1955-03-15,,1955-03-15,1965-07-01
+der-harveston,USS Fessenden,Built,Scrapped,1952-03-04,,1952-03-04,1966-09-01
+der-harveston,USS Blair,Built,Scrapped,1951-10-05,,1951-10-05,1972-12-01
+der-harveston,USS Sturtevant,Built,Scrapped,1951-08-03,,1951-08-03,1972-12-01
+der-harveston,USS Otterstetter,Built,Scrapped,1952-06-06,,1952-06-06,1974-08-01
+der-harveston,USS Camp,Built,Sold,1956-07-31,,1956-07-31,1971-02-01
+der-harveston,USS Sellstrom,Built,Scrapped,1956-10-01,,1956-10-01,1965-11-01
+der-harveston,USS Harveston,Built,Scrapped,1951-02-12,,1951-02-12,1966-12-01
+der-harveston,USS Joyce,Built,Scrapped,1951-02-28,,1951-02-28,1972-12-01
+der-harveston,USS Kirkpatrick,Built,Scrapped,1952-02-23,,1952-02-23,1974-08-01
+der-harveston,USS Newell,Built,Scrapped,1957-08-20,,1957-08-20,1968-09-01
+der-harveston,USS Falgout,Built,Scrapped,1955-06-30,,1955-06-30,1975-06-01
+der-harveston,USS Lowe,Built,Scrapped,1955-01-15,,1955-01-15,1968-09-01
+der-harveston,USS Thomas J. Gary,Built,Sold,1957-08-02,,1957-08-02,1973-10-01
+der-harveston,USS Brister,Built,Scrapped,1956-07-21,,1956-07-21,1968-09-01
+der-harveston,USS Finch,Built,Scrapped,1956-09-17,,1956-09-17,1974-02-01
+der-harveston,USS Kretchmer,Built,Scrapped,1956-09-22,,1956-09-22,1973-10-01
+der-harveston,USS Koiner,Built,Scrapped,1955-08-26,,1955-08-26,1968-09-01
+der-harveston,USS Price,Built,Scrapped,1956-08-01,,1956-08-01,1974-08-01
+der-harveston,USS Strickland,Built,Scrapped,1952-02-02,,1952-02-02,1972-12-01
+der-harveston,USS Forster,Built,Scrapped,1956-10-23,,1956-10-23,1971-09-01
+der-harveston,USS Roy O. Hale,Built,Scrapped,1957-01-29,,1974-08-01,1974-08-01
+der-harveston,USS Ramsden,Built,Scrapped,1957-12-10,,1957-12-10,1974-08-01
+der-harveston,USS Mills,Built,Scrapped,1957-10-03,,1957-10-03,1974-08-01
+der-harveston,USS Rhodes,Built,Scrapped,1955-08-01,,1955-08-01,1974-08-01
+der-harveston,USS Savage,Built,Scrapped,1955-02-18,,1955-02-18,1975-06-01
+der-harveston,USS Vance,Built,Scrapped,1956-10-05,,1956-10-05,1975-06-01
+der-harveston,USS Lansing,Built,Scrapped,1956-12-18,,1956-12-18,1974-02-01
+der-harveston,USS Durant,Built,Scrapped,1956-12-07,,1956-12-07,1974-04-01
+der-harveston,USS Calcaterra,Built,Scrapped,1955-09-12,,1955-09-12,1973-07-01
+der-harveston,USS Chambers,Built,Scrapped,1955-06-01,,1955-06-01,1975-03-01
+der-harveston,USS Haverfield,Built,Scrapped,1955-01-04,,1955-01-04,1969-06-01
+der-harveston,USS Wilhoite,Built,Scrapped,1955-01-29,,1955-01-29,1969-07-01
+der-harveston,USS Hissem,Built,Scrapped,1956-08-31,,1956-08-31,1975-06-01
