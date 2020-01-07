@@ -205,7 +205,7 @@ cl-karlsruhe,Karlsruhe Class,Karlsruhe Class,km,Cruiser,Light Cruiser,Built,1911
 cl-graudenz,Graudenz Class,Graudenz Class,km,Cruiser,Light Cruiser,Built,1912-08-01,4912,Turbine,26000,Coal+Oil,27.5,10200,105/45 SK C/09,7,,0,Krupp Cemented,60,0,0,http://www.navypedia.org/ships/germany/ger_cr_graudenz.htm
 cl-wiesbaden,Wiesbaden Class,Wiesbaden Class,km,Cruiser,Light Cruiser,Built,1913-09-01,5180,Turbine,31000,Coal+Oil,27.5,8900,150/45 SK C/09,5,,0,Krupp Cemented,60,0,0,http://www.navypedia.org/ships/germany/ger_cr_wiesbaden.htm
 cl-konigsberg-1915,Konigsberg Class (1915),Konigsberg Class (1915),km,Cruiser,Light Cruiser,Built,1914-08-22,5440,Turbine,31000,Coal+Oil,27.5,8980,150/45 SK C/09,5,88/45 SK C/13,2,Krupp Cemented,60,0,0,http://www.navypedia.org/ships/germany/ger_cr_koenigsberg16.htm
-clm-brummer,Brummer Class,Brummer Class,km,Cruiser,Minelaying Light Cruiser,Built,1915-01-01,4385,Turbine,33000,Coal+Oil,28,10700,150/45 SK C/09,4,88/45 SK C/13,2,Krupp Cemented,40,0,0,http://www.navypedia.org/ships/germany/ger_cr_brummer.htm
+clm-brummer,Brummer Class,Brummer Class,km,Mining,Minelaying Light Cruiser,Built,1915-01-01,4385,Turbine,33000,Coal+Oil,28,10700,150/45 SK C/09,4,88/45 SK C/13,2,Krupp Cemented,40,0,0,http://www.navypedia.org/ships/germany/ger_cr_brummer.htm
 cl-coln,Coln Class,Coln Class,km,Cruiser,Light Cruiser,Built,1915-11-01,5620,Turbine,31000,Coal+Oil,27.5,10000,150/45 SK C/09,5,88/45 SK C/13,2,Krupp Cemented,60,0,0,http://www.navypedia.org/ships/germany/ger_cr_coeln.htm
 cl-emden,Emden Class,Emden Class,km,Cruiser,Light Cruiser,Built,1921-12-08,5400,Geared Turbine,46500,Coal / Oil,29.5,12400,150/45 SK C/09,6,88/45 SK C/13,2,Krupp Cemented,50,0,0,http://www.navypedia.org/ships/germany/ger_cr_emden.htm
 cl-konigsberg,Konigsberg Class,Konigsberg Class,km,Cruiser,Light Cruiser,Built,1926-04-12,7800,Geared Turbine,65000,Oil,32,10600,150/60 SK C/25,9,88/45 SK C/13,2,Krupp Cemented,50,0,0,http://www.navypedia.org/ships/germany/ger_cr_konigsberg.htm
@@ -672,7 +672,7 @@ dd-acasta,Acasta Class,Acasta Class,rn,Escort,Destroyer,Built,1911-10-01,1072,Tu
 dd-owl,Owl Class,Owl Class,rn,Escort,Destroyer,Built,1911-11-01,1072,Turbine,24500,Oil,29,0,102/40 QF Mark IV,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_acasta.htm
 dl-faulknor-1914,Faulknor Class (1914),Faulknor Class (1914),rn,Escort,Destroyer Leader,Built,1912-02-01,1910,Turbine,30000,Coal+Oil,31,0,102/40 QF Mark VI,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_faulknor.htm
 dd-laforey-1913,Laforey Class (1913),Laforey Class (1913),rn,Escort,Destroyer,Built,1912-07-01,965,Turbine,24500,Oil,29,0,102/40 QF Mark IV,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_laforey.htm
-dd-m,M Class,M Class,rn,Escort,Destroyer,Built,1913-03-01,900,Turbine,25000,Oil,34,0,102/40 QF Mark IV,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_m.htm
+dd-m-1912,M Class,M Class,rn,Escort,Destroyer,Built,1913-03-01,900,Turbine,25000,Oil,34,0,102/40 QF Mark IV,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_m.htm
 dl-marksman,Marksman Class,Marksman Class,rn,Escort,Destroyer Leader,Built,1914-06-01,1440,Turbine,36000,Oil,34.5,4630,102/40 QF Mark IV,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_marksman.htm
 dd-mandate,M Class,Mandate Class,rn,Escort,Destroyer,Built,1914-09-01,1025,Turbine,25000,Oil,34,0,102/40 QF Mark IV,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_thornycroft_m.htm
 ss-acacia,Acacia Class,Acacia Class,rn,Escort,Sweeping Sloop,Built,1915-01-01,1200,3C-EE,1800,Coal,16.5,3704,76/40 QF Mark I,2,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_sl_acacia.htm
@@ -683,15 +683,15 @@ dd-r-1915,R Class (1915),R Class (1915),rn,Escort,Destroyer,Built,1915-08-01,975
 as-aubrietia,Aubrietia Class,Aubrietia Class,rn,Escort,Merchant Sloop,Built,1916-01-01,1250,3C-EE,2500,Coal,17.5,3704,102/40 QF Mark IV,2,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_sl_aubretia.htm
 dl-valkyrie,Valkyrie Class,Valkyrie Class,rn,Escort,Destroyer Leader,Built,1916-05-01,1188,Geared Turbine,27000,Oil,34,4815,102/45 QF Mark V,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_v_leader.htm
 dd-r-mod,R Class,R Class (Modified),rn,Escort,Destroyer,Built,1916-07-01,975,Geared Turbine,27000,Oil,36,6370,102/40 QF Mark IV,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_mod_r.htm
-dd-v,V Class,V Class,rn,Escort,Destroyer,Built,1916-09-01,1090,Geared Turbine,27000,Oil,34,4815,102/45 QF Mark V,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_admiralty_v.htm
-dm-vanoc,Vanoc Class,Vanoc Class,rn,Escort,Minelaying Destroyer,Built,1916-09-01,1090,Geared Turbine,27000,Oil,34,4815,102/45 QF Mark V,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_admiralty_v.htm
+dd-v-1916,V Class,V Class,rn,Escort,Destroyer,Built,1916-09-01,1090,Geared Turbine,27000,Oil,34,4815,102/45 QF Mark V,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_admiralty_v.htm
+dm-vanoc,Vanoc Class,Vanoc Class,rn,Mining,Minelaying Destroyer,Built,1916-09-01,1090,Geared Turbine,27000,Oil,34,4815,102/45 QF Mark V,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_admiralty_v.htm
 dl-shakespeare,Shakespeare Class,Shakespeare Class,rn,Escort,Destroyer Leader,Built,1916-10-01,1554,Geared Turbine,40000,Oil,36,9260,120/45 Mark I,5,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_shakespeare.htm
 dd-w-1917,W Class (1917),W Class (1917),rn,Escort,Destroyer,Built,1917-01-01,1100,Geared Turbine,27000,Oil,34,4815,102/45 QF Mark V,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_admiralty_w.htm
 as-anchusa,Anchusa Class,Anchusa Class,rn,Escort,Merchant Sloop,Built,1917-02-01,1290,3C-EE,2500,Coal,17.5,3704,102/40 QF Mark IV,2,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_sl_anchusa.htm
 dd-s-1918,S Class (1918),S Class (1918),rn,Escort,Destroyer,Built,1917-02-01,1075,Geared Turbine,27000,Oil,36,5093,102/40 QF Mark III,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_admiralty_s.htm
 dd-s-1918-late,S Class (1918),"S Class (1918, Late)",rn,Escort,Destroyer,Built,1917-02-01,1075,Geared Turbine,27000,Oil,36,5093,102/40 QF Mark III,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_admiralty_s.htm
 dl-scott,Scott Class,Scott Class,rn,Escort,Destroyer Leader,Built,1917-02-01,1580,Geared Turbine,40000,Oil,36,9260,120/45 Mark I,5,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_scott.htm
-dm-walker,Walker Class,Walker Class,rn,Escort,Minelaying Destroyer,Built,1917-03-01,1100,Geared Turbine,27000,Oil,34,4815,102/45 QF Mark V,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_admiralty_w.htm
+dm-walker,Walker Class,Walker Class,rn,Mining,Minelaying Destroyer,Built,1917-03-01,1100,Geared Turbine,27000,Oil,34,4815,102/45 QF Mark V,3,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_admiralty_w.htm
 ss-24-type,24 Type Class,24 Type Class,rn,Escort,Sweeping Sloop,Built,1917-11-01,1320,3C-EE,2500,Coal,17,3704,120/40 QF Mark I,2,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_sl_24.htm
 dd-w-mod,W Class (Modified),W Class (Modified),rn,Escort,Destroyer,Built,1918-01-01,1325,Geared Turbine,27000,Oil,34,5944,120/45 Mark I,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_mod_admiralty_w.htm
 dd-wishart,W Class (Modified),Wishart Class,rn,Escort,Destroyer,Built,1919-07-18,1325,Geared Turbine,30000,Oil,35,5944,120/45 Mark I,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_mod_admiralty_w.htm
@@ -712,7 +712,7 @@ dd-d,C-D Class,D Class,rn,Escort,Destroyer,Built,1931-04-01,1375,Geared Turbine,
 s-grimsby,Grimsby Class,Grimsby Class,rn,Escort,Sloop,Built,1933-01-01,990,Geared Turbine,2000,Oil,16.5,9908,120/45 Mk IX,2,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_sl_grimsby.htm
 dd-e,E-F Class,E Class,rn,Escort,Destroyer,Built,1933-03-01,1350,Geared Turbine,36000,Oil,36,11760,120/45 Mark IX,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_e_f.htm
 dd-f,E-F Class,F Class,rn,Escort,Destroyer,Built,1933-03-01,1350,Geared Turbine,36000,Oil,36,11760,120/45 Mark IX,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_e_f.htm
-dm-esk,Esk Class,Esk Class,rn,Escort,Minelaying Destroyer,Built,1933-03-01,1350,Geared Turbine,36000,Oil,36,11760,120/45 Mark IX,2,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_e_f.htm
+dm-esk,Esk Class,Esk Class,rn,Mining,Minelaying Destroyer,Built,1933-03-01,1350,Geared Turbine,36000,Oil,36,11760,120/45 Mark IX,2,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_e_f.htm
 dl-e,E-F Leader Class,Exmouth Class,rn,Escort,Destroyer Leader,Built,1933-05-01,1460,Geared Turbine,38000,Oil,36.75,12038,120/45 Mark IX,5,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_e_f_leader.htm
 dl-f,E-F Leader Class,Faulknor Class,rn,Escort,Destroyer Leader,Built,1933-05-01,1460,Geared Turbine,38000,Oil,36.75,12038,120/45 Mark IX,5,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_e_f_leader.htm
 s-indus,Indus Class,Indus Class,rn,Escort,Sloop,Built,1933-06-01,1190,Geared Turbine,2000,Oil,16.25,9908,120/45 Mk IX,2,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_sl_indus.htm
@@ -736,7 +736,7 @@ dd-tribal-ran,Tribal Class,Tribal Class (RAN),rn,Escort,Destroyer,Built,1939-11-
 dd-o,O-P Class,O Class,rn,Escort,Destroyer,Built,1940-01-01,1540,Geared Turbine,40000,Oil,37,7130,120/45 Mark IX,4,102/45 QF Mark V,1,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_o_p.htm
 dd-p,O-P Class,P Class,rn,Escort,Destroyer,Built,1940-01-01,1540,Geared Turbine,40000,Oil,37,7130,120/45 Mark IX,4,102/45 QF Mark V,1,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_o_p.htm
 s-bittern-rim,Bittern Class (RIM),Bittern Class (RIM),rn,Escort,Sloop,Built,1940-01-01,1300,Geared Turbine,3600,Oil,19,4630,102/45 Mk XVI,6,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_sl_bittern_mod.htm
-dm-obdurate,Obdurate Class,Obdurate Class,rn,Escort,Minelaying Destroyer,Built,1940-02-01,1540,Geared Turbine,40000,Oil,37,7130,102/45 QF Mark V,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_o_p.htm
+dm-obdurate,Obdurate Class,Obdurate Class,rn,Mining,Minelaying Destroyer,Built,1940-02-01,1540,Geared Turbine,40000,Oil,37,7130,102/45 QF Mark V,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_o_p.htm
 dd-q,Q-R Class,Q Class,rn,Escort,Destroyer,Built,1940-09-01,1705,Geared Turbine,40000,Oil,36.75,8658,120/45 Mark IX,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_q_r.htm
 dd-r,Q-R Class,R Class,rn,Escort,Destroyer,Built,1940-09-01,1705,Geared Turbine,40000,Oil,36.75,8658,120/45 Mark IX,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_q_r.htm
 dd-tribal-rcn,Tribal Class,Tribal Class (RCN),rn,Escort,Destroyer,Built,1940-09-01,1927,Geared Turbine,44000,Oil,36.25,10556,120/45 Mark XII,6,102/45 QF Mark XVI,2,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_tribal.htm
@@ -1032,9 +1032,9 @@ de-wgt,WGT Class,WGT Class,usn,Escort,Destroyer Escort,Built,1943-08-01,1430,Gea
 dd-gearing,Gearing Class,Gearing Class,usn,Escort,Destroyer,Built,1944-03-01,2616,Geared Turbine,60000,Oil,36.8,8334,127/38 Mk 12 Ring,6,,0,,0,0,0,http://www.navypedia.org/ships/usa/us_dd_gearing.htm
 dde-epperson,Epperson Class,Epperson Class,usn,Escort,Escort Destroyer,Built,1945-05-01,3000,Geared Turbine,60000,Oil,32,8334,127/38 Mk 12 Ring,4,,0,,0,0,0,http://www.navypedia.org/ships/usa/us_dd_gearing.htm
 ddk-carpenter,Carpenter Class,Carpenter Class,usn,Escort,ASW Destroyer,Built,1945-07-01,3000,Geared Turbine,60000,Oil,32,8334,,0,,0,,0,0,0,http://www.navypedia.org/ships/usa/us_dd_gearing.htm
-cm-abdiel,Abdiel Class,Abdiel Class,rn,Cruiser,Minelaying Cruiser,Built,1939-03-29,2650,Geared Turbine,72000,Oil,39.75,1852,102/45 Mk XVI,6,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_crml_abdiel.htm
-cm-apollo,Abdiel Class,Apollo Class,rn,Cruiser,Minelaying Cruiser,Built,1941-10-10,2810,Geared Turbine,72000,Oil,39.75,1852,102/45 Mk XVI,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_crml_abdiel.htm
-cm-adventure,Adventure Class,Adventure Class,rn,Cruiser,Minelaying Cruiser,Built,1922-11-29,6740,Geared Turbine,40000,Oil,28,8334,120/40 QF Mark VIII,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_crml_adventure.htm
+cm-abdiel,Abdiel Class,Abdiel Class,rn,Mining,Minelaying Cruiser,Built,1939-03-29,2650,Geared Turbine,72000,Oil,39.75,1852,102/45 Mk XVI,6,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_crml_abdiel.htm
+cm-apollo,Abdiel Class,Apollo Class,rn,Mining,Minelaying Cruiser,Built,1941-10-10,2810,Geared Turbine,72000,Oil,39.75,1852,102/45 Mk XVI,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_crml_abdiel.htm
+cm-adventure,Adventure Class,Adventure Class,rn,Mining,Minelaying Cruiser,Built,1922-11-29,6740,Geared Turbine,40000,Oil,28,8334,120/40 QF Mark VIII,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_crml_adventure.htm
 ddg-devonshire,County Class,Devonshire Class,rn,Escort,Guided Missile Destroyer,Built,1959-03-09,5440,COSAG,60000,Oil / Gas Oil,32.5,6482,120/45 QF Mark VI,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_county.htm
 ddg-fife,County Class,Fife Class,rn,Escort,Guided Missile Destroyer,Built,1964-07-09,5440,COSAG,60000,Oil / Gas Oil,32.5,6482,120/45 QF Mark VI,4,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_county.htm
 ddg-type-82,Type 82 Class,Type 82 Class,rn,Escort,Guided Missile Destroyer,Built,1967-11-15,6300,COSAG,60000,Oil / Gas Oil,30,9260,114/55 Mark VIII,1,,0,,0,0,0,http://www.navypedia.org/ships/uk/brit_dd_bristol.htm
