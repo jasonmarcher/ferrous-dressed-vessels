@@ -2422,13 +2422,15 @@ de-fmr,USS Cockrill,Built,Scrapped,1943-08-01,1943-10-29,1943-12-01,1973-08-01
 de-fmr,USS Stockdale,Built,Scrapped,1943-08-01,1943-10-30,1943-12-01,1972-07-01
 de-fmr,USS Hissem,Built,Converted,1943-10-01,1943-12-26,1944-01-01,1956-08-31
 de-fmr,USS Holder,Built,Sunk,1943-10-01,1943-12-27,1944-01-01,1944-04-11
-de-te,USS Buckley,Built,Scrapped,1942-06-01,1943-01-09,1943-04-01,1968-06-01
+de-te,USS Buckley,Built,Scrapped,1942-06-01,1943-01-09,1943-04-01,1949-04-26
+der-te,USS Buckley,Converted,Scrapped,1949-04-26,,1949-04-26,1968-06-01
 de-te,USS Bull,Built,Sold,1942-06-01,1943-02-03,,1946-02-01
 de-te,USS Charles Lawrence,Built,Auxiliary,1942-08-01,1943-02-16,1943-05-01,1964-09-01
 de-te,USS Daniel T. Griffin,Built,Auxiliary,1942-09-01,1943-02-23,1943-06-01,1966-11-01
 de-te,USS Donaldson,Built,Sold,1942-10-01,1943-03-06,,1946-02-01
 de-te,USS Donnell,Built,Auxiliary,1942-11-01,1943-03-13,1943-06-01,1944-05-03
-de-te,USS Fogg,Built,Scrapped,1942-12-01,1943-03-20,1943-07-01,1965-01-01
+de-te,USS Fogg,Built,Converted,1942-12-01,1943-03-20,1943-07-01,1949-03-18
+der-te,USS Fogg,Converted,Scrapped,1949-03-18,,1949-03-18,1965-01-01
 de-te,USS Formoe,Built,Sold,1942-12-01,1943-03-27,,1943-07-01
 de-te,USS Foss,Built,Scrapped,1942-12-01,1943-04-10,1943-07-01,1965-01-01
 de-te,USS Gantner,Built,Auxiliary,1942-12-01,1943-04-17,1943-07-01,1966-01-01
@@ -2494,8 +2496,8 @@ de-te,USS Lloyd,Built,Auxiliary,1943-07-01,1943-10-23,1944-02-01,1966-06-01
 de-te,USS Otter,Built,Scrapped,1943-07-01,1943-10-23,1944-02-01,1969-11-01
 de-te,USS Joseph C. Hubbard,Built,Auxiliary,1943-08-01,1943-11-11,1944-03-01,1969-05-01
 de-te,USS Hayter,Built,Auxiliary,1943-08-01,1943-11-11,1944-03-01,1966-12-01
-de-te,USS William T. Powell,Built,Scrapped,1943-08-01,1943-11-27,1944-03-01,1965-11-01
-de-te,USS Scott,Built,Scrapped,1943-01-01,1943-04-03,1943-07-01,1965-07-01
+de-te,USS William T. Powell,Built,Converted,1943-08-01,1943-11-27,1944-03-01,1950-11-28
+der-te,USS William T. Powell,Converted,Scrapped,1950-11-28,,1950-11-28,1965-11-01
 de-te,USS Burke,Built,Auxiliary,1943-01-01,1943-04-03,1943-07-01,1968-06-01
 de-te,USS Enright,Built,Auxiliary,1943-02-01,1943-05-29,1943-09-01,1967-07-01
 de-te,USS Coolbaugh,Built,Scrapped,1943-02-01,1943-05-29,1943-10-01,1972-07-01
@@ -2504,7 +2506,8 @@ de-te,USS J. Douglas Blackwood,Built,Scrapped,1943-02-01,1943-05-29,1943-12-01,1
 de-te,USS Francis M. Robinson,Built,Scrapped,1943-02-01,1943-05-29,1944-01-01,1972-07-01
 de-te,USS Solar,Built,Sunk,1943-02-01,1943-05-29,1944-02-01,1946-04-30
 de-te,USS Fowler,Built,Scrapped,1943-04-01,1943-07-03,1944-03-01,1965-07-01
-de-te,USS Spangenberg,Built,Scrapped,1943-04-01,1943-07-03,1944-03-01,1965-11-01
+de-te,USS Spangenberg,Built,Converted,1943-04-01,1943-07-03,1944-03-01,1949-03-01
+der-te,USS Spangenberg,Converted,Scrapped,1949-03-01,,1949-03-01,1965-11-01
 de-te,DE563,Built,Sold,1943-09-01,1943-10-16,,1944-01-01
 de-te,DE564,Built,Sold,1943-09-01,1943-11-06,,1943-12-01
 de-te,DE565,Built,Sold,1943-09-01,1943-11-13,,1943-12-01
@@ -2519,8 +2522,10 @@ de-te,DE573,Built,Sold,1943-10-01,1943-12-18,,1944-02-01
 de-te,DE574,Built,Sold,1943-11-01,1943-12-21,,1944-02-01
 de-te,USS Ahrens,Built,Scrapped,1943-11-01,1943-12-21,1944-02-01,1965-04-01
 de-te,USS Barr,Built,Auxiliary,1943-11-01,1943-12-28,1944-02-01,1960-06-01
-de-te,USS Alexander J. Luke,Built,Scrapped,1943-11-01,1943-12-28,1944-02-01,1970-05-01
-de-te,USS Robert I. Paine,Built,Scrapped,1943-11-01,1943-12-30,1944-02-01,1968-06-01
+de-te,USS Alexander J. Luke,Built,Converted,1943-11-01,1943-12-28,1944-02-01,1945-12-07
+de-te,USS Alexander J. Luke,Converted,Scrapped,1945-12-07,,1945-12-07,1970-05-01
+de-te,USS Robert I. Paine,Built,Converted,1943-11-01,1943-12-30,1944-02-01,1946-01-01
+de-te,USS Robert I. Paine,Converted,Scrapped,1946-01-01,,1946-01-01,1968-06-01
 de-te,USS Foreman,Built,Scrapped,1943-03-01,1943-08-01,1943-10-01,1965-11-01
 de-te,USS Whitehurst,Built,Scrapped,1943-03-01,1943-09-05,1943-11-01,1969-07-01
 de-te,USS England,Built,Scrapped,1943-04-01,1943-09-26,1943-12-01,1945-05-09
@@ -6526,3 +6531,105 @@ der-harveston,USS Chambers,Built,Scrapped,1955-06-01,,1955-06-01,1975-03-01
 der-harveston,USS Haverfield,Built,Scrapped,1955-01-04,,1955-01-04,1969-06-01
 der-harveston,USS Wilhoite,Built,Scrapped,1955-01-29,,1955-01-29,1969-07-01
 der-harveston,USS Hissem,Built,Scrapped,1956-08-31,,1956-08-31,1975-06-01
+cg-project-58,Groznyy,Built,Scrapped,1960-02-23,1961-03-26,1962-12-30,1991-06-01
+cg-project-58,Admiral Fokin,Built,Scrapped,1960-10-05,1961-11-19,1964-12-28,1993-06-01
+cg-project-58,Admiral Golovko,Built,Scrapped,1961-04-20,1962-07-18,1964-12-30,2002-10-01
+cg-project-58,Variag,Built,Scrapped,1961-10-13,1963-04-07,1965-08-20,1990-04-01
+cg-project-1134,Admiral Zozulia,Built,Scrapped,1964-07-26,1965-10-17,1967-10-08,1994-07-01
+cg-project-1134,Vladivostok,Built,Scrapped,1964-12-24,1966-08-01,1969-08-01,1991-01-01
+cg-project-1134,Vitse-admiral Drozd,Built,Scrapped,1965-10-26,1966-11-18,1968-12-27,1990-07-01
+cg-project-1134,Sevastopol,Built,Scrapped,1966-06-08,1967-04-27,1969-09-25,1989-12-01
+ddg-project-56k,Bravyy,Built,Scrapped,1953-07-25,1955-02-28,1956-01-09,1987-07-01
+cg-project-1134a,Kronshtadt,Built,Scrapped,1966-11-30,1968-02-10,1969-12-29,1991-06-01
+cg-project-1134a,Admiral Isakov,Built,Scrapped,1968-01-15,1968-11-22,1970-12-28,1993-06-01
+cg-project-1134a,Admiral Nakhimov,Built,Scrapped,1968-01-15,1969-04-15,1971-11-29,1991-01-01
+cg-project-1134a,Admiral Makarov,Built,Scrapped,1969-02-23,1970-01-22,1972-10-25,1992-07-01
+cg-project-1134a,Marshal Voroshilov,Built,Scrapped,1970-03-20,1970-10-08,1973-09-15,1992-07-01
+cg-project-1134a,Admiral Oktyabrskiy,Built,Scrapped,1969-06-02,1971-05-21,1973-12-28,1993-06-01
+cg-project-1134a,Admiral Isachenkov,Built,Scrapped,1970-10-30,1972-03-28,1974-11-05,1992-07-01
+cg-project-1134a,Marshal Timoshenko,Built,Scrapped,1972-11-02,1973-10-21,1975-11-25,1992-07-01
+cg-project-1134a,Vasiliy Chapaev,Built,Scrapped,1973-12-22,1974-11-28,1976-11-30,1993-06-01
+cg-project-1134a,Admiral Yumashev,Built,Scrapped,1975-04-17,1976-09-30,1977-12-30,1992-07-01
+cg-project-1134b,Nikolayev,Built,Scrapped,1968-06-25,1969-12-19,1971-12-31,1992-10-01
+cg-project-1134b,Ochakov,Built,Scrapped,1969-12-19,1971-04-30,1973-11-04,2011-08-01
+cg-project-1134b,Kerch,Built,Museum,1971-04-30,1972-07-21,1974-12-25,2015-08-01
+cg-project-1134b,Petropavlovsk,Built,Scrapped,1973-09-09,1974-11-22,1976-12-29,1997-02-01
+cg-project-1134b,Tashkent,Built,Scrapped,1974-11-22,1975-11-05,1977-12-31,1992-07-01
+cg-project-1134b,Tallin,Built,Scrapped,1975-11-05,1976-11-05,1979-12-31,1994-07-01
+cg-project-1134bf,Azov,Built,Scrapped,1972-07-21,1973-09-14,1975-12-25,1998-05-01
+cgn-project-1144,Kirov,Built,Scrapped,1974-03-26,1977-12-27,1980-12-30,2004-03-01
+cgn-project-1144,Frunze,Built,Scrapped,1978-07-26,1981-05-26,1984-10-31,1919-04-01
+cgn-project-1144,Kalinin,Built,,1983-05-17,1986-04-25,1988-12-30,
+cgn-project-1144,Piotr Velikiy,Built,,1986-10-25,1989-04-29,1998-04-19,
+cg-project-1164,Slava,Built,,1976-11-05,1979-07-27,1982-12-30,
+cg-project-1164,Marshal Ustinov,Built,,1978-10-05,1982-02-25,1986-09-15,
+cg-project-1164,Chervona Ukraina,Built,,1979-07-31,1983-08-28,1989-12-25,
+cg-project-1164,Admiral Flota Lobov,Cancelled,Scrapped,1984-08-29,1990-08-11,,1993-03-01
+ddg-project-56em,Bedovyy,Built,Scrapped,1953-12-01,1955-07-31,1958-06-30,1989-04-01
+ddg-project-56m,Prozorlivyy,Built,Scrapped,1956-09-01,1957-07-30,1958-12-30,1991-06-01
+ddg-project-56m,Neulovimyy,Built,Scrapped,1957-02-23,1958-02-27,1958-12-30,1990-04-01
+ddg-project-56m,Neuderzhimyy,Built,Auxiliary,1955-01-19,1958-05-24,1958-12-30,1985-12-01
+ddg-project-57bis,Gnevnyy,Built,Scrapped,1957-11-16,1958-11-30,1960-01-10,1988-04-01
+ddg-project-57bis,Upornyy,Built,Auxiliary,1958-09-21,1959-10-14,1960-12-03,1991-06-01
+ddg-project-57bis,Boykiy,Built,Scrapped,1959-04-02,1959-12-15,1961-06-26,1988-02-01
+ddg-project-57bis,Gremiashchiy,Built,Auxiliary,1958-02-25,1959-04-30,1960-06-30,1987-07-01
+ddg-project-57bis,Zhguchiy,Built,Scrapped,1958-06-23,1959-10-14,1960-12-23,1987-07-01
+ddg-project-57bis,Zorkiy,Built,Scrapped,1959-04-17,1960-04-30,1961-09-30,1993-06-01
+ddg-project-57bis,Derzkiy,Built,Scrapped,1959-10-10,1960-02-04,1961-12-30,1990-04-01
+ddg-project-57bis,Gordyy,Built,Scrapped,1959-05-01,1960-05-24,1961-02-06,1987-07-01
+ddg-project-57bis,Khrabryy,Cancelled,Scrapped,1959-12-01,1961-02-01,,1969-01-01
+ddg-project-61,Komsomolets Ukrainy,Built,Scrapped,1959-09-15,1960-12-31,1962-12-31,1991-06-01
+ddg-project-61,Soobrazitelnyy,Built,Scrapped,1960-07-20,1961-11-04,1963-12-26,1992-07-01
+ddg-project-61,Provornyy,Built,Scrapped,1961-02-10,1962-04-21,1964-12-25,1990-08-01
+ddg-project-61,Otvazhnyy,Built,Sunk,1963-08-10,1964-10-17,1965-12-31,1974-08-30
+ddg-project-61,Stroynyy,Built,Scrapped,1964-03-20,1965-07-28,1966-12-15,1990-04-01
+ddg-project-61,Krasnyy Kavkaz,Built,Scrapped,1964-11-25,1966-02-09,1967-09-25,1998-03-01
+ddg-project-61,Reshitelnyy,Built,Scrapped,1965-06-25,1966-06-30,1967-12-30,1996-07-01
+ddg-project-61,Smyshlionyy,Built,Scrapped,1965-08-15,1966-10-22,1968-09-27,1993-02-01
+ddg-project-61,Strogiy,Built,Scrapped,1966-02-22,1967-04-29,1968-12-24,1993-06-01
+ddg-project-61,Smetlivyy,Built,,1966-07-15,1967-08-26,1969-09-25,
+ddg-project-61,Smelyy,Built,Sold,1966-11-15,1968-02-06,1969-12-27,1988-01-01
+ddg-project-61,Krasnyy Krym,Built,Scrapped,1968-02-23,1969-02-28,1970-10-15,1993-06-01
+ddg-project-61,Sposobnyy,Built,Scrapped,1969-03-10,1970-04-11,1971-09-25,1993-11-01
+ddg-project-61,Skoryy,Built,Scrapped,1970-04-20,1971-02-26,1972-09-23,1997-07-01
+ddg-project-61,Ognevoy,Built,Scrapped,1962-05-09,1963-05-31,1964-12-31,1989-04-01
+ddg-project-61,Obraztsovyy,Built,Scrapped,1963-07-29,1964-02-23,1965-09-29,1993-06-01
+ddg-project-61,Odarionnyy,Built,Scrapped,1963-01-22,1964-09-11,1965-12-30,1990-04-01
+ddg-project-61,Slavnyy,Built,Scrapped,1964-07-26,1965-04-24,1966-09-30,1991-06-01
+ddg-project-61,Steregushchiy,Built,Scrapped,1964-07-26,1966-02-20,1966-12-21,1993-06-01
+ddg-project-61m,Sderzhannyy,Built,Scrapped,1971-03-10,1972-02-29,1973-12-30,2001-05-01
+ddg-project-956,Sovremennyy,Built,Scrapped,1976-03-03,1978-11-18,1980-12-25,1998-09-01
+ddg-project-956,Otchayannyy,Built,Scrapped,1977-03-04,1980-03-29,1982-09-30,1998-09-01
+ddg-project-956,Otlichnyy,Built,Scrapped,1978-04-22,1981-03-21,1983-09-30,1998-09-01
+ddg-project-956,Osmotritelnyy,Built,Scrapped,1978-10-27,1982-04-24,1984-09-30,1998-09-01
+ddg-project-956,Bezuprechnyy,Built,Scrapped,1981-01-29,1983-07-25,1985-11-06,2001-07-01
+ddg-project-956,Boyevoy,Built,Scrapped,1982-03-26,1984-08-04,1986-09-28,2010-12-01
+ddg-project-956,Stoykiy,Built,Scrapped,1982-09-28,1985-07-27,1986-12-31,1998-09-01
+ddg-project-956,Okrylionnyy,Built,Scrapped,1983-04-16,1986-05-31,1987-12-30,1998-09-01
+ddg-project-956,Burnyy,Built,,1983-11-04,1986-12-30,1988-09-30,
+ddg-project-956,Gremiashchiy,Built,Scrapped,1984-11-23,1987-05-30,1988-12-30,2006-12-01
+ddg-project-956,Bystryy,Built,,1985-10-29,1987-11-28,1989-09-30,
+ddg-project-956,Rastoropnyy,Built,Scrapped,1986-08-15,1988-06-04,1989-12-30,2012-08-01
+ddg-project-956,Bezboyaznennyy,Built,,1987-01-08,1989-02-18,1990-12-28,
+ddg-project-956,Bezuderzhnyy,Built,Scrapped,1987-02-24,1989-09-30,1991-06-25,2012-12-01
+ddg-project-956,Bespokoynyy,Built,Museum,1987-04-18,1990-06-09,1991-12-28,2018-01-01
+ddg-project-956,Nastoychivyy,Built,,1988-04-07,1991-01-19,1992-12-30,
+ddg-project-956,Besstrashnyy,Built,,1988-05-06,1991-12-28,1993-12-30,
+ddg-project-956,Buynyy,Cancelled,Scrapped,1991-01-01,,,1995-01-01
+ddg-project-956,Vechnyy,Cancelled,Scrapped,1992-01-01,,,1995-01-01
+ddg-project-956,Vnushitelnyy,Cancelled,Scrapped,1983-08-30,1987-10-17,,1987-12-01
+ddg-project-1155,Udaloy,Built,Scrapped,1977-07-23,1980-02-05,1980-12-31,1997-08-01
+ddg-project-1155,Admiral Zakharov,Built,Sunk,1981-10-16,1982-11-04,1983-12-30,1991-02-17
+ddg-project-1155,Admiral Spiridonov,Built,Scrapped,1982-04-11,1984-04-28,1984-12-30,2001-07-01
+ddg-project-1155,Marshal Shaposhnikov,Built,,1983-05-25,1984-12-27,1985-12-30,
+ddg-project-1155,Simferopol,Built,,1984-06-12,1985-12-24,1987-12-30,
+ddg-project-1155,Admiral Vinogradov,Built,,1986-02-05,1987-06-04,1988-12-30,
+ddg-project-1155,Admiral Kharlamov,Built,,1986-08-07,1988-06-29,1989-12-30,
+ddg-project-1155,Admiral Panteleev,Built,,1988-01-28,1990-02-07,1991-12-19,
+ddg-project-1155,Vitse-admiral Kulakov,Built,,1977-11-04,1980-05-16,1981-12-29,
+ddg-project-1155,Marshal Vasilevskiy,Built,Scrapped,1979-04-22,1981-12-29,1983-12-08,2007-02-01
+ddg-project-1155,Admiral Tributs,Built,,1980-04-19,1983-03-26,1985-12-30,
+ddg-project-1155,Admiral Levchenko,Built,,1982-01-27,1985-02-21,1988-09-30,
+ddg-project-1155-1,Admiral Chabanenko,Built,,1989-02-28,1994-06-16,1999-01-28,
+ddg-project-1155-1,Admiral Basistyy,Cancelled,Scrapped,1991-01-01,,,1994-01-01
+ddg-project-1155-1,Admiral Kucherov,Cancelled,Scrapped,1991-01-01,,,1993-01-01

@@ -110,18 +110,20 @@ task generateShipHistory {
         records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
         records.forEach { record ->
             // println(record.get("ShipName"))
-            def currentDate = LocalDate.parse(record.get("Start"))
-            currentDate = currentDate.minusDays(currentDate.getDayOfMonth() - 1)
-            def endDate = LocalDate.parse(record.get("End") ?: today)
-            endDate = endDate.minusDays(endDate.getDayOfMonth() - 1)
-            
-            while (currentDate.isBefore(endDate)) {
-                printer.print(record.get('ClassID'))
-                printer.print(record.get('ShipName'))
-                printer.print(record.get('State'))
-                printer.print(currentDate)
-                printer.println()
-                currentDate = currentDate.plusMonths(1)
+            if (record.get("ShipName")) {
+                def currentDate = LocalDate.parse(record.get("Start"))
+                currentDate = currentDate.minusDays(currentDate.getDayOfMonth() - 1)
+                def endDate = LocalDate.parse(record.get("End") ?: today)
+                endDate = endDate.minusDays(endDate.getDayOfMonth() - 1)
+                
+                while (currentDate.isBefore(endDate)) {
+                    printer.print(record.get('ClassID'))
+                    printer.print(record.get('ShipName'))
+                    printer.print(record.get('State'))
+                    printer.print(currentDate)
+                    printer.println()
+                    currentDate = currentDate.plusMonths(1)
+                }
             }
         }
 
