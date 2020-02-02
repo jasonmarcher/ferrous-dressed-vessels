@@ -2467,7 +2467,7 @@ de-te,USS Schmitt,usn,Auxiliary,Sold,1945-01-01,1967-05-01
 de-te,USS Frament,usn,Active,Auxiliary,1943-08-01,1944-12-01
 de-te,USS Frament,usn,Auxiliary,Scrapped,1944-12-01,1960-01-01
 de-te,USS Harmon,usn,Active,Reserve,1943-08-01,1947-03-25
-,,,,,,
+de-te,USS Harmon,usn,Reserve,Scrapped,1947-03-25,1965-08-01
 de-te,USS Greenwood,usn,Active,Scrapped,1943-09-01,1967-02-20
 de-te,USS Loeser,usn,Active,Reserve,1943-10-10,1947-03-28
 de-te,USS Loeser,usn,Reserve,Active,1947-03-28,1951-03-09
@@ -2476,29 +2476,29 @@ de-te,USS Loeser,usn,Reserve,Active,1958-12-01,1961-10-02
 de-te,USS Loeser,usn,Active,Reserve,1961-10-02,1962-08-01
 de-te,USS Loeser,usn,Reserve,Target,1962-08-01,1968-08-23
 de-te,USS Gillette,usn,Active,Reserve,1943-10-01,1947-02-03
-,,,,,,
+de-te,USS Gillette,usn,Reserve,Scrapped,1947-02-03,1972-12-01
 de-te,USS Underhill,usn,Active,Sunk,1943-11-01,1945-07-24
 de-te,USS Henry R. Kenyon,usn,Active,Reserve,1943-11-01,1947-02-03
-,,,,,,
+de-te,USS Henry R. Kenyon,usn,Reserve,Scrapped,1947-02-03,1969-12-01
 de-te,USS Bull,usn,Active,Auxiliary,1943-08-01,1944-07-01
 de-te,USS Bull,usn,Auxiliary,Sold,1944-07-01,1966-06-01
 de-te,USS Bunch,usn,Active,Auxiliary,1943-08-01,1944-07-01
 de-te,USS Bunch,usn,Auxiliary,Scrapped,1944-07-01,1964-04-01
 de-te,USS Rich,usn,Active,Sunk,1943-10-01,1944-06-08
 de-te,USS Spangler,usn,Active,Reserve,1943-10-01,1958-10-08
-,,,,,,
+de-te,USS Spangler,usn,Reserve,Scrapped,1958-10-08,1972-03-01
 de-te,USS George,usn,Active,Reserve,1943-11-01,1958-10-08
-,,,,,,
+de-te,USS George,usn,Reserve,Scrapped,1958-10-08,1969-11-01
 de-te,USS Raby,usn,Active,Reserve,1943-12-01,1953-12-22
-,,,,,,
+de-te,USS Raby,usn,Reserve,Scrapped,1953-12-22,1968-06-01
 de-te,USS Marsh,usn,Active,Reserve,1944-01-01,1962-08-01
-,,,,,,
+de-te,USS Marsh,usn,Reserve,Scrapped,1962-08-01,1973-04-15
 de-te,USS Currier,usn,Active,Reserve,1944-02-01,1960-04-04
-,,,,,,
+de-te,USS Currier,usn,Reserve,Target,1960-04-04,1967-07-11
 de-te,USS Osmus,usn,Active,Reserve,1944-02-01,1947-03-15
-,,,,,,
+de-te,USS Osmus,usn,Reserve,Scrapped,1947-03-15,1972-12-01
 de-te,USS Earl V. Johnson,usn,Active,Reserve,1944-03-01,1946-06-18
-,,,,,,
+de-te,USS Earl V. Johnson,usn,Reserve,Scrapped,1946-06-18,1967-05-01
 de-te,USS Holton,usn,Active,Scrapped,1944-05-01,1946-05-31
 de-te,USS Cronin,usn,Active,Reserve,1944-05-05,1946-05-31
 de-te,USS Cronin,usn,Reserve,Auxiliary,1946-05-31,1951-02-09
@@ -2506,11 +2506,11 @@ de-te,USS Cronin,usn,Auxiliary,Reserve,1951-02-09,1953-12-04
 de-te,USS Frybarger,usn,Active,Reserve,1944-05-18,1947-06-30
 de-te,USS Frybarger,usn,Reserve,Auxiliary,1947-06-30,1950-10-06
 de-te,USS Frybarger,usn,Auxiliary,Reserve,1950-10-06,1954-12-09
-,,,,,,
+de-te,USS Frybarger,usn,Reserve,Scrapped,1954-12-09,1972-12-01
 de-te,USS Tatum,usn,Active,Auxiliary,1943-11-01,1944-12-01
 de-te,USS Tatum,usn,Auxiliary,Scrapped,1944-12-01,1960-06-01
 de-te,USS Borum,usn,Active,Reserve,1943-11-01,1946-06-15
-,,,,,,
+de-te,USS Borum,usn,Reserve,Scrapped,1946-06-15,1965-08-01
 de-te,USS Maloy,usn,Active,Scrapped,1943-12-01,1965-05-28
 de-te,USS Haines,usn,Active,Auxiliary,1943-12-01,1944-12-01
 de-te,USS Haines,usn,Auxiliary,Scrapped,1944-12-01,1960-06-01
@@ -2519,19 +2519,19 @@ de-te,USS Runels,usn,Auxiliary,Scrapped,1945-01-01,1960-06-01
 de-te,USS Hollis,usn,Active,Auxiliary,1944-01-01,1945-01-01
 de-te,USS Hollis,usn,Auxiliary,Scrapped,1945-01-01,1974-09-01
 de-te,USS Gunason,usn,Active,Reserve,1944-02-01,1948-03-13
-,,,,,,
+de-te,USS Gunason,usn,Reserve,Target,1948-03-13,1973-07-28
 de-te,USS Major,usn,Active,Reserve,1944-02-01,1948-03-13
-,,,,,,
+de-te,USS Major,usn,Reserve,Scrapped,1948-03-13,1972-12-01
 de-te,USS Weeden,usn,Active,Reserve,1944-02-01,1946-05-09
 de-te,USS Weeden,usn,Reserve,Training,1946-05-09,1946-11-20
 de-te,USS Weeden,usn,Training,Reserve,1946-11-20,1958-02-26
-,,,,,,
+de-te,USS Weeden,usn,Reserve,Scrapped,1958-02-26,1968-06-30
 de-te,USS Varian,usn,Active,Reserve,1944-02-01,1946-03-15
-,,,,,,
+de-te,USS Varian,usn,Reserve,Scrapped,1946-03-15,1972-12-01
 de-te,USS Scroggins,usn,Active,Reserve,1944-03-01,1946-06-15
-,,,,,,
+de-te,USS Scroggins,usn,Reserve,Scrapped,1946-06-15,1965-07-01
 de-te,USS Jack W. Wilke,usn,Active,Reserve,1944-03-01,1960-05-24
-,,,,,,
+de-te,USS Jack W. Wilke,usn,Reserve,Scrapped,1960-05-24,1972-08-01
 de-det,USS Cannon,usn,Active,Sold,1943-09-01,1944-12-19
 de-det,USS Christopher,usn,Active,Sold,1943-10-01,1944-12-19
 de-det,USS Alger,usn,Active,Sold,1943-11-01,1945-03-10
@@ -6075,7 +6075,8 @@ dd-u,HMS Urania,rn,Active,Scrapped,1944-01-01,1971-03-01
 dd-u,HMS Urchin,rn,Active,Scrapped,1943-09-01,1967-08-01
 dd-u,HMS Ursa,rn,Active,Scrapped,1944-03-01,1967-09-01
 dd-v,HMS Hardy,rn,Active,Sunk,1943-08-01,1944-01-30
-dd-v,HMCS Algonquin,rn,Active,Scrapped,1944-02-01,1971-04-01
+dd-v,HMCS Algonquin,rn,Active,Converted,1944-02-01,1956-01-01
+fs-type-15,HMCS Algonquin,rn,Converted,Scrapped,1956-01-01,1971-04-01
 dd-v,HMS Venus,rn,Active,Target,1943-08-01,1968-10-01
 dd-v,HMS Venus,rn,Target,Scrapped,1968-10-01,1972-12-01
 dd-v,HMS Verulam,rn,Active,Scrapped,1943-12-01,1972-10-01
@@ -6230,35 +6231,42 @@ dd-co,HMS Constance,rn,Active,Scrapped,1945-12-01,1956-03-01
 dd-co,HMS Contest,rn,Active,Scrapped,1945-11-01,1960-02-01
 dd-co,HMS Cossack,rn,Active,Scrapped,1945-09-01,1961-03-01
 dd-cr,HMS Creole,rn,Active,Sold,1946-10-01,1958-06-01
-dd-cr,HMCS Crescent,rn,Active,Scrapped,1945-09-01,1971-04-01
+dd-cr,HMCS Crescent,rn,Active,Converted,1945-09-01,1956-01-01
+fs-type-15,HMCS Crescent,rn,Active,Scrapped,1956-01-01,1971-04-01
 dd-cr,HMS Crispin,rn,Active,Sold,1946-07-01,1958-03-01
 dd-cr,HMCS Crusader,rn,Active,Scrapped,1945-11-01,1965-01-01
 pf-loch,HMCS Loch Achanalt,rn,Active,Renamed,1944-08-01,1945-06-01
-pf-loch,HMS Loch Achanalt,rn,Active,Sold,1945-06-01,1948-09-01
-pf-loch,HMS Loch Achray,rn,Active,Sold,1945-02-01,1948-09-01
+pf-loch,HMS Loch Achanalt,rn,Active,Renamed,1945-06-01,1948-09-01
+pf-loch,HMNZS Pukaki,rn,Active,Scrapped,1948-09-01,1965-09-01
+pf-loch,HMS Loch Achray,rn,Active,Renamed,1945-02-01,1948-09-01
+pf-loch,HMNZS Kaniere,rn,Active,Scrapped,1948-09-01,1966-09-01
 pf-loch,HMCS Loch Alvie,rn,Active,Renamed,1944-08-01,1945-06-01
 pf-loch,HMS Loch Alvie,rn,Active,Scrapped,1945-06-01,1945-11-01
 pf-loch,HMS Loch Arkaig,rn,Active,Scrapped,1945-11-01,1960-01-01
 pf-loch,HMS Loch Craggie,rn,Active,Scrapped,1944-10-01,1963-07-01
 pf-loch,HMS Loch Dunvegan,rn,Active,Scrapped,1944-06-01,1960-08-01
-pf-loch,HMS Loch Eck,rn,Active,Sold,1944-11-01,1948-10-01
+pf-loch,HMS Loch Eck,rn,Active,Renamed,1944-11-01,1948-10-01
+pf-loch,HMNZS Hawea,rn,Active,Scrapped,1948-10-01,1965-12-01
 pf-loch,HMS Loch Fada,rn,Active,Auxiliary,1944-04-01,1967-10-01
 pf-loch,HMS Loch Fada,rn,Auxiliary,Scrapped,1967-10-01,1970-05-01
 pf-loch,HMS Loch Fyne,rn,Active,Scrapped,1944-11-01,1970-07-01
 pf-loch,HMS Loch Glendhu,rn,Active,Scrapped,1945-02-01,1957-11-01
 pf-loch,HMS Loch Gorm,rn,Active,Sold,1944-12-01,1961-09-01
 pf-loch,HMS Loch Insh,rn,Active,Sold,1944-10-01,1964-10-01
-pf-loch,HMS Loch Katrine,rn,Active,Sold,1944-12-01,1949-07-01
+pf-loch,HMS Loch Katrine,rn,Active,Renamed,1944-12-01,1949-07-01
+pf-loch,HMNZS Rotoiti,rn,Active,Scrapped,1949-07-01,1966-09-01
 pf-loch,HMS Loch Killin,rn,Active,Scrapped,1944-04-01,1960-08-01
 pf-loch,HMS Loch Killisport,rn,Active,Scrapped,1945-07-01,1970-02-01
 pf-loch,HMS Loch Lomond,rn,Active,Scrapped,1944-11-01,1968-09-01
 pf-loch,HMS Loch More,rn,Active,Scrapped,1945-02-01,1963-08-01
 pf-loch,HMCS Loch Morlich,rn,Active,Renamed,1944-08-01,1945-06-01
-pf-loch,HMS Loch Morlich,rn,Active,Sold,1945-06-01,1949-04-01
+pf-loch,HMS Loch Morlich,rn,Active,Renamed,1945-06-01,1949-04-01
+pf-loch,HMNZS Tutira,rn,Active,Scrapped,1949-04-01,1961-12-01
 pf-loch,HMS Loch Quoich,rn,Active,Scrapped,1945-01-01,1957-11-01
 pf-loch,HMS Loch Ruthven,rn,Active,Scrapped,1944-10-01,1966-11-01
 pf-loch,HMS Loch Scavaig,rn,Active,Scrapped,1944-12-01,1959-09-01
-pf-loch,HMS Loch Shin,rn,Active,Sold,1944-10-01,1948-09-01
+pf-loch,HMS Loch Shin,rn,Active,Renamed,1944-10-01,1948-09-01
+pf-loch,HMNZS Taupo,rn,Active,Scrapped,1948-09-01,1961-12-01
 pf-loch,HMS Loch Tarbert,rn,Active,Scrapped,1945-02-01,1959-09-01
 pf-loch,HMS Loch Tralaig,rn,Active,Scrapped,1945-07-01,1963-08-01
 pf-loch,HMS Loch Veyatie,rn,Active,Scrapped,1946-07-01,1965-08-01
@@ -6304,8 +6312,8 @@ dd-battleaxe,HMS Broadsword,rn,Active,Scrapped,1948-10-01,1968-10-01
 dd-battleaxe,HMS Crossbow,rn,Active,Scrapped,1948-03-01,1972-01-01
 dd-battleaxe,HMS Scorpion,rn,Active,Scrapped,1947-12-01,1971-06-01
 dd-tobruk,HMAS Tobruk,rn,Active,Scrapped,1950-05-01,1972-02-01
-dd-tobruk,HMAS Anzac,rn,Active,Training,1951-03-01,1966-01-01
-dd-tobruk,HMAS Anzac,rn,Training,Scrapped,1966-01-01,1975-11-01
+dd-tobruk,HMAS Anzac,rn,Active,Training,1951-03-01,1961-03-01
+dd-tobruk,HMAS Anzac,rn,Training,Scrapped,1961-03-01,1975-11-01
 cm-abdiel,HMS Abdiel,rn,Active,Sunk,1941-04-15,1943-09-10
 cm-abdiel,HMS Latona,rn,Active,Sunk,1941-05-04,1941-10-25
 cm-abdiel,HMS Manxman,rn,Active,Auxiliary,1941-06-20,1962-01-01
@@ -6354,7 +6362,8 @@ fs-type-14,HMS Murray,rn,Active,Scrapped,1956-06-05,1970-08-01
 fs-type-14,HMS Palliser,rn,Active,Scrapped,1957-12-13,1983-03-01
 fs-type-14,HMS Pellew,rn,Active,Scrapped,1956-07-26,1971-04-01
 fs-type-14,HMS Russell,rn,Active,Scrapped,1957-02-07,1985-07-01
-fs-type-12,HMS Blackpool,rn,Active,Sold,1958-08-14,1966-06-01
+fs-type-12,HMS Blackpool,rn,Active,Renamed,1958-08-14,1966-06-01
+fs-type-12,HMNZS Blackpool,rn,Active,Renamed,1966-06-01,1971-04-01
 fs-type-12,HMS Blackpool,rn,Active,Scrapped,1971-04-01,1978-05-01
 fs-type-12,HMS Eastbourne,rn,Active,Scrapped,1958-01-09,1985-03-01
 fs-type-12,HMS Scarborough,rn,Active,Scrapped,1957-05-10,1977-08-01
@@ -9222,9 +9231,13 @@ dd-momi,Hishi,ijn,Active,Converted,1922-03-01,1939-01-01
 dd-momi,Sumire,ijn,Active,Auxiliary,1923-03-01,1940-01-01
 dd-momi,Yomogi,ijn,Active,Converted,1922-08-01,1939-01-01
 dd-momi,Tade,ijn,Active,Converted,1922-07-01,1939-01-01
-dd-minekaze,Minekaze,ijn,Active,Sunk,1920-05-01,1938-01-01
+dd-minekaze,Minekaze,ijn,Active,Reserve,1920-05-01,1938-01-01
+dd-minekaze,Minekaze,ijn,Reserve,Active,1938-01-01,1940-01-01
+dd-minekaze,Minekaze,ijn,Active,Sunk,1940-01-01,1944-02-10
 dd-minekaze,Sawakaze,ijn,Active,Captured,1920-03-01,1945-08-01
-dd-minekaze,Okikaze,ijn,Active,Sunk,1920-08-01,1938-01-01
+dd-minekaze,Okikaze,ijn,Active,Reserve,1920-08-01,1938-01-01
+dd-minekaze,Okikaze,ijn,Reserve,Active,1938-01-01,1940-01-01
+dd-minekaze,Okikaze,ijn,Active,Sunk,1940-01-01,1943-01-10
 dd-minekaze,Yakaze,ijn,Active,Auxiliary,1920-07-01,1942-07-01
 dd-minekaze,Hakaze,ijn,Active,Sunk,1920-09-01,1943-01-23
 dd-minekaze,Nadakaze,ijn,Active,Converted,1921-09-01,1939-01-01
@@ -9412,21 +9425,21 @@ dd-asashimo,Asashimo,ijn,Active,Sunk,1943-11-01,1945-04-07
 dd-asashimo,Kiyoshimo,ijn,Active,Sunk,1944-05-01,1944-12-26
 dd-asashimo,Hayashimo,ijn,Active,Sunk,1944-02-01,1944-10-26
 dd-asashimo,Akishimo,ijn,Active,Sunk,1944-03-01,1944-11-13
-dd-akizuki,Akizuki,ijn,Active,Sunk,1942-06-01,1944-10-25
-dd-akizuki,Teruzuki,ijn,Active,Sunk,1942-08-01,1942-12-12
-dd-akizuki,Suzutsuki,ijn,Active,Scrapped,1942-12-01,1945-04-07
-dd-akizuki,Hatsutsuki,ijn,Active,Sunk,1942-12-01,1944-10-25
-dd-akizuki,Niizuki,ijn,Active,Sunk,1943-03-01,1943-07-06
-dd-akizuki,Wakatsuki,ijn,Active,Sunk,1943-05-01,1944-11-11
-dd-akizuki,Shimozuki,ijn,Active,Sunk,1944-03-01,1944-11-25
-dd-akizuki,Fuyutsuki,ijn,Active,Scrapped,1944-05-01,1945-08-20
-dd-akizuki,Hanatsuki,ijn,Active,Damaged,1944-12-01,1945-07-24
-dd-akizuki,Hanatsuki,ijn,Damaged,Captured,1945-07-24,1947-08-01
-dd-akizuki,Yoizuki,ijn,Active,Damaged,1945-01-01,1945-06-05
-dd-akizuki,Yoizuki,ijn,Damaged,Captured,1945-06-05,1947-08-01
-dd-akizuki,Harutsuki,ijn,Active,Interned,1944-12-01,1945-08-01
-dd-akizuki,Harutsuki,ijn,Interned,Captured,1945-08-01,1947-08-01
-dd-akizuki,Natsuzuki,ijn,Interned,Captured,1945-08-01,1947-08-01
+dd-akizuki-1940,Akizuki,ijn,Active,Sunk,1942-06-01,1944-10-25
+dd-akizuki-1940,Teruzuki,ijn,Active,Sunk,1942-08-01,1942-12-12
+dd-akizuki-1940,Suzutsuki,ijn,Active,Scrapped,1942-12-01,1945-04-07
+dd-akizuki-1940,Hatsutsuki,ijn,Active,Sunk,1942-12-01,1944-10-25
+dd-akizuki-1940,Niizuki,ijn,Active,Sunk,1943-03-01,1943-07-06
+dd-akizuki-1940,Wakatsuki,ijn,Active,Sunk,1943-05-01,1944-11-11
+dd-akizuki-1940,Shimozuki,ijn,Active,Sunk,1944-03-01,1944-11-25
+dd-akizuki-1940,Fuyutsuki,ijn,Active,Scrapped,1944-05-01,1945-08-20
+dd-akizuki-1940,Hanatsuki,ijn,Active,Damaged,1944-12-01,1945-07-24
+dd-akizuki-1940,Hanatsuki,ijn,Damaged,Captured,1945-07-24,1947-08-01
+dd-akizuki-1940,Yoizuki,ijn,Active,Damaged,1945-01-01,1945-06-05
+dd-akizuki-1940,Yoizuki,ijn,Damaged,Captured,1945-06-05,1947-08-01
+dd-akizuki-1940,Harutsuki,ijn,Active,Interned,1944-12-01,1945-08-01
+dd-akizuki-1940,Harutsuki,ijn,Interned,Captured,1945-08-01,1947-08-01
+dd-akizuki-1940,Natsuzuki,ijn,Interned,Captured,1945-08-01,1947-08-01
 dd-shimakaze,Shimakaze,ijn,Active,Sunk,1943-05-01,1944-11-11
 dd-bristol,Asakaze,ijn,Active,Modernized,1954-10-19,1965-01-01
 dd-hatakaze,Asakaze,ijn,Active,Scrapped,1965-01-01,1969-01-01
@@ -9463,7 +9476,8 @@ de-tachibana,Hagi,ijn,Interned,Captured,1945-08-01,1947-07-01
 de-tachibana,Kaki,ijn,Active,Scrapped,1945-03-01,1945-06-06
 de-tachibana,Shii,ijn,Active,Damaged,1945-03-01,1945-06-05
 de-tachibana,Shii,ijn,Damaged,Captured,1945-06-05,1947-07-01
-de-tachibana,Wakaba,ijn,Active,Scrapped,1945-03-01,1971-03-01
+de-tachibana,Nashi,ijn,Active,Sunk,1945-03-01,1945-07-28
+de-wakaba,Wakaba,ijn,Active,Scrapped,1956-05-01,1971-03-01
 de-tachibana,Sumire,ijn,Active,Interned,1945-03-01,1945-08-01
 de-tachibana,Sumire,ijn,Interned,Captured,1945-08-01,1947-08-01
 de-tachibana,Enoki,ijn,Active,Sunk,1945-03-01,1945-06-26
@@ -9503,3 +9517,262 @@ de-matsu,Tsubaki,ijn,Active,Scrapped,1944-11-01,1945-07-24
 de-matsu,Keyaki,ijn,Active,Interned,1944-12-01,1945-08-01
 de-matsu,Keyaki,ijn,Interned,Captured,1945-08-01,1947-07-01
 de-matsu,Yanagi,ijn,Active,Scrapped,1945-01-01,1945-08-09
+dd-blanco-encalada,Blanco Encalada,cn,Active,Scrapped,1962-07-26,1982-04-01
+dd-blanco-encalada,Cochrane,cn,Active,Scrapped,1962-07-26,1982-04-01
+dd-ministro-zenteno,Ministro Zenteno,cn,Active,Scrapped,1974-01-08,1990-01-01
+dd-ministro-zenteno,Ministro Portales,cn,Active,Scrapped,1974-01-08,1990-01-01
+ddg-capitan-prat,Capitan Prat,cn,Active,Scrapped,1982-02-17,2006-07-01
+ddg-capitan-prat,Almirante Cochrane,cn,Active,Scrapped,1984-06-22,2006-11-01
+ddg-capitan-prat,Almirante Latorre,cn,Active,Scrapped,1986-10-03,1998-12-01
+ddg-capitan-prat,Almirante Blanco,cn,Active,Scrapped,1987-08-12,2003-12-01
+ff-esmeralda,Esmeralda,cn,Active,Scrapped,1946-01-01,1968-11-01
+ff-esmeralda,Iquique,cn,Active,Scrapped,1946-01-01,1968-11-01
+ff-esmeralda,Covadonga,cn,Active,Scrapped,1946-01-01,1968-11-01
+ff-serrano,Serrano,cn,Active,Scrapped,1966-11-25,1984-06-01
+ff-serrano,Orella,cn,Active,Scrapped,1966-11-25,1984-10-01
+ff-serrano,Riquelme,cn,Active,Scrapped,1966-12-01,1982-03-01
+ff-serrano,Uribe,cn,Active,Scrapped,1966-12-01,1995-07-01
+ffg-almirante-condell,Almirante Condell,cn,Active,Sold,1973-12-21,2007-01-01
+ffg-almirante-condell,Almirante Lynch,cn,Active,Sold,1974-05-25,2007-01-01
+ffg-ministro-zenteno,Ministro Zenteno,cn,Active,Scrapped,1990-11-27,2006-01-01
+ffg-ministro-zenteno,General Baquedano,cn,Active,Scrapped,1992-06-03,1998-12-01
+ffg-almirante-williams,Almirante Williams,cn,Active,,2003-09-05,
+ffg-captain-prat,Capitan Prat,cn,Active,,2006-07-17,
+ffg-captain-prat,Almirante Latorre,cn,Active,,2005-12-16,
+ffg-almirante-blanco-encalada,Almirante Blanco Encalada,cn,Active,,2005-12-16,
+ffg-almirante-blanco-encalada,Almirante Riveros,cn,Active,,2007-04-18,
+ffg-almirante-cochrane,Almirante Cochrane,cn,Active,,2006-11-22,
+ffg-almirante-cochrane,Almirante Condell,cn,Active,,2008-05-28,
+ffg-almirante-cochrane,Almirante Lynch,cn,Active,,2007-03-28,
+ddg-iroquois,HMCS Iroquois,rn,Active,Modernized,1972-07-29,1992-05-01
+ddg-iroquois-trump,HMCS Iroquois,rn,Active,Scrapped,1992-05-01,2015-05-01
+ddg-iroquois,HMCS Huron,rn,Active,Modernized,1972-12-16,1994-11-01
+ddg-iroquois-trump,HMCS Huron,rn,Active,Scrapped,1994-11-01,2005-03-01
+ddg-iroquois,HMCS Athabaskan,rn,Active,Modernized,1972-11-30,1994-08-01
+ddg-iroquois-trump,HMCS Athabaskan,rn,Active,Scrapped,1994-08-01,2017-03-01
+ddg-iroquois,HMCS Algonquin,rn,Active,Modernized,1973-09-30,1991-10-01
+ddg-iroquois-trump,HMCS Algonquin,rn,Active,Scrapped,1991-10-01,2015-06-01
+ffg-waikato,HMNZS Waikato,rn,Active,Scrapped,1966-09-16,1998-01-01
+ffg-southland,HMNZS Southland,rn,Active,Scrapped,1983-07-18,1995-01-01
+ffg-canterbury,HMNZS Canterbury,rn,Active,Scrapped,1971-10-22,2005-03-01
+ffg-wellington,HMNZS Wellington,rn,Active,Scrapped,1982-10-04,2000-05-01
+dd-daring,HMS Dainty,rn,Active,Scrapped,1953-02-26,1971-01-01
+dd-daring,HMS Daring,rn,Active,Scrapped,1952-03-08,1971-05-01
+dd-daring,HMS Decoy,rn,Active,Sold,1953-04-28,1969-12-01
+dd-daring,HMS Defender,rn,Active,Scrapped,1952-12-05,1972-05-01
+dd-daring,HMS Delight,rn,Active,Scrapped,1953-10-09,1970-09-01
+dd-daring,HMS Diamond,rn,Active,Training,1952-02-21,1979-01-01
+dd-daring,HMS Diana,rn,Active,Sold,1954-03-29,1969-12-01
+dd-daring,HMS Duchess,rn,Active,Sold,1952-10-23,1964-05-01
+ffg-halifax,HMCS Halifax,rn,Active,,1992-06-29,
+ffg-halifax,HMCS Vancouver,rn,Active,,1993-08-23,
+ffg-halifax,HMCS Ville de Quebec,rn,Active,,1994-07-14,
+ffg-halifax,HMCS Toronto,rn,Active,,1993-07-19,
+ffg-halifax,HMCS Regina,rn,Active,,1994-09-30,
+ffg-halifax,HMCS Calgary,rn,Active,,1995-05-12,
+ffg-halifax,HMCS Montreal,rn,Active,,1994-07-21,
+ffg-halifax,HMCS Fredericton,rn,Active,,1994-09-10,
+ffg-halifax,HMCS Winnipeg,rn,Active,,1995-06-23,
+ffg-halifax,HMCS Charlottetown,rn,Active,,1995-09-09,
+ffg-halifax,HMCS St. John's,rn,Active,,1996-06-24,
+ffg-halifax,HMCS Ottawa,rn,Active,,1996-09-28,
+ff-annapolis,HMCS Annapolis,rn,Active,Reserve,1964-12-19,1996-11-01
+ff-annapolis,HMCS Annapolis,rn,Reserve,Sunk,1996-11-01,2015-01-01
+ff-annapolis,HMCS Nipigon,rn,Active,Reserve,1964-05-30,1998-07-01
+ff-annapolis,HMCS Nipigon,rn,Reserve,Sunk,1998-07-01,2003-01-01
+ff-mackenzie,HMCS Mackenzie,rn,Active,Scrapped,1962-10-06,1993-08-01
+ff-mackenzie,HMCS Saskatchewan,rn,Active,Scrapped,1963-02-16,1994-03-01
+ff-mackenzie,HMCS Yukon,rn,Active,Reserve,1963-05-25,1993-12-01
+ff-mackenzie,HMCS Yukon,rn,Reserve,Sunk,1993-12-01,2000-01-01
+ff-mackenzie,HMCS Qu'Appelle,rn,Active,Scrapped,1963-09-14,1994-03-01
+ff-restigouche,HMCS Restigouche,rn,Active,Reserve,1958-06-07,1994-08-01
+ff-restigouche,HMCS Restigouche,rn,Reserve,Sunk,1994-08-01,2001-01-01
+ff-restigouche,HMCS Chaudiere,rn,Active,Scrapped,1959-11-14,1988-01-01
+ff-restigouche,HMCS Gatineau,rn,Active,Scrapped,1959-02-17,1996-05-01
+ff-restigouche,HMCS St. Croix,rn,Active,Auxiliary,1958-10-04,1974-11-01
+ff-restigouche,HMCS Kootenay,rn,Active,Reserve,1959-03-07,1995-11-01
+ff-restigouche,HMCS Kootenay,rn,Reserve,Sunk,1995-11-01,2001-01-01
+ff-restigouche,HMCS Terra Nova,rn,Active,Scrapped,1959-06-06,1997-07-01
+ff-restigouche,HMCS Columbia,rn,Active,Auxiliary,1959-11-07,1974-02-01
+ff-st-laurent,HMCS St. Laurent,rn,Active,Scrapped,1955-10-29,1974-06-01
+ff-st-laurent,HMCS Saguenay,rn,Active,Scrapped,1956-12-15,1990-06-01
+ff-st-laurent,HMCS Skeena,rn,Active,Scrapped,1957-03-30,1993-11-01
+ff-st-laurent,HMCS Ottawa,rn,Active,Scrapped,1956-11-10,1992-07-01
+ff-st-laurent,HMCS Margaree,rn,Active,Scrapped,1957-10-05,1992-05-01
+ff-st-laurent,HMCS Fraser,rn,Active,Scrapped,1957-06-28,1994-10-01
+ff-st-laurent,HMCS Assiniboine,rn,Active,Auxiliary,1956-08-16,1988-12-01
+am-kingston,HMCS Kingston,rn,Active,,1996-09-21,
+am-kingston,HMCS Glace Bay,rn,Active,,1996-10-26,
+am-kingston,HMCS Nanaimo,rn,Active,,1997-05-10,
+am-kingston,HMCS Edmonton,rn,Active,,1997-06-21,
+am-kingston,HMCS Shawinigan,rn,Active,,1997-06-14,
+am-kingston,HMCS Whitehorse,rn,Active,,1998-04-17,
+am-kingston,HMCS Yellowknife,rn,Active,,1998-04-18,
+am-kingston,HMCS Goose Bay,rn,Active,,1998-07-26,
+am-kingston,HMCS Moncton,rn,Active,,1998-07-12,
+am-kingston,HMCS Saskatoon,rn,Active,,1998-11-21,
+am-kingston,HMCS Brandon,rn,Active,,1999-06-05,
+am-kingston,HMCS Summerside,rn,Active,,1999-07-18,
+dd-voyager,HMAS Voyager,rn,Active,Sunk,1957-02-12,1964-02-10
+dd-voyager,HMAS Vendetta,rn,Active,Scrapped,1958-11-26,1979-10-01
+dd-voyager,HMAS Vampire,rn,Active,Museum,1959-06-23,1986-06-01
+dd-voyager,HMAS Duchess,rn,Active,Training,1964-05-08,1974-08-01
+ddg-perth,HMAS Perth,rn,Active,Scrapped,1965-07-17,1999-10-01
+ddg-perth,HMAS Hobart,rn,Active,Scrapped,1965-12-18,2000-05-01
+ddg-perth,HMAS Brisbane,rn,Active,Reserve,1967-12-16,2001-10-01
+ddg-perth,HMAS Brisbane,rn,Reserve,Sunk,2001-10-01,2005-07-01
+ddg-hobart,HMAS Hobart,rn,Active,,2017-09-23,
+ddg-hobart,HMAS Brisbane,rn,Active,,2018-10-27,
+pf-murchison,HMAS Condamine,rn,Active,Scrapped,1946-02-01,1961-09-01
+pf-murchison,HMAS Culgoa,rn,Active,Scrapped,1947-04-01,1972-02-01
+pf-murchison,HMAS Murchison,rn,Active,Scrapped,1945-12-01,1961-09-01
+pf-murchison,HMAS Shoalhaven,rn,Active,Scrapped,1946-05-01,1962-01-01
+fs-yarra,HMAS Yarra,rn,Active,Scrapped,1961-07-27,1985-11-01
+fs-yarra,HMAS Parramatta,rn,Active,Scrapped,1961-07-04,1991-11-01
+fs-stuart,HMAS Stuart,rn,Active,Scrapped,1963-06-28,1991-07-01
+fs-stuart,HMAS Derwent,rn,Active,Reserve,1964-04-30,1994-08-01
+fs-stuart,HMAS Derwent,rn,Reserve,Sunk,1994-08-01,1994-12-01
+ffg-swan,HMAS Swan,rn,Active,Reserve,1970-01-20,1996-09-01
+ffg-swan,HMAS Swan,rn,Reserve,Sunk,1996-09-01,1997-12-14
+ffg-swan,HMAS Torrens,rn,Active,Target,1971-01-19,1998-09-01
+ffg-adelaide,HMAS Adelaide,rn,Active,Scrapped,1980-11-06,2008-01-01
+ffg-adelaide,HMAS Canberra,rn,Active,Scrapped,1981-03-21,2005-11-01
+ffg-adelaide,HMAS Sydney,rn,Active,Scrapped,1983-01-29,2015-11-01
+ffg-adelaide,HMAS Darwin,rn,Active,Scrapped,1984-07-21,2017-12-01
+ffg-adelaide,HMAS Melbourne,rn,Active,,1992-02-15,
+ffg-adelaide,HMAS Newcastle,rn,Active,,1993-12-11,
+ffg-anzac,HMAS ANZAC,rn,Active,,1996-05-18,
+ffg-anzac,HMAS Arunta,rn,Active,,1998-12-12,
+ffg-anzac,HMAS Warramunga,rn,Active,,2001-03-31,
+ffg-anzac,HMAS Stuart,rn,Active,,2002-08-17,
+ffg-anzac,HMAS Parramatta,rn,Active,,2003-10-04,
+ffg-anzac,HMAS Ballarat,rn,Active,,2004-06-26,
+ffg-anzac,HMAS Toowoomba,rn,Active,,2005-10-08,
+ffg-anzac,HMAS Perth,rn,Active,,2006-08-26,
+fs-otago,HMNZS Otago,rn,Active,,1960-06-22,1987-08-01
+fs-otago,HMNZS Taranaki,rn,Active,,1961-03-28,1987-08-01
+ffg-te-kaha,HMNZS Te Kaha,rn,Active,,1997-07-22,
+ffg-te-kaha,HMNZS Te Mana,rn,Active,,1999-12-10,
+cl-delhi,INS Delhi,india,Active,Scrapped,1948-07-05,1978-05-01
+cl-mysore,INS Mysore,india,Active,Scrapped,1957-08-29,1986-01-01
+dd-ranjit,INS Rana,india,Active,Scrapped,1949-09-09,1979-01-01
+dd-ranjit,INS Ranjit,india,Active,Scrapped,1949-07-04,1979-01-01
+dd-ranjit,INS Rajput,india,Active,Scrapped,1949-07-27,1976-01-01
+ddg-rajput,INS Rajput,india,Active,,1980-09-30,
+ddg-rajput,INS Rana,india,Active,,1982-06-28,
+ddg-rajput,INS Ranjit,india,Active,Scrapped,1983-11-24,2019-05-01
+ddg-rajput,INS Ranvir,india,Active,,1986-10-28,
+ddg-rajput,INS Ranvijay,india,Active,,1988-01-15,
+ddg-delhi,INS Mysore,india,Active,,1999-06-02,
+ddg-delhi,INS Delhi,india,Active,,1997-11-15,
+ddg-delhi,INS Mumbai,india,Active,,2001-01-22,
+ddg-kolkata,INS Kolkata,india,Active,,2014-08-16,
+ddg-kolkata,INS Kochi,india,Active,,2015-09-30,
+ddg-kolkata,INS Chennai,india,Active,,2016-11-21,
+fs-khukri,INS Kirpan,india,Active,Auxiliary,1959-07-01,1978-01-01
+fs-khukri,INS Kuthar,india,Active,Auxiliary,1959-11-01,1978-01-01
+fs-khukri,INS Khukri,india,Active,Sunk,1958-07-16,1971-12-09
+fa-brahmaputra,INS Brahmaputra,india,Active,Scrapped,1958-03-31,1986-01-01
+fa-brahmaputra,INS Beas,india,Active,Scrapped,1960-05-24,1992-01-01
+fa-brahmaputra,INS Betwa,india,Active,Scrapped,1960-12-08,1988-01-01
+ff-talwar,INS Talwar,india,Active,Scrapped,1959-04-26,1988-01-01
+ff-talwar,INS Trishul,india,Active,Scrapped,1960-01-13,1996-01-01
+ffg-nilgiri,INS Nilgiri,india,Active,Scrapped,1972-06-03,1996-05-01
+ffg-nilgiri,INS Himgiri,india,Active,Scrapped,1974-11-23,2005-05-01
+ffg-nilgiri,INS Udaygiri,india,Active,Scrapped,1976-02-18,2007-08-01
+ffg-nilgiri,INS Dunagiri,india,Active,Scrapped,1977-05-05,2010-10-01
+ffg-taragiri,INS Taragiri,india,Active,Scrapped,1980-05-16,2013-06-01
+ffg-taragiri,INS Vindhyagiri,india,Active,Sunk,1981-07-08,2011-01-30
+ffg-godavari,INS Godavari,india,Active,Scrapped,1983-12-10,2015-12-01
+ffg-godavari,INS Gomati,india,Active,,1988-04-16,
+ffg-godavari,INS Ganga,india,Active,Scrapped,1985-12-30,2018-03-01
+ffg-brahmaputra,INS Brahmaputra,india,Active,,2000-04-14,
+ffg-brahmaputra,INS Beas,india,Active,,2005-07-11,
+ffg-brahmaputra,INS Betwa,india,Active,,2004-07-07,
+ffg-talwar,INS Talwar,india,Active,,2003-06-18,
+ffg-talwar,INS Trishul,india,Active,,2003-06-25,
+ffg-talwar,INS Trabar,india,Active,,2004-04-19,
+ffg-teg,INS Teg,india,Active,,2012-04-27,
+ffg-teg,INS Tarkash,india,Active,,2012-11-09,
+ffg-teg,INS Trikand,india,Active,,2013-06-29,
+ffg-project-17,INS Shivalik,india,Active,,2010-04-29,
+ffg-project-17,INS Satpura,india,Active,,2011-08-20,
+ffg-project-17,INS Sahyadri,india,Active,,2012-07-21,
+fsg-kamorta,INS Kamorta,india,Active,,2014-08-23,
+fsg-kamorta,INS Kadmatt,india,Active,,2016-01-07,
+fsg-kamorta,INS Kiltan,india,Active,,2017-10-16,
+fsg-khukri,INS Kirpan,india,Active,,1991-01-12,
+fsg-khukri,INS Kuthar,india,Active,,1990-06-07,
+fsg-khukri,INS Khanjar,india,Active,,1991-10-22,
+fsg-khukri,INS Khukri,india,Active,,1989-08-23,
+fsg-kora,INS Kora,india,Active,,1998-08-10,
+fsg-kora,INS Kirch,india,Active,,2001-01-22,
+fsg-kora,INS Kulish,india,Active,,2001-08-20,
+fsg-kora,INS Karmuk,india,Active,,2004-02-04,
+dd-gayret,TCG Gayret,tn,Active,Scrapped,1946-06-01,1965-01-01
+dd-gaziantep,TCG Gaziantep,tn,Active,Scrapped,1949-06-10,1973-01-01
+dd-gaziantep,TCG Giresun,tn,Active,Scrapped,1949-04-29,1973-01-01
+dd-gaziantep,TCG Gelibolu,tn,Active,Scrapped,1949-04-29,1976-01-01
+dd-gaziantep,TCG Gemlik,tn,Active,Scrapped,1949-06-10,1974-01-01
+dd-alp-arslan,TCG Alp Arslan,tn,Active,Scrapped,1959-04-27,1970-01-01
+dd-alp-arslan,TCG Maresal Fevzi Cakmak,tn,Active,Scrapped,1959-03-26,1970-01-01
+dd-alp-arslan,TCG Kilic Ali Pasa,tn,Active,Scrapped,1959-07-16,1971-08-01
+dd-alp-arslan,TCG Piyale Pasa,tn,Active,Scrapped,1959-06-29,1970-01-01
+dd-istanbul,TCG Istanbul,tn,Active,Scrapped,1967-01-14,1987-01-01
+dd-istanbul,TCG Izmir,tn,Active,Scrapped,1967-02-28,1987-01-01
+dd-istanbul,TCG Izmit,tn,Active,Scrapped,1969-10-01,1980-01-01
+dd-istanbul,TCG Iskenderun,tn,Active,Scrapped,1969-10-01,1981-01-01
+dd-istanbul,TCG Icel,tn,Active,Scrapped,1969-11-15,1981-01-01
+dd-muavenet,TCG Muavenet,tn,Active,Scrapped,1971-10-22,1992-10-02
+dd-yucetepe,TCG Yucetepe,tn,Active,Scrapped,1982-10-01,1998-04-01
+dd-yucetepe,TCG Kilic Ali Pasa,tn,Active,Scrapped,1980-06-05,1998-10-01
+dd-yucetepe,TCG Piyale Pasa,tn,Active,Scrapped,1980-06-05,1999-01-01
+dd-yucetepe,TCG Maresal Fevzi Cakmak,tn,Active,Scrapped,1973-09-29,1995-04-01
+dd-yucetepe,TCG Gayret,tn,Active,Scrapped,1973-07-11,1995-01-01
+dd-yucetepe,TCG Adatepe,tn,Active,Scrapped,1971-03-27,1993-01-01
+dd-savastepe,TCG Sevastepe,tn,Active,Scrapped,1981-07-20,1994-10-01
+dd-kocatepe,TCG Kocatepe,tn,Active,Sunk,1971-12-17,1974-07-22
+dd-kocatepe,TCG Kocatepe,tn,Active,Scrapped,1975-07-20,1993-01-01
+dd-kocatepe,TCG Tinaztepe,tn,Active,Scrapped,1972-06-30,1984-05-02
+dd-zafer,TCG Zafer,tn,Active,Scrapped,1972-02-15,1993-01-01
+dd-alcitepe,TCG Alcitepe,tn,Active,Scrapped,1982-02-16,1998-04-01
+dd-alcitepe,TCG Anittepe,tn,Active,Scrapped,1981-02-20,1997-11-01
+ff-berk,TCG Berk,tn,Active,Scrapped,1972-07-12,1999-01-01
+ff-berk,TCG Peyk,tn,Active,Scrapped,1975-07-24,2000-11-01
+ff-gelibolu,TCG Gazi Osman Pasa,tn,Active,Scrapped,1982-03-28,1994-01-01
+ff-gelibolu,TCG Gemlik,tn,Active,Scrapped,1983-09-23,1992-01-01
+ff-gelibolu,TCG Gemlik,tn,Active,Scrapped,1992-03-01,1994-06-01
+ffg-yavuz,TCG Yavuz,tn,Active,,1987-07-17,
+ffg-yavuz,TCG Turgut Reis,tn,Active,,1988-02-04,
+ffg-yavuz,TCG Fatih,tn,Active,,1988-10-12,
+ffg-yavuz,TCG Yildirim,tn,Active,,1989-04-22,
+ffg-muavenet,TCG Muavenet,tn,Active,Scrapped,1993-07-30,2007-01-01
+ffg-muavenet,TCG Adatepe,tn,Active,Scrapped,1993-08-28,2000-11-01
+ffg-muavenet,TCG Kocatepe,tn,Active,Scrapped,1993-08-28,2002-01-01
+ffg-muavenet,TCG Zafer,tn,Active,Scrapped,1993-08-30,2013-01-01
+ffg-muavenet,TCG Trakya,tn,Active,Scrapped,1994-06-05,2003-01-01
+ffg-muavenet,TCG Karadeniz,tn,Active,Scrapped,1994-05-20,2006-01-01
+ffg-muavenet,TCG Ege,tn,Active,Scrapped,1994-05-27,2005-01-01
+ffg-muavenet,TCG Akdeniz,tn,Active,Scrapped,1994-06-03,2001-01-01
+ffg-barbaros,TCG Barbaros,tn,Active,,1995-03-18,
+ffg-barbaros,TCG Orucreis,tn,Active,,1996-05-10,
+ffg-salihreis,TCG Salihreis,tn,Active,,1998-12-17,
+ffg-salihreis,TCG Kemalreis,tn,Active,,2000-06-08,
+ffg-gaziantep,TCG Gaziantep,tn,Active,,1998-07-27,
+ffg-gaziantep,TCG Giresun,tn,Active,,1998-07-27,
+ffg-gaziantep,TCG Gemlik,tn,Active,,1998-07-27,
+ffg-gaziantep,TCG Gelibolu,tn,Active,,1999-01-01,
+ffg-gaziantep,TCG Gokceada,tn,Active,,1999-07-27,
+ffg-gaziantep,TCG Gediz,tn,Active,,2000-06-30,
+ffg-gaziantep,TCG Gokova,tn,Active,,2002-07-23,
+ffg-gaziantep,TCG Goksu,tn,Active,,2003-04-04,
+fsg-heybeliada,TCG Heybeliada,tn,Active,,2011-09-27,
+fsg-heybeliada,TCG Buyukada,tn,Active,,2013-09-27,
+fsg-heybeliada,TCG Burgazada,tn,Active,,2018-11-04,
+fsg-heybeliada,TCG Kinaliada,tn,Active,,2019-09-29,
+fsg-bozcaada,TCG Bozcaada,tn,Active,,2001-06-22,
+fsg-bozcaada,TCG Bodrum,tn,Active,,2001-10-18,
+fsg-bozcaada,TCG Bandirma,tn,Active,,2001-12-14,
+fsg-bozcaada,TCG Beykoz,tn,Active,,2002-03-18,
+fsg-bozcaada,TCG Bartin,tn,Active,,2002-06-03,
+fsg-bozcaada,TCG Bafra,tn,Active,,2002-06-26,
