@@ -30,7 +30,7 @@ $ships = foreach ($class in $classes) {
     foreach ($row in $rows) {
         $ship = New-Object PSObject -Property ([ordered]@{
             ClassID = $class.ClassID
-            ShipName = @($row.children)[$columns['Name']].innerText -replace '.+<(.+)>','$1'
+            ShipName = @($row.children)[$columns['Name']].innerText -replace '.+[\[<](.+)[\]>]','$1'
             Existance = ""
             Fate = ""
             LaidDown = convertDate @($row.children)[$columns['Laid down']].innerText
