@@ -4803,6 +4803,10 @@ dd-mandate,HMS Rapid,Built,Scrapped,1915-08-01,1916-07-15,1916-08-01,1927-04-01
 dd-mandate,HMS Ready,Built,Scrapped,1915-09-01,1916-08-26,1916-10-01,1926-07-01
 dd-mandate,HMS Relentless,Built,Scrapped,1915-01-01,1916-04-15,1916-05-01,1926-11-01
 dd-mandate,HMS Rival,Built,Scrapped,1915-05-01,1916-06-14,1916-09-01,1926-07-01
+dd-talisman,HMS Talisman,Built,Scrapped,1914-12-01,1915-07-15,1916-01-01,1921-04-01
+dd-talisman,HMS Termagant,Built,Scrapped,1914-12-01,1915-08-26,1916-03-01,1921-05-01
+dd-talisman,HMS Trident,Built,Scrapped,1915-01-01,1915-11-20,1916-03-01,1921-05-01
+dd-talisman,HMS Turbulent,Built,Sunk,1915-01-01,1916-01-05,1916-05-12,1916-06-01
 ss-acacia,HMS Foxglove,Built,Auxiliary,1915-01-01,1915-03-30,1915-05-01,1943-01-01
 ss-acacia,HMS Acacia,Built,Scrapped,1915-01-01,1915-04-15,1915-05-01,1922-09-01
 ss-acacia,HMS Hollyhock,Built,Scrapped,1915-01-01,1915-05-01,1915-06-01,1930-10-01
@@ -5308,6 +5312,12 @@ dd-h,HMS Hostile,Built,Sunk,1935-02-01,1936-01-24,1936-09-01,1940-08-23
 dd-h,HMS Hotspur,Built,Sold,1935-02-01,1936-03-23,1936-12-01,1948-11-01
 dd-h,HMS Hunter,Built,Sunk,1935-03-01,1936-02-25,1936-09-01,1940-04-10
 dd-h,HMS Hyperion,Built,Sunk,1935-03-01,1936-04-08,1936-12-01,1940-12-22
+dd-h,HMS Harvester,Bought,Sunk,1940-05-01,,1940-05-01,1943-03-11
+dd-h,HMS Havant,Bought,Sunk,1939-12-01,,1939-12-01,1940-06-01
+dd-h,HMS Havelock,Bought,Scrapped,1940-02-01,,1940-02-01,1946-10-01
+dd-h,HMS Hesperus,Bought,Scrapped,1940-01-01,,1940-01-01,1946-11-01
+dd-h,HMS Highlander,Bought,Scrapped,1940-03-01,,1940-03-01,1946-05-01
+dd-h,HMS Hurricane,Bought,Sunk,1940-06-01,,1940-06-01,1943-12-24
 dd-i,HMS Icarus,Built,Scrapped,1936-03-01,1936-11-26,1937-05-01,1946-10-01
 dd-i,HMS Ilex,Built,Scrapped,1936-03-01,1937-01-28,1937-07-01,1946-01-01
 dd-i,HMS Imogen,Built,Sunk,1936-01-01,1936-10-30,1937-06-01,1940-07-16
@@ -5316,6 +5326,8 @@ dd-i,HMS Impulsive,Built,Scrapped,1936-03-01,1937-03-01,1938-01-01,1946-01-01
 dd-i,HMS Intrepid,Built,Sunk,1936-01-01,1936-12-17,1937-07-01,1943-09-26
 dd-i,HMS Isis,Built,Sunk,1936-02-01,1936-11-12,1937-06-01,1944-07-20
 dd-i,HMS Ivanhoe,Built,Sunk,1936-02-01,1937-02-11,1937-08-01,1940-09-01
+dd-i,HMS Inconstant,Bought,Sold,1942-01-01,,1942-01-01,1946-03-01
+dd-i,HMS Ithuriel,Bought,Scrapped,1942-03-01,,1942-03-01,1942-11-28
 dl-g,HMS Grenville,Built,Sunk,1934-09-01,1935-08-15,1936-07-01,1940-01-19
 dl-h,HMS Hardy,Built,Sunk,1935-05-01,1936-04-07,1936-12-01,1940-04-10
 dl-i,HMS Inglefield,Built,Sunk,1936-04-01,1936-10-15,1937-06-01,1944-02-25
@@ -5693,6 +5705,7 @@ dd-cr,HMS Crown,Built,Scrapped,1944-01-01,1945-12-19,,1945-12-01
 dd-cr,HMS Croziers,Built,Scrapped,1943-10-01,1944-09-19,,1945-09-01
 dd-cr,HMCS Crusader,Built,Scrapped,1943-11-01,1944-10-05,1945-11-01,1965-01-01
 dd-cr,HMS Crystal,Built,Scrapped,1944-01-01,1945-02-12,,1945-08-01
+dd-z38,HMS Z38,Captured,Scrapped,1945-09-01,,1945-09-01,1949-11-01
 pf-loch,HMS Loch Achanalt,Built,Sold,1943-09-01,1944-03-23,1944-08-01,1948-09-01
 pf-loch,HMS Loch Achray,Built,Sold,1943-12-01,1944-07-07,1945-02-01,1948-09-01
 pf-loch,HMS Loch Alvie,Built,Scrapped,1943-08-01,1944-04-14,1944-08-01,1945-11-01
@@ -7126,7 +7139,11 @@ dd-van-ghent,HNLMS De Ruyter,Built,Sunk,1925-08-01,1926-10-23,1928-05-01,1942-02
 dd-van-ghent,HNLMS Evertsen,Built,Sunk,1925-08-01,1926-12-29,1928-05-01,1942-03-01
 dd-van-ghent,HNLMS Kortenaer,Built,Sunk,1925-08-01,1927-07-30,1928-09-01,1942-02-27
 dd-van-ghent,HNLMS Piet Hein,Built,Sunk,1925-08-01,1927-04-02,1928-01-01,1942-02-19
-dd-gerard-callenburgh,HNLMS Gerard Callenburgh,Cancelled,Scrapped,1938-10-01,1939-10-12,,1940-05-15
+dd-van-galen,HNLMS Van Galen Class,Built,Sunk,1927-05-01,1928-06-28,1929-10-01,1940-05-10
+dd-van-galen,HNLMS Witte de With,Built,Sunk,1927-05-01,1928-09-11,1930-02-01,1942-03-02
+dd-van-galen,HNLMS Banckert,Built,Sunk,1928-08-01,1929-11-14,1930-11-01,1942-03-02
+dd-van-galen,HNLMS Van Nes,Built,Sunk,1928-08-01,1930-03-30,1931-03-01,1942-02-17
+dd-gerard-callenburgh,HNLMS Gerard Callenburgh,Cancelled,Sunk,1938-10-01,1939-10-12,,1940-05-15
 dd-gerard-callenburgh,HNLMS Isaac Sweers,Built,,1938-11-01,1940-03-16,1941-03-01,1942-12-13
 dd-gerard-callenburgh,HNLMS Tjerk Hiddes,Cancelled,Scrapped,1938-11-01,1939-10-12,,1940-05-14
 dd-gerard-callenburgh,HNLMS Philips van Almonde,Cancelled,Scrapped,1939-03-01,,,1940-04-17
@@ -7223,6 +7240,9 @@ fsg-espora,ARA Spiro,Built,,1982-04-01,1983-06-24,1987-11-24,
 fsg-espora,ARA Parker,Built,,1982-02-09,1984-03-31,1990-04-17,
 fsg-espora,ARA Robinson,Built,,1983-06-06,1985-02-15,2000-08-28,
 fsg-espora,ARA Gomez Roca,Built,,1983-12-01,1986-11-14,2004-05-17,
+fsg-mourad-rais,Mourad Rais,Bought,,1980-12-20,,1980-12-20,
+fsg-mourad-rais,Rais Kellich,Bought,,1982-03-24,,1982-03-24,
+fsg-mourad-rais,Rais Korfu,Bought,,1985-01-01,,1985-01-01,
 ffg-adhafer,Adhafer,Built,,2013-01-01,2014-08-15,2015-11-01,
 ffg-adhafer,El Fatih,Built,,2013-06-01,2015-02-06,2016-03-10,
 ffg-adhafer,Ezzadjer,Built,,2013-10-01,2015-06-01,2016-08-25,
@@ -8251,3 +8271,99 @@ ffg-project-22350,Admiral Flota Sovetskogo Soyuza Isakov,Planned,,2013-11-14,,,
 ffg-project-22350,Admiral Amel'ko,Planned,,2019-04-23,,,
 ffg-project-22350,Admiral Chichagov,Planned,,2019-04-23,,,
 ffg-project-20386,Merkuriy,Planned,,2016-10-28,,,
+ss-zinnia,Zinnia,Bought,Auxiliary,1920-06-01,,1920-06-01,1927-01-01
+fs-barbara,Barbara,Captured,Captured,1940-05-18,,1940-05-18,1945-05-01
+fs-jan-breydel,Jan Breydel,Captured,Scrapped,1945-05-01,,1945-05-01,1952-01-01
+ff-artevelde,Artevelde,Built,Captured,1939-01-01,,,1940-05-01
+ff-k4,K4,Built,Captured,1940-05-01,1940-08-28,1943-04-01,1945-06-01
+pf-lieutenant-ter-zee-victor-billet,Lieutenant ter zee Victor Billet,Bought,Auxiliary,1947-03-19,,1947-03-19,1958-01-01
+ffg-leopold-i,Leopold I,Bought,,2005-12-22,,2005-12-22,
+ffg-leopold-i,Louise-Marie,Bought,,2005-12-22,,2005-12-22,
+dd-van-galen-1942,HNLMS Van Galen,Bought,Scrapped,1942-02-01,,1942-02-01,1956-10-01
+dd-van-galen-1942,HNLMS Tjerk Hiddes,Bought,Sold,1942-10-01,,1942-10-01,1951-03-01
+dd-banckert,HNLMS Banckert,Bought,Scrapped,1945-11-01,,1945-11-01,1956-10-01
+dd-piet-hein,HNLMS Evertsen,Bought,Scrapped,1946-02-01,,1946-02-01,1962-01-01
+dd-piet-hein,HNLMS Piet Hein,Bought,Scrapped,1945-10-01,,1945-10-01,1961-01-01
+dd-piet-hein,HNLMS Kortenaer,Bought,Scrapped,1945-10-01,,1945-10-01,1962-01-01
+dd-marnix,HNLMS Marnix,Bought,Scrapped,1947-11-01,,1947-11-01,1964-01-01
+de-lewes,HMS Leeds,Bought,Scrapped,1940-10-01,,1940-10-01,1947-03-01
+de-lewes,HMS Lewes,Bought,Target,1940-10-01,,1940-10-01,1946-05-25
+de-lewes,HMS Ludlow,Bought,Target,1940-10-01,,1940-10-01,1945-07-15
+de-montgomery,HMCS Annapolis,Bought,Scrapped,1940-09-01,,1940-09-01,1945-06-01
+de-montgomery,HMS Bath,Bought,Sold,1940-09-01,,1940-09-01,1941-04-01
+de-montgomery,HMS Brighton,Bought,Sold,1940-09-01,,1940-09-01,1944-03-01
+de-montgomery,HMS Campbelltown,Bought,Sunk,1940-09-01,,1940-09-01,1942-03-28
+de-montgomery,HMS Caldwell,Bought,Scrapped,1940-09-01,,1940-09-01,1944-12-01
+de-montgomery,HMS Castleton,Bought,Scrapped,1940-09-01,,1940-09-01,1947-03-01
+de-montgomery,HMS Charlestown,Bought,Scrapped,1940-09-01,,1940-09-01,1944-12-01
+de-montgomery,HMS Chelsea,Bought,Sold,1940-09-01,,1940-09-01,1944-03-01
+de-montgomery,HMCS Columbia,Bought,Scrapped,1940-09-01,,1940-09-01,1944-02-25
+de-montgomery,HMS Georgetown,Bought,Sold,1940-09-01,,1940-09-01,1944-03-01
+de-montgomery,HMCS Hamilton,Bought,Scrapped,1940-09-01,,1940-09-01,1945-08-01
+de-montgomery,HMS Lancaster,Bought,Scrapped,1940-10-01,,1940-10-01,1947-02-01
+de-montgomery,HMS Leamington,Bought,Sold,1940-10-01,,1940-10-01,1944-03-01
+de-montgomery,HMS Lincoln,Bought,Sold,1940-10-01,,1940-10-01,1944-08-01
+de-montgomery,HMS Mansfield,Bought,Scrapped,1940-10-01,,1940-10-01,1944-06-01
+de-montgomery,HMS Montgomery,Bought,Scrapped,1940-10-01,,1940-10-01,1945-05-01
+de-montgomery,HMS Newark,Bought,Scrapped,1940-11-01,,1940-11-01,1947-02-01
+de-montgomery,HMS Newmarket,Bought,Scrapped,1940-11-01,,1940-11-01,1945-09-01
+de-montgomery,HMS Newport,Bought,Scrapped,1940-11-01,,1940-11-01,1945-01-01
+de-montgomery,HMCS Niagara,Bought,Scrapped,1940-09-01,,1940-09-01,1945-09-01
+de-montgomery,HMS Richmond,Bought,Sold,1940-10-01,,1940-10-01,1944-03-01
+de-montgomery,HMS Roxburgh,Bought,Sold,1940-09-01,,1940-09-01,1944-03-01
+de-montgomery,HMS St. Albans,Bought,Sold,1940-09-01,,1940-09-01,1944-03-01
+de-montgomery,HMCS St. Clair,Bought,Scrapped,1940-09-01,,1940-09-01,1946-10-01
+de-montgomery,HMS St. Mary's,Bought,Scrapped,1940-09-01,,1940-09-01,1945-03-01
+de-montgomery,HMS Salisbury,Bought,Scrapped,1940-10-01,,1940-10-01,1944-06-01
+de-montgomery,HMS Wells,Bought,Scrapped,1940-11-01,,1940-11-01,1945-07-01
+de-belmont,HMS Belmont,Bought,Sunk,1940-10-01,,1940-10-01,1942-01-31
+de-belmont,HMS Beverley,Bought,Sunk,1940-10-01,,1940-10-01,1943-04-11
+de-belmont,HMS Bradford,Bought,Scrapped,1940-10-01,,1940-10-01,1946-06-01
+de-belmont,HMS Broadwater,Bought,Sunk,1940-10-01,,1940-10-01,1941-10-18
+de-belmont,HMS Broadway,Bought,Scrapped,1940-10-01,,1940-10-01,1948-03-01
+de-belmont,HMS Burnham,Bought,Scrapped,1940-10-01,,1940-10-01,1948-12-01
+de-belmont,HMS Burwell,Bought,Scrapped,1940-10-01,,1940-10-01,1947-03-01
+de-belmont,HMS Buxton,Bought,Scrapped,1940-10-01,,1940-10-01,1946-03-01
+de-belmont,HMS Cameron,Bought,Scrapped,1940-09-01,,1940-09-01,1940-12-15
+de-belmont,HMS Chesterfield,Bought,Scrapped,1940-09-01,,1940-09-01,1947-03-01
+de-belmont,HMS Churchill,Bought,Sold,1940-09-01,,1940-09-01,1944-03-01
+de-belmont,HMS Clare,Bought,Scrapped,1940-09-01,,1940-09-01,1947-03-01
+de-belmont,HMS Ramsey,Bought,Scrapped,1940-11-01,,1940-11-01,1947-07-01
+de-belmont,HMS Reading,Bought,Scrapped,1940-11-01,,1940-11-01,1945-07-01
+de-belmont,HMS Ripley,Bought,Scrapped,1940-11-01,,1940-11-01,1945-03-01
+de-belmont,HMS Rockingham,Bought,Sunk,1940-11-01,,1940-11-01,1944-09-27
+de-belmont,HMCS St. Croix,Bought,Sunk,1940-09-01,,1940-09-01,1943-09-20
+de-belmont,HMCS St. Francis,Bought,Sunk,1940-09-01,,1940-09-01,1945-07-14
+de-belmont,HMS Sherwood,Bought,Target,1940-10-01,,1940-10-01,1943-09-20
+de-belmont,HMS Stanley,Bought,Sunk,1940-10-01,,1940-10-01,1941-12-19
+dd-mistral,Mistral,Captured,Sold,1940-07-03,,1940-07-03,1945-05-01
+ff-van-kinsbergen,Van Kinsbergen,Built,Auxiliary,1936-12-01,1937-09-11,1939-08-01,1955-05-01
+pf-johan-maurits-van-nassau,Johan Maurits van Nassau,Built,Training,1942-12-01,1943-04-23,1943-06-01,1953-01-01
+ff-van-amstel,Van Amstel,Bought,Sold,1950-06-01,,1950-06-01,1967-12-01
+ff-van-amstel,De Bitter,Bought,Sold,1950-06-01,,1950-06-01,1967-12-01
+ff-van-amstel,Van Ewijck,Bought,Sold,1950-10-01,,1950-10-01,1967-12-01
+ff-van-amstel,Dubois,Bought,Sold,1950-10-01,,1950-10-01,1967-12-01
+ff-van-amstel,De Zeeuw,Bought,Sold,1951-03-01,,1951-03-01,1967-12-01
+ff-van-amstel,Van Zijll,Bought,Sold,1951-03-01,,1951-03-01,1967-12-01
+dd-leytenant-burakov,Leytenant Burakov,Captured,Sunk,1900-06-17,,1900-06-17,1904-07-30
+dd-taku-rn,HMS Taku,Captured,Scrapped,1900-06-17,,1900-06-17,1916-10-01
+dd-taku-km,Taku,Captured,Scrapped,1900-06-17,,1900-06-17,1914-06-01
+dd-zh1,ZH1,Captured,Sunk,1940-07-17,,1942-10-01,1944-06-09
+dd-zg3,ZG3,Captured,Sunk,1941-06-01,,1942-03-21,1943-05-07
+dd-z1,Z1,Bought,Scrapped,1958-01-17,,1958-01-17,1972-03-01
+dd-z1,Z2,Bought,Sold,1959-07-14,,1959-07-14,1981-09-01
+dd-z1,Z3,Bought,Sold,1959-10-06,,1959-10-06,1980-10-01
+dd-z1,Z4,Bought,Sold,1959-12-15,,1959-12-15,1981-02-01
+dd-z1,Z5,Bought,Sold,1960-02-17,,1960-02-17,1982-02-01
+dd-z1,Z6,Bought,Scrapped,1960-04-12,,1960-04-12,1967-10-01
+dd-hamburg,Hamburg,Built,Scrapped,1959-01-29,1960-03-26,1964-03-23,1994-02-01
+dd-hamburg,Schleswig-Holstein,Built,Scrapped,1959-08-20,1960-08-20,1964-10-12,1994-12-01
+dd-hamburg,Bayern,Built,Scrapped,1960-09-14,1962-08-14,1965-07-06,1993-12-01
+dd-hamburg,Hessen,Built,Scrapped,1961-02-15,1963-05-04,1968-10-08,1990-03-01
+ddg-lutjens,Lutjens,Built,Scrapped,1966-03-01,1967-08-11,1969-03-22,2003-12-01
+ddg-lutjens,Molders,Built,Scrapped,1966-04-12,1968-04-13,1969-09-20,2003-05-01
+ddg-lutjens,Rommel,Built,Scrapped,1967-08-22,1969-02-01,1970-05-02,1999-06-01
+ffg-baden-wurttemberg,Baden-Wurttemberg,Built,,2011-11-02,2014-03-28,2019-06-17,
+ffg-baden-wurttemberg,Nordrhein-Westfalen,Planned,,2012-10-24,2015-04-09,,
+ffg-baden-wurttemberg,Sachsen-Anhalt,Planned,,2014-06-10,2016-03-04,,
+ffg-baden-wurttemberg,Rheinland-Pfalz,Planned,,2015-01-29,2017-05-24,,
