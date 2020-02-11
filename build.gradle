@@ -75,7 +75,7 @@ task generateShipHistory {
         records.forEach { record ->
             // println(record.get("ShipName"))
             def laidDown = LocalDate.parse(record.get("LaidDown"))
-            def launched = LocalDate.parse(record.get("Launched") ?: record.get("Stricken") ?: today)
+            def launched = LocalDate.parse(record.get("Launched") ?: record.get("Commissioned") ?: record.get("Stricken") ?: today)
             def commissioned = LocalDate.parse(record.get("Commissioned") ?: record.get("Stricken") ?: today)
             def currentDate = laidDown.minusDays(laidDown.getDayOfMonth() - 1)
             def compareDate = laidDown
