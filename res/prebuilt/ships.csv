@@ -19,7 +19,7 @@ bb-oklahoma,USS Oklahoma,Built,Modernized,1912-10-26,1914-03-23,1916-05-02,1927-
 bb-oklahoma-mod1,USS Oklahoma,Modernized,Sunk,1927-09-01,1929-06-01,1929-07-01,1941-12-07
 bb-nevada-mod2,USS Nevada,Modernized,Target,1941-12-07,1942-09-01,1942-10-01,1946-02-01
 bb-new-mexico,USS New Mexico,Built,Scrapped,1915-10-14,1917-04-13,1918-05-20,1947-02-01
-bb-new-mexico,USS Mississippi,Built,Converted,1915-04-05,1917-01-25,1917-12-18,1945-11-27
+bb-mississippi,USS Mississippi,Built,Converted,1915-04-05,1917-01-25,1917-12-18,1945-11-27
 bb-new-mexico,USS Idaho,Built,Scrapped,1915-01-20,1917-06-30,1919-03-24,1947-11-01
 bb-new-york,USS New York,Built,Target,1911-09-11,1912-10-30,1914-05-15,1948-07-08
 bb-new-york,USS Texas,Built,Museum,1911-04-17,1912-05-18,1914-03-12,1948-04-01
@@ -531,11 +531,11 @@ bb-espana,Espana,Built,Sunk,1909-12-06,1912-02-05,1913-10-23,1923-08-26
 bb-espana,Alfonso XIII,Built,Sunk,1910-02-23,1913-05-07,1915-08-16,1937-04-30
 bb-espana,Jaime I,Built,Sunk,1912-02-05,1914-09-21,1921-12-20,1937-06-07
 cds-svea,HSwMS Svea,Built,,1884-03-01,1885-12-12,1886-09-20,1920-01-01
-cds-svea,HSwMS Gota,Built,Scrapped,1888-03-01,1889-09-16,1891-06-01,1927-10-01
-cds-svea,HSwMS Thule,Built,,1891-05-01,1893-03-04,1893-12-01,1928-08-01
+cds-gota,HSwMS Gota,Built,Scrapped,1888-03-01,1889-09-16,1891-06-01,1927-10-01
+cds-thule,HSwMS Thule,Built,,1891-05-01,1893-03-04,1893-12-01,1928-08-01
 cds-oden,HSwMS Oden,Built,,1894-06-01,1896-03-09,1897-06-08,1937-01-01
-cds-oden,HSwMS Thor,Built,,1896-03-01,1898-03-07,1899-06-29,1937-01-01
-cds-oden,HSwMS Niord,Built,,1896-03-01,1898-03-31,1899-02-23,1926-01-01
+cds-thor,HSwMS Thor,Built,,1896-03-01,1898-03-07,1899-06-29,1937-01-01
+cds-thor,HSwMS Niord,Built,,1896-03-01,1898-03-31,1899-02-23,1926-01-01
 cds-dristigheten,HSwMS Dristigheten,Built,,1898-10-01,1900-04-28,1901-09-05,1947-06-01
 cds-aran,HSwMS Aran,Built,,1899-10-01,1901-08-14,1902-09-07,1947-06-01
 cds-aran,HSwMS Wasa,Built,,1899-11-01,1901-05-29,1902-12-06,1940-03-01
@@ -629,8 +629,8 @@ cl-brooklyn,USS Nashville,Built,Sold,1935-01-24,1937-10-02,1938-11-25,1951-01-01
 cl-brooklyn,USS Phoenix,Built,Sold,1935-04-15,1938-03-12,1939-03-18,1951-01-01
 cl-brooklyn,USS Boise,Built,Sold,1935-04-01,1936-12-03,1939-02-01,1951-01-01
 cl-brooklyn,USS Honolulu,Built,,1935-09-10,1937-08-26,1938-09-07,1959-03-01
-cl-brooklyn,USS St. Louis,Built,Sold,1936-12-10,1938-04-15,1939-12-01,1951-01-01
-cl-brooklyn,USS Helena,Built,,1936-12-09,1938-08-28,1939-12-14,1943-07-06
+cl-st-louis,USS St. Louis,Built,Sold,1936-12-10,1938-04-15,1939-12-01,1951-01-01
+cl-st-louis,USS Helena,Built,,1936-12-09,1938-08-28,1939-12-14,1943-07-06
 ca-wichita,USS Wichita,Built,,1935-10-28,1937-11-16,1939-02-16,1959-03-01
 cl-atlanta,USS Atlanta,Built,,1940-04-22,1941-09-06,1941-12-24,1942-11-13
 cl-atlanta,USS Juneau,Built,,1940-05-27,1941-10-25,1942-02-14,1942-11-13
@@ -720,7 +720,7 @@ ca-des-moines,USS Newport News,Built,Scrapped,1945-10-01,1947-03-06,1949-01-29,1
 pc-cincinnati,USS Cincinnati,Built,Scrapped,1890-01-29,1892-11-10,1894-06-16,1921-08-01
 pc-cincinnati,USS Raleigh,Built,Scrapped,1889-12-19,1892-03-31,1894-04-17,1921-08-01
 pc-columbia,USS Columbia,Built,Scrapped,1890-12-30,1892-07-26,1894-04-23,1922-01-01
-pc-columbia,USS Minneapolis,Built,Scrapped,1891-12-16,1893-08-12,1894-12-13,1921-08-01
+pc-minneapolis,USS Minneapolis,Built,Scrapped,1891-12-16,1893-08-12,1894-12-13,1921-08-01
 pc-leander,HMS Leander,Built,,1880-06-14,1882-10-28,1885-05-29,1904-01-01
 pc-leander,HMS Arethusa,Built,,1880-06-14,1882-12-23,1887-09-29,1905-05-01
 pc-leander,HMS Phaeton,Built,,1880-06-14,1883-02-27,1886-04-20,1909-01-01
@@ -918,9 +918,9 @@ cl-arethusa-1913,HMS Phaeton,Built,,1913-03-12,1914-10-21,1915-02-01,1923-01-01
 cl-arethusa-1913,HMS Royalist,Built,,1913-06-03,1915-01-14,1915-03-01,1922-08-01
 cl-calliope,HMS Calliope,Built,,1914-01-01,1914-12-17,1915-06-01,1931-08-01
 cl-calliope,HMS Champion,Built,,1914-03-09,1915-05-29,1915-12-01,1934-07-01
-cl-cambrian,HMS Castor,Built,,1914-10-28,1915-07-28,1915-11-01,1936-07-01
-cl-cambrian,HMS Constance,Built,,1915-01-25,1915-09-12,1916-01-01,1936-01-01
-cl-cambrian,HMS Canterbury,Built,,1914-10-14,1915-12-21,1916-05-01,1934-07-01
+cl-castor,HMS Castor,Built,,1914-10-28,1915-07-28,1915-11-01,1936-07-01
+cl-castor,HMS Constance,Built,,1915-01-25,1915-09-12,1916-01-01,1936-01-01
+cl-castor,HMS Canterbury,Built,,1914-10-14,1915-12-21,1916-05-01,1934-07-01
 cl-cambrian,HMS Cambrian,Built,,1914-12-08,1916-03-03,1916-05-01,1934-07-01
 cl-caroline,HMS Cordelia,Built,,1913-07-21,1914-02-23,1915-01-01,1923-07-01
 cl-caroline,HMS Caroline,Built,,1914-01-28,1914-09-29,1914-12-01,1924-02-01
@@ -1054,15 +1054,15 @@ pc-seeadler,SMS Seeadler,Built,,1890-10-01,1892-02-02,1892-06-27,1914-01-01
 pc-seeadler,SMS Condor,Built,,1891-01-01,1892-02-23,1892-12-09,1916-01-01
 pc-seeadler,SMS Cormoran,Built,,1890-12-01,1892-05-17,1893-07-25,1914-09-28
 cl-gazelle,SMS Gazelle,Built,,1897-04-01,1898-03-31,1900-10-06,1916-01-01
-cl-gazelle,SMS Niobe,Built,,1898-08-30,1899-07-18,1900-06-25,1917-01-01
-cl-gazelle,SMS Nymphe,Built,,1898-11-01,1899-11-21,1900-09-20,1931-03-01
-cl-gazelle,SMS Thetis,Built,,1899-09-01,1900-07-03,1901-09-14,1929-09-01
-cl-gazelle,SMS Ariadne,Built,,1899-12-14,1900-08-10,1901-05-18,1914-08-28
-cl-gazelle,SMS Amazone,Built,,1899-12-01,1900-10-06,1901-11-15,1931-03-01
-cl-gazelle,SMS Medusa,Built,,1900-01-22,1900-12-05,1901-07-26,1917-01-01
-cl-gazelle,SMS Frauenlob,Built,,1901-06-01,1902-03-22,1903-02-17,1916-03-31
-cl-gazelle,SMS Arcona,Built,,1901-08-01,1902-10-22,1903-05-12,1919-01-01
-cl-gazelle,SMS Undine,Built,,1901-09-28,1902-12-11,1904-01-05,1915-11-07
+cl-niobe,SMS Niobe,Built,,1898-08-30,1899-07-18,1900-06-25,1917-01-01
+cl-niobe,SMS Nymphe,Built,,1898-11-01,1899-11-21,1900-09-20,1931-03-01
+cl-niobe,SMS Thetis,Built,,1899-09-01,1900-07-03,1901-09-14,1929-09-01
+cl-niobe,SMS Ariadne,Built,,1899-12-14,1900-08-10,1901-05-18,1914-08-28
+cl-niobe,SMS Amazone,Built,,1899-12-01,1900-10-06,1901-11-15,1931-03-01
+cl-niobe,SMS Medusa,Built,,1900-01-22,1900-12-05,1901-07-26,1917-01-01
+cl-niobe,SMS Frauenlob,Built,,1901-06-01,1902-03-22,1903-02-17,1916-03-31
+cl-niobe,SMS Arcona,Built,,1901-08-01,1902-10-22,1903-05-12,1919-01-01
+cl-niobe,SMS Undine,Built,,1901-09-28,1902-12-11,1904-01-05,1915-11-07
 pc-gefion,SMS Gefion,Built,,1892-03-28,1893-05-31,1894-06-27,1916-01-01
 pc-hela,SMS Hela,Built,,1893-06-01,1895-03-28,1896-05-03,1914-09-13
 pc-geier,SMS Geier,Built,,1893-05-01,1894-10-18,1895-10-24,1917-04-06
@@ -1143,15 +1143,15 @@ pc-tiger,SMS Tiger,Built,,1886-10-05,1887-06-28,1888-03-01,1906-01-01
 pc-kaiser-franz-joseph-i,SMS Kaiser Franz Joseph I,Built,,1888-01-03,1889-05-18,1890-07-02,1917-01-01
 pc-kaiser-franz-joseph-i,SMS Kaiserin Elisabeth,Built,,1888-07-01,1890-09-25,1892-01-24,1914-11-02
 ac-kaiserin-und-konigin-maria-theresia,SMS Kaiserin und Konigin Maria Theresia,Built,,1891-10-06,1893-04-29,1894-11-01,1917-02-01
-ac-kaiser-karl-iv,SMS Kaiser Karl VI,Built,,1896-06-01,1898-10-04,1900-05-23,1920-01-01
+ac-kaiser-karl-vi,SMS Kaiser Karl VI,Built,,1896-06-01,1898-10-04,1900-05-23,1920-01-01
 pc-zenta,SMS Zenta,Built,,1896-08-08,1897-08-18,1899-05-28,1914-08-16
 pc-zenta,SMS Aspern,Built,,1897-10-04,1899-05-03,1900-05-29,1918-01-01
 pc-zenta,SMS Szigetvar,Built,,1899-05-25,1900-10-29,1901-09-30,1918-01-01
 ac-sankt-georg,SMS Sankt Georg,Built,,1901-03-11,1903-12-08,1905-07-21,1920-01-01
-cs-admiral-spaun,SMS Admiral Spaun,Built,,1908-05-30,1909-10-30,1910-11-15,1920-01-01
-cs-novara,SMS Saida,Built,,1911-09-09,1912-10-26,1914-08-01,1920-01-01
-cs-novara,SMS Helgoland,Built,,1911-10-28,1912-11-23,1914-08-29,1920-01-01
-cs-novara,SMS Novara,Built,,1912-12-09,1913-02-15,1915-01-10,1920-01-01
+cs-admiral-spaun,SMS Admiral Spaun,Built,Captured,1908-05-30,1909-10-30,1910-11-15,1920-01-01
+cs-novara,SMS Saida,Built,Captured,1911-09-09,1912-10-26,1914-08-01,1920-01-01
+cs-novara,SMS Helgoland,Built,Captured,1911-10-28,1912-11-23,1914-08-29,1920-01-01
+cs-novara,SMS Novara,Built,Captured,1912-12-09,1913-02-15,1915-01-10,1920-01-01
 pc-patagonia,ARA Patagonia,Built,,1885-01-01,1886-01-01,1887-02-01,1909-01-01
 pc-nueve-de-julio,ARA Nueve de Julio,Built,,1891-02-01,1892-07-26,1893-01-27,1930-10-01
 pc-veinticinco-de-mayo,ARA Veinticinco de Mayo,Built,,1885-06-18,1890-05-05,1891-02-01,1921-01-01
@@ -1312,12 +1312,16 @@ ca-takao,Takao,Built,Surrendered,1927-04-28,1930-05-12,1932-05-31,1945-08-01
 ca-takao,Atago,Built,Sunk,1927-04-28,1930-06-16,1932-03-30,1944-10-23
 ca-takao,Maya,Built,Sunk,1928-12-04,1930-11-08,1932-06-30,1944-10-23
 ca-takao,Chokai,Built,Sunk,1928-03-26,1931-04-05,1932-06-30,1944-10-25
-cl-mogami,Mogami,Built,Sunk,1931-10-27,1934-03-14,1935-07-28,1944-10-25
-cl-mogami,Mikuma,Built,Sunk,1931-12-24,1934-05-31,1935-08-29,1942-06-06
-cl-mogami,Suzuya,Built,Sunk,1933-12-11,1934-11-20,1937-10-31,1944-10-25
-cl-mogami,Kumano,Built,Sunk,1934-04-05,1936-10-15,1937-10-31,1944-11-25
-cl-mogami,Ibuki,Cancelled,Scrapped,1942-04-24,1943-05-21,,1943-12-01
-cl-mogami,301-go,Cancelled,Scrapped,1942-01-01,,,1943-12-01
+cl-mogami,Mogami,Built,Converted,1931-10-27,1934-03-14,1935-07-28,1939-01-01
+cl-mogami,Mikuma,Built,Converted,1931-12-24,1934-05-31,1935-08-29,1939-01-01
+cl-suzuya,Suzuya,Built,Converted,1933-12-11,1934-11-20,1937-10-31,1939-01-01
+cl-suzuya,Kumano,Built,Converted,1934-04-05,1936-10-15,1937-10-31,1939-01-01
+ca-mogami,Mogami,Converted,Sunk,1939-01-01,,1940-04-01,1944-10-25
+ca-mogami,Mikuma,Converted,Sunk,1939-01-01,,1940-04-01,1942-06-06
+ca-mogami,Suzuya,Converted,Sunk,1939-01-01,,1940-04-01,1944-10-25
+ca-mogami,Kumano,Converted,Sunk,1939-01-01,,1940-04-01,1944-11-25
+ca-mogami,Ibuki,Cancelled,Scrapped,1942-04-24,1943-05-21,,1943-12-01
+ca-mogami,301-go,Cancelled,Scrapped,1942-01-01,,,1943-12-01
 ca-tone,Tone,Built,Sunk,1934-12-01,1937-11-21,1938-11-20,1945-07-24
 ca-tone,Chikuma,Built,Sunk,1935-10-01,1938-03-19,1939-05-20,1944-10-25
 cl-agano,Agano,Built,Sunk,1940-06-18,1941-10-22,1942-10-31,1944-02-17
@@ -1486,10 +1490,10 @@ ac-bayan,Bayan,Built,Sold,1905-08-15,1907-08-15,1911-12-13,1922-07-01
 pc-variag,Variag,Built,,1899-05-22,1899-10-31,1901-01-15,1917-12-21
 pc-askold,Askold,Built,,1899-07-20,1900-03-15,1901-09-21,1918-07-12
 pc-bogatyr,Bogatyr,Built,Sold,1899-12-21,1901-01-30,1902-08-20,1922-07-01
-pc-bogatyr,Vityaz,Cancelled,Scrapped,1900-11-03,,,1901-06-13
-pc-bogatyr,Oleg,Built,Sunk,1902-07-20,1903-08-27,1904-10-25,1919-06-18
-pc-bogatyr,Kagul,Built,Sunk,1901-09-05,1902-06-02,1905-01-01,1941-06-01
-pc-bogatyr,Pamiat Merkuriya,Built,Captured,1901-03-12,1902-10-04,1909-06-23,1918-05-01
+pc-oleg,Vityaz,Cancelled,Scrapped,1900-11-03,,,1901-06-13
+pc-oleg,Oleg,Built,Sunk,1902-07-20,1903-08-27,1904-10-25,1919-06-18
+pc-kagul,Kagul,Built,Sunk,1901-09-05,1902-06-02,1905-01-01,1941-06-01
+pc-kagul,Pamiat Merkuriya,Built,Captured,1901-03-12,1902-10-04,1909-06-23,1918-05-01
 ac-admiral-makarov,Bayan,Built,,1898-12-01,1900-06-12,1902-10-01,1904-12-08
 ac-admiral-makarov,Admiral Makarov,Built,Sold,1905-04-04,1906-05-09,1908-05-29,1922-08-01
 ac-admiral-makarov,Pallada,Built,Sunk,1905-05-17,1905-11-10,1911-02-21,1914-10-11
@@ -1589,12 +1593,12 @@ dd-monaghan,USS Jouett,Built,Scrapped,1911-03-01,1912-04-15,1912-05-01,1934-07-0
 dd-monaghan,USS Jenkins,Built,Scrapped,1911-03-01,1912-04-29,1912-06-01,1935-03-01
 dd-cassin,USS Cassin,Built,Scrapped,1912-05-01,1913-05-20,1913-07-01,1934-07-01
 dd-cassin,USS Cummings,Built,Scrapped,1912-05-01,1913-08-06,1913-09-01,1934-07-01
-dd-cassin,USS Downes,Built,Scrapped,1912-06-01,1913-11-08,1915-02-01,1934-07-01
-dd-cassin,USS Duncan,Built,Scrapped,1912-06-01,1913-04-05,1913-08-01,1935-03-01
-dd-cassin,USS Aylwin,Built,Scrapped,1912-03-01,1912-11-23,1914-01-01,1935-03-01
-dd-cassin,USS Parker,Built,Scrapped,1912-03-01,1913-02-08,1913-12-01,1935-03-01
-dd-cassin,USS Benham,Built,Scrapped,1912-03-01,1913-03-22,1914-01-01,1935-03-01
-dd-cassin,USS Balch,Built,Scrapped,1912-05-01,1912-12-21,1914-03-01,1935-03-01
+dd-downes,USS Downes,Built,Scrapped,1912-06-01,1913-11-08,1915-02-01,1934-07-01
+dd-downes,USS Duncan,Built,Scrapped,1912-06-01,1913-04-05,1913-08-01,1935-03-01
+dd-downes,USS Aylwin,Built,Scrapped,1912-03-01,1912-11-23,1914-01-01,1935-03-01
+dd-downes,USS Parker,Built,Scrapped,1912-03-01,1913-02-08,1913-12-01,1935-03-01
+dd-downes,USS Benham,Built,Scrapped,1912-03-01,1913-03-22,1914-01-01,1935-03-01
+dd-downes,USS Balch,Built,Scrapped,1912-05-01,1912-12-21,1914-03-01,1935-03-01
 dd-o-brien,USS O'Brien,Built,Scrapped,1913-09-01,1914-07-20,1915-05-01,1935-03-01
 dd-o-brien,USS Nicholson,Built,Scrapped,1913-09-01,1914-08-19,1915-04-01,1936-01-01
 dd-o-brien,USS Winslow,Built,Scrapped,1913-10-01,1915-02-11,1915-08-01,1936-01-01
@@ -1952,13 +1956,13 @@ dd-sims,USS Hughes,Built,Target,1937-09-01,1939-06-17,1939-09-01,1948-10-16
 dd-sims,USS Anderson,Built,Target,1937-11-01,1939-02-04,1939-05-01,1946-07-01
 dd-sims,USS Hammann,Built,Sunk,1938-01-01,1939-02-04,1939-08-01,1942-06-06
 dd-sims,USS Mustin,Built,Target,1937-12-01,1938-12-08,1939-09-01,1948-04-18
-dd-sims,USS Russell,Built,Scrapped,1937-12-01,1938-12-08,1939-11-01,1945-11-01
-dd-sims,USS O`Brien,Built,Sunk,1938-05-01,1939-10-20,1940-03-01,1942-10-19
-dd-sims,USS Walke,Built,Sunk,1938-05-01,1939-10-20,1940-04-01,1942-11-14
-dd-sims,USS Morris,Built,Scrapped,1938-06-01,1939-06-01,1940-03-01,1945-04-06
-dd-sims,USS Roe,Built,Scrapped,1938-04-01,1939-06-21,1940-01-01,1945-11-01
-dd-sims,USS Wainwright,Built,Target,1938-06-01,1939-06-01,1940-04-01,1948-07-02
-dd-sims,USS Buck,Built,Sunk,1938-04-01,1939-05-22,1940-05-01,1943-10-09
+dd-russell,USS Russell,Built,Scrapped,1937-12-01,1938-12-08,1939-11-01,1945-11-01
+dd-russell,USS O`Brien,Built,Sunk,1938-05-01,1939-10-20,1940-03-01,1942-10-19
+dd-russell,USS Walke,Built,Sunk,1938-05-01,1939-10-20,1940-04-01,1942-11-14
+dd-russell,USS Morris,Built,Scrapped,1938-06-01,1939-06-01,1940-03-01,1945-04-06
+dd-russell,USS Roe,Built,Scrapped,1938-04-01,1939-06-21,1940-01-01,1945-11-01
+dd-russell,USS Wainwright,Built,Target,1938-06-01,1939-06-01,1940-04-01,1948-07-02
+dd-russell,USS Buck,Built,Sunk,1938-04-01,1939-05-22,1940-05-01,1943-10-09
 dd-benson,USS Benson,Built,Sold,1938-05-01,1939-11-15,1940-07-01,1954-02-01
 dd-benson,USS Mayo,Built,Scrapped,1938-05-01,1940-03-26,1940-09-01,1970-12-01
 dd-benson,USS Madison,Built,Scrapped,1938-09-01,1939-10-20,1940-08-01,1968-06-01
@@ -2960,8 +2964,8 @@ dd-gearing,USS Theodore E. Chandler,Built,Modernized,1945-04-01,1945-10-20,1946-
 dd-gearing,USS Hamner,Built,Modernized,1945-04-01,1945-11-24,1946-07-01,1962-11-01
 dd-gearing,USS Castle,Cancelled,Scrapped,1945-07-01,,,1946-02-11
 dd-gearing,USS Woodrow R. Thompson,Cancelled,Scrapped,1945-08-01,,,1946-02-11
-dd-gearing,USS Frank Knox,Built,Modernized,1944-05-01,1944-09-17,1944-12-01,1961-05-01
-dd-gearing,USS Southerland,Built,Modernized,1945-05-01,1944-10-05,1944-12-01,1964-10-01
+dd-frank-knox,USS Frank Knox,Built,Modernized,1944-05-01,1944-09-17,1944-12-01,1961-05-01
+dd-frank-knox,USS Southerland,Built,Modernized,1945-05-01,1944-10-05,1944-12-01,1964-10-01
 dd-gearing,USS William C. Lawe,Built,Modernized,1944-03-01,1945-05-21,1946-12-01,1961-11-01
 dd-gearing,USS Lloyd Thomas,Built,Modernized,1944-03-01,1945-10-05,1947-03-01,1961-11-01
 dd-gearing,USS Keppler,Built,Modernized,1944-04-01,1946-06-24,1947-05-01,1961-09-01
@@ -2969,7 +2973,7 @@ dd-gearing,USS Lansdale,Cancelled,Scrapped,1944-04-01,1946-12-20,,1947-03-01
 dd-gearing,USS Seymour D. Owens,Cancelled,Scrapped,1944-04-01,1947-02-24,,1947-03-01
 dd-gearing,USS Hoel,Cancelled,Scrapped,1944-04-01,,,1946-09-13
 dd-gearing,USS Abner Read,Cancelled,Scrapped,1944-05-01,,,1946-09-13
-dd-gearing,USS Rowan,Built,Modernized,1944-03-01,1944-12-29,1945-03-01,1964-05-01
+dd-frank-knox,USS Rowan,Built,Modernized,1944-03-01,1944-12-29,1945-03-01,1964-05-01
 dd-gearing,USS Gurke,Built,Modernized,1944-07-01,1945-02-15,1945-05-01,1964-05-01
 dd-gearing,USS McKean,Built,Modernized,1944-09-01,1945-03-31,1945-06-01,1964-11-01
 dd-gearing,USS Henderson,Built,Modernized,1944-10-01,1945-05-28,1945-08-01,1962-04-01
@@ -2982,7 +2986,7 @@ dd-gearing,USS Seaman,Cancelled,Scrapped,1945-07-01,1946-05-20,,1946-06-01
 dd-gearing,USS Chevalier,Built,Modernized,1944-06-01,1944-10-29,1945-01-01,1962-08-01
 dd-gearing,USS Higbee,Built,Modernized,1944-06-01,1944-11-12,1945-01-01,1964-02-01
 dd-gearing,USS Benner,Built,Modernized,1944-07-01,1944-11-30,1945-02-01,1963-02-01
-dd-gearing,USS Dennis J. Buckley,Built,Modernized,1944-07-01,1944-12-20,1945-03-01,1964-10-01
+dd-frank-knox,USS Dennis J. Buckley,Built,Modernized,1944-07-01,1944-12-20,1945-03-01,1964-10-01
 dd-gearing,USS Corry,Built,Modernized,1945-04-01,1945-07-28,1946-02-01,1964-09-01
 dd-gearing,USS New,Built,Modernized,1945-04-01,1945-08-18,1946-04-01,1963-12-01
 dd-gearing,USS Holder,Built,Modernized,1945-04-01,1945-08-25,1946-05-01,1963-10-01
@@ -3022,7 +3026,7 @@ dd-gearing,USS Fred T. Berry,Built,Modernized,1944-07-01,1945-01-28,1945-05-01,1
 dd-gearing,USS Norris,Built,Modernized,1944-08-01,1945-02-25,1945-06-01,1961-10-01
 dd-gearing,USS McCaffery,Built,Modernized,1944-10-01,1945-04-12,1945-07-01,1961-11-01
 dd-gearing,USS Harwood,Built,Modernized,1944-10-01,1945-05-22,1945-09-01,1961-12-01
-dd-gearing,USS Vogelgesang,Built,Modernized,1944-08-01,1945-01-15,1945-04-01,1963-01-01
+dd-frank-knox,USS Vogelgesang,Built,Modernized,1944-08-01,1945-01-15,1945-04-01,1963-01-01
 dd-gearing,USS Steinaker,Built,Modernized,1944-09-01,1945-02-13,1945-05-01,1965-03-01
 dd-gearing,USS Harold J. Ellison,Built,Modernized,1944-10-01,1945-03-14,1945-06-01,1963-01-01
 dd-gearing,USS Charles R. Ware,Built,Modernized,1944-11-01,1945-04-12,1945-07-01,1962-01-01
@@ -3225,7 +3229,7 @@ ltb-s126,S131,Built,Scrapped,1904-07-01,1905-05-25,1905-10-01,1921-03-01
 ltb-g132,G132,Built,Scrapped,1905-09-01,1906-05-12,1906-08-01,1921-03-01
 ltb-g132,G133,Built,Scrapped,1905-09-01,1906-06-30,1906-12-01,1921-03-01
 ltb-g132,G134,Built,Scrapped,1905-09-01,1906-07-23,1907-03-01,1920-11-01
-ltb-g132,G135,Built,Scrapped,1905-12-01,1906-09-07,1907-01-01,1921-05-01
+ltb-g135,G135,Built,Scrapped,1905-12-01,1906-09-07,1907-01-01,1921-05-01
 ltb-g132,G136,Built,Scrapped,1905-12-01,1906-08-25,1907-03-01,1921-07-01
 ltb-g137,G137,Built,Scrapped,1905-12-01,1907-01-24,1907-07-01,1921-03-01
 ltb-s138,S138,Built,Sunk,1906-01-01,1906-09-22,1907-05-01,1918-07-07
@@ -3256,8 +3260,8 @@ ltb-g169,G170,Built,Scrapped,1908-06-01,1909-03-03,1909-07-01,1921-03-01
 ltb-g169,G171,Built,Sunk,1908-09-01,1909-05-28,1910-01-01,1912-09-14
 ltb-g169,G172,Built,Sunk,1908-09-01,1909-07-10,1910-01-01,1918-07-07
 ltb-g169,G173,Built,Surrendered,1908-09-01,1909-07-28,1910-01-01,1920-09-01
-ltb-g169,G174,Built,Surrendered,1909-04-01,1910-01-08,1910-07-01,1920-08-01
-ltb-g169,G175,Built,Scrapped,1909-04-01,1910-02-24,1910-12-01,1926-09-01
+ltb-g174,G174,Built,Surrendered,1909-04-01,1910-01-08,1910-07-01,1920-08-01
+ltb-g174,G175,Built,Scrapped,1909-04-01,1910-02-24,1910-12-01,1926-09-01
 ltb-s165a,S165,Built,Sold,1908-07-01,1909-03-20,,1910-03-01
 ltb-s165a,S166,Built,Sold,1908-07-01,1909-04-24,,1910-03-01
 ltb-s165a,S167,Built,Sold,1908-11-01,1909-07-03,,1910-03-01
@@ -3701,8 +3705,8 @@ dd-aigle,Aigle,Built,Sunk,1928-10-01,1931-02-19,1932-11-01,1942-11-27
 dd-aigle,Gerfaut,Built,Sunk,1929-05-01,1930-06-14,1932-03-01,1942-11-27
 dd-aigle,Albatros,Built,Scrapped,1929-01-01,1930-06-27,1932-01-01,1959-09-01
 dd-aigle,Vautour,Built,Sunk,1929-02-01,1930-08-28,1932-06-01,1942-11-27
-dd-aigle,Epervier,Built,Sunk,1930-08-01,1931-08-14,1934-05-01,1942-11-09
-dd-aigle,Milan,Built,Sunk,1930-12-01,1931-10-13,1934-05-01,1942-11-08
+dd-epervier,Epervier,Built,Sunk,1930-08-01,1931-08-14,1934-05-01,1942-11-09
+dd-epervier,Milan,Built,Sunk,1930-12-01,1931-10-13,1934-05-01,1942-11-08
 dd-vauguelin,Vauquelin,Built,Sunk,1930-03-01,1931-03-29,1934-03-01,1942-11-27
 dd-vauguelin,Cassard,Built,Sunk,1930-04-01,1931-11-08,1933-10-01,1942-11-27
 dd-vauguelin,Maille Breze,Built,Sunk,1930-10-01,1931-11-09,1934-04-01,1940-04-30
@@ -4053,11 +4057,11 @@ dd-boykiy,Gromyashchiy,Built,Scrapped,1903-09-01,1904-07-01,1905-01-01,1924-01-0
 dd-ukrayna,Ukrayna,Built,Target,1904-01-01,1904-10-04,1905-04-01,1961-07-01
 dd-ukrayna,Voyskovoy,Built,Scrapped,1904-01-01,1904-11-26,1905-06-01,1958-06-01
 dd-ukrayna,Trukhmenets,Built,Scrapped,1904-09-01,1905-02-18,1905-06-01,1962-07-01
-dd-ukrayna,Kazanets,Built,Sunk,1904-09-01,1905-05-11,1906-05-01,1916-10-28
-dd-ukrayna,Steregushchiy,Built,Scrapped,1904-08-01,1905-07-04,1906-06-01,1925-11-01
-dd-ukrayna,Strashnyy,Built,Scrapped,1904-12-01,1906-01-05,1906-07-01,1925-11-01
-dd-ukrayna,Donskoy Kazak,Built,Scrapped,1905-01-01,1906-02-10,1906-08-01,1925-11-01
-dd-ukrayna,Zabaykalets,Built,Scrapped,1905-03-01,1906-04-27,1907-05-01,1925-11-01
+dd-kazanets,Kazanets,Built,Sunk,1904-09-01,1905-05-11,1906-05-01,1916-10-28
+dd-kazanets,Steregushchiy,Built,Scrapped,1904-08-01,1905-07-04,1906-06-01,1925-11-01
+dd-kazanets,Strashnyy,Built,Scrapped,1904-12-01,1906-01-05,1906-07-01,1925-11-01
+dd-kazanets,Donskoy Kazak,Built,Scrapped,1905-01-01,1906-02-10,1906-08-01,1925-11-01
+dd-kazanets,Zabaykalets,Built,Scrapped,1905-03-01,1906-04-27,1907-05-01,1925-11-01
 dd-emir-mukharskiy,Emir Bukharskiy,Built,Scrapped,1904-03-01,1905-01-12,1905-05-01,1925-12-01
 dd-emir-mukharskiy,Finn,Built,Scrapped,1904-06-01,1905-04-04,1906-01-01,1925-12-01
 dd-emir-mukharskiy,Moskvityanin,Built,Sunk,1904-08-01,1905-05-20,1906-06-01,1919-05-21
@@ -4565,7 +4569,7 @@ dd-ness,HMS Ness,Built,Scrapped,1904-05-05,1905-01-05,1905-08-01,1919-05-01
 dd-ness,HMS Nith,Built,Scrapped,1904-05-05,1905-03-07,1905-10-01,1919-06-01
 dd-welland,HMS Welland,Built,Scrapped,1902-10-01,1904-04-14,1904-07-01,1920-06-01
 dd-stour,HMS Stour,Built,Scrapped,1904-12-01,1905-06-03,1909-12-01,1919-08-01
-dd-test,HMS Test,Built,Scrapped,1905-09-01,1907-01-14,1909-12-01,1919-08-01
+dd-stour,HMS Test,Built,Scrapped,1905-09-01,1907-01-14,1909-12-01,1919-08-01
 dd-cossack,HMS Cossack,Built,Scrapped,1905-11-01,1907-02-16,1908-03-01,1919-12-01
 dd-cossack,HMS Mohawk,Built,Scrapped,1906-05-01,1907-03-15,1908-06-01,1919-05-01
 dd-cossack,HMS Ghurka,Built,Sunk,1906-02-01,1907-04-29,1908-12-01,1917-02-08
@@ -6995,10 +6999,10 @@ ffg-carlo-bergamini,Federico Martinengo,Built,,2014-06-05,2017-03-04,2018-04-24,
 ffg-carlo-bergamini,Antonio Marceglia,Built,,2015-07-12,2018-02-03,2019-04-16,
 ffg-carlo-bergamini,Spartaco Schergat,Planned,,2017-02-01,2019-02-26,,
 ffg-carlo-bergamini,Emilio Bianchi,Planned,,2018-01-01,,,
-ffg-paolo-thaon-di-revel,Paolo Thaon di Revel,Planned,,2017-05-09,2019-06-15,,
-ffg-paolo-thaon-di-revel,Francesco Morosini,Planned,,2017-10-03,,,
-ffg-paolo-thaon-di-revel,PPA3,Planned,,2018-11-08,,,
-ffg-paolo-thaon-di-revel,PPA4,Planned,,2019-03-22,,,
+ffg-ppa-light,Paolo Thaon di Revel,Planned,,2017-05-09,2019-06-15,,
+ffg-ppa-light,Francesco Morosini,Planned,,2017-10-03,,,
+ffg-ppa-lightplus,PPA3,Planned,,2018-11-08,,,
+ffg-ppa-full,PPA4,Planned,,2019-03-22,,,
 fs-albatros,Albatros,Built,Auxiliary,1953-01-01,1954-07-18,1955-06-01,1986-04-01
 fs-albatros,Alcione,Built,Scrapped,1953-01-01,1954-09-19,1955-10-23,1991-01-01
 fs-albatros,Airone,Built,Scrapped,1953-01-01,1954-11-21,1955-12-29,1991-01-01
@@ -7022,7 +7026,7 @@ ddk-ayanami,JDS Uranami,Built,Auxiliary,1957-02-01,1957-08-29,1958-02-27,1983-03
 ddk-ayanami,JDS Shikinami,Built,Auxiliary,1956-12-14,1957-09-25,1958-03-15,1983-03-01
 ddk-ayanami,JDS Takanami,Built,Auxiliary,1958-11-08,1959-08-08,1960-01-30,1985-03-01
 ddk-ayanami,JDS Oonami,Built,Auxiliary,1959-03-20,1960-02-13,1960-08-29,1987-02-01
-ddk-ayanami,JDS Makinami,Built,Auxiliary,1959-03-20,1960-04-25,1960-10-28,1987-02-01
+ddk-makinami,JDS Makinami,Built,Auxiliary,1959-03-20,1960-04-25,1960-10-28,1987-02-01
 dd-murasame,JDS Murasame,Built,Auxiliary,1957-12-16,1958-07-31,1959-03-31,1984-03-01
 dd-murasame,JDS Yudachi,Built,Auxiliary,1957-12-16,1958-07-29,1959-03-25,1984-03-01
 dd-murasame,JDS Harusame,Built,Auxiliary,1958-06-17,1959-06-18,1959-12-15,1985-03-01
@@ -7102,9 +7106,8 @@ ff-ikazuchi,JDS Ikazuchi,Built,Auxiliary,1954-12-18,1955-09-06,1956-05-29,1976-0
 ff-ikazuchi,JDS Inazuma,Built,Auxiliary,1954-12-25,1955-08-04,1956-03-05,1977-03-01
 ff-isuzu,JDS Isuzu,Built,Auxiliary,1960-04-16,1961-01-17,1961-07-29,1988-04-01
 ff-isuzu,JDS Mogami,Built,Auxiliary,1960-08-04,1961-03-07,1961-09-28,1987-07-01
-ff-isuzu,JDS Kitakami,Built,Auxiliary,1962-06-07,1963-06-21,1964-02-01,1990-03-01
-ff-isuzu,JDS Ooi,Built,Auxiliary,1962-06-10,1963-06-15,1964-02-01,1990-01-01
-ff-katori,JDS Katori,Built,Scrapped,1967-12-08,1968-11-19,1969-09-10,1998-03-01
+ff-kitakami,JDS Kitakami,Built,Auxiliary,1962-06-07,1963-06-21,1964-02-01,1990-03-01
+ff-kitakami,JDS Ooi,Built,Auxiliary,1962-06-10,1963-06-15,1964-02-01,1990-01-01
 ff-chikugo,JDS Chikugo,Built,Scrapped,1968-12-09,1970-01-13,1971-07-31,1996-04-01
 ff-chikugo,JDS Ayase,Built,Scrapped,1969-12-05,1970-09-16,1971-05-20,1996-08-01
 ff-chikugo,JDS Mikumo,Built,Scrapped,1970-03-17,1971-02-16,1971-08-26,1997-07-01
@@ -7216,8 +7219,8 @@ fsg-slazak,Slazak,Built,,2001-11-21,2015-07-02,2019-11-01,
 fsg-kaszub,Kaszub,Built,,1985-05-11,1986-10-04,1987-03-03,
 ffg-niteroi,Niteroi,Built,,1972-06-08,1974-02-08,1976-11-20,
 ffg-niteroi,Defensora,Built,,1972-12-14,1975-03-27,1977-03-05,
-ffg-niteroi,Constituicao,Built,,1974-03-13,1976-04-15,1978-03-31,
-ffg-niteroi,Liberal,Built,,1975-05-02,1977-02-07,1978-11-18,
+ffg-constituicao,Constituicao,Built,,1974-03-13,1976-04-15,1978-03-31,
+ffg-constituicao,Liberal,Built,,1975-05-02,1977-02-07,1978-11-18,
 ffg-niteroi,Independencia,Built,,1972-06-11,1974-09-02,1979-09-03,
 ffg-niteroi,Uniao,Built,,1972-06-11,1975-03-14,1980-09-12,
 fsg-inhauma,Inhauma,Built,Scrapped,1983-09-23,1986-12-13,1989-12-12,2016-11-01
@@ -8181,15 +8184,15 @@ fs-project-35,PLK-49,Built,Scrapped,1961-10-17,1962-06-15,1965-06-25,1990-04-01
 fs-project-35,PLK-53,Built,Scrapped,1961-11-30,1962-12-10,1965-08-31,1990-04-01
 fs-project-35,PLK-24,Built,Scrapped,1962-03-14,1963-02-10,1965-09-30,1990-04-01
 fs-project-35,PLK-84,Built,Scrapped,1962-05-17,1963-04-10,1965-12-29,1992-07-01
-fs-project-35,PLK-48,Built,Scrapped,1962-06-28,1963-06-21,1965-12-31,1990-04-01
-fs-project-35,SKR-12,Built,Scrapped,1962-09-12,1963-05-18,1966-05-30,1992-10-01
-fs-project-35,SKR-19,Built,Scrapped,1963-02-25,1964-07-27,1966-06-30,1992-10-01
-fs-project-35,SKR-35,Built,Scrapped,1962-12-19,1963-09-27,1966-08-30,1990-04-01
-fs-project-35,SKR-83,Built,Scrapped,1962-07-20,1963-12-10,1966-09-03,1991-06-01
-fs-project-35,SKR-6,Built,Scrapped,1963-04-10,1964-02-06,1966-11-30,1990-04-01
-fs-project-35,SKR-13,Built,Scrapped,1963-05-31,1964-10-13,1966-12-28,1991-06-01
-fs-project-35,SKR-90,Built,Scrapped,1964-02-10,1964-11-30,1967-05-30,1990-04-01
-fs-project-35,SKR-117,Built,Scrapped,1963-10-15,1965-02-25,1967-06-29,1990-04-01
+fs-project-35-b,PLK-48,Built,Scrapped,1962-06-28,1963-06-21,1965-12-31,1990-04-01
+fs-project-35-b,SKR-12,Built,Scrapped,1962-09-12,1963-05-18,1966-05-30,1992-10-01
+fs-project-35-b,SKR-19,Built,Scrapped,1963-02-25,1964-07-27,1966-06-30,1992-10-01
+fs-project-35-b,SKR-35,Built,Scrapped,1962-12-19,1963-09-27,1966-08-30,1990-04-01
+fs-project-35-b,SKR-83,Built,Scrapped,1962-07-20,1963-12-10,1966-09-03,1991-06-01
+fs-project-35-b,SKR-6,Built,Scrapped,1963-04-10,1964-02-06,1966-11-30,1990-04-01
+fs-project-35-b,SKR-13,Built,Scrapped,1963-05-31,1964-10-13,1966-12-28,1991-06-01
+fs-project-35-b,SKR-90,Built,Scrapped,1964-02-10,1964-11-30,1967-05-30,1990-04-01
+fs-project-35-b,SKR-117,Built,Scrapped,1963-10-15,1965-02-25,1967-06-29,1990-04-01
 ffg-project-1135,Bditelnyy,Built,Scrapped,1968-07-21,1970-03-28,1970-12-31,1996-07-01
 ffg-project-1135,Bodryy,Built,Scrapped,1969-01-15,1971-04-28,1971-12-31,1997-07-01
 ffg-project-1135,Svirepyy,Built,Scrapped,1970-06-15,1971-01-27,1972-12-29,1993-06-01
@@ -8336,16 +8339,15 @@ de-belmont,HMCS St. Croix,Bought,Sunk,1940-09-01,,1940-09-01,1943-09-20
 de-belmont,HMCS St. Francis,Bought,Sunk,1940-09-01,,1940-09-01,1945-07-14
 de-belmont,HMS Sherwood,Bought,Target,1940-10-01,,1940-10-01,1943-09-20
 de-belmont,HMS Stanley,Bought,Sunk,1940-10-01,,1940-10-01,1941-12-19
-dd-mistral,Mistral,Captured,Sold,1940-07-03,,1940-07-03,1945-05-01
-ff-van-kinsbergen,Van Kinsbergen,Built,Auxiliary,1936-12-01,1937-09-11,1939-08-01,1955-05-01
-pf-johan-maurits-van-nassau,Johan Maurits van Nassau,Built,Training,1942-12-01,1943-04-23,1943-06-01,1953-01-01
-ff-van-amstel,Van Amstel,Bought,Sold,1950-06-01,,1950-06-01,1967-12-01
-ff-van-amstel,De Bitter,Bought,Sold,1950-06-01,,1950-06-01,1967-12-01
-ff-van-amstel,Van Ewijck,Bought,Sold,1950-10-01,,1950-10-01,1967-12-01
-ff-van-amstel,Dubois,Bought,Sold,1950-10-01,,1950-10-01,1967-12-01
-ff-van-amstel,De Zeeuw,Bought,Sold,1951-03-01,,1951-03-01,1967-12-01
-ff-van-amstel,Van Zijll,Bought,Sold,1951-03-01,,1951-03-01,1967-12-01
-dd-leytenant-burakov,Leytenant Burakov,Captured,Sunk,1900-06-17,,1900-06-17,1904-07-30
+dd-mistral,HMS Mistral,Captured,Sold,1940-07-03,,1940-07-03,1945-05-01
+pf-johan-maurits-van-nassau,HNLMS Johan Maurits van Nassau,Built,Training,1942-12-01,1943-04-23,1943-06-01,1953-01-01
+ff-van-amstel,HNLMS Van Amstel,Bought,Sold,1950-06-01,,1950-06-01,1967-12-01
+ff-van-amstel,HNLMS De Bitter,Bought,Sold,1950-06-01,,1950-06-01,1967-12-01
+ff-van-ewijck,HNLMS Van Ewijck,Bought,Sold,1950-10-01,,1950-10-01,1967-12-01
+ff-van-ewijck,HNLMS Dubois,Bought,Sold,1950-10-01,,1950-10-01,1967-12-01
+ff-van-ewijck,HNLMS De Zeeuw,Bought,Sold,1951-03-01,,1951-03-01,1967-12-01
+ff-van-ewijck,HNLMS Van Zijll,Bought,Sold,1951-03-01,,1951-03-01,1967-12-01
+dd-leytenant-burakov-1900,Leytenant Burakov,Captured,Sunk,1900-06-17,,1900-06-17,1904-07-30
 dd-taku-rn,HMS Taku,Captured,Scrapped,1900-06-17,,1900-06-17,1916-10-01
 dd-taku-km,Taku,Captured,Scrapped,1900-06-17,,1900-06-17,1914-06-01
 dd-zh1,ZH1,Captured,Sunk,1940-07-17,,1942-10-01,1944-06-09
@@ -8508,7 +8510,7 @@ dd-audaz-1897,Pluton,Built,Sunk,1897-02-01,1897-05-01,1897-11-01,1898-07-03
 dd-audaz-1897,Proserpina,Built,Scrapped,1897-02-01,1897-10-25,1898-04-01,1931-01-01
 dd-bustamante,Bustamante,Built,Scrapped,1911-08-01,1913-01-03,1914-03-01,1930-10-01
 dd-bustamante,Villaamil,Built,Scrapped,1912-11-01,1913-12-10,1916-08-01,1931-01-01
-dd-bustamante,Cadarso,Built,Scrapped,1913-09-01,1914-12-18,1917-08-01,1930-01-01
+dd-cadarso,Cadarso,Built,Scrapped,1913-09-01,1914-12-18,1917-08-01,1930-01-01
 dd-alsedo,Alsedo,Built,Scrapped,1920-05-01,1922-10-21,1924-08-01,1957-05-01
 dd-alsedo,Velasco,Built,Scrapped,1920-07-01,1923-06-06,1924-12-01,1957-04-01
 dd-alsedo,Lazaga,Built,Scrapped,1920-10-01,1924-03-06,1925-08-01,1961-02-01
@@ -8537,12 +8539,12 @@ dd-alava,Liniers,Built,Scrapped,1944-12-30,1946-05-01,1951-01-27,1982-12-01
 dd-audaz,Audaz,Built,Scrapped,1945-09-26,1951-01-24,1953-06-30,1974-09-01
 dd-audaz,Osado,Built,Scrapped,1945-08-03,1951-09-04,1955-01-26,1972-07-01
 dd-audaz,Meteoro,Built,Scrapped,1945-08-03,1951-09-04,1955-11-30,1974-09-01
-dd-audaz,Furor,Built,Scrapped,1945-08-03,1955-02-24,1960-09-09,1974-08-01
-dd-audaz,Rayo,Built,Scrapped,1945-08-03,1951-09-04,1956-01-26,1974-08-01
-dd-audaz,Ariete,Built,Sunk,1945-08-03,1955-02-24,1961-02-07,1966-02-25
-dd-audaz,Temerario,Built,Scrapped,1945-07-14,1960-03-29,1964-03-16,1975-12-01
-dd-audaz,Intrepido,Built,Scrapped,1945-07-14,1961-02-15,1965-03-25,1982-03-01
-dd-audaz,Relampago,Built,Scrapped,1945-07-14,1961-09-26,1965-07-07,1975-12-01
+dd-furor-1950,Furor,Built,Scrapped,1945-08-03,1955-02-24,1960-09-09,1974-08-01
+dd-furor-1950,Rayo,Built,Scrapped,1945-08-03,1951-09-04,1956-01-26,1974-08-01
+dd-furor-1950,Ariete,Built,Sunk,1945-08-03,1955-02-24,1961-02-07,1966-02-25
+dd-furor-1950,Temerario,Built,Scrapped,1945-07-14,1960-03-29,1964-03-16,1975-12-01
+dd-furor-1950,Intrepido,Built,Scrapped,1945-07-14,1961-02-15,1965-03-25,1982-03-01
+dd-furor-1950,Relampago,Built,Scrapped,1945-07-14,1961-09-26,1965-07-07,1975-12-01
 dd-lepanto,Lepanto,Bought,Scrapped,1957-05-15,,1957-05-15,1985-12-01
 dd-lepanto,Almirante Ferrandiz,Bought,Scrapped,1957-05-15,,1957-05-15,1987-11-01
 dd-almirante-valdez,Almirante Valdez,Bought,Scrapped,1959-07-01,,1959-07-01,1986-10-01
@@ -8588,7 +8590,8 @@ ffg-alvaro-de-bazan,Almirante Juan de Borbon,Built,,2000-10-27,2002-02-28,2003-1
 ffg-alvaro-de-bazan,Blas de Lezo,Built,,2002-02-28,2003-05-16,2004-12-16,
 ffg-alvaro-de-bazan,Mendez Nunez,Built,,2003-05-16,2004-11-12,2006-03-21,
 ffg-alvaro-de-bazan,Cristobal Colon,Built,,2009-02-20,2010-11-04,2012-10-23,
-dd-tan-yang,ROCS Tan Yang,Bought,Scrapped,1949-02-01,,1949-02-01,1966-11-01
+dd-tan-yang,Tan Yang,Captured,Captured,1947-07-03,,1947-07-03,1949-02-01
+dd-tan-yang,ROCS Tan Yang,Captured,Scrapped,1949-02-01,,1949-02-01,1966-11-01
 dd-lo-yang,ROCS Lo Yang,Bought,Scrapped,1954-02-26,,1954-02-26,1975-01-01
 dd-lo-yang,ROCS Han Yang,Bought,Scrapped,1954-02-26,,1954-02-26,1975-01-01
 dd-nan-yang,ROCS Nan Yang,Bought,Scrapped,1959-02-16,,1959-02-16,1975-01-01
@@ -8797,3 +8800,583 @@ pfg-yoon-youngha,ROKS Park Dongjin,Built,,2012-04-01,2013-04-24,2014-04-01,
 pfg-yoon-youngha,ROKS Kim Soohyun,Built,,2013-05-01,2014-04-30,2014-10-02,
 pfg-yoon-youngha,ROKS Jeon Byeongik,Built,,2015-06-01,2016-06-24,2018-01-11,
 pfg-yoon-youngha,ROKS Lee Byungchul,Built,,2013-05-01,2014-04-30,2014-12-03,
+cs-thionville,Thionville,Captured,Scrapped,1920-09-20,,1920-09-20,1932-01-01
+cs-brindisi,Brindisi,Captured,Auxiliary,1920-09-19,,1920-09-19,1929-11-01
+cs-brindisi,Venezia,Captured,Auxiliary,1920-09-19,,1920-09-19,1930-03-01
+cl-taranto,Taranto,Captured,Sunk,1920-07-20,,1920-07-20,1943-09-09
+cl-ancona,Ancona,Captured,Scrapped,1920-06-01,,1920-06-01,1937-03-01
+cl-bari,Bari,Captured,Scrapped,1920-07-20,,1920-07-20,1943-06-28
+cs-admiral-spaun-rn,HMS Admiral Spaun,Captured,Scrapped,1920-01-01,,1920-01-01,1920-02-01
+ac-sankt-georg-rn,HMS Sankt Georg,Captured,Scrapped,1920-01-01,,1920-01-01,1920-02-01
+ac-kaiser-karl-vi-rn,HMS Kaiser Karl VI,Captured,Scrapped,1920-01-01,,1920-01-01,1920-02-01
+mb-rais-hamidou,Rais Hamidou,Bought,,1980-07-04,,1980-07-04,
+mb-rais-hamidou,Salah Rais,Bought,,1981-02-09,,1981-02-09,
+mb-rais-hamidou,Rais Ali,Bought,,1982-05-08,,1982-05-08,
+gb-djebel-chenoua,Djebel Chenoua,Built,,1983-02-03,1985-02-03,1988-11-01,
+gb-djebel-chenoua,El Chihab,Built,,1988-02-01,1990-02-01,1995-06-01,
+mb-al-kirch,Al Kirch,Built,,1998-07-01,2000-07-01,2002-07-01,
+mb-rais-hassen-barbiar,Rais Hassen Barbiar,Built,,2009-01-01,2012-12-01,2017-08-09,
+cl-barroso,Barroso,Bought,Scrapped,1951-08-21,,1951-08-21,1973-05-01
+cl-barroso,Tamandare,Bought,Scrapped,1952-02-06,,1952-02-06,1980-01-01
+dd-para-1959,Para,Bought,Scrapped,1959-06-05,,1959-06-05,1978-01-01
+dd-para-1959,Paraiba,Bought,Scrapped,1959-12-15,,1959-12-15,1978-01-01
+dd-para-1959,Parana,Bought,Scrapped,1961-07-20,,1961-07-20,1982-01-01
+dd-pernambuco,Pernambuco,Bought,Scrapped,1961-07-20,,1961-07-20,1982-01-01
+dd-piaui,Piaui,Bought,Scrapped,1967-08-02,,1967-08-02,1989-01-01
+dd-santa-catharina,Santa Catharina,Bought,Scrapped,1968-05-10,,1968-05-10,1978-01-01
+dd-maranhao,Maranhao,Bought,Scrapped,1972-07-01,,1972-07-01,1990-01-01
+ddg-mato-grosso,Mato Grosso,Bought,Scrapped,1972-09-27,,1972-09-27,1990-07-01
+dd-sergipe,Sergipe,Bought,Scrapped,1973-07-16,,1973-07-16,1995-10-01
+dd-sergipe,Alagoas,Bought,Scrapped,1973-07-16,,1973-07-16,1995-06-01
+dd-sergipe,Rio Grande do Norte,Bought,Scrapped,1973-10-29,,1973-10-29,1996-02-01
+dd-sergipe,Espirito Santo,Bought,Scrapped,1973-10-29,,1973-10-29,1996-02-01
+dd-marcilio-dias,Marcilio Dias,Bought,Scrapped,1973-12-03,,1973-12-03,1994-09-01
+dd-marcilio-dias,Mariz e Barros,Bought,Scrapped,1973-12-03,,1973-12-03,1997-09-01
+de-babitonga,Bertioga,Bought,Scrapped,1944-08-01,,1944-08-01,1964-01-01
+de-babitonga,Beberibe,Bought,Scrapped,1944-08-01,,1944-08-01,1968-01-01
+de-babitonga,Bracui,Bought,Scrapped,1944-08-01,,1944-08-01,1972-07-01
+de-babitonga,Bauru,Bought,Scrapped,1944-08-01,,1944-08-01,1981-09-01
+de-babitonga,Baependi,Bought,Scrapped,1944-12-01,,1944-12-01,1973-01-01
+de-babitonga,Benavente,Bought,Scrapped,1944-12-01,,1944-12-01,1964-01-01
+de-babitonga,Babitonga,Bought,Scrapped,1945-03-01,,1945-03-01,1964-01-01
+de-babitonga,Bocaina,Bought,Scrapped,1945-03-01,,1945-03-01,1975-01-01
+ff-para-1989,Para,Bought,Scrapped,1989-09-18,,1989-09-18,2008-11-01
+ff-para-1989,Parana,Bought,Scrapped,1989-08-24,,1989-08-24,2002-07-01
+ff-paraiba,Paraiba,Bought,Scrapped,1989-07-25,,1989-07-25,2002-07-01
+ff-paraiba,Pernmabuco,Bought,Scrapped,1989-09-25,,1989-09-25,2004-03-01
+pred-swiftsure,HMS Swiftsure,Bought,Scrapped,1904-06-01,,1904-06-01,1917-01-01
+pred-swiftsure,HMS Triumph,Bought,Sunk,1904-06-01,,1904-06-01,1915-05-25
+bb-erin,HMS Erin,Bought,Scrapped,1914-08-01,,1914-08-01,1922-12-01
+bb-agincourt,HMS Agincourt,Bought,Scrapped,1914-08-01,,1914-08-01,1922-12-01
+bb-canada,HMS Canada,Bought,Sold,1915-09-30,,1915-09-30,1920-04-01
+pf-atherstone,HMS Atherstone,Built,Scrapped,1939-06-01,1939-12-12,1940-03-01,1957-11-01
+pf-atherstone,HMS Berkeley,Built,Sunk,1939-06-01,1940-01-29,1940-06-01,1942-08-19
+pf-atherstone,HMS Blencathra,Built,Scrapped,1939-11-01,1940-08-06,1940-12-01,1957-01-01
+pf-atherstone,HMS Brocklesby,Built,Scrapped,1939-11-01,1940-09-30,1941-05-01,1968-10-01
+pf-atherstone,HMS Cattistock,Built,Scrapped,1939-06-01,1940-02-22,1940-08-01,1957-06-01
+pf-atherstone,HMS Cleveland,Built,Sunk,1939-07-01,1940-04-24,1940-09-01,1957-06-28
+pf-atherstone,HMS Cotswold,Built,Scrapped,1939-10-01,1940-07-18,1940-11-01,1957-09-01
+pf-atherstone,HMS Cottesmore,Built,Sold,1939-12-01,1940-09-05,1940-12-01,1950-09-01
+pf-atherstone,HMS Eglinton,Built,Scrapped,1939-06-01,1939-12-28,1940-08-01,1956-05-01
+pf-atherstone,HMS Exmoor,Built,Sunk,1939-06-01,1940-01-25,1940-10-01,1941-02-25
+pf-atherstone,HMS Fernie,Built,Scrapped,1939-06-01,1940-01-09,1940-05-01,1956-11-01
+pf-atherstone,HMS Garth,Built,Scrapped,1939-06-01,1940-02-14,1940-07-01,1958-08-01
+pf-atherstone,HMS Hambledon,Built,Auxiliary,1939-06-01,1939-12-12,1940-06-01,1955-01-01
+pf-atherstone,HMS Holderness,Built,Scrapped,1939-06-01,1940-02-08,1940-08-01,1956-11-01
+pf-atherstone,HMS Liddesdale,Built,Scrapped,1939-11-01,1940-08-19,1941-02-01,1948-01-01
+pf-atherstone,HMS Mendip,Built,Sold,1940-08-01,1940-04-09,1940-10-01,1949-11-01
+pf-atherstone,HMS Meynell,Built,Sold,1939-08-01,1940-06-07,1940-12-01,1954-10-01
+pf-atherstone,HMS Pytchley,Built,Scrapped,1939-07-01,1940-02-13,1940-10-01,1956-12-01
+pf-atherstone,HMS Quantock,Built,Sold,1939-07-01,1940-04-22,1941-02-01,1954-10-01
+pf-atherstone,HMS Quorn,Built,Sunk,1939-08-01,1940-03-27,1940-08-01,1944-08-03
+pf-atherstone,HMS Southdown,Built,Scrapped,1939-08-01,1940-07-05,1940-11-01,1956-11-01
+pf-atherstone,HMS Tynedale,Built,Sunk,1939-07-01,1940-06-05,1940-11-01,1943-12-12
+pf-atherstone,HMS Whaddon,Built,Scrapped,1939-07-01,1940-07-16,1941-02-01,1959-04-01
+pf-eridge,HMS Avon Vale,Built,Scrapped,1940-02-01,1940-10-23,1941-02-01,1958-05-01
+pf-eridge,HMS Badsworth,Built,Sold,1940-05-01,1941-03-17,1941-08-01,1944-11-01
+pf-eridge,HMS Beaufort,Built,Sold,1940-07-01,1941-06-09,1941-11-01,1952-10-01
+pf-eridge,HMS Bedale,Built,Sold,1940-05-01,1941-07-23,1942-06-01,1953-04-01
+pf-eridge,HMS Bicester,Built,Scrapped,1940-05-01,1941-09-05,1942-05-01,1956-08-01
+pf-eridge,HMS Blackmore,Built,Sold,1941-02-01,1941-12-02,1942-04-01,1952-10-01
+pf-eridge,HMS Blankney,Built,Scrapped,1940-05-01,1940-12-19,1941-04-01,1959-03-01
+pf-eridge,HMS Bramham,Built,Sold,1941-04-01,1942-01-29,1942-06-01,1943-03-01
+pf-eridge,HMS Calpe,Built,Sold,1940-06-01,1941-04-28,1941-12-01,1952-10-01
+pf-eridge,HMS Chiddingfold,Built,Sold,1940-03-01,1941-03-10,1941-10-01,1954-06-01
+pf-eridge,HMS Cowdray,Built,Sold,1940-04-01,1941-07-22,1942-07-01,1959-09-01
+pf-eridge,HMS Croome,Built,Scrapped,1940-06-01,1941-01-30,1941-06-01,1957-08-01
+pf-eridge,HMS Dulverton,Built,Sunk,1940-07-01,1941-04-01,1941-09-01,1943-11-13
+pf-eridge,HMS Eridge,Built,Scrapped,1939-11-01,1940-08-20,1941-02-01,1942-08-29
+pf-eridge,HMS Exmoor,Built,Sold,1940-06-01,1941-03-12,1941-10-01,1953-02-01
+pf-eridge,HMS Farndale,Built,Scrapped,1939-11-01,1940-09-30,1941-04-01,1962-12-01
+pf-eridge,HMS Grove,Built,Sunk,1940-08-01,1941-05-29,1942-02-01,1942-06-12
+pf-eridge,HMS Heythrop,Built,Sunk,1939-12-01,1940-10-30,1941-06-01,1942-03-20
+pf-eridge,HMS Hursley,Built,Scrapped,1940-12-01,1941-07-25,1942-04-01,1943-12-01
+pf-eridge,HMS Hurworth,Built,Sunk,1940-04-01,1941-04-10,1941-10-01,1943-10-22
+pf-eridge,HMS Lamerton,Built,Sold,1940-04-01,1940-12-14,1941-08-01,1953-04-01
+pf-eridge,HMS Lauderdale,Built,Sold,1939-12-01,1941-08-05,1941-12-01,1946-05-01
+pf-eridge,HMS Ledbury,Built,Scrapped,1940-01-01,1941-09-27,1942-02-01,1958-05-01
+pf-eridge,HMS Middleton,Built,Auxiliary,1940-04-01,1941-05-12,1942-01-01,1955-01-01
+pf-eridge,HMS Oakley,Built,Sold,1939-11-01,1940-10-30,,1941-06-01
+pf-eridge,HMS Oakley,Built,Sold,1940-08-01,1942-01-15,1942-05-01,1958-10-01
+pf-eridge,HMS Puckeridge,Built,Sunk,1940-01-01,1941-03-06,1941-07-01,1943-09-06
+pf-eridge,HMS Silverton,Built,Scrapped,1939-12-01,1940-12-04,1941-05-01,1959-03-01
+pf-eridge,HMS Southwold,Built,Sunk,1940-07-01,1941-05-29,1941-10-01,1942-03-24
+pf-eridge,HMS Tetcott,Built,Scrapped,1940-07-01,1941-08-12,1941-12-01,1956-09-01
+pf-eridge,HMS Wheatland,Built,Scrapped,1940-05-01,1941-06-07,1941-11-01,1959-09-01
+pf-eridge,HMS Wilton,Built,Scrapped,1940-06-01,1941-10-17,1942-02-01,1959-11-01
+pf-eridge,HMS Zetland,Built,Sold,1940-10-01,1942-03-07,1942-06-01,1952-10-01
+de-bleasdale,HMS Airedale,Built,Sunk,1940-11-01,1941-08-12,1941-12-01,1942-06-15
+de-bleasdale,HMS Albrighton,Built,Sold,1940-12-01,1941-10-11,1942-02-01,1959-05-01
+de-bleasdale,HMS Aldenham,Built,Sunk,1940-08-01,1941-08-27,1942-01-01,1944-12-14
+de-bleasdale,HMS Belvoir,Built,Scrapped,1940-10-01,1941-11-18,1942-03-01,1957-10-01
+de-bleasdale,HMS Blean,Built,Sunk,1941-02-01,1942-01-15,1942-08-01,1942-12-11
+de-bleasdale,HMS Bleasdale,Built,Scrapped,1940-10-01,1941-07-23,1942-04-01,1956-09-01
+de-bleasdale,HMS Bolebroke,Built,Sold,1941-04-01,1941-11-05,,1942-06-01
+de-bleasdale,HMS Border,Built,Sold,1941-05-01,1942-02-03,,1942-08-01
+de-bleasdale,HMS Catterick,Built,Sold,1941-03-01,1941-11-22,1942-06-01,1946-05-01
+de-bleasdale,HMS Derwent,Built,Sunk,1940-12-01,1941-08-22,1942-04-01,1943-03-19
+de-bleasdale,HMS Easton,Built,Scrapped,1941-03-01,1942-07-11,1942-12-01,1953-01-01
+de-bleasdale,HMS Eggesford,Built,Sold,1941-06-01,1942-09-12,1943-01-01,1959-05-01
+de-bleasdale,HMS Eskdale,Built,Sold,1941-01-01,1942-03-16,,1942-07-01
+de-bleasdale,HMS Glaisdale,Built,Sold,1941-02-01,1942-01-05,,1942-06-01
+de-bleasdale,HMS Goathland,Built,Scrapped,1941-01-01,1942-02-03,1942-11-01,1944-07-24
+de-bleasdale,HMS Haldon,Built,Sold,1941-01-01,1942-04-27,,1942-12-01
+de-bleasdale,HMS Hatherleigh,Built,Sold,1940-12-01,1941-12-18,,1942-08-01
+de-bleasdale,HMS Haydon,Built,Scrapped,1941-05-01,1942-04-02,1942-10-01,1958-05-01
+de-bleasdale,HMS Holcombe,Built,Sunk,1941-03-01,1942-04-14,1942-09-01,1943-12-12
+de-bleasdale,HMS Limbourne,Built,Sunk,1941-04-01,1942-05-12,1942-10-01,1943-10-23
+de-bleasdale,HMS Melbreak,Built,Scrapped,1941-06-01,1942-03-05,1942-10-01,1956-11-01
+de-bleasdale,HMS Modbury,Built,Sold,1941-08-01,1942-04-13,,1942-11-01
+de-bleasdale,HMS Penylan,Built,Sunk,1941-06-01,1942-03-17,1942-08-01,1942-12-03
+de-bleasdale,HMS Rockwood,Built,Sunk,1941-08-01,1942-06-13,1942-11-01,1943-11-11
+de-bleasdale,HMS Stevenstone,Built,Scrapped,1941-09-01,1942-11-23,1943-03-01,1959-09-01
+de-bleasdale,HMS Talybont,Built,Scrapped,1941-11-01,1943-02-03,1943-05-01,1961-03-01
+de-bleasdale,HMS Tanatside,Built,Sold,1941-06-01,1942-04-30,1942-09-01,1946-05-01
+de-bleasdale,HMS Wensleydale,Built,Sunk,1941-07-01,1942-06-20,1942-10-01,1944-11-01
+de-brecon,HMS Brecon,Built,Scrapped,1941-02-01,1942-06-27,1942-12-01,1962-09-01
+de-brecon,HMS Brissenden,Built,Scrapped,1941-12-01,1942-09-15,1943-02-01,1965-03-01
+pf-bayntun,HMS Bayntun,Built,Sold,1942-05-01,1942-06-27,1943-02-01,1945-08-01
+pf-bayntun,HMS Bazely,Built,Sold,1942-04-01,1942-06-27,1943-02-01,1945-08-01
+pf-bayntun,HMS Berry,Built,Sold,1942-09-01,1942-11-23,1943-03-01,1946-02-01
+pf-bayntun,HMS Blackwood,Built,Sunk,1942-09-01,1942-11-23,1943-03-01,1944-06-15
+pf-bayntun,HMS Burges,Built,Sold,1942-12-01,1943-01-26,1943-06-01,1946-02-01
+pf-bayntun,HMS Capel,Built,Sunk,1943-03-01,1943-04-22,1943-08-01,1944-12-26
+pf-bayntun,HMS Cockburn,Built,Sold,1942-02-01,1942-07-24,1943-04-01,1945-08-01
+pf-bayntun,HMS Cooke,Built,Sold,1943-03-01,1943-04-22,1943-08-01,1946-03-01
+pf-bayntun,HMS Dacres,Built,Sold,1943-04-01,1943-05-14,1943-08-01,1946-01-01
+pf-bayntun,HMS Domett,Built,Sold,1943-04-01,1943-09-03,1943-09-01,1946-03-01
+pf-bayntun,HMS Foley,Built,Sold,1943-04-01,1943-05-19,1943-09-01,1945-08-01
+pf-bayntun,HMS Gardiner,Built,Sold,1943-05-01,1943-07-08,1943-09-01,1946-02-01
+pf-bayntun,HMS Garlies,Built,Sold,1943-04-01,1943-05-19,1943-09-01,1945-08-01
+pf-bayntun,HMS Goodall,Built,Sunk,1943-05-01,1943-07-08,1943-10-01,1945-04-29
+pf-bayntun,HMS Goodson,Built,Sunk,1943-05-01,1943-07-08,1943-10-01,1944-06-25
+pf-bayntun,HMS Gore,Built,Sold,1943-05-01,1943-07-08,1943-10-01,1946-05-01
+pf-bayntun,HMS Gould,Built,Sunk,1943-04-01,1943-06-04,1943-09-01,1944-03-01
+pf-bayntun,HMS Grindall,Built,Sold,1943-04-01,1943-06-04,1943-09-01,1945-08-01
+pf-bayntun,HMS Inglis,Built,Sold,1943-09-01,1943-11-02,1943-12-01,1946-03-01
+pf-bayntun,HMS Inman,Built,Sold,1943-09-01,1943-11-02,1944-01-01,1946-03-01
+pf-bayntun,HMS Keats,Built,Sold,1943-05-01,1943-07-17,1943-10-01,1946-02-01
+pf-bayntun,HMS Kempthorne,Built,Sold,1943-06-01,1943-07-17,1943-10-01,1945-08-01
+pf-bayntun,HMS Kingsmill,Built,Sold,1943-07-01,1943-08-13,1943-10-01,1945-08-01
+pf-bayntun,HMS Lawford,Built,Sunk,1943-07-01,1943-08-13,1943-11-01,1944-06-08
+pf-bayntun,HMS Lawson,Built,Sold,1943-07-01,1943-08-13,1943-11-01,1946-03-01
+pf-bayntun,HMS Pasley,Built,Sold,1943-07-01,1943-08-30,1943-11-01,1946-03-01
+pf-bayntun,HMS Loring,Built,Sold,1943-07-01,1943-08-30,1943-11-01,1947-01-01
+pf-bayntun,HMS Louis,Built,Sold,1943-07-01,1943-11-09,1943-11-01,1946-03-01
+pf-bayntun,HMS Manners,Built,Sunk,1943-08-01,1943-12-17,1943-12-01,1945-01-26
+pf-bayntun,HMS Hoste,Built,Sold,1943-08-01,1943-09-24,1943-12-01,1945-08-01
+pf-bayntun,HMS Moorsom,Built,Sold,1943-08-01,1943-12-11,1943-12-01,1945-10-01
+pf-bayntun,HMS Mounsey,Built,Sold,1943-08-01,1943-09-24,1943-12-01,1946-02-01
+pf-affleck,HMS Affleck,Built,Sunk,1943-04-01,1943-06-30,1943-09-01,1944-12-27
+pf-affleck,HMS Aylmer,Built,Sold,1943-04-01,1943-07-10,1943-09-01,1945-11-01
+pf-affleck,HMS Balfour,Built,Sold,1943-04-01,1943-07-10,1943-10-01,1945-10-01
+pf-affleck,HMS Bentinck,Built,Sold,1942-06-01,1942-08-22,1943-05-01,1946-01-01
+pf-affleck,HMS Bentley,Built,Sold,1943-04-01,1943-07-17,1943-10-01,1945-11-01
+pf-affleck,HMS Bickerton,Built,Sunk,1943-05-01,1943-07-24,1943-10-01,1944-08-22
+pf-affleck,HMS Bligh,Built,Sold,1943-05-01,1943-07-31,1943-10-01,1945-11-01
+pf-affleck,HMS Braithwaite,Built,Sold,1943-05-01,1943-07-31,1943-11-01,1945-11-01
+pf-affleck,HMS Bullen,Built,Sunk,1943-05-01,1943-08-07,1943-10-01,1944-12-06
+pf-affleck,HMS Byard,Built,Sold,1942-10-01,1943-03-06,1943-06-01,1945-12-01
+pf-affleck,HMS Byron,Built,Sold,1943-05-01,1943-08-14,1943-10-01,1945-11-01
+pf-affleck,HMS Calder,Built,Sold,1942-12-01,1943-03-27,1943-07-01,1945-10-01
+pf-affleck,HMS Conn,Built,Sold,1943-06-01,1943-08-21,1943-10-01,1945-11-01
+pf-affleck,HMS Cosby,Built,Sold,1943-08-01,1943-10-30,1943-12-01,1946-01-01
+pf-affleck,HMS Cotton,Built,Sold,1943-06-01,1943-08-21,1943-11-01,1945-11-01
+pf-affleck,HMS Cranstoun,Built,Sold,1943-06-01,1943-08-28,1943-11-01,1945-12-01
+pf-affleck,HMS Cubitt,Built,Sold,1943-06-01,1943-09-11,1943-11-01,1946-03-01
+pf-affleck,HMS Curzon,Built,Sold,1943-06-01,1943-09-18,1943-11-01,1946-03-01
+pf-affleck,HMS Dakins,Built,Sunk,1943-06-01,1943-09-18,1943-11-01,1944-12-25
+pf-affleck,HMS Deane,Built,Sold,1943-06-01,1943-09-29,1943-11-01,1946-03-01
+pf-affleck,HMS Duckworth,Built,Sold,1943-01-01,1943-05-01,1943-08-01,1945-12-01
+pf-affleck,HMS Duff,Built,Sunk,1943-02-01,1943-05-22,1943-08-01,1944-11-30
+pf-affleck,HMS Ekins,Built,Sunk,1943-07-01,1943-10-02,1943-11-01,1945-04-16
+pf-affleck,HMS Essington,Built,Sold,1943-03-01,1943-06-19,1943-09-01,1945-10-01
+pf-affleck,HMS Fitzroy,Built,Sold,1943-06-01,1943-09-01,1943-10-01,1946-01-01
+pf-affleck,HMS Halsted,Built,Sunk,1943-07-01,1943-10-14,1943-11-01,1944-06-11
+pf-affleck,HMS Hargood,Built,Sold,1943-10-01,1943-12-18,1944-02-01,1946-02-01
+pf-affleck,HMS Holmes,Built,Sold,1943-10-01,1943-12-18,1944-01-01,1945-12-01
+pf-affleck,HMS Hotham,Built,Auxiliary,1943-11-01,1943-12-21,1944-02-01,1946-03-01
+pf-affleck,HMS Narborough,Built,Sold,1943-10-01,1943-11-27,1944-01-01,1946-02-01
+pf-affleck,HMS Redmill,Built,Sunk,1943-07-01,1943-10-02,1943-11-01,1945-04-27
+pf-affleck,HMS Retalick,Built,Sold,1943-07-01,1943-10-09,1943-12-01,1945-10-01
+pf-affleck,HMS Riou,Built,Sold,1943-08-01,1943-10-23,1943-12-01,1946-02-01
+pf-affleck,HMS Rowley,Built,Sold,1943-08-01,1943-10-30,1943-12-01,1945-11-01
+pf-affleck,HMS Rupert,Built,Sold,1943-08-01,1943-10-31,1943-12-01,1946-03-01
+pf-affleck,HMS Rutherford,Built,Sold,1943-08-01,1943-10-23,1943-12-01,1945-10-01
+pf-affleck,HMS Seymour,Built,Sold,1943-09-01,1943-11-01,1943-12-01,1946-01-01
+pf-affleck,HMS Spragge,Built,Sold,1943-09-01,1943-10-16,1944-01-01,1946-02-01
+pf-affleck,HMS Stayner,Built,Sold,1943-09-01,1943-11-06,1943-12-01,1946-11-01
+pf-affleck,HMS Stockham,Built,Sold,1943-08-01,1943-10-31,1943-12-01,1946-01-01
+pf-affleck,HMS Thornbrough,Built,Sold,1943-09-01,1943-11-13,1943-12-01,1947-01-01
+pf-affleck,HMS Torrington,Built,Sold,1943-09-01,1943-11-27,1944-01-01,1946-06-01
+pf-affleck,HMS Trollope,Built,Sunk,1943-09-01,1943-11-20,1944-01-01,1944-07-06
+pf-affleck,HMS Tyler,Built,Sold,1943-10-01,1943-11-20,1944-01-01,1946-11-01
+pf-affleck,HMS Waldegrave,Built,Sold,1943-10-01,1943-12-04,1944-01-01,1945-12-01
+pf-affleck,HMS Whitaker,Built,Sunk,1943-10-01,1943-12-12,1944-01-01,1944-11-01
+pf-anguilla,HMS Anguilla,Built,Sold,1943-04-01,1943-07-14,1943-10-01,1946-05-01
+pf-anguilla,HMS Antigua,Built,Sold,1943-04-01,1943-07-26,1943-11-01,1946-05-01
+pf-anguilla,HMS Ascension,Built,Sold,1943-04-01,1943-08-07,1943-11-01,1946-05-01
+pf-anguilla,HMS Bahamas,Built,Sold,1943-04-01,1943-08-17,1943-12-01,1946-06-01
+pf-anguilla,HMS Barbados,Built,Sold,1943-05-01,1943-08-27,1943-12-01,1946-04-01
+pf-anguilla,HMS Caicos,Built,Sold,1943-04-01,1943-09-06,1943-12-01,1945-12-01
+pf-anguilla,HMS Cayman,Built,Sold,1943-07-01,1943-09-06,1944-01-01,1946-04-01
+pf-anguilla,HMS Dominica,Built,Sold,1943-07-01,1943-09-14,1944-01-01,1946-04-01
+pf-anguilla,HMS Labuan,Built,Sold,1943-08-01,1943-09-21,1944-02-01,1948-05-01
+pf-anguilla,HMS Montserrat,Built,Sold,1943-08-01,1943-09-27,1944-08-01,1946-06-01
+pf-anguilla,HMS Nyasaland,Built,Sold,1943-09-01,1943-10-06,1944-07-01,1946-04-01
+pf-anguilla,HMS Papua,Built,Sold,1943-09-01,1943-10-10,1944-07-01,1946-05-01
+pf-anguilla,HMS Perim,Built,Sold,1943-10-01,1943-11-05,1944-02-01,1946-05-01
+pf-anguilla,HMS Pitcairn,Built,Sold,1943-09-01,1943-10-15,1944-07-01,1946-06-01
+pf-anguilla,HMS St. Helena,Built,Sold,1943-09-01,1943-10-20,1944-02-01,1946-04-01
+pf-anguilla,HMS Sarawak,Built,Sold,1943-09-01,1943-10-25,1944-02-01,1946-05-01
+pf-anguilla,HMS Seychelles,Built,Sold,1943-09-01,1943-10-30,1944-02-01,1946-06-01
+pf-anguilla,HMS Somaliland,Built,Sold,1943-10-01,1943-11-11,1944-02-01,1946-05-01
+pf-anguilla,HMS Tobago,Built,Sold,1943-08-01,1943-09-27,1944-08-01,1946-05-01
+pf-anguilla,HMS Tortola,Built,Sold,1943-10-01,1943-11-16,1944-05-01,1946-05-01
+pf-anguilla,HMS Zanzibar,Built,Sold,1943-10-01,1943-11-21,1944-06-01,1946-05-01
+pf-bay,HMS Bigbury Bay,Built,Sold,1944-05-01,1944-11-16,1945-07-01,1959-05-01
+pf-bay,HMS Burghead Bay,Built,Sold,1944-09-01,1945-03-03,1945-09-01,1959-05-01
+pf-bay,HMS Cardigan Bay,Built,Scrapped,1944-04-01,1944-12-28,1945-06-01,1962-03-01
+pf-bay,HMS Carnarvon Bay,Built,Scrapped,1944-06-01,1945-03-15,1945-09-01,1959-08-01
+pf-bay,HMS Cawsand Bay,Built,Scrapped,1944-04-01,1945-02-26,1945-11-01,1959-09-01
+pf-bay,HMS Enard Bay,Built,Scrapped,1944-05-01,1944-10-31,1946-04-01,1957-11-01
+pf-bay,HMS Largo Bay,Built,Scrapped,1944-02-01,1944-10-03,1946-01-01,1958-07-01
+pf-bay,HMS Morecambe Bay,Built,Sold,1944-03-01,1944-11-01,1949-02-01,1961-05-01
+pf-bay,HMS Mounts Bay,Built,Sold,1944-10-01,1945-06-08,1946-04-01,1961-05-01
+pf-bay,HMS Padstow Bay,Built,Scrapped,1944-09-01,1945-08-24,1946-03-01,1959-08-01
+pf-bay,HMS Porlock Bay,Built,Sold,1944-11-01,1945-06-14,1946-03-01,1962-03-01
+pf-bay,HMS St. Austell Bay,Built,Scrapped,1944-05-01,1944-11-18,1945-05-01,1959-07-01
+pf-bay,HMS St. Brides Bay,Built,Scrapped,1944-05-01,1945-01-16,1945-06-01,1962-09-01
+pf-bay,HMS Start Bay,Built,Scrapped,1944-08-01,1945-02-15,1945-09-01,1958-07-01
+pf-bay,HMS Tremadoc Bay,Built,Scrapped,1944-08-01,1945-03-29,1945-10-01,1959-09-01
+pf-bay,HMS Veryan Bay,Built,Scrapped,1944-06-01,1944-11-11,1945-05-01,1959-07-01
+pf-bay,HMS Whitesand Bay,Built,Scrapped,1944-08-01,1944-12-16,1945-07-01,1956-02-01
+pf-bay,HMS Widemouth Bay,Built,Scrapped,1944-04-01,1944-10-19,1945-04-01,1957-11-01
+pf-bay,HMS Wigtown Bay,Built,Scrapped,1944-10-01,1945-04-26,1946-01-01,1959-04-01
+pf-bay,HMS Alert,Built,Auxiliary,1944-07-01,1945-07-10,1946-10-01,1971-10-01
+pf-bay,HMS Surprise,Built,Auxiliary,1944-04-01,1945-03-14,1945-09-01,1965-06-01
+pf-bay,HMS Cook,Built,Converted,1944-11-01,1945-09-24,,1945-11-01
+pf-bay,HMS Dalrymple,Built,Converted,1944-04-01,1945-04-12,,1945-11-01
+pf-bay,HMS Dampier,Built,Converted,1944-08-01,1945-05-15,,1945-11-01
+pf-bay,HMS Owen,Built,Converted,1944-09-01,1945-10-19,,1945-11-01
+cl-o-higgins,O'Higgins,Bought,Scrapped,1951-01-09,,1951-01-09,1991-10-01
+cl-o-higgins,Capitan Prat,Bought,Scrapped,1951-01-09,,1951-01-09,1983-04-01
+cl-almirante-latorre,Almirante Latorre,Bought,Scrapped,1971-07-15,,1971-07-15,1984-09-01
+cl-chung-king,Chung King,Bought,Sunk,1948-05-19,,1948-05-19,1949-03-20
+dd-fen-yang,Fen Yang,Captured,Captured,1947-08-30,,1947-08-30,1949-02-01
+dd-an-shan,An Shan,Bought,Museum,1954-10-04,,1954-10-04,1992-04-01
+dd-an-shan,Fu Shun,Bought,Scrapped,1954-10-04,,1954-10-04,1989-01-01
+dd-an-shan,Chang Chun,Bought,Museum,1955-06-28,,1955-06-28,1990-01-01
+dd-an-shan,Tai Yuan,Bought,Auxiliary,1955-06-28,,1955-06-28,1991-09-01
+ff-esbern-snare,HDMS Esbern Snare,Bought,Scrapped,1954-02-01,,1954-02-01,1965-04-01
+ff-esbern-snare,HDMS Rolf Krake,Bought,Scrapped,1954-10-01,,1954-10-01,1962-01-01
+ff-esbern-snare,HDMS Valdemar Sejr,Bought,Scrapped,1954-06-01,,1954-06-01,1962-01-01
+ff-thetis,HDMS Thetis,Built,,1988-10-10,1989-07-14,1991-07-01,
+ff-thetis,HDMS Triton,Built,,1989-06-27,1990-03-16,1991-12-02,
+ff-thetis,HDMS Vaedderen,Built,,1990-03-19,1990-12-21,1992-06-09,
+ff-thetis,HDMS Hvidbjornen,Built,,1991-01-02,1991-10-11,1992-11-30,
+fs-bellona,HDMS Bellona,Built,Scrapped,1954-01-01,1955-01-09,1957-02-02,1981-01-01
+fs-bellona,HDMS Diana,Built,Scrapped,1953-01-01,1954-12-19,1955-07-30,1974-08-01
+fs-bellona,HDMS Flora,Built,Scrapped,1953-06-01,1955-06-25,1956-08-28,1977-01-01
+fs-bellona,HDMS Triton,Built,Scrapped,1953-06-01,1954-09-12,1955-08-10,1981-01-01
+cl-colmar,Colmar,Captured,Scrapped,1920-04-28,,1920-04-28,1927-07-01
+cl-mulhouse,Mulhouse,Captured,Scrapped,1920-08-03,,1920-08-03,1933-02-01
+cl-strasbourg,Strasbourg,Captured,Auxiliary,1920-06-04,,1920-06-04,1936-06-01
+cl-metz,Met,Captured,Scrapped,1920-07-20,,1920-07-20,1933-08-01
+dd-aventurier,Opiniatre,Bought,Scrapped,1914-09-01,,1914-09-01,1933-01-01
+dd-aventurier,Aventurier,Bought,Scrapped,1914-09-01,,1914-09-01,1938-01-01
+dd-aventurier,Temeraire,Bought,Scrapped,1914-11-01,,1914-11-01,1936-01-01
+dd-aventurier,Intrepide,Bought,Scrapped,1914-11-01,,1914-11-01,1937-01-01
+dd-pierre-durand,Pierre Durand,Captured,Scrapped,1920-06-01,,1920-06-01,1933-02-01
+dd-matelot-leblanc,Matelot Leblanc,Captured,Scrapped,1920-09-01,,1920-09-01,1936-01-01
+dd-buino,Buino,Captured,Scrapped,1920-08-01,,1920-08-01,1933-02-01
+dd-chastang,Chastang,Captured,Scrapped,1920-07-01,,1920-07-01,1933-08-01
+dd-chastang,Vesco,Captured,Scrapped,1920-06-01,,1920-06-01,1935-07-01
+dd-chastang,Mazare,Captured,Scrapped,1920-07-01,,1920-07-01,1935-07-01
+dd-chastang,Deligny,Captured,Scrapped,1920-07-01,,1920-07-01,1933-08-01
+dd-rageot-de-la-touche,Rageot de la Touche,Captured,Scrapped,1920-05-01,,1920-05-01,1935-01-01
+dd-rageot-de-la-touche,Marcel Delage,Captured,Scrapped,1920-07-01,,1920-07-01,1933-02-01
+dd-amiral-senes,Amiral Senes,Captured,Scrapped,1920-05-01,,1920-05-01,1936-01-01
+dd-desaix,Desaix,Captured,Scrapped,1946-02-01,,1946-02-01,1954-02-01
+dd-desaix,Kleber,Captured,Scrapped,1946-02-01,,1946-02-01,1957-04-01
+dd-hoche,Hoche,Captured,Scrapped,1946-02-01,,1946-02-01,1958-01-01
+dd-marceau,Marceau,Captured,Scrapped,1946-02-01,,1946-02-01,1958-01-01
+dd-d-estaing,D'Estaing,Captured,Scrapped,1948-08-08,,1948-08-08,1954-01-01
+dd-jurien-de-la-graviere,Jurien de la Graviere,Captured,Scrapped,1948-07-15,,1948-07-15,1956-01-01
+dd-jurien-de-la-graviere,Duperre,Captured,Scrapped,1948-07-24,,1948-07-24,1961-01-01
+dd-jurien-de-la-graviere,Duchaffault,Captured,Scrapped,1948-08-15,,1948-08-15,1956-01-01
+cl-pillau,Pillau,Captured,Captured,1914-12-14,,1914-12-14,1919-11-01
+cl-pillau,Elbing,Captured,Sunk,1915-09-04,,1915-09-04,1916-06-01
+ff-gneisenau,Gneisenau,Bought,Scrapped,1958-10-18,,1958-10-18,1966-06-01
+ff-scharnhorst,Scharnhorst,Bought,Scrapped,1959-05-28,,1959-05-28,1968-03-01
+ff-scharnhorst,Hipper,Bought,Scrapped,1959-01-10,,1959-01-10,1964-07-01
+ff-scharnhorst,Scheer,Bought,Scrapped,1959-05-21,,1959-05-21,1967-12-01
+ff-graf-spee,Graf Spee,Bought,Scrapped,1959-02-21,,1959-02-21,1964-07-01
+ff-raule,Raule,Bought,Scrapped,1959-05-14,,1959-05-14,1967-12-01
+ff-raule,Brommy,Bought,Scrapped,1959-05-14,,1959-05-14,1965-04-01
+ff-rostock,Rostock,Bought,Scrapped,1990-10-02,,1990-10-02,1991-12-01
+ff-rostock,Halle,Bought,Scrapped,1990-10-02,,1990-10-02,1991-12-01
+fs-grevesmuhlen,Grevesmuhlen,Bought,Sold,1990-10-02,,1990-10-02,1993-08-01
+fs-grevesmuhlen,Gadebusch,Bought,Sold,1990-10-02,,1990-10-02,1993-08-01
+fs-grevesmuhlen,Teterow,Bought,Sold,1990-10-02,,1990-10-02,1993-08-01
+fs-grevesmuhlen,Lubz,Bought,Sold,1990-10-02,,1990-10-02,1993-08-01
+fs-grevesmuhlen,Wismar,Bought,Sold,1990-10-02,,1990-10-02,1993-08-01
+pred-kilkis,Kilkis,Bought,Auxiliary,1914-07-30,,1914-07-30,1935-01-01
+pred-kilkis,Limnos,Bought,Auxiliary,1914-07-30,,1914-07-30,1932-01-01
+cl-elli-1914,Elli,Bought,Sunk,1914-05-14,,1914-05-14,1940-08-15
+cl-elli,Elli,Captured,Scrapped,1951-07-01,,1951-07-01,1964-01-01
+up-navarchos-miaoulis,Navarchos Miaoulis,Built,Auxiliary,1878-01-01,1879-01-01,1879-11-01,1912-01-01
+dd-niki,Niki,Built,Scrapped,1905-05-01,1906-05-30,1906-12-01,1941-04-01
+dd-niki,Doxa,Built,Sunk,1905-05-01,1906-07-18,1906-12-01,1917-06-27
+dd-niki,Aspis,Built,Scrapped,1905-12-01,1907-04-03,1907-10-01,1941-04-01
+dd-niki,Velos,Built,Scrapped,1905-12-01,1907-05-08,1907-10-01,1926-01-01
+dd-thyella,Thyella,Built,Sunk,1905-06-01,1907-01-01,1907-05-01,1941-04-21
+dd-thyella,Nafkratoussa,Built,Sunk,1905-06-01,1906-08-01,1906-12-01,1921-03-01
+dd-thyella,Lonchi,Built,Scrapped,1905-06-01,1907-07-07,1907-12-01,1926-01-01
+dd-thyella,Sfendoni,Built,Scrapped,1905-06-01,1907-08-01,1907-12-01,1945-01-01
+dd-nea-genea,Nea Genea,Bought,Scrapped,1912-07-01,,1912-07-01,1919-01-01
+dd-nea-genea,Keravnos,Bought,Scrapped,1912-07-01,,1912-07-01,1919-01-01
+dd-aetos,Aetos,Bought,Scrapped,1912-09-01,,1912-09-01,1946-01-01
+dd-aetos,Ierax,Bought,Scrapped,1912-09-01,,1912-09-01,1946-01-01
+dd-aetos,Leon,Bought,Sunk,1912-09-01,,1912-09-01,1941-05-15
+dd-aetos,Panthir,Bought,Scrapped,1912-09-01,,1912-09-01,1946-01-01
+dd-kriti,Chios,Built,Sold,1914-01-01,1914-12-16,,1915-06-01
+dd-kriti,Kriti,Built,Sold,1914-04-01,1915-01-30,,1915-06-01
+dd-kriti,Samos,Built,Sold,1914-04-01,1915-02-01,,1915-08-01
+dd-kriti,Lesvos,Built,Sold,1914-04-01,1915-03-27,,1915-07-01
+dd-i,i,Built,Sold,1913-05-01,1914-08-30,,1914-12-01
+dd-i,ii,Built,Sold,1913-05-01,1914-10-17,,1915-01-01
+dd-doxa,Doxa,Captured,Sold,1918-11-24,,1918-11-24,1919-09-01
+dd-smyrni,Smyrni,Captured,Scrapped,1919-09-01,,1919-09-01,1928-01-01
+dd-hydra,Kountouriotis,Built,Scrapped,1930-01-01,1931-08-29,1932-11-01,1946-09-01
+dd-hydra,Hydra,Built,Sunk,1930-01-01,1931-10-21,1932-11-01,1941-04-22
+dd-hydra,Psara,Built,Sunk,1931-01-01,1932-01-01,1933-05-01,1941-04-20
+dd-hydra,Spetsai,Built,Scrapped,1931-01-01,1932-01-01,1933-05-01,1947-09-01
+dd-vasilefs-georgios-i,Vasilefs Georgios I,Built,Sunk,1937-02-01,1938-03-03,1938-12-01,1941-04-20
+dd-vasilefs-georgios-i,Vasilissa Olga,Built,Sunk,1937-02-01,1938-06-02,1939-02-01,1943-09-26
+dd-salamis,Salamis,Bought,Sold,1944-03-16,,1944-03-16,1951-09-01
+dd-navarinon,Navarinon,Bought,Sold,1944-04-05,,1944-04-05,1956-03-01
+dd-doxa-1951,Doxa,Bought,Scrapped,1951-05-21,,1951-05-21,1972-01-01
+dd-doxa-1951,Niki,Bought,Scrapped,1951-04-18,,1951-04-18,1972-01-01
+dd-navarino,Thyella,Bought,Scrapped,1962-12-27,,1962-12-27,1981-01-01
+dd-navarino,Navarino,Bought,Scrapped,1962-09-27,,1962-09-27,1981-01-01
+dd-velos,Aspis,Bought,Scrapped,1959-11-10,,1959-11-10,1991-02-01
+dd-velos,Velos,Bought,Scrapped,1959-06-16,,1959-06-16,1991-03-01
+dd-velos,Lonchi,Bought,Scrapped,1960-02-09,,1960-02-09,1990-10-01
+dd-velos,Sfendoni,Bought,Scrapped,1959-08-21,,1959-08-21,1981-10-01
+dd-kmon,Kimon,Bought,Scrapped,1980-08-02,,1980-08-02,1982-09-01
+dd-kmon,Nearkhos,Bought,Auxiliary,1980-10-30,,1980-10-30,1981-09-01
+dd-miaoulis,Miaoulis,Bought,Scrapped,1971-07-16,,1971-07-16,1992-01-01
+dd-themistoklis,Themistoklis,Bought,Scrapped,1971-01-30,,1971-01-30,1992-08-01
+dd-kanaris,Kanaris,Bought,Scrapped,1972-07-01,,1972-07-01,1994-01-01
+dd-kanaris,Kountouriotis,Bought,Scrapped,1973-07-10,,1973-07-10,1995-01-01
+dd-kanaris,Sachtouris,Bought,Scrapped,1973-12-04,,1973-12-04,1993-01-01
+dd-kanaris,Tompazis,Bought,Scrapped,1977-03-17,,1977-03-17,1997-01-01
+dd-kanaris,Apostolis,Bought,Scrapped,1980-08-02,,1980-08-02,1993-01-01
+dd-kanaris,Kriezis,Bought,Scrapped,1981-07-08,,1981-07-08,1993-01-01
+ddg-kimon,Kimon,Bought,Scrapped,1992-09-12,,1992-09-12,2004-06-01
+ddg-kimon,Nearchos,Bought,Scrapped,1993-04-30,,1993-04-30,2003-07-01
+ddg-formion,Formion,Bought,Scrapped,1993-04-30,,1993-04-30,2002-07-01
+ddg-formion,Themistoklis,Bought,Scrapped,1993-04-30,,1993-04-30,2002-02-01
+de-adrias,Pindos,Bought,Sold,1942-06-01,,1942-06-01,1959-11-01
+de-adrias,Adrias,Bought,Sunk,1942-08-01,,1942-08-01,1943-10-22
+de-adrias,Astings,Bought,Sold,1946-05-01,,1946-05-01,1963-01-01
+de-adrias,Kanaris,Bought,Sold,1942-08-01,,1942-08-01,1959-11-01
+de-adrias,Miaoulis,Bought,Sold,1942-11-01,,1942-11-01,1960-09-01
+de-adrias,Adrias,Bought,Scrapped,1946-05-01,,1946-05-01,1964-01-01
+ff-kriti,Themistokles,Bought,Sold,1943-03-01,,1943-03-01,1959-12-01
+ff-kriti,Astings,Bought,Sold,1944-03-01,,1944-03-01,1944-06-01
+ff-kriti,Kriti,Bought,Sold,1943-12-01,,1943-12-01,1959-12-01
+ff-kriti,Aigaion,Bought,Sold,1946-05-01,,1946-05-01,1959-12-01
+ff-leon,Aetos,Bought,Scrapped,1951-03-15,,1951-03-15,1991-07-01
+ff-leon,Ierax,Bought,Scrapped,1951-03-15,,1951-03-15,1991-08-01
+ff-leon,Leon,Bought,Scrapped,1951-01-15,,1951-01-15,1992-11-01
+ff-leon,Panthir,Bought,Scrapped,1951-01-15,,1951-01-15,1992-01-01
+ff-aigaion,Aigaion,Bought,Scrapped,1976-07-06,,1976-07-06,1991-01-01
+ffg-elli,Elli,Built,,1977-07-02,1979-12-15,1981-10-10,
+ffg-elli,Limnos,Built,,1978-06-13,1979-10-27,1982-09-18,
+ffg-adrias,Adrias,Bought,,1994-04-01,,1994-04-01,
+ffg-adrias,Aigaion,Bought,,1993-05-14,,1993-05-14,
+ffg-adrias,Navarinon,Bought,,1995-02-01,,1995-02-01,
+ffg-adrias,Kountouriotis,Bought,,1997-12-13,,1997-12-13,
+ffg-adrias,Bouboulina,Bought,Scrapped,2001-12-14,,2001-12-14,2013-02-01
+ffg-adrias,Kanaris,Bought,,2002-11-29,,2002-11-29,
+ffg-adrias,Themistokles,Bought,,2003-10-24,,2003-10-24,
+ffg-adrias,Nikiforos Fokas,Bought,,2004-11-19,,2004-11-19,
+ffg-ipiros,Ipiros,Bought,Scrapped,1992-08-30,,1992-08-30,2003-01-01
+ffg-ipiros,Thraki,Bought,Scrapped,1992-07-30,,1992-07-30,2001-03-01
+ffg-ipiros,Makedonia,Bought,Scrapped,1992-07-24,,1992-07-24,1998-12-01
+fs-apostolis,Kriezis,Bought,Sold,1943-11-01,,1943-11-01,1951-09-01
+fs-apostolis,Apostolis,Bought,Sold,1943-10-01,,1943-10-01,1959-01-01
+fs-apostolis,Sakhtouris,Bought,Sold,1942-06-01,,1942-06-01,1951-09-01
+fs-apostolis,Tompazis,Bought,Sold,1943-11-01,,1943-11-01,1959-01-01
+pf-armatolos,Armatolos,Built,,1989-05-08,1989-12-19,1990-03-09,
+pf-armatolos,Navmachos,Built,,1989-11-09,1990-05-16,1990-07-15,
+fs-niki,Niki,Bought,Scrapped,1991-09-06,,1991-09-06,2009-04-01
+fs-niki,Doxa,Bought,Scrapped,1992-09-07,,1992-09-07,2004-01-01
+fs-niki,Elevtheria,Bought,Scrapped,1991-09-06,,1991-09-06,2010-04-01
+fs-niki,Karteria,Bought,Scrapped,1992-09-07,,1992-09-07,2010-04-01
+fs-niki,Agon,Bought,Scrapped,1993-11-08,,1993-11-08,2004-01-01
+pf-pyrolitis,Pyrpolitis,Built,,1991-01-01,1992-09-16,1993-05-04,
+pf-pyrolitis,Polemistis,Built,,1992-09-16,1993-06-21,1994-06-16,
+pf-machitis,Machitis,Built,,2001-01-01,2002-06-01,2003-10-29,
+pf-machitis,Nikiforos,Built,,2001-01-01,2002-12-13,2004-03-30,
+pf-machitis,Aititos,Built,,2002-01-01,2003-02-26,2004-08-05,
+pf-machitis,Krateos,Built,,2002-01-01,2003-10-30,2005-10-20,
+pfg-ipopliarchos-roussen,Ipopliarchos Roussen,Built,,2001-01-01,2002-11-12,2005-12-20,
+pfg-ipopliarchos-roussen,Ipopliarchos Daniolos,Built,,2002-01-01,2003-07-08,2006-04-22,
+pfg-ipopliarchos-roussen,Ipopliarchos Krystalidis,Built,,2003-01-01,2004-04-05,2006-05-08,
+pfg-ipopliarchos-roussen,Ipopliarchos Grigoropoulos,Built,,2004-01-01,2005-12-20,2010-10-18,
+pfg-ipopliarchos-roussen,Antipliarchos Ritsos,Built,,2005-01-01,2006-10-09,2015-01-30,
+pfg-ipopliarchos-roussen,Ipopiarchos Karathanasis,Planned,,2017-01-01,2018-06-01,,
+pfg-ipopliarchos-roussen,Ipopiarchos Vlahakos,Planned,,2018-01-01,,,
+ff-godavari,INS Godavari,Bought,Sunk,1953-04-27,,1953-04-27,1976-03-23
+ff-godavari,INS Gomati,Bought,Scrapped,1953-04-27,,1953-04-27,1979-01-01
+ff-godavari,INS Ganga,Bought,Scrapped,1953-06-18,,1953-06-18,1975-01-01
+fs-kamorta,INS Arnala,Bought,Scrapped,1972-06-29,,1972-06-29,1999-04-01
+fs-kamorta,INS Androth,Built,Scrapped,1957-02-19,1958-06-18,1972-06-30,1999-04-01
+fs-kamorta,INS Anjadip,Bought,Scrapped,1972-12-23,,1972-12-23,2003-12-01
+fs-kamorta,INS Andaman,Built,Sunk,1967-10-01,1968-05-01,1973-12-28,1990-08-22
+fs-kamorta,INS Amini,Bought,Scrapped,1974-12-12,,1974-12-12,2002-09-01
+fs-kamorta,INS Kamorta,Built,Scrapped,1967-11-01,1968-05-01,1968-11-21,1991-10-01
+fs-kamorta,INS Kadmatt,Built,Scrapped,1967-12-01,1968-06-01,1968-12-23,1992-11-01
+fs-kamorta,INS Kiltan,Built,Scrapped,1968-10-01,1969-04-01,1969-10-30,1987-06-01
+fs-kamorta,INS Kavaratti,Built,Scrapped,1968-12-01,1969-06-01,1969-12-23,1986-07-01
+fs-kamorta,INS Katchall,Built,Scrapped,1968-12-01,1969-06-01,1969-12-23,1988-12-01
+fs-kamorta,INS Kanjar,Cancelled,Scrapped,1969-10-01,1970-04-01,1976-01-01,1988-01-01
+fs-kamorta,INS Amindivi,Cancelled,Scrapped,1969-10-01,1970-04-01,1976-01-01,1988-01-01
+pc-izumi,Idzumi,Bought,Scrapped,1894-11-15,,1894-11-15,1912-04-01
+pc-sai-yen,Sai Yen,Captured,Sunk,1895-03-26,,1895-03-26,1904-11-30
+pc-soya,Soya,Captured,Sold,1905-08-08,1905-08-08,1907-01-01,1916-04-01
+pc-suzuya,Suzuya,Captured,Scrapped,1906-07-16,1906-07-16,1908-12-01,1913-04-01
+pc-tsugaru,Tsugaru,Captured,Auxiliary,1905-01-02,1905-01-02,1910-05-01,1920-01-01
+pc-yodo,Yodo,Built,Auxiliary,1906-10-02,1907-11-19,1908-07-10,1927-01-01
+pc-mogami,Mogami,Built,Scrapped,1907-03-03,1908-03-25,1908-09-16,1928-01-01
+cl-yasoshima,Ioshima,Captured,Sunk,1937-12-05,1938-02-01,1944-06-28,1944-09-19
+cl-yasoshima,Yasoshima,Captured,Sunk,1937-12-05,1938-02-01,1944-06-10,1944-11-25
+pc-tsukushi,Tsukushi,Bought,Training,1883-06-16,,1883-06-16,1906-05-01
+up-takao,Takao,Built,Scrapped,1886-10-01,1888-10-15,1889-11-16,1911-04-01
+pc-yaeyama,Yaeyama,Built,Scrapped,1887-06-01,1889-03-01,1892-03-01,1906-01-01
+up-tatsuta,Tatsuta,Built,Auxiliary,1893-04-01,1894-04-06,1894-07-31,1918-01-01
+up-miyako,Miyako,Built,Sunk,1894-03-01,1898-10-01,1899-03-01,1904-05-14
+up-chihaya,Chihaya,Built,Scrapped,1898-05-01,1900-05-26,1901-09-01,1927-01-01
+de-yamasemi,Yamasemi,Captured,Scrapped,1937-12-01,,1937-12-01,1939-01-01
+fsg-laksamana-hang-hadim,KD Laksamana Hang Nadim,Bought,,1997-07-28,,1997-07-28,
+fsg-laksamana-hang-hadim,KD Laksamana Hang Nadim,Bought,,1997-07-28,,1997-07-28,
+fsg-laksamana-hang-hadim,KD Laksamana Muhammad Amin,Bought,,1999-07-31,,1999-07-31,
+fsg-laksamana-hang-hadim,KD Laksamana Tan Pusmah,Bought,,1999-07-31,,1999-07-31,
+de-bath,HNoMS Bath,Bought,Sunk,1941-04-01,,1941-04-01,1941-08-19
+de-bath,HNoMS Mansfield,Bought,Sold,1942-06-01,,1942-06-01,1942-02-01
+de-bath,HNoMS Newport,Bought,Sold,1940-12-01,,1940-12-01,1942-06-01
+de-st-albans,HNoMS St. Albans,Bought,Sold,1941-10-01,,1941-10-01,1944-02-01
+de-lincoln,HNoMS Lincoln,Bought,Sold,1941-04-01,,1941-04-01,1944-02-01
+dd-stord,HNoMS Stord,Built,Scrapped,1942-02-01,1943-04-03,1943-09-01,1959-01-01
+dd-stord,HNoMS Svenner,Built,Sunk,1941-11-01,1943-06-01,1944-03-01,1944-06-06
+dd-oslo,HNoMS Oslo,Bought,Scrapped,1947-04-01,,1947-04-01,1966-01-01
+dd-oslo,HNoMS Bergen,Bought,Scrapped,1946-09-01,,1946-09-01,1967-01-01
+dd-oslo,HNoMS Trondheim,Bought,Scrapped,1945-11-01,,1945-11-01,1967-05-01
+dd-oslo,HNoMS Stavanger,Bought,Scrapped,1946-02-01,,1946-02-01,1967-01-01
+up-lima,Lima,Bought,Auxiliary,1881-01-01,1881-01-01,1888-12-01,1926-01-01
+up-lima,Callao,Bought,Sold,1881-01-01,1881-01-01,,1898-04-01
+cl-almirante-grau-1959,Almirante Grau,Bought,Scrapped,1959-12-19,,1959-12-19,1980-05-01
+cl-almirante-grau-1959,Coronel Bolognesi,Bought,Scrapped,1960-02-09,,1960-02-09,1982-05-01
+cl-almirante-grau-1973,Almirante Grau,Bought,Scrapped,1973-03-07,,1973-03-07,2017-09-01
+cl-aguirre,Aguirre,Bought,Scrapped,1976-08-01,,1976-08-01,1999-03-01
+dd-teniente-rodriguez,Teniente Rodriguez,Bought,Auxiliary,1911-01-01,,1911-01-01,1939-01-01
+dd-almirante-villar,Almirante Villar,Bought,Auxiliary,1933-07-01,,1933-07-01,1952-01-01
+dd-almirante-guise,Almirante Guise,Bought,Scrapped,1933-07-01,,1933-07-01,1949-05-01
+dd-villar,Villar,Bought,Scrapped,1961-10-08,,1961-10-08,1980-01-01
+dd-villar,Almirante Guise,Bought,Scrapped,1960-12-15,,1960-12-15,1981-01-01
+dd-palacios,Palacios,Bought,Scrapped,1969-12-01,,1969-12-01,1993-01-01
+dd-palacios,Ferre,Bought,Scrapped,1969-12-01,,1969-12-01,2007-07-01
+dd-garcia-y-garcia,Garcia y Garcia,Bought,Scrapped,1978-01-02,,1978-01-02,1986-01-01
+dd-coronel-bolognesi,Colonel Bolognesi,Bought,Scrapped,1982-06-14,,1982-06-14,1990-01-01
+dd-coronel-bolognesi,Castilla,Bought,Scrapped,1980-10-06,,1980-10-06,1990-01-01
+dd-coronel-bolognesi,Guise,Bought,Scrapped,1981-07-11,,1981-07-11,1985-08-01
+dd-coronel-bolognesi,Capitan Quinones,Bought,Scrapped,1980-06-27,,1980-06-27,1992-01-01
+dd-coronel-bolognesi,Villar,Bought,Scrapped,1980-05-19,,1980-05-19,1991-01-01
+dd-coronel-bolognesi,Galvez,Bought,Scrapped,1981-02-02,,1981-02-02,1991-01-01
+dd-coronel-bolognesi,Diez Canseco,Bought,Scrapped,1981-07-11,,1981-07-11,1991-01-01
+ff-teniente-galvez,Teniente Galvez,Bought,Scrapped,1947-05-01,,1947-05-01,1961-01-01
+ff-teniente-ferre,Teniente Ferre,Bought,Scrapped,1947-05-01,,1947-05-01,1966-01-01
+ff-teniente-ferre,Teniente Palacios,Bought,Scrapped,1947-05-01,,1947-05-01,1966-01-01
+ff-aguirre,Castilla,Bought,Scrapped,1951-10-26,,1951-10-26,1979-01-01
+ff-aguirre,Aguirre,Bought,Target,1951-10-26,,1951-10-26,1974-01-01
+ff-aguirre,Rodriguez,Bought,Scrapped,1951-10-26,,1951-10-26,1979-01-01
+ffg-carvajal,Carvajal,Built,Auxiliary,1974-10-08,1976-11-13,1978-12-23,2013-12-01
+ffg-carvajal,Villavicencio,Built,,1976-10-06,1978-02-07,1979-06-25,
+ffg-carvajal,Montero,Built,,1978-10-01,1982-10-08,1984-07-25,
+ffg-carvajal,Mariategui,Built,,1979-12-01,1984-10-08,1987-12-28,
+ffg-aguirre-2004,Aguirre,Bought,,2004-11-03,,2004-11-03,
+ffg-aguirre-2004,Palacios,Bought,,2004-11-03,,2004-11-03,
+ffg-aguirre-2004,Bolognesi,Bought,,2006-01-23,,2006-01-23,
+ffg-aguirre-2004,Quiñones,Bought,,2006-01-23,,2006-01-23,
+fs-galvez,Galvez,Bought,Auxiliary,1960-11-01,,1960-11-01,1975-01-01
+fs-galvez,Diez Canseco,Bought,Auxiliary,1960-11-01,,1960-11-01,1975-01-01
+cl-dragon,Dragon,Bought,Sunk,1943-01-15,,1943-01-15,1944-07-08
+cl-conrad,Conrad,Bought,Sold,1944-10-04,,1944-10-04,1946-09-28
+dd-garland,Garland,Bought,Sold,1940-05-01,,1940-05-01,1946-09-01
+dd-ouragan,Ouragan,Captured,Sold,1940-07-01,,1940-07-01,1941-04-01
+dd-piorun,Piorun,Bought,Sold,1940-11-01,,1940-11-01,1946-09-01
+dd-orkan,Orkan,Bought,Auxiliary,1942-11-01,,1942-11-01,1943-10-08
+dd-wicher,Grom,Bought,Scrapped,1957-12-15,,1957-12-15,1972-01-01
+dd-wicher,Wicher,Bought,Scrapped,1958-06-29,,1958-06-29,1974-01-01
+ddg-warszawa,Warszawa,Bought,Scrapped,1970-06-25,,1970-06-25,1986-01-01
+ddg-warszawa-1988,Warszawa,Bought,Scrapped,1988-01-09,,1988-01-09,2003-12-01
+bb-arkhangelsk,Arkhangelsk,Bought,Sold,1944-05-30,,1944-05-30,1949-02-01
+bb-novorossiysk,Novorossiysk,Captured,Sunk,1949-02-06,,1949-02-06,1955-10-30
+pc-prut,Prut,Captured,Captured,1915-05-31,1915-05-31,1916-02-25,1918-05-01
+cl-murmansk,Murmansk,Bought,Sold,1944-03-09,,1944-03-09,1949-03-01
+cl-admiral-makarov,Admiral Makarov,Captured,Scrapped,1946-01-02,,1946-01-02,1959-02-01
+cl-kerch,Kerch',Captured,Auxiliary,1949-03-02,,1949-03-02,1958-03-01
+up-yaroslavl,Yaroslavl',Bought,Scrapped,1882-04-30,,1882-04-30,1907-04-01
+pc-novik,Novik,Built,Sunk,1900-03-12,1900-08-15,1901-12-17,1904-08-20
+pc-boyarin,Boyarin,Built,Sunk,1900-09-06,1901-06-08,1902-08-30,1904-02-13
+pc-zhemchug,Zhemchug,Built,Sunk,1902-06-27,1903-09-09,1904-10-01,1914-10-28
+pc-izumrud,Izumrud,Built,Sunk,1902-06-27,1903-10-22,1904-10-01,1905-05-29
+dd-zharkiy,Zharkiy,Bought,Sold,1944-07-01,,1944-07-01,1949-02-01
+dd-zharkiy,Druzhnyy,Bought,Sold,1944-08-01,,1944-08-01,1952-08-01
+dd-zhguchiy,Zhguchiy,Bought,Sold,1944-07-01,,1944-07-01,1950-01-01
+dd-zhivuchiy,Zhivuchiy,Bought,Sold,1944-07-01,,1944-07-01,1949-06-01
+dd-zhivuchiy,Zhostkiy,Bought,Sold,1944-08-01,,1944-08-01,1949-02-01
+dd-zhivuchiy,Derzkiy,Bought,Sold,1944-07-01,,1944-07-01,1949-06-01
+dd-zhivuchiy,Doblestnyy,Bought,Sold,1944-08-01,,1944-08-01,1952-08-01
+dd-dostoynyy,Dostoynyy,Bought,Sold,1944-07-01,,1944-07-01,1949-02-01
+dd-dyeyatelnyy,Dyeyatelnyy,Bought,Sunk,1944-07-01,,1944-07-01,1945-01-16
+dd-letuchiy,Letuchiy,Captured,Sold,1944-08-01,,1944-08-01,1951-07-01
+dd-letuchiy,Likhoy,Captured,Sold,1944-08-01,,1944-08-01,1951-07-01
+dd-liogkiy,Liogkiy,Captured,Sold,1944-08-01,,1944-08-01,1945-10-01
+dd-liogkiy,Lovkiy,Captured,Sold,1944-08-01,,1944-08-01,1945-10-01
+dd-prytkiy,Prytkiy,Captured,Scrapped,1946-02-01,,1946-02-01,1952-03-01
+dd-prytkiy,Pylkiy,Captured,Auxiliary,1946-01-01,,1946-01-01,1949-04-01
+dd-prochnyy,Prochnyy,Captured,Auxiliary,1946-02-01,,1946-02-01,1954-11-01
+dd-provornyy,Provornyy,Captured,Target,1946-01-01,,1946-01-01,1958-03-01
+dd-vernyy,Vernyy,Captured,Training,1947-07-07,,1947-07-07,1948-07-01
+de-volevoy,Vozrozhdyonnyy,Captured,Target,1947-07-29,,1947-07-29,1949-06-01
+de-volevoy,Volevoy,Captured,Target,1947-07-07,,1947-07-07,1949-06-01
+de-vol-nyy,Vol'nyy,Captured,Target,1947-07-07,,1947-07-07,1949-06-01
+de-vol-nyy,Vetrenyy,Captured,Target,1947-07-07,,1947-07-07,1949-06-01
+dd-vnezapnyy,Vnezapnyy,Captured,Training,1947-08-28,,1947-08-28,1949-06-01
+dd-lovkiy,Lovkiy,Captured,Target,1949-01-23,,1949-01-23,1954-11-01
+dd-lovkiy,Liogkiy,Captured,Target,1950-02-01,,1950-02-01,1954-11-01
+up-aragon,Aragon,Built,Scrapped,1877-01-01,1879-01-01,1881-01-01,1905-01-01
+up-aragon,Navarra,Built,Training,1879-01-01,1881-01-01,1889-01-01,1899-01-01
+up-aragon,Castilla,Built,Auxiliary,1979-01-01,1881-01-01,1886-01-01,1898-05-01
+up-velasco,Velasco,Built,Sunk,1979-01-01,1881-01-01,1881-12-01,1898-05-01
+up-velasco,Gravina,Built,Sunk,1979-01-01,1881-01-01,1881-12-01,1884-07-10
+up-infanta-isabel,Infanta Isabel,Built,Scrapped,1883-01-01,1885-06-26,1888-01-01,1926-01-01
+up-infanta-isabel,Isabel II,Built,Scrapped,1883-01-01,1886-02-19,1888-01-01,1902-01-01
+up-infanta-isabel,Cristobal Colon,Built,Sunk,1883-06-01,1887-01-01,1889-01-01,1895-09-29
+up-infanta-isabel,Don Juan de Austria,Built,Sunk,1883-06-01,1887-01-23,1889-01-01,1898-05-01
+up-infanta-isabel,Don Antonio de Ulloa,Built,Sunk,1883-06-01,1887-01-23,1889-01-01,1898-05-01
+up-infanta-isabel,Conde de Venadito,Built,Scrapped,1884-10-05,1888-08-20,1891-08-12,1902-07-01
+up-alfonso-xii,Alfonso XII,Built,Scrapped,1881-08-12,1887-08-21,1891-07-06,1900-01-01
+up-alfonso-xii,Reina Cristina,Built,Sunk,1881-08-12,1886-05-02,1890-04-19,1898-05-01
+up-alfonso-xii,Reina Mercedes,Built,Sunk,1881-08-12,1887-09-12,1892-01-01,1898-07-04
+bc-yavuz-sultan-selim,Yavuz Sultan Selim,Bought,Scrapped,1914-08-16,,1914-08-16,1954-11-01
+cl-midilli,Midilli,Bought,Sunk,1914-08-16,,1914-08-16,1918-01-20
+up-lutf-u-humayun,Lutf-u Humayun,Built,Scrapped,1882-01-01,1892-08-16,1896-10-01,1908-01-01
+dd-muavenet-i-milliye,Muavenet-i Milliye,Bought,Scrapped,1910-08-01,,1910-08-01,1918-10-01
+dd-muavenet-i-milliye,Yadigar-i Millet,Bought,Sunk,1910-08-01,,1910-08-01,1917-07-10
+dd-muavenet-i-milliye,Numune-Hamiyet,Bought,Scrapped,1910-08-01,,1910-08-01,1918-10-01
+dd-muavenet-i-milliye,Gayret-i Vataniye,Bought,Sunk,1910-08-01,,1910-08-01,1916-08-27

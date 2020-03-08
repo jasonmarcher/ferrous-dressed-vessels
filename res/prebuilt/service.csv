@@ -147,8 +147,8 @@ bb-oklahoma,USS Oklahoma,usa,Active,,1916-05-02,1927-09-01
 bb-oklahoma-mod1,USS Oklahoma,usa,Active,,1929-07-01,1941-12-07
 bb-new-mexico,USS Idaho,usa,Active,,1919-03-24,1946-07-03
 bb-new-mexico,USS Idaho,usa,Reserve,,1946-07-03,1947-02-25
-bb-new-mexico,USS Mississippi,usa,Active,,1917-12-18,1946-02-15
-bb-new-mexico,USS Mississippi,usa,Training,,1946-02-15,1956-09-17
+bb-mississippi,USS Mississippi,usa,Active,,1917-12-18,1946-02-15
+bb-mississippi,USS Mississippi,usa,Training,,1946-02-15,1956-09-17
 bb-new-mexico,USS New Mexico,usa,Active,,1918-05-20,1946-07-19
 bb-new-mexico,USS New Mexico,usa,Reserve,,1946-07-19,1947-02-25
 bb-new-york,USS New York,usa,Active,,1914-05-15,1946-08-29
@@ -761,11 +761,11 @@ bb-espana,Espana,spain,Active,,1913-10-23,1923-08-26
 bb-espana,Alfonso XIII,spain,Active,,1915-08-16,1937-04-30
 bb-espana,Jaime I,spain,Active,,1921-12-20,1937-06-07
 cds-svea,HSwMS Svea,sweden,Active,,1886-09-20,1920-01-01
-cds-svea,HSwMS Gota,sweden,Active,,1891-06-01,1927-10-01
-cds-svea,HSwMS Thule,sweden,Active,,1893-12-01,1928-08-01
+cds-gota,HSwMS Gota,sweden,Active,,1891-06-01,1927-10-01
+cds-thule,HSwMS Thule,sweden,Active,,1893-12-01,1928-08-01
 cds-oden,HSwMS Oden,sweden,Active,,1897-06-08,1937-01-01
-cds-oden,HSwMS Thor,sweden,Active,,1899-06-29,1937-01-01
-cds-oden,HSwMS Niord,sweden,Active,,1899-02-23,1926-01-01
+cds-thor,HSwMS Thor,sweden,Active,,1899-06-29,1937-01-01
+cds-thor,HSwMS Niord,sweden,Active,,1899-02-23,1926-01-01
 cds-dristigheten,HSwMS Dristigheten,sweden,Active,,1901-09-05,1947-06-01
 cds-aran,HSwMS Aran,sweden,Active,,1902-09-07,1947-06-01
 cds-aran,HSwMS Wasa,sweden,Active,,1902-12-06,1940-03-01
@@ -872,8 +872,8 @@ cl-brooklyn,USS Nashville,usa,Active,Sold,1938-11-25,1946-06-24
 cl-brooklyn,USS Phoenix,usa,Active,Sold,1939-03-18,1946-07-03
 cl-brooklyn,USS Boise,usa,Active,Sold,1939-02-01,1946-07-01
 cl-brooklyn,USS Honolulu,usa,Active,Reserve,1938-09-07,1947-02-03
-cl-brooklyn,USS St. Louis,usa,Active,Sold,1939-12-01,1946-06-20
-cl-brooklyn,USS Helena,usa,Active,Sunk,1939-12-14,1943-07-06
+cl-st-louis,USS St. Louis,usa,Active,Sold,1939-12-01,1946-06-20
+cl-st-louis,USS Helena,usa,Active,Sunk,1939-12-14,1943-07-06
 ca-wichita,USS Wichita,usa,Active,Reserve,1939-02-16,1947-02-03
 cl-atlanta,USS Atlanta,usa,Active,Sunk,1941-12-24,1942-11-13
 cl-atlanta,USS Juneau,usa,Active,Sunk,1942-02-14,1942-11-13
@@ -979,7 +979,7 @@ ca-des-moines,USS Newport News,usa,Active,,1949-01-29,1975-06-27
 pc-cincinnati,USS Cincinnati,usa,Active,,1894-06-16,1921-08-01
 pc-cincinnati,USS Raleigh,usa,Active,,1894-04-17,1921-08-01
 pc-columbia,USS Columbia,usa,Active,,1894-04-23,1922-01-01
-pc-columbia,USS Minneapolis,usa,Active,,1894-12-13,1921-08-01
+pc-minneapolis,USS Minneapolis,usa,Active,,1894-12-13,1921-08-01
 pc-leander,HMS Leander,britain,Active,,1885-05-29,1904-01-01
 pc-leander,HMS Arethusa,britain,Active,,1887-09-29,1905-05-01
 pc-leander,HMS Phaeton,britain,Active,,1886-04-20,1909-01-01
@@ -1177,9 +1177,9 @@ cl-arethusa-1913,HMS Phaeton,britain,Active,,1915-02-01,1923-01-01
 cl-arethusa-1913,HMS Royalist,britain,Active,,1915-03-01,1922-08-01
 cl-calliope,HMS Calliope,britain,Active,,1915-06-01,1931-08-01
 cl-calliope,HMS Champion,britain,Active,,1915-12-01,1934-07-01
-cl-cambrian,HMS Castor,britain,Active,,1915-11-01,1936-07-01
-cl-cambrian,HMS Constance,britain,Active,,1916-01-01,1936-01-01
-cl-cambrian,HMS Canterbury,britain,Active,,1916-05-01,1934-07-01
+cl-castor,HMS Castor,britain,Active,,1915-11-01,1936-07-01
+cl-castor,HMS Constance,britain,Active,,1916-01-01,1936-01-01
+cl-castor,HMS Canterbury,britain,Active,,1916-05-01,1934-07-01
 cl-cambrian,HMS Cambrian,britain,Active,,1916-05-01,1934-07-01
 cl-caroline,HMS Cordelia,britain,Active,,1915-01-01,1923-07-01
 cl-caroline,HMS Caroline,britain,Active,,1914-12-01,1924-02-01
@@ -1202,8 +1202,9 @@ cl-ceres,HMS Cardiff,britain,Active,,1917-07-01,1946-01-01
 cl-ceres,HMS Curacoa,britain,Active,,1918-02-01,1942-10-02
 cl-ceres,HMS Curlew,britain,Active,,1917-12-01,1940-05-26
 cl-ceres,HMS Coventry,britain,Active,,1918-02-01,1942-09-14
-cl-danae,HMS Dragon,britain,Active,,1918-08-01,1943-01-15
-cl-danae,HMS Danae,britain,Active,,1918-06-01,1948-01-01
+cl-danae,HMS Dragon,britain,Active,Sold,1918-08-01,1943-01-15
+cl-danae,HMS Danae,britain,Active,Sold,1918-06-01,1944-10-04
+cl-danae,HMS Danae,britain,Active,,1946-09-28,1948-01-01
 cl-danae,HMS Dauntless,britain,Active,,1918-11-01,1946-02-01
 cl-danae,HMS Delhi,britain,Active,,1919-05-01,1948-01-01
 cl-danae,HMS Dunedin,britain,Active,,1919-09-01,1941-11-24
@@ -1307,15 +1308,15 @@ pc-seeadler,SMS Seeadler,germany,Active,,1892-06-27,1914-01-01
 pc-seeadler,SMS Condor,germany,Active,,1892-12-09,1916-01-01
 pc-seeadler,SMS Cormoran,germany,Active,,1893-07-25,1914-09-28
 cl-gazelle,SMS Gazelle,germany,Active,,1900-10-06,1916-01-01
-cl-gazelle,SMS Niobe,germany,Active,,1900-06-25,1917-01-01
-cl-gazelle,SMS Nymphe,germany,Active,,1900-09-20,1931-03-01
-cl-gazelle,SMS Thetis,germany,Active,,1901-09-14,1929-09-01
-cl-gazelle,SMS Ariadne,germany,Active,,1901-05-18,1914-08-28
-cl-gazelle,SMS Amazone,germany,Active,,1901-11-15,1931-03-01
-cl-gazelle,SMS Medusa,germany,Active,,1901-07-26,1917-01-01
-cl-gazelle,SMS Frauenlob,germany,Active,,1903-02-17,1916-03-31
-cl-gazelle,SMS Arcona,germany,Active,,1903-05-12,1919-01-01
-cl-gazelle,SMS Undine,germany,Active,,1904-01-05,1915-11-07
+cl-niobe,SMS Niobe,germany,Active,,1900-06-25,1917-01-01
+cl-niobe,SMS Nymphe,germany,Active,,1900-09-20,1931-03-01
+cl-niobe,SMS Thetis,germany,Active,,1901-09-14,1929-09-01
+cl-niobe,SMS Ariadne,germany,Active,,1901-05-18,1914-08-28
+cl-niobe,SMS Amazone,germany,Active,,1901-11-15,1931-03-01
+cl-niobe,SMS Medusa,germany,Active,,1901-07-26,1917-01-01
+cl-niobe,SMS Frauenlob,germany,Active,,1903-02-17,1916-03-31
+cl-niobe,SMS Arcona,germany,Active,,1903-05-12,1919-01-01
+cl-niobe,SMS Undine,germany,Active,,1904-01-05,1915-11-07
 pc-gefion,SMS Gefion,germany,Active,,1894-06-27,1916-01-01
 pc-hela,SMS Hela,germany,Active,,1896-05-03,1914-09-13
 pc-geier,SMS Geier,germany,Active,,1895-10-24,1917-04-06
@@ -1383,7 +1384,7 @@ pc-tiger,SMS Tiger,ahn,Active,,1888-03-01,1906-01-01
 pc-kaiser-franz-joseph-i,SMS Kaiser Franz Joseph I,ahn,Active,,1890-07-02,1917-01-01
 pc-kaiser-franz-joseph-i,SMS Kaiserin Elisabeth,ahn,Active,,1892-01-24,1914-11-02
 ac-kaiserin-und-konigin-maria-theresia,SMS Kaiserin und Konigin Maria Theresia,ahn,Active,,1894-11-01,1917-02-01
-ac-kaiser-karl-iv,SMS Kaiser Karl VI,ahn,Active,,1900-05-23,1920-01-01
+ac-kaiser-karl-vi,SMS Kaiser Karl VI,ahn,Active,,1900-05-23,1920-01-01
 pc-zenta,SMS Zenta,ahn,Active,,1899-05-28,1914-08-16
 pc-zenta,SMS Aspern,ahn,Active,,1900-05-29,1918-01-01
 pc-zenta,SMS Szigetvar,ahn,Active,,1901-09-30,1918-01-01
@@ -1538,10 +1539,16 @@ ca-takao,Takao,japan,Active,Surrendered,1932-05-31,1945-08-01
 ca-takao,Atago,japan,Active,Sunk,1932-03-30,1944-10-23
 ca-takao,Maya,japan,Active,Sunk,1932-06-30,1944-10-23
 ca-takao,Chokai,japan,Active,Sunk,1932-06-30,1944-10-25
-cl-mogami,Mogami,japan,Active,Sunk,1935-07-28,1944-10-25
-cl-mogami,Mikuma,japan,Active,Sunk,1935-08-29,1942-06-06
-cl-mogami,Suzuya,japan,Active,Sunk,1937-10-31,1944-10-25
-cl-mogami,Kumano,japan,Active,Sunk,1937-10-31,1944-11-25
+cl-mogami,Mogami,japan,Active,Modernized,1935-07-28,1938-02-01
+cl-suzuya,Mogami,japan,Active,Convertted,1938-02-01,1939-01-01
+ca-mogami,Mogami,japan,Active,Sunk,1940-04-01,1944-10-25
+cl-mogami,Mikuma,japan,Active,Modernized,1935-08-29,1937-10-01
+cl-suzuya,Mikuma,japan,Active,Convertted,1937-10-01,1939-01-01
+ca-mogami,Mikuma,japan,Active,Sunk,1940-04-01,1942-06-06
+cl-suzuya,Suzuya,japan,Active,Convertted,1937-10-31,1939-01-01
+ca-mogami,Suzuya,japan,Active,Sunk,1940-04-01,1944-10-25
+cl-suzuya,Kumano,japan,Active,Convertted,1937-10-31,1939-01-01
+ca-mogami,Kumano,japan,Active,Sunk,1940-04-01,1944-11-25
 ca-tone,Tone,japan,Active,Sunk,1938-11-20,1945-07-24
 ca-tone,Chikuma,japan,Active,Sunk,1939-05-20,1944-10-25
 cl-agano,Agano,japan,Active,Sunk,1942-10-31,1944-02-17
@@ -1702,13 +1709,13 @@ pc-askold,Askold,russia,Active,Interned,1901-09-21,1904-08-13
 pc-askold,Askold,russia,Interned,Active,1904-08-13,1905-05-01
 pc-askold,Askold,russia,Active,Captured,1905-05-01,1918-07-12
 pc-bogatyr,Bogatyr,russia,Active,Sold,1902-08-20,1922-07-01
-pc-bogatyr,Oleg,russia,Active,Interned,1904-10-25,1905-06-01
-pc-bogatyr,Oleg,russia,Interned,Returned,1905-06-01,1905-11-01
-pc-bogatyr,Oleg,russia,Active,Sunk,1905-11-01,1919-06-18
-pc-bogatyr,Kagul,russia,Active,Reserve,1905-01-01,1918-03-01
-pc-bogatyr,Kagul,russia,Reserve,Active,1918-03-01,1923-11-01
-pc-bogatyr,Kagul,russia,Active,Auxiliary,1923-11-01,1941-06-01
-pc-bogatyr,Pamiat Merkuriya,russia,Active,Captured,1909-06-23,1918-05-01
+pc-oleg,Oleg,russia,Active,Interned,1904-10-25,1905-06-01
+pc-oleg,Oleg,russia,Interned,Returned,1905-06-01,1905-11-01
+pc-oleg,Oleg,russia,Active,Sunk,1905-11-01,1919-06-18
+pc-kagul,Kagul,russia,Active,Reserve,1905-01-01,1918-03-01
+pc-kagul,Kagul,russia,Reserve,Active,1918-03-01,1923-11-01
+pc-kagul,Kagul,russia,Active,Auxiliary,1923-11-01,1941-06-01
+pc-kagul,Pamiat Merkuriya,russia,Active,Captured,1909-06-23,1918-05-01
 ac-admiral-makarov,Admiral Makarov,russia,Active,Sold,1908-05-29,1922-08-01
 ac-admiral-makarov,Pallada,russia,Active,Sunk,1911-02-21,1914-10-11
 ac-admiral-makarov,Bayan,russia,Active,Sold,1911-12-13,1922-07-01
@@ -1853,20 +1860,20 @@ dd-cassin,USS Cassin,usa,Active,Reserve,1913-07-01,1922-03-29
 dd-cassin,USS Cassin,usa,Reserve,Scrapped,1922-03-29,1934-07-05
 dd-cassin,USS Cummings,usa,Active,Reserve,1913-09-01,1922-06-23
 dd-cassin,USS Cummings,usa,Reserve,Scrapped,1922-06-23,1934-07-05
-dd-cassin,USS Downes,usa,Active,Reserve,1915-02-01,1922-06-06
-dd-cassin,USS Downes,usa,Reserve,Scrapped,1922-06-06,1922-06-06
-dd-cassin,USS Duncan,usa,Active,Reserve,1913-08-01,1922-08-01
-dd-cassin,USS Duncan,usa,Reserve,Scrapped,1922-08-01,1935-03-08
-dd-cassin,USS Aylwin,usa,Active,Reserve,1914-01-01,1914-04-01
-dd-cassin,USS Aylwin,usa,Reserve,Active,1914-04-01,1915-05-25
-dd-cassin,USS Aylwin,usa,Active,Reserve,1915-05-25,1921-02-23
-dd-cassin,USS Aylwin,usa,Reserve,Scrapped,1921-02-23,1935-03-08
-dd-cassin,USS Parker,usa,Active,Reserve,1913-12-01,1922-06-06
-dd-cassin,USS Parker,usa,Reserve,Scrapped,1922-06-06,1935-03-08
-dd-cassin,USS Benham,usa,Active,Reserve,1914-01-01,1922-07-07
-dd-cassin,USS Benham,usa,Reserve,Scrapped,1922-07-07,1935-03-08
-dd-cassin,USS Balch,usa,Active,Reserve,1914-03-01,1922-06-20
-dd-cassin,USS Balch,usa,Reserve,Scrapped,1922-06-20,1935-03-08
+dd-downes,USS Downes,usa,Active,Reserve,1915-02-01,1922-06-06
+dd-downes,USS Downes,usa,Reserve,Scrapped,1922-06-06,1922-06-06
+dd-downes,USS Duncan,usa,Active,Reserve,1913-08-01,1922-08-01
+dd-downes,USS Duncan,usa,Reserve,Scrapped,1922-08-01,1935-03-08
+dd-downes,USS Aylwin,usa,Active,Reserve,1914-01-01,1914-04-01
+dd-downes,USS Aylwin,usa,Reserve,Active,1914-04-01,1915-05-25
+dd-downes,USS Aylwin,usa,Active,Reserve,1915-05-25,1921-02-23
+dd-downes,USS Aylwin,usa,Reserve,Scrapped,1921-02-23,1935-03-08
+dd-downes,USS Parker,usa,Active,Reserve,1913-12-01,1922-06-06
+dd-downes,USS Parker,usa,Reserve,Scrapped,1922-06-06,1935-03-08
+dd-downes,USS Benham,usa,Active,Reserve,1914-01-01,1922-07-07
+dd-downes,USS Benham,usa,Reserve,Scrapped,1922-07-07,1935-03-08
+dd-downes,USS Balch,usa,Active,Reserve,1914-03-01,1922-06-20
+dd-downes,USS Balch,usa,Reserve,Scrapped,1922-06-20,1935-03-08
 dd-o-brien,USS O'Brien,usa,Active,Reserve,1915-05-01,1922-06-05
 dd-o-brien,USS O'Brien,usa,Reserve,Scrapped,1922-06-05,1935-03-08
 dd-o-brien,USS Nicholson,usa,Active,Reserve,1915-04-01,1922-05-26
@@ -2025,25 +2032,30 @@ dd-benham,USS Sterett,usa,Active,Reserve,1939-08-01,1945-11-02
 dd-benham,USS Sterett,usa,Reserve,Scrapped,1945-11-02,1947-02-01
 dd-benham,USS Wilson,usa,Active,Target,1939-07-01,1946-08-29
 dd-benham,USS Wilson,usa,Target,Sunk,1946-08-29,1948-03-08
-dd-sims,USS Sims,usa,Active,Sunk,1939-08-01,1942-05-07
-dd-sims,USS Hughes,usa,Active,Target,1939-09-01,1946-08-28
-dd-sims,USS Hughes,usa,Target,Sunk,1946-08-28,1948-10-16
-dd-sims,USS Anderson,usa,Active,Target,1939-05-01,1946-08-28
-dd-sims,USS Anderson,usa,Target,Sunk,1946-08-28,1946-07-01
-dd-sims,USS Hammann,usa,Active,Sunk,1939-08-01,1942-06-06
-dd-sims,USS Mustin,usa,Active,Target,1939-09-01,1946-08-29
-dd-sims,USS Mustin,usa,Target,Sunk,1946-08-29,1948-04-18
-dd-sims,USS Russell,usa,Active,Reserve,1939-11-01,1945-11-01
-dd-sims,USS Russell,usa,Reserve,Scrapped,1945-11-01,1947-09-01
-dd-sims,USS O`Brien,usa,Active,Sunk,1940-03-01,1942-10-19
-dd-sims,USS Walke,usa,Active,Sunk,1940-04-01,1942-11-14
-dd-sims,USS Morris,usa,Active,Reserve,1940-03-01,1945-04-06
-dd-sims,USS Morris,usa,Reserve,Scrapped,1945-04-06,1947-08-02
-dd-sims,USS Roe,usa,Active,Reserve,1940-01-01,1945-11-01
-dd-sims,USS Roe,usa,Reserve,Scrapped,1945-11-01,1947-08-02
-dd-sims,USS Wainwright,usa,Active,Target,1940-04-01,1946-08-29
-dd-sims,USS Wainwright,usa,Target,Sunk,1946-08-29,1948-07-02
-dd-sims,USS Buck,usa,Active,Sunk,1940-05-01,1943-10-09
+dd-sims,USS Sims,usa,Active,Modernized,1939-08-01,1940-07-01
+dd-russell,USS Sims,usa,Active,Sunk,1940-07-01,1942-05-07
+dd-sims,USS Hughes,usa,Active,Modernized,1939-09-01,1940-07-01
+dd-russell,USS Hughes,usa,Active,Target,1940-07-01,1946-08-28
+dd-russell,USS Hughes,usa,Target,Sunk,1946-08-28,1948-10-16
+dd-sims,USS Anderson,usa,Active,Modernized,1939-05-01,1940-07-01
+dd-russell,USS Anderson,usa,Active,Target,1940-07-01,1946-08-28
+dd-russell,USS Anderson,usa,Target,Sunk,1946-08-28,1946-07-01
+dd-sims,USS Hammann,usa,Active,Modernized,1939-08-01,1940-07-01
+dd-russell,USS Hammann,usa,Active,Sunk,1940-07-01,1942-06-06
+dd-sims,USS Mustin,usa,Active,Modernized,1939-09-01,1940-07-01
+dd-russell,USS Mustin,usa,Active,Target,1940-07-01,1946-08-29
+dd-russell,USS Mustin,usa,Target,Sunk,1946-08-29,1948-04-18
+dd-russell,USS Russell,usa,Active,Reserve,1939-11-01,1945-11-01
+dd-russell,USS Russell,usa,Reserve,Scrapped,1945-11-01,1947-09-01
+dd-russell,USS O`Brien,usa,Active,Sunk,1940-03-01,1942-10-19
+dd-russell,USS Walke,usa,Active,Sunk,1940-04-01,1942-11-14
+dd-russell,USS Morris,usa,Active,Reserve,1940-03-01,1945-04-06
+dd-russell,USS Morris,usa,Reserve,Scrapped,1945-04-06,1947-08-02
+dd-russell,USS Roe,usa,Active,Reserve,1940-01-01,1945-11-01
+dd-russell,USS Roe,usa,Reserve,Scrapped,1945-11-01,1947-08-02
+dd-russell,USS Wainwright,usa,Active,Target,1940-04-01,1946-08-29
+dd-russell,USS Wainwright,usa,Target,Sunk,1946-08-29,1948-07-02
+dd-russell,USS Buck,usa,Active,Sunk,1940-05-01,1943-10-09
 dd-benson,USS Benson,usa,Active,Reserve,1940-07-01,1946-03-18
 dd-benson,USS Benson,usa,Reserve,Sold,1946-03-18,1954-02-01
 dd-benson,USS Mayo,usa,Active,Reserve,1940-09-01,1946-03-18
@@ -3196,12 +3208,15 @@ dd-gearing,USS William M. Wood,usa,Active,Modernized,1945-11-01,1965-03-01
 dd-gearing,USS Wiltsie,usa,Active,Modernized,1946-01-01,1962-09-01
 dd-gearing,USS Theodore E. Chandler,usa,Active,Modernized,1946-03-01,1962-01-01
 dd-gearing,USS Hamner,usa,Active,Modernized,1946-07-01,1962-11-01
-dd-gearing,USS Frank Knox,usa,Active,Modernized,1944-12-01,1961-05-01
-dd-gearing,USS Southerland,usa,Active,Modernized,1944-12-01,1964-10-01
+dd-frank-knox,USS Frank Knox,usa,Active,Modernized,1944-12-01,1945-07-01
+dd-gearing,USS Frank Knox,usa,Active,Modernized,1945-07-01,1961-05-01
+dd-frank-knox,USS Southerland,usa,Active,Modernized,1944-12-01,1945-07-01
+dd-gearing,USS Southerland,usa,Active,Modernized,1945-07-01,1964-10-01
 dd-gearing,USS William C. Lawe,usa,Active,Modernized,1946-12-01,1961-11-01
 dd-gearing,USS Lloyd Thomas,usa,Active,Modernized,1947-03-01,1961-11-01
 dd-gearing,USS Keppler,usa,Active,Modernized,1947-05-01,1961-09-01
-dd-gearing,USS Rowan,usa,Active,Modernized,1945-03-01,1964-05-01
+dd-frank-knox,USS Rowan,usa,Active,Modernized,1945-03-01,1945-07-01
+dd-gearing,USS Rowan,usa,Active,Modernized,1945-07-01,1964-05-01
 dd-gearing,USS Gurke,usa,Active,Modernized,1945-05-01,1964-05-01
 dd-gearing,USS McKean,usa,Active,Modernized,1945-06-01,1964-11-01
 dd-gearing,USS Henderson,usa,Active,Modernized,1945-08-01,1962-04-01
@@ -3213,7 +3228,8 @@ dd-gearing,USS Shelton,usa,Active,Modernized,1946-06-01,1961-06-01
 dd-gearing,USS Chevalier,usa,Active,Modernized,1945-01-01,1962-08-01
 dd-gearing,USS Higbee,usa,Active,Modernized,1945-01-01,1964-02-01
 dd-gearing,USS Benner,usa,Active,Modernized,1945-02-01,1963-02-01
-dd-gearing,USS Dennis J. Buckley,usa,Active,Modernized,1945-03-01,1964-10-01
+dd-frank-knox,USS Dennis J. Buckley,usa,Active,Modernized,1945-03-01,1945-07-01
+dd-gearing,USS Dennis J. Buckley,usa,Active,Modernized,1945-07-01,1964-10-01
 dd-gearing,USS Corry,usa,Active,Modernized,1946-02-01,1964-09-01
 dd-gearing,USS New,usa,Active,Modernized,1946-04-01,1963-12-01
 dd-gearing,USS Holder,usa,Active,Modernized,1946-05-01,1963-10-01
@@ -3252,7 +3268,8 @@ dd-gearing,USS Fred T. Berry,usa,Active,Modernized,1945-05-01,1961-10-01
 dd-gearing,USS Norris,usa,Active,Modernized,1945-06-01,1961-10-01
 dd-gearing,USS McCaffery,usa,Active,Modernized,1945-07-01,1961-11-01
 dd-gearing,USS Harwood,usa,Active,Modernized,1945-09-01,1961-12-01
-dd-gearing,USS Vogelgesang,usa,Active,Modernized,1945-04-01,1963-01-01
+dd-frank-knox,USS Vogelgesang,usa,Active,Modernized,1945-04-01,1945-07-01
+dd-gearing,USS Vogelgesang,usa,Active,Modernized,1945-07-01,1963-01-01
 dd-gearing,USS Steinaker,usa,Active,Modernized,1945-05-01,1965-03-01
 dd-gearing,USS Harold J. Ellison,usa,Active,Modernized,1945-06-01,1963-01-01
 dd-gearing,USS Charles R. Ware,usa,Active,Modernized,1945-07-01,1962-01-01
@@ -3514,8 +3531,8 @@ ltb-g132,G133,germany,Active,Renamed,1906-12-01,1916-09-01
 ltb-g132,T133,germany,Active,Scrapped,1916-09-01,1921-03-01
 ltb-g132,G134,germany,Active,Renamed,1907-03-01,1916-09-01
 ltb-g132,T134,germany,Active,Scrapped,1916-09-01,1920-11-01
-ltb-g132,G135,germany,Active,Renamed,1907-01-01,1916-09-01
-ltb-g132,T135,germany,Active,Scrapped,1916-09-01,1921-05-01
+ltb-g135,G135,germany,Active,Renamed,1907-01-01,1916-09-01
+ltb-g135,T135,germany,Active,Scrapped,1916-09-01,1921-05-01
 ltb-g132,G136,germany,Active,Renamed,1907-03-01,1916-09-01
 ltb-g132,T136,germany,Active,Scrapped,1916-09-01,1921-07-01
 ltb-g137,G137,germany,Active,Renamed,1907-07-01,1916-09-01
@@ -3581,11 +3598,11 @@ ltb-g169,T172,germany,Active,Sunk,1917-09-01,1918-07-07
 ltb-g169,G173,germany,Active,Renamed,1910-01-01,1917-09-01
 ltb-g169,T173,germany,Active,Interned,1917-09-01,1918-11-01
 ltb-g169,T173,germany,Interned,Surrendered,1918-11-01,1920-09-01
-ltb-g169,G174,germany,Active,Renamed,1910-07-01,1918-02-01
-ltb-g169,T174,germany,Active,Interned,1918-02-01,1918-11-01
-ltb-g169,T174,germany,Interned,Surrendered,1918-11-01,1920-08-01
-ltb-g169,G175,germany,Active,Renamed,1910-12-01,1918-02-01
-ltb-g169,T175,germany,Active,Scrapped,1918-02-01,1926-09-01
+ltb-g174,G174,germany,Active,Renamed,1910-07-01,1918-02-01
+ltb-g174,T174,germany,Active,Interned,1918-02-01,1918-11-01
+ltb-g174,T174,germany,Interned,Surrendered,1918-11-01,1920-08-01
+ltb-g174,G175,germany,Active,Renamed,1910-12-01,1918-02-01
+ltb-g174,T175,germany,Active,Scrapped,1918-02-01,1926-09-01
 ltb-v161,V161,germany,Active,Renamed,1908-09-01,1917-09-01
 ltb-v161,T161,germany,Active,Interned,1917-09-01,1918-11-01
 ltb-v161,T161,germany,Interned,Surrendered,1918-11-01,1920-08-01
@@ -4056,8 +4073,8 @@ dd-aigle,Aigle,france,Active,Sunk,1932-11-01,1942-11-27
 dd-aigle,Gerfaut,france,Active,Sunk,1932-03-01,1942-11-27
 dd-aigle,Albatros,france,Active,Scrapped,1932-01-01,1959-09-01
 dd-aigle,Vautour,france,Active,Sunk,1932-06-01,1942-11-27
-dd-aigle,Epervier,france,Active,Sunk,1934-05-01,1942-11-09
-dd-aigle,Milan,france,Active,Sunk,1934-05-01,1942-11-08
+dd-epervier,Epervier,france,Active,Sunk,1934-05-01,1942-11-09
+dd-epervier,Milan,france,Active,Sunk,1934-05-01,1942-11-08
 dd-vauguelin,Vauquelin,france,Active,Sunk,1934-03-01,1942-11-27
 dd-vauguelin,Cassard,france,Active,Sunk,1933-10-01,1942-11-27
 dd-vauguelin,Maille Breze,france,Active,Sunk,1934-04-01,1940-04-30
@@ -4131,8 +4148,10 @@ dd-aquilone,Borea,italy,Active,Sunk,1903-10-01,1917-05-15
 dd-aquilone,Zeffiro,italy,Active,Scrapped,1905-04-01,1924-03-01
 dd-aquilone,Espero,italy,Active,Renamed,1905-04-01,1921-01-01
 dd-aquilone,Turbine,italy,Active,Scrapped,1921-01-01,1923-04-01
-dd-nembo,Nembo,italy,Active,Sunk,1902-06-01,1916-10-17
-dd-nembo,Turbine,italy,Active,Sunk,1902-08-01,1915-05-24
+dd-nembo,Nembo,italy,Active,Sunk,1902-06-01,1905-01-01
+dd-aquilone,Nembo,italy,Active,Sunk,1905-01-01,1916-10-17
+dd-nembo,Turbine,italy,Active,Sunk,1902-08-01,1905-01-01
+dd-aquilone,Turbine,italy,Active,Sunk,1905-01-01,1915-05-24
 dd-strale,Strale,italy,Active,Scrapped,1901-07-01,1924-01-01
 dd-strale,Ostro,italy,Active,Scrapped,1901-12-01,1920-09-01
 dd-artigliere,Artigliere,italy,Active,Scrapped,1907-09-01,1923-06-01
@@ -4501,11 +4520,11 @@ dd-ukrayna,Mirza Kuchuk,russia,Active,Renamed,1920-06-01,1920-07-01
 dd-ukrayna,Turkmenets-Stavropolskiy,russia,Active,Renamed,1920-07-01,1922-12-01
 dd-ukrayna,Altfater,russia,Active,Renamed,1922-12-01,1945-05-01
 dd-ukrayna,Sovetskiy Dagestan,russia,Active,Scrapped,1945-05-01,1949-07-01
-dd-ukrayna,Kazanets,russia,Active,Sunk,1906-05-01,1916-10-28
-dd-ukrayna,Steregushchiy,russia,Active,Scrapped,1906-06-01,1925-11-01
-dd-ukrayna,Strashnyy,russia,Active,Scrapped,1906-07-01,1925-11-01
-dd-ukrayna,Donskoy Kazak,russia,Active,Scrapped,1906-08-01,1925-11-01
-dd-ukrayna,Zabaykalets,russia,Active,Scrapped,1907-05-01,1925-11-01
+dd-kazanets,Kazanets,russia,Active,Sunk,1906-05-01,1916-10-28
+dd-kazanets,Steregushchiy,russia,Active,Scrapped,1906-06-01,1925-11-01
+dd-kazanets,Strashnyy,russia,Active,Scrapped,1906-07-01,1925-11-01
+dd-kazanets,Donskoy Kazak,russia,Active,Scrapped,1906-08-01,1925-11-01
+dd-kazanets,Zabaykalets,russia,Active,Scrapped,1907-05-01,1925-11-01
 dd-emir-bukharskiy,Emir Bukharskiy,russia,Active,Renamed,1905-05-01,1919-04-01
 dd-emir-bukharskiy,Yakov Sverdlov,russia,Active,Scrapped,1919-04-01,1925-12-01
 dd-emir-bukharskiy,Finn,russia,Active,Renamed,1906-01-01,1919-02-01
@@ -5031,7 +5050,7 @@ dd-ness,HMS Ness,britain,Active,Scrapped,1905-08-01,1919-05-01
 dd-ness,HMS Nith,britain,Active,Scrapped,1905-10-01,1919-06-01
 dd-welland,HMS Welland,britain,Active,Scrapped,1904-07-01,1920-06-01
 dd-stour,HMS Stour,britain,Active,Scrapped,1909-12-01,1919-08-01
-dd-test,HMS Test,britain,Active,Scrapped,1909-12-01,1919-08-01
+dd-stour,HMS Test,britain,Active,Scrapped,1909-12-01,1919-08-01
 dd-cossack,HMS Cossack,britain,Active,Scrapped,1908-03-01,1919-12-01
 dd-cossack,HMS Mohawk,britain,Active,Scrapped,1908-06-01,1919-05-01
 dd-cossack,HMS Ghurka,britain,Active,Sunk,1908-12-01,1917-02-08
@@ -8816,7 +8835,7 @@ ddk-ayanami,JDS Uranami,japan,Active,Auxiliary,1958-02-27,1983-03-01
 ddk-ayanami,JDS Shikinami,japan,Active,Auxiliary,1958-03-15,1983-03-01
 ddk-ayanami,JDS Takanami,japan,Active,Auxiliary,1960-01-30,1985-03-01
 ddk-ayanami,JDS Oonami,japan,Active,Auxiliary,1960-08-29,1987-02-01
-ddk-ayanami,JDS Makinami,japan,Active,Auxiliary,1960-10-28,1987-02-01
+ddk-makinami,JDS Makinami,japan,Active,Auxiliary,1960-10-28,1987-02-01
 dd-murasame,JDS Murasame,japan,Active,Auxiliary,1959-03-31,1984-03-01
 dd-murasame,JDS Yudachi,japan,Active,Auxiliary,1959-03-25,1984-03-01
 dd-murasame,JDS Harusame,japan,Active,Auxiliary,1959-12-15,1985-03-01
@@ -8894,9 +8913,8 @@ ff-ikazuchi,JDS Ikazuchi,japan,Active,Auxiliary,1956-05-29,1976-03-01
 ff-ikazuchi,JDS Inazuma,japan,Active,Auxiliary,1956-03-05,1977-03-01
 ff-isuzu,JDS Isuzu,japan,Active,Auxiliary,1961-07-29,1988-04-01
 ff-isuzu,JDS Mogami,japan,Active,Auxiliary,1961-09-28,1987-07-01
-ff-isuzu,JDS Kitakami,japan,Active,Auxiliary,1964-02-01,1990-03-01
-ff-isuzu,JDS Ooi,japan,Active,Auxiliary,1964-02-01,1990-01-01
-ff-katori,JDS Katori,japan,Active,Scrapped,1969-09-10,1998-03-01
+ff-kitakami,JDS Kitakami,japan,Active,Auxiliary,1964-02-01,1990-03-01
+ff-kitakami,JDS Ooi,japan,Active,Auxiliary,1964-02-01,1990-01-01
 ff-chikugo,JDS Chikugo,japan,Active,Scrapped,1971-07-31,1996-04-01
 ff-chikugo,JDS Ayase,japan,Active,Scrapped,1971-05-20,1996-08-01
 ff-chikugo,JDS Mikumo,japan,Active,Scrapped,1971-08-26,1997-07-01
@@ -8962,7 +8980,6 @@ ddg-de-zeven-provincien,HNLMS De Zeven Provincien,netherlands,Active,,2002-04-26
 ddg-de-zeven-provincien,HNLMS Tromp,netherlands,Active,,2003-03-14,
 ddg-de-zeven-provincien,HNLMS De Ruyter,netherlands,Active,,2004-04-22,
 ddg-de-zeven-provincien,HNLMS Evertsen,netherlands,Active,,2005-06-10,
-dt-van-kinsbergen,HNLMS Van Kinsbergen,netherlands,Active,Auxiliary,1939-08-01,1955-05-01
 ffg-van-speijk,HNLMS Van Speijk,netherlands,Active,Sold,1967-02-14,1986-11-01
 ffg-van-speijk,HNLMS Van Galen,netherlands,Active,Sold,1967-03-01,1987-11-01
 ffg-van-speijk,HNLMS Tjerk Hiddes,netherlands,Active,Sold,1967-08-16,1986-10-01
@@ -9011,8 +9028,8 @@ fsg-slazak,Slazak,poland,Active,,2019-11-01,
 fsg-kaszub,Kaszub,poland,Active,,1987-03-03,
 ffg-niteroi,Niteroi,brazil,Active,,1976-11-20,
 ffg-niteroi,Defensora,brazil,Active,,1977-03-05,
-ffg-niteroi,Constituicao,brazil,Active,,1978-03-31,
-ffg-niteroi,Liberal,brazil,Active,,1978-11-18,
+ffg-constituicao,Constituicao,brazil,Active,,1978-03-31,
+ffg-constituicao,Liberal,brazil,Active,,1978-11-18,
 ffg-niteroi,Independencia,brazil,Active,,1979-09-03,
 ffg-niteroi,Uniao,brazil,Active,,1980-09-12,
 fsg-inhauma,Inhauma,brazil,Active,Scrapped,1989-12-12,2016-11-01
@@ -10069,18 +10086,18 @@ fs-project-35,PLK-24,russia,Active,Renamed,1965-09-30,1966-05-01
 fs-project-35,SKR-24,russia,Active,Scrapped,1966-05-01,1990-04-01
 fs-project-35,PLK-84,russia,Active,Renamed,1965-12-29,1966-05-01
 fs-project-35,SKR-84,russia,Active,Scrapped,1966-05-01,1992-07-01
-fs-project-35,PLK-48,russia,Active,Renamed,1965-12-31,1966-05-01
-fs-project-35,SKR-48,russia,Active,Scrapped,1966-05-01,1990-04-01
-fs-project-35,SKR-12,russia,Active,Scrapped,1966-05-30,1992-10-01
-fs-project-35,SKR-19,russia,Active,Scrapped,1966-06-30,1992-10-01
-fs-project-35,SKR-35,russia,Active,Renamed,1966-08-30,1967-07-01
-fs-project-35,Gangutets,russia,Active,Scrapped,1967-07-01,1990-04-01
-fs-project-35,SKR-83,russia,Active,Renamed,1966-09-03,1980-06-01
-fs-project-35,60 Let Komsomolu Belorussii,russia,Active,Scrapped,1980-06-01,1991-06-01
-fs-project-35,SKR-6,russia,Active,Scrapped,1966-11-30,1990-04-01
-fs-project-35,SKR-13,russia,Active,Scrapped,1966-12-28,1991-06-01
-fs-project-35,SKR-90,russia,Active,Scrapped,1967-05-30,1990-04-01
-fs-project-35,SKR-117,russia,Active,Scrapped,1967-06-29,1990-04-01
+fs-project-35-b,PLK-48,russia,Active,Renamed,1965-12-31,1966-05-01
+fs-project-35-b,SKR-48,russia,Active,Scrapped,1966-05-01,1990-04-01
+fs-project-35-b,SKR-12,russia,Active,Scrapped,1966-05-30,1992-10-01
+fs-project-35-b,SKR-19,russia,Active,Scrapped,1966-06-30,1992-10-01
+fs-project-35-b,SKR-35,russia,Active,Renamed,1966-08-30,1967-07-01
+fs-project-35-b,Gangutets,russia,Active,Scrapped,1967-07-01,1990-04-01
+fs-project-35-b,SKR-83,russia,Active,Renamed,1966-09-03,1980-06-01
+fs-project-35-b,60 Let Komsomolu Belorussii,russia,Active,Scrapped,1980-06-01,1991-06-01
+fs-project-35-b,SKR-6,russia,Active,Scrapped,1966-11-30,1990-04-01
+fs-project-35-b,SKR-13,russia,Active,Scrapped,1966-12-28,1991-06-01
+fs-project-35-b,SKR-90,russia,Active,Scrapped,1967-05-30,1990-04-01
+fs-project-35-b,SKR-117,russia,Active,Scrapped,1967-06-29,1990-04-01
 ffg-project-1135,Bditelnyy,russia,Active,Scrapped,1970-12-31,1996-07-01
 ffg-project-1135,Bodryy,russia,Active,Scrapped,1971-12-31,1997-07-01
 ffg-project-1135,Svirepyy,russia,Active,Scrapped,1972-12-29,1993-06-01
@@ -10230,18 +10247,18 @@ de-belmont,HMCS St. Croix,britain,Active,Sunk,1940-09-01,1943-09-20
 de-belmont,HMCS St. Francis,britain,Active,Sunk,1940-09-01,1945-07-14
 de-belmont,HMS Sherwood,britain,Active,Target,1940-10-01,1943-09-20
 de-belmont,HMS Stanley,britain,Active,Sunk,1940-10-01,1941-12-19
-dd-mistral,Mistral,britain,Training,Sold,1940-07-03,1945-05-01
-ff-van-kinsbergen,Van Kinsbergen,netherlands,Active,Reserve,1939-08-01,1945-09-01
-ff-van-kinsbergen,Van Kinsbergen,netherlands,Reserve,Active,1945-09-01,1951-01-01
-ff-van-kinsbergen,Van Kinsbergen,netherlands,Active,Auxiliary,1951-01-01,1955-05-01
-pf-johan-maurits-van-nassau,Johan Maurits van Nassau,netherlands,Active,Training,1943-06-01,1953-01-01
-ff-van-amstel,Van Amstel,netherlands,Active,Sold,1950-06-01,1967-12-01
-ff-van-amstel,De Bitter,netherlands,Active,Sold,1950-06-01,1967-12-01
-ff-van-amstel,Van Ewijck,netherlands,Active,Sold,1950-10-01,1967-12-01
-ff-van-amstel,Dubois,netherlands,Active,Sold,1950-10-01,1967-12-01
-ff-van-amstel,De Zeeuw,netherlands,Active,Sold,1951-03-01,1967-12-01
-ff-van-amstel,Van Zijll,netherlands,Active,Sold,1951-03-01,1967-12-01
-dd-leytenant-burakov,Leytenant Burakov,russia,Active,Sunk,1900-06-17,1904-07-30
+dd-mistral,HMS Mistral,britain,Training,Sold,1940-07-03,1945-05-01
+dt-van-kinsbergen,HNLMS Van Kinsbergen,netherlands,Training,Reserve,1939-08-01,1945-09-01
+dt-van-kinsbergen,HNLMS Van Kinsbergen,netherlands,Reserve,Training,1945-09-01,1951-01-01
+dt-van-kinsbergen,HNLMS Van Kinsbergen,netherlands,Training,Auxiliary,1951-01-01,1955-05-01
+pf-johan-maurits-van-nassau,HNLMS Johan Maurits van Nassau,netherlands,Active,Training,1943-06-01,1953-01-01
+ff-van-amstel,HNLMS Van Amstel,netherlands,Active,Sold,1950-06-01,1967-12-01
+ff-van-amstel,HNLMS De Bitter,netherlands,Active,Sold,1950-06-01,1967-12-01
+ff-van-ewijck,HNLMS Van Ewijck,netherlands,Active,Sold,1950-10-01,1967-12-01
+ff-van-ewijck,HNLMS Dubois,netherlands,Active,Sold,1950-10-01,1967-12-01
+ff-van-ewijck,HNLMS De Zeeuw,netherlands,Active,Sold,1951-03-01,1967-12-01
+ff-van-ewijck,HNLMS Van Zijll,netherlands,Active,Sold,1951-03-01,1967-12-01
+dd-leytenant-burakov-1900,Leytenant Burakov,russia,Active,Sunk,1900-06-17,1904-07-30
 dd-taku-rn,HMS Taku,britain,Active,Scrapped,1900-06-17,1916-10-01
 dd-taku-km,Taku,germany,Active,Scrapped,1900-06-17,1914-06-01
 dd-zh1,ZH1,germany,Active,Sunk,1942-10-01,1944-06-09
@@ -10397,7 +10414,7 @@ dd-audaz-1897,Pluton,spain,Active,Sunk,1897-11-01,1898-07-03
 dd-audaz-1897,Proserpina,spain,Active,Scrapped,1898-04-01,1931-01-01
 dd-bustamante,Bustamante,spain,Active,Scrapped,1914-03-01,1930-10-01
 dd-bustamante,Villaamil,spain,Active,Scrapped,1916-08-01,1931-01-01
-dd-bustamante,Cadarso,spain,Active,Scrapped,1917-08-01,1930-01-01
+dd-cadarso,Cadarso,spain,Active,Scrapped,1917-08-01,1930-01-01
 dd-alsedo,Alsedo,spain,Active,Scrapped,1924-08-01,1957-05-01
 dd-alsedo,Velasco,spain,Active,Scrapped,1924-12-01,1957-04-01
 dd-alsedo,Lazaga,spain,Active,Scrapped,1925-08-01,1961-02-01
@@ -10424,12 +10441,12 @@ dd-alava,Liniers,spain,Active,Scrapped,1951-01-27,1982-12-01
 dd-audaz,Audaz,spain,Active,Scrapped,1953-06-30,1974-09-01
 dd-audaz,Osado,spain,Active,Scrapped,1955-01-26,1972-07-01
 dd-audaz,Meteoro,spain,Active,Scrapped,1955-11-30,1974-09-01
-dd-audaz,Furor,spain,Active,Scrapped,1960-09-09,1974-08-01
-dd-audaz,Rayo,spain,Active,Scrapped,1956-01-26,1974-08-01
-dd-audaz,Ariete,spain,Active,Sunk,1961-02-07,1966-02-25
-dd-audaz,Temerario,spain,Active,Scrapped,1964-03-16,1975-12-01
-dd-audaz,Intrepido,spain,Active,Scrapped,1965-03-25,1982-03-01
-dd-audaz,Relampago,spain,Active,Scrapped,1965-07-07,1975-12-01
+dd-furor-1950,Furor,spain,Active,Scrapped,1960-09-09,1974-08-01
+dd-furor-1950,Rayo,spain,Active,Scrapped,1956-01-26,1974-08-01
+dd-furor-1950,Ariete,spain,Active,Sunk,1961-02-07,1966-02-25
+dd-furor-1950,Temerario,spain,Active,Scrapped,1964-03-16,1975-12-01
+dd-furor-1950,Intrepido,spain,Active,Scrapped,1965-03-25,1982-03-01
+dd-furor-1950,Relampago,spain,Active,Scrapped,1965-07-07,1975-12-01
 dd-lepanto,Lepanto,spain,Active,Scrapped,1957-05-15,1985-12-01
 dd-lepanto,Almirante Ferrandiz,spain,Active,Scrapped,1957-05-15,1987-11-01
 dd-almirante-valdez,Almirante Valdez,spain,Active,Scrapped,1959-07-01,1986-10-01
@@ -10473,6 +10490,7 @@ ffg-alvaro-de-bazan,Almirante Juan de Borbon,spain,Active,,2003-12-03,
 ffg-alvaro-de-bazan,Blas de Lezo,spain,Active,,2004-12-16,
 ffg-alvaro-de-bazan,Mendez Nunez,spain,Active,,2006-03-21,
 ffg-alvaro-de-bazan,Cristobal Colon,spain,Active,,2012-10-23,
+dd-tan-yang,Tan Yang,china,Active,Captured,1947-07-03,1949-02-01
 dd-tan-yang,ROCS Tan Yang,taiwan,Active,Scrapped,1949-02-01,1966-11-01
 dd-lo-yang,ROCS Lo Yang,taiwan,Active,Scrapped,1954-02-26,1975-01-01
 dd-lo-yang,ROCS Han Yang,taiwan,Active,Scrapped,1954-02-26,1975-01-01
@@ -10680,3 +10698,593 @@ pfg-yoon-youngha,ROKS Park Dongjin,south_korea,Active,,2014-04-01,
 pfg-yoon-youngha,ROKS Kim Soohyun,south_korea,Active,,2014-10-02,
 pfg-yoon-youngha,ROKS Jeon Byeongik,south_korea,Active,,2018-01-11,
 pfg-yoon-youngha,ROKS Lee Byungchul,south_korea,Active,,2014-12-03,
+cs-thionville,Thionville,france,Active,Scrapped,1920-09-20,1932-01-01
+cs-brindisi,Brindisi,italy,Active,Auxiliary,1920-09-19,1929-11-01
+cs-brindisi,Venezia,italy,Active,Auxiliary,1920-09-19,1930-03-01
+cl-taranto,Taranto,italy,Active,Sunk,1920-07-20,1943-09-09
+cl-ancona,Ancona,italy,Active,Scrapped,1920-06-01,1937-03-01
+cl-bari,Bari,italy,Active,Scrapped,1920-07-20,1943-06-28
+cs-admiral-spaun-rn,HMS Admiral Spaun,brittain,Active,Scrapped,1920-01-01,1920-02-01
+ac-sankt-georg-rn,HMS Sankt Georg,brittain,Active,Scrapped,1920-01-01,1920-02-01
+ac-kaiser-karl-vi-rn,HMS Kaiser Karl VI,brittain,Active,Scrapped,1920-01-01,1920-02-01
+mb-rais-hamidou,Rais Hamidou,algeria,Active,,1980-07-04,
+mb-rais-hamidou,Salah Rais,algeria,Active,,1981-02-09,
+mb-rais-hamidou,Rais Ali,algeria,Active,,1982-05-08,
+gb-djebel-chenoua,Djebel Chenoua,algeria,Active,,1988-11-01,
+gb-djebel-chenoua,El Chihab,algeria,Active,,1995-06-01,
+mb-al-kirch,Al Kirch,algeria,Active,,2002-07-01,
+mb-rais-hassen-barbiar,Rais Hassen Barbiar,algeria,Active,,2017-08-09,
+cl-barroso,Barroso,brazil,Active,Scrapped,1951-08-21,1973-05-01
+cl-barroso,Tamandare,brazil,Active,Scrapped,1952-02-06,1980-01-01
+dd-para-1959,Para,brazil,Active,Scrapped,1959-06-05,1978-01-01
+dd-para-1959,Paraiba,brazil,Active,Scrapped,1959-12-15,1978-01-01
+dd-para-1959,Parana,brazil,Active,Scrapped,1961-07-20,1982-01-01
+dd-pernambuco,Pernambuco,brazil,Active,Scrapped,1961-07-20,1982-01-01
+dd-piaui,Piaui,brazil,Active,Scrapped,1967-08-02,1989-01-01
+dd-santa-catharina,Santa Catharina,brazil,Active,Scrapped,1968-05-10,1978-01-01
+dd-maranhao,Maranhao,brazil,Active,Scrapped,1972-07-01,1990-01-01
+ddg-mato-grosso,Mato Grosso,brazil,Active,Scrapped,1972-09-27,1990-07-01
+dd-sergipe,Sergipe,brazil,Active,Scrapped,1973-07-16,1995-10-01
+dd-sergipe,Alagoas,brazil,Active,Scrapped,1973-07-16,1995-06-01
+dd-sergipe,Rio Grande do Norte,brazil,Active,Scrapped,1973-10-29,1996-02-01
+dd-sergipe,Espirito Santo,brazil,Active,Scrapped,1973-10-29,1996-02-01
+dd-marcilio-dias,Marcilio Dias,brazil,Active,Scrapped,1973-12-03,1994-09-01
+dd-marcilio-dias,Mariz e Barros,brazil,Active,Scrapped,1973-12-03,1997-09-01
+de-babitonga,Bertioga,brazil,Active,Scrapped,1944-08-01,1964-01-01
+de-babitonga,Beberibe,brazil,Active,Scrapped,1944-08-01,1968-01-01
+de-babitonga,Bracui,brazil,Active,Scrapped,1944-08-01,1972-07-01
+de-babitonga,Bauru,brazil,Active,Scrapped,1944-08-01,1981-09-01
+de-babitonga,Baependi,brazil,Active,Scrapped,1944-12-01,1973-01-01
+de-babitonga,Benavente,brazil,Active,Scrapped,1944-12-01,1964-01-01
+de-babitonga,Babitonga,brazil,Active,Scrapped,1945-03-01,1964-01-01
+de-babitonga,Bocaina,brazil,Active,Scrapped,1945-03-01,1975-01-01
+ff-para-1989,Para,brazil,Active,Scrapped,1989-09-18,2008-11-01
+ff-para-1989,Parana,brazil,Active,Scrapped,1989-08-24,2002-07-01
+ff-paraiba,Paraiba,brazil,Active,Scrapped,1989-07-25,2002-07-01
+ff-paraiba,Pernmabuco,brazil,Active,Scrapped,1989-09-25,2004-03-01
+pred-swiftsure,HMS Swiftsure,brittain,Active,Scrapped,1904-06-01,1917-01-01
+pred-swiftsure,HMS Triumph,brittain,Active,Sunk,1904-06-01,1915-05-25
+bb-erin,HMS Erin,brittain,Active,Scrapped,1914-08-01,1922-12-01
+bb-agincourt,HMS Agincourt,brittain,Active,Scrapped,1914-08-01,1922-12-01
+bb-canada,HMCS Canada,brittain,Active,Sold,1915-09-30,1920-04-01
+pf-atherstone,HMS Atherstone,brittain,Active,Scrapped,1940-03-01,1957-11-01
+pf-atherstone,HMS Berkeley,brittain,Active,Sunk,1940-06-01,1942-08-19
+pf-atherstone,HMS Blencathra,brittain,Active,Scrapped,1940-12-01,1957-01-01
+pf-atherstone,HMS Brocklesby,brittain,Active,Scrapped,1941-05-01,1968-10-01
+pf-atherstone,HMS Cattistock,brittain,Active,Scrapped,1940-08-01,1957-06-01
+pf-atherstone,HMS Cleveland,brittain,Active,Sunk,1940-09-01,1957-06-28
+pf-atherstone,HMS Cotswold,brittain,Active,Scrapped,1940-11-01,1957-09-01
+pf-atherstone,HMS Cottesmore,brittain,Active,Sold,1940-12-01,1950-09-01
+pf-atherstone,HMS Eglinton,brittain,Active,Scrapped,1940-08-01,1956-05-01
+pf-atherstone,HMS Exmoor,brittain,Active,Sunk,1940-10-01,1941-02-25
+pf-atherstone,HMS Fernie,brittain,Active,Scrapped,1940-05-01,1956-11-01
+pf-atherstone,HMS Garth,brittain,Active,Scrapped,1940-07-01,1958-08-01
+pf-atherstone,HMS Hambledon,brittain,Active,Auxiliary,1940-06-01,1955-01-01
+pf-atherstone,HMS Holderness,brittain,Active,Scrapped,1940-08-01,1956-11-01
+pf-atherstone,HMS Liddesdale,brittain,Active,Scrapped,1941-02-01,1948-01-01
+pf-atherstone,HMS Mendip,brittain,Active,Sold,1940-10-01,1948-05-01
+pf-atherstone,HMS Mendip,brittain,Active,Sold,1949-06-01,1949-11-01
+pf-atherstone,HMS Meynell,brittain,Active,Sold,1940-12-01,1954-10-01
+pf-atherstone,HMS Pytchley,brittain,Active,Scrapped,1940-10-01,1956-12-01
+pf-atherstone,HMS Quantock,brittain,Active,Sold,1941-02-01,1954-10-01
+pf-atherstone,HMS Quorn,brittain,Active,Sunk,1940-08-01,1944-08-03
+pf-atherstone,HMS Southdown,brittain,Active,Scrapped,1940-11-01,1956-11-01
+pf-atherstone,HMS Tynedale,brittain,Active,Sunk,1940-11-01,1943-12-12
+pf-atherstone,HMS Whaddon,brittain,Active,Scrapped,1941-02-01,1959-04-01
+pf-eridge,HMS Avon Vale,brittain,Active,Scrapped,1941-02-01,1958-05-01
+pf-eridge,HMS Badsworth,brittain,Active,Sold,1941-08-01,1944-11-01
+pf-eridge,HMS Beaufort,brittain,Active,Sold,1941-11-01,1952-10-01
+pf-eridge,HMS Bedale,brittain,Active,Sold,1942-06-01,1942-04-01
+pf-eridge,HMS Bedale,brittain,Active,Sold,1946-08-01,1953-04-01
+pf-eridge,HMS Bicester,brittain,Active,Scrapped,1942-05-01,1956-08-01
+pf-eridge,HMS Blackmore,brittain,Active,Sold,1942-04-01,1952-10-01
+pf-eridge,HMS Blankney,brittain,Active,Scrapped,1941-04-01,1959-03-01
+pf-eridge,HMS Bramham,brittain,Active,Sold,1942-06-01,1943-03-01
+pf-eridge,HMS Calpe,brittain,Active,Sold,1941-12-01,1952-10-01
+pf-eridge,HMS Chiddingfold,brittain,Active,Sold,1941-10-01,1954-06-01
+pf-eridge,HMS Cowdray,brittain,Active,Sold,1942-07-01,1944-03-01
+pf-eridge,HMS Cowdray,brittain,Active,Sold,1944-06-01,1959-09-01
+pf-eridge,HMS Croome,brittain,Active,Scrapped,1941-06-01,1957-08-01
+pf-eridge,HMS Dulverton,brittain,Active,Sunk,1941-09-01,1943-11-13
+pf-eridge,HMS Eridge,brittain,Active,Scrapped,1941-02-01,1942-08-29
+pf-eridge,HMS Exmoor,brittain,Active,Sold,1941-10-01,1953-02-01
+pf-eridge,HMS Farndale,brittain,Active,Scrapped,1941-04-01,1962-12-01
+pf-eridge,HMS Grove,brittain,Active,Sunk,1942-02-01,1942-06-12
+pf-eridge,HMS Heythrop,brittain,Active,Sunk,1941-06-01,1942-03-20
+pf-eridge,HMS Hursley,brittain,Active,Scrapped,1942-04-01,1943-12-01
+pf-eridge,HMS Hurworth,brittain,Active,Sunk,1941-10-01,1943-10-22
+pf-eridge,HMS Lamerton,brittain,Active,Sold,1941-08-01,1953-04-01
+pf-eridge,HMS Lauderdale,brittain,Active,Sold,1941-12-01,1946-05-01
+pf-eridge,HMS Ledbury,brittain,Active,Scrapped,1942-02-01,1958-05-01
+pf-eridge,HMS Middleton,brittain,Active,Auxiliary,1942-01-01,1955-01-01
+pf-eridge,HMS Oakley,brittain,Active,Sold,1942-05-01,1958-10-01
+pf-eridge,HMS Puckeridge,brittain,Active,Sunk,1941-07-01,1943-09-06
+pf-eridge,HMS Silverton,brittain,Active,Scrapped,1941-05-01,1959-03-01
+pf-eridge,HMS Southwold,brittain,Active,Sunk,1941-10-01,1942-03-24
+pf-eridge,HMS Tetcott,brittain,Active,Scrapped,1941-12-01,1956-09-01
+pf-eridge,HMS Wheatland,brittain,Active,Scrapped,1941-11-01,1959-09-01
+pf-eridge,HMS Wilton,brittain,Active,Scrapped,1942-02-01,1959-11-01
+pf-eridge,HMS Zetland,brittain,Active,Sold,1942-06-01,1952-10-01
+de-bleasdale,HMS Airedale,brittain,Active,Sunk,1941-12-01,1942-06-15
+de-bleasdale,HMS Albrighton,brittain,Active,Sold,1942-02-01,1959-05-01
+de-bleasdale,HMS Aldenham,brittain,Active,Sunk,1942-01-01,1944-12-14
+de-bleasdale,HMS Belvoir,brittain,Active,Scrapped,1942-03-01,1957-10-01
+de-bleasdale,HMS Blean,brittain,Active,Sunk,1942-08-01,1942-12-11
+de-bleasdale,HMS Bleasdale,brittain,Active,Scrapped,1942-04-01,1956-09-01
+de-bleasdale,HMS Catterick,brittain,Active,Sold,1942-06-01,1946-05-01
+de-bleasdale,HMS Derwent,brittain,Active,Sunk,1942-04-01,1943-03-19
+de-bleasdale,HMS Easton,brittain,Active,Scrapped,1942-12-01,1953-01-01
+de-bleasdale,HMS Eggesford,brittain,Active,Sold,1943-01-01,1959-05-01
+de-bleasdale,HMS Goathland,brittain,Active,Scrapped,1942-11-01,1944-07-24
+de-bleasdale,HMS Haydon,brittain,Active,Scrapped,1942-10-01,1958-05-01
+de-bleasdale,HMS Holcombe,brittain,Active,Sunk,1942-09-01,1943-12-12
+de-bleasdale,HMS Limbourne,brittain,Active,Sunk,1942-10-01,1943-10-23
+de-bleasdale,HMS Melbreak,brittain,Active,Scrapped,1942-10-01,1956-11-01
+de-bleasdale,HMS Penylan,brittain,Active,Sunk,1942-08-01,1942-12-03
+de-bleasdale,HMS Rockwood,brittain,Active,Sunk,1942-11-01,1943-11-11
+de-bleasdale,HMS Stevenstone,brittain,Active,Scrapped,1943-03-01,1959-09-01
+de-bleasdale,HMS Talybont,brittain,Active,Scrapped,1943-05-01,1961-03-01
+de-bleasdale,HMS Tanatside,brittain,Active,Sold,1942-09-01,1946-05-01
+de-bleasdale,HMS Wensleydale,brittain,Active,Sunk,1942-10-01,1944-11-01
+de-brecon,HMS Brecon,brittain,Active,Scrapped,1942-12-01,1962-09-01
+de-brecon,HMS Brissenden,brittain,Active,Scrapped,1943-02-01,1965-03-01
+pf-bayntun,HMS Bayntun,brittain,Active,Sold,1943-02-01,1945-08-01
+pf-bayntun,HMS Bazely,brittain,Active,Sold,1943-02-01,1945-08-01
+pf-bayntun,HMS Berry,brittain,Active,Sold,1943-03-01,1946-02-01
+pf-bayntun,HMS Blackwood,brittain,Active,Sunk,1943-03-01,1944-06-15
+pf-bayntun,HMS Burges,brittain,Active,Sold,1943-06-01,1946-02-01
+pf-bayntun,HMS Capel,brittain,Active,Sunk,1943-08-01,1944-12-26
+pf-bayntun,HMS Cockburn,brittain,Active,Sold,1943-04-01,1945-08-01
+pf-bayntun,HMS Cooke,brittain,Active,Sold,1943-08-01,1946-03-01
+pf-bayntun,HMS Dacres,brittain,Active,Sold,1943-08-01,1946-01-01
+pf-bayntun,HMS Domett,brittain,Active,Sold,1943-09-01,1946-03-01
+pf-bayntun,HMS Foley,brittain,Active,Sold,1943-09-01,1945-08-01
+pf-bayntun,HMS Gardiner,brittain,Active,Sold,1943-09-01,1946-02-01
+pf-bayntun,HMS Garlies,brittain,Active,Sold,1943-09-01,1945-08-01
+pf-bayntun,HMS Goodall,brittain,Active,Sunk,1943-10-01,1945-04-29
+pf-bayntun,HMS Goodson,brittain,Active,Sunk,1943-10-01,1944-06-25
+pf-bayntun,HMS Gore,brittain,Active,Sold,1943-10-01,1946-05-01
+pf-bayntun,HMS Gould,brittain,Active,Sunk,1943-09-01,1944-03-01
+pf-bayntun,HMS Grindall,brittain,Active,Sold,1943-09-01,1945-08-01
+pf-bayntun,HMS Inglis,brittain,Active,Sold,1943-12-01,1946-03-01
+pf-bayntun,HMS Inman,brittain,Active,Sold,1944-01-01,1946-03-01
+pf-bayntun,HMS Keats,brittain,Active,Sold,1943-10-01,1946-02-01
+pf-bayntun,HMS Kempthorne,brittain,Active,Sold,1943-10-01,1945-08-01
+pf-bayntun,HMS Kingsmill,brittain,Active,Sold,1943-10-01,1945-08-01
+pf-bayntun,HMS Lawford,brittain,Active,Sunk,1943-11-01,1944-06-08
+pf-bayntun,HMS Lawson,brittain,Active,Sold,1943-11-01,1946-03-01
+pf-bayntun,HMS Pasley,brittain,Active,Sold,1943-11-01,1946-03-01
+pf-bayntun,HMS Loring,brittain,Active,Sold,1943-11-01,1947-01-01
+pf-bayntun,HMS Louis,brittain,Active,Sold,1943-11-01,1946-03-01
+pf-bayntun,HMS Manners,brittain,Active,Sunk,1943-12-01,1945-01-26
+pf-bayntun,HMS Hoste,brittain,Active,Sold,1943-12-01,1945-08-01
+pf-bayntun,HMS Moorsom,brittain,Active,Sold,1943-12-01,1945-10-01
+pf-bayntun,HMS Mounsey,brittain,Active,Sold,1943-12-01,1946-02-01
+pf-affleck,HMS Affleck,brittain,Active,Sunk,1943-09-01,1944-12-27
+pf-affleck,HMS Aylmer,brittain,Active,Sold,1943-09-01,1945-11-01
+pf-affleck,HMS Balfour,brittain,Active,Sold,1943-10-01,1945-10-01
+pf-affleck,HMS Bentinck,brittain,Active,Sold,1943-05-01,1946-01-01
+pf-affleck,HMS Bentley,brittain,Active,Sold,1943-10-01,1945-11-01
+pf-affleck,HMS Bickerton,brittain,Active,Sunk,1943-10-01,1944-08-22
+pf-affleck,HMS Bligh,brittain,Active,Sold,1943-10-01,1945-11-01
+pf-affleck,HMS Braithwaite,brittain,Active,Sold,1943-11-01,1945-11-01
+pf-affleck,HMS Bullen,brittain,Active,Sunk,1943-10-01,1944-12-06
+pf-affleck,HMS Byard,brittain,Active,Sold,1943-06-01,1945-12-01
+pf-affleck,HMS Byron,brittain,Active,Sold,1943-10-01,1945-11-01
+pf-affleck,HMS Calder,brittain,Active,Sold,1943-07-01,1945-10-01
+pf-affleck,HMS Conn,brittain,Active,Sold,1943-10-01,1945-11-01
+pf-affleck,HMS Cosby,brittain,Active,Sold,1943-12-01,1946-01-01
+pf-affleck,HMS Cotton,brittain,Active,Sold,1943-11-01,1945-11-01
+pf-affleck,HMS Cranstoun,brittain,Active,Sold,1943-11-01,1945-12-01
+pf-affleck,HMS Cubitt,brittain,Active,Sold,1943-11-01,1946-03-01
+pf-affleck,HMS Curzon,brittain,Active,Sold,1943-11-01,1946-03-01
+pf-affleck,HMS Dakins,brittain,Active,Sunk,1943-11-01,1944-12-25
+pf-affleck,HMS Deane,brittain,Active,Sold,1943-11-01,1946-03-01
+pf-affleck,HMS Duckworth,brittain,Active,Sold,1943-08-01,1945-12-01
+pf-affleck,HMS Duff,brittain,Active,Sunk,1943-08-01,1944-11-30
+pf-affleck,HMS Ekins,brittain,Active,Sunk,1943-11-01,1945-04-16
+pf-affleck,HMS Essington,brittain,Active,Sold,1943-09-01,1945-10-01
+pf-affleck,HMS Fitzroy,brittain,Active,Sold,1943-10-01,1946-01-01
+pf-affleck,HMS Halsted,brittain,Active,Sunk,1943-11-01,1944-06-11
+pf-affleck,HMS Hargood,brittain,Active,Sold,1944-02-01,1946-02-01
+pf-affleck,HMS Holmes,brittain,Active,Sold,1944-01-01,1945-12-01
+pf-affleck,HMS Hotham,brittain,Active,Auxiliary,1944-02-01,1946-03-01
+pf-affleck,HMS Narborough,brittain,Active,Sold,1944-01-01,1946-02-01
+pf-affleck,HMS Redmill,brittain,Active,Sunk,1943-11-01,1945-04-27
+pf-affleck,HMS Retalick,brittain,Active,Sold,1943-12-01,1945-10-01
+pf-affleck,HMS Riou,brittain,Active,Sold,1943-12-01,1946-02-01
+pf-affleck,HMS Rowley,brittain,Active,Sold,1943-12-01,1945-11-01
+pf-affleck,HMS Rupert,brittain,Active,Sold,1943-12-01,1946-03-01
+pf-affleck,HMS Rutherford,brittain,Active,Sold,1943-12-01,1945-10-01
+pf-affleck,HMS Seymour,brittain,Active,Sold,1943-12-01,1946-01-01
+pf-affleck,HMS Spragge,brittain,Active,Sold,1944-01-01,1946-02-01
+pf-affleck,HMS Stayner,brittain,Active,Sold,1943-12-01,1946-11-01
+pf-affleck,HMS Stockham,brittain,Active,Sold,1943-12-01,1946-01-01
+pf-affleck,HMS Thornbrough,brittain,Active,Sold,1943-12-01,1947-01-01
+pf-affleck,HMS Torrington,brittain,Active,Sold,1944-01-01,1946-06-01
+pf-affleck,HMS Trollope,brittain,Active,Sunk,1944-01-01,1944-07-06
+pf-affleck,HMS Tyler,brittain,Active,Sold,1944-01-01,1946-11-01
+pf-affleck,HMS Waldegrave,brittain,Active,Sold,1944-01-01,1945-12-01
+pf-affleck,HMS Whitaker,brittain,Active,Sunk,1944-01-01,1944-11-01
+pf-anguilla,HMS Anguilla,brittain,Active,Sold,1943-10-01,1946-05-01
+pf-anguilla,HMS Antigua,brittain,Active,Sold,1943-11-01,1946-05-01
+pf-anguilla,HMS Ascension,brittain,Active,Sold,1943-11-01,1946-05-01
+pf-anguilla,HMS Bahamas,brittain,Active,Sold,1943-12-01,1946-06-01
+pf-anguilla,HMS Barbados,brittain,Active,Sold,1943-12-01,1946-04-01
+pf-anguilla,HMS Caicos,brittain,Active,Sold,1943-12-01,1945-12-01
+pf-anguilla,HMS Cayman,brittain,Active,Sold,1944-01-01,1946-04-01
+pf-anguilla,HMS Dominica,brittain,Active,Sold,1944-01-01,1946-04-01
+pf-anguilla,HMS Labuan,brittain,Active,Sold,1944-02-01,1948-05-01
+pf-anguilla,HMS Montserrat,brittain,Active,Sold,1944-08-01,1946-06-01
+pf-anguilla,HMS Nyasaland,brittain,Active,Sold,1944-07-01,1946-04-01
+pf-anguilla,HMS Papua,brittain,Active,Sold,1944-07-01,1946-05-01
+pf-anguilla,HMS Perim,brittain,Active,Sold,1944-02-01,1946-05-01
+pf-anguilla,HMS Pitcairn,brittain,Active,Sold,1944-07-01,1946-06-01
+pf-anguilla,HMS St. Helena,brittain,Active,Sold,1944-02-01,1946-04-01
+pf-anguilla,HMS Sarawak,brittain,Active,Sold,1944-02-01,1946-05-01
+pf-anguilla,HMS Seychelles,brittain,Active,Sold,1944-02-01,1946-06-01
+pf-anguilla,HMS Somaliland,brittain,Active,Sold,1944-02-01,1946-05-01
+pf-anguilla,HMS Tobago,brittain,Active,Sold,1944-08-01,1946-05-01
+pf-anguilla,HMS Tortola,brittain,Active,Sold,1944-05-01,1946-05-01
+pf-anguilla,HMS Zanzibar,brittain,Active,Sold,1944-06-01,1946-05-01
+pf-bay,HMS Bigbury Bay,brittain,Active,Sold,1945-07-01,1959-05-01
+pf-bay,HMS Burghead Bay,brittain,Active,Sold,1945-09-01,1959-05-01
+pf-bay,HMS Cardigan Bay,brittain,Active,Scrapped,1945-06-01,1962-03-01
+pf-bay,HMS Carnarvon Bay,brittain,Active,Scrapped,1945-09-01,1959-08-01
+pf-bay,HMS Cawsand Bay,brittain,Active,Scrapped,1945-11-01,1959-09-01
+pf-bay,HMS Enard Bay,brittain,Active,Scrapped,1946-04-01,1957-11-01
+pf-bay,HMS Largo Bay,brittain,Active,Scrapped,1946-01-01,1958-07-01
+pf-bay,HMS Morecambe Bay,brittain,Active,Sold,1949-02-01,1961-05-01
+pf-bay,HMS Mounts Bay,brittain,Active,Sold,1946-04-01,1961-05-01
+pf-bay,HMS Padstow Bay,brittain,Active,Scrapped,1946-03-01,1959-08-01
+pf-bay,HMS Porlock Bay,brittain,Active,Sold,1946-03-01,1962-03-01
+pf-bay,HMS St. Austell Bay,brittain,Active,Scrapped,1945-05-01,1959-07-01
+pf-bay,HMS St. Brides Bay,brittain,Active,Scrapped,1945-06-01,1962-09-01
+pf-bay,HMS Start Bay,brittain,Active,Scrapped,1945-09-01,1958-07-01
+pf-bay,HMS Tremadoc Bay,brittain,Active,Scrapped,1945-10-01,1959-09-01
+pf-bay,HMS Veryan Bay,brittain,Active,Scrapped,1945-05-01,1959-07-01
+pf-bay,HMS Whitesand Bay,brittain,Active,Scrapped,1945-07-01,1956-02-01
+pf-bay,HMS Widemouth Bay,brittain,Active,Scrapped,1945-04-01,1957-11-01
+pf-bay,HMS Wigtown Bay,brittain,Active,Scrapped,1946-01-01,1959-04-01
+pf-bay,HMS Alert,brittain,Active,Auxiliary,1946-10-01,1971-10-01
+pf-bay,HMS Surprise,brittain,Active,Auxiliary,1945-09-01,1965-06-01
+cl-o-higgins,O'Higgins,chile,Active,Scrapped,1951-01-09,1991-10-01
+cl-o-higgins,Capitan Prat,chile,Active,Renamed,1951-01-09,1982-04-01
+cl-o-higgins,Chacabuco,chile,Active,Scrapped,1982-04-01,1983-04-01
+cl-almirante-latorre,Almirante Latorre,chile,Active,Scrapped,1971-07-15,1984-09-01
+cl-chung-king,Chung King,china,Active,Sunk,1948-05-19,1949-03-20
+dd-fen-yang,Fen Yang,china,Active,Captured,1947-08-30,1949-02-01
+dd-an-shan,An Shan,china,Active,Museum,1954-10-04,1992-04-01
+dd-an-shan,Fu Shun,china,Active,Scrapped,1954-10-04,1989-01-01
+dd-an-shan,Chang Chun,china,Active,Museum,1955-06-28,1990-01-01
+dd-an-shan,Tai Yuan,china,Active,Auxiliary,1955-06-28,1991-09-01
+ff-esbern-snare,HDMS Esbern Snare,denmark,Active,Scrapped,1954-02-01,1965-04-01
+ff-esbern-snare,HDMS Rolf Krake,denmark,Active,Scrapped,1954-10-01,1962-01-01
+ff-esbern-snare,HDMS Valdemar Sejr,denmark,Active,Scrapped,1954-06-01,1962-01-01
+ff-thetis,HDMS Thetis,denmark,Active,,1991-07-01,
+ff-thetis,HDMS Triton,denmark,Active,,1991-12-02,
+ff-thetis,HDMS Vaedderen,denmark,Active,,1992-06-09,
+ff-thetis,HDMS Hvidbjornen,denmark,Active,,1992-11-30,
+fs-bellona,HDMS Bellona,denmark,Active,Scrapped,1957-02-02,1981-01-01
+fs-bellona,HDMS Diana,denmark,Active,Scrapped,1955-07-30,1974-08-01
+fs-bellona,HDMS Flora,denmark,Active,Scrapped,1956-08-28,1977-01-01
+fs-bellona,HDMS Triton,denmark,Active,Scrapped,1955-08-10,1981-01-01
+cl-colmar,Colmar,france,Active,Scrapped,1920-04-28,1927-07-01
+cl-mulhouse,Mulhouse,france,Active,Scrapped,1920-08-03,1933-02-01
+cl-strasbourg,Strasbourg,france,Active,Auxiliary,1920-06-04,1936-06-01
+cl-metz,Met,france,Active,Scrapped,1920-07-20,1933-08-01
+dd-aventurier,Opiniatre,france,Active,Scrapped,1914-09-01,1933-01-01
+dd-aventurier,Aventurier,france,Active,Scrapped,1914-09-01,1938-01-01
+dd-aventurier,Temeraire,france,Active,Scrapped,1914-11-01,1936-01-01
+dd-aventurier,Intrepide,france,Active,Scrapped,1914-11-01,1937-01-01
+dd-pierre-durand,Pierre Durand,france,Active,Scrapped,1920-06-01,1933-02-01
+dd-matelot-leblanc,Matelot Leblanc,france,Active,Scrapped,1920-09-01,1936-01-01
+dd-buino,Buino,france,Active,Scrapped,1920-08-01,1933-02-01
+dd-chastang,Chastang,france,Active,Scrapped,1920-07-01,1933-08-01
+dd-chastang,Vesco,france,Active,Scrapped,1920-06-01,1935-07-01
+dd-chastang,Mazare,france,Active,Scrapped,1920-07-01,1935-07-01
+dd-chastang,Deligny,france,Active,Scrapped,1920-07-01,1933-08-01
+dd-rageot-de-la-touche,Rageot de la Touche,france,Active,Scrapped,1920-05-01,1935-01-01
+dd-rageot-de-la-touche,Marcel Delage,france,Active,Scrapped,1920-07-01,1933-02-01
+dd-amiral-senes,Amiral Senes,france,Active,Scrapped,1920-05-01,1936-01-01
+dd-desaix,Desaix,france,Active,Scrapped,1946-02-01,1954-02-01
+dd-desaix,Kleber,france,Active,Scrapped,1946-02-01,1957-04-01
+dd-hoche,Hoche,france,Active,Scrapped,1946-02-01,1958-01-01
+dd-marceau,Marceau,france,Active,Scrapped,1946-02-01,1958-01-01
+dd-d-estaing,D'Estaing,france,Active,Scrapped,1948-08-08,1954-01-01
+dd-jurien-de-la-graviere,Jurien de la Graviere,france,Active,Scrapped,1948-07-15,1956-01-01
+dd-jurien-de-la-graviere,Duperre,france,Active,Scrapped,1948-07-24,1961-01-01
+dd-jurien-de-la-graviere,Duchaffault,france,Active,Scrapped,1948-08-15,1956-01-01
+cl-pillau,Pillau,germany,Active,Captured,1914-12-14,1919-11-01
+cl-pillau,Elbing,germany,Active,Sunk,1915-09-04,1916-06-01
+ff-gneisenau,Gneisenau,germany,Active,Scrapped,1958-10-18,1966-06-01
+ff-scharnhorst,Scharnhorst,germany,Active,Scrapped,1959-05-28,1968-03-01
+ff-scharnhorst,Hipper,germany,Active,Scrapped,1959-01-10,1964-07-01
+ff-scharnhorst,Scheer,germany,Active,Scrapped,1959-05-21,1967-12-01
+ff-graf-spee,Graf Spee,germany,Active,Scrapped,1959-02-21,1964-07-01
+ff-raule,Raule,germany,Active,Scrapped,1959-05-14,1967-12-01
+ff-raule,Brommy,germany,Active,Scrapped,1959-05-14,1965-04-01
+ff-rostock,Rostock,germany,Active,Scrapped,1990-10-02,1991-12-01
+ff-rostock,Halle,germany,Active,Scrapped,1990-10-02,1991-12-01
+fs-grevesmuhlen,Grevesmuhlen,germany,Active,Sold,1990-10-02,1993-08-01
+fs-grevesmuhlen,Gadebusch,germany,Active,Sold,1990-10-02,1993-08-01
+fs-grevesmuhlen,Teterow,germany,Active,Sold,1990-10-02,1993-08-01
+fs-grevesmuhlen,Lubz,germany,Active,Sold,1990-10-02,1993-08-01
+fs-grevesmuhlen,Wismar,germany,Active,Sold,1990-10-02,1993-08-01
+pred-kilkis,Kilkis,greece,Active,Auxiliary,1914-07-30,1935-01-01
+pred-kilkis,Limnos,greece,Active,Auxiliary,1914-07-30,1932-01-01
+cl-elli-1914,Elli,greece,Active,Sunk,1914-05-14,1940-08-15
+cl-elli,Elli,greece,Active,Scrapped,1951-07-01,1964-01-01
+up-navarchos-miaoulis,Navarchos Miaoulis,greece,Active,Auxiliary,1879-11-01,1912-01-01
+dd-niki,Niki,greece,Active,Captured,1906-12-01,1916-12-01
+dd-niki,Niki,greece,Active,Scrapped,1918-12-01,1941-04-01
+dd-niki,Doxa,greece,Active,Captured,1906-12-01,1916-12-01
+dd-niki,Doxa,greece,Active,Sunk,1918-12-01,1917-06-27
+dd-niki,Aspis,greece,Active,Captured,1907-10-01,1916-12-01
+dd-niki,Aspis,greece,Active,Scrapped,1918-12-01,1941-04-01
+dd-niki,Velos,greece,Active,Captured,1907-10-01,1916-12-01
+dd-niki,Velos,greece,Active,Scrapped,1918-12-01,1926-01-01
+dd-thyella,Thyella,greece,Active,Captured,1907-05-01,1916-12-01
+dd-thyella,Thyella,greece,Active,Sunk,1918-12-01,1941-04-21
+dd-thyella,Nafkratoussa,greece,Active,Captured,1906-12-01,1916-12-01
+dd-thyella,Nafkratoussa,greece,Active,Sunk,1918-12-01,1921-03-01
+dd-thyella,Lonchi,greece,Active,Captured,1907-12-01,1916-12-01
+dd-thyella,Lonchi,greece,Active,Scrapped,1918-12-01,1926-01-01
+dd-thyella,Sfendoni,greece,Active,Captured,1907-12-01,1916-12-01
+dd-thyella,Sfendoni,greece,Active,Scrapped,1918-12-01,1945-01-01
+dd-nea-genea,Nea Genea,greece,Active,Scrapped,1912-07-01,1919-01-01
+dd-nea-genea,Keravnos,greece,Active,Scrapped,1912-07-01,1919-01-01
+dd-aetos,Aetos,greece,Active,Captured,1912-09-01,1916-12-01
+dd-aetos,Aetos,greece,Active,Scrapped,1918-12-01,1946-01-01
+dd-aetos,Ierax,greece,Active,Captured,1912-09-01,1916-12-01
+dd-aetos,Ierax,greece,Active,Scrapped,1918-12-01,1946-01-01
+dd-aetos,Leon,greece,Active,Captured,1912-09-01,1916-12-01
+dd-aetos,Leon,greece,Active,Sunk,1918-12-01,1941-05-15
+dd-aetos,Panthir,greece,Active,Scrapped,1912-09-01,1946-01-01
+dd-doxa,Doxa,greece,Active,Sold,1918-11-24,1919-09-01
+dd-smyrni,Smyrni,greece,Active,Scrapped,1919-09-01,1928-01-01
+dd-hydra,Kountouriotis,greece,Active,Scrapped,1932-11-01,1946-09-01
+dd-hydra,Hydra,greece,Active,Sunk,1932-11-01,1941-04-22
+dd-hydra,Psara,greece,Active,Sunk,1933-05-01,1941-04-20
+dd-hydra,Spetsai,greece,Active,Scrapped,1933-05-01,1947-09-01
+dd-vasilefs-georgios-i,Vasilefs Georgios I,greece,Active,Sunk,1938-12-01,1941-04-20
+dd-vasilefs-georgios-i,Vasilissa Olga,greece,Active,Sunk,1939-02-01,1943-09-26
+dd-salamis,Salamis,greece,Active,Sold,1944-03-16,1951-09-01
+dd-navarinon,Navarinon,greece,Active,Sold,1944-04-05,1956-03-01
+dd-doxa-1951,Doxa,greece,Active,Scrapped,1951-05-21,1972-01-01
+dd-doxa-1951,Niki,greece,Active,Scrapped,1951-04-18,1972-01-01
+dd-navarino,Thyella,greece,Active,Scrapped,1962-12-27,1981-01-01
+dd-navarino,Navarino,greece,Active,Scrapped,1962-09-27,1981-01-01
+dd-velos,Aspis,greece,Active,Scrapped,1959-11-10,1991-02-01
+dd-velos,Velos,greece,Active,Scrapped,1959-06-16,1991-03-01
+dd-velos,Lonchi,greece,Active,Scrapped,1960-02-09,1990-10-01
+dd-velos,Sfendoni,greece,Active,Scrapped,1959-08-21,1981-10-01
+dd-kmon,Kimon,greece,Active,Scrapped,1980-08-02,1982-09-01
+dd-kmon,Nearkhos,greece,Active,Auxiliary,1980-10-30,1981-09-01
+dd-miaoulis,Miaoulis,greece,Active,Scrapped,1971-07-16,1992-01-01
+dd-themistoklis,Themistoklis,greece,Active,Scrapped,1971-01-30,1992-08-01
+dd-kanaris,Kanaris,greece,Active,Scrapped,1972-07-01,1994-01-01
+dd-kanaris,Kountouriotis,greece,Active,Scrapped,1973-07-10,1995-01-01
+dd-kanaris,Sachtouris,greece,Active,Scrapped,1973-12-04,1993-01-01
+dd-kanaris,Tompazis,greece,Active,Scrapped,1977-03-17,1997-01-01
+dd-kanaris,Apostolis,greece,Active,Scrapped,1980-08-02,1993-01-01
+dd-kanaris,Kriezis,greece,Active,Scrapped,1981-07-08,1993-01-01
+ddg-kimon,Kimon,greece,Active,Scrapped,1992-09-12,2004-06-01
+ddg-kimon,Nearchos,greece,Active,Scrapped,1993-04-30,2003-07-01
+ddg-formion,Formion,greece,Active,Scrapped,1993-04-30,2002-07-01
+ddg-formion,Themistoklis,greece,Active,Scrapped,1993-04-30,2002-02-01
+de-adrias,Pindos,greece,Active,Sold,1942-06-01,1959-11-01
+de-adrias,Adrias,greece,Active,Sunk,1942-08-01,1943-10-22
+de-adrias,Astings,greece,Active,Sold,1946-05-01,1963-01-01
+de-adrias,Kanaris,greece,Active,Sold,1942-08-01,1959-11-01
+de-adrias,Miaoulis,greece,Active,Sold,1942-11-01,1960-09-01
+de-adrias,Adrias,greece,Active,Scrapped,1946-05-01,1964-01-01
+ff-kriti,Themistokles,greece,Active,Sold,1943-03-01,1959-12-01
+ff-kriti,Astings,greece,Active,Sold,1944-03-01,1944-06-01
+ff-kriti,Kriti,greece,Active,Sold,1943-12-01,1959-12-01
+ff-kriti,Aigaion,greece,Active,Sold,1946-05-01,1959-12-01
+ff-leon,Aetos,greece,Active,Scrapped,1951-03-15,1991-07-01
+ff-leon,Ierax,greece,Active,Scrapped,1951-03-15,1991-08-01
+ff-leon,Leon,greece,Active,Scrapped,1951-01-15,1992-11-01
+ff-leon,Panthir,greece,Active,Scrapped,1951-01-15,1992-01-01
+ff-aigaion,Aigaion,greece,Active,Scrapped,1976-07-06,1991-01-01
+ffg-elli,Elli,greece,Active,,1981-10-10,
+ffg-elli,Limnos,greece,Active,,1982-09-18,
+ffg-adrias,Adrias,greece,Active,,1994-04-01,
+ffg-adrias,Aigaion,greece,Active,,1993-05-14,
+ffg-adrias,Navarinon,greece,Active,,1995-02-01,
+ffg-adrias,Kountouriotis,greece,Active,,1997-12-13,
+ffg-adrias,Bouboulina,greece,Active,Scrapped,2001-12-14,2013-02-01
+ffg-adrias,Kanaris,greece,Active,,2002-11-29,
+ffg-adrias,Themistokles,greece,Active,,2003-10-24,
+ffg-adrias,Nikiforos Fokas,greece,Active,,2004-11-19,
+ffg-ipiros,Ipiros,greece,Active,Scrapped,1992-08-30,2003-01-01
+ffg-ipiros,Thraki,greece,Active,Scrapped,1992-07-30,2001-03-01
+ffg-ipiros,Makedonia,greece,Active,Scrapped,1992-07-24,1998-12-01
+fs-apostolis,Kriezis,greece,Active,Sold,1943-11-01,1951-09-01
+fs-apostolis,Apostolis,greece,Active,Sold,1943-10-01,1959-01-01
+fs-apostolis,Sakhtouris,greece,Active,Sold,1942-06-01,1951-09-01
+fs-apostolis,Tompazis,greece,Active,Sold,1943-11-01,1959-01-01
+pf-armatolos,Armatolos,greece,Active,,1990-03-09,
+pf-armatolos,Navmachos,greece,Active,,1990-07-15,
+fs-niki,Niki,greece,Active,Scrapped,1991-09-06,2009-04-01
+fs-niki,Doxa,greece,Active,Scrapped,1992-09-07,2004-01-01
+fs-niki,Elevtheria,greece,Active,Scrapped,1991-09-06,2010-04-01
+fs-niki,Karteria,greece,Active,Scrapped,1992-09-07,2010-04-01
+fs-niki,Agon,greece,Active,Scrapped,1993-11-08,2004-01-01
+pf-pyrolitis,Pyrpolitis,greece,Renamed,,1993-05-04,2006-01-01
+pf-pyrolitis,Kasos,greece,Active,,2006-01-01,
+pf-pyrolitis,Polemistis,greece,Active,,1994-06-16,
+pf-machitis,Machitis,greece,Active,,2003-10-29,
+pf-machitis,Nikiforos,greece,Active,,2004-03-30,
+pf-machitis,Aititos,greece,Active,,2004-08-05,
+pf-machitis,Krateos,greece,Active,,2005-10-20,
+pfg-ipopliarchos-roussen,Ipopliarchos Roussen,greece,Active,,2005-12-20,
+pfg-ipopliarchos-roussen,Ipopliarchos Daniolos,greece,Active,,2006-04-22,
+pfg-ipopliarchos-roussen,Ipopliarchos Krystalidis,greece,Active,,2006-05-08,
+pfg-ipopliarchos-roussen,Ipopliarchos Grigoropoulos,greece,Active,,2010-10-18,
+pfg-ipopliarchos-roussen,Antipliarchos Ritsos,greece,Active,,2015-01-30,
+ff-godavari,INS Godavari,india,Active,Sunk,1953-04-27,1976-03-23
+ff-godavari,INS Gomati,india,Active,Scrapped,1953-04-27,1979-01-01
+ff-godavari,INS Ganga,india,Active,Scrapped,1953-06-18,1975-01-01
+fs-kamorta,INS Arnala,india,Active,Scrapped,1972-06-29,1999-04-01
+fs-kamorta,INS Androth,india,Active,Scrapped,1972-06-30,1999-04-01
+fs-kamorta,INS Anjadip,india,Active,Scrapped,1972-12-23,2003-12-01
+fs-kamorta,INS Andaman,india,Active,Sunk,1973-12-28,1990-08-22
+fs-kamorta,INS Amini,india,Active,Scrapped,1974-12-12,2002-09-01
+fs-kamorta,INS Kamorta,india,Active,Scrapped,1968-11-21,1991-10-01
+fs-kamorta,INS Kadmatt,india,Active,Scrapped,1968-12-23,1992-11-01
+fs-kamorta,INS Kiltan,india,Active,Scrapped,1969-10-30,1987-06-01
+fs-kamorta,INS Kavaratti,india,Active,Scrapped,1969-12-23,1986-07-01
+fs-kamorta,INS Katchall,india,Active,Scrapped,1969-12-23,1988-12-01
+fs-kamorta,INS Kanjar,india,Active,Scrapped,1976-01-01,1988-01-01
+fs-kamorta,INS Amindivi,india,Active,Scrapped,1976-01-01,1988-01-01
+pc-izumi,Idzumi,japan,Active,Scrapped,1894-11-15,1912-04-01
+pc-sai-yen,Sai Yen,japan,Active,Sunk,1895-03-26,1904-11-30
+pc-soya,Soya,japan,Active,Sold,1907-01-01,1916-04-01
+pc-suzuya,Suzuya,japan,Active,Scrapped,1908-12-01,1913-04-01
+pc-tsugaru,Tsugaru,japan,Active,Auxiliary,1910-05-01,1920-01-01
+pc-yodo,Yodo,japan,Active,Auxiliary,1908-07-10,1927-01-01
+pc-mogami,Mogami,japan,Active,Scrapped,1908-09-16,1928-01-01
+cl-yasoshima,Ioshima,japan,Active,Sunk,1944-06-28,1944-09-19
+cl-yasoshima,Yasoshima,japan,Active,Sunk,1944-06-10,1944-11-25
+pc-tsukushi,Tsukushi,japan,Active,Training,1883-06-16,1906-05-01
+up-takao,Takao,japan,Active,Scrapped,1889-11-16,1911-04-01
+pc-yaeyama,Yaeyama,japan,Active,Scrapped,1892-03-01,1906-01-01
+up-tatsuta,Tatsuta,japan,Active,Auxiliary,1894-07-31,1918-01-01
+up-miyako,Miyako,japan,Active,Sunk,1899-03-01,1904-05-14
+up-chihaya,Chihaya,japan,Active,Scrapped,1901-09-01,1927-01-01
+de-yamasemi,Yamasemi,japan,Active,Scrapped,1937-12-01,1939-01-01
+fsg-laksamana-hang-hadim,KD Laksamana Hang Nadim,malaysia,Active,,1997-07-28,
+fsg-laksamana-hang-hadim,KD Laksamana Hang Nadim,malaysia,Active,,1997-07-28,
+fsg-laksamana-hang-hadim,KD Laksamana Muhammad Amin,malaysia,Active,,1999-07-31,
+fsg-laksamana-hang-hadim,KD Laksamana Tan Pusmah,malaysia,Active,,1999-07-31,
+de-bath,HNoMS Bath,norway,Active,Sunk,1941-04-01,1941-08-19
+de-bath,HNoMS Mansfield,norway,Active,Sold,1942-06-01,1942-02-01
+de-bath,HNoMS Newport,norway,Active,Sold,1940-12-01,1942-06-01
+de-st-albans,HNoMS St. Albans,norway,Active,Sold,1941-10-01,1944-02-01
+de-lincoln,HNoMS Lincoln,norway,Active,Sold,1941-04-01,1944-02-01
+dd-stord,HNoMS Stord,norway,Active,Scrapped,1943-09-01,1959-01-01
+dd-stord,HNoMS Svenner,norway,Active,Sunk,1944-03-01,1944-06-06
+dd-oslo,HNoMS Oslo,norway,Active,Scrapped,1947-04-01,1966-01-01
+dd-oslo,HNoMS Bergen,norway,Active,Scrapped,1946-09-01,1967-01-01
+dd-oslo,HNoMS Trondheim,norway,Active,Scrapped,1945-11-01,1967-05-01
+dd-oslo,HNoMS Stavanger,norway,Active,Scrapped,1946-02-01,1967-01-01
+up-lima,Lima,peru,Active,Auxiliary,1888-12-01,1926-01-01
+cl-almirante-grau-1959,Almirante Grau,peru,Active,Renamed,1959-12-19,1973-05-01
+cl-almirante-grau-1959,Capitan Quinones,peru,Active,Scrapped,1973-05-01,1980-05-01
+cl-almirante-grau-1959,Coronel Bolognesi,peru,Active,Scrapped,1960-02-09,1982-05-01
+cl-almirante-grau-1973,Almirante Grau,peru,Active,Renamed,1973-03-07,1986-01-01
+cl-almirante-grau-1973,Proyecto 01,peru,Active,Renamed,1986-01-01,1987-01-01
+cl-almirante-grau-1973,Almirante Grau,peru,Active,Scrapped,1987-01-01,2017-09-01
+cl-aguirre,Aguirre,peru,Active,Renamed,1976-08-01,1986-01-01
+cl-aguirre,Almirante Grau,peru,Active,Renamed,1986-01-01,1987-01-01
+cl-aguirre,Aguirre,peru,Active,Scrapped,1987-01-01,1999-03-01
+dd-teniente-rodriguez,Teniente Rodriguez,peru,Active,Auxiliary,1911-01-01,1939-01-01
+dd-almirante-villar,Almirante Villar,peru,Active,Auxiliary,1933-07-01,1952-01-01
+dd-almirante-guise,Almirante Guise,peru,Active,Scrapped,1933-07-01,1949-05-01
+dd-villar,Villar,peru,Active,Scrapped,1961-10-08,1980-01-01
+dd-villar,Almirante Guise,peru,Active,Scrapped,1960-12-15,1981-01-01
+dd-palacios,Palacios,peru,Active,Scrapped,1969-12-01,1993-01-01
+dd-palacios,Ferre,peru,Active,Scrapped,1969-12-01,2007-07-01
+dd-garcia-y-garcia,Garcia y Garcia,peru,Active,Scrapped,1978-01-02,1986-01-01
+dd-coronel-bolognesi,Colonel Bolognesi,peru,Active,Scrapped,1982-06-14,1990-01-01
+dd-coronel-bolognesi,Castilla,peru,Active,Scrapped,1980-10-06,1990-01-01
+dd-coronel-bolognesi,Guise,peru,Active,Scrapped,1981-07-11,1985-08-01
+dd-coronel-bolognesi,Capitan Quinones,peru,Active,Scrapped,1980-06-27,1992-01-01
+dd-coronel-bolognesi,Villar,peru,Active,Scrapped,1980-05-19,1991-01-01
+dd-coronel-bolognesi,Galvez,peru,Active,Scrapped,1981-02-02,1991-01-01
+dd-coronel-bolognesi,Diez Canseco,peru,Active,Scrapped,1981-07-11,1991-01-01
+ff-teniente-galvez,Teniente Galvez,peru,Active,Renamed,1947-05-01,1953-01-01
+ff-teniente-galvez,Galvez,peru,Active,Scrapped,1953-01-01,1961-01-01
+ff-teniente-ferre,Teniente Ferre,peru,Active,Renamed,1947-05-01,1953-01-01
+ff-teniente-ferre,Ferre,peru,Active,Scrapped,1953-01-01,1966-01-01
+ff-teniente-ferre,Teniente Palacios,peru,Active,Renamed,1947-05-01,1953-01-01
+ff-teniente-ferre,Palacios,peru,Active,Scrapped,1953-01-01,1966-01-01
+ff-aguirre,Castilla,peru,Active,Scrapped,1951-10-26,1979-01-01
+ff-aguirre,Aguirre,peru,Active,Target,1951-10-26,1974-01-01
+ff-aguirre,Rodriguez,peru,Active,Scrapped,1951-10-26,1979-01-01
+ffg-carvajal,Carvajal,peru,Active,Auxiliary,1978-12-23,2013-12-01
+ffg-carvajal,Villavicencio,peru,Active,,1979-06-25,
+ffg-carvajal,Montero,peru,Active,Renamed,1984-07-25,2017-09-01
+ffg-carvajal,Almirante Grau,peru,Active,,2017-09-01,
+ffg-carvajal,Mariategui,peru,Active,,1987-12-28,
+ffg-aguirre-2004,Aguirre,peru,Active,,2004-11-03,
+ffg-aguirre-2004,Palacios,peru,Active,,2004-11-03,
+ffg-aguirre-2004,Bolognesi,peru,Active,,2006-01-23,
+ffg-aguirre-2004,Quiñones,peru,Active,,2006-01-23,
+fs-galvez,Galvez,peru,Active,Auxiliary,1960-11-01,1975-01-01
+fs-galvez,Diez Canseco,peru,Active,Auxiliary,1960-11-01,1975-01-01
+cl-dragon,Dragon,poland,Active,Sunk,1943-01-15,1944-07-08
+cl-conrad,Conrad,poland,Active,Sold,1944-10-04,1946-09-28
+dd-garland,Garland,poland,Active,Sold,1940-05-01,1946-09-01
+dd-ouragan,Ouragan,poland,Active,Sold,1940-07-01,1941-04-01
+dd-piorun,Piorun,poland,Active,Sold,1940-11-01,1946-09-01
+dd-orkan,Orkan,poland,Active,Auxiliary,1942-11-01,1943-10-08
+dd-wicher,Grom,poland,Active,Scrapped,1957-12-15,1972-01-01
+dd-wicher,Wicher,poland,Active,Scrapped,1958-06-29,1974-01-01
+ddg-warszawa,Warszawa,poland,Active,Scrapped,1970-06-25,1986-01-01
+ddg-warszawa-1988,Warszawa,poland,Active,Scrapped,1988-01-09,2003-12-01
+bb-arkhangelsk,Arkhangelsk,russia,Active,Sold,1944-05-30,1949-02-01
+bb-novorossiysk,Novorossiysk,russia,Active,Sunk,1949-02-06,1955-10-30
+pc-prut,Prut,russia,Active,Captured,1916-02-25,1918-05-01
+cl-murmansk,Murmansk,russia,Active,Sold,1944-03-09,1949-03-01
+cl-admiral-makarov,Admiral Makarov,russia,Active,Scrapped,1946-01-02,1959-02-01
+cl-kerch,Kerch',russia,Active,Auxiliary,1949-03-02,1958-03-01
+up-yaroslavl,Yaroslavl',russia,Active,Scrapped,1882-04-30,1883-04-01
+up-yaroslavl,Pamiat' Merkuriya,russia,Active,Scrapped,1883-04-01,1907-04-01
+pc-novik,Novik,russia,Active,Sunk,1901-12-17,1904-08-20
+pc-boyarin,Boyarin,russia,Active,Sunk,1902-08-30,1904-02-13
+pc-zhemchug,Zhemchug,russia,Active,Interned,1904-10-01,1905-06-03
+pc-zhemchug,Zhemchug,russia,Interned,Active,1905-06-03,1905-09-01
+pc-zhemchug,Zhemchug,russia,Active,Sunk,1905-09-01,1914-10-28
+pc-izumrud,Izumrud,russia,Active,Sunk,1904-10-01,1905-05-29
+dd-zharkiy,Zharkiy,russia,Active,Sold,1944-07-01,1949-02-01
+dd-zharkiy,Druzhnyy,russia,Active,Sold,1944-08-01,1952-08-01
+dd-zhguchiy,Zhguchiy,russia,Active,Sold,1944-07-01,1950-01-01
+dd-zhivuchiy,Zhivuchiy,russia,Active,Sold,1944-07-01,1949-06-01
+dd-zhivuchiy,Zhostkiy,russia,Active,Sold,1944-08-01,1949-02-01
+dd-zhivuchiy,Derzkiy,russia,Active,Sold,1944-07-01,1949-06-01
+dd-zhivuchiy,Doblestnyy,russia,Active,Sold,1944-08-01,1952-08-01
+dd-dostoynyy,Dostoynyy,russia,Active,Sold,1944-07-01,1949-02-01
+dd-dyeyatelnyy,Dyeyatelnyy,russia,Active,Sunk,1944-07-01,1945-01-16
+dd-letuchiy,Letuchiy,russia,Active,Sold,1944-08-01,1951-07-01
+dd-letuchiy,Likhoy,russia,Active,Sold,1944-08-01,1951-07-01
+dd-liogkiy,Liogkiy,russia,Active,Sold,1944-08-01,1945-10-01
+dd-liogkiy,Lovkiy,russia,Active,Sold,1944-08-01,1945-10-01
+dd-prytkiy,Prytkiy,russia,Active,Scrapped,1946-02-01,1952-03-01
+dd-prytkiy,Pylkiy,russia,Active,Auxiliary,1946-01-01,1949-04-01
+dd-prochnyy,Prochnyy,russia,Active,Auxiliary,1946-02-01,1954-11-01
+dd-provornyy,Provornyy,russia,Active,Target,1946-01-01,1958-03-01
+dd-vernyy,Vernyy,russia,Active,Training,1947-07-07,1948-07-01
+de-volevoy,Vozrozhdyonnyy,russia,Active,Target,1947-07-29,1949-06-01
+de-volevoy,Volevoy,russia,Active,Target,1947-07-07,1949-06-01
+de-vol-nyy,Vol'nyy,russia,Active,Target,1947-07-07,1949-06-01
+de-vol-nyy,Vetrenyy,russia,Active,Target,1947-07-07,1947-10-01
+de-vol-nyy,Vyrazitelnyy,russia,Active,Target,1947-10-01,1949-06-01
+dd-vnezapnyy,Vnezapnyy,russia,Active,Training,1947-08-28,1949-06-01
+dd-lovkiy,Lovkiy,russia,Active,Target,1949-01-23,1954-11-01
+dd-lovkiy,Liogkiy,russia,Active,Target,1950-02-01,1954-11-01
+up-aragon,Aragon,spain,Active,Scrapped,1881-01-01,1905-01-01
+up-aragon,Navarra,spain,Active,Training,1889-01-01,1899-01-01
+up-aragon,Castilla,spain,Active,Auxiliary,1886-01-01,1898-05-01
+up-velasco,Velasco,spain,Active,Sunk,1881-12-01,1898-05-01
+up-velasco,Gravina,spain,Active,Sunk,1881-12-01,1884-07-10
+up-infanta-isabel,Infanta Isabel,spain,Active,Scrapped,1888-01-01,1926-01-01
+up-infanta-isabel,Isabel II,spain,Active,Scrapped,1888-01-01,1902-01-01
+up-infanta-isabel,Cristobal Colon,spain,Active,Sunk,1889-01-01,1895-09-29
+up-infanta-isabel,Don Juan de Austria,spain,Active,Sunk,1889-01-01,1898-05-01
+up-infanta-isabel,Don Antonio de Ulloa,spain,Active,Sunk,1889-01-01,1898-05-01
+up-infanta-isabel,Conde de Venadito,spain,Active,Scrapped,1891-08-12,1902-07-01
+up-alfonso-xii,Alfonso XII,spain,Active,Scrapped,1891-07-06,1900-01-01
+up-alfonso-xii,Reina Cristina,spain,Active,Sunk,1890-04-19,1898-05-01
+up-alfonso-xii,Reina Mercedes,spain,Active,Sunk,1892-01-01,1898-07-04
+bc-yavuz-sultan-selim,Yavuz Sultan Selim,turkey,Active,Renamed,1914-08-16,1930-01-01
+bc-yavuz-sultan-selim,Yavuz Selim,turkey,Active,Renamed,1930-01-01,1936-01-01
+bc-yavuz-sultan-selim,Yavuz,turkey,Active,Scrapped,1936-01-01,1954-11-01
+cl-midilli,Midilli,turkey,Active,Sunk,1914-08-16,1918-01-20
+up-lutf-u-humayun,Lutf-u Humayun,turkey,Active,Scrapped,1896-10-01,1908-01-01
+dd-muavenet-i-milliye,Muavenet-i Milliye,turkey,Active,Scrapped,1910-08-01,1918-10-01
+dd-muavenet-i-milliye,Yadigar-i Millet,turkey,Active,Sunk,1910-08-01,1917-07-10
+dd-muavenet-i-milliye,Numune-Hamiyet,turkey,Active,Scrapped,1910-08-01,1918-10-01
+dd-muavenet-i-milliye,Gayret-i Vataniye,turkey,Active,Sunk,1910-08-01,1916-08-27
