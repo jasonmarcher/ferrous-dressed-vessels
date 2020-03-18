@@ -6103,7 +6103,7 @@ dd-u,HMS Urchin,britain,Active,Scrapped,1943-09-01,1967-08-01
 dd-u,HMS Ursa,britain,Active,Scrapped,1944-03-01,1967-09-01
 dd-v,HMS Hardy,britain,Active,Sunk,1943-08-01,1944-01-30
 dd-v,HMCS Algonquin,britain,Active,Converted,1944-02-01,1956-01-01
-fs-type-15,HMCS Algonquin,britain,Converted,Scrapped,1956-01-01,1971-04-01
+fs-type-15,HMCS Algonquin,britain,Active,Scrapped,1956-01-01,1971-04-01
 dd-v,HMS Venus,britain,Active,Target,1943-08-01,1968-10-01
 dd-v,HMS Venus,britain,Target,Scrapped,1968-10-01,1972-12-01
 dd-v,HMS Verulam,britain,Active,Scrapped,1943-12-01,1972-10-01
@@ -6220,7 +6220,7 @@ pf-river-rcn,HMCS Royal Mount,britain,Reserve,Scrapped,1945-11-01,1947-01-01
 pf-river-rcn,HMCS Runnymede,britain,Active,Reserve,1944-06-01,1946-01-01
 pf-river-rcn,HMCS Runnymede,britain,Reserve,Scrapped,1946-01-01,1948-01-01
 pf-river-rcn,HMCS St. Pierre,britain,Active,Reserve,1944-08-01,1945-11-01
-pf-river-rcn,HMCS St. Pierre,britain,REserve,Sold,1945-11-01,1947-01-01
+pf-river-rcn,HMCS St. Pierre,britain,Reserve,Sold,1945-11-01,1947-01-01
 pf-river-rcn,HMCS St. Stephen,britain,Active,Reserve,1944-07-01,1946-01-01
 pf-river-rcn,HMCS St. Stephen,britain,Reserve,Auxiliary,1946-01-01,1947-01-01
 pf-river-rcn,HMCS Ste. Therese,britain,Active,Reserve,1944-05-01,1967-01-01
@@ -10704,9 +10704,9 @@ cs-brindisi,Venezia,italy,Active,Auxiliary,1920-09-19,1930-03-01
 cl-taranto,Taranto,italy,Active,Sunk,1920-07-20,1943-09-09
 cl-ancona,Ancona,italy,Active,Scrapped,1920-06-01,1937-03-01
 cl-bari,Bari,italy,Active,Scrapped,1920-07-20,1943-06-28
-cs-admiral-spaun-rn,HMS Admiral Spaun,brittain,Active,Scrapped,1920-01-01,1920-02-01
-ac-sankt-georg-rn,HMS Sankt Georg,brittain,Active,Scrapped,1920-01-01,1920-02-01
-ac-kaiser-karl-vi-rn,HMS Kaiser Karl VI,brittain,Active,Scrapped,1920-01-01,1920-02-01
+cs-admiral-spaun-rn,HMS Admiral Spaun,britain,Active,Scrapped,1920-01-01,1920-02-01
+ac-sankt-georg-rn,HMS Sankt Georg,britain,Active,Scrapped,1920-01-01,1920-02-01
+ac-kaiser-karl-vi-rn,HMS Kaiser Karl VI,britain,Active,Scrapped,1920-01-01,1920-02-01
 mb-rais-hamidou,Rais Hamidou,algeria,Active,,1980-07-04,
 mb-rais-hamidou,Salah Rais,algeria,Active,,1981-02-09,
 mb-rais-hamidou,Rais Ali,algeria,Active,,1982-05-08,
@@ -10742,212 +10742,212 @@ ff-para-1989,Para,brazil,Active,Scrapped,1989-09-18,2008-11-01
 ff-para-1989,Parana,brazil,Active,Scrapped,1989-08-24,2002-07-01
 ff-paraiba,Paraiba,brazil,Active,Scrapped,1989-07-25,2002-07-01
 ff-paraiba,Pernmabuco,brazil,Active,Scrapped,1989-09-25,2004-03-01
-pred-swiftsure,HMS Swiftsure,brittain,Active,Scrapped,1904-06-01,1917-01-01
-pred-swiftsure,HMS Triumph,brittain,Active,Sunk,1904-06-01,1915-05-25
-bb-erin,HMS Erin,brittain,Active,Scrapped,1914-08-01,1922-12-01
-bb-agincourt,HMS Agincourt,brittain,Active,Scrapped,1914-08-01,1922-12-01
-bb-canada,HMCS Canada,brittain,Active,Sold,1915-09-30,1920-04-01
-pf-atherstone,HMS Atherstone,brittain,Active,Scrapped,1940-03-01,1957-11-01
-pf-atherstone,HMS Berkeley,brittain,Active,Sunk,1940-06-01,1942-08-19
-pf-atherstone,HMS Blencathra,brittain,Active,Scrapped,1940-12-01,1957-01-01
-pf-atherstone,HMS Brocklesby,brittain,Active,Scrapped,1941-05-01,1968-10-01
-pf-atherstone,HMS Cattistock,brittain,Active,Scrapped,1940-08-01,1957-06-01
-pf-atherstone,HMS Cleveland,brittain,Active,Sunk,1940-09-01,1957-06-28
-pf-atherstone,HMS Cotswold,brittain,Active,Scrapped,1940-11-01,1957-09-01
-pf-atherstone,HMS Cottesmore,brittain,Active,Sold,1940-12-01,1950-09-01
-pf-atherstone,HMS Eglinton,brittain,Active,Scrapped,1940-08-01,1956-05-01
-pf-atherstone,HMS Exmoor,brittain,Active,Sunk,1940-10-01,1941-02-25
-pf-atherstone,HMS Fernie,brittain,Active,Scrapped,1940-05-01,1956-11-01
-pf-atherstone,HMS Garth,brittain,Active,Scrapped,1940-07-01,1958-08-01
-pf-atherstone,HMS Hambledon,brittain,Active,Auxiliary,1940-06-01,1955-01-01
-pf-atherstone,HMS Holderness,brittain,Active,Scrapped,1940-08-01,1956-11-01
-pf-atherstone,HMS Liddesdale,brittain,Active,Scrapped,1941-02-01,1948-01-01
-pf-atherstone,HMS Mendip,brittain,Active,Sold,1940-10-01,1948-05-01
-pf-atherstone,HMS Mendip,brittain,Active,Sold,1949-06-01,1949-11-01
-pf-atherstone,HMS Meynell,brittain,Active,Sold,1940-12-01,1954-10-01
-pf-atherstone,HMS Pytchley,brittain,Active,Scrapped,1940-10-01,1956-12-01
-pf-atherstone,HMS Quantock,brittain,Active,Sold,1941-02-01,1954-10-01
-pf-atherstone,HMS Quorn,brittain,Active,Sunk,1940-08-01,1944-08-03
-pf-atherstone,HMS Southdown,brittain,Active,Scrapped,1940-11-01,1956-11-01
-pf-atherstone,HMS Tynedale,brittain,Active,Sunk,1940-11-01,1943-12-12
-pf-atherstone,HMS Whaddon,brittain,Active,Scrapped,1941-02-01,1959-04-01
-pf-eridge,HMS Avon Vale,brittain,Active,Scrapped,1941-02-01,1958-05-01
-pf-eridge,HMS Badsworth,brittain,Active,Sold,1941-08-01,1944-11-01
-pf-eridge,HMS Beaufort,brittain,Active,Sold,1941-11-01,1952-10-01
-pf-eridge,HMS Bedale,brittain,Active,Sold,1942-06-01,1942-04-01
-pf-eridge,HMS Bedale,brittain,Active,Sold,1946-08-01,1953-04-01
-pf-eridge,HMS Bicester,brittain,Active,Scrapped,1942-05-01,1956-08-01
-pf-eridge,HMS Blackmore,brittain,Active,Sold,1942-04-01,1952-10-01
-pf-eridge,HMS Blankney,brittain,Active,Scrapped,1941-04-01,1959-03-01
-pf-eridge,HMS Bramham,brittain,Active,Sold,1942-06-01,1943-03-01
-pf-eridge,HMS Calpe,brittain,Active,Sold,1941-12-01,1952-10-01
-pf-eridge,HMS Chiddingfold,brittain,Active,Sold,1941-10-01,1954-06-01
-pf-eridge,HMS Cowdray,brittain,Active,Sold,1942-07-01,1944-03-01
-pf-eridge,HMS Cowdray,brittain,Active,Sold,1944-06-01,1959-09-01
-pf-eridge,HMS Croome,brittain,Active,Scrapped,1941-06-01,1957-08-01
-pf-eridge,HMS Dulverton,brittain,Active,Sunk,1941-09-01,1943-11-13
-pf-eridge,HMS Eridge,brittain,Active,Scrapped,1941-02-01,1942-08-29
-pf-eridge,HMS Exmoor,brittain,Active,Sold,1941-10-01,1953-02-01
-pf-eridge,HMS Farndale,brittain,Active,Scrapped,1941-04-01,1962-12-01
-pf-eridge,HMS Grove,brittain,Active,Sunk,1942-02-01,1942-06-12
-pf-eridge,HMS Heythrop,brittain,Active,Sunk,1941-06-01,1942-03-20
-pf-eridge,HMS Hursley,brittain,Active,Scrapped,1942-04-01,1943-12-01
-pf-eridge,HMS Hurworth,brittain,Active,Sunk,1941-10-01,1943-10-22
-pf-eridge,HMS Lamerton,brittain,Active,Sold,1941-08-01,1953-04-01
-pf-eridge,HMS Lauderdale,brittain,Active,Sold,1941-12-01,1946-05-01
-pf-eridge,HMS Ledbury,brittain,Active,Scrapped,1942-02-01,1958-05-01
-pf-eridge,HMS Middleton,brittain,Active,Auxiliary,1942-01-01,1955-01-01
-pf-eridge,HMS Oakley,brittain,Active,Sold,1942-05-01,1958-10-01
-pf-eridge,HMS Puckeridge,brittain,Active,Sunk,1941-07-01,1943-09-06
-pf-eridge,HMS Silverton,brittain,Active,Scrapped,1941-05-01,1959-03-01
-pf-eridge,HMS Southwold,brittain,Active,Sunk,1941-10-01,1942-03-24
-pf-eridge,HMS Tetcott,brittain,Active,Scrapped,1941-12-01,1956-09-01
-pf-eridge,HMS Wheatland,brittain,Active,Scrapped,1941-11-01,1959-09-01
-pf-eridge,HMS Wilton,brittain,Active,Scrapped,1942-02-01,1959-11-01
-pf-eridge,HMS Zetland,brittain,Active,Sold,1942-06-01,1952-10-01
-de-bleasdale,HMS Airedale,brittain,Active,Sunk,1941-12-01,1942-06-15
-de-bleasdale,HMS Albrighton,brittain,Active,Sold,1942-02-01,1959-05-01
-de-bleasdale,HMS Aldenham,brittain,Active,Sunk,1942-01-01,1944-12-14
-de-bleasdale,HMS Belvoir,brittain,Active,Scrapped,1942-03-01,1957-10-01
-de-bleasdale,HMS Blean,brittain,Active,Sunk,1942-08-01,1942-12-11
-de-bleasdale,HMS Bleasdale,brittain,Active,Scrapped,1942-04-01,1956-09-01
-de-bleasdale,HMS Catterick,brittain,Active,Sold,1942-06-01,1946-05-01
-de-bleasdale,HMS Derwent,brittain,Active,Sunk,1942-04-01,1943-03-19
-de-bleasdale,HMS Easton,brittain,Active,Scrapped,1942-12-01,1953-01-01
-de-bleasdale,HMS Eggesford,brittain,Active,Sold,1943-01-01,1959-05-01
-de-bleasdale,HMS Goathland,brittain,Active,Scrapped,1942-11-01,1944-07-24
-de-bleasdale,HMS Haydon,brittain,Active,Scrapped,1942-10-01,1958-05-01
-de-bleasdale,HMS Holcombe,brittain,Active,Sunk,1942-09-01,1943-12-12
-de-bleasdale,HMS Limbourne,brittain,Active,Sunk,1942-10-01,1943-10-23
-de-bleasdale,HMS Melbreak,brittain,Active,Scrapped,1942-10-01,1956-11-01
-de-bleasdale,HMS Penylan,brittain,Active,Sunk,1942-08-01,1942-12-03
-de-bleasdale,HMS Rockwood,brittain,Active,Sunk,1942-11-01,1943-11-11
-de-bleasdale,HMS Stevenstone,brittain,Active,Scrapped,1943-03-01,1959-09-01
-de-bleasdale,HMS Talybont,brittain,Active,Scrapped,1943-05-01,1961-03-01
-de-bleasdale,HMS Tanatside,brittain,Active,Sold,1942-09-01,1946-05-01
-de-bleasdale,HMS Wensleydale,brittain,Active,Sunk,1942-10-01,1944-11-01
-de-brecon,HMS Brecon,brittain,Active,Scrapped,1942-12-01,1962-09-01
-de-brecon,HMS Brissenden,brittain,Active,Scrapped,1943-02-01,1965-03-01
-pf-bayntun,HMS Bayntun,brittain,Active,Sold,1943-02-01,1945-08-01
-pf-bayntun,HMS Bazely,brittain,Active,Sold,1943-02-01,1945-08-01
-pf-bayntun,HMS Berry,brittain,Active,Sold,1943-03-01,1946-02-01
-pf-bayntun,HMS Blackwood,brittain,Active,Sunk,1943-03-01,1944-06-15
-pf-bayntun,HMS Burges,brittain,Active,Sold,1943-06-01,1946-02-01
-pf-bayntun,HMS Capel,brittain,Active,Sunk,1943-08-01,1944-12-26
-pf-bayntun,HMS Cockburn,brittain,Active,Sold,1943-04-01,1945-08-01
-pf-bayntun,HMS Cooke,brittain,Active,Sold,1943-08-01,1946-03-01
-pf-bayntun,HMS Dacres,brittain,Active,Sold,1943-08-01,1946-01-01
-pf-bayntun,HMS Domett,brittain,Active,Sold,1943-09-01,1946-03-01
-pf-bayntun,HMS Foley,brittain,Active,Sold,1943-09-01,1945-08-01
-pf-bayntun,HMS Gardiner,brittain,Active,Sold,1943-09-01,1946-02-01
-pf-bayntun,HMS Garlies,brittain,Active,Sold,1943-09-01,1945-08-01
-pf-bayntun,HMS Goodall,brittain,Active,Sunk,1943-10-01,1945-04-29
-pf-bayntun,HMS Goodson,brittain,Active,Sunk,1943-10-01,1944-06-25
-pf-bayntun,HMS Gore,brittain,Active,Sold,1943-10-01,1946-05-01
-pf-bayntun,HMS Gould,brittain,Active,Sunk,1943-09-01,1944-03-01
-pf-bayntun,HMS Grindall,brittain,Active,Sold,1943-09-01,1945-08-01
-pf-bayntun,HMS Inglis,brittain,Active,Sold,1943-12-01,1946-03-01
-pf-bayntun,HMS Inman,brittain,Active,Sold,1944-01-01,1946-03-01
-pf-bayntun,HMS Keats,brittain,Active,Sold,1943-10-01,1946-02-01
-pf-bayntun,HMS Kempthorne,brittain,Active,Sold,1943-10-01,1945-08-01
-pf-bayntun,HMS Kingsmill,brittain,Active,Sold,1943-10-01,1945-08-01
-pf-bayntun,HMS Lawford,brittain,Active,Sunk,1943-11-01,1944-06-08
-pf-bayntun,HMS Lawson,brittain,Active,Sold,1943-11-01,1946-03-01
-pf-bayntun,HMS Pasley,brittain,Active,Sold,1943-11-01,1946-03-01
-pf-bayntun,HMS Loring,brittain,Active,Sold,1943-11-01,1947-01-01
-pf-bayntun,HMS Louis,brittain,Active,Sold,1943-11-01,1946-03-01
-pf-bayntun,HMS Manners,brittain,Active,Sunk,1943-12-01,1945-01-26
-pf-bayntun,HMS Hoste,brittain,Active,Sold,1943-12-01,1945-08-01
-pf-bayntun,HMS Moorsom,brittain,Active,Sold,1943-12-01,1945-10-01
-pf-bayntun,HMS Mounsey,brittain,Active,Sold,1943-12-01,1946-02-01
-pf-affleck,HMS Affleck,brittain,Active,Sunk,1943-09-01,1944-12-27
-pf-affleck,HMS Aylmer,brittain,Active,Sold,1943-09-01,1945-11-01
-pf-affleck,HMS Balfour,brittain,Active,Sold,1943-10-01,1945-10-01
-pf-affleck,HMS Bentinck,brittain,Active,Sold,1943-05-01,1946-01-01
-pf-affleck,HMS Bentley,brittain,Active,Sold,1943-10-01,1945-11-01
-pf-affleck,HMS Bickerton,brittain,Active,Sunk,1943-10-01,1944-08-22
-pf-affleck,HMS Bligh,brittain,Active,Sold,1943-10-01,1945-11-01
-pf-affleck,HMS Braithwaite,brittain,Active,Sold,1943-11-01,1945-11-01
-pf-affleck,HMS Bullen,brittain,Active,Sunk,1943-10-01,1944-12-06
-pf-affleck,HMS Byard,brittain,Active,Sold,1943-06-01,1945-12-01
-pf-affleck,HMS Byron,brittain,Active,Sold,1943-10-01,1945-11-01
-pf-affleck,HMS Calder,brittain,Active,Sold,1943-07-01,1945-10-01
-pf-affleck,HMS Conn,brittain,Active,Sold,1943-10-01,1945-11-01
-pf-affleck,HMS Cosby,brittain,Active,Sold,1943-12-01,1946-01-01
-pf-affleck,HMS Cotton,brittain,Active,Sold,1943-11-01,1945-11-01
-pf-affleck,HMS Cranstoun,brittain,Active,Sold,1943-11-01,1945-12-01
-pf-affleck,HMS Cubitt,brittain,Active,Sold,1943-11-01,1946-03-01
-pf-affleck,HMS Curzon,brittain,Active,Sold,1943-11-01,1946-03-01
-pf-affleck,HMS Dakins,brittain,Active,Sunk,1943-11-01,1944-12-25
-pf-affleck,HMS Deane,brittain,Active,Sold,1943-11-01,1946-03-01
-pf-affleck,HMS Duckworth,brittain,Active,Sold,1943-08-01,1945-12-01
-pf-affleck,HMS Duff,brittain,Active,Sunk,1943-08-01,1944-11-30
-pf-affleck,HMS Ekins,brittain,Active,Sunk,1943-11-01,1945-04-16
-pf-affleck,HMS Essington,brittain,Active,Sold,1943-09-01,1945-10-01
-pf-affleck,HMS Fitzroy,brittain,Active,Sold,1943-10-01,1946-01-01
-pf-affleck,HMS Halsted,brittain,Active,Sunk,1943-11-01,1944-06-11
-pf-affleck,HMS Hargood,brittain,Active,Sold,1944-02-01,1946-02-01
-pf-affleck,HMS Holmes,brittain,Active,Sold,1944-01-01,1945-12-01
-pf-affleck,HMS Hotham,brittain,Active,Auxiliary,1944-02-01,1946-03-01
-pf-affleck,HMS Narborough,brittain,Active,Sold,1944-01-01,1946-02-01
-pf-affleck,HMS Redmill,brittain,Active,Sunk,1943-11-01,1945-04-27
-pf-affleck,HMS Retalick,brittain,Active,Sold,1943-12-01,1945-10-01
-pf-affleck,HMS Riou,brittain,Active,Sold,1943-12-01,1946-02-01
-pf-affleck,HMS Rowley,brittain,Active,Sold,1943-12-01,1945-11-01
-pf-affleck,HMS Rupert,brittain,Active,Sold,1943-12-01,1946-03-01
-pf-affleck,HMS Rutherford,brittain,Active,Sold,1943-12-01,1945-10-01
-pf-affleck,HMS Seymour,brittain,Active,Sold,1943-12-01,1946-01-01
-pf-affleck,HMS Spragge,brittain,Active,Sold,1944-01-01,1946-02-01
-pf-affleck,HMS Stayner,brittain,Active,Sold,1943-12-01,1946-11-01
-pf-affleck,HMS Stockham,brittain,Active,Sold,1943-12-01,1946-01-01
-pf-affleck,HMS Thornbrough,brittain,Active,Sold,1943-12-01,1947-01-01
-pf-affleck,HMS Torrington,brittain,Active,Sold,1944-01-01,1946-06-01
-pf-affleck,HMS Trollope,brittain,Active,Sunk,1944-01-01,1944-07-06
-pf-affleck,HMS Tyler,brittain,Active,Sold,1944-01-01,1946-11-01
-pf-affleck,HMS Waldegrave,brittain,Active,Sold,1944-01-01,1945-12-01
-pf-affleck,HMS Whitaker,brittain,Active,Sunk,1944-01-01,1944-11-01
-pf-anguilla,HMS Anguilla,brittain,Active,Sold,1943-10-01,1946-05-01
-pf-anguilla,HMS Antigua,brittain,Active,Sold,1943-11-01,1946-05-01
-pf-anguilla,HMS Ascension,brittain,Active,Sold,1943-11-01,1946-05-01
-pf-anguilla,HMS Bahamas,brittain,Active,Sold,1943-12-01,1946-06-01
-pf-anguilla,HMS Barbados,brittain,Active,Sold,1943-12-01,1946-04-01
-pf-anguilla,HMS Caicos,brittain,Active,Sold,1943-12-01,1945-12-01
-pf-anguilla,HMS Cayman,brittain,Active,Sold,1944-01-01,1946-04-01
-pf-anguilla,HMS Dominica,brittain,Active,Sold,1944-01-01,1946-04-01
-pf-anguilla,HMS Labuan,brittain,Active,Sold,1944-02-01,1948-05-01
-pf-anguilla,HMS Montserrat,brittain,Active,Sold,1944-08-01,1946-06-01
-pf-anguilla,HMS Nyasaland,brittain,Active,Sold,1944-07-01,1946-04-01
-pf-anguilla,HMS Papua,brittain,Active,Sold,1944-07-01,1946-05-01
-pf-anguilla,HMS Perim,brittain,Active,Sold,1944-02-01,1946-05-01
-pf-anguilla,HMS Pitcairn,brittain,Active,Sold,1944-07-01,1946-06-01
-pf-anguilla,HMS St. Helena,brittain,Active,Sold,1944-02-01,1946-04-01
-pf-anguilla,HMS Sarawak,brittain,Active,Sold,1944-02-01,1946-05-01
-pf-anguilla,HMS Seychelles,brittain,Active,Sold,1944-02-01,1946-06-01
-pf-anguilla,HMS Somaliland,brittain,Active,Sold,1944-02-01,1946-05-01
-pf-anguilla,HMS Tobago,brittain,Active,Sold,1944-08-01,1946-05-01
-pf-anguilla,HMS Tortola,brittain,Active,Sold,1944-05-01,1946-05-01
-pf-anguilla,HMS Zanzibar,brittain,Active,Sold,1944-06-01,1946-05-01
-pf-bay,HMS Bigbury Bay,brittain,Active,Sold,1945-07-01,1959-05-01
-pf-bay,HMS Burghead Bay,brittain,Active,Sold,1945-09-01,1959-05-01
-pf-bay,HMS Cardigan Bay,brittain,Active,Scrapped,1945-06-01,1962-03-01
-pf-bay,HMS Carnarvon Bay,brittain,Active,Scrapped,1945-09-01,1959-08-01
-pf-bay,HMS Cawsand Bay,brittain,Active,Scrapped,1945-11-01,1959-09-01
-pf-bay,HMS Enard Bay,brittain,Active,Scrapped,1946-04-01,1957-11-01
-pf-bay,HMS Largo Bay,brittain,Active,Scrapped,1946-01-01,1958-07-01
-pf-bay,HMS Morecambe Bay,brittain,Active,Sold,1949-02-01,1961-05-01
-pf-bay,HMS Mounts Bay,brittain,Active,Sold,1946-04-01,1961-05-01
-pf-bay,HMS Padstow Bay,brittain,Active,Scrapped,1946-03-01,1959-08-01
-pf-bay,HMS Porlock Bay,brittain,Active,Sold,1946-03-01,1962-03-01
-pf-bay,HMS St. Austell Bay,brittain,Active,Scrapped,1945-05-01,1959-07-01
-pf-bay,HMS St. Brides Bay,brittain,Active,Scrapped,1945-06-01,1962-09-01
-pf-bay,HMS Start Bay,brittain,Active,Scrapped,1945-09-01,1958-07-01
-pf-bay,HMS Tremadoc Bay,brittain,Active,Scrapped,1945-10-01,1959-09-01
-pf-bay,HMS Veryan Bay,brittain,Active,Scrapped,1945-05-01,1959-07-01
-pf-bay,HMS Whitesand Bay,brittain,Active,Scrapped,1945-07-01,1956-02-01
-pf-bay,HMS Widemouth Bay,brittain,Active,Scrapped,1945-04-01,1957-11-01
-pf-bay,HMS Wigtown Bay,brittain,Active,Scrapped,1946-01-01,1959-04-01
-pf-bay,HMS Alert,brittain,Active,Auxiliary,1946-10-01,1971-10-01
-pf-bay,HMS Surprise,brittain,Active,Auxiliary,1945-09-01,1965-06-01
+pred-swiftsure,HMS Swiftsure,britain,Active,Scrapped,1904-06-01,1917-01-01
+pred-swiftsure,HMS Triumph,britain,Active,Sunk,1904-06-01,1915-05-25
+bb-erin,HMS Erin,britain,Active,Scrapped,1914-08-01,1922-12-01
+bb-agincourt,HMS Agincourt,britain,Active,Scrapped,1914-08-01,1922-12-01
+bb-canada,HMCS Canada,britain,Active,Sold,1915-09-30,1920-04-01
+pf-atherstone,HMS Atherstone,britain,Active,Scrapped,1940-03-01,1957-11-01
+pf-atherstone,HMS Berkeley,britain,Active,Sunk,1940-06-01,1942-08-19
+pf-atherstone,HMS Blencathra,britain,Active,Scrapped,1940-12-01,1957-01-01
+pf-atherstone,HMS Brocklesby,britain,Active,Scrapped,1941-05-01,1968-10-01
+pf-atherstone,HMS Cattistock,britain,Active,Scrapped,1940-08-01,1957-06-01
+pf-atherstone,HMS Cleveland,britain,Active,Sunk,1940-09-01,1957-06-28
+pf-atherstone,HMS Cotswold,britain,Active,Scrapped,1940-11-01,1957-09-01
+pf-atherstone,HMS Cottesmore,britain,Active,Sold,1940-12-01,1950-09-01
+pf-atherstone,HMS Eglinton,britain,Active,Scrapped,1940-08-01,1956-05-01
+pf-atherstone,HMS Exmoor,britain,Active,Sunk,1940-10-01,1941-02-25
+pf-atherstone,HMS Fernie,britain,Active,Scrapped,1940-05-01,1956-11-01
+pf-atherstone,HMS Garth,britain,Active,Scrapped,1940-07-01,1958-08-01
+pf-atherstone,HMS Hambledon,britain,Active,Auxiliary,1940-06-01,1955-01-01
+pf-atherstone,HMS Holderness,britain,Active,Scrapped,1940-08-01,1956-11-01
+pf-atherstone,HMS Liddesdale,britain,Active,Scrapped,1941-02-01,1948-01-01
+pf-atherstone,HMS Mendip,britain,Active,Sold,1940-10-01,1948-05-01
+pf-atherstone,HMS Mendip,britain,Active,Sold,1949-06-01,1949-11-01
+pf-atherstone,HMS Meynell,britain,Active,Sold,1940-12-01,1954-10-01
+pf-atherstone,HMS Pytchley,britain,Active,Scrapped,1940-10-01,1956-12-01
+pf-atherstone,HMS Quantock,britain,Active,Sold,1941-02-01,1954-10-01
+pf-atherstone,HMS Quorn,britain,Active,Sunk,1940-08-01,1944-08-03
+pf-atherstone,HMS Southdown,britain,Active,Scrapped,1940-11-01,1956-11-01
+pf-atherstone,HMS Tynedale,britain,Active,Sunk,1940-11-01,1943-12-12
+pf-atherstone,HMS Whaddon,britain,Active,Scrapped,1941-02-01,1959-04-01
+pf-eridge,HMS Avon Vale,britain,Active,Scrapped,1941-02-01,1958-05-01
+pf-eridge,HMS Badsworth,britain,Active,Sold,1941-08-01,1944-11-01
+pf-eridge,HMS Beaufort,britain,Active,Sold,1941-11-01,1952-10-01
+pf-eridge,HMS Bedale,britain,Active,Sold,1942-06-01,1942-04-01
+pf-eridge,HMS Bedale,britain,Active,Sold,1946-08-01,1953-04-01
+pf-eridge,HMS Bicester,britain,Active,Scrapped,1942-05-01,1956-08-01
+pf-eridge,HMS Blackmore,britain,Active,Sold,1942-04-01,1952-10-01
+pf-eridge,HMS Blankney,britain,Active,Scrapped,1941-04-01,1959-03-01
+pf-eridge,HMS Bramham,britain,Active,Sold,1942-06-01,1943-03-01
+pf-eridge,HMS Calpe,britain,Active,Sold,1941-12-01,1952-10-01
+pf-eridge,HMS Chiddingfold,britain,Active,Sold,1941-10-01,1954-06-01
+pf-eridge,HMS Cowdray,britain,Active,Sold,1942-07-01,1944-03-01
+pf-eridge,HMS Cowdray,britain,Active,Sold,1944-06-01,1959-09-01
+pf-eridge,HMS Croome,britain,Active,Scrapped,1941-06-01,1957-08-01
+pf-eridge,HMS Dulverton,britain,Active,Sunk,1941-09-01,1943-11-13
+pf-eridge,HMS Eridge,britain,Active,Scrapped,1941-02-01,1942-08-29
+pf-eridge,HMS Exmoor,britain,Active,Sold,1941-10-01,1953-02-01
+pf-eridge,HMS Farndale,britain,Active,Scrapped,1941-04-01,1962-12-01
+pf-eridge,HMS Grove,britain,Active,Sunk,1942-02-01,1942-06-12
+pf-eridge,HMS Heythrop,britain,Active,Sunk,1941-06-01,1942-03-20
+pf-eridge,HMS Hursley,britain,Active,Scrapped,1942-04-01,1943-12-01
+pf-eridge,HMS Hurworth,britain,Active,Sunk,1941-10-01,1943-10-22
+pf-eridge,HMS Lamerton,britain,Active,Sold,1941-08-01,1953-04-01
+pf-eridge,HMS Lauderdale,britain,Active,Sold,1941-12-01,1946-05-01
+pf-eridge,HMS Ledbury,britain,Active,Scrapped,1942-02-01,1958-05-01
+pf-eridge,HMS Middleton,britain,Active,Auxiliary,1942-01-01,1955-01-01
+pf-eridge,HMS Oakley,britain,Active,Sold,1942-05-01,1958-10-01
+pf-eridge,HMS Puckeridge,britain,Active,Sunk,1941-07-01,1943-09-06
+pf-eridge,HMS Silverton,britain,Active,Scrapped,1941-05-01,1959-03-01
+pf-eridge,HMS Southwold,britain,Active,Sunk,1941-10-01,1942-03-24
+pf-eridge,HMS Tetcott,britain,Active,Scrapped,1941-12-01,1956-09-01
+pf-eridge,HMS Wheatland,britain,Active,Scrapped,1941-11-01,1959-09-01
+pf-eridge,HMS Wilton,britain,Active,Scrapped,1942-02-01,1959-11-01
+pf-eridge,HMS Zetland,britain,Active,Sold,1942-06-01,1952-10-01
+de-bleasdale,HMS Airedale,britain,Active,Sunk,1941-12-01,1942-06-15
+de-bleasdale,HMS Albrighton,britain,Active,Sold,1942-02-01,1959-05-01
+de-bleasdale,HMS Aldenham,britain,Active,Sunk,1942-01-01,1944-12-14
+de-bleasdale,HMS Belvoir,britain,Active,Scrapped,1942-03-01,1957-10-01
+de-bleasdale,HMS Blean,britain,Active,Sunk,1942-08-01,1942-12-11
+de-bleasdale,HMS Bleasdale,britain,Active,Scrapped,1942-04-01,1956-09-01
+de-bleasdale,HMS Catterick,britain,Active,Sold,1942-06-01,1946-05-01
+de-bleasdale,HMS Derwent,britain,Active,Sunk,1942-04-01,1943-03-19
+de-bleasdale,HMS Easton,britain,Active,Scrapped,1942-12-01,1953-01-01
+de-bleasdale,HMS Eggesford,britain,Active,Sold,1943-01-01,1959-05-01
+de-bleasdale,HMS Goathland,britain,Active,Scrapped,1942-11-01,1944-07-24
+de-bleasdale,HMS Haydon,britain,Active,Scrapped,1942-10-01,1958-05-01
+de-bleasdale,HMS Holcombe,britain,Active,Sunk,1942-09-01,1943-12-12
+de-bleasdale,HMS Limbourne,britain,Active,Sunk,1942-10-01,1943-10-23
+de-bleasdale,HMS Melbreak,britain,Active,Scrapped,1942-10-01,1956-11-01
+de-bleasdale,HMS Penylan,britain,Active,Sunk,1942-08-01,1942-12-03
+de-bleasdale,HMS Rockwood,britain,Active,Sunk,1942-11-01,1943-11-11
+de-bleasdale,HMS Stevenstone,britain,Active,Scrapped,1943-03-01,1959-09-01
+de-bleasdale,HMS Talybont,britain,Active,Scrapped,1943-05-01,1961-03-01
+de-bleasdale,HMS Tanatside,britain,Active,Sold,1942-09-01,1946-05-01
+de-bleasdale,HMS Wensleydale,britain,Active,Sunk,1942-10-01,1944-11-01
+de-brecon,HMS Brecon,britain,Active,Scrapped,1942-12-01,1962-09-01
+de-brecon,HMS Brissenden,britain,Active,Scrapped,1943-02-01,1965-03-01
+pf-bayntun,HMS Bayntun,britain,Active,Sold,1943-02-01,1945-08-01
+pf-bayntun,HMS Bazely,britain,Active,Sold,1943-02-01,1945-08-01
+pf-bayntun,HMS Berry,britain,Active,Sold,1943-03-01,1946-02-01
+pf-bayntun,HMS Blackwood,britain,Active,Sunk,1943-03-01,1944-06-15
+pf-bayntun,HMS Burges,britain,Active,Sold,1943-06-01,1946-02-01
+pf-bayntun,HMS Capel,britain,Active,Sunk,1943-08-01,1944-12-26
+pf-bayntun,HMS Cockburn,britain,Active,Sold,1943-04-01,1945-08-01
+pf-bayntun,HMS Cooke,britain,Active,Sold,1943-08-01,1946-03-01
+pf-bayntun,HMS Dacres,britain,Active,Sold,1943-08-01,1946-01-01
+pf-bayntun,HMS Domett,britain,Active,Sold,1943-09-01,1946-03-01
+pf-bayntun,HMS Foley,britain,Active,Sold,1943-09-01,1945-08-01
+pf-bayntun,HMS Gardiner,britain,Active,Sold,1943-09-01,1946-02-01
+pf-bayntun,HMS Garlies,britain,Active,Sold,1943-09-01,1945-08-01
+pf-bayntun,HMS Goodall,britain,Active,Sunk,1943-10-01,1945-04-29
+pf-bayntun,HMS Goodson,britain,Active,Sunk,1943-10-01,1944-06-25
+pf-bayntun,HMS Gore,britain,Active,Sold,1943-10-01,1946-05-01
+pf-bayntun,HMS Gould,britain,Active,Sunk,1943-09-01,1944-03-01
+pf-bayntun,HMS Grindall,britain,Active,Sold,1943-09-01,1945-08-01
+pf-bayntun,HMS Inglis,britain,Active,Sold,1943-12-01,1946-03-01
+pf-bayntun,HMS Inman,britain,Active,Sold,1944-01-01,1946-03-01
+pf-bayntun,HMS Keats,britain,Active,Sold,1943-10-01,1946-02-01
+pf-bayntun,HMS Kempthorne,britain,Active,Sold,1943-10-01,1945-08-01
+pf-bayntun,HMS Kingsmill,britain,Active,Sold,1943-10-01,1945-08-01
+pf-bayntun,HMS Lawford,britain,Active,Sunk,1943-11-01,1944-06-08
+pf-bayntun,HMS Lawson,britain,Active,Sold,1943-11-01,1946-03-01
+pf-bayntun,HMS Pasley,britain,Active,Sold,1943-11-01,1946-03-01
+pf-bayntun,HMS Loring,britain,Active,Sold,1943-11-01,1947-01-01
+pf-bayntun,HMS Louis,britain,Active,Sold,1943-11-01,1946-03-01
+pf-bayntun,HMS Manners,britain,Active,Sunk,1943-12-01,1945-01-26
+pf-bayntun,HMS Hoste,britain,Active,Sold,1943-12-01,1945-08-01
+pf-bayntun,HMS Moorsom,britain,Active,Sold,1943-12-01,1945-10-01
+pf-bayntun,HMS Mounsey,britain,Active,Sold,1943-12-01,1946-02-01
+pf-affleck,HMS Affleck,britain,Active,Sunk,1943-09-01,1944-12-27
+pf-affleck,HMS Aylmer,britain,Active,Sold,1943-09-01,1945-11-01
+pf-affleck,HMS Balfour,britain,Active,Sold,1943-10-01,1945-10-01
+pf-affleck,HMS Bentinck,britain,Active,Sold,1943-05-01,1946-01-01
+pf-affleck,HMS Bentley,britain,Active,Sold,1943-10-01,1945-11-01
+pf-affleck,HMS Bickerton,britain,Active,Sunk,1943-10-01,1944-08-22
+pf-affleck,HMS Bligh,britain,Active,Sold,1943-10-01,1945-11-01
+pf-affleck,HMS Braithwaite,britain,Active,Sold,1943-11-01,1945-11-01
+pf-affleck,HMS Bullen,britain,Active,Sunk,1943-10-01,1944-12-06
+pf-affleck,HMS Byard,britain,Active,Sold,1943-06-01,1945-12-01
+pf-affleck,HMS Byron,britain,Active,Sold,1943-10-01,1945-11-01
+pf-affleck,HMS Calder,britain,Active,Sold,1943-07-01,1945-10-01
+pf-affleck,HMS Conn,britain,Active,Sold,1943-10-01,1945-11-01
+pf-affleck,HMS Cosby,britain,Active,Sold,1943-12-01,1946-01-01
+pf-affleck,HMS Cotton,britain,Active,Sold,1943-11-01,1945-11-01
+pf-affleck,HMS Cranstoun,britain,Active,Sold,1943-11-01,1945-12-01
+pf-affleck,HMS Cubitt,britain,Active,Sold,1943-11-01,1946-03-01
+pf-affleck,HMS Curzon,britain,Active,Sold,1943-11-01,1946-03-01
+pf-affleck,HMS Dakins,britain,Active,Sunk,1943-11-01,1944-12-25
+pf-affleck,HMS Deane,britain,Active,Sold,1943-11-01,1946-03-01
+pf-affleck,HMS Duckworth,britain,Active,Sold,1943-08-01,1945-12-01
+pf-affleck,HMS Duff,britain,Active,Sunk,1943-08-01,1944-11-30
+pf-affleck,HMS Ekins,britain,Active,Sunk,1943-11-01,1945-04-16
+pf-affleck,HMS Essington,britain,Active,Sold,1943-09-01,1945-10-01
+pf-affleck,HMS Fitzroy,britain,Active,Sold,1943-10-01,1946-01-01
+pf-affleck,HMS Halsted,britain,Active,Sunk,1943-11-01,1944-06-11
+pf-affleck,HMS Hargood,britain,Active,Sold,1944-02-01,1946-02-01
+pf-affleck,HMS Holmes,britain,Active,Sold,1944-01-01,1945-12-01
+pf-affleck,HMS Hotham,britain,Active,Auxiliary,1944-02-01,1946-03-01
+pf-affleck,HMS Narborough,britain,Active,Sold,1944-01-01,1946-02-01
+pf-affleck,HMS Redmill,britain,Active,Sunk,1943-11-01,1945-04-27
+pf-affleck,HMS Retalick,britain,Active,Sold,1943-12-01,1945-10-01
+pf-affleck,HMS Riou,britain,Active,Sold,1943-12-01,1946-02-01
+pf-affleck,HMS Rowley,britain,Active,Sold,1943-12-01,1945-11-01
+pf-affleck,HMS Rupert,britain,Active,Sold,1943-12-01,1946-03-01
+pf-affleck,HMS Rutherford,britain,Active,Sold,1943-12-01,1945-10-01
+pf-affleck,HMS Seymour,britain,Active,Sold,1943-12-01,1946-01-01
+pf-affleck,HMS Spragge,britain,Active,Sold,1944-01-01,1946-02-01
+pf-affleck,HMS Stayner,britain,Active,Sold,1943-12-01,1946-11-01
+pf-affleck,HMS Stockham,britain,Active,Sold,1943-12-01,1946-01-01
+pf-affleck,HMS Thornbrough,britain,Active,Sold,1943-12-01,1947-01-01
+pf-affleck,HMS Torrington,britain,Active,Sold,1944-01-01,1946-06-01
+pf-affleck,HMS Trollope,britain,Active,Sunk,1944-01-01,1944-07-06
+pf-affleck,HMS Tyler,britain,Active,Sold,1944-01-01,1946-11-01
+pf-affleck,HMS Waldegrave,britain,Active,Sold,1944-01-01,1945-12-01
+pf-affleck,HMS Whitaker,britain,Active,Sunk,1944-01-01,1944-11-01
+pf-anguilla,HMS Anguilla,britain,Active,Sold,1943-10-01,1946-05-01
+pf-anguilla,HMS Antigua,britain,Active,Sold,1943-11-01,1946-05-01
+pf-anguilla,HMS Ascension,britain,Active,Sold,1943-11-01,1946-05-01
+pf-anguilla,HMS Bahamas,britain,Active,Sold,1943-12-01,1946-06-01
+pf-anguilla,HMS Barbados,britain,Active,Sold,1943-12-01,1946-04-01
+pf-anguilla,HMS Caicos,britain,Active,Sold,1943-12-01,1945-12-01
+pf-anguilla,HMS Cayman,britain,Active,Sold,1944-01-01,1946-04-01
+pf-anguilla,HMS Dominica,britain,Active,Sold,1944-01-01,1946-04-01
+pf-anguilla,HMS Labuan,britain,Active,Sold,1944-02-01,1948-05-01
+pf-anguilla,HMS Montserrat,britain,Active,Sold,1944-08-01,1946-06-01
+pf-anguilla,HMS Nyasaland,britain,Active,Sold,1944-07-01,1946-04-01
+pf-anguilla,HMS Papua,britain,Active,Sold,1944-07-01,1946-05-01
+pf-anguilla,HMS Perim,britain,Active,Sold,1944-02-01,1946-05-01
+pf-anguilla,HMS Pitcairn,britain,Active,Sold,1944-07-01,1946-06-01
+pf-anguilla,HMS St. Helena,britain,Active,Sold,1944-02-01,1946-04-01
+pf-anguilla,HMS Sarawak,britain,Active,Sold,1944-02-01,1946-05-01
+pf-anguilla,HMS Seychelles,britain,Active,Sold,1944-02-01,1946-06-01
+pf-anguilla,HMS Somaliland,britain,Active,Sold,1944-02-01,1946-05-01
+pf-anguilla,HMS Tobago,britain,Active,Sold,1944-08-01,1946-05-01
+pf-anguilla,HMS Tortola,britain,Active,Sold,1944-05-01,1946-05-01
+pf-anguilla,HMS Zanzibar,britain,Active,Sold,1944-06-01,1946-05-01
+pf-bay,HMS Bigbury Bay,britain,Active,Sold,1945-07-01,1959-05-01
+pf-bay,HMS Burghead Bay,britain,Active,Sold,1945-09-01,1959-05-01
+pf-bay,HMS Cardigan Bay,britain,Active,Scrapped,1945-06-01,1962-03-01
+pf-bay,HMS Carnarvon Bay,britain,Active,Scrapped,1945-09-01,1959-08-01
+pf-bay,HMS Cawsand Bay,britain,Active,Scrapped,1945-11-01,1959-09-01
+pf-bay,HMS Enard Bay,britain,Active,Scrapped,1946-04-01,1957-11-01
+pf-bay,HMS Largo Bay,britain,Active,Scrapped,1946-01-01,1958-07-01
+pf-bay,HMS Morecambe Bay,britain,Active,Sold,1949-02-01,1961-05-01
+pf-bay,HMS Mounts Bay,britain,Active,Sold,1946-04-01,1961-05-01
+pf-bay,HMS Padstow Bay,britain,Active,Scrapped,1946-03-01,1959-08-01
+pf-bay,HMS Porlock Bay,britain,Active,Sold,1946-03-01,1962-03-01
+pf-bay,HMS St. Austell Bay,britain,Active,Scrapped,1945-05-01,1959-07-01
+pf-bay,HMS St. Brides Bay,britain,Active,Scrapped,1945-06-01,1962-09-01
+pf-bay,HMS Start Bay,britain,Active,Scrapped,1945-09-01,1958-07-01
+pf-bay,HMS Tremadoc Bay,britain,Active,Scrapped,1945-10-01,1959-09-01
+pf-bay,HMS Veryan Bay,britain,Active,Scrapped,1945-05-01,1959-07-01
+pf-bay,HMS Whitesand Bay,britain,Active,Scrapped,1945-07-01,1956-02-01
+pf-bay,HMS Widemouth Bay,britain,Active,Scrapped,1945-04-01,1957-11-01
+pf-bay,HMS Wigtown Bay,britain,Active,Scrapped,1946-01-01,1959-04-01
+pf-bay,HMS Alert,britain,Active,Auxiliary,1946-10-01,1971-10-01
+pf-bay,HMS Surprise,britain,Active,Auxiliary,1945-09-01,1965-06-01
 cl-o-higgins,O'Higgins,chile,Active,Scrapped,1951-01-09,1991-10-01
 cl-o-higgins,Capitan Prat,chile,Active,Renamed,1951-01-09,1982-04-01
 cl-o-higgins,Chacabuco,chile,Active,Scrapped,1982-04-01,1983-04-01
@@ -11017,28 +11017,39 @@ cl-elli-1914,Elli,greece,Active,Sunk,1914-05-14,1940-08-15
 cl-elli,Elli,greece,Active,Scrapped,1951-07-01,1964-01-01
 up-navarchos-miaoulis,Navarchos Miaoulis,greece,Active,Auxiliary,1879-11-01,1912-01-01
 dd-niki,Niki,greece,Active,Captured,1906-12-01,1916-12-01
+dd-niki,Niki,france,Active,Captured,1916-12-01,1918-12-01
 dd-niki,Niki,greece,Active,Scrapped,1918-12-01,1941-04-01
 dd-niki,Doxa,greece,Active,Captured,1906-12-01,1916-12-01
+dd-niki,Doxa,france,Active,Captured,1916-12-01,1918-12-01
 dd-niki,Doxa,greece,Active,Sunk,1918-12-01,1917-06-27
 dd-niki,Aspis,greece,Active,Captured,1907-10-01,1916-12-01
+dd-niki,Aspis,france,Active,Captured,1916-12-01,1918-12-01
 dd-niki,Aspis,greece,Active,Scrapped,1918-12-01,1941-04-01
 dd-niki,Velos,greece,Active,Captured,1907-10-01,1916-12-01
+dd-niki,Velos,france,Active,Captured,1916-12-01,1918-12-01
 dd-niki,Velos,greece,Active,Scrapped,1918-12-01,1926-01-01
 dd-thyella,Thyella,greece,Active,Captured,1907-05-01,1916-12-01
+dd-thyella,Thyella,france,Active,Captured,1916-12-01,1918-12-01
 dd-thyella,Thyella,greece,Active,Sunk,1918-12-01,1941-04-21
 dd-thyella,Nafkratoussa,greece,Active,Captured,1906-12-01,1916-12-01
+dd-thyella,Nafkratoussa,france,Active,Captured,1916-12-01,1918-12-01
 dd-thyella,Nafkratoussa,greece,Active,Sunk,1918-12-01,1921-03-01
 dd-thyella,Lonchi,greece,Active,Captured,1907-12-01,1916-12-01
+dd-thyella,Lonchi,france,Active,Captured,1916-12-01,1918-12-01
 dd-thyella,Lonchi,greece,Active,Scrapped,1918-12-01,1926-01-01
 dd-thyella,Sfendoni,greece,Active,Captured,1907-12-01,1916-12-01
+dd-thyella,Sfendoni,france,Active,Captured,1916-12-01,1918-12-01
 dd-thyella,Sfendoni,greece,Active,Scrapped,1918-12-01,1945-01-01
 dd-nea-genea,Nea Genea,greece,Active,Scrapped,1912-07-01,1919-01-01
 dd-nea-genea,Keravnos,greece,Active,Scrapped,1912-07-01,1919-01-01
 dd-aetos,Aetos,greece,Active,Captured,1912-09-01,1916-12-01
+dd-aetos,Aetos,france,Active,Captured,1916-12-01,1918-12-01
 dd-aetos,Aetos,greece,Active,Scrapped,1918-12-01,1946-01-01
 dd-aetos,Ierax,greece,Active,Captured,1912-09-01,1916-12-01
+dd-aetos,Ierax,france,Active,Captured,1916-12-01,1918-12-01
 dd-aetos,Ierax,greece,Active,Scrapped,1918-12-01,1946-01-01
 dd-aetos,Leon,greece,Active,Captured,1912-09-01,1916-12-01
+dd-aetos,Leon,france,Active,Captured,1916-12-01,1918-12-01
 dd-aetos,Leon,greece,Active,Sunk,1918-12-01,1941-05-15
 dd-aetos,Panthir,greece,Active,Scrapped,1912-09-01,1946-01-01
 dd-doxa,Doxa,greece,Active,Sold,1918-11-24,1919-09-01
@@ -11221,8 +11232,8 @@ dd-garland,Garland,poland,Active,Sold,1940-05-01,1946-09-01
 dd-ouragan,Ouragan,poland,Active,Sold,1940-07-01,1941-04-01
 dd-piorun,Piorun,poland,Active,Sold,1940-11-01,1946-09-01
 dd-orkan,Orkan,poland,Active,Auxiliary,1942-11-01,1943-10-08
-dd-wicher,Grom,poland,Active,Scrapped,1957-12-15,1972-01-01
-dd-wicher,Wicher,poland,Active,Scrapped,1958-06-29,1974-01-01
+dd-wicher-1957,Grom,poland,Active,Scrapped,1957-12-15,1972-01-01
+dd-wicher-1957,Wicher,poland,Active,Scrapped,1958-06-29,1974-01-01
 ddg-warszawa,Warszawa,poland,Active,Scrapped,1970-06-25,1986-01-01
 ddg-warszawa-1988,Warszawa,poland,Active,Scrapped,1988-01-09,2003-12-01
 bb-arkhangelsk,Arkhangelsk,russia,Active,Sold,1944-05-30,1949-02-01
@@ -11288,3 +11299,1324 @@ dd-muavenet-i-milliye,Muavenet-i Milliye,turkey,Active,Scrapped,1910-08-01,1918-
 dd-muavenet-i-milliye,Yadigar-i Millet,turkey,Active,Sunk,1910-08-01,1917-07-10
 dd-muavenet-i-milliye,Numune-Hamiyet,turkey,Active,Scrapped,1910-08-01,1918-10-01
 dd-muavenet-i-milliye,Gayret-i Vataniye,turkey,Active,Sunk,1910-08-01,1916-08-27
+ss-holland,USS Holland,usa,Active,Reserve,1900-10-01,1905-07-17
+ss-holland,USS Holland,usa,Reserve,Scrapped,1905-07-17,1910-11-01
+ss-a,USS Plunger,usa,Active,Reserve,1903-09-01,1905-11-03
+ss-a,USS Plunger,usa,Reserve,Active,1905-11-03,1907-02-23
+ss-a,USS Plunger,usa,Active,Renamed,1907-02-23,1911-11-01
+ss-a,USS A-1,usa,Active,Reserve,1911-11-01,1913-02-01
+ss-a,USS A-1,usa,Reserve,Scrapped,1913-02-01,1922-01-26
+ss-a,USS Adder,usa,Active,Reserve,1903-01-01,1909-07-26
+ss-a,USS Adder,usa,Reserve,Active,1909-07-26,1910-02-10
+ss-a,USS Adder,usa,Active,Renamed,1910-02-10,1911-11-01
+ss-a,USS A-2,usa,Active,Target,1911-11-01,1919-12-12
+ss-a,USS Grampus,usa,Active,Reserve,1903-05-01,1906-11-28
+ss-a,USS Grampus,usa,Reserve,Active,1906-11-28,1908-06-13
+ss-a,USS Grampus,usa,Active,Renamed,1908-06-13,1911-11-01
+ss-a,USS A-3,usa,Active,Target,1911-11-01,1921-07-21
+ss-a,USS Moccasin,usa,Active,Reserve,1903-01-01,1904-06-15
+ss-a,USS Moccasin,usa,Reserve,Active,1904-06-15,1910-02-10
+ss-a,USS Moccasin,usa,Active,Renamed,1910-02-10,1911-11-01
+ss-a,USS A-4,usa,Active,Target,1911-11-01,1919-12-12
+ss-a,USS Pike,usa,Active,Reserve,1903-05-01,1906-11-28
+ss-a,USS Pike,usa,Reserve,Active,1906-11-28,1908-06-08
+ss-a,USS Pike,usa,Active,Renamed,1908-06-08,1911-11-01
+ss-a,USS A-5,usa,Active,Reserve,1911-11-01,1912-06-28
+ss-a,USS A-5,usa,Reserve,Active,1912-06-28,1915-04-17
+ss-a,USS A-5,usa,Active,Target,1915-04-17,1921-07-25
+ss-a,USS Porpoise,usa,Active,Reserve,1903-09-01,1908-04-21
+ss-a,USS Porpoise,usa,Reserve,Active,1908-04-21,1908-11-20
+ss-a,USS Porpoise,usa,Active,Renamed,1908-11-20,1911-11-01
+ss-a,USS A-6,usa,Active,Target,1911-11-01,1919-12-12
+ss-a,USS Shark,usa,Active,Reserve,1903-09-01,1908-04-21
+ss-a,USS Shark,usa,Reserve,Active,1908-04-21,1908-08-14
+ss-a,USS Shark,usa,Active,Renamed,1908-08-14,1911-11-01
+ss-a,USS A-7,usa,Active,Reserve,1911-11-01,1918-04-01
+ss-a,USS A-7,usa,Reserve,Target,1918-04-01,1922-01-01
+ss-b,USS Viper,usa,Active,Reserve,1907-10-01,1909-11-30
+ss-b,USS Viper,usa,Reserve,Active,1909-11-30,1910-04-15
+ss-b,USS Viper,usa,Active,Reserve,1910-04-15,1911-05-09
+ss-b,USS Viper,usa,Reserve,Renamed,1911-05-09,1911-11-01
+ss-b,USS B-1,usa,Reserve,Active,1911-11-01,1915-04-17
+ss-b,USS B-1,usa,Active,Target,1915-04-17,1921-12-01
+ss-b,USS Cuttlefish,usa,Active,Reserve,1907-10-01,1909-11-30
+ss-b,USS Cuttlefish,usa,Reserve,Active,1909-11-30,1910-04-15
+ss-b,USS Cuttlefish,usa,Active,Reserve,1910-04-15,1911-05-09
+ss-b,USS Cuttlefish,usa,Reserve,Renamed,1911-05-09,1911-11-01
+ss-b,USS B-2,usa,Reserve,Active,1911-11-01,1913-08-02
+ss-b,USS B-2,usa,Active,Target,1913-08-02,1919-12-12
+ss-b,USS Tarantula,usa,Active,Reserve,1907-12-01,1909-11-06
+ss-b,USS Tarantula,usa,Reserve,Active,1909-11-06,1910-04-15
+ss-b,USS Tarantula,usa,Active,Reserve,1910-04-15,1911-05-09
+ss-b,USS Tarantula,usa,Reserve,Renamed,1911-05-09,1911-11-01
+ss-b,USS B-3,usa,Reserve,Active,1911-11-01,1913-09-02
+ss-b,USS B-3,usa,Active,Target,1913-09-02,1921-07-25
+ss-c,USS Octopus,usa,Active,Reserve,1908-06-01,1910-02-14
+ss-c,USS Octopus,usa,Reserve,Active,1910-02-14,1910-04-15
+ss-c,USS Octopus,usa,Active,Renamed,1910-04-15,1911-11-01
+ss-c,USS C-1,usa,Active,Scrapped,1911-11-01,1919-08-04
+ss-c,USS Stingray,usa,Active,Renamed,1909-11-01,1911-11-01
+ss-c,USS C-2,usa,Active,Reserve,1911-11-01,1919-08-22
+ss-c,USS C-2,usa,Reserve,Scrapped,1919-08-22,1919-12-01
+ss-c,USS Tarpon,usa,Active,Renamed,1909-11-01,1911-11-01
+ss-c,USS C-3,usa,Active,Reserve,1911-11-01,1919-08-22
+ss-c,USS C-3,usa,Reserve,Scrapped,1919-08-22,1919-12-23
+ss-c,USS Bonita,usa,Active,Renamed,1909-11-01,1911-11-01
+ss-c,USS C-4,usa,Active,Reserve,1911-11-01,1918-11-12
+ss-c,USS C-4,usa,Reserve,Scrapped,1918-11-12,1919-08-15
+ss-c,USS Snapper,usa,Active,Renamed,1910-02-01,1911-11-01
+ss-c,USS C-5,usa,Active,Scrapped,1911-11-01,1919-12-23
+ss-d,USS Narwhal,usa,Active,Renamed,1909-11-01,1911-11-01
+ss-d,USS D-1,usa,Active,Reserve,1911-11-01,1921-07-15
+ss-d,USS D-1,usa,Reserve,Scrapped,1921-07-15,1922-02-08
+ss-d,USS Grayling,usa,Active,Renamed,1909-11-01,1911-11-01
+ss-d,USS D-2,usa,Active,Reserve,1911-11-01,1919-09-09
+ss-d,USS D-2,usa,Reserve,Scrapped,1919-09-09,1922-01-18
+ss-d,USS Salmon,usa,Active,Renamed,1910-09-01,1911-11-01
+ss-d,USS D-3,usa,Active,Reserve,1911-11-01,1919-09-05
+ss-d,USS D-3,usa,Reserve,Scrapped,1919-09-05,1922-03-20
+ss-e,USS E-1,usa,Active,Reserve,1912-02-01,1920-03-20
+ss-e,USS E-1,usa,Reserve,Scrapped,1920-03-20,1921-10-20
+ss-e,USS E-2,usa,Active,Reserve,1912-02-01,1921-07-18
+ss-e,USS E-2,usa,Reserve,Scrapped,1921-07-18,1921-10-20
+ss-f,USS F-1,usa,Active,Reserve,1912-06-01,1916-03-15
+ss-f,USS F-1,usa,Reserve,Active,1916-03-15,1917-06-13
+ss-f,USS F-1,usa,Active,Sunk,1917-06-13,1917-12-17
+ss-f,USS F-2,usa,Active,Reserve,1912-06-01,1916-03-16
+ss-f,USS F-2,usa,Reserve,Active,1916-03-16,1917-06-13
+ss-f,USS F-2,usa,Active,Reserve,1917-06-13,1919-09-18
+ss-f,USS F-2,usa,Reserve,Scrapped,1919-09-18,1922-03-16
+ss-f,USS F-3,usa,Active,Reserve,1912-08-01,1916-03-15
+ss-f,USS F-3,usa,Reserve,Active,1916-03-15,1917-06-13
+ss-f,USS F-3,usa,Active,Scrapped,1917-06-13,1922-03-01
+ss-f,USS F-4,usa,Active,Sunk,1913-05-01,1915-03-25
+ss-g-1,USS G-1,usa,Active,Training,1912-10-01,1915-05-23
+ss-g-1,USS G-1,usa,Training,Scrapped,1915-05-23,1920-01-30
+ss-g-2,USS G-2,usa,Training,Reserve,1913-12-01,1914-06-15
+ss-g-2,USS G-2,usa,Reserve,Active,1914-06-15,1915-02-06
+ss-g-2,USS G-2,usa,Active,Training,1915-02-06,1917-08-21
+ss-g-2,USS G-2,usa,Training,Target,1917-08-21,1919-04-02
+ss-g-3,USS G-3,usa,Training,Active,1915-03-01,1918-05-01
+ss-g-3,USS G-3,usa,Active,Training,1918-05-01,1918-07-17
+ss-g-3,USS G-3,usa,Training,Reserve,1918-07-17,1920-12-06
+ss-g-3,USS G-3,usa,Reserve,Scrapped,1920-12-06,1921-05-05
+ss-g-4,USS G-4,usa,Active,Training,1914-01-01,1917-04-24
+ss-g-4,USS G-4,usa,Training,Reserve,1917-04-24,1919-03-01
+ss-g-4,USS G-4,usa,Reserve,Target,1919-03-01,1919-09-05
+ss-h,USS H-1,usa,Active,Sunk,1913-12-01,1920-03-12
+ss-h,USS H-2,usa,Active,Scrapped,1913-12-01,1930-12-18
+ss-h,USS H-3,usa,Active,Reserve,1914-01-01,1922-10-23
+ss-h,USS H-3,usa,Reserve,Scrapped,1922-10-23,1930-12-01
+ss-h,USS H-4,usa,Active,Reserve,1918-10-01,1922-10-25
+ss-h,USS H-4,usa,Reserve,Scrapped,1922-10-25,1931-02-01
+ss-h,USS H-5,usa,Active,Reserve,1918-09-01,1922-10-20
+ss-h,USS H-5,usa,Reserve,Scrapped,1922-10-20,1931-02-01
+ss-h,USS H-6,usa,Active,Reserve,1918-09-01,1922-10-23
+ss-h,USS H-6,usa,Reserve,Scrapped,1922-10-23,1931-02-01
+ss-h,USS H-7,usa,Active,Reserve,1918-10-01,1922-10-23
+ss-h,USS H-7,usa,Reserve,Scrapped,1922-10-23,1931-02-01
+ss-h,USS H-8,usa,Active,Reserve,1918-11-01,1922-11-17
+ss-h,USS H-8,usa,Reserve,Scrapped,1922-11-17,1931-02-01
+ss-h,USS H-9,usa,Active,Reserve,1918-11-01,1922-11-03
+ss-h,USS H-9,usa,Reserve,Scrapped,1922-11-03,1931-02-01
+ss-k,USS K-1,usa,Active,Reserve,1914-03-01,1923-03-07
+ss-k,USS K-1,usa,Reserve,Scrapped,1923-03-07,1931-06-01
+ss-k,USS K-2,usa,Active,Reserve,1914-01-01,1923-03-09
+ss-k,USS K-2,usa,Reserve,Scrapped,1923-03-09,1931-06-01
+ss-k,USS K-3,usa,Active,Reserve,1914-10-01,1923-02-20
+ss-k,USS K-3,usa,Reserve,Scrapped,1923-02-20,1931-06-01
+ss-k,USS K-4,usa,Active,Reserve,1914-10-01,1923-05-10
+ss-k,USS K-4,usa,Reserve,Scrapped,1923-05-10,1931-06-01
+ss-k,USS K-5,usa,Active,Reserve,1914-08-01,1923-02-20
+ss-k,USS K-5,usa,Reserve,Scrapped,1923-02-20,1930-12-01
+ss-k,USS K-6,usa,Active,Reserve,1914-09-01,1923-02-20
+ss-k,USS K-6,usa,Reserve,Scrapped,1923-02-20,1930-12-01
+ss-k,USS K-7,usa,Active,Reserve,1914-12-01,1923-02-12
+ss-k,USS K-7,usa,Reserve,Scrapped,1923-02-12,1930-12-01
+ss-k,USS K-8,usa,Active,Reserve,1914-12-01,1923-02-24
+ss-k,USS K-8,usa,Reserve,Scrapped,1923-02-24,1931-06-01
+ss-l-1,USS L-1,usa,Active,Scrapped,1916-04-01,1922-07-01
+ss-l-1,USS L-2,usa,Active,Reserve,1916-09-01,1923-05-04
+ss-l-1,USS L-2,usa,Reserve,Scrapped,1923-05-04,1933-11-01
+ss-l-1,USS L-3,usa,Active,Reserve,1916-04-01,1923-06-11
+ss-l-1,USS L-3,usa,Reserve,Scrapped,1923-06-11,1933-11-01
+ss-l-1,USS L-4,usa,Active,Scrapped,1916-05-01,1922-04-14
+ss-l-1,USS L-9,usa,Active,Reserve,1916-08-01,1923-05-04
+ss-l-1,USS L-9,usa,Reserve,Scrapped,1923-05-04,1933-11-01
+ss-l-1,USS L-10,usa,Active,Scrapped,1916-08-01,1922-05-01
+ss-l-1,USS L-11,usa,Active,Reserve,1916-08-01,1923-11-28
+ss-l-1,USS L-11,usa,Reserve,Scrapped,1923-11-28,1930-12-01
+ss-l-5,USS L-5,usa,Active,Scrapped,1918-02-01,1922-12-01
+ss-l-5,USS L-6,usa,Active,Scrapped,1917-12-01,1922-11-01
+ss-l-5,USS L-7,usa,Active,Scrapped,1917-12-01,1922-11-01
+ss-l-5,USS L-8,usa,Active,Target,1917-08-01,1922-11-01
+ss-n-1,USS N-1,usa,Active,Training,1917-09-01,1922-05-01
+ss-n-1,USS N-1,usa,Training,Reserve,1922-05-01,1926-04-30
+ss-n-1,USS N-1,usa,Reserve,Scrapped,1926-04-30,1930-12-01
+ss-n-1,USS N-2,usa,Active,Training,1917-09-01,1922-04-22
+ss-n-1,USS N-2,usa,Training,Reserve,1922-04-22,1926-04-30
+ss-n-1,USS N-2,usa,Reserve,Scrapped,1926-04-30,1930-12-01
+ss-n-1,USS N-3,usa,Active,Reserve,1917-09-01,1926-04-30
+ss-n-1,USS N-3,usa,Reserve,Scrapped,1926-04-30,1930-12-01
+ss-n-4,USS N-4,usa,Active,Scrapped,1918-06-01,1922-04-22
+ss-n-4,USS N-5,usa,Active,Reserve,1918-06-01,1919-04-10
+ss-n-4,USS N-5,usa,Reserve,Active,1919-04-10,1920-03-10
+ss-n-4,USS N-5,usa,Active,Reserve,1920-03-10,1921-04-07
+ss-n-4,USS N-5,usa,Reserve,Scrapped,1921-04-07,1922-04-19
+ss-n-4,USS N-6,usa,Active,Reserve,1918-07-01,1920-06-07
+ss-n-4,USS N-6,usa,Reserve,Active,1920-06-07,1920-09-15
+ss-n-4,USS N-6,usa,Active,Scrapped,1920-09-15,1922-02-16
+ss-n-4,USS N-7,usa,Active,Reserve,1918-06-01,1920-06-07
+ss-n-4,USS N-7,usa,Reserve,Scrapped,1920-06-07,1922-02-07
+ss-m,USS M-1,usa,Training,Scrapped,1918-02-01,1922-03-01
+ss-o-1,USS O-1,usa,Active,Auxiliary,1918-11-01,1930-12-28
+ss-o-1,USS O-1,usa,Auxiliary,Reserve,1930-12-28,1931-06-11
+ss-o-1,USS O-1,usa,Reserve,Scrapped,1931-06-11,1938-05-18
+ss-o-1,USS O-2,usa,Active,Reserve,1918-10-01,1931-06-25
+ss-o-1,USS O-2,usa,Reserve,Training,1931-06-25,1941-02-03
+ss-o-1,USS O-2,usa,Training,Scrapped,1941-02-03,1945-08-01
+ss-o-1,USS O-3,usa,Active,Reserve,1918-06-01,1931-06-06
+ss-o-1,USS O-3,usa,Reserve,Training,1931-06-06,1941-02-03
+ss-o-1,USS O-3,usa,Training,Scrapped,1941-02-03,1945-10-01
+ss-o-1,USS O-4,usa,Active,Reserve,1918-05-01,1931-06-03
+ss-o-1,USS O-4,usa,Reserve,Training,1931-06-03,1941-01-29
+ss-o-1,USS O-4,usa,Training,Scrapped,1941-01-29,1945-10-01
+ss-o-1,USS O-5,usa,Active,Sunk,1918-06-01,1923-10-28
+ss-o-1,USS O-6,usa,Active,Reserve,1918-06-01,1931-06-09
+ss-o-1,USS O-6,usa,Reserve,Training,1918-06-01,1941-02-04
+ss-o-1,USS O-6,usa,Training,Scrapped,1918-06-01,1945-09-01
+ss-o-1,USS O-7,usa,Active,Reserve,1918-07-01,1931-07-01
+ss-o-1,USS O-7,usa,Reserve,Training,1931-07-01,1941-02-12
+ss-o-1,USS O-7,usa,Training,Scrapped,1941-02-12,1945-07-01
+ss-o-1,USS O-8,usa,Active,Reserve,1918-07-01,1931-05-27
+ss-o-1,USS O-8,usa,Reserve,Training,1931-05-27,1941-04-28
+ss-o-1,USS O-8,usa,Training,Scrapped,1941-04-28,1945-10-01
+ss-o-1,USS O-9,usa,Active,Reserve,1918-07-01,1931-06-25
+ss-o-1,USS O-9,usa,Reserve,Training,1931-06-25,1941-04-14
+ss-o-1,USS O-9,usa,Training,Sunk,1941-04-14,1941-06-20
+ss-o-1,USS O-10,usa,Active,Reserve,1918-08-01,1931-06-25
+ss-o-1,USS O-10,usa,Reserve,Training,1931-06-25,1941-03-10
+ss-o-1,USS O-10,usa,Training,Scrapped,1941-03-10,1945-10-01
+ss-o-11,USS O-11,usa,Active,Reserve,1918-10-01,1924-06-21
+ss-o-11,USS O-11,usa,Reserve,Scrapped,1924-06-21,1930-05-01
+ss-o-11,USS O-12,usa,Active,Reserve,1918-10-01,1924-06-17
+ss-o-11,USS O-12,usa,Reserve,Sunk,1924-06-17,1930-05-01
+ss-o-11,USS O-13,usa,Active,Reserve,1918-11-01,1924-06-11
+ss-o-11,USS O-13,usa,Reserve,Scrapped,1924-06-11,1930-05-01
+ss-o-11,USS O-14,usa,Active,Reserve,1918-10-01,1924-06-17
+ss-o-11,USS O-14,usa,Reserve,Scrapped,1924-06-17,1930-05-01
+ss-o-11,USS O-15,usa,Active,Reserve,1918-08-01,1924-06-11
+ss-o-11,USS O-15,usa,Reserve,Scrapped,1924-06-11,1930-05-01
+ss-o-11,USS O-16,usa,Active,Reserve,1918-08-01,1924-06-21
+ss-o-11,USS O-16,usa,Reserve,Scrapped,1924-06-21,1930-05-01
+ss-r-1,USS R-1,usa,Active,Reserve,1918-12-01,1931-05-01
+ss-r-1,USS R-1,usa,Reserve,Active,1931-05-01,1940-10-16
+ss-r-1,USS R-1,usa,Active,Auxiliary,1940-10-16,1944-12-01
+ss-r-1,USS R-1,usa,Auxiliary,Scrapped,1944-12-01,1945-09-20
+ss-r-1,USS R-2,usa,Active,Training,1919-01-01,1931-02-09
+ss-r-1,USS R-2,usa,Training,Scrapped,1931-02-09,1945-06-02
+ss-r-1,USS R-3,usa,Active,Training,1919-04-01,1931-02-09
+ss-r-1,USS R-3,usa,Training,Reserve,1931-02-09,1934-08-10
+ss-r-1,USS R-3,usa,Reserve,Training,1934-08-10,1940-08-19
+ss-r-1,USS R-3,usa,Training,Sold,1940-08-19,1941-11-04
+ss-r-1,USS R-4,usa,Active,Training,1919-03-01,1931-02-09
+ss-r-1,USS R-4,usa,Training,Scrapped,1919-03-01,1945-06-18
+ss-r-1,USS R-5,usa,Active,Reserve,1919-04-01,1932-06-30
+ss-r-1,USS R-5,usa,Reserve,Active,1932-06-30,1940-08-19
+ss-r-1,USS R-5,usa,Active,Scrapped,1940-08-19,1945-09-14
+ss-r-1,USS R-6,usa,Active,Reserve,1919-05-01,1931-05-04
+ss-r-1,USS R-6,usa,Reserve,Active,1931-05-04,1940-11-15
+ss-r-1,USS R-6,usa,Active,Scrapped,1940-11-15,1945-10-27
+ss-r-1,USS R-7,usa,Active,Reserve,1919-06-01,1931-05-02
+ss-r-1,USS R-7,usa,Reserve,Active,1931-05-02,1940-06-22
+ss-r-1,USS R-7,usa,Active,Scrapped,1940-06-22,1945-09-14
+ss-r-1,USS R-8,usa,Active,Reserve,1919-07-01,1931-05-02
+ss-r-1,USS R-8,usa,Reserve,Target,1931-05-02,1936-05-12
+ss-r-1,USS R-9,usa,Active,Reserve,1919-07-01,1931-05-02
+ss-r-1,USS R-9,usa,Reserve,Active,1931-05-02,1940-09-01
+ss-r-1,USS R-9,usa,Active,Scrapped,1940-09-01,1945-09-25
+ss-r-1,USS R-10,usa,Active,Training,1919-08-01,1931-02-09
+ss-r-1,USS R-10,usa,Training,Active,1931-02-09,1941-01-01
+ss-r-1,USS R-10,usa,Active,Training,1941-01-01,1943-01-01
+ss-r-1,USS R-10,usa,Training,Scrapped,1943-01-01,1945-06-18
+ss-r-1,USS R-11,usa,Active,Training,1919-09-01,1931-02-09
+ss-r-1,USS R-11,usa,Training,Scrapped,1919-09-01,1945-10-01
+ss-r-1,USS R-12,usa,Active,Reserve,1919-09-01,1932-12-07
+ss-r-1,USS R-12,usa,Reserve,Active,1932-12-07,1940-07-01
+ss-r-1,USS R-12,usa,Active,Sunk,1940-07-01,1943-06-12
+ss-r-1,USS R-13,usa,Active,Training,1919-10-01,1931-02-09
+ss-r-1,USS R-13,usa,Training,Scrapped,1931-02-09,1945-10-01
+ss-r-1,USS R-14,usa,Active,Training,1919-12-01,1931-02-09
+ss-r-1,USS R-14,usa,Training,Scrapped,1931-02-09,1945-05-19
+ss-r-1,USS R-15,usa,Active,Reserve,1918-07-01,1931-05-07
+ss-r-1,USS R-15,usa,Reserve,Active,1931-05-07,1941-04-01
+ss-r-1,USS R-15,usa,Active,Scrapped,1941-04-01,1945-10-01
+ss-r-1,USS R-16,usa,Active,Reserve,1918-08-01,1931-05-12
+ss-r-1,USS R-16,usa,Reserve,Active,1931-05-12,1940-07-01
+ss-r-1,USS R-16,usa,Active,Scrapped,1940-07-01,1945-07-01
+ss-r-1,USS R-17,usa,Active,Reserve,1918-08-01,1931-05-15
+ss-r-1,USS R-17,usa,Reserve,Active,1931-05-15,1941-03-25
+ss-r-1,USS R-17,usa,Active,Sold,1941-03-25,1942-03-09
+ss-r-1,USS R-18,usa,Active,Reserve,1918-09-01,1931-05-13
+ss-r-1,USS R-18,usa,Reserve,Active,1931-05-13,1941-01-08
+ss-r-1,USS R-18,usa,Active,Scrapped,1941-01-08,1945-09-19
+ss-r-1,USS R-19,usa,Active,Reserve,1918-10-01,1931-05-15
+ss-r-1,USS R-19,usa,Reserve,Active,1931-05-15,1941-01-06
+ss-r-1,USS R-19,usa,Active,Sold,1941-01-06,1942-03-09
+ss-r-1,USS R-20,usa,Active,Reserve,1918-10-01,1931-05-15
+ss-r-1,USS R-20,usa,Reserve,Active,1931-05-15,1941-01-22
+ss-r-1,USS R-20,usa,Active,Scrapped,1941-01-22,1945-09-27
+ss-r-21,USS R-21,usa,Active,Reserve,1919-06-01,1924-06-21
+ss-r-21,USS R-21,usa,Reserve,Scrapped,1924-06-21,1930-05-09
+ss-r-21,USS R-22,usa,Active,Reserve,1919-08-01,1925-04-29
+ss-r-21,USS R-22,usa,Reserve,Scrapped,1925-04-29,1930-05-09
+ss-r-21,USS R-23,usa,Active,Reserve,1919-10-01,1925-04-24
+ss-r-21,USS R-23,usa,Reserve,Scrapped,1925-04-24,1930-05-09
+ss-r-21,USS R-24,usa,Active,Reserve,1919-06-01,1925-06-11
+ss-r-21,USS R-24,usa,Reserve,Scrapped,1925-06-11,1930-05-09
+ss-r-21,USS R-25,usa,Active,Reserve,1919-10-01,1924-06-21
+ss-r-21,USS R-25,usa,Reserve,Scrapped,1924-06-21,1930-05-09
+ss-r-21,USS R-26,usa,Active,Reserve,1919-10-01,1925-06-12
+ss-r-21,USS R-26,usa,Reserve,Scrapped,1925-06-12,1930-05-09
+ss-r-21,USS R-27,usa,Active,Reserve,1919-09-01,1925-04-24
+ss-r-21,USS R-27,usa,Reserve,Scrapped,1925-04-24,1930-05-09
+ss-s-3,USS S-3,usa,Active,Reserve,1919-01-01,1931-03-24
+ss-s-3,USS S-3,usa,Reserve,Scrapped,1931-03-24,1937-01-25
+ss-s-4,USS S-4,usa,Active,Reserve,1919-11-01,1936-01-01
+ss-s-4,USS S-4,usa,Reserve,Scrapped,1919-11-01,1936-01-01
+ss-s-4,USS S-5,usa,Active,Sunk,1920-03-01,1920-09-01
+ss-s-4,USS S-6,usa,Active,Reserve,1920-05-01,1931-04-10
+ss-s-4,USS S-6,usa,Reserve,Scrapped,1931-04-10,1937-01-01
+ss-s-4,USS S-7,usa,Active,Reserve,1920-07-01,1931-04-03
+ss-s-4,USS S-7,usa,Reserve,Scrapped,1931-04-03,1937-01-01
+ss-s-4,USS S-8,usa,Active,Reserve,1920-10-01,1931-04-11
+ss-s-4,USS S-8,usa,Reserve,Scrapped,1931-04-11,1937-01-25
+ss-s-4,USS S-9,usa,Active,Reserve,1921-02-01,1931-04-15
+ss-s-4,USS S-9,usa,Reserve,Scrapped,1931-04-15,1937-01-25
+ss-s-4,USS S-10,usa,Active,Scrapped,1922-09-01,1936-07-17
+ss-s-4,USS S-11,usa,Active,Reserve,1923-01-01,1936-06-22
+ss-s-4,USS S-11,usa,Reserve,Active,1936-06-22,1940-09-06
+ss-s-4,USS S-11,usa,Active,Scrapped,1940-09-06,1945-05-02
+ss-s-4,USS S-12,usa,Active,Reserve,1923-04-01,1936-09-30
+ss-s-4,USS S-12,usa,Reserve,Active,1936-09-30,1940-11-04
+ss-s-4,USS S-12,usa,Active,Scrapped,1940-11-04,1945-05-01
+ss-s-4,USS S-13,usa,Active,Reserve,1923-07-01,1936-09-30
+ss-s-4,USS S-13,usa,Reserve,Active,1936-09-30,1940-11-28
+ss-s-4,USS S-13,usa,Active,Scrapped,1940-11-28,1945-05-19
+ss-s-14,USS S-14,usa,Active,Reserve,1921-02-01,1935-05-22
+ss-s-14,USS S-14,usa,Reserve,Active,1935-05-22,1940-12-10
+ss-s-14,USS S-14,usa,Active,Scrapped,1940-12-10,1945-05-18
+ss-s-14,USS S-15,usa,Active,Reserve,1921-01-01,1935-04-26
+ss-s-14,USS S-15,usa,Reserve,Active,1935-04-26,1941-01-03
+ss-s-14,USS S-15,usa,Active,Scrapped,1941-01-03,1946-06-11
+ss-s-14,USS S-16,usa,Active,Reserve,1920-12-01,1935-05-22
+ss-s-14,USS S-16,usa,Reserve,Active,1935-05-22,1940-12-02
+ss-s-14,USS S-16,usa,Active,Target,1940-12-02,1944-10-04
+ss-s-14,USS S-17,usa,Active,Reserve,1921-03-01,1935-03-29
+ss-s-14,USS S-17,usa,Reserve,Active,1935-03-29,1940-12-16
+ss-s-14,USS S-17,usa,Active,Scrapped,1940-12-16,1944-11-01
+ss-t,USS AA-1,usa,Active,Renamed,1920-01-01,1920-09-01
+ss-t,USS T-1,usa,Active,Reserve,1920-09-01,1922-12-05
+ss-t,USS T-1,usa,Reserve,Scrapped,1922-12-05,1930-09-01
+ss-t,USS T-2,usa,Active,Reserve,1922-01-01,1923-07-16
+ss-t,USS T-2,usa,Reserve,Scrapped,1923-07-16,1930-09-01
+ss-t,USS T-3,usa,Active,Reserve,1920-12-01,1922-11-11
+ss-t,USS T-3,usa,Reserve,Active,1922-11-11,1925-10-01
+ss-t,USS T-3,usa,Active,Reserve,1925-10-01,1927-07-14
+ss-t,USS T-3,usa,Reserve,Scrapped,1927-07-14,1930-09-01
+ss-s-1,USS S-1,usa,Active,Reserve,1920-06-01,1937-10-20
+ss-s-1,USS S-1,usa,Reserve,Active,1937-10-20,1940-10-16
+ss-s-1,USS S-1,usa,Active,Sold,1940-10-16,1942-04-24
+ss-s-1,USS S-18,usa,Active,Scrapped,1924-04-01,1945-11-01
+ss-s-1,USS S-19,usa,Active,Reserve,1921-08-01,1934-02-10
+ss-s-1,USS S-19,usa,Reserve,Sunk,1934-02-10,1938-12-01
+ss-s-1,USS S-20,usa,Active,Scrapped,1922-11-01,1945-07-25
+ss-s-1,USS S-21,usa,Active,Sold,1921-08-01,1942-09-14
+ss-s-1,USS S-21,usa,Reserve,Target,1944-07-11,1945-03-23
+ss-s-1,USS S-22,usa,Active,Sold,1924-06-01,1942-06-19
+ss-s-1,USS S-22,usa,Reserve,Scrapped,1944-07-11,1945-08-01
+ss-s-1,USS S-23,usa,Active,Scrapped,1923-10-01,1945-11-02
+ss-s-1,USS S-24,usa,Active,Sold,1923-08-01,1942-08-10
+ss-s-1,USS S-24,usa,Active,Target,1944-05-01,1947-08-25
+ss-s-1,USS S-25,usa,Active,Sold,1923-07-01,1941-11-01
+ss-s-1,USS S-26,usa,Active,Sunk,1923-10-01,1942-01-24
+ss-s-1,USS S-27,usa,Active,Sunk,1924-01-01,1942-06-19
+ss-s-1,USS S-28,usa,Active,Sunk,1923-12-01,1944-07-04
+ss-s-1,USS S-29,usa,Active,Sold,1924-05-01,1942-06-05
+ss-s-1,USS S-29,usa,Reserve,Scrapped,1946-01-26,1947-01-24
+ss-s-1,USS S-30,usa,Active,Scrapped,1920-10-01,1945-10-09
+ss-s-1,USS S-31,usa,Active,Reserve,1922-05-01,1937-12-07
+ss-s-1,USS S-31,usa,Reserve,Active,1937-12-07,1940-09-18
+ss-s-1,USS S-31,usa,Active,Scrapped,1940-09-18,1945-11-01
+ss-s-1,USS S-32,usa,Active,Reserve,1922-06-01,1937-12-07
+ss-s-1,USS S-32,usa,Reserve,Active,1937-12-07,1940-09-18
+ss-s-1,USS S-32,usa,Active,Scrapped,1940-09-18,1945-11-01
+ss-s-1,USS S-33,usa,Active,Reserve,1922-04-01,1937-12-01
+ss-s-1,USS S-33,usa,Reserve,Active,1937-12-01,1940-10-16
+ss-s-1,USS S-33,usa,Active,Scrapped,1940-10-16,1945-11-01
+ss-s-1,USS S-34,usa,Active,Scrapped,1922-07-01,1945-10-23
+ss-s-1,USS S-35,usa,Active,Target,1922-08-01,1945-03-19
+ss-s-1,USS S-36,usa,Active,Sunk,1923-04-01,1942-01-21
+ss-s-1,USS S-37,usa,Active,Target,1923-07-01,1945-02-06
+ss-s-1,USS S-38,usa,Active,Target,1923-05-01,1945-01-20
+ss-s-1,USS S-39,usa,Active,Sunk,1923-09-01,1942-08-14
+ss-s-1,USS S-40,usa,Active,Scrapped,1923-11-01,1945-10-29
+ss-s-1,USS S-41,usa,Active,Scrapped,1924-01-01,1945-02-13
+ss-s-2,USS S-2,usa,Active,Scrapped,1920-05-01,1929-11-25
+ss-s-48,USS S-48,usa,Active,Reserve,1922-10-01,1925-07-07
+ss-s-48,USS S-48,usa,Reserve,Active,1925-07-07,1928-12-08
+ss-s-48,USS S-48,usa,Active,Reserve,1928-12-08,1935-09-16
+ss-s-48,USS S-48,usa,Reserve,Training,1935-09-16,1940-12-10
+ss-s-48,USS S-48,usa,Training,Scrapped,1940-12-10,1945-08-29
+ss-s-48,USS S-49,usa,Active,Auxiliary,1922-06-01,1931-03-01
+ss-s-48,USS S-50,usa,Active,Reserve,1922-05-01,1927-08-20
+ss-s-48,USS S-50,usa,Reserve,Scrapped,1927-08-20,1931-03-01
+ss-s-48,USS S-51,usa,Active,Sunk,1922-06-01,1925-09-25
+ss-s-42,USS S-42,usa,Active,Scrapped,1924-11-01,1945-10-25
+ss-s-42,USS S-43,usa,Active,Scrapped,1924-12-01,1945-10-10
+ss-s-42,USS S-44,usa,Active,Sunk,1925-02-01,1943-10-07
+ss-s-42,USS S-45,usa,Active,Scrapped,1925-03-01,1945-10-30
+ss-s-42,USS S-46,usa,Active,Scrapped,1925-06-01,1945-11-01
+ss-s-42,USS S-47,usa,Active,Scrapped,1925-09-01,1945-10-25
+ss-v-1,USS V-1,usa,Active,Renamed,1924-10-01,1931-03-01
+ss-v-1,USS Barracuda,usa,Active,Scrapped,1931-03-01,1945-03-03
+ss-v-1,USS V-2,usa,Active,Renamed,1925-09-01,1931-03-01
+ss-v-1,USS Bass,usa,Active,Scrapped,1931-03-01,1945-03-03
+ss-v-1,USS V-3,usa,Active,Renamed,1926-05-01,1931-03-01
+ss-v-1,USS Bonita,usa,Active,Scrapped,1931-03-01,1945-03-03
+sc-v-4,USS V-4,usa,Active,Renamed,1928-04-01,1931-03-01
+sc-v-4,USS Argonaut,usa,Active,Auxiliary,1931-03-01,1943-01-10
+sc-v-5,USS V-5,usa,Active,Renamed,1930-03-01,1931-03-01
+sc-v-5,USS Narwhal,usa,Active,Scrapped,1931-03-01,1945-04-23
+sc-v-5,USS V-6,usa,Active,Renamed,1930-07-01,1931-03-01
+sc-v-5,USS Nautilus,usa,Active,Scrapped,1931-03-01,1945-06-30
+ss-dolphin,USS Dolphin,usa,Active,Scrapped,1932-07-01,1945-10-02
+ss-cachalot,USS Cachalot,usa,Active,Scrapped,1933-12-01,1945-10-17
+ss-cachalot,USS Cuttlefish,usa,Active,Scrapped,1934-06-01,1945-10-24
+ss-porpoise,USS Porpoise,usa,Active,Reserve,1935-08-01,1945-11-15
+ss-porpoise,USS Porpoise,usa,Reserve,Training,1945-11-15,1947-05-08
+ss-porpoise,USS Porpoise,usa,Training,Scrapped,1947-05-08,1956-08-13
+ss-porpoise,USS Pike,usa,Active,Reserve,1935-12-01,1945-11-15
+ss-porpoise,USS Pike,usa,Reserve,Training,1945-11-15,1946-09-01
+ss-porpoise,USS Pike,usa,Training,Scrapped,1946-09-01,1956-02-17
+ss-shark,USS Shark,usa,Active,Sunk,1936-01-01,1942-02-11
+ss-shark,USS Tarpon,usa,Active,Reserve,1936-03-01,1945-11-15
+ss-shark,USS Tarpon,usa,Reserve,Training,1945-11-15,1947-04-17
+ss-shark,USS Tarpon,usa,Training,Training,1947-04-17,1956-09-05
+ss-perch,USS Perch,usa,Active,Sunk,1936-11-01,1942-03-03
+ss-perch,USS Pickerel,usa,Active,Sunk,1937-01-01,1943-04-03
+ss-perch,USS Permit,usa,Active,Reserve,1937-03-01,1945-11-15
+ss-perch,USS Permit,usa,Reserve,Scrapped,1945-11-15,1956-07-26
+ss-perch,USS Plunger,usa,Active,Reserve,1936-11-01,1945-11-15
+ss-perch,USS Plunger,usa,Reserve,Training,1945-11-15,1946-05-01
+ss-perch,USS Plunger,usa,Training,Scrapped,1946-05-01,1956-07-06
+ss-perch,USS Pollack,usa,Active,Scrapped,1937-01-01,1945-09-21
+ss-perch,USS Pompano,usa,Active,Sunk,1937-06-01,1943-09-01
+ss-salmon,USS Salmon,usa,Active,Scrapped,1938-03-01,1945-09-24
+ss-salmon,USS Seal,usa,Active,Reserve,1938-04-01,1945-11-15
+ss-salmon,USS Seal,usa,Reserve,Training,1945-11-15,1947-06-19
+ss-salmon,USS Seal,usa,Training,Training,1947-06-19,1945-05-01
+ss-salmon,USS Skipjack,usa,Active,Target,1938-06-01,1946-08-28
+ss-salmon,USS Snapper,usa,Active,Scrapped,1937-12-01,1945-11-17
+ss-salmon,USS Stingray,usa,Active,Scrapped,1938-03-01,1945-10-17
+ss-salmon,USS Sturgeon,usa,Active,Scrapped,1938-06-01,1945-11-15
+ss-sargo,USS Sargo,usa,Active,Scrapped,1939-02-01,1946-06-22
+ss-sargo,USS Saury,usa,Active,Scrapped,1939-04-01,1946-06-22
+ss-sargo,USS Spearfish,usa,Active,Scrapped,1939-07-01,1946-06-22
+ss-sargo,USS Sculpin,usa,Active,Sunk,1939-01-01,1943-11-18
+ss-sargo,USS Squalus,usa,Active,Sunk,1939-03-01,1939-05-23
+ss-sargo,USS Sailfish,usa,Active,Scrapped,1940-05-15,1948-04-01
+ss-seadragon,USS Swordfish,usa,Active,Sunk,1939-07-01,1945-01-12
+ss-seadragon,USS Seadragon,usa,Active,Reserve,1939-10-01,1945-11-15
+ss-seadragon,USS Seadragon,usa,Reserve,Active,1945-11-15,1946-02-08
+ss-seadragon,USS Seadragon,usa,Active,Reserve,1946-02-08,1946-10-29
+ss-seadragon,USS Seadragon,usa,Reserve,Scrapped,1946-10-29,1948-04-30
+ss-seadragon,USS Sealion,usa,Active,Sunk,1939-11-01,1941-12-25
+ss-seadragon,USS Searaven,usa,Active,Reserve,1939-10-01,1946-12-11
+ss-seadragon,USS Searaven,usa,Reserve,Target,1946-12-11,1948-09-11
+ss-seadragon,USS Seawolf,usa,Active,Sunk,1939-12-01,1944-10-03
+ss-tambor,USS Tambor,usa,Active,Reserve,1940-06-01,1945-12-10
+ss-tambor,USS Tambor,usa,Reserve,Training,1945-12-10,1947-04-01
+ss-tambor,USS Tambor,usa,Training,Scrapped,1947-04-01,1959-09-01
+ss-tambor,USS Tautog,usa,Active,Reserve,1940-07-01,1945-12-08
+ss-tambor,USS Tautog,usa,Reserve,Training,1940-07-01,1947-05-09
+ss-tambor,USS Tautog,usa,Training,Scrapped,1947-05-09,1959-09-01
+ss-tambor,USS Thresher,usa,Active,Reserve,1940-08-01,1945-12-13
+ss-tambor,USS Thresher,usa,Reserve,Scrapped,1945-12-13,1947-12-23
+ss-tambor,USS Tuna,usa,Active,Target,1941-01-01,1946-12-11
+ss-tambor,USS Gar,usa,Active,Reserve,1941-04-01,1945-12-11
+ss-tambor,USS Gar,usa,Reserve,Training,1941-04-01,1948-11-28
+ss-tambor,USS Gar,usa,Training,Scrapped,1948-11-28,1959-05-29
+ss-tambor,USS Grayling,usa,Active,Sunk,1941-03-01,1943-09-09
+ss-triton,USS Triton,usa,Active,Sunk,1940-08-01,1943-03-20
+ss-triton,USS Trout,usa,Active,Sunk,1940-11-01,1944-02-29
+ss-triton,USS Grampus,usa,Active,Sunk,1941-05-01,1943-03-05
+ss-triton,USS Grayback,usa,Active,Sunk,1941-06-01,1944-02-26
+ss-triton,USS Grenadier,usa,Active,Sunk,1941-05-01,1943-04-22
+ss-triton,USS Gudgeon,usa,Active,Sunk,1941-04-01,1944-04-18
+ss-mackerel,USS Mackerel,usa,Active,Scrapped,1941-03-01,1945-11-09
+ss-marlin,USS Marlin,usa,Active,Scrapped,1941-08-01,1945-11-09
+ss-gato,USS Gato,usa,Active,Reserve,1941-12-01,1946-03-16
+ss-gato,USS Gato,usa,Reserve,Scrapped,1946-03-16,1960-03-01
+ss-gato,USS Greenling,usa,Active,Training,1942-01-01,1946-10-16
+ss-gato,USS Greenling,usa,Training,Scrapped,1946-10-16,1960-03-01
+ss-gato,USS Grouper,usa,Active,Converted,1942-02-01,1951-01-02
+ss-gato,USS Growler,usa,Active,Sunk,1942-03-01,1944-11-08
+ss-gato,USS Grunion,usa,Active,Sunk,1942-04-01,1942-07-30
+ss-gato,USS Guardfish,usa,Active,Reserve,1942-05-01,1946-05-25
+ss-gato,USS Guardfish,usa,Reserve,Training,1946-05-25,1948-06-18
+ss-gato,USS Guardfish,usa,Training,Target,1948-06-18,1960-06-01
+ss-gato,USS Albacore,usa,Active,Sunk,1942-06-01,1944-11-07
+ss-gato,USS Amberjack,usa,Active,Sunk,1942-06-01,1943-02-16
+ss-gato,USS Barb,usa,Active,Reserve,1942-07-01,1947-02-12
+ss-gato,USS Barb,usa,Reserve,Active,1947-02-12,1951-12-03
+ss-gato,USS Barb,usa,Active,Modernized,1951-12-03,1954-02-05
+ss-gato,USS Blackfish,usa,Active,Reserve,1942-07-01,1946-05-11
+ss-gato,USS Blackfish,usa,Reserve,Training,1946-05-11,1949-05-05
+ss-gato,USS Blackfish,usa,Training,Scrapped,1949-05-05,1958-09-01
+ss-gato,USS Bluefish,usa,Active,Reserve,1943-05-01,1947-02-12
+ss-gato,USS Bluefish,usa,Reserve,Active,1947-02-12,1952-01-07
+ss-gato,USS Bluefish,usa,Active,Reserve,1952-01-07,1953-11-20
+ss-gato,USS Bluefish,usa,Reserve,Scrapped,1953-11-20,1958-09-01
+ss-gato,USS Bonefish,usa,Active,Sunk,1943-05-01,1945-06-18
+ss-gato,USS Drum,usa,Active,Reserve,1941-11-01,1946-02-16
+ss-gato,USS Drum,usa,Reserve,Training,1946-02-16,1947-03-18
+ss-gato,USS Drum,usa,Training,Museum,1947-03-18,1968-06-30
+ss-gato,USS Flying Fish,usa,Active,Auxiliary,1941-12-01,1951-01-11
+ss-gato,USS Flying Fish,usa,Auxiliary,Reserve,1951-01-11,1953-12-31
+ss-gato,USS Flying Fish,usa,Reserve,Scrapped,1953-12-31,1958-05-28
+ss-gato,USS Finback,usa,Active,Reserve,1942-01-01,1950-04-21
+ss-gato,USS Finback,usa,Reserve,Scrapped,1950-04-21,1958-09-01
+ss-gato,USS Haddock,usa,Active,Reserve,1942-03-01,1946-04-20
+ss-gato,USS Haddock,usa,Reserve,Training,1946-04-20,1948-08-01
+ss-gato,USS Haddock,usa,Training,Reserve,1948-08-01,1952-05-01
+ss-gato,USS Haddock,usa,Reserve,Scrapped,1952-05-01,1960-06-01
+ss-gato,USS Halibut,usa,Active,Sunk,1942-04-01,1944-11-14
+ss-gato,USS Herring,usa,Active,Sunk,1942-05-01,1944-06-01
+ss-gato,USS Kingfish,usa,Active,Reserve,1942-05-01,1946-03-09
+ss-gato,USS Kingfish,usa,Reserve,Scrapped,1946-03-09,1960-03-01
+ss-gato,USS Shad,usa,Active,Reserve,1942-06-01,1945-09-20
+ss-gato,USS Shad,usa,Reserve,Training,1945-09-20,1947-01-01
+ss-gato,USS Shad,usa,Training,Scrapped,1947-01-01,1960-04-01
+ss-gato,USS Silversides,usa,Active,Reserve,1941-12-01,1946-04-17
+ss-gato,USS Silversides,usa,Reserve,Training,1946-04-17,1947-10-15
+ss-gato,USS Silversides,usa,Training,Museum,1947-10-15,1969-06-30
+ss-gato,USS Trigger,usa,Active,Sunk,1942-01-01,1945-03-28
+ss-gato,USS Wahoo,usa,Active,Sunk,1942-05-01,1943-10-11
+ss-gato,USS Whale,usa,Active,Reserve,1942-06-01,1946-06-01
+ss-gato,USS Whale,usa,Reserve,Active,1946-06-01,1956-11-14
+ss-gato,USS Whale,usa,Active,Reserve,1956-11-14,1956-12-14
+ss-gato,USS Whale,usa,Reserve,Active,1956-12-14,1957-01-22
+ss-gato,USS Whale,usa,Active,Reserve,1957-01-22,1957-09-01
+ss-gato,USS Whale,usa,Reserve,Scrapped,1957-09-01,1960-03-01
+ss-gato,USS Gunnel,usa,Active,Reserve,1942-08-01,1946-05-18
+ss-gato,USS Gunnel,usa,Reserve,Scrapped,1946-05-18,1958-09-01
+ss-gato,USS Gurnard,usa,Active,Reserve,1942-09-01,1945-11-27
+ss-gato,USS Gurnard,usa,Reserve,Training,1945-11-27,1949-07-01
+ss-gato,USS Gurnard,usa,Training,Scrapped,1949-07-01,1961-05-01
+ss-gato,USS Haddo,usa,Active,Reserve,1942-10-01,1946-02-16
+ss-gato,USS Haddo,usa,Reserve,Scrapped,1946-02-16,1958-08-01
+ss-gato,USS Runner,usa,Active,Sunk,1942-07-01,1943-07-01
+ss-gato,USS Sawfish,usa,Active,Reserve,1942-08-01,1946-06-20
+ss-gato,USS Sawfish,usa,Reserve,Training,1946-06-20,1947-05-01
+ss-gato,USS Sawfish,usa,Training,Scrapped,1947-05-01,1960-04-01
+ss-gato,USS Scamp,usa,Active,Sunk,1942-09-01,1944-11-16
+ss-gato,USS Scorpion,usa,Active,Sunk,1942-10-01,1944-02-01
+ss-gato,USS Snook,usa,Active,Sunk,1942-10-01,1945-04-08
+ss-gato,USS Sunfish,usa,Active,Reserve,1942-07-01,1945-12-26
+ss-gato,USS Sunfish,usa,Reserve,Training,1945-12-26,1949-01-01
+ss-gato,USS Sunfish,usa,Training,Scrapped,1949-01-01,1960-05-01
+ss-gato,USS Tunny,usa,Active,Reserve,1942-09-01,1945-12-13
+ss-gato,USS Tunny,usa,Reserve,Active,1945-12-13,1952-02-28
+ss-gato,USS Tunny,usa,Active,Reserve,1952-02-28,1952-04-01
+ss-gato,USS Tunny,usa,Reserve,Converted,1952-04-01,1953-03-06
+ss-cod,USS Cod,usa,Active,Reserve,1943-06-21,1946-06-22
+ss-cod,USS Cod,usa,Reserve,Active,1946-06-22,1951-01-01
+ss-cod,USS Cod,usa,Active,Reserve,1951-01-01,1954-01-01
+ss-cod,USS Cod,usa,Reserve,Training,1954-01-01,1959-01-01
+ss-cod,USS Cod,usa,Training,Museum,1959-01-01,1971-06-30
+ss-cero,USS Cero,usa,Active,Reserve,1943-07-01,1946-06-08
+ss-cero,USS Cero,usa,Reserve,Active,1946-06-08,1952-02-04
+ss-cero,USS Cero,usa,Active,Reserve,1952-02-04,1953-12-23
+ss-cero,USS Cero,usa,Reserve,Training,1953-12-23,1960-01-01
+ss-cero,USS Cero,usa,Training,Scrapped,1960-01-01,1967-06-30
+ss-cero,USS Corvina,usa,Active,Sunk,1943-08-01,1943-11-16
+ss-cero,USS Darter,usa,Active,Sunk,1943-09-01,1944-10-24
+ss-cero,USS Angler,usa,Active,Reserve,1943-10-01,1947-02-02
+ss-cero,USS Angler,usa,Reserve,Active,1947-02-02,1951-04-02
+ss-cero,USS Angler,usa,Active,Converted,1951-04-02,1952-10-01
+ss-cero,USS Bashaw,usa,Active,Reserve,1943-10-01,1949-06-23
+ss-cero,USS Bashaw,usa,Reserve,Active,1949-06-23,1951-04-03
+ss-cero,USS Bashaw,usa,Active,Converted,1951-04-03,1952-05-10
+ss-cero,USS Bluegill,usa,Active,Reserve,1943-11-01,1946-03-01
+ss-cero,USS Bluegill,usa,Reserve,Active,1946-03-01,1951-05-03
+ss-cero,USS Bluegill,usa,Active,Converted,1951-05-03,1952-07-07
+ss-cero,USS Bream,usa,Active,Reserve,1944-01-01,1946-01-31
+ss-cero,USS Bream,usa,Reserve,Active,1946-01-31,1951-06-05
+ss-cero,USS Bream,usa,Active,Converted,1951-06-05,1952-09-10
+ss-cero,USS Cavalla,usa,Active,Reserve,1944-02-01,1946-03-16
+ss-cero,USS Cavalla,usa,Reserve,Active,1946-03-16,1951-04-10
+ss-cero,USS Cavalla,usa,Active,Converted,1951-04-10,1952-09-03
+ss-cero,USS Cobia,usa,Active,Reserve,1944-03-01,1946-05-22
+ss-cero,USS Cobia,usa,Reserve,Active,1946-05-22,1951-07-06
+ss-cero,USS Cobia,usa,Active,Reserve,1951-07-06,1954-03-19
+ss-cero,USS Cobia,usa,Reserve,Training,1954-03-19,1959-01-01
+ss-cero,USS Cobia,usa,Training,Museum,1959-01-01,1970-07-01
+ss-cero,USS Croaker,usa,Active,Reserve,1944-04-01,1946-06-15
+ss-cero,USS Croaker,usa,Reserve,Active,1946-06-15,1951-05-07
+ss-cero,USS Croaker,usa,Active,Converted,1951-05-07,1953-03-18
+ss-cero,USS Dace,usa,Active,Reserve,1943-07-01,1947-02-12
+ss-cero,USS Dace,usa,Reserve,Active,1947-02-12,1951-08-01
+ss-cero,USS Dace,usa,Active,Modernized,1951-08-01,1954-01-15
+ss-cero,USS Dorado,usa,Active,Sunk,1943-08-01,1943-10-12
+ss-cero,USS Flasher,usa,Active,Reserve,1943-09-01,1946-03-16
+ss-cero,USS Flasher,usa,Reserve,Scrapped,1946-03-16,1959-06-01
+ss-cero,USS Flier,usa,Active,Sunk,1943-10-01,1944-08-13
+ss-cero,USS Flounder,usa,Active,Reserve,1943-11-01,1947-02-12
+ss-cero,USS Flounder,usa,Reserve,Scrapped,1947-02-12,1959-06-01
+ss-cero,USS Gabilan,usa,Active,Reserve,1943-12-01,1946-02-23
+ss-cero,USS Gabilan,usa,Reserve,Scrapped,1946-02-23,1959-06-01
+ss-cero,USS Harder,usa,Active,Sunk,1942-12-01,1944-08-24
+ss-cero,USS Hoe,usa,Active,Reserve,1942-12-01,1946-08-07
+ss-cero,USS Hoe,usa,Reserve,Training,1946-08-07,1956-09-01
+ss-cero,USS Hoe,usa,Training,Scrapped,1956-09-01,1960-05-01
+ss-cero,USS Jack,usa,Active,Reserve,1943-01-01,1946-06-08
+ss-cero,USS Jack,usa,Reserve,Active,1946-06-08,1957-12-20
+ss-cero,USS Jack,usa,Active,Sold,1957-12-20,1958-04-21
+ss-cero,USS Lapon,usa,Active,Reserve,1943-01-01,1946-07-25
+ss-cero,USS Lapon,usa,Reserve,Active,1946-07-25,1957-04-13
+ss-cero,USS Lapon,usa,Active,Sold,1957-04-13,1957-08-10
+ss-cero,USS Mingo,usa,Active,Reserve,1943-02-01,1957-01-01
+ss-cero,USS Mingo,usa,Reserve,Active,1957-01-01,1955-05-20
+ss-cero,USS Mingo,usa,Active,Sold,1955-05-20,1955-08-15
+ss-cero,USS Muskallunge,usa,Active,Reserve,1943-03-01,1947-01-29
+ss-cero,USS Muskallunge,usa,Reserve,Active,1947-01-29,1956-08-31
+ss-cero,USS Muskallunge,usa,Active,Sold,1956-08-31,1957-01-18
+ss-cero,USS Paddle,usa,Active,Reserve,1943-03-01,1946-02-01
+ss-cero,USS Paddle,usa,Reserve,Active,1946-02-01,1956-08-31
+ss-cero,USS Paddle,usa,Active,Sold,1956-08-31,1957-01-18
+ss-cero,USS Pargo,usa,Active,Reserve,1943-04-01,1946-06-12
+ss-cero,USS Pargo,usa,Reserve,Scrapped,1946-06-12,1960-12-01
+ss-cero,USS Peto,usa,Active,Reserve,1942-11-01,1946-06-25
+ss-cero,USS Peto,usa,Reserve,Training,1946-06-25,1956-11-01
+ss-cero,USS Peto,usa,Training,Scrapped,1956-11-01,1960-08-01
+ss-cero,USS Pogy,usa,Active,Reserve,1943-01-01,1946-07-20
+ss-cero,USS Pogy,usa,Active,Scrapped,1946-07-20,1958-09-01
+ss-cero,USS Pompon,usa,Active,Reserve,1943-03-01,1946-05-11
+ss-cero,USS Pompon,usa,Reserve,Converted,1946-05-11,1952-04-01
+ss-cero,USS Puffer,usa,Active,Reserve,1943-04-01,1946-06-28
+ss-cero,USS Puffer,usa,Reserve,Training,1946-06-28,1946-12-31
+ss-cero,USS Puffer,usa,Training,Scrapped,1946-12-31,1960-07-01
+ss-cero,USS Rasher,usa,Active,Reserve,1943-06-01,1946-06-22
+ss-cero,USS Rasher,usa,Reserve,Active,1946-06-22,1951-12-14
+ss-cero,USS Rasher,usa,Active,Converted,1951-12-14,1952-05-28
+ss-cero,USS Raton,usa,Active,Reserve,1943-07-01,1947-10-01
+ss-cero,USS Raton,usa,Reserve,Converted,1947-10-01,1952-07-18
+ss-cero,USS Ray,usa,Active,Reserve,1943-07-01,1947-02-12
+ss-cero,USS Ray,usa,Reserve,Converted,1947-02-12,1951-01-03
+ss-cero,USS Redfin,usa,Active,Reserve,1943-08-01,1946-11-01
+ss-cero,USS Redfin,usa,Reserve,Converted,1946-11-01,1951-04-01
+ss-cero,USS Robalo,usa,Active,Sunk,1943-09-01,1944-07-26
+ss-cero,USS Rock,usa,Active,Reserve,1943-01-01,1946-05-01
+ss-cero,USS Rock,usa,Reserve,Converted,1946-05-01,1951-06-01
+ss-cero,USS Steelhead,usa,Active,Reserve,1942-12-01,1946-06-29
+ss-cero,USS Steelhead,usa,Reserve,Training,1946-06-29,1947-01-01
+ss-cero,USS Steelhead,usa,Training,Scrapped,1947-01-01,1960-04-01
+ss-cero,USS Tinosa,usa,Active,Reserve,1943-01-01,1946-06-23
+ss-cero,USS Tinosa,usa,Reserve,Active,1946-06-23,1952-01-04
+ss-cero,USS Tinosa,usa,Active,Reserve,1952-01-04,1953-12-02
+ss-cero,USS Tinosa,usa,Reserve,Target,1953-12-02,1958-09-01
+ss-cero,USS Tullibee,usa,Active,Sunk,1943-02-01,1944-03-26
+ss-hake,USS Hake,usa,Active,Reserve,1942-10-01,1946-07-13
+ss-hake,USS Hake,usa,Reserve,Training,1946-07-13,1956-10-15
+ss-hake,USS Hake,usa,Training,Scrapped,1956-10-15,1968-04-19
+ss-golet,USS Golet,usa,Active,Sunk,1943-11-01,1944-06-14
+ss-golet,USS Guavina,usa,Active,Reserve,1943-12-01,1946-06-08
+ss-golet,USS Guavina,usa,Reserve,Auxiliary,1946-06-08,1946-03-01
+ss-golet,USS Guitarro,usa,Active,Reserve,1944-01-01,1945-12-06
+ss-golet,USS Guitarro,usa,Reserve,Active,1945-12-06,1952-02-06
+ss-golet,USS Guitarro,usa,Active,Reserve,1952-02-06,1953-09-22
+ss-golet,USS Guitarro,usa,Reserve,Active,1953-09-22,1954-05-15
+ss-golet,USS Guitarro,usa,Active,Sold,1954-05-15,1954-08-07
+ss-golet,USS Hammerhead,usa,Active,Reserve,1944-03-01,1946-02-09
+ss-golet,USS Hammerhead,usa,Reserve,Training,1946-02-09,1952-02-06
+ss-golet,USS Hammerhead,usa,Training,Reserve,1952-02-06,1953-08-21
+ss-golet,USS Hammerhead,usa,Reserve,Modernized,1953-08-21,1954-01-01
+ss-balao,USS Balao,usa,Active,Reserve,1943-02-01,1946-08-20
+ss-balao,USS Balao,usa,Reserve,Active,1946-08-20,1952-03-04
+ss-balao,USS Balao,usa,Active,Scrapped,1952-03-04,1963-07-11
+ss-balao,USS Billfish,usa,Active,Reserve,1943-04-01,1946-11-01
+ss-balao,USS Billfish,usa,Reserve,Training,1946-11-01,1960-01-01
+ss-balao,USS Billfish,usa,Training,Scrapped,1960-01-01,1968-04-01
+ss-balao,USS Bowfin,usa,Active,Reserve,1943-05-01,1947-02-12
+ss-balao,USS Bowfin,usa,Reserve,Active,1947-02-12,1951-07-27
+ss-balao,USS Bowfin,usa,Active,Reserve,1951-07-27,1954-04-22
+ss-balao,USS Bowfin,usa,Reserve,Training,1954-04-22,1960-01-10
+ss-balao,USS Bowfin,usa,Training,Museum,1960-01-10,1971-12-01
+ss-balao,USS Cabrilla,usa,Active,Reserve,1943-05-01,1946-08-07
+ss-balao,USS Cabrilla,usa,Reserve,Training,1946-08-07,1962-12-01
+ss-balao,USS Cabrilla,usa,Training,Museum,1962-12-01,1968-06-30
+ss-balao,USS Capelin,usa,Active,Sunk,1943-06-01,1943-12-01
+ss-balao,USS Cisco,usa,Active,Sunk,1943-05-01,1943-09-28
+ss-balao,USS Crevalle,usa,Active,Reserve,1943-06-01,1946-07-29
+ss-balao,USS Crevalle,usa,Reserve,Active,1946-07-29,1951-09-06
+ss-balao,USS Crevalle,usa,Active,Reserve,1951-09-06,1955-08-19
+ss-balao,USS Crevalle,usa,Reserve,Active,1955-08-19,1957-04-11
+ss-balao,USS Crevalle,usa,Active,Reserve,1957-04-11,1962-03-09
+ss-balao,USS Crevalle,usa,Reserve,Scrapped,1962-03-09,1968-04-15
+ss-devilfish,USS Devilfish,usa,Active,Reserve,1944-09-01,1946-09-30
+ss-devilfish,USS Devilfish,usa,Reserve,Target,1946-09-30,1967-03-01
+ss-devilfish,USS Dragonet,usa,Active,Reserve,1944-03-01,1946-04-16
+ss-devilfish,USS Dragonet,usa,Reserve,Target,1946-04-16,1961-06-01
+ss-devilfish,USS Escolar,usa,Active,Sunk,1944-06-01,1944-10-01
+ss-devilfish,USS Hackleback,usa,Active,Reserve,1944-11-01,1946-03-20
+ss-devilfish,USS Hackleback,usa,Reserve,Scrapped,1946-03-20,1967-03-01
+ss-devilfish,USS Lancetfish,usa,Active,Sunk,1945-02-01,1945-03-15
+ss-devilfish,USS Ling,usa,Active,Reserve,1945-06-01,1946-10-26
+ss-devilfish,USS Ling,usa,Reserve,Training,1945-06-01,1960-03-01
+ss-devilfish,USS Ling,usa,Training,Museum,1960-03-01,1971-06-01
+ss-devilfish,USS Lionfish,usa,Active,Reserve,1944-11-01,1946-01-16
+ss-devilfish,USS Lionfish,usa,Reserve,Active,1946-01-16,1951-01-31
+ss-devilfish,USS Lionfish,usa,Active,Reserve,1951-01-31,1953-12-15
+ss-devilfish,USS Lionfish,usa,Reserve,Training,1953-12-15,1960-01-01
+ss-devilfish,USS Lionfish,usa,Training,Museum,1960-01-01,1971-12-20
+ss-devilfish,USS Manta,usa,Active,Reserve,1944-12-01,1946-06-10
+ss-devilfish,USS Manta,usa,Reserve,Auxiliary,1946-06-10,1949-08-02
+ss-devilfish,USS Manta,usa,Auxiliary,Reserve,1949-08-02,1955-12-06
+ss-devilfish,USS Manta,usa,Reserve,Target,1955-12-06,1967-06-01
+ss-devilfish,USS Moray,usa,Active,Reserve,1945-01-01,1946-04-12
+ss-devilfish,USS Moray,usa,Reserve,Target,1946-04-12,1967-04-01
+ss-devilfish,USS Roncador,usa,Active,Reserve,1945-03-01,1946-06-01
+ss-devilfish,USS Roncador,usa,Reserve,Training,1946-06-01,1960-02-01
+ss-devilfish,USS Roncador,usa,Training,Scrapped,1960-02-01,1971-12-01
+ss-devilfish,USS Sabalo,usa,Active,Reserve,1945-06-01,1946-08-07
+ss-devilfish,USS Sabalo,usa,Reserve,Active,1946-08-07,1951-06-01
+ss-devilfish,USS Sabalo,usa,Active,Modernized,1951-06-01,1952-02-18
+ss-devilfish,USS Sablefish,usa,Active,Modernized,1945-12-01,1951-01-01
+ss-devilfish,USS Seahorse,usa,Active,Reserve,1943-03-01,1946-03-02
+ss-devilfish,USS Seahorse,usa,Reserve,Scrapped,1946-03-02,1967-03-01
+ss-devilfish,USS Skate,usa,Active,Reserve,1943-04-01,1946-12-11
+ss-devilfish,USS Skate,usa,Reserve,Target,1946-12-11,1948-10-21
+ss-devilfish,USS Tang,usa,Active,Sunk,1943-10-01,1944-10-24
+ss-devilfish,USS Tilefish,usa,Active,Sold,1960-05-04,1959-10-12
+ss-devilfish,USS Apogon,usa,Active,Reserve,1943-07-01,1945-10-01
+ss-devilfish,USS Apogon,usa,Reserve,Target,1945-10-01,1946-07-25
+ss-devilfish,USS Aspro,usa,Active,Reserve,1943-07-01,1946-01-30
+ss-devilfish,USS Aspro,usa,Reserve,Active,1946-01-30,1951-09-23
+ss-devilfish,USS Aspro,usa,Active,Reserve,1951-09-23,1953-11-09
+ss-devilfish,USS Aspro,usa,Reserve,Active,1953-11-09,1957-05-05
+ss-devilfish,USS Aspro,usa,Active,Target,1957-05-05,1962-09-01
+ss-devilfish,USS Batfish,usa,Active,Reserve,1943-08-01,1946-04-06
+ss-devilfish,USS Batfish,usa,Reserve,Active,1946-04-06,1952-03-07
+ss-devilfish,USS Batfish,usa,Active,Reserve,1952-03-07,1960-07-01
+ss-devilfish,USS Batfish,usa,Reserve,Museum,1960-07-01,1969-11-01
+ss-devilfish,USS Archerfish,usa,Active,Reserve,1943-09-01,1946-06-12
+ss-devilfish,USS Archerfish,usa,Reserve,Active,1946-06-12,1952-03-07
+ss-devilfish,USS Archerfish,usa,Active,Reserve,1952-03-07,1955-10-21
+ss-devilfish,USS Archerfish,usa,Reserve,Auxiliary,1955-10-21,1957-08-01
+ss-devilfish,USS Archerfish,usa,Auxiliary,Target,1957-08-01,1968-05-01
+ss-devilfish,USS Burrfish,usa,Active,Reserve,1943-09-01,1946-10-10
+ss-devilfish,USS Burrfish,usa,Reserve,Converted,1946-10-10,1948-11-02
+ss-perch-1943,USS Perch,usa,Active,Reserve,1944-01-01,1947-01-01
+ss-perch-1943,USS Perch,usa,Reserve,Auxiliary,1947-01-01,1948-01-19
+ss-perch-1943,USS Shark,usa,Active,Sunk,1944-02-01,1944-10-24
+ss-perch-1943,USS Sealion,usa,Active,Reserve,1944-04-01,1946-02-02
+ss-perch-1943,USS Sealion,usa,Reserve,Auxiliary,1946-02-02,1948-04-01
+ss-perch-1943,USS Barbel,usa,Active,Sunk,1944-04-01,1945-02-04
+ss-perch-1943,USS Barbero,usa,Active,Reserve,1944-04-01,1946-04-25
+ss-perch-1943,USS Barbero,usa,Reserve,Auxiliary,1946-04-25,1947-10-01
+ss-perch-1943,USS Baya,usa,Active,Reserve,1944-05-01,1946-05-14
+ss-perch-1943,USS Baya,usa,Reserve,Auxiliary,1944-05-01,1948-02-10
+ss-perch-1943,USS Becuna,usa,Active,Modernized,1944-05-01,1950-11-01
+ss-perch-1943,USS Bergall,usa,Active,Modernized,1944-06-01,1951-11-09
+ss-perch-1943,USS Besugo,usa,Active,Reserve,1944-06-01,1958-03-21
+ss-perch-1943,USS Besugo,usa,Reserve,Sold,1958-03-21,1966-03-31
+ss-perch-1943,USS Blackfin,usa,Active,Reserve,1944-07-01,1948-11-19
+ss-perch-1943,USS Blackfin,usa,Reserve,Modernized,1948-11-19,1950-11-01
+ss-perch-1943,USS Caiman,usa,Active,Training,1944-07-01,1947-06-01
+ss-perch-1943,USS Caiman,usa,Training,Modernized,1947-06-01,1951-04-23
+ss-perch-1943,USS Blenny,usa,Active,Modernized,1944-07-01,1951-05-01
+ss-perch-1943,USS Blower,usa,Active,Sold,1944-08-01,1950-11-16
+ss-perch-1943,USS Blueback,usa,Active,Sold,1944-08-01,1948-05-25
+ss-perch-1943,USS Boarfish,usa,Active,Reserve,1944-09-01,1946-05-23
+ss-perch-1943,USS Boarfish,usa,Reserve,Sold,1946-05-23,1948-08-23
+ss-perch-1943,USS Charr,usa,Active,Modernized,1944-09-01,1951-07-01
+ss-perch-1943,USS Chub,usa,Active,Sold,1944-10-01,1948-05-25
+ss-perch-1943,USS Brill,usa,Active,Sold,1944-10-01,1948-05-23
+ss-perch-1943,USS Bugara,usa,Active,Modernized,1944-11-01,1951-06-01
+ss-perch-1943,USS Bullhead,usa,Active,Sunk,1944-12-01,1945-08-06
+ss-perch-1943,USS Bumper,usa,Active,Sold,1944-12-01,1950-11-16
+ss-perch-1943,USS Cabezon,usa,Active,Reserve,1944-12-01,1953-10-24
+ss-perch-1943,USS Cabezon,usa,Reserve,Scrapped,1953-10-24,1970-05-15
+ss-perch-1943,USS Dentuda,usa,Active,Training,1944-12-01,1946-12-11
+ss-perch-1943,USS Dentuda,usa,Training,Scrapped,1946-12-11,1967-06-30
+ss-perch-1943,USS Capitaine,usa,Active,Reserve,1945-01-01,1950-02-10
+ss-perch-1943,USS Capitaine,usa,Reserve,Training,1950-02-10,1957-02-23
+ss-perch-1943,USS Capitaine,usa,Training,Sold,1957-02-23,1966-03-05
+ss-perch-1943,USS Carbonero,usa,Active,Converted,1945-02-01,1947-01-01
+ss-perch-1943,USS Carp,usa,Active,Modernized,1945-02-01,1952-02-01
+ss-perch-1943,USS Catfish,usa,Active,Modernized,1945-03-01,1948-08-01
+ss-perch-1943,USS Entemedor,usa,Active,Reserve,1945-04-01,1948-12-10
+ss-perch-1943,USS Entemedor,usa,Reserve,Active,1948-12-10,1950-10-24
+ss-perch-1943,USS Entemedor,usa,Active,Modernized,1950-10-24,1952-02-28
+ss-perch-1943,USS Chivo,usa,Active,Modernized,1945-04-01,1950-10-30
+ss-perch-1943,USS Chopper,usa,Active,Modernized,1945-05-01,1950-09-15
+ss-perch-1943,USS Clamagore,usa,Active,Modernized,1945-06-01,1947-12-05
+ss-perch-1943,USS Cobbler,usa,Active,Modernized,1945-08-01,1948-12-01
+ss-perch-1943,USS Cochino,usa,Active,Modernized,1945-08-01,1947-02-26
+ss-perch-1943,USS Corporal,usa,Active,Modernized,1945-11-01,1947-02-26
+ss-perch-1943,USS Cubera,usa,Active,Modernized,1945-12-01,1947-07-04
+ss-perch-1943,USS Hardhead,usa,Active,Reserve,1944-04-01,1946-05-10
+ss-perch-1943,USS Hardhead,usa,Reserve,Active,1946-05-10,1952-02-06
+ss-perch-1943,USS Hardhead,usa,Active,Modernized,1952-02-06,1952-05-22
+ss-perch-1943,USS Hawkbill,usa,Active,Reserve,1944-05-01,1946-09-30
+ss-perch-1943,USS Hawkbill,usa,Reserve,Modernized,1946-09-30,1952-05-01
+ss-perch-1943,USS Icefish,usa,Active,Reserve,1944-06-01,1946-06-21
+ss-perch-1943,USS Icefish,usa,Reserve,Modernized,1946-06-21,1952-05-05
+ss-perch-1943,USS Icefish,usa,Active,Modernized,1952-05-05,1952-07-29
+ss-perch-1943,USS Jallao,usa,Active,Reserve,1944-07-01,1946-09-30
+ss-perch-1943,USS Jallao,usa,Reserve,Modernized,1946-09-30,1953-07-01
+ss-perch-1943,USS Kete,usa,Active,Sunk,1944-07-01,1945-03-01
+ss-perch-1943,USS Kraken,usa,Active,Reserve,1944-09-01,1946-05-04
+ss-perch-1943,USS Kraken,usa,Reserve,Modernized,1946-05-04,1958-09-18
+ss-perch-1943,USS Lagarto,usa,Active,Sunk,1944-10-01,1945-05-03
+ss-perch-1943,USS Lambrey,usa,Active,Reserve,1944-11-01,1946-06-03
+ss-perch-1943,USS Lambrey,usa,Reserve,Sold,1946-06-03,1960-07-21
+ss-perch-1943,USS Lizardfish,usa,Active,Reserve,1944-12-01,1946-06-24
+ss-perch-1943,USS Lizardfish,usa,Reserve,Modernized,1946-06-24,1959-03-16
+ss-perch-1943,USS Loggerhead,usa,Active,Reserve,1945-02-01,1946-06-16
+ss-perch-1943,USS Loggerhead,usa,Reserve,Scrapped,1946-06-16,1967-06-01
+ss-perch-1943,USS Macabi,usa,Active,Reserve,1945-03-01,1946-06-16
+ss-perch-1943,USS Macabi,usa,Reserve,Active,1946-06-16,1960-05-06
+ss-perch-1943,USS Macabi,usa,Active,Sold,1960-05-06,1960-08-11
+ss-perch-1943,USS Mapiro,usa,Active,Reserve,1945-04-01,1946-03-16
+ss-perch-1943,USS Mapiro,usa,Reserve,Modernized,1946-03-16,1959-11-01
+ss-perch-1943,USS Menhaden,usa,Active,Reserve,1945-06-01,1946-05-31
+ss-perch-1943,USS Menhaden,usa,Reserve,Active,1946-05-31,1951-08-07
+ss-perch-1943,USS Menhaden,usa,Active,Modernized,1951-08-07,1952-08-13
+ss-perch-1943,USS Mero,usa,Active,Reserve,1945-08-01,1946-06-15
+ss-perch-1943,USS Mero,usa,Reserve,Modernized,1946-06-15,1959-11-01
+ss-perch-1943,USS Sand Lance,usa,Active,Reserve,1943-10-01,1946-02-14
+ss-perch-1943,USS Sand Lance,usa,Reserve,Active,1946-02-14,1963-04-06
+ss-perch-1943,USS Sand Lance,usa,Active,Sold,1963-04-06,1963-09-07
+ss-perch-1943,USS Picuda,usa,Active,Reserve,1943-10-01,1946-09-25
+ss-perch-1943,USS Picuda,usa,Reserve,Modernized,1946-09-25,1952-12-01
+ss-perch-1943,USS Pampanito,usa,Active,Reserve,1943-11-01,1945-12-15
+ss-perch-1943,USS Pampanito,usa,Reserve,Training,1945-12-15,1960-04-01
+ss-perch-1943,USS Pampanito,usa,Training,Museum,1960-04-01,1971-12-20
+ss-perch-1943,USS Parche,usa,Active,Reserve,1943-11-01,1946-12-11
+ss-perch-1943,USS Parche,usa,Reserve,Training,1946-12-11,1962-12-01
+ss-perch-1943,USS Parche,usa,Training,Scrapped,1962-12-01,1969-11-08
+ss-perch-1943,USS Bang,usa,Active,Reserve,1943-12-01,1947-02-12
+ss-perch-1943,USS Bang,usa,Reserve,Active,1947-02-12,1951-02-01
+ss-perch-1943,USS Bang,usa,Active,Modernized,1951-02-01,1952-05-15
+ss-perch-1943,USS Pilotfish,usa,Active,Training,1943-12-01,1946-08-29
+ss-perch-1943,USS Pintado,usa,Active,Reserve,1944-01-01,1946-03-06
+ss-perch-1943,USS Pintado,usa,Reserve,Scrapped,1946-03-06,1967-03-01
+ss-perch-1943,USS Pipefish,usa,Active,Reserve,1944-01-01,1946-03-19
+ss-perch-1943,USS Pipefish,usa,Reserve,Scrapped,1946-03-19,1967-03-01
+ss-perch-1943,USS Piranha,usa,Active,Reserve,1944-02-01,1946-05-31
+ss-perch-1943,USS Piranha,usa,Reserve,Scrapped,1946-05-31,1967-03-01
+ss-perch-1943,USS Plaice,usa,Active,Reserve,1944-02-01,1947-11-01
+ss-perch-1943,USS Plaice,usa,Reserve,Active,1947-11-01,1963-05-18
+ss-perch-1943,USS Plaice,usa,Active,Sold,1963-05-18,1963-09-01
+ss-perch-1943,USS Pomfret,usa,Active,Modernized,1944-02-01,1952-04-01
+ss-perch-1943,USS Sterlet,usa,Active,Reserve,1944-03-01,1948-09-18
+ss-perch-1943,USS Sterlet,usa,Reserve,Active,1948-09-18,1950-08-26
+ss-perch-1943,USS Sterlet,usa,Active,Modernized,1950-08-26,1952-01-01
+ss-perch-1943,USS Queenfish,usa,Active,Target,1944-03-01,1963-03-01
+ss-perch-1943,USS Razorback,usa,Active,Modernized,1944-04-01,1952-08-01
+ss-perch-1943,USS Redfish,usa,Active,Target,1944-04-01,1968-06-27
+ss-perch-1943,USS Ronquil,usa,Active,Modernized,1944-04-01,1952-05-01
+ss-perch-1943,USS Scabbardfish,usa,Active,Reserve,1944-04-01,1948-01-05
+ss-perch-1943,USS Scabbardfish,usa,Reserve,Modernized,1948-01-05,1964-10-24
+ss-perch-1943,USS Segundo,usa,Active,Modernized,1944-05-01,1951-03-01
+ss-perch-1943,USS Sea Cat,usa,Active,Modernized,1944-05-01,1952-01-15
+ss-perch-1943,USS Sea Devil,usa,Active,Reserve,1944-05-01,1948-09-09
+ss-perch-1943,USS Sea Devil,usa,Reserve,Active,1948-09-09,1951-03-03
+ss-perch-1943,USS Sea Devil,usa,Active,Reserve,1951-03-03,1954-02-19
+ss-perch-1943,USS Sea Devil,usa,Reserve,Active,1954-02-19,1957-08-17
+ss-perch-1943,USS Sea Devil,usa,Active,Modernized,1957-08-17,1964-02-17
+ss-perch-1943,USS Sea Dog,usa,Active,Reserve,1944-06-01,1956-06-27
+ss-perch-1943,USS Sea Dog,usa,Reserve,Training,1956-06-27,1960-02-01
+ss-perch-1943,USS Sea Dog,usa,Training,Scrapped,1960-02-01,1968-12-01
+ss-perch-1943,USS Sea Fox,usa,Active,Modernized,1944-06-01,1952-10-15
+ss-perch-1943,USS Atule,usa,Active,Modernized,1944-06-01,1950-07-01
+ss-perch-1943,USS Spikefish,usa,Active,Target,1944-06-01,1963-04-02
+ss-perch-1943,USS Sea Owl,usa,Active,Modernized,1944-07-01,1951-04-01
+ss-perch-1943,USS Sea Poacher,usa,Active,Modernized,1944-07-01,1950-03-01
+ss-perch-1943,USS Sea Robin,usa,Active,Modernized,1944-07-01,1950-12-01
+ss-perch-1943,USS Sennet,usa,Active,Modernized,1944-08-01,1951-05-01
+ss-perch-1943,USS Piper,usa,Active,Modernized,1944-08-01,1951-06-01
+ss-perch-1943,USS Threadfin,usa,Active,Modernized,1944-08-01,1952-12-10
+ss-perch-1943,USS Spadefish,usa,Active,Reserve,1944-03-01,1946-05-03
+ss-perch-1943,USS Spadefish,usa,Reserve,Scrapped,1946-05-03,1967-04-01
+ss-perch-1943,USS Trepang,usa,Active,Reserve,1944-05-01,1946-06-27
+ss-perch-1943,USS Trepang,usa,Reserve,Target,1946-06-27,1967-06-30
+ss-perch-1943,USS Spot,usa,Active,Reserve,1944-08-01,1946-06-19
+ss-perch-1943,USS Spot,usa,Reserve,Active,1946-06-19,1961-08-19
+ss-perch-1943,USS Spot,usa,Active,Sold,1961-08-19,1962-01-12
+ss-perch-1943,USS Springer,usa,Active,Reserve,1944-10-01,1947-01-01
+ss-perch-1943,USS Springer,usa,Reserve,Active,1947-01-01,1960-09-24
+ss-perch-1943,USS Springer,usa,Active,Sold,1960-09-24,1961-01-23
+ss-perch-1943,USS Stickleback,usa,Active,Modernized,1945-03-01,1952-11-06
+ss-cusk,USS Cusk,usa,Active,Converted,1946-02-01,1947-01-01
+ss-cusk,USS Diodon,usa,Active,Modernized,1946-03-01,1947-08-01
+ss-cusk,USS Dogfish,usa,Active,Modernized,1946-04-01,1947-08-01
+ss-cusk,USS Greenfish,usa,Active,Modernized,1946-06-01,1948-01-08
+ss-cusk,USS Halfbeak,usa,Active,Modernized,1946-07-01,1949-09-12
+ssr-balao-migraine-i,USS Burrfish,usa,Active,Reserve,1949-11-01,1956-12-17
+ssr-balao-migraine-i,USS Burrfish,usa,Reserve,Active,1956-12-17,1961-01-17
+ssr-balao-migraine-i,USS Burrfish,usa,Active,Sold,1961-01-17,1961-05-11
+ss-balao-guppy-ii,USS Catfish,usa,Active,Sold,1949-05-01,1971-07-01
+ss-balao-guppy-ii,USS Clamagore,usa,Active,Modernized,1948-08-06,1962-06-01
+ss-balao-guppy-ii,USS Cobbler,usa,Active,Modernized,1949-08-17,1962-06-01
+ss-balao-guppy-ii,USS Cochino,usa,Active,Sunk,1948-03-02,1949-08-25
+ss-balao-guppy-ii,USS Corporal,usa,Active,Modernized,1948-03-02,1962-06-01
+ss-balao-guppy-ii,USS Cubera,usa,Active,Sold,1948-03-09,1972-01-05
+ss-balao-guppy-ii,USS Diodon,usa,Active,Modernized,1948-03-01,1953-01-01
+ss-balao-guppy-ii,USS Dogfish,usa,Active,Sold,1948-04-01,1972-07-28
+ss-balao-guppy-ii,USS Greenfish,usa,Active,Modernized,1948-08-21,1960-12-15
+ss-balao-guppy-ii,USS Halfbeak,usa,Active,Scrapped,1950-01-13,1971-07-01
+ss-balao-guppy-ii,USS Tiru,usa,Active,Modernized,1948-09-01,1959-05-04
+ss-balao-guppy-ia,USS Becuna,usa,Active,Museum,1951-08-01,1969-11-07
+ss-balao-guppy-ia,USS Blackfin,usa,Active,Target,1951-05-15,1972-09-15
+ss-balao-guppy-ia,USS Caiman,usa,Active,Sold,1951-11-01,1972-08-24
+ss-balao-guppy-ia,USS Blenny,usa,Active,Reserve,1951-12-01,1969-11-07
+ss-balao-guppy-ia,USS Blenny,usa,Reserve,Sunk,1969-11-07,1973-08-15
+ss-balao-guppy-ia,USS Chivo,usa,Active,Sold,1951-07-01,1971-07-01
+ss-balao-guppy-ia,USS Chopper,usa,Active,Reserve,1951-05-23,1969-08-27
+ss-balao-guppy-ia,USS Chopper,usa,Reserve,Sunk,1969-08-27,1971-10-01
+ss-balao-guppy-ia,USS Atule,usa,Active,Reserve,1951-03-08,1970-04-06
+ss-balao-guppy-ia,USS Atule,usa,Reserve,Sold,1970-04-06,1974-07-31
+ss-balao-guppy-ia,USS Sea Poacher,usa,Active,Reserve,1951-01-01,1969-11-15
+ss-balao-guppy-ia,USS Sea Poacher,usa,Reserve,Sold,1969-11-15,1974-07-01
+ss-balao-guppy-ia,USS Sea Robin,usa,Active,Scrapped,1951-08-01,1970-10-01
+ss-balao-guppy-ib,USS Hawkbill,usa,Active,Sold,1953-01-01,1953-04-01
+ss-balao-guppy-ib,USS Icefish,usa,Active,Sold,1952-12-10,1953-02-21
+ss-balao-fleet-snorkel,USS Sabalo,usa,Active,Target,1952-02-18,1971-07-01
+ss-balao-fleet-snorkel,USS Sablefish,usa,Active,Scrapped,1951-07-01,1969-11-01
+ss-balao-fleet-snorkel,USS Bergall,usa,Active,Sold,1952-04-09,1958-10-17
+ss-balao-fleet-snorkel,USS Charr,usa,Active,Reserve,1951-11-19,1969-06-28
+ss-balao-fleet-snorkel,USS Charr,usa,Reserve,Auxiliary,1969-06-28,1971-06-01
+ss-balao-fleet-snorkel,USS Bugara,usa,Active,Sunk,1951-11-01,1970-10-01
+ss-balao-fleet-snorkel,USS Carbonero,usa,Active,Target,1951-12-01,1970-12-01
+ss-balao-fleet-snorkel,USS Carp,usa,Active,Reserve,1952-09-01,1968-03-18
+ss-balao-fleet-snorkel,USS Carp,usa,Reserve,Scrapped,1968-03-18,1971-12-20
+ss-balao-fleet-snorkel,USS Cusk,usa,Active,Scrapped,1954-07-01,1969-09-24
+ss-balao-fleet-snorkel,USS Sterlet,usa,Active,Target,1952-07-01,1968-09-30
+ss-balao-fleet-snorkel,USS Segundo,usa,Active,Target,1951-10-01,1970-08-01
+ss-balao-fleet-snorkel,USS Sea Cat,usa,Active,Scrapped,1952-06-26,1968-12-02
+ss-balao-fleet-snorkel,USS Sea Owl,usa,Active,Scrapped,1951-08-01,1969-11-15
+ss-balao-fleet-snorkel,USS Sennet,usa,Active,Scrapped,1951-09-01,1968-12-02
+ss-balao-fleet-snorkel,USS Piper,usa,Active,Reserve,1951-10-01,1967-06-16
+ss-balao-fleet-snorkel,USS Piper,usa,Reserve,Scrapped,1967-06-16,1970-07-01
+ss-balao-guppy-iia,USS Entemedor,usa,Active,Reserve,1952-10-17,1972-07-31
+ss-balao-guppy-iia,USS Entemedor,usa,Reserve,Sold,1972-07-31,1973-08-24
+ss-balao-guppy-iia,USS Diodon,usa,Active,Scrapped,1953-06-01,1971-01-15
+ss-balao-guppy-iia,USS Hardhead,usa,Active,Sold,1953-03-24,1972-07-26
+ss-balao-guppy-iia,USS Jallao,usa,Active,Sold,1953-12-04,1974-06-26
+ss-balao-guppy-iia,USS Menhaden,usa,Active,Reserve,1953-03-06,1971-08-13
+ss-balao-guppy-iia,USS Menhaden,usa,Reserve,Scrapped,1971-08-13,1973-08-01
+ss-balao-guppy-iia,USS Picuda,usa,Active,Sold,1953-06-19,1972-10-01
+ss-balao-guppy-iia,USS Bang,usa,Active,Sold,1952-10-04,1972-10-01
+ss-balao-guppy-iia,USS Pomfret,usa,Active,Sold,1952-12-05,1971-07-01
+ss-balao-guppy-iia,USS Razorback,usa,Active,Sold,1954-01-01,1970-11-30
+ss-balao-guppy-iia,USS Ronquil,usa,Active,Sold,1953-01-16,1971-07-01
+ss-balao-guppy-iia,USS Sea Fox,usa,Active,Sold,1953-06-05,1970-12-14
+ss-balao-guppy-iia,USS Threadfin,usa,Active,Sold,1953-08-07,1972-08-18
+ss-balao-guppy-iia,USS Stickleback,usa,Active,Sunk,1953-06-26,1958-05-29
+ss-balao-guppy-iii,USS Clamagore,usa,Active,Reserve,1963-02-01,1973-06-12
+ss-balao-guppy-iii,USS Clamagore,usa,Reserve,Scrapped,1973-06-12,1975-06-27
+ss-balao-guppy-iii,USS Cobbler,usa,Active,Sold,1963-02-01,1973-11-21
+ss-balao-guppy-iii,USS Corporal,usa,Active,Sold,1963-02-01,1973-11-21
+ss-balao-guppy-iii,USS Greenfish,usa,Active,Sold,1961-07-28,1973-12-19
+ss-balao-guppy-iii,USS Tiru,usa,Active,Target,1959-12-31,1975-07-01
+ssg-balao-regulus,USS Barbero,usa,Active,Scrapped,1955-10-28,1964-06-30
+ssg-balao-loon,USS Carbonero,usa,Active,Converted,1947-04-01,1951-05-01
+ssg-balao-loon,USS Cusk,usa,Active,Converted,1947-04-01,1954-01-01
+ssr-gato-migraine-iii,USS Pompon,usa,Active,Scrapped,1953-06-15,1960-04-01
+ssr-gato-migraine-iii,USS Rasher,usa,Active,Scrapped,1953-07-22,1967-05-27
+ssr-gato-migraine-iii,USS Rasher,usa,Active,Scrapped,1967-05-27,1971-12-20
+ssr-gato-migraine-iii,USS Raton,usa,Active,Scrapped,1953-09-21,1969-06-28
+ssr-gato-migraine-iii,USS Ray,usa,Active,Reserve,1952-08-13,1958-09-30
+ssr-gato-migraine-iii,USS Ray,usa,Reserve,Scrapped,1958-09-30,1960-04-01
+ssr-gato-migraine-iii,USS Redfin,usa,Active,Auxiliary,1953-01-09,1959-04-01
+ssr-gato-migraine-iii,USS Redfin,usa,Auxiliary,Training,1959-04-01,1967-05-15
+ssr-gato-migraine-iii,USS Redfin,usa,Training,Scrapped,1967-05-15,1970-07-01
+ssr-gato-migraine-iii,USS Rock,usa,Active,Scrapped,1951-06-01,1969-09-13
+ssg-gato-regulus,USS Tunny,usa,Active,Converted,1953-03-06,1966-01-01
+ss-gato-guppy-ib,USS Barb,usa,Active,Sold,1954-02-05,1954-12-13
+ss-gato-guppy-ib,USS Dace,usa,Active,Sold,1954-10-22,1955-01-31
+ss-gato-guppy-ib,USS Hammerhead,usa,Active,Sold,1954-07-16,1954-10-23
+ssk-grouper,USS Grouper,usa,Active,Auxiliary,1951-06-27,1958-05-17
+ssk-angler,USS Angler,usa,Active,Reserve,1953-09-01,1968-04-01
+ssk-angler,USS Angler,usa,Reserve,Scrapped,1968-04-01,1971-12-15
+ssk-angler,USS Bashaw,usa,Active,Scrapped,1953-03-28,1969-09-13
+ssk-angler,USS Bluegill,usa,Active,Target,1953-05-02,1969-06-28
+ssk-angler,USS Bream,usa,Active,Target,1953-06-20,1969-06-28
+ssk-angler,USS Cavalla,usa,Active,Museum,1953-07-15,1968-06-03
+ssk-angler,USS Croaker,usa,Active,Reserve,1953-12-11,1968-04-02
+ssk-angler,USS Croaker,usa,Reserve,Museum,1968-04-02,1971-12-20
+ss-tench,USS Tench,usa,Active,Reserve,1944-10-01,1947-01-01
+ss-tench,USS Tench,usa,Reserve,Modernized,1947-01-01,1950-10-01
+ss-tench,USS Thornback,usa,Active,Reserve,1944-10-01,1946-04-06
+ss-tench,USS Thornback,usa,Reserve,Modernized,1946-04-06,1953-10-02
+ss-tench,USS Tigrone,usa,Active,Reserve,1944-10-01,1947-01-01
+ss-tench,USS Tigrone,usa,Reserve,Converted,1947-01-01,1948-06-01
+ss-tench,USS Tirante,usa,Active,Reserve,1944-11-01,1946-07-20
+ss-tench,USS Tirante,usa,Reserve,Modernized,1946-07-20,1952-08-01
+ss-tench,USS Trutta,usa,Active,Reserve,1944-11-01,1947-01-01
+ss-tench,USS Trutta,usa,Reserve,Active,1947-01-01,1951-03-01
+ss-tench,USS Trutta,usa,Active,Modernized,1951-03-01,1952-05-04
+ss-tench,USS Toro,usa,Active,Reserve,1944-12-01,1946-02-02
+ss-tench,USS Toro,usa,Reserve,Active,1946-02-02,1947-05-13
+ss-tench,USS Toro,usa,Active,Scrapped,1947-05-13,1963-03-11
+ss-tench,USS Torsk,usa,Active,Modernized,1944-12-01,1952-01-01
+ss-tench,USS Quillback,usa,Active,Training,1944-12-01,1945-12-01
+ss-tench,USS Quillback,usa,Training,Active,1945-12-01,1951-04-01
+ss-tench,USS Quillback,usa,Active,Modernized,1951-04-01,1952-04-01
+ss-perch-1943,USS Trumpetfish,usa,Active,Modernized,1946-01-01,1961-01-01
+ss-perch-1943,USS Tusk,usa,Active,Modernized,1946-04-01,1947-10-01
+ss-tench,USS Corsair,usa,Active,Scrapped,1946-11-01,1963-02-01
+ss-tench,USS Unicorn,usa,Reserve,Scrapped,1946-09-03,1958-07-29
+ss-tench,USS Walrus,usa,Reserve,Scrapped,1946-10-01,1958-06-09
+ss-argonaut,USS Argonaut,usa,Active,Modernized,1945-01-01,1952-07-01
+ss-argonaut,USS Runner,usa,Active,Modernized,1945-02-01,1952-06-01
+ss-argonaut,USS Conger,usa,Active,Scrapped,1945-02-01,1963-08-01
+ss-argonaut,USS Cutlass,usa,Active,Modernized,1945-03-01,1948-03-01
+ss-argonaut,USS Diablo,usa,Active,Modernized,1945-03-01,1964-06-01
+ss-argonaut,USS Medregal,usa,Active,Modernized,1945-04-01,1952-03-01
+ss-argonaut,USS Requin,usa,Active,Converted,1945-04-01,1946-08-01
+ss-argonaut,USS Irex,usa,Active,Modernized,1945-05-01,1947-07-01
+ss-argonaut,USS Sea Leopard,usa,Active,Modernized,1945-06-01,1948-12-01
+ss-argonaut,USS Odax,usa,Active,Modernized,1945-07-01,1946-10-01
+ss-argonaut,USS Sirago,usa,Active,Modernized,1945-08-01,1948-12-01
+ss-argonaut,USS Pomodon,usa,Active,Modernized,1945-09-01,1946-10-25
+ss-argonaut,USS Remora,usa,Active,Modernized,1946-01-01,1947-02-14
+ss-argonaut,USS Sarda,usa,Active,Scrapped,1946-04-01,1964-06-01
+ss-argonaut,USS Volador,usa,Active,Modernized,1948-10-01,1952-10-01
+ss-argonaut,USS Amberjack,usa,Active,Modernized,1946-03-01,1947-01-01
+ss-tench-guppy-i,USS Odax,usa,Active,Modernized,1947-08-01,1951-08-01
+ss-tench-guppy-i,USS Pomodon,usa,Active,Modernized,1947-07-26,1951-01-01
+ss-balao-guppy-ii,USS Tusk,usa,Active,Sold,1948-04-01,1973-10-18
+ss-tench-guppy-ii,USS Cutlass,usa,Active,Sold,1948-09-01,1973-04-15
+ss-tench-guppy-ii,USS Sea Leopard,usa,Active,Sold,1949-05-01,1973-03-27
+ss-tench-guppy-ii,USS Odax,usa,Active,Sold,1951-12-01,1972-07-08
+ss-tench-guppy-ii,USS Sirago,usa,Active,Scrapped,1949-07-25,1972-06-01
+ss-tench-guppy-ii,USS Pomodon,usa,Active,Scrapped,1951-05-01,1970-08-01
+ss-tench-guppy-ii,USS Volador,usa,Active,Modernized,1953-03-01,1962-05-01
+ss-tench-guppy-ii,USS Amberjack,usa,Active,Sold,1948-01-01,1972-10-17
+ss-tench-guppy-ii,USS Grampus,usa,Active,Sold,1949-10-26,1972-05-13
+ss-tench-guppy-ii,USS Pickerel,usa,Active,Modernized,1949-04-04,1962-04-01
+ss-tench-guppy-ii,USS Grenadier,usa,Active,Sold,1951-02-10,1973-05-15
+ss-tench-fleet-snorkel,USS Torsk,usa,Active,Reserve,1952-05-01,1968-03-04
+ss-tench-fleet-snorkel,USS Torsk,usa,Reserve,Museum,1968-03-04,1971-12-15
+ss-tench-fleet-snorkel,USS Argonaut,usa,Active,Sold,1952-12-01,1968-12-02
+ss-tench-fleet-snorkel,USS Runner,usa,Active,Reserve,1952-11-01,1970-07-01
+ss-tench-fleet-snorkel,USS Runner,usa,Reserve,Scrapped,1970-06-29,1971-12-15
+ss-tench-fleet-snorkel,USS Diablo,usa,Active,Sold,1953-01-01,1964-06-01
+ss-tench-fleet-snorkel,USS Medregal,usa,Active,Scrapped,1952-11-01,1970-08-01
+ss-tench-fleet-snorkel,USS Irex,usa,Active,Scrapped,1948-02-01,1969-11-17
+ss-tench-guppy-ia,USS Tench,usa,Active,Reserve,1951-02-01,1970-05-08
+ss-tench-guppy-ia,USS Tench,usa,Reserve,Sold,1970-05-08,1976-09-16
+ss-tench-guppy-iia,USS Thornback,usa,Active,Sold,1954-02-01,1971-07-01
+ss-tench-guppy-iia,USS Tirante,usa,Active,Scrapped,1952-11-26,1973-10-01
+ss-tench-guppy-iia,USS Trutta,usa,Active,Sold,1953-01-02,1972-07-01
+ss-tench-guppy-iia,USS Quillback,usa,Active,Scrapped,1953-02-27,1973-03-23
+ss-balao-guppy-iii,USS Trumpetfish,usa,Active,Sold,1961-07-01,1973-10-15
+ss-tench-guppy-ii,USS Remora,usa,Active,Modernized,1947-11-01,1962-01-01
+ss-tench-guppy-iii,USS Remora,usa,Active,Sold,1962-07-01,1973-10-29
+ss-tench-guppy-iii,USS Volador,usa,Active,Sold,1963-02-01,1972-08-01
+ss-tench-guppy-iii,USS Pickerel,usa,Active,Sold,1964-10-01,1972-08-18
+ssr-tench-migraine-0,USS Requin,usa,Active,Modernized,1946-11-01,1953-12-01
+ssr-tench-migraine-0,USS Spinax,usa,Active,Modernized,1946-09-20,1956-06-01
+ssr-tench-migraine-i,USS Tigrone,usa,Active,Reserve,1945-11-01,1957-08-01
+ssr-tench-migraine-i,USS Tigrone,usa,Reserve,Converted,1957-08-01,1962-03-10
+ssr-tench-migraine-ii,USS Requin,usa,Active,Converted,1954-03-01,1959-06-01
+ssr-tench-migraine-ii,USS Spinax,usa,Active,Converted,1956-10-01,1959-04-13
+ss-tench-fleet-snorkel,USS Tigrone,usa,Active,Target,1962-09-22,1975-06-27
+ss-tench-fleet-snorkel,USS Requin,usa,Active,Reserve,1959-08-01,1968-12-02
+ss-tench-fleet-snorkel,USS Requin,usa,Reserve,Museum,1968-12-02,1971-12-20
+ss-tench-fleet-snorkel,USS Spinax,usa,Active,Scrapped,1959-09-11,1969-10-11
+ssk-k1,USS K-1,usa,Active,Renamed,1951-11-10,1955-12-01
+ssk-k1,USS Barracuda,usa,Active,Training,1955-12-01,1959-07-01
+ssk-k1,USS Barracuda,usa,Training,Scrapped,1959-07-01,1973-10-01
+ssk-k1,USS K-2,usa,Active,Renamed,1951-11-16,1955-12-01
+ssk-k1,USS Bass,usa,Active,Reserve,1955-12-01,1957-10-01
+ssk-k1,USS Bass,usa,Reserve,Scrapped,1957-10-01,1965-04-01
+ssk-k1,USS K-3,usa,Active,Renamed,1952-01-11,1955-12-01
+ssk-k1,USS Bonita,usa,Active,Reserve,1955-12-01,1958-11-07
+ssk-k1,USS Bonita,usa,Reserve,Scrapped,1958-11-07,1965-04-01
+ss-tang,USS Tang,usa,Active,Sold,1951-10-25,1980-02-08
+ss-tang,USS Trigger,usa,Active,Sold,1952-03-31,1973-07-02
+ss-tang,USS Wahoo,usa,Active,Reserve,1952-05-30,1980-06-27
+ss-tang,USS Wahoo,usa,Reserve,Scrapped,1980-06-27,1983-07-01
+ss-tang,USS Trout,usa,Active,Sold,1952-06-27,1978-12-19
+ss-gudgeon,USS Gudgeon,usa,Active,Sold,1952-11-21,1983-09-30
+ss-gudgeon,USS Harder,usa,Active,Reserve,1952-08-19,1974-01-31
+ss-gudgeon,USS Harder,usa,Reserve,Sold,1974-01-31,1974-08-18
+sst-t1,USS T-1,usa,Training,Renamed,1953-10-09,1956-07-01
+sst-t1,USS Mackerel,usa,Training,Scrapped,1956-07-01,1973-01-31
+sst-t1,USS T-2,usa,Training,Renamed,1953-11-20,1956-07-01
+sst-t1,USS Marlin,usa,Training,Scrapped,1956-07-01,1973-01-31
+ssr-sailfish,USS Sailfish,usa,Active,Converted,1956-04-14,1961-02-03
+ssr-sailfish,USS Salmon,usa,Active,Converted,1956-08-25,1961-03-01
+ssk-sailfish,USS Sailfish,usa,Active,Target,1961-02-03,1978-09-30
+ssk-sailfish,USS Salmon,usa,Active,Target,1961-03-01,1977-10-01
+ss-darter,USS Darter,usa,Active,Converted,1956-10-20,1965-01-01
+ssk-darter,USS Darter,usa,Active,Reserve,1965-06-01,1989-12-12
+ssk-darter,USS Darter,usa,Reserve,Target,1989-12-12,1990-01-17
+ss-barbel,USS Barbel,usa,Active,Reserve,1959-01-17,1989-12-04
+ss-barbel,USS Barbel,usa,Reserve,Target,1989-12-04,1990-01-17
+ss-barbel,USS Blueback,usa,Active,Scrapped,1959-10-15,1990-10-01
+ss-barbel,USS Bonefish,usa,Active,Sunk,1959-07-09,1988-04-24
+ssg-grayback,USS Grayback,usa,Active,Reserve,1958-03-07,1964-05-25
+ssg-grayback,USS Grayback,usa,Reserve,Auxiliary,1964-05-25,1969-05-09
+ssg-growler,USS Growler,usa,Active,Reserve,1958-08-30,1964-05-25
+ssg-growler,USS Growler,usa,Reserve,Museum,1964-05-25,1980-08-01
+ssn-nautilus,USS Nautilus,usa,Active,Museum,1955-04-22,1980-03-03
+ssn-seawolf-1957,USS Seawolf,usa,Active,Reserve,1957-03-30,1987-03-30
+ssn-seawolf-1957,USS Seawolf,usa,Reserve,Scrapped,1987-03-30,1987-07-10
+ssn-skate,USS Skate,usa,Active,Reserve,1957-12-23,1986-09-12
+ssn-skate,USS Skate,usa,Reserve,Scrapped,1986-09-12,1986-10-30
+ssn-skate,USS Swordfish,usa,Active,Scrapped,1958-09-15,1989-06-02
+ssn-skate,USS Sargo,usa,Active,Scrapped,1958-10-01,1988-04-21
+ssn-skate,USS Seadragon,usa,Active,Reserve,1959-12-05,1984-06-12
+ssn-skate,USS Seadragon,usa,Reserve,Scrapped,1984-06-12,1986-04-30
+ssn-skipjack,USS Skipjack,usa,Active,Scrapped,1959-04-15,1990-04-19
+ssn-skipjack,USS Scamp,usa,Active,Scrapped,1961-06-05,1988-04-28
+ssn-skipjack,USS Scorpion,usa,Active,Sunk,1960-07-29,1968-05-21
+ssn-skipjack,USS Sculpin,usa,Active,Scrapped,1961-06-01,1990-08-03
+ssn-skipjack,USS Shark,usa,Active,Scrapped,1961-02-09,1990-09-15
+ssn-skipjack,USS Snook,usa,Active,Scrapped,1961-10-24,1986-11-14
+ssnr-triton,USS Triton,usa,Active,Converted,1959-11-10,1962-06-01
+ssnk-triton,USS Triton,usa,Active,Reserve,1964-01-01,1969-05-03
+ssnk-triton,USS Triton,usa,Reserve,Scrapped,1969-05-03,1986-04-30
+ssnk-tullibee,USS Tullibee,usa,Active,Scrapped,1960-11-09,1988-06-25
+ssn-thresher,USS Thresher,usa,Active,Sunk,1961-08-03,1963-04-10
+ssn-thresher,USS Permit,usa,Active,Scrapped,1962-05-29,1991-07-23
+ssn-thresher,USS Plunger,usa,Active,Scrapped,1962-11-21,1990-02-02
+ssn-thresher,USS Barb,usa,Active,Scrapped,1963-08-24,1989-12-20
+ssn-thresher,USS Pollack,usa,Active,Scrapped,1964-05-26,1989-03-01
+ssn-thresher,USS Haddo,usa,Active,Scrapped,1964-12-16,1991-06-21
+ssn-thresher,USS Tinosa,usa,Active,Scrapped,1964-10-17,1992-01-15
+ssn-thresher,USS Dace,usa,Active,Scrapped,1964-04-04,1988-12-02
+ssn-thresher,USS Guardfish,usa,Active,Scrapped,1966-12-20,1992-02-04
+ssn-thresher,USS Haddock,usa,Active,Scrapped,1967-12-22,1993-04-07
+ssn-jack,USS Jack,usa,Active,Scrapped,1967-03-31,1990-07-11
+ssn-flasher,USS Flasher,usa,Active,Scrapped,1966-07-22,1992-09-14
+ssn-flasher,USS Greenling,usa,Active,Scrapped,1967-11-03,1994-04-18
+ssn-flasher,USS Gato,usa,Active,Scrapped,1968-01-25,1996-04-25
+ssn-sturgeon,USS Sturgeon,usa,Active,Scrapped,1967-03-03,1994-08-01
+ssn-sturgeon,USS Whale,usa,Active,Scrapped,1968-10-12,1996-06-25
+ssn-sturgeon,USS Tautog,usa,Active,Scrapped,1968-08-17,1997-03-31
+ssn-sturgeon,USS Grayling,usa,Active,Scrapped,1969-10-11,1997-07-18
+ssn-sturgeon,USS Pogy,usa,Active,Scrapped,1971-05-15,1999-06-11
+ssn-sturgeon,USS Aspro,usa,Active,Scrapped,1969-02-20,1995-03-31
+ssn-sturgeon,USS Sunfish,usa,Active,Scrapped,1969-03-15,1997-03-31
+ssn-sturgeon,USS Pargo,usa,Active,Scrapped,1968-01-05,1995-04-14
+ssn-sturgeon,USS Queenfish,usa,Active,Scrapped,1966-12-06,1992-04-14
+ssn-sturgeon,USS Puffer,usa,Active,Scrapped,1969-08-09,1996-07-12
+ssn-sturgeon,USS Ray,usa,Active,Scrapped,1967-04-12,1993-03-16
+ssn-sturgeon,USS Sand Lance,usa,Active,Scrapped,1971-09-25,1998-08-01
+ssn-sturgeon,USS Lapon,usa,Active,Scrapped,1967-12-14,1992-08-01
+ssn-sturgeon,USS Gurnard,usa,Active,Scrapped,1968-12-06,1995-04-28
+ssn-sturgeon,USS Hammerhead,usa,Active,Scrapped,1968-06-28,1995-04-05
+ssn-sturgeon,USS Sea Devil,usa,Active,Scrapped,1968-06-28,1991-10-16
+ssn-sturgeon,USS Guitarro,usa,Active,Scrapped,1972-09-09,1992-05-29
+ssn-sturgeon,USS Hawkbill,usa,Active,Scrapped,1971-02-04,2000-03-15
+ssn-sturgeon,USS Bergall,usa,Active,Reserve,1969-06-13,1996-06-06
+ssn-sturgeon,USS Bergall,usa,Reserve,Scrapped,1996-06-06,1997-06-01
+ssn-sturgeon,USS Spadefish,usa,Active,Scrapped,1969-08-14,1997-04-11
+ssn-sturgeon,USS Seahorse,usa,Active,Scrapped,1969-09-19,1995-08-17
+ssn-sturgeon,USS Finback,usa,Active,Scrapped,1970-02-04,1997-04-01
+ssn-sturgeon,USS Pintado,usa,Active,Scrapped,1971-09-11,1998-02-26
+ssn-sturgeon,USS Flying Fish,usa,Active,Scrapped,1970-04-29,1996-05-16
+ssn-sturgeon,USS Trepang,usa,Active,Scrapped,1970-08-14,1999-06-01
+ssn-sturgeon,USS Bluefish,usa,Active,Scrapped,1971-01-08,1996-06-01
+ssn-sturgeon,USS Billfish,usa,Active,Scrapped,1971-03-12,1999-07-01
+ssn-sturgeon,USS Drum,usa,Active,Scrapped,1972-04-15,1995-11-01
+ssn-archerfish,USS Archerfish,usa,Active,Scrapped,1971-12-17,1998-04-01
+ssn-archerfish,USS Silversides,usa,Active,Scrapped,1972-05-05,1994-07-21
+ssn-archerfish,USS William H. Bates,usa,Active,Scrapped,1973-05-05,2000-02-11
+ssn-archerfish,USS Batfish,usa,Active,Scrapped,1972-05-05,1999-03-17
+ssn-archerfish,USS Tunny,usa,Active,Scrapped,1974-01-26,1998-03-13
+ssn-parche,USS Parche,usa,Active,Scrapped,1974-08-17,2005-07-01
+ssn-archerfish,USS Cavalla,usa,Active,Scrapped,1973-02-09,1998-04-01
+ssn-archerfish,USS L. Mendel Rivers,usa,Active,Scrapped,1975-02-01,2001-05-01
+ssn-archerfish,USS Richard B. Russell,usa,Active,Scrapped,1975-08-16,1994-07-01
+ssn-narwhal,USS Narwhal,usa,Active,Scrapped,1969-07-12,1999-07-01
+ssn-glenard-p-lipscomb,USS Glenard P. Lipscomb,usa,Active,Scrapped,1974-12-21,1990-07-11
+ssn-los-angeles,USS Los Angeles,usa,Active,Scrapped,1976-11-13,2011-02-04
+ssn-los-angeles,USS Baton Rouge,usa,Active,Scrapped,1977-06-25,1995-01-01
+ssn-los-angeles,USS Philadelphia,usa,Active,Scrapped,1977-06-25,2010-06-25
+ssn-los-angeles,USS Memphis,usa,Active,Scrapped,1977-12-17,2011-04-01
+ssn-los-angeles,USS Omaha,usa,Active,Scrapped,1978-03-11,1995-10-01
+ssn-los-angeles,USS Cincinnati,usa,Active,Scrapped,1978-06-10,1996-07-29
+ssn-los-angeles,USS Groton,usa,Active,Scrapped,1978-07-08,1997-11-01
+ssn-los-angeles,USS Birmingham,usa,Active,Scrapped,1978-12-16,1997-12-01
+ssn-los-angeles,USS New York City,usa,Active,Scrapped,1979-03-03,1997-04-01
+ssn-los-angeles,USS Indianapolis,usa,Active,Scrapped,1980-01-05,1998-12-01
+ssn-los-angeles,USS Bremerton,usa,Active,Reserve,1981-03-28,2018-07-09
+ssn-los-angeles,USS Bremerton,usa,Reserve,,2018-07-09,
+ssn-los-angeles,USS Jacksonville,usa,Active,Reserve,1981-05-16,2018-05-01
+ssn-los-angeles,USS Jacksonville,usa,Reserve,,2018-05-01,
+ssn-los-angeles,USS Dallas,usa,Active,Reserve,1981-07-18,2017-05-22
+ssn-los-angeles,USS Dallas,usa,Reserve,,2017-05-22,2018-04-01
+ssn-la-jolla,USS La Jolla,usa,Active,Converted,1981-09-30,2015-02-03
+ssn-la-jolla,USS Phoenix,usa,Active,Scrapped,1981-12-19,1998-07-29
+ssn-la-jolla,USS Boston,usa,Active,Scrapped,1982-01-30,1999-11-01
+ssn-la-jolla,USS Baltimore,usa,Active,Scrapped,1982-07-24,1998-07-01
+ssn-la-jolla,USS City of Corpus Christi,usa,Active,Scrapped,1983-01-08,2017-08-01
+ssn-la-jolla,USS Albuquerque,usa,Active,Scrapped,1983-05-21,2017-02-01
+ssn-la-jolla,USS Portsmouth,usa,Active,Scrapped,1983-10-01,2004-09-10
+ssn-la-jolla,USS Minneapolis-Saint Paul,usa,Active,Scrapped,1984-03-10,2008-08-01
+ssn-la-jolla,USS Hyman G. Rickover,usa,Active,Scrapped,1984-07-21,2006-12-14
+ssn-la-jolla,USS Augusta,usa,Active,Scrapped,1985-01-19,2009-02-01
+ssn-la-jolla,USS San Francisco,usa,Active,Converted,1981-04-24,2017-05-11
+ssn-la-jolla,USS Atlanta,usa,Active,Scrapped,1982-03-06,1999-12-16
+ssn-la-jolla,USS Houston,usa,Active,Scrapped,1982-09-25,2016-08-26
+ssn-la-jolla,USS Norfolk,usa,Active,Scrapped,1983-05-21,2014-12-11
+ssn-la-jolla,USS Buffalo,usa,Active,Reserve,1983-11-05,2017-09-30
+ssn-la-jolla,USS Buffalo,usa,Reserve,Scrapped,2017-09-30,2019-01-30
+ssn-la-jolla,USS Salt Lake City,usa,Active,Scrapped,1984-05-12,2006-01-01
+ssn-la-jolla,USS Olympia,usa,Active,Reserve,1984-11-17,2019-10-30
+ssn-la-jolla,USS Olympia,usa,Reserve,,2019-10-30,
+ssn-la-jolla,USS Honolulu,usa,Active,Scrapped,1985-07-06,2007-11-01
+ssn-providence,USS Providence,usa,Active,,1985-07-27,
+ssn-providence,USS Pittsburgh,usa,Active,Reserve,1985-11-23,2019-08-06
+ssn-providence,USS Pittsburgh,usa,Reserve,,2019-08-06,2020-01-17
+ssn-providence,USS Chicago,usa,Active,,1986-09-27,
+ssn-providence,USS Key West,usa,Active,,1987-09-12,
+ssn-providence,USS Oklahoma City,usa,Active,,1988-07-09,
+ssn-providence,USS Louisville,usa,Active,,1986-11-08,2019-10-22
+ssn-providence,USS Helena,usa,Active,,1987-07-11,
+ssn-providence,USS Newport News,usa,Active,,1989-06-03,
+ssn-providence,USS San Juan,usa,Active,,1988-08-06,
+ssn-providence,USS Pasadena,usa,Active,,1989-02-11,
+ssn-providence,USS Albany,usa,Active,,1990-04-07,
+ssn-providence,USS Topeka,usa,Active,,1989-10-21,
+ssn-providence,USS Miami,usa,Active,Reserve,1990-06-30,2013-08-08
+ssn-providence,USS Miami,usa,Reserve,Scrapped,2013-08-08,2014-12-01
+ssn-providence,USS Scranton,usa,Active,,1991-01-26,
+ssn-providence,USS Alexandria,usa,Active,,1991-06-29,
+ssn-providence,USS Asheville,usa,Active,,1991-09-28,
+ssn-providence,USS Jefferson City,usa,Active,,1992-02-29,
+ssn-providence,USS Annapolis,usa,Active,,1992-04-11,
+ssn-providence,USS Springfield,usa,Active,,1993-01-09,
+ssn-providence,USS Columbus,usa,Active,,1993-07-24,
+ssn-providence,USS Santa Fe,usa,Active,,1994-01-08,
+ssn-providence,USS Boise,usa,Active,,1992-11-07,
+ssn-providence,USS Montpelier,usa,Active,,1993-03-13,
+ssn-providence,USS Charlotte,usa,Active,,1994-09-16,
+ssn-providence,USS Hampton,usa,Active,,1993-11-06,
+ssn-providence,USS Hartford,usa,Active,,1994-12-10,
+ssn-providence,USS Toledo,usa,Active,,1995-02-24,
+ssn-providence,USS Tucson,usa,Active,,1995-08-18,
+ssn-providence,USS Columbia,usa,Active,,1995-10-09,
+ssn-providence,USS Greenville,usa,Active,,1996-02-16,
+ssn-providence,USS Cheyenne,usa,Active,,1996-09-13,
+ssn-seawolf,USS Seawolf,usa,Active,,1997-07-19,
+ssn-seawolf,USS Connecticut,usa,Active,,1998-12-11,
+ssn-jimmy-carter,USS Jimmy Carter,usa,Active,,2005-02-19,
+ssn-virginia,USS Virginia,usa,Active,,2004-10-23,
+ssn-virginia,USS Texas,usa,Active,,2006-09-09,
+ssn-virginia,USS Hawaii,usa,Active,,2007-05-05,
+ssn-virginia,USS North Carolina,usa,Active,,2008-05-03,
+ssn-virginia,USS New Hampshire,usa,Active,,2008-10-25,
+ssn-virginia,USS New Mexico,usa,Active,,2010-03-27,
+ssn-virginia,USS Missouri,usa,Active,,2010-07-31,
+ssn-virginia,USS California,usa,Active,,2011-10-29,
+ssn-virginia,USS Mississippi,usa,Active,,2012-06-02,
+ssn-virginia,USS Minnesota,usa,Active,,2013-09-07,
+ssn-north-dakota,USS North Dakota,usa,Active,,2014-10-25,
+ssn-north-dakota,USS John Warner,usa,Active,,2015-08-01,
+ssn-north-dakota,USS Illinois,usa,Active,,2016-10-29,
+ssn-north-dakota,USS Washington,usa,Active,,2017-10-07,
+ssn-north-dakota,USS Colorado,usa,Active,,2018-03-17,
+ssn-north-dakota,USS Indiana,usa,Active,,2018-09-29,
+ssn-north-dakota,USS South Dakota,usa,Active,,2019-02-02,
+ssgn-halibut,USS Halibut,usa,Active,Converted,1960-01-04,1965-02-01
+ssn-halibut,USS Halibut,usa,Active,Reserve,1965-08-15,1976-06-30
+ssn-halibut,USS Halibut,usa,Reserve,Scrapped,1976-06-30,1986-04-30
+ssbn-george-washington,USS George Washington,usa,Active,Converted,1959-12-30,1983-01-01
+ssbn-george-washington,USS Patrick Henry,usa,Active,Converted,1960-04-11,1982-11-01
+ssbn-george-washington,USS Theodore Roosevelt,usa,Active,Reserve,1961-02-13,1981-02-28
+ssbn-george-washington,USS Theodore Roosevelt,usa,Reserve,Scrapped,1981-02-28,1982-12-01
+ssbn-george-washington,USS Robert E. Lee,usa,Active,Converted,1960-09-16,1982-12-01
+ssbn-george-washington,USS Abraham Lincoln,usa,Active,Reserve,1961-03-08,1981-02-28
+ssbn-george-washington,USS Abraham Lincoln,usa,Reserve,Scrapped,1981-02-28,1982-12-01
+ssn-george-washington,USS George Washington,usa,Active,Reserve,1983-01-01,1985-01-24
+ssn-george-washington,USS George Washington,usa,Reserve,Scrapped,1985-01-24,1986-04-30
+ssn-george-washington,USS Patrick Henry,usa,Active,Reserve,1982-11-01,1984-05-25
+ssn-george-washington,USS Patrick Henry,usa,Reserve,Scrapped,1984-05-25,1985-12-16
+ssn-george-washington,USS Robert E. Lee,usa,Active,Reserve,1982-12-01,1983-12-01
+ssn-george-washington,USS Robert E. Lee,usa,Reserve,Scrapped,1983-12-01,1986-04-30
+ssbn-ethan-allen,USS Ethan Allen,usa,Active,Converted,1961-08-08,1980-09-01
+ssbn-ethan-allen,USS Sam Houston,usa,Active,Converted,1962-03-06,1981-01-01
+ssbn-ethan-allen,USS Thomas A. Edison,usa,Active,Converted,1962-03-10,1981-01-01
+ssbn-ethan-allen,USS John Marshall,usa,Active,Converted,1962-05-21,1981-06-01
+ssbn-ethan-allen,USS Thomas Jefferson,usa,Active,Converted,1963-01-04,1981-01-01
+ssn-ethan-allen,USS Ethan Allen,usa,Active,Scrapped,1980-09-01,1983-04-01
+ssn-ethan-allen,USS Sam Houston,usa,Active,Scrapped,1981-01-01,1991-09-01
+ssn-ethan-allen,USS Thomas A. Edison,usa,Active,Reserve,1981-01-01,1983-12-01
+ssn-ethan-allen,USS Thomas A. Edison,usa,Reserve,Scrapped,1983-12-01,1986-04-30
+ssn-ethan-allen,USS John Marshall,usa,Active,Scrapped,1981-06-01,1992-07-01
+ssn-ethan-allen,USS Thomas Jefferson,usa,Active,Reserve,1981-01-01,1985-01-24
+ssn-ethan-allen,USS Thomas Jefferson,usa,Reserve,Scrapped,1985-01-24,1986-04-01
+ssbn-lafayette,USS Lafayette,usa,Active,Scrapped,1963-04-23,1991-08-01
+ssbn-lafayette,USS Alexander Hamilton,usa,Active,Scrapped,1963-06-27,1993-02-01
+ssbn-lafayette,USS Andrew Jackson,usa,Active,Scrapped,1963-07-03,1989-08-01
+ssbn-lafayette,USS John Adams,usa,Active,Scrapped,1964-05-12,1989-03-01
+ssbn-lafayette,USS James Monroe,usa,Active,Scrapped,1963-12-07,1990-09-01
+ssbn-lafayette,USS Nathan Hale,usa,Active,Scrapped,1963-11-23,1986-12-01
+ssbn-lafayette,USS Woodrow Wilson,usa,Active,Scrapped,1963-12-27,1994-09-01
+ssbn-lafayette,USS Henry Clay,usa,Active,Scrapped,1964-02-20,1990-11-01
+ssbn-lafayette,USS Daniel Webster,usa,Active,Converted,1964-04-09,1990-08-01
+ssbn-lafayette,USS James Madison,usa,Active,Scrapped,1964-07-28,1992-11-01
+ssbn-lafayette,USS Tecumseh,usa,Active,Scrapped,1964-05-29,1993-07-01
+ssbn-lafayette,USS Daniel Boone,usa,Active,Scrapped,1964-04-23,1994-02-01
+ssbn-lafayette,USS John C. Calhoun,usa,Active,Scrapped,1964-09-15,1994-03-01
+ssbn-lafayette,USS Ulysses S. Grant,usa,Active,Scrapped,1964-07-17,1992-06-01
+ssbn-lafayette,USS Von Steuben,usa,Active,Scrapped,1964-09-30,1994-02-01
+ssbn-lafayette,USS Casimir Pulaski,usa,Active,Scrapped,1964-08-14,1994-07-01
+ssbn-lafayette,USS Stonewall Jackson,usa,Active,Scrapped,1964-08-26,1995-02-01
+ssbn-lafayette,USS Sam Rayburn,usa,Active,Converted,1964-12-02,1989-08-01
+ssbn-lafayette,USS Nathanael Greene,usa,Active,Scrapped,1964-12-19,1987-01-01
+ssbn-lafayette,USS Benjamin Franklin,usa,Active,Scrapped,1965-10-22,1993-11-01
+ssbn-lafayette,USS Simon Bolivar,usa,Active,Scrapped,1965-10-29,1995-02-01
+ssbn-lafayette,USS Kamehameha,usa,Active,Converted,1965-12-10,1992-09-01
+ssbn-lafayette,USS George Bancroft,usa,Active,Scrapped,1966-01-22,1993-09-01
+ssbn-lafayette,USS Lewis & Clark,usa,Active,Scrapped,1965-12-22,1992-08-01
+ssbn-lafayette,USS James K. Polk,usa,Active,Converted,1966-04-16,1992-08-01
+ssbn-lafayette,USS George C. Marshall,usa,Active,Scrapped,1966-04-29,1992-09-01
+ssbn-lafayette,USS Henry L. Stimson,usa,Active,Scrapped,1966-08-20,1993-05-01
+ssbn-lafayette,USS George Washington Carver,usa,Active,Scrapped,1966-06-15,1993-03-01
+ssbn-lafayette,USS Francis Scott Key,usa,Active,Scrapped,1966-12-03,1993-09-01
+ssbn-lafayette,USS Mariano G. Vallejo,usa,Active,Scrapped,1966-12-16,1995-03-01
+ssbn-lafayette,USS Will Rogers,usa,Active,Scrapped,1967-04-01,1993-04-01
+ssn-kamehameha,USS Kamehameha,usa,Active,Scrapped,1993-07-01,2002-04-01
+ssn-kamehameha,USS James K. Polk,usa,Active,Scrapped,1994-03-01,1999-07-01
+ssbn-ohio,USS Ohio,usa,Active,Converted,1981-11-11,1993-06-01
+ssbn-ohio,USS Michigan,usa,Active,Converted,1982-09-11,2006-06-01
+ssbn-ohio,USS Florida,usa,Active,Converted,1983-06-18,2003-07-01
+ssbn-ohio,USS Georgia,usa,Active,Converted,1984-02-11,2005-03-01
+ssbn-ohio,USS Henry M. Jackson,usa,Active,,1984-10-06,
+ssbn-ohio,USS Alabama,usa,Active,,1985-05-25,
+ssbn-ohio,USS Alaska,usa,Active,,1986-01-25,
+ssbn-ohio,USS Nevada,usa,Active,,1986-08-16,
+ssbn-ohio,USS Tennessee,usa,Active,,1988-12-17,
+ssbn-ohio,USS Pennsylvania,usa,Active,,1989-09-09,
+ssbn-ohio,USS West Virginia,usa,Active,,1990-10-20,
+ssbn-ohio,USS Kentucky,usa,Active,,1991-07-13,
+ssbn-ohio,USS Maryland,usa,Active,,1992-06-13,
+ssbn-ohio,USS Nebraska,usa,Active,,1993-07-10,
+ssbn-ohio,USS Rhode Island,usa,Active,,1994-07-09,
+ssbn-ohio,USS Maine,usa,Active,,1995-07-29,
+ssbn-ohio,USS Wyoming,usa,Active,,1996-07-13,
+ssbn-ohio,USS Louisiana,usa,Active,,1997-09-06,
+ssgn-ohio,USS Ohio,usa,Active,,1994-06-01,
+ssgn-ohio,USS Michigan,usa,Active,,2007-06-01,
+ssgn-ohio,USS Florida,usa,Active,,2006-04-01,
+ssgn-ohio,USS Georgia,usa,Active,,2008-02-01,
