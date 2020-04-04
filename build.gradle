@@ -73,7 +73,7 @@ task generateShipHistory {
         // Construction / Fitting
         def records = CSVParser.parse(file("$buildDir/ships.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
         records.forEach { record ->
-            // println(record.get("ShipName"))
+            if (!record.get("LaidDown")) {throw new Exception("Ship '${record.get("ShipName")}' is missing a LaidDown date.")}
             def laidDown = LocalDate.parse(record.get("LaidDown"))
             def launched = LocalDate.parse(record.get("Launched") ?: record.get("Commissioned") ?: record.get("Stricken") ?: today)
             def commissioned = LocalDate.parse(record.get("Commissioned") ?: record.get("Stricken") ?: today)
@@ -109,8 +109,8 @@ task generateShipHistory {
         // Service
         records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
         records.forEach { record ->
-            // println(record.get("ShipName"))
             if (record.get("ShipName")) {
+                if (!record.get("Start")) {throw new Exception("Ship '${record.get("ShipName")}' is missing a Start date for service history.")}
                 def currentDate = LocalDate.parse(record.get("Start"))
                 currentDate = currentDate.minusDays(currentDate.getDayOfMonth() - 1)
                 def endDate = LocalDate.parse(record.get("End") ?: today)
