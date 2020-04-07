@@ -13679,9 +13679,9 @@ ss-e24,HMS E41,Built,Scrapped,1914-12-01,1915-10-22,1916-06-01,1922-09-01
 ss-e24,HMS E45,Built,Scrapped,1915-01-01,1916-01-25,1916-08-01,1922-09-01
 ss-e24,HMS E46,Built,Scrapped,1915-01-01,1916-04-04,1916-10-01,1922-09-01
 ss-e24,HMS E51,Built,Scrapped,1915-03-01,1916-11-30,1917-01-01,1931-10-01
-ss-s1,HMS S1,Built,Sold,1912-08-01,1914-02-28,1914-08-01,1915-10-01
-ss-s1,HMS S2,Built,Sold,1913-10-01,1915-04-14,1915-05-01,1915-10-01
-ss-s1,HMS S3,Built,Sold,1914-03-01,1915-06-10,1915-09-01,1915-10-01
+ss-s1-it,HMS S1,Built,Sold,1912-08-01,1914-02-28,1914-08-01,1915-10-01
+ss-s1-it,HMS S2,Built,Sold,1913-10-01,1915-04-14,1915-05-01,1915-10-01
+ss-s1-it,HMS S3,Built,Sold,1914-03-01,1915-06-10,1915-09-01,1915-10-01
 ss-v1,HMS V1,Built,Scrapped,1912-11-01,1914-07-23,1915-05-01,1921-11-01
 ss-v1,HMS V2,Built,Scrapped,1913-10-01,1915-02-17,1915-11-01,1921-11-01
 ss-v1,HMS V3,Built,Scrapped,1914-01-01,1915-04-01,1916-01-01,1920-10-01
@@ -14000,7 +14000,6 @@ ss-p611,HMS P615,Bought,Sunk,1942-04-01,,1942-04-01,1943-04-18
 ss-p511,HMS P511,Bought,Sold,1941-01-01,,1941-01-01,1944-12-01
 ss-p511,HMS P512,Bought,Sold,1942-03-01,,1942-03-01,1944-09-01
 ss-p511,HMS P514,Bought,Sunk,1942-03-01,,1942-03-01,1942-06-21
-ss-p551,HMS P551,Bought,Sold,1941-11-01,,1941-11-01,1941-11-01
 ss-p551,HMS P552,Bought,Sold,1942-04-01,,1942-04-01,1944-10-01
 ss-p551,HMS P553,Bought,Sold,1942-09-01,,1942-09-01,1944-07-01
 ss-p551,HMS P554,Bought,Sold,1942-06-01,,1942-06-01,1944-07-01
@@ -14618,7 +14617,7 @@ ss-vesikko,Vesikko,Built,Museum,1931-08-01,1933-05-10,1934-04-01,1947-01-01
 ss-gymnote,Gymnote,Built,Scrapped,1887-01-01,1888-01-01,1888-11-01,1908-05-01
 ss-gustave-zede-1889,Gustave Zede,Built,Scrapped,1889-01-01,1893-06-01,1898-01-01,1909-01-01
 ss-morse,Morse,Built,Scrapped,1897-01-01,1899-07-04,1900-06-01,1909-11-01
-ss-narval,Narval,Built,Scrapped,1898-01-01,1899-10-21,1900-08-01,1909-11-01
+ss-narval-fra,Narval,Built,Scrapped,1898-01-01,1899-10-21,1900-08-01,1909-11-01
 ss-sirene-1900,Sirene,Built,Scrapped,1900-05-01,1901-05-04,1901-12-01,1919-11-01
 ss-sirene-1900,Triton,Built,Scrapped,1900-06-01,1901-07-13,1901-12-01,1919-11-01
 ss-sirene-1900,Espadon,Built,Scrapped,1900-08-01,1901-09-07,1902-06-01,1919-11-01
@@ -14856,10 +14855,10 @@ ss-roland-morillot,La Praya,Cancelled,Scrapped,1938-03-01,,,1940-06-19
 ss-roland-morillot,La Martinique,Cancelled,Scrapped,1938-09-01,,,1940-06-19
 ss-roland-morillot,La Guadeloupe,Cancelled,Scrapped,1940-06-01,,,1940-06-19
 ss-roland-morillot,La Reunion,Cancelled,Scrapped,1940-06-01,,,1940-06-19
-ss-emeraude,Emeraude,Cancelled,Scrapped,1938-05-01,,,1940-06-23
-ss-emeraude,L`Agate,Cancelled,Scrapped,1939-07-01,,,1940-06-23
-ss-emeraude,Le Corail,Cancelled,Scrapped,1939-09-01,,,1940-06-23
-ss-emeraude,L`Escarbouche,Cancelled,Scrapped,1939-09-01,,,1940-06-23
+ss-emeraude-1938,Emeraude,Cancelled,Scrapped,1938-05-01,,,1940-06-23
+ss-emeraude-1938,L`Agate,Cancelled,Scrapped,1939-07-01,,,1940-06-23
+ss-emeraude-1938,Le Corail,Cancelled,Scrapped,1939-09-01,,,1940-06-23
+ss-emeraude-1938,L`Escarbouche,Cancelled,Scrapped,1939-09-01,,,1940-06-23
 ss-curie,Curie,Bought,Sold,1943-05-01,,1943-05-01,1946-09-01
 ss-narval-1944,Narval,Captured,Scrapped,1944-01-01,,1944-01-01,1949-01-01
 ss-doris,Doris,Bought,Sold,1944-08-01,,1944-08-01,1947-01-01
@@ -15001,3 +15000,1050 @@ ss-cakra,KRI Nanggala,Built,,1978-03-14,1980-09-11,1981-07-06,
 ss-nagapasa,KRI Nagapasa,Built,,2014-01-01,2016-03-24,2017-08-02,
 ss-nagapasa,KRI Ardadedali,Built,,2015-01-01,2016-10-24,2018-04-25,
 ss-nagapasa,KRI Alugoro,Planned,,2016-01-01,2019-04-11,,
+ss-delfino,Delfino,Built,Scrapped,1889-10-01,1990-12-01,1895-04-01,1918-09-01
+ss-glauco-1903,Glauco,Built,Scrapped,1903-07-01,1905-07-09,1905-12-01,1916-09-01
+ss-squalo-1904,Narvalo,Built,Scrapped,1905-02-01,1906-10-21,1907-05-01,1918-09-01
+ss-squalo-1904,Otaria,Built,Scrapped,1905-05-01,1908-03-25,1908-07-01,1918-09-01
+ss-squalo-1904,Squalo,Built,Scrapped,1904-08-01,1906-06-10,1906-09-01,1918-09-01
+ss-squalo-1904,Tricheco,Built,Scrapped,1905-11-01,1909-06-06,1909-10-01,1918-09-01
+ss-foca-1907,Foca,Built,Scrapped,1907-04-01,1908-09-08,1909-02-01,1918-09-01
+ss-medusa,Argo,Built,Scrapped,1910-09-01,1912-01-14,1912-09-01,1918-09-01
+ss-medusa,Fisalia,Built,Scrapped,1910-10-01,1912-02-25,1912-09-01,1918-09-01
+ss-medusa,Jalea,Built,Sunk,1911-03-01,1913-08-03,1913-09-01,1915-08-17
+ss-medusa,Jantina,Built,Scrapped,1910-08-01,1912-11-20,1913-05-01,1918-09-01
+ss-medusa,Medusa,Built,Sunk,1910-05-01,1911-07-30,1912-06-01,1915-06-10
+ss-medusa,Salpa,Built,Scrapped,1910-08-01,1912-05-14,1912-09-01,1918-09-01
+ss-medusa,Velella,Built,Scrapped,1910-06-01,1911-05-25,1912-07-01,1918-09-01
+ss-medusa,Zoea,Built,Scrapped,1910-10-01,1913-03-02,1913-07-01,1918-09-01
+ss-atropo,Atropo,Built,Scrapped,1911-03-01,1912-03-22,1913-02-01,1919-01-01
+ss-nautilus,Nautilus,Built,Scrapped,1911-08-01,1913-04-25,1913-09-01,1919-07-01
+ss-nautilus,Nereide,Built,Sunk,1911-08-01,1913-07-12,1913-12-01,1915-08-05
+ss-giacinto-pullino,Galileo Ferraris,Built,Sunk,1912-06-01,1913-11-09,1914-12-01,1917-11-27
+ss-giacinto-pullino,Giacinto Pullino,Built,Sunk,1912-06-01,1913-07-21,1913-12-01,1916-07-30
+ss-argonauta,Argonauta,Bought,Scrapped,1915-02-01,,1915-02-01,1928-03-01
+ss-s1-it,S1,Bought,Scrapped,1915-10-01,,1915-10-01,1919-01-01
+ss-s1-it,S2,Bought,Scrapped,1915-10-01,,1915-10-01,1919-02-01
+ss-s1-it,S3,Bought,Scrapped,1915-10-01,,1915-10-01,1919-05-01
+ss-balilla-1915,Balilla,Bought,Sunk,1915-08-01,,1915-08-01,1916-07-14
+ss-pacinotti,Guglielmotti,Built,Scrapped,1914-06-01,1916-06-04,1916-12-01,1917-03-10
+ss-pacinotti,Pacinotti,Built,Scrapped,1914-06-01,1916-03-13,1916-12-01,1921-05-01
+ss-f1-it,F1,Built,Scrapped,1915-05-01,1916-04-02,1916-10-01,1930-06-01
+ss-f1-it,F2,Built,Scrapped,1915-06-01,1916-06-04,1916-09-01,1929-02-01
+ss-f1-it,F3,Built,Scrapped,1915-05-01,1916-07-06,1916-10-01,1919-09-01
+ss-f1-it,F4,Built,Scrapped,1915-06-01,1916-11-19,1917-01-01,1919-09-01
+ss-f1-it,F5,Built,Scrapped,1915-05-01,1916-08-12,1916-11-01,1929-07-01
+ss-f1-it,F6,Built,Scrapped,1915-06-01,1917-03-04,1917-05-01,1935-08-01
+ss-f1-it,F7,Built,Scrapped,1915-07-01,1916-12-23,1917-03-01,1929-02-01
+ss-f1-it,F8,Built,Scrapped,1915-06-01,1916-11-13,1917-02-01,1919-09-01
+ss-f1-it,F9,Built,Scrapped,1915-06-01,1916-09-24,1916-12-01,1928-08-01
+ss-f1-it,F10,Built,Scrapped,1915-08-01,1916-10-19,1916-12-01,1930-06-01
+ss-f1-it,F11,Built,Scrapped,1915-07-01,1916-09-17,1916-12-01,1919-09-01
+ss-f1-it,F12,Built,Scrapped,1915-07-01,1916-11-30,1917-02-01,1929-07-01
+ss-f1-it,F13,Built,Scrapped,1915-09-01,1917-05-20,1917-08-01,1935-08-01
+ss-f1-it,F14,Built,Sunk,1915-10-01,1917-01-23,1917-03-01,1928-08-06
+ss-f1-it,F15,Built,Scrapped,1915-10-01,1917-05-27,1917-08-01,1929-05-01
+ss-f1-it,F16,Built,Scrapped,1915-10-01,1917-03-19,1917-04-01,1928-05-01
+ss-f1-it,F17,Built,Scrapped,1915-10-01,1917-06-03,1917-08-01,1929-11-01
+ss-f1-it,F18,Built,Scrapped,1915-10-01,1917-05-15,1917-07-01,1930-10-01
+ss-f1-it,F19,Built,Sold,1915-07-01,1917-04-18,,1917-08-01
+ss-f1-it,F20,Built,Sold,1915-07-01,1917-06-01,,1917-10-01
+ss-f1-it,F21,Built,Sold,1915-07-01,1917-08-09,,1917-12-01
+ss-f1-it,F19,Built,Scrapped,1915-09-01,1918-03-10,1918-04-01,1930-06-01
+ss-f1-it,F20,Built,Scrapped,1915-09-01,1918-03-17,1918-06-01,1935-07-01
+ss-f1-it,F21,Built,Scrapped,1915-08-01,1918-05-19,1918-08-01,1930-10-01
+ss-f1-it,F22,Built,Sold,1915-08-01,1917-05-01,,1917-11-01
+ss-f1-it,F23,Built,Sold,1915-08-01,1917-06-01,,1917-11-01
+ss-f1-it,F24,Built,Sold,1915-08-01,1917-07-01,,1917-11-01
+ss-w1-it,W1,Bought,Scrapped,1916-08-01,,1916-08-01,1919-09-01
+ss-w1-it,W2,Bought,Scrapped,1916-08-01,,1916-08-01,1919-09-01
+ss-w3-it,W3,Bought,Scrapped,1916-08-01,,1916-08-01,1919-09-01
+ss-w3-it,W4,Bought,Sunk,1916-08-01,,1916-08-01,1917-08-04
+ss-h1-it,H1,Built,Scrapped,1916-05-01,1916-10-16,1916-12-01,1947-03-01
+ss-h1-it,H2,Built,Scrapped,1916-05-01,1916-10-19,1916-12-01,1947-03-01
+ss-h1-it,H3,Built,Scrapped,1916-08-01,1917-04-26,1917-05-01,1937-04-01
+ss-h1-it,H4,Built,Scrapped,1916-08-01,1917-04-17,1917-05-01,1947-03-01
+ss-h1-it,H5,Built,Scrapped,1916-08-01,1917-04-25,1917-05-01,1918-04-16
+ss-h1-it,H6,Built,Captured,1916-11-01,1917-04-23,1917-07-01,1943-09-14
+ss-h1-it,H7,Built,Scrapped,1916-11-01,1917-05-24,1917-05-01,1930-10-01
+ss-h1-it,H8,Built,Sunk,1916-11-01,1917-05-24,1918-06-01,1943-06-05
+ss-x1-it,X1,Captured,Scrapped,1917-03-01,,1917-03-01,1919-05-01
+ss-pietro-micca,Angelo Emo,Cancelled,Scrapped,1914-06-01,,,1916-02-01
+ss-pietro-micca,Lorenzo Marcello,Cancelled,Scrapped,1914-06-01,,,1916-02-01
+ss-pietro-micca,Lazzaro Mocenigo,Cancelled,Scrapped,1914-06-01,,,1916-02-01
+ss-pietro-micca,Pietro Micca,Built,Scrapped,1915-09-01,1917-06-03,1918-08-01,1930-06-01
+ss-pietro-micca,Angelo Emo,Built,Scrapped,1916-02-01,1919-02-23,1919-10-01,1930-10-01
+ss-pietro-micca,Luigi Galvani,Built,Scrapped,1915-09-01,1918-01-26,1918-06-01,1938-01-01
+ss-pietro-micca,Lorenzo Marcello,Built,Scrapped,1916-02-01,1918-09-29,1919-07-01,1928-01-01
+ss-pietro-micca,Lazzaro Mocenigo,Built,Scrapped,1916-02-01,1919-07-26,1920-02-01,1937-04-01
+ss-pietro-micca,Torricelli,Built,Scrapped,1915-09-01,1918-06-16,1918-09-01,1930-10-01
+ss-andrea-provana,Andrea Provana,Built,Scrapped,1915-10-01,1918-01-27,1918-09-01,1928-01-01
+ss-andrea-provana,Agostino Barbarigo,Built,Scrapped,1915-10-01,1917-11-18,1918-09-01,1928-05-01
+ss-andrea-provana,Giacomo Nani,Built,Scrapped,1915-10-01,1918-09-08,1919-08-01,1935-08-01
+ss-andrea-provana,Sebastiano Veniero,Built,Sunk,1915-10-01,1918-07-07,1919-04-01,1925-08-06
+ss-n1-it,N1,Built,Scrapped,1916-03-01,1917-09-06,1918-07-01,1930-10-01
+ss-n1-it,N2,Built,Scrapped,1916-03-01,1918-01-26,1918-12-01,1928-05-01
+ss-n1-it,N3,Built,Scrapped,1916-03-01,1918-04-27,1918-10-01,1935-08-01
+ss-n1-it,N4,Built,Scrapped,1916-03-01,1918-10-06,1919-04-01,1935-08-01
+ss-n5-it,N5,Built,Scrapped,1916-08-01,1917-11-18,1919-01-01,1929-07-01
+ss-n5-it,N6,Built,Scrapped,1916-08-01,1918-09-20,1919-06-01,1935-08-01
+ss-x2-it,X2,Built,Auxiliary,1916-08-01,1917-04-25,1918-02-01,1940-09-01
+ss-x2-it,X3,Built,Auxiliary,1916-08-01,1917-12-29,1918-08-01,1940-09-01
+ss-balilla,Balilla,Built,Auxiliary,1925-01-01,1927-02-20,1928-07-01,1941-04-01
+ss-balilla,Domenico Millelire,Built,Auxiliary,1925-01-01,1927-09-19,1928-08-01,1941-04-01
+ss-balilla,Enrico Toti,Built,Auxiliary,1925-01-01,1928-04-14,1928-09-01,1943-04-01
+ss-antonio-sciesa,Antonio Sciesa,Built,Sunk,1925-10-01,1928-08-12,1929-04-01,1942-11-12
+ss-goffredo-mameli,Pier Capponi,Built,Sunk,1925-08-01,1927-06-19,1929-01-01,1941-03-31
+ss-goffredo-mameli,Giovanni da Procida,Built,Scrapped,1925-09-01,1928-04-01,1929-01-01,1948-02-01
+ss-goffredo-mameli,Goffredo Mameli,Built,Scrapped,1925-08-01,1926-12-09,1929-01-01,1948-02-01
+ss-goffredo-mameli,Tito Speri,Built,Scrapped,1925-09-01,1928-05-25,1929-08-01,1948-02-01
+ss-vettor-pisani,Giovanni Bausan,Built,Auxiliary,1926-01-01,1928-03-24,1929-09-01,1942-04-01
+ss-vettor-pisani,Marcantonio Colonna,Built,Auxiliary,1925-12-01,1927-12-26,1929-07-01,1942-04-01
+ss-vettor-pisani,Des Geneys,Built,Auxiliary,1926-02-01,1928-11-14,1929-10-01,1942-04-01
+ss-vettor-pisani,Vettor Pisani,Built,Scrapped,1925-11-01,1927-11-24,1929-06-01,1947-03-01
+ss-ettore-fieramosca,Ettore Fieramosca,Built,Auxiliary,1926-07-01,1929-04-15,1930-04-01,1941-04-01
+ss-fratelli-bandiera,Fratelli Bandiera,Built,Scrapped,1928-02-01,1929-08-07,1930-09-01,1948-02-01
+ss-fratelli-bandiera,Luciano Manara,Built,Scrapped,1928-02-01,1929-10-05,1930-06-01,1948-02-01
+ss-fratelli-bandiera,Ciro Menotti,Built,Scrapped,1928-05-01,1929-12-29,1930-08-01,1948-02-01
+ss-fratelli-bandiera,Santorre Santarosa,Built,Sunk,1928-05-01,1929-10-22,1930-07-01,1943-01-20
+ss-squalo,Delfino,Built,Sunk,1928-10-01,1930-04-27,1931-06-01,1943-03-23
+ss-squalo,Narvalo,Built,Sunk,1928-10-01,1930-03-15,1930-12-01,1943-01-14
+ss-squalo,Squalo,Built,Scrapped,1928-10-01,1930-01-15,1930-10-01,1948-02-01
+ss-squalo,Tricheco,Built,Sunk,1928-11-01,1930-09-11,1931-06-01,1942-03-18
+ss-marcantonio-bragadin,Marcantonio Bragadin,Built,Scrapped,1927-02-01,1929-07-21,1931-11-01,1948-02-01
+ss-marcantonio-bragadin,Filippo Corridoni,Built,Scrapped,1927-07-01,1930-03-30,1931-11-01,1948-02-01
+ss-luigi-settembrini,Luigi Settembrini,Built,Sunk,1928-04-01,1930-09-28,1932-01-01,1944-11-15
+ss-luigi-settembrini,Ruggiero Settimo,Built,Scrapped,1928-06-01,1931-03-29,1932-04-01,1947-03-01
+ss-argonauta,Argonauta,Built,Sunk,1929-11-01,1931-01-19,1932-01-01,1940-06-28
+ss-argonauta,Fisalia,Built,Sunk,1929-11-01,1931-05-02,1932-06-01,1941-09-28
+ss-argonauta,Jalea,Built,Scrapped,1930-01-01,1932-06-15,1933-03-01,1948-02-01
+ss-argonauta,Jantina,Built,Sunk,1930-01-01,1932-05-16,1933-03-01,1941-07-05
+ss-argonauta,Medusa,Built,Sunk,1929-11-01,1931-12-10,1932-09-01,1942-01-30
+ss-argonauta,Salpa,Built,Sunk,1930-04-01,1932-05-08,1932-12-01,1941-06-27
+ss-argonauta,Serpente,Built,Sunk,1930-04-01,1932-02-28,1932-11-01,1943-09-12
+ss-sirena,Ametista,Built,Sunk,1931-09-01,1933-04-26,1934-04-01,1943-09-12
+ss-sirena,Anfitrite,Built,Sunk,1931-07-01,1933-08-05,1934-03-01,1941-03-06
+ss-sirena,Diamante,Built,Sunk,1931-05-01,1933-05-21,1933-11-01,1940-06-20
+ss-sirena,Galatea,Built,Scrapped,1931-07-01,1933-10-05,1934-06-01,1948-02-01
+ss-sirena,Naiade,Built,Sunk,1931-05-01,1933-03-27,1933-11-01,1940-12-14
+ss-sirena,Nereide,Built,Sunk,1931-05-01,1933-05-25,1934-02-01,1943-07-13
+ss-sirena,Ondina,Built,Sunk,1931-07-01,1933-12-02,1934-09-01,1942-07-11
+ss-sirena,Rubino,Built,Sunk,1931-09-01,1933-03-29,1934-03-01,1940-06-29
+ss-sirena,Sirena,Built,Sunk,1931-05-01,1933-01-26,1933-10-01,1943-09-09
+ss-sirena,Smeraldo,Built,Sunk,1931-05-01,1933-07-23,1933-11-01,1941-09-16
+ss-sirena,Topazio,Built,Sunk,1931-09-01,1933-05-15,1934-04-01,1943-09-12
+ss-sirena,Zaffiro,Built,Sunk,1931-09-01,1933-06-28,1934-06-01,1942-06-09
+ss-archimede-it,Archimede,Built,Sold,1931-10-01,1933-12-10,1934-08-01,1937-04-01
+ss-archimede-it,Galileo Ferraris,Built,Sold,1931-10-01,1934-08-11,1935-01-01,1941-10-25
+ss-archimede-it,Galileo Galilei,Built,Sold,1931-10-01,1934-03-19,1934-10-01,1940-06-19
+ss-archimede-it,Evangelista Torricelli,Built,Sold,1931-10-01,1934-05-27,1934-12-01,1937-04-01
+ss-glauco,Glauco,Built,Sunk,1932-10-01,1935-01-05,1935-09-01,1941-06-27
+ss-glauco,Otaria,Built,Scrapped,1932-11-01,1935-03-20,1935-10-01,1948-02-01
+ss-pietro-micca-1931,Pietro Micca,Built,Sunk,1931-10-01,1935-03-31,1935-10-01,1943-07-29
+ss-pietro-calvi,Pietro Calvi,Built,Sunk,1932-07-01,1935-03-31,1935-10-01,1942-07-15
+ss-pietro-calvi,Giuseppe Finzi,Built,Captured,1932-08-01,1935-06-29,1936-01-01,1943-09-09
+ss-enrico-tazzoli,Enrico Tazzoli,Built,Sunk,1932-09-01,1935-10-14,1936-04-01,1943-05-16
+ss-perla-it,Ambra,Built,Sunk,1935-08-01,1936-05-28,1936-08-01,1943-09-09
+ss-perla-it,Berillo,Built,Sunk,1935-09-01,1936-06-14,1936-08-01,1940-10-02
+ss-perla-it,Corallo,Built,Sunk,1935-09-01,1936-08-02,1936-09-01,1942-12-13
+ss-perla-it,Diaspro,Built,Scrapped,1935-09-01,1936-07-05,1936-08-01,1948-02-01
+ss-perla-it,Gemma,Built,Sunk,1935-09-01,1936-05-21,1936-07-01,1940-10-08
+ss-perla-it,Iride,Built,Sold,1935-09-01,1936-07-30,1936-11-01,1940-08-22
+ss-perla-it,Malacite,Built,Sunk,1935-08-01,1936-07-15,1936-11-01,1943-02-09
+ss-perla-it,Onice,Built,Sold,1935-08-01,1936-06-15,1936-09-01,1947-03-01
+ss-perla-it,Perla,Built,Captured,1935-08-01,1936-05-03,1936-07-01,1942-07-09
+ss-perla-it,Turchese,Built,Scrapped,1935-09-01,1936-07-19,1936-09-01,1948-02-01
+ss-adua-it,Adua,Built,Sunk,1936-02-01,1936-09-13,1936-11-01,1941-09-30
+ss-adua-it,Alagi,Built,Scrapped,1936-02-01,1936-11-15,1937-02-01,1947-05-01
+ss-adua-it,Aradam,Built,Sunk,1936-02-01,1936-10-18,1937-01-01,1943-09-09
+ss-adua-it,Ascianghi,Built,Sold,1936-06-01,1937-02-14,,1937-03-01
+ss-adua-it,Ascianghi,Built,Sunk,1937-01-01,1937-12-05,1938-03-01,1943-07-23
+ss-adua-it,Axum,Built,Sunk,1936-02-01,1936-09-27,1938-12-01,1943-12-28
+ss-adua-it,Beilul,Built,Captured,1937-07-01,1938-05-22,1938-09-01,1943-09-09
+ss-adua-it,Dagabur,Built,Sunk,1936-04-01,1936-11-22,1937-04-01,1942-08-12
+ss-adua-it,Dessie,Built,Sunk,1936-04-01,1936-11-22,1937-04-01,1942-11-28
+ss-adua-it,Durbo,Built,Sunk,1937-03-01,1938-03-06,1938-07-01,1940-10-18
+ss-adua-it,Gondar,Built,Sold,1936-11-01,1936-12-30,,1937-03-01
+ss-adua-it,Gondar,Built,Sunk,1937-01-01,1937-10-03,1938-02-01,1940-11-30
+ss-adua-it,Lafole,Built,Sunk,1937-06-01,1938-04-10,1938-08-01,1940-10-20
+ss-adua-it,Macalle,Built,Sunk,1936-03-01,1936-10-29,1937-03-01,1940-06-15
+ss-adua-it,Neghelli,Built,Sold,1936-04-01,1936-11-28,,1937-03-01
+ss-adua-it,Neghelli,Built,Sunk,1937-01-01,1937-11-07,1938-02-01,1941-01-19
+ss-adua-it,Scire,Built,Sunk,1937-01-01,1938-01-06,1938-03-01,1942-08-10
+ss-adua-it,Tembien,Built,Sunk,1937-02-01,1938-02-06,1938-07-01,1941-08-02
+ss-adua-it,Uarsciek,Built,Sunk,1936-12-01,1937-09-19,1937-12-01,1942-12-15
+ss-adua-it,Uebi Scebeli,Built,Sunk,1937-01-01,1937-10-03,1937-12-01,1940-06-29
+ss-foca,Atropo,Built,Scrapped,1937-07-01,1938-11-20,1939-02-01,1947-03-01
+ss-foca,Foca,Built,Sunk,1936-01-01,1937-06-26,1937-11-01,1940-10-15
+ss-foca,Zoea,Built,Scrapped,1936-02-01,1937-12-05,1938-02-01,1947-03-01
+ss-argo,Argo,Built,Sunk,1931-10-01,1936-11-27,1937-08-01,1943-09-11
+ss-argo,Velella,Built,Sunk,1931-10-01,1936-12-12,1937-09-01,1943-09-07
+ss-marcello,Barbarigo,Built,Sunk,1937-02-01,1938-06-13,1938-09-01,1943-06-18
+ss-marcello,Dandolo,Built,Scrapped,1937-06-01,1937-11-20,1938-03-01,1947-03-01
+ss-marcello,Emo,Built,Sunk,1937-02-01,1938-06-26,1938-10-01,1942-11-10
+ss-marcello,Marcello,Built,Sunk,1937-01-01,1937-11-20,1938-03-01,1941-02-22
+ss-marcello,Mocenigo,Built,Sunk,1937-01-01,1937-11-20,1938-08-01,1943-05-13
+ss-marcello,Morosini,Built,Sunk,1937-03-01,1938-07-28,1938-11-01,1942-08-11
+ss-marcello,Nani,Built,Sunk,1937-01-01,1938-01-16,1938-09-01,1941-01-07
+ss-marcello,Provana,Built,Sunk,1937-02-01,1938-03-16,1938-06-01,1940-06-17
+ss-marcello,Veniero,Built,Sunk,1937-01-01,1938-02-12,1938-06-01,1942-06-07
+ss-marcello,Comandante Cappellini,Built,Captured,1938-04-01,1939-05-14,1939-09-01,1943-09-10
+ss-marcello,Comandante Faa di Bruno,Built,Sunk,1938-04-01,1939-06-18,1939-10-01,1940-11-08
+ss-brin,Archimede,Built,Sunk,1937-12-01,1939-03-05,1939-04-01,1943-04-15
+ss-brin,Brin,Built,Scrapped,1936-02-01,1938-04-03,1938-06-01,1948-02-01
+ss-brin,Galvani,Built,Sunk,1936-12-01,1938-05-22,1938-07-01,1940-06-24
+ss-brin,Guglielmotti,Built,Sunk,1936-12-01,1938-09-11,1938-10-01,1942-03-17
+ss-brin,Torricelli,Built,Sunk,1937-12-01,1939-03-26,1939-05-01,1940-06-23
+ss-console-generale-liuzzi,Alpino Bagnolini,Built,Captured,1938-12-01,1939-10-28,1939-12-01,1943-09-10
+ss-console-generale-liuzzi,Reginaldo Giuliani,Built,Captured,1939-03-01,1939-12-03,1940-02-01,1943-09-10
+ss-console-generale-liuzzi,Console Generale Liuzzi,Built,Sunk,1938-11-01,1939-09-17,1939-11-01,1940-06-27
+ss-console-generale-liuzzi,Capitano Tarantini,Built,Sunk,1939-04-01,1940-01-07,1940-03-01,1940-12-15
+ss-guglielmo-marconi,Maggiore Baracca,Built,Sunk,1939-03-01,1940-04-21,1940-07-01,1941-09-08
+ss-guglielmo-marconi,Michele Bianchi,Built,Sunk,1939-02-01,1939-12-03,1940-04-01,1941-08-07
+ss-guglielmo-marconi,Leonardo da Vinci,Built,Sunk,1938-09-01,1939-09-16,1940-04-01,1943-05-23
+ss-guglielmo-marconi,Alessandro Malaspina,Built,Sunk,1939-03-01,1940-02-18,1940-06-01,1941-09-21
+ss-guglielmo-marconi,Guglielmo Marconi,Built,Sunk,1938-09-01,1939-07-30,1940-02-01,1941-11-01
+ss-guglielmo-marconi,Luigi Torelli,Built,Captured,1939-02-01,1940-01-06,1940-05-01,1943-09-10
+ss-ammiraglio-cagni,Ammiraglio Cagni,Built,Scrapped,1939-09-01,1940-07-20,1941-04-01,1948-02-01
+ss-ammiraglio-cagni,Ammiraglio Caracciolo,Built,Sunk,1939-10-01,1940-10-16,1941-06-01,1941-12-11
+ss-ammiraglio-cagni,Ammiraglio Millo,Built,Sunk,1939-10-01,1940-08-31,1941-05-01,1942-03-14
+ss-ammiraglio-cagni,Ammiraglio Saint-Bon,Built,Sunk,1939-09-01,1940-06-06,1941-03-01,1942-01-05
+ss-acciaio-it,Acciaio,Built,Sunk,1940-11-01,1941-07-20,1942-01-01,1943-07-13
+ss-acciaio-it,Alabastro,Built,Sunk,1941-03-01,1941-12-18,1942-05-01,1942-09-14
+ss-acciaio-it,Asteria,Built,Sunk,1940-10-01,1941-06-25,1941-11-01,1943-02-17
+ss-acciaio-it,Avorio,Built,Sunk,1940-11-01,1941-09-06,1942-03-01,1943-02-09
+ss-acciaio-it,Cobalto,Built,Sunk,1940-11-01,1941-07-20,1942-01-01,1942-08-12
+ss-acciaio-it,Giada,Built,Scrapped,1940-10-01,1941-07-10,1941-12-01,1966-01-01
+ss-acciaio-it,Granito,Built,Sunk,1940-11-01,1941-08-07,1942-01-01,1942-11-09
+ss-acciaio-it,Nichelio,Built,Captured,1941-07-01,1942-04-12,1942-07-01,1949-02-01
+ss-acciaio-it,Platino,Built,Scrapped,1940-11-01,1941-06-01,1941-10-01,1948-02-01
+ss-acciaio-it,Porfido,Built,Sunk,1940-11-01,1941-08-23,1942-01-01,1942-12-06
+ss-bronzo,Argento,Built,Sunk,1941-04-01,1942-02-22,1942-05-01,1943-08-03
+ss-bronzo,Bronzo,Built,Captured,1940-12-01,1941-09-28,1942-01-01,1943-07-12
+ss-bronzo,Volframio,Built,Sunk,1940-12-01,1941-11-09,1942-02-01,1943-09-08
+ss-francesco-rismondo,Francesco Rismondo,Captured,Captured,1941-04-01,,1941-04-01,1943-09-14
+ss-francesco-rismondo,Antonio Bajamonti,Captured,Sunk,1941-04-01,,1941-04-01,1943-09-09
+ss-flutto,Cernia,Cancelled,Scrapped,1943-07-01,,,1944-01-01
+ss-flutto,Dentice,Cancelled,Scrapped,1943-08-01,,,1944-01-01
+ss-flutto,Flutto,Built,Sunk,1941-12-01,1942-11-19,1943-03-01,1943-07-11
+ss-flutto,Gorgo,Built,Sunk,1941-05-01,1942-01-31,1942-11-01,1943-05-21
+ss-flutto,Grongo,Cancelled,Sunk,1942-04-01,1943-05-06,,1943-09-09
+ss-flutto,Marea,Built,Captured,1941-12-01,1942-12-10,1943-05-01,1949-02-01
+ss-flutto,Murena,Built,Sunk,1942-04-01,1943-04-11,1943-08-01,1943-09-09
+ss-flutto,Nautilo,Built,Sunk,1942-01-01,1943-03-20,1943-07-01,1943-09-10
+ss-flutto,Sparide,Built,Sunk,1942-04-01,1943-02-21,1943-08-01,1943-09-09
+ss-flutto,Spigola,Cancelled,Scrapped,1943-06-01,,,1943-11-01
+ss-flutto,Tritone,Built,Sunk,1941-05-01,1942-01-03,1942-10-01,1943-01-19
+ss-flutto,Vortice,Built,Scrapped,1942-01-01,1943-02-23,1943-06-01,1967-08-01
+ss-fr111,FR111,Captured,Sunk,1942-11-01,1942-11-01,1943-01-01,1943-02-28
+ss-fr111,FR113,Captured,Sunk,1942-11-01,1942-11-01,,1943-09-09
+ss-fr111,FR114,Captured,Sunk,1942-11-01,1942-11-01,,1943-09-13
+ss-fr111,FR115,Captured,Sunk,1942-11-01,1942-11-01,,1943-09-15
+ss-romolo,Remo,Built,Sunk,1942-09-01,1943-03-28,1943-06-01,1943-07-15
+ss-romolo,Romolo,Built,Sunk,1942-07-01,1943-03-21,1943-06-01,1943-07-18
+ss-romolo,R3,Cancelled,Scrapped,1943-03-01,1946-09-07,,1946-11-01
+ss-romolo,R4,Cancelled,Scrapped,1943-03-01,1946-09-30,,1946-11-01
+ss-romolo,R5,Cancelled,Scrapped,1943-03-01,,,1944-01-01
+ss-romolo,R6,Cancelled,Scrapped,1943-03-01,,,1944-01-01
+ss-romolo,R7,Cancelled,Captured,1943-03-01,,,1943-09-10
+ss-romolo,R8,Cancelled,Captured,1943-03-01,,,1943-09-10
+ss-romolo,R9,Cancelled,Captured,1943-03-01,,,1943-09-10
+ss-romolo,R10,Cancelled,Captured,1943-02-01,,,1943-09-09
+ss-romolo,R11,Cancelled,Captured,1943-03-01,,,1943-09-09
+ss-romolo,R12,Cancelled,Captured,1943-05-01,,,1943-09-09
+ss-s1-it-1943,S1,Bought,Captured,1943-06-01,,1943-06-01,1943-09-08
+ss-s1-it-1943,S2,Bought,Captured,1943-07-01,,1943-07-01,1943-09-08
+ss-s1-it-1943,S3,Bought,Captured,1943-07-01,,1943-07-01,1943-09-08
+ss-s1-it-1943,S4,Bought,Captured,1943-07-01,,1943-07-01,1943-09-08
+ss-s1-it-1943,S5,Bought,Captured,1943-07-01,,1943-07-01,1943-09-08
+ss-s1-it-1943,S6,Bought,Captured,1943-08-01,,1943-08-01,1943-09-08
+ss-s1-it-1943,S7,Bought,Captured,1943-08-01,,1943-08-01,1943-09-08
+ss-s1-it-1943,S9,Bought,Captured,1943-08-01,,1943-08-01,1943-09-08
+ss-s8-it,S8,Bought,Captured,1943-08-01,,1943-08-01,1943-09-08
+ss-cm1,CM1,Built,Scrapped,1943-06-01,1943-09-05,,1943-09-08
+ss-cm1,CM2,Built,Captured,1943-08-01,,,1943-09-08
+ss-cc1,CC1,Cancelled,Scrapped,1943-07-01,,,1943-09-01
+ss-leonardo-da-vinci,Leonardo da Vinci,Bought,Scrapped,1955-01-31,,1955-01-31,1973-05-01
+ss-leonardo-da-vinci,Enrico Tazzoli,Bought,Scrapped,1954-12-13,,1954-12-13,1973-02-01
+ss-evangelista-torricelli,Alfredo Cappellini,Bought,Scrapped,1966-03-05,,1966-03-05,1977-11-01
+ss-evangelista-torricelli,Francesco Morosini,Bought,Scrapped,1966-03-31,,1966-03-31,1973-11-01
+ss-evangelista-torricelli,Evangelista Torricelli,Bought,Scrapped,1960-01-09,,1960-01-09,1976-09-01
+ss-flutto-ii,Alluminio,Cancelled,Captured,1942-12-01,,,1943-09-09
+ss-flutto-ii,Antimonio,Cancelled,Captured,1942-12-01,,,1943-09-09
+ss-flutto-ii,Bario,Cancelled,Captured,1943-03-01,,,1943-09-09
+ss-flutto-ii,Cromo,Cancelled,Captured,1943-09-01,,,1943-09-10
+ss-flutto-ii,Ferro,Cancelled,Captured,1943-06-01,,,1943-09-10
+ss-flutto-ii,Fosforo,Cancelled,Captured,1942-12-01,,,1943-09-09
+ss-flutto-ii,Litio,Cancelled,Captured,1943-03-01,,,1943-09-10
+ss-flutto-ii,Manganese,Cancelled,Captured,1942-12-01,,,1943-09-09
+ss-flutto-ii,Piombo,Cancelled,Captured,1943-08-01,,,1943-09-10
+ss-flutto-ii,Potassio,Cancelled,Captured,1943-05-01,,,1943-09-10
+ss-flutto-ii,Rame,Cancelled,Captured,1943-06-01,,,1943-09-10
+ss-flutto-ii,Silicio,Cancelled,Captured,1942-12-01,,,1943-09-09
+ss-flutto-ii,Sodio,Cancelled,Captured,1943-05-01,,,1943-09-10
+ss-flutto-ii,Zinco,Cancelled,Captured,1943-08-01,,,1943-09-10
+ss-flutto-ii,Zolfo,Cancelled,Captured,1942-12-01,,,1943-09-09
+ss-pietro-calvi-1956,Pietro Calvi,Built,Scrapped,1957-01-01,1959-06-01,1961-01-01,1972-01-01
+ssk-enrico-toti,Attilio Bagnolini,Built,Scrapped,1965-04-15,1967-08-26,1968-06-16,1991-07-01
+ssk-enrico-toti,Enrico Toti,Built,Scrapped,1965-04-15,1967-03-12,1968-01-22,1997-09-01
+ssk-enrico-toti,Enrico Dandolo,Built,Scrapped,1967-03-10,1967-12-16,1968-09-25,1996-09-01
+ssk-enrico-toti,Lazzaro Mocenigo,Built,Scrapped,1967-06-12,1968-04-20,1969-01-11,1993-10-01
+ss-primo-longobardo-1972,Primo Longobardo,Bought,Scrapped,1972-08-18,,1972-08-18,1980-01-01
+ss-primo-longobardo-1972,Gianfranco Gazzana Priaroggia,Bought,Scrapped,1972-08-18,,1972-08-18,1981-05-01
+ss-livio-piomarta,Livio Piomatra,Bought,Scrapped,1973-07-10,,1973-07-10,1986-02-01
+ss-livio-piomarta,Romeo Romei,Bought,Scrapped,1974-02-20,,1974-02-20,1988-05-01
+ss-nazario-sauro,Nazario Sauro,Built,Scrapped,1974-06-26,1976-10-09,1980-02-12,2002-04-01
+ss-nazario-sauro,Carlo Fecia di Cossato,Built,Scrapped,1975-11-15,1977-11-16,1979-11-05,2005-04-01
+ss-nazario-sauro,Leonardo da Vinci,Built,Scrapped,1978-06-08,1979-10-20,1981-10-23,2010-06-01
+ss-nazario-sauro,Guglielmo Marconi,Built,Scrapped,1979-10-23,1980-09-20,1982-09-11,2003-10-01
+ss-salvatore-pelosi,Salvatore Pelosi,Built,,1985-07-23,1986-11-29,1988-07-14,
+ss-salvatore-pelosi,Giuliano Prini,Built,,1987-07-30,1987-12-12,1989-11-11,
+ss-primo-longobardo,Primo Longobardo,Built,,1991-12-19,1992-06-20,1993-12-14,
+ss-primo-longobardo,Gianfranco Gazzana Priaroggia,Built,,1992-11-12,1993-06-26,1995-04-12,
+ss-salvatore-todaro,Salvatore Todaro,Built,,1999-07-03,2003-11-06,2006-03-29,
+ss-salvatore-todaro,Scire,Built,,2000-07-27,2004-12-18,2008-02-18,
+ss-salvatore-todaro,Pietro Venuti,Built,,2009-08-07,2014-10-09,2016-07-06,
+ss-salvatore-todaro,Romeo Romei,Built,,2010-07-01,2015-07-06,2017-05-11,
+ss-1-go,1-go,Built,Scrapped,1904-01-01,1905-03-30,1905-08-01,1921-01-01
+ss-1-go,2-go,Built,Scrapped,1904-01-01,1905-05-02,1905-09-01,1921-01-01
+ss-1-go,3-go,Built,Scrapped,1904-01-01,1905-05-16,1905-09-01,1921-01-01
+ss-1-go,4-go,Built,Scrapped,1904-01-01,1905-05-27,1905-10-01,1921-01-01
+ss-1-go,5-go,Built,Scrapped,1904-01-01,1905-05-13,1905-10-01,1921-01-01
+ss-6-go,6-go,Built,Scrapped,1904-06-01,1905-10-01,1906-03-01,1920-01-01
+ss-6-go,7-go,Built,Scrapped,1904-06-01,1905-10-01,1906-03-01,1920-01-01
+ss-8-go,8-go,Built,Scrapped,1907-08-01,1908-05-19,1909-02-01,1928-12-01
+ss-8-go,9-go,Built,Scrapped,1907-08-01,1908-05-19,1909-03-01,1928-12-01
+ss-10-go,10-go,Built,Scrapped,1910-09-01,1911-03-04,1911-08-01,1928-12-01
+ss-10-go,11-go,Built,Scrapped,1910-09-01,1911-03-18,1911-08-01,1928-12-01
+ss-10-go,12-go,Built,Scrapped,1910-09-01,1911-03-27,1911-08-01,1928-12-01
+ss-13-go,13-go,Built,Scrapped,1910-03-01,1912-07-18,1912-09-01,1928-12-01
+ss-16-go,16-go,Built,Scrapped,1915-11-01,1916-03-15,1916-11-01,1928-12-01
+ss-16-go,17-go,Built,Scrapped,1915-11-01,1916-03-15,1917-02-01,1928-12-01
+ss-schneider-laubeuf,14-go,Built,Sold,1913-11-01,1915-07-01,,1915-06-01
+ss-schneider-laubeuf,15-go,Built,Scrapped,1913-11-01,1914-04-07,1917-07-01,1928-12-01
+ss-14-go,14-go,Built,Scrapped,1918-03-01,1918-03-28,1920-04-01,1928-12-01
+ss-o4,O4,Captured,Scrapped,1918-12-01,,1918-12-01,1921-01-01
+ss-o4,O5,Captured,Scrapped,1918-11-01,,1918-11-01,1921-01-01
+ss-o6,O6,Captured,Scrapped,1918-11-01,,1918-11-01,1921-01-01
+ss-o6,O7,Captured,Scrapped,1918-12-01,,1918-12-01,1921-01-01
+ss-kaichu-1,19-go,Built,Scrapped,1916-08-01,1917-10-15,1919-07-01,1931-01-01
+ss-kaichu-1,20-go,Built,Scrapped,1916-09-01,1917-12-01,1919-09-01,1931-01-01
+ss-o1,O1,Captured,Scrapped,1918-11-01,,1918-11-01,1922-01-01
+ss-o3,O3,Captured,Scrapped,1918-11-01,,1918-11-01,1922-01-01
+ss-fiat-laurenti-1,18-go,Built,Scrapped,1918-11-01,1919-07-28,1920-03-01,1930-01-01
+ss-fiat-laurenti-1,21-go,Built,Scrapped,1918-11-01,1919-11-22,1920-04-01,1930-01-01
+ss-fiat-laurenti-2,31-go,Built,Scrapped,1920-01-01,1921-03-10,1922-07-01,1930-01-01
+ss-fiat-laurenti-2,32-go,Built,Scrapped,1920-01-01,1921-06-22,1922-05-01,1930-01-01
+ss-fiat-laurenti-2,33-go,Built,Scrapped,1920-01-01,1921-09-17,1922-03-01,1930-01-01
+ss-kaichu-2,22-go,Built,Auxiliary,1918-09-01,1919-03-31,1921-02-01,1931-01-01
+ss-kaichu-2,23-go,Built,Scrapped,1918-10-01,1919-08-26,1920-09-01,1932-04-01
+ss-kaichu-2,24-go,Built,Scrapped,1918-10-01,1920-10-14,1921-06-01,1931-01-01
+ss-vickers-l1,25-go,Built,Scrapped,1918-11-01,1919-10-25,1920-06-01,1940-01-01
+ss-vickers-l1,26-go,Built,Scrapped,1918-11-01,1920-03-09,1920-11-01,1932-04-01
+ss-kaichu-3,34-go,Built,Scrapped,1919-06-01,1921-02-24,1921-10-01,1932-04-01
+ss-kaichu-3,35-go,Built,Scrapped,1919-06-01,1921-03-25,1921-12-01,1936-04-01
+ss-kaichu-3,36-go,Built,Auxiliary,1919-06-01,1920-12-28,1922-03-01,1936-04-01
+ss-kaichu-3,37-go,Built,Scrapped,1919-06-01,1921-04-22,1922-04-01,1936-04-01
+ss-kaichu-3,38-go,Built,Scrapped,1919-01-01,1920-10-26,1922-02-01,1932-04-01
+ss-kaichu-3,39-go,Built,Scrapped,1919-01-01,1920-10-26,1922-02-01,1932-04-01
+ss-kaichu-3,40-go,Built,Scrapped,1919-01-01,1921-10-15,1922-10-01,1932-04-01
+ss-kaichu-3,41-go,Built,Scrapped,1919-04-01,1921-10-25,1923-04-01,1932-04-01
+ss-kaichu-3,42-go,Built,Scrapped,1918-12-01,1919-12-08,1920-11-01,1932-04-01
+ss-kaichu-3,43-go,Built,Scrapped,1919-01-01,1920-07-17,1921-10-01,1936-04-01
+ss-o2,O2,Captured,Scrapped,1918-11-01,,1918-11-01,1922-01-01
+ss-vickers-l2,27-go,Built,Scrapped,1919-03-01,1920-07-06,1921-03-01,1938-01-01
+ss-vickers-l2,28-go,Built,Scrapped,1919-03-01,1920-10-13,1921-09-01,1939-01-01
+ss-vickers-l2,29-go,Built,Scrapped,1920-02-01,1921-02-10,1921-11-01,1939-01-01
+ss-vickers-l2,30-go,Built,Scrapped,1920-02-01,1921-05-11,1922-01-01,1940-01-01
+ss-vickers-l3,46-go,Built,Scrapped,1920-11-01,1921-12-03,1922-07-01,1945-05-01
+ss-vickers-l3,47-go,Built,Scrapped,1920-11-01,1922-03-02,1922-11-01,1945-05-01
+ss-vickers-l3,57-go,Built,Scrapped,1920-11-01,1922-06-28,1923-03-01,1945-05-01
+ss-kaichu-4,45-go,Built,Auxiliary,1919-12-01,1921-10-18,1923-01-01,1940-04-01
+ss-kaichu-4,58-go,Built,Auxiliary,1919-12-01,1922-07-22,1924-07-01,1940-04-01
+ss-kaichu-4,62-go,Built,Auxiliary,1921-03-01,1922-04-13,1923-11-01,1940-04-01
+ss-kai-toku-chu,68-go,Built,Scrapped,1921-06-01,1922-12-05,1923-09-01,1936-04-01
+ss-kai-toku-chu,69-go,Built,Scrapped,1921-08-01,1923-01-18,1924-04-01,1942-04-01
+ss-kai-toku-chu,70-go,Built,Sunk,1922-08-01,1923-02-01,,1923-08-21
+ss-kai-toku-chu,RO31,Built,Scrapped,1924-12-01,1926-09-25,1927-05-01,1945-05-01
+ss-kai-toku-chu,71-go,Built,Scrapped,1921-09-01,1923-03-19,1924-05-01,1942-04-01
+ss-vickers-l4,59-go,Built,Sunk,1921-12-01,1922-12-22,1923-09-01,1941-12-29
+ss-vickers-l4,72-go,Built,Sunk,1922-06-01,1923-05-19,1924-02-01,1942-08-31
+ss-vickers-l4,73-go,Built,Interned,1922-09-01,1923-09-19,1924-07-01,1945-08-01
+ss-vickers-l4,RO63,Built,Interned,1923-04-01,1924-01-24,1924-12-01,1945-08-01
+ss-vickers-l4,RO64,Built,Sunk,1923-10-01,1924-08-19,1925-04-01,1945-04-12
+ss-vickers-l4,RO65,Built,Sunk,1923-11-01,1925-09-25,1926-06-01,1942-11-04
+ss-vickers-l4,RO66,Built,Sunk,1925-12-01,1926-10-25,1927-07-01,1941-12-17
+ss-vickers-l4,RO67,Built,Sunk,1925-03-01,1926-03-18,1926-12-01,1945-06-22
+ss-vickers-l4,RO68,Built,Interned,1924-02-01,1925-02-23,1925-10-01,1945-08-01
+ss-kaidai-1,44-go,Built,Scrapped,1921-01-01,1921-11-29,1924-06-01,1941-01-01
+ss-kaidai-2,I52,Built,Interned,1922-02-01,1922-06-12,1925-05-01,1945-08-01
+ss-junsen-1,I1,Built,Sunk,1923-03-01,1924-10-15,1926-03-01,1943-01-29
+ss-junsen-1,I2,Built,Sunk,1923-08-01,1925-02-23,1926-07-01,1944-04-07
+ss-junsen-1,I3,Built,Sunk,1923-11-01,1925-06-08,1926-11-01,1942-12-09
+ss-junsen-1,I4,Built,Sunk,1926-04-01,1928-05-22,1929-12-01,1942-12-25
+ss-kaidai-3a,I53,Built,Interned,1924-04-01,1925-08-05,1927-03-01,1945-08-01
+ss-kaidai-3a,I54,Built,Interned,1924-11-01,1926-03-15,1927-12-01,1945-08-01
+ss-kaidai-3a,I55,Built,Interned,1924-04-01,1925-09-02,1927-09-01,1945-08-01
+ss-kaidai-3a,I58,Built,Interned,1924-12-01,1925-10-03,1928-05-01,1945-08-01
+ss-kirai-sen,I21,Built,Interned,1924-01-01,1926-03-30,1927-03-01,1945-08-01
+ss-kirai-sen,I22,Built,Sunk,1924-10-01,1926-11-08,1927-10-01,1945-06-10
+ss-kirai-sen,I23,Built,Sunk,1924-10-01,1927-03-19,1928-04-01,1942-08-29
+ss-kirai-sen,I24,Built,Sunk,1924-10-01,1927-12-12,1928-12-01,1942-01-20
+ss-kaidai-3b,I56,Built,Interned,1926-11-01,1928-03-23,1929-03-01,1945-08-01
+ss-kaidai-3b,I57,Built,Interned,1927-07-01,1928-10-01,1929-12-01,1945-08-01
+ss-kaidai-3b,I59,Built,Interned,1927-03-01,1929-03-25,1930-03-01,1945-08-01
+ss-kaidai-3b,I60,Built,Sunk,1927-10-01,1929-04-24,1929-12-01,1942-01-17
+ss-kaidai-3b,I63,Built,Sunk,1926-12-01,1927-09-28,1929-12-01,1939-02-02
+ss-kaidai-4,I61,Built,Sunk,1926-12-01,1927-11-12,1929-04-01,1941-10-06
+ss-kaidai-4,I62,Built,Interned,1927-04-01,1928-11-29,1930-04-01,1945-08-01
+ss-kaidai-4,I64,Built,Sunk,1928-03-01,1929-10-05,1930-08-01,1942-05-17
+ss-kaidai-5,I65,Built,Sunk,1929-12-01,1931-06-02,1932-12-01,1945-06-27
+ss-kaidai-5,I66,Built,Sunk,1929-11-01,1931-06-02,1932-11-01,1944-07-17
+ss-kaidai-5,I67,Built,Sunk,1929-09-01,1931-04-07,1932-08-01,1940-08-29
+ss-junsen-1m,I5,Built,Sunk,1929-10-01,1931-06-19,1932-07-01,1944-07-19
+ss-kaidai-6a,I68,Built,Sunk,1931-06-01,1933-06-26,1934-07-01,1943-07-27
+ss-kaidai-6a,I69,Built,Sunk,1931-12-01,1934-02-15,1935-09-01,1944-04-04
+ss-kaidai-6a,I70,Built,Sunk,1933-01-01,1934-06-14,1935-11-01,1941-12-10
+ss-kaidai-6a-i71,I71,Built,Sunk,1933-02-01,1934-08-25,1935-12-01,1944-02-01
+ss-kaidai-6a-i71,I72,Built,Sunk,1933-12-01,1935-06-20,1937-01-01,1942-11-10
+ss-kaidai-6a-i71,I73,Built,Sunk,1934-04-01,1935-06-20,1937-01-01,1942-01-27
+ss-junsen-2,I6,Built,Sunk,1932-10-01,1934-03-31,1935-05-01,1944-07-14
+ss-kaichu-5,RO33,Built,Sunk,1933-08-01,1934-10-10,1935-10-01,1942-08-29
+ss-kaichu-5,RO34,Built,Sunk,1934-04-01,1935-12-12,1937-05-01,1943-04-05
+ss-junsen-3,I7,Built,Sunk,1934-09-01,1935-07-03,1937-03-01,1943-06-22
+ss-junsen-3,I8,Built,Sunk,1934-10-01,1936-07-20,1938-12-01,1945-03-31
+ss-kaidai-6b,I74,Built,Sunk,1934-10-01,1937-03-28,1938-08-01,1944-04-12
+ss-kaidai-6b,I75,Built,Sunk,1934-11-01,1937-09-16,1938-12-01,1944-02-04
+ss-71-go,71-go,Built,Scrapped,1937-12-01,1938-08-13,1938-08-01,1940-01-01
+ss-otsu-gata-b1,I15,Built,Sunk,1938-01-01,1939-03-07,1940-09-01,1942-11-10
+ss-otsu-gata-b1,I17,Built,Sunk,1938-04-01,1939-07-19,1941-01-01,1943-08-19
+ss-otsu-gata-b1,I19,Built,Sunk,1938-03-01,1939-09-16,1941-04-01,1943-11-25
+ss-otsu-gata-b1,I21,Built,Sunk,1939-01-01,1940-02-24,1941-07-01,1943-11-29
+ss-otsu-gata-b1,I23,Built,Sunk,1939-01-01,1939-11-24,1941-09-01,1942-02-18
+ss-otsu-gata-b1,I25,Built,Sunk,1939-02-01,1940-06-08,1941-10-01,1943-09-03
+ss-otsu-gata-b1,I26,Built,Sunk,1939-07-01,1940-04-10,1941-11-01,1944-10-24
+ss-otsu-gata-b1,I27,Built,Sunk,1939-07-01,1940-06-06,1942-02-01,1944-02-12
+ss-otsu-gata-b1,I28,Built,Sunk,1939-09-01,1940-12-18,1942-02-01,1942-05-17
+ss-otsu-gata-b1,I29,Built,Sunk,1939-09-01,1940-09-29,1942-02-01,1944-07-26
+ss-otsu-gata-b1,I30,Built,Sunk,1939-06-01,1940-09-17,1942-02-01,1942-10-13
+ss-otsu-gata-b1,I31,Built,Sunk,1939-12-01,1941-03-13,1942-05-01,1943-06-13
+ss-otsu-gata-b1,I32,Built,Sunk,1940-01-01,1940-12-17,1942-04-01,1944-03-24
+ss-otsu-gata-b1,I33,Built,Sunk,1940-02-01,1941-05-01,1942-06-01,1944-06-13
+ss-otsu-gata-b1,I34,Built,Sunk,1941-01-01,1941-09-24,1942-08-01,1943-11-13
+ss-otsu-gata-b1,I35,Built,Sunk,1940-09-01,1941-09-24,1942-08-01,1943-11-22
+ss-otsu-gata-b1,I36,Built,Interned,1940-12-01,1941-11-01,1942-09-01,1945-08-01
+ss-otsu-gata-b1,I37,Built,Sunk,1940-12-01,1941-10-22,1943-03-01,1944-11-19
+ss-otsu-gata-b1,I38,Built,Sunk,1941-06-01,1942-04-15,1943-01-01,1944-11-12
+ss-otsu-gata-b1,I39,Built,Sunk,1941-06-01,1942-04-15,1943-04-01,1943-11-26
+ss-hei-gata-c1,I16,Built,Sunk,1937-09-01,1938-07-28,1940-03-01,1944-05-19
+ss-hei-gata-c1,I18,Built,Sunk,1937-08-01,1938-11-12,1941-01-01,1943-02-11
+ss-hei-gata-c1,I20,Built,Sunk,1937-11-01,1939-01-25,1940-09-01,1943-09-03
+ss-hei-gata-c1,I22,Built,Sunk,1937-11-01,1938-12-23,1941-03-01,1942-10-05
+ss-hei-gata-c1,I24,Built,Sunk,1938-12-01,1939-11-12,1941-10-01,1943-06-11
+ss-ko-gata-a1,I9,Built,Sunk,1938-01-01,1939-05-20,1941-02-01,1944-06-11
+ss-ko-gata-a1,I10,Built,Sunk,1938-06-01,1939-09-20,1941-10-01,1944-07-04
+ss-ko-gata-a1,I11,Built,Sunk,1940-04-01,1941-02-28,1942-05-01,1944-01-11
+ss-kaidai-7,I176,Built,Sunk,1940-06-01,1941-06-07,1942-08-01,1944-05-16
+ss-kaidai-7,I177,Built,Sunk,1941-03-01,1941-12-20,1942-12-01,1944-10-03
+ss-kaidai-7,I178,Built,Sunk,1941-05-01,1942-02-24,1942-12-01,1943-05-29
+ss-kaidai-7,I179,Built,Sunk,1941-08-01,1942-07-16,1943-06-01,1943-07-14
+ss-kaidai-7,I180,Built,Sunk,1941-04-01,1942-02-07,1943-01-01,1944-04-26
+ss-kaidai-7,I181,Built,Sunk,1941-11-01,1942-05-02,1943-05-01,1944-01-16
+ss-kaidai-7,I182,Built,Sunk,1941-11-01,1942-05-30,1943-05-01,1943-09-01
+ss-kaidai-7,I183,Built,Sunk,1941-12-01,1943-01-21,1943-10-01,1944-04-28
+ss-kaidai-7,I184,Built,Sunk,1942-04-01,1942-12-12,1943-10-01,1944-06-19
+ss-kaidai-7,I185,Built,Sunk,1942-02-01,1942-09-16,1943-09-01,1944-06-22
+ss-kai-sho,RO100,Built,Sunk,1941-06-01,1941-12-06,1942-08-01,1943-11-25
+ss-kai-sho,RO101,Built,Sunk,1941-09-01,1942-05-17,1942-10-01,1943-09-15
+ss-kai-sho,RO102,Built,Sunk,1941-09-01,1942-05-17,1942-11-01,1943-05-14
+ss-kai-sho,RO103,Built,Sunk,1941-06-01,1941-12-06,1942-10-01,1943-07-28
+ss-kai-sho,RO104,Built,Sunk,1941-11-01,1942-07-11,1943-02-01,1944-05-23
+ss-kai-sho,RO105,Built,Sunk,1941-11-01,1942-07-11,1943-03-01,1944-05-31
+ss-kai-sho,RO106,Built,Sunk,1941-12-01,1942-05-30,1942-12-01,1944-05-22
+ss-kai-sho,RO107,Built,Sunk,1941-12-01,1942-05-30,1942-12-01,1943-07-12
+ss-kai-sho,RO108,Built,Sunk,1942-04-01,1942-10-26,1943-04-01,1944-05-26
+ss-kai-sho,RO109,Built,Sunk,1942-04-01,1942-10-26,1943-04-01,1945-04-25
+ss-kai-sho,RO110,Built,Sunk,1942-08-01,1943-01-26,1943-07-01,1944-02-11
+ss-kai-sho,RO111,Built,Sunk,1942-08-01,1943-01-26,1943-07-01,1944-06-11
+ss-kai-sho,RO112,Built,Sunk,1942-06-01,1943-03-25,1943-09-01,1945-02-11
+ss-kai-sho,RO113,Built,Sunk,1942-07-01,1943-04-24,1943-10-01,1945-02-12
+ss-kai-sho,RO114,Built,Sunk,1942-10-01,1943-06-19,1943-11-01,1944-06-17
+ss-kai-sho,RO115,Built,Sunk,1942-10-01,1943-06-19,1943-11-01,1945-01-31
+ss-kai-sho,RO116,Built,Sunk,1943-01-01,1943-09-13,1944-01-01,1944-05-24
+ss-kai-sho,RO117,Built,Sunk,1943-01-01,1943-09-13,1944-01-01,1944-06-17
+ss-otsu-gata-b2,I40,Built,Sunk,1942-03-01,1942-11-10,1943-07-01,1943-11-25
+ss-otsu-gata-b2,I41,Built,Sunk,1942-03-01,1942-11-10,1943-09-01,1944-11-28
+ss-otsu-gata-b2,I42,Built,Sunk,1942-03-01,1942-11-10,1943-11-01,1944-03-23
+ss-otsu-gata-b2,I43,Built,Sunk,1942-04-01,1942-10-25,1943-11-01,1944-02-15
+ss-otsu-gata-b2,I44,Built,Sunk,1942-06-01,1943-03-05,1944-01-01,1945-04-29
+ss-otsu-gata-b2,I45,Built,Sunk,1942-07-01,1943-03-06,1943-12-01,1944-10-28
+ss-hei-gata-c3,I52,Built,Sunk,1942-03-01,1942-11-10,1943-12-01,1944-06-24
+ss-hei-gata-c3,I53,Built,Interned,1943-01-01,1943-09-01,1944-02-01,1945-08-01
+ss-hei-gata-c3,I55,Built,Sunk,1943-01-01,1943-10-01,1944-04-01,1944-07-28
+ss-kaichu-6,RO35,Built,Sunk,1941-10-01,1942-06-04,1943-03-01,1943-08-25
+ss-kaichu-6,RO36,Built,Sunk,1942-03-01,1942-10-14,1943-05-01,1944-06-13
+ss-kaichu-6,RO37,Built,Sunk,1941-10-01,1942-06-30,1943-06-01,1944-01-22
+ss-kaichu-6,RO38,Built,Sunk,1942-06-01,1942-12-24,1943-07-01,1943-11-24
+ss-kaichu-6,RO39,Built,Sunk,1942-08-01,1943-03-06,1943-09-01,1944-02-02
+ss-kaichu-6,RO40,Built,Sunk,1942-08-01,1943-03-06,1943-09-01,1944-02-16
+ss-kaichu-6,RO41,Built,Sunk,1942-10-01,1943-05-05,1943-11-01,1945-03-23
+ss-kaichu-6,RO42,Built,Sunk,1942-04-01,1942-10-25,1943-08-01,1944-06-11
+ss-kaichu-6,RO43,Built,Sunk,1942-10-01,1943-06-05,1943-12-01,1945-02-26
+ss-kaichu-6,RO44,Built,Sunk,1942-02-01,1942-11-11,1943-09-01,1944-06-16
+ss-kaichu-6,RO45,Built,Sunk,1942-10-01,1943-07-21,1944-01-01,1944-04-30
+ss-kaichu-6,RO46,Built,Sunk,1942-06-01,1943-04-23,1944-02-01,1945-04-18
+ss-kaichu-6,RO47,Built,Sunk,1942-12-01,1943-08-20,1944-01-01,1944-09-25
+ss-kaichu-6,RO48,Built,Sunk,1942-03-01,1943-10-15,1944-03-01,1944-07-14
+ss-kaichu-6,RO49,Built,Sunk,1942-11-01,1943-08-03,1944-05-01,1945-04-05
+ss-kaichu-6,RO50,Built,Interned,1943-02-01,1943-11-27,1944-07-01,1945-08-01
+ss-kaichu-6,RO55,Built,Sunk,1943-08-01,1944-04-23,1944-09-01,1945-02-09
+ss-kaichu-6,RO56,Built,Sunk,1943-12-01,1944-07-05,1944-11-01,1945-04-09
+ss-yu1,YU1,Built,Interned,1943-07-01,1943-10-16,1943-12-01,1945-08-01
+ss-yu1,YU2,Cancelled,Scrapped,1943-08-01,,,1944-02-01
+ss-yu1,YU3,Cancelled,Scrapped,1943-08-01,,,1944-02-01
+ss-yu1,YU4,Cancelled,Scrapped,1943-09-01,,,1944-02-01
+ss-yu1,YU5,Cancelled,Scrapped,1943-09-01,,,1944-02-01
+ss-yu1,YU6,Cancelled,Scrapped,1943-10-01,,,1944-02-01
+ss-yu1,YU7,Cancelled,Scrapped,1943-11-01,,,1944-02-01
+ss-yu1,YU8,Cancelled,Scrapped,1943-12-01,,,1944-02-01
+ss-yu1,YU9,Cancelled,Scrapped,1943-12-01,,,1944-02-01
+ss-yu1,YU10,Built,Interned,1944-01-01,1944-05-01,1944-07-01,1945-08-01
+ss-yu1,YU11,Cancelled,Scrapped,1944-01-01,,,1944-02-01
+ss-yu1,YU12,Built,Interned,1944-01-01,1944-05-01,1944-07-01,1945-08-01
+ss-ro500,RO500,Bought,Interned,1943-07-01,,1943-07-01,1945-08-01
+ss-ro501,RO501,Bought,Sunk,1944-02-01,,1944-02-01,1944-05-13
+ss-ko-gata-a2,I12,Built,Sunk,1942-11-01,1943-08-03,1944-05-01,1945-01-20
+ss-kai-ko-taka-am,I13,Built,Sunk,1943-02-01,1943-11-30,1944-12-01,1945-07-16
+ss-kai-ko-taka-am,I14,Built,Interned,1943-05-01,1944-03-14,1945-03-01,1945-08-01
+ss-kai-ko-taka-am,I15,Cancelled,Scrapped,1943-04-01,1944-04-12,,1945-08-01
+ss-kai-ko-taka-am,I1,Cancelled,Scrapped,1943-06-01,1944-06-10,,1945-08-01
+ss-otsu-gata-b3,I54,Built,Sunk,1942-07-01,1943-05-04,1944-03-01,1944-10-28
+ss-otsu-gata-b3,I56,Built,Sunk,1942-09-01,1943-06-30,1944-06-01,1945-04-18
+ss-otsu-gata-b3,I58,Built,Interned,1942-12-01,1943-10-09,1944-09-01,1945-08-01
+ss-hei-gata-c2,I46,Built,Sunk,1942-11-01,1943-06-03,1944-02-01,1944-10-27
+ss-hei-gata-c2,I47,Built,Interned,1942-11-01,1943-09-29,1944-07-01,1945-08-01
+ss-hei-gata-c2,I48,Built,Sunk,1943-06-01,1943-12-12,1944-09-01,1945-01-23
+ss-tei-gata-d1-i361,I361,Built,Sunk,1943-02-01,1943-10-30,1944-05-01,1945-05-30
+ss-tei-gata-d1,I362,Built,Sunk,1943-03-01,1943-11-29,1944-05-01,1945-01-18
+ss-tei-gata-d1,I363,Built,Interned,1943-05-01,1943-12-12,1944-07-01,1945-08-01
+ss-tei-gata-d1,I364,Built,Sunk,1943-07-01,1944-02-15,1944-06-01,1944-09-16
+ss-tei-gata-d1,I365,Built,Sunk,1943-05-01,1943-12-17,1944-08-01,1944-11-28
+ss-tei-gata-d1,I366,Built,Interned,1943-08-01,1944-03-29,1944-08-01,1945-08-01
+ss-tei-gata-d1,I367,Built,Interned,1943-10-01,1944-04-28,1944-08-01,1945-08-01
+ss-tei-gata-d1,I368,Built,Sunk,1943-07-01,1944-01-29,1944-08-01,1945-02-27
+ss-tei-gata-d1,I369,Built,Interned,1943-09-01,1944-03-09,1944-10-01,1945-08-01
+ss-tei-gata-d1,I370,Built,Sunk,1943-12-01,1944-05-26,1944-09-01,1945-02-26
+ss-tei-gata-d1,I371,Built,Sunk,1944-03-01,1944-07-21,1944-10-01,1945-02-24
+ss-tei-gata-d1,I372,Built,Sunk,1944-02-01,1944-06-26,1944-11-01,1945-07-18
+ss-sen-toku,I400,Built,Interned,1943-01-01,1944-01-18,1944-12-01,1945-08-01
+ss-sen-toku,I401,Built,Interned,1943-04-01,1944-03-11,1945-01-01,1945-08-01
+ss-sen-toku,I402,Built,Interned,1943-10-01,1944-09-05,1945-07-01,1945-08-01
+ss-sen-toku,I403,Cancelled,Scrapped,1943-04-01,,,1945-03-01
+ss-sen-toku,I404,Cancelled,Sunk,1943-11-01,1944-07-07,,1945-03-01
+ss-sen-toku,I405,Cancelled,Scrapped,1944-09-01,,,1945-03-01
+ss-sen-yuso-sho,HA101,Built,Interned,1944-06-01,1944-08-22,1944-11-01,1945-08-01
+ss-sen-yuso-sho,HA102,Built,Interned,1944-06-01,1944-08-22,1944-12-01,1945-08-01
+ss-sen-yuso-sho,HA103,Built,Interned,1944-06-01,1944-10-21,1945-02-01,1945-08-01
+ss-sen-yuso-sho,HA104,Built,Interned,1944-07-01,1944-09-30,1944-12-01,1945-08-01
+ss-sen-yuso-sho,HA105,Built,Interned,1944-06-01,1944-10-31,1945-02-01,1945-08-01
+ss-sen-yuso-sho,HA106,Built,Interned,1944-07-01,1944-10-30,1944-12-01,1945-08-01
+ss-sen-yuso-sho,HA107,Built,Interned,1944-08-01,1944-12-20,1945-02-01,1945-08-01
+ss-sen-yuso-sho,HA108,Built,Interned,1944-09-01,1944-12-28,1945-05-01,1945-08-01
+ss-sen-yuso-sho,HA109,Built,Interned,1944-08-01,1945-01-10,1945-03-01,1945-08-01
+ss-sen-yuso-sho,HA110,Cancelled,Interned,1944-09-01,1945-01-12,,1945-08-01
+ss-sen-yuso-sho,HA111,Built,Interned,1944-11-01,1945-03-02,1945-07-01,1945-08-01
+ss-sen-yuso-sho,HA112,Cancelled,Scrapped,1944-11-01,1945-04-15,,1945-08-01
+ss-yu1001,YU1001,Built,Interned,1944-11-01,1944-12-01,1945-01-01,1945-08-01
+ss-yu1001,YU1002,Cancelled,Scrapped,1944-11-01,,,1945-02-01
+ss-yu1001,YU1003,Cancelled,Scrapped,1944-11-01,,,1945-02-01
+ss-yu1001,YU1004,Cancelled,Scrapped,1944-11-01,,,1945-02-01
+ss-yu1001,YU1005,Cancelled,Scrapped,1944-11-01,,,1945-02-01
+ss-yu1001,YU1006,Cancelled,Scrapped,1944-11-01,,,1945-02-01
+ss-yu1001,YU1007,Built,Interned,1944-11-01,1944-12-01,1945-01-01,1945-08-01
+ss-yu1001,YU1008,Cancelled,Scrapped,1944-12-01,,,1945-02-01
+ss-yu1001,YU1009,Cancelled,Scrapped,1944-12-01,,,1945-02-01
+ss-yu1001,YU1010,Cancelled,Scrapped,1944-12-01,,,1945-02-01
+ss-yu1001,YU1011,Built,Interned,1944-12-01,1945-01-01,1945-02-01,1945-08-01
+ss-yu1001,YU1012,Cancelled,Scrapped,1944-12-01,,,1945-02-01
+ss-yu1001,YU1013,Built,Interned,1944-12-01,1945-01-01,1945-02-01,1945-08-01
+ss-yu1001,YU1014,Built,Interned,1945-01-01,1945-02-01,1945-03-01,1945-08-01
+ss-sen-taka,I201,Built,Interned,1944-03-01,1944-07-22,1945-02-01,1945-08-01
+ss-sen-taka,I202,Built,Interned,1944-04-01,1944-09-02,1945-02-01,1945-08-01
+ss-sen-taka,I203,Built,Interned,1944-04-01,1944-10-20,1945-05-01,1945-08-01
+ss-sen-taka,I204,Cancelled,Scrapped,1944-04-01,1944-12-16,,1945-03-01
+ss-sen-taka,I205,Cancelled,Scrapped,1944-05-01,1945-02-15,,1945-03-01
+ss-sen-taka,I206,Cancelled,Scrapped,1944-05-01,1945-03-26,,1945-03-01
+ss-sen-taka,I207,Cancelled,Scrapped,1944-12-01,,,1945-03-01
+ss-sen-taka,I208,Cancelled,Scrapped,1945-02-01,,,1945-03-01
+ss-sen-ho,I351,Built,Sunk,1943-05-01,1944-02-24,1945-01-01,1945-07-14
+ss-sen-ho,I352,Cancelled,Sunk,1943-11-01,1944-04-23,,1945-06-22
+ss-tei-gata-d2,I373,Built,Sunk,1944-08-01,1944-11-30,1945-04-01,1945-08-14
+ss-tei-gata-d2,I374,Cancelled,Scrapped,1944-10-01,,,1945-04-01
+ss-sen-taka-sho,HA201,Built,Interned,1945-03-01,1945-04-23,1945-05-01,1945-08-01
+ss-sen-taka-sho,HA202,Built,Interned,1945-03-01,1945-04-23,1945-05-01,1945-08-01
+ss-sen-taka-sho,HA203,Built,Interned,1945-04-01,1945-05-25,1945-06-01,1945-08-01
+ss-sen-taka-sho,HA204,Built,Interned,1945-04-01,1945-06-01,1945-06-01,1945-08-01
+ss-sen-taka-sho,HA205,Built,Interned,1945-04-01,1945-05-14,1945-07-01,1945-08-01
+ss-sen-taka-sho,HA206,Cancelled,Sunk,1945-03-01,1945-07-10,,1945-08-25
+ss-sen-taka-sho,HA207,Built,Interned,1945-04-01,1945-05-26,1945-08-01,1945-08-01
+ss-sen-taka-sho,HA208,Built,Interned,1945-05-01,1945-05-26,1945-08-01,1945-08-01
+ss-sen-taka-sho,HA209,Built,Interned,1945-05-01,1945-05-31,1945-08-01,1945-08-01
+ss-sen-taka-sho,HA210,Built,Interned,1945-05-01,1945-06-10,1945-08-01,1945-08-01
+ss-sen-taka-sho,HA211,Cancelled,Scrapped,1945-04-01,1946-04-24,,1945-08-01
+ss-sen-taka-sho,HA212,Cancelled,Scrapped,1945-04-01,1945-06-25,,1945-08-01
+ss-sen-taka-sho,HA213,Cancelled,Scrapped,1945-05-01,1945-07-29,,1945-08-01
+ss-sen-taka-sho,HA214,Cancelled,Scrapped,1945-05-01,1945-08-15,,1945-08-01
+ss-sen-taka-sho,HA215,Cancelled,Sunk,1945-05-01,1945-06-15,,1945-08-01
+ss-sen-taka-sho,HA216,Built,Interned,1945-05-01,1945-06-19,1945-08-01,1945-08-01
+ss-sen-taka-sho,HA217,Cancelled,Sunk,1945-06-01,1945-06-26,,1945-08-01
+ss-sen-taka-sho,HA218,Cancelled,Scrapped,1945-06-01,1945-07-02,,1945-08-01
+ss-sen-taka-sho,HA219,Cancelled,Sunk,1945-06-01,1945-07-12,,1945-08-01
+ss-sen-taka-sho,HA220,Cancelled,Scrapped,1945-05-01,,,1945-08-01
+ss-sen-taka-sho,HA221,Cancelled,Scrapped,1945-04-01,1945-08-04,,1945-08-01
+ss-sen-taka-sho,HA222,Cancelled,Scrapped,1945-05-01,,,1945-08-01
+ss-sen-taka-sho,HA223,Cancelled,Scrapped,1945-05-01,,,1945-08-01
+ss-sen-taka-sho,HA224,Cancelled,Scrapped,1945-06-01,,,1945-08-01
+ss-sen-taka-sho,HA225,Cancelled,Scrapped,1945-06-01,,,1945-08-01
+ss-sen-taka-sho,HA226,Cancelled,Scrapped,1945-06-01,,,1945-08-01
+ss-sen-taka-sho,HA227,Cancelled,Scrapped,1945-07-01,,,1945-08-01
+ss-sen-taka-sho,HA228,Cancelled,Sunk,1945-06-01,1945-07-18,,1945-08-01
+ss-sen-taka-sho,HA229,Cancelled,Scrapped,1945-06-01,1945-07-27,,1945-08-01
+ss-sen-taka-sho,HA230,Cancelled,Scrapped,1945-07-01,,,1945-08-01
+ss-sen-taka-sho,HA231,Cancelled,Scrapped,1945-07-01,,,1945-08-01
+ss-sen-taka-sho,HA232,Cancelled,Scrapped,1945-07-01,,,1945-08-01
+ss-sen-taka-sho,HA233,Cancelled,Scrapped,1945-06-01,,,1945-08-01
+ss-sen-taka-sho,HA234,Cancelled,Scrapped,1945-05-01,,,1945-08-01
+ss-sen-taka-sho,HA235,Cancelled,Scrapped,1945-06-01,,,1945-08-01
+ss-sen-taka-sho,HA236,Cancelled,Scrapped,1945-06-01,,,1945-08-01
+ss-sen-taka-sho,HA237,Cancelled,Scrapped,1945-07-01,,,1945-08-01
+ss-sen-taka-sho,HA238,Cancelled,Scrapped,1945-08-01,,,1945-08-01
+ss-sen-taka-sho,HA239,Cancelled,Scrapped,1945-08-01,,,1945-08-01
+ss-sen-taka-sho,HA240,Cancelled,Scrapped,1945-08-01,,,1945-08-01
+ss-sen-taka-sho,HA246,Cancelled,Scrapped,1945-07-01,,,1945-08-01
+ss-sen-taka-sho,HA247,Cancelled,Scrapped,1945-07-01,,,1945-08-01
+ss-yu2001,YU2001,Built,Interned,1945-05-01,1945-06-01,1945-07-01,1945-08-01
+ss-yu2001,YU2002,Cancelled,Scrapped,1945-05-01,,,1945-08-01
+ss-i505,I505,Bought,Interned,1945-05-01,,1945-05-01,1945-08-01
+ss-i506,I506,Bought,Interned,1945-05-01,,1945-05-01,1945-08-01
+ss-i501,I501,Bought,Interned,1945-05-01,,1945-05-01,1945-08-01
+ss-i501,I502,Bought,Interned,1945-05-01,,1945-05-01,1945-08-01
+ss-i503,I503,Bought,Interned,1945-05-01,,1945-05-01,1945-08-01
+ss-i504,I504,Bought,Interned,1945-05-01,,1945-05-01,1945-08-01
+ss-kuroshio,Kuroshio,Bought,Sold,1955-08-15,,1955-08-15,1970-08-01
+ss-oyashio-1957,Oyashio,Built,Scrapped,1957-12-25,1959-05-25,1960-06-30,1976-09-01
+ss-hayashio,Hayashio,Built,Scrapped,1960-06-06,1961-07-31,1962-06-30,1977-07-01
+ss-hayashio,Wakashio,Built,Scrapped,1960-06-07,1961-08-28,1962-08-17,1979-03-01
+ss-natsushio,Natsushio,Built,Scrapped,1961-12-05,1962-09-18,1963-06-29,1978-03-01
+ss-natsushio,Fuyushio,Built,Scrapped,1961-12-06,1962-12-04,1963-09-17,1980-06-01
+ss-oshio,Oshio,Built,Scrapped,1963-06-29,1964-04-30,1965-03-31,1981-08-01
+ss-asashio,Asashio,Built,Scrapped,1964-10-05,1965-11-27,1966-10-13,1983-03-01
+ss-asashio,Harushio,Built,Scrapped,1965-10-12,1967-02-25,1967-12-01,1984-03-01
+ss-asashio,Michishio,Built,Scrapped,1966-07-26,1967-12-05,1968-08-29,1985-03-01
+ss-asashio,Arashio,Built,Scrapped,1967-10-24,1968-10-24,1969-07-25,1986-03-01
+ss-uzushio,Uzushio,Built,Scrapped,1968-09-25,1970-03-11,1971-01-21,1987-03-01
+ss-uzushio,Makishio,Built,Scrapped,1969-06-21,1971-01-27,1972-02-02,1988-03-01
+ss-uzushio,Isoshio,Built,Scrapped,1970-07-09,1972-03-18,1972-11-25,1992-03-01
+ss-uzushio,Narushio,Built,Scrapped,1971-05-08,1972-11-22,1973-09-28,1993-03-01
+ss-uzushio,Kuroshio,Built,Scrapped,1972-07-05,1974-02-22,1974-11-27,1994-03-01
+ss-uzushio,Takashio,Built,Scrapped,1973-07-06,1975-06-30,1976-01-30,1995-07-01
+ss-uzushio,Yaeshio,Built,Scrapped,1975-04-14,1977-05-19,1978-03-07,1996-08-01
+ss-yushio,Yushio,Built,Scrapped,1976-12-03,1979-03-29,1980-02-26,1999-03-01
+ss-yushio,Mochishio,Built,Scrapped,1978-05-09,1980-03-12,1981-03-05,2000-03-01
+ss-yushio,Setoshio,Built,Scrapped,1979-04-17,1981-02-10,1982-03-17,2001-03-01
+ss-yushio,Okishio,Built,Scrapped,1980-04-17,1982-03-05,1983-03-01,2003-03-01
+ss-nadashio,Nadashio,Built,Scrapped,1981-04-16,1983-01-27,1984-03-06,2001-06-01
+ss-nadashio,Hamashio,Built,Scrapped,1982-04-08,1984-02-01,1985-03-05,2006-03-01
+ss-nadashio,Akishio,Built,Museum,1983-04-15,1985-01-21,1986-03-05,2004-03-01
+ss-nadashio,Takeshio,Built,Scrapped,1984-04-03,1986-02-09,1987-03-03,2005-03-01
+ss-nadashio,Yukishio,Built,Scrapped,1985-04-11,1987-01-23,1988-03-11,2008-03-01
+ss-nadashio,Sachishio,Built,Scrapped,1986-04-11,1988-02-17,1989-03-24,2006-04-01
+ss-harushio,Harushio,Built,Scrapped,1987-04-21,1989-07-26,1990-11-30,2009-03-01
+ss-harushio,Natsushio,Built,Scrapped,1988-04-08,1990-03-20,1991-03-20,2010-03-01
+ss-harushio,Hayashio,Built,Scrapped,1988-12-09,1991-01-17,1992-03-25,2011-03-01
+ss-harushio,Arashio,Built,Scrapped,1990-01-08,1992-03-17,1993-03-17,2012-03-01
+ss-harushio,Wakashio,Built,Scrapped,1990-12-12,1993-01-22,1994-03-01,2013-03-01
+ss-harushio,Fuyushio,Built,Scrapped,1991-12-12,1994-02-16,1995-03-07,2015-03-01
+ss-harushio,Asashio,Built,Auxiliary,1992-12-24,1995-07-12,1997-03-12,2002-04-01
+ss-oyashio,Oyashio,Built,,1994-01-26,1996-10-15,1998-03-16,2015-03-01
+ss-oyashio,Michishio,Built,,1995-02-16,1997-09-18,1999-03-10,2017-02-01
+ss-oyashio,Uzushio,Built,,1996-03-06,1998-11-26,2000-03-09,
+ss-oyashio,Makishio,Built,,1997-03-26,1999-09-22,2001-03-29,
+ss-oyashio,Isoshio,Built,,1998-03-09,2000-11-27,2002-03-14,
+ss-oyashio,Narushio,Built,,1999-04-02,2001-10-04,2003-03-03,
+ss-oyashio,Kuroshio,Built,,2000-03-27,2002-10-23,2004-03-08,
+ss-oyashio,Takashio,Built,,2001-01-30,2003-10-01,2005-03-09,
+ss-oyashio,Yaeshio,Built,,2002-01-15,2004-11-04,2006-03-09,
+ss-oyashio,Setoshio,Built,,2003-01-23,2005-10-05,2007-02-28,
+ss-oyashio,Mochishio,Built,,2004-02-23,2006-11-06,2008-03-06,
+ss-soryu,Soryu,Built,,2005-03-31,2007-12-05,2009-03-30,
+ss-soryu,Unryu,Built,,2006-03-31,2008-10-15,2010-03-25,
+ss-soryu,Hakuryu,Built,,2007-02-06,2009-10-16,2011-03-14,
+ss-soryu,Kenryu,Built,,2008-03-31,2010-11-15,2012-03-16,
+ss-soryu,Zuiryu,Built,,2009-03-16,2011-10-20,2013-03-06,
+ss-soryu,Kokuryu,Built,,2011-01-21,2013-10-31,2015-03-09,
+ss-soryu,Jinryu,Built,,2012-02-14,2014-10-08,2016-03-07,
+ss-soryu,Sekiryu,Built,,2013-03-15,2015-11-02,2017-03-13,
+ss-soryu,Seiryu,Built,,2013-10-22,2016-10-12,2018-03-12,
+ss-soryu,Shoryu,Built,,2015-01-28,2017-11-06,2019-03-18,
+ss-oryu,Oryu,Built,,2015-11-16,2018-10-04,2020-03-05,
+ss-oryu,Toryu,Planned,,2017-01-27,2019-11-06,,
+ss-chang-bogo,ROKS Chang Bogo,Built,,1988-01-01,1992-06-18,1993-06-02,
+ss-chang-bogo,ROKS Lee Chun,Built,,1990-01-01,1992-10-14,1994-04-30,
+ss-chang-bogo,ROKS Choi Muson,Built,,1991-01-01,1993-08-25,1995-02-27,
+ss-chang-bogo,ROKS Park Wi,Built,,1992-01-01,1994-05-20,1996-02-03,
+ss-chang-bogo,ROKS Lee Jongmu,Built,,1993-01-01,1995-04-17,1996-08-29,
+ss-chang-bogo,ROKS Jung Woon,Built,,1994-01-01,1996-05-07,1997-08-29,
+ss-lee-sunsin,ROKS Lee Sunsin,Built,,1995-01-01,1998-05-21,1999-06-15,
+ss-lee-sunsin,ROKS Na Daeyong,Built,,1996-01-01,1999-06-15,2000-11-30,
+ss-lee-sunsin,ROKS Lee Eokgi,Built,,1997-01-01,2000-05-26,2001-11-30,
+ss-sohn-won-il,ROKS Sohn Won Il,Built,,2003-01-01,2006-06-09,2007-12-27,
+ss-sohn-won-il,ROKS Jeongji,Built,,2004-01-01,2007-06-13,2008-12-02,
+ss-sohn-won-il,ROKS Ahn Jung Geun,Built,,2005-01-01,2008-06-04,2009-11-30,
+ss-sohn-won-il,ROKS Kim Jwa Jin,Built,,2008-01-01,2013-08-13,2014-12-30,
+ss-sohn-won-il,ROKS Yun Bong Jil,Built,,2009-01-01,2014-07-03,2016-06-20,
+ss-sohn-won-il,ROKS Yu Gwan Sun,Built,,2010-01-01,2015-05-08,2017-07-10,
+ss-sohn-won-il,ROKS Hong Beon Do,Built,,2011-01-01,2016-04-05,2018-01-19,
+ss-sohn-won-il,ROKS Lee Beom Seok,Built,,2012-01-01,2016-11-08,2019-05-13,
+ss-sohn-won-il,ROKS Shin Dol Seok,Planned,,2013-01-01,2017-09-07,,
+ss-kss-iii,ROKS Doosan Ahn Chang,Planned,,2016-05-17,2018-09-14,,
+ss-kss-iii,ROKS Son Byung Hee,Planned,,2018-04-17,,,
+ss-kss-iii,ROKS Dong Ning,Planned,,2019-04-11,,,
+s-tolgorae,ROKS Tolgorae 051,Built,Scrapped,1981-04-01,1983-04-02,1985-03-01,2003-12-01
+s-tolgorae,ROKS Tolgorae 052,Built,Scrapped,1987-12-01,1989-12-15,1990-11-08,2016-06-01
+s-tolgorae,ROKS Tolgorae 053,Built,Scrapped,1989-08-01,1991-08-30,1991-12-12,2016-06-01
+ss-onderzeeboot-1,HNLMS O1,Built,Scrapped,1904-06-01,1905-07-08,1906-12-01,1920-01-01
+ss-onderzeeboot-2,HNLMS O2,Built,Scrapped,1909-10-01,1911-01-30,1911-12-01,1931-01-01
+ss-onderzeeboot-2,HNLMS O3,Built,Scrapped,1910-12-01,1912-07-30,1913-02-01,1932-01-01
+ss-onderzeeboot-2,HNLMS O4,Built,Scrapped,1912-06-01,1913-08-05,1914-06-01,1935-01-01
+ss-onderzeeboot-2,HNLMS O5,Built,Scrapped,1912-06-01,1913-10-02,1914-08-01,1935-01-01
+ss-koloniaal-1,HNLMS K I,Built,Scrapped,1911-09-01,1913-05-20,1914-07-01,1928-01-01
+ss-onderzeeboot-6,HNLMS O6,Built,Scrapped,1914-05-01,1916-06-10,1916-12-01,1936-11-01
+ss-onderzeeboot-7,HNLMS O7,Built,Scrapped,1914-05-01,1916-07-22,1916-12-01,1939-11-01
+ss-m1-n,HNLMS M1,Bought,Scrapped,1917-03-01,,1917-03-01,1931-01-01
+ss-onderzeeboot-8,HNLMS O8,Bought,Captured,1917-05-01,,1917-05-01,1940-05-14
+ss-k-iii,HNLMS K III,Built,Scrapped,1915-07-01,1919-08-12,1920-07-01,1934-01-01
+ss-k-iii,HNLMS K IV,Built,Scrapped,1915-12-01,1920-07-02,1921-04-01,1936-01-01
+ss-k-iv,HNLMS K III,Built,Scrapped,1915-07-01,1919-08-12,1920-07-01,1934-01-01
+ss-k-iv,HNLMS K IV,Built,Scrapped,1915-12-01,1920-07-02,1921-04-01,1936-01-01
+ss-k-v,HNLMS K V,Built,Scrapped,1916-04-01,1919-11-20,1920-09-01,1937-08-01
+ss-k-v,HNLMS K VI,Built,Scrapped,1916-04-01,1920-12-23,1921-10-01,1937-08-01
+ss-k-v,HNLMS K VII,Built,Sunk,1916-07-01,1921-03-08,1922-09-01,1942-02-18
+ss-k-ii,HNLMS K II,Built,Scrapped,1915-11-01,1919-02-27,1922-03-01,1937-08-01
+ss-k-viii,HNLMS K VIII,Built,Scrapped,1917-10-01,1922-03-28,1922-09-01,1942-07-01
+ss-k-ix,HNLMS K IX,Built,Sold,1919-03-01,1922-12-23,1923-06-01,1943-06-01
+ss-k-ix,HNLMS K X,Built,Sunk,1919-11-01,1923-05-02,1923-09-01,1942-03-02
+ss-k-xi,HNLMS K XI,Built,Scrapped,1922-12-01,1924-04-24,1925-03-01,1945-04-01
+ss-k-xi,HNLMS K XII,Built,Scrapped,1923-01-01,1924-07-15,1925-05-01,1944-09-01
+ss-k-xi,HNLMS K XIII,Built,Sunk,1923-10-01,1924-12-23,1926-03-01,1942-03-02
+ss-onderzeeboot-9,HNLMS O9,Built,Scrapped,1922-09-01,1925-04-07,1926-01-01,1944-12-01
+ss-onderzeeboot-9,HNLMS O10,Built,Scrapped,1923-12-01,1925-07-30,1926-09-01,1944-10-01
+ss-onderzeeboot-9,HNLMS O11,Built,Sunk,1922-12-01,1925-03-19,1926-01-01,1940-05-14
+ss-onderzeeboot-12,HNLMS O12,Built,Sunk,1928-10-01,1930-11-08,1931-07-01,1940-05-14
+ss-onderzeeboot-12,HNLMS O13,Built,Sunk,1928-12-01,1931-04-18,1931-10-01,1940-06-13
+ss-onderzeeboot-12,HNLMS O14,Built,Scrapped,1928-12-01,1931-10-03,1932-03-01,1943-06-01
+ss-onderzeeboot-12,HNLMS O15,Built,Scrapped,1930-03-01,1931-05-27,1932-07-01,1945-09-01
+ss-k-xiv,HNLMS K XIV,Built,Scrapped,1930-05-01,1931-07-11,1933-07-01,1946-04-01
+ss-k-xiv,HNLMS K XV,Built,Scrapped,1930-05-01,1932-12-10,1933-12-01,1946-04-01
+ss-k-xiv,HNLMS K XVI,Built,Sunk,1930-05-01,1933-04-08,1934-01-01,1941-12-25
+ss-k-xiv,HNLMS K XVII,Built,Sunk,1931-06-01,1932-07-26,1933-12-01,1941-12-21
+ss-k-xiv,HNLMS K XVIII,Built,Sunk,1931-06-01,1932-09-27,1934-03-01,1942-03-02
+ss-onderzeeboot-16,HNLMS O16,Built,Sunk,1933-12-01,1936-01-27,1936-10-01,1941-12-15
+ss-onderzeeboot-19,HNLMS O19,Built,Sunk,1936-06-01,1938-09-22,1939-07-01,1945-07-08
+ss-onderzeeboot-19,HNLMS O20,Built,Sunk,1936-06-01,1939-01-31,1939-08-01,1941-12-19
+ss-onderzeeboot-21,HNLMS O21,Built,Scrapped,1937-11-01,1939-10-21,1940-05-01,1957-11-01
+ss-onderzeeboot-21,HNLMS O22,Built,Sunk,1937-11-01,1940-01-20,1940-05-01,1940-11-08
+ss-onderzeeboot-21,HNLMS O23,Built,Scrapped,1937-10-01,1939-12-05,1940-06-01,1948-12-01
+ss-onderzeeboot-21,HNLMS O24,Built,Scrapped,1937-11-01,1940-03-18,1940-07-01,1954-02-01
+ss-onderzeeboot-21,HNLMS O25,Built,Captured,1939-04-01,1940-05-01,,1940-05-01
+ss-onderzeeboot-21,HNLMS O26,Built,Captured,1939-04-01,,,1940-05-01
+ss-onderzeeboot-27,HNLMS O27,Built,Captured,1939-08-01,,,1940-05-01
+ss-dolfijn-1942,HNLMS Dolfijn,Bought,Auxiliary,1942-10-01,,1942-10-01,1946-12-01
+ss-zeehond,HNLMS Zeehond,Bought,Sold,1943-10-01,,1943-10-01,1945-11-01
+ss-zwaardvis-1943,HNLMS Zwaardvis,Bought,Scrapped,1943-12-01,,1943-12-01,1962-12-01
+ss-zwaardvis-1943,HNLMS Zeehond,Bought,Sold,1948-06-01,,1948-06-01,1953-06-01
+ss-zwaardvis-1943,HNLMS Tijgerhaai,Bought,Scrapped,1945-04-01,,1945-04-01,1965-09-01
+ss-dolfijn-1948,HNLMS Dolfijn,Bought,Sold,1948-06-01,,1948-06-01,1953-06-01
+ss-walrus-1953,HNLMS Walrus,Bought,Scrapped,1953-02-01,,1953-02-01,1971-07-01
+ss-walrus-1953,HNLMS Zeeleuw,Bought,Scrapped,1953-04-01,,1953-04-01,1970-11-01
+ss-dolfjin,HNLMS Dolfijn,Built,Scrapped,1954-12-30,1959-05-20,1960-12-16,1985-02-01
+ss-dolfjin,HNLMS Zeehond,Built,Auxiliary,1954-12-30,1960-02-20,1961-03-16,1990-01-01
+ss-dolfjin,HNLMS Potvis,Built,Scrapped,1962-09-17,1965-01-12,1965-11-02,1994-07-01
+ss-dolfjin,HNLMS Tonijn,Built,Museum,1962-11-27,1965-06-14,1966-02-24,1994-06-01
+ss-zwaardvis,HNLMS Zwaardvis,Built,Scrapped,1966-07-14,1970-07-02,1972-08-18,1994-07-01
+ss-zwaardvis,HNLMS Tijgerhaai,Built,Scrapped,1966-07-14,1971-05-25,1972-10-20,1995-08-01
+ss-walrus,HNLMS Walrus,Built,,1979-10-11,1985-10-28,1992-03-25,
+ss-walrus,HNLMS Zeeleeuw,Built,,1981-09-24,1987-06-20,1990-04-25,
+ss-walrus,HNLMS Dolfijn,Built,,1986-06-12,1990-04-25,1993-01-29,
+ss-walrus,HNLMS Bruinvis,Built,,1988-04-14,1992-04-25,1994-07-05,
+ss-kobben-1908,HNoMS Kobben,Built,Scrapped,1908-05-01,1909-05-05,1909-10-01,1933-01-01
+ss-a2,HNoMS A2,Built,Scrapped,1911-01-01,1913-01-01,1914-01-01,1940-04-09
+ss-a2,HNoMS A3,Built,Scrapped,1911-05-01,1913-05-01,1914-03-01,1940-04-15
+ss-a2,HNoMS A4,Built,Scrapped,1911-09-01,1913-09-01,1914-05-01,1940-04-15
+ss-a2,HNoMS A5,Built,Sold,1912-10-01,1914-05-09,,1914-08-01
+ss-b1-n,HNoMS B1,Built,Scrapped,1915-01-01,1922-08-01,,1946-01-01
+ss-b1-n,HNoMS B2,Built,Captured,1916-01-01,1923-08-15,,1940-04-09
+ss-b1-n,HNoMS B3,Built,Scrapped,1917-01-01,1924-01-25,,1940-04-09
+ss-b1-n,HNoMS B4,Built,Captured,1916-01-01,1923-12-19,,1940-04-09
+ss-b1-n,HNoMS B5,Built,Captured,1925-01-01,1929-06-17,1929-10-01,1940-04-09
+ss-b1-n,HNoMS B6,Built,Captured,1925-01-01,1929-09-04,1930-05-01,1940-04-09
+ss-uredd,HNoMS P41,Bought,Sunk,1941-12-01,,1941-12-01,1943-02-10
+ss-uredd,HNoMS Ula,Bought,Scrapped,1943-04-01,,1943-04-01,1964-07-01
+ss-utsira,HNoMS Utsira,Bought,Scrapped,1944-08-01,,1944-08-01,1962-12-01
+ss-utsira,HNoMS Utstein,Bought,Scrapped,1946-01-01,,1946-01-01,1964-01-01
+ss-utsira,HNoMS Utvaer,Bought,Scrapped,1946-01-01,,1946-01-01,1964-12-01
+ss-utsira,HNoMS Uthaug,Bought,Scrapped,1946-07-01,,1946-07-01,1965-10-01
+ss-kya,HNoMS Kya,Captured,Scrapped,1948-10-01,,1948-10-01,1964-03-01
+ss-kya,HNoMS Kinn,Captured,Scrapped,1948-10-01,,1948-10-01,1961-06-01
+ss-kaura,HNoMS Kaura,Captured,Scrapped,1948-10-01,,1948-10-01,1963-01-01
+ss-knerter,HNoMS Knerter,Captured,Scrapped,1948-10-01,,1948-10-01,1953-01-01
+ss-kobben-1962,HNoMS Kobben,Bought,Sold,1962-07-10,,1962-07-10,1964-06-01
+ss-kobben,HNoMS Kaura,Built,Sold,1964-05-19,1964-10-16,1965-02-05,1991-10-01
+ss-kobben,HNoMS Kinn,Built,Scrapped,1963-02-01,1963-11-30,1964-04-08,1982-01-01
+ss-kobben,HNoMS Kya,Built,Sold,1963-05-26,1964-02-20,1964-06-15,1991-01-01
+ss-kobben,HNoMS Kobben,Built,Sold,1963-12-09,1964-04-25,1964-08-17,1999-06-01
+ss-kobben,HNoMS Kunna,Built,Sold,1964-03-03,1964-07-16,1964-10-01,2001-12-01
+ss-kobben,HNoMS Ula,Built,Scrapped,1964-08-21,1964-12-19,1965-05-07,1991-05-01
+ss-kobben,HNoMS Utsira,Built,Scrapped,1964-10-31,1965-03-11,1965-07-01,1991-12-01
+ss-kobben,HNoMS Utstein,Built,Scrapped,1965-01-08,1965-05-19,1965-09-09,1991-12-01
+ss-kobben,HNoMS Utvaer,Built,Sold,1965-03-24,1965-06-30,1965-12-01,1989-01-01
+ss-kobben,HNoMS Uthaug,Built,Sold,1965-05-31,1965-10-08,1966-02-16,1990-01-01
+ss-kobben,HNoMS Sklinna,Built,Scrapped,1965-08-17,1966-01-21,1966-08-17,1999-06-01
+ss-kobben,HNoMS Skolpen,Built,Sold,1965-11-01,1966-03-24,1966-08-17,2001-12-01
+ss-kobben,HNoMS Stadt,Built,Sunk,1966-02-01,1966-06-10,1966-11-15,1987-04-01
+ss-kobben,HNoMS Stord,Built,Sold,1966-04-01,1966-09-02,1967-02-09,2001-12-01
+ss-kobben,HNoMS Svenner,Built,Sold,1966-09-08,1967-01-27,1967-07-01,2001-12-01
+ss-ula,HNoMS Ula,Built,,1987-01-29,1988-07-28,1989-04-27,
+ss-ula,HNoMS Utsira,Built,,1990-06-15,1991-11-21,1992-04-30,
+ss-ula,HNoMS Utstein,Built,,1989-12-06,1991-04-25,1991-11-14,
+ss-ula,HNoMS Utvaer,Built,,1988-12-08,1990-04-19,1990-11-08,
+ss-ula,HNoMS Uthaug,Built,,1989-06-15,1990-10-18,1991-05-07,
+ss-ula,HNoMS Uredd,Built,,1988-06-23,1989-09-22,1990-05-03,
+ss-ferre,Ferre,Built,Scrapped,1911-01-01,1912-01-01,1912-10-01,1919-01-01
+ss-ferre,Palacios,Built,Scrapped,1911-01-01,1913-01-01,1913-10-01,1919-01-01
+ss-r1-p,R1,Built,Scrapped,1925-04-01,1926-07-12,1926-12-01,1958-10-01
+ss-r1-p,R2,Built,Scrapped,1925-04-01,1926-03-29,1926-12-01,1958-10-01
+ss-r1-p,R3,Built,Scrapped,1925-05-01,1928-04-21,1928-11-01,1958-10-01
+ss-r1-p,R4,Built,Scrapped,1925-05-01,1928-05-10,1928-11-01,1958-10-01
+ss-lobo,Lobo,Built,Scrapped,1952-05-12,1954-02-06,1954-06-14,1999-05-01
+ss-lobo,Tiburon,Built,Scrapped,1952-05-12,1953-10-27,1954-02-20,1999-05-01
+ss-lobo,Atun,Built,Scrapped,1955-10-27,1957-02-05,1957-07-01,1990-02-01
+ss-lobo,Merlin,Built,Scrapped,1955-10-27,1957-02-05,1957-10-10,1993-03-01
+ss-pacocha,Pacocha,Bought,Sunk,1974-07-31,,1974-07-31,1988-08-26
+ss-pacocha,Pabelon da Pica,Bought,Scrapped,1974-07-01,,1974-07-01,1995-01-01
+ss-islay,Islay,Built,,1971-05-15,1973-10-11,1974-08-23,
+ss-islay,Arica,Built,,1971-11-01,1974-04-05,1975-01-21,
+ss-casma,Casma,Built,,1977-07-15,1979-08-31,1980-12-19,
+ss-casma,Antofagasta,Built,,1977-10-03,1979-12-19,1981-05-22,
+ss-casma,Pisagua,Built,,1978-08-15,1981-05-19,1982-04-08,
+ss-casma,Chipana,Built,,1978-11-01,1981-08-07,1983-03-18,
+ss-wilk,ORP Rys,Built,Scrapped,1927-05-01,1929-04-22,1931-08-01,1956-01-01
+ss-wilk,ORP Wilk,Built,Scrapped,1927-05-01,1929-04-12,1931-10-01,1954-01-01
+ss-wilk,ORP Zbik,Built,Scrapped,1927-06-01,1930-06-14,1932-02-01,1956-01-01
+ss-orzel,ORP Orzel,Built,Sunk,1936-08-01,1938-01-15,1939-02-01,1940-05-01
+ss-orzel,ORP Sep,Built,Scrapped,1936-11-01,1938-10-17,1939-04-01,1969-09-01
+ss-orzel-mod,ORP I,Cancelled,Scrapped,1939-02-01,,,1939-04-01
+ss-orzel-mod,ORP II,Cancelled,Scrapped,1939-02-01,,,1939-04-01
+ss-sokol,ORP Sokol,Bought,Sold,1941-01-01,,1941-01-01,1946-07-01
+ss-sokol,ORP Dzik,Bought,Sold,1942-12-01,,1942-12-01,1946-12-01
+ss-jastrzab,ORP Jastrzab,Bought,Sunk,1941-11-01,,1941-11-01,1942-05-02
+ss-kaszub,ORP Kaszub,Bought,Scrapped,1954-06-05,,1954-06-05,1963-12-01
+ss-kaszub,ORP Mazur,Bought,Scrapped,1954-10-01,,1954-10-01,1965-07-01
+ss-kaszub,ORP Krakowiak,Bought,Scrapped,1954-10-18,,1954-10-18,1965-07-01
+ss-kaszub,ORP Slazak,Bought,Scrapped,1954-10-18,,1954-10-18,1965-12-01
+ss-kaszub,ORP Kujawiak,Bought,Scrapped,1955-05-27,,1955-05-27,1966-12-01
+ss-kaszub,ORP Kurp,Bought,Scrapped,1955-05-27,,1955-05-27,1966-12-01
+ss-orzel-1962,ORP Orzel,Bought,Scrapped,1962-11-29,,1962-11-29,1983-12-01
+ss-orzel-1962,ORP Sokol,Bought,Scrapped,1964-01-01,,1964-01-01,1987-12-01
+ss-orzel-1962,ORP Kondor,Bought,Scrapped,1965-06-10,,1965-06-10,1988-09-01
+ss-orzel-1962,ORP Bielik,Bought,Scrapped,1965-07-01,,1965-07-01,1985-10-01
+ss-orzel-1986,ORP Orzel,Bought,,1986-04-29,,1986-04-29,
+ss-wilk-1987,ORP Wilk,Bought,Scrapped,1987-11-03,,1987-11-03,2003-10-01
+ss-wilk-1987,ORP Dzik,Bought,Scrapped,1988-12-07,,1988-12-07,2003-11-01
+ss-sokol-2002,ORP Sokol,Bought,Scrapped,2002-05-25,,2002-05-25,2018-06-01
+ss-sokol-2002,ORP Sep,Bought,,2002-08-05,,2002-08-05,
+ss-sokol-2002,ORP Bielik,Bought,,2003-10-24,,2003-10-24,
+ss-sokol-2002,ORP Kondor,Bought,Scrapped,2004-10-20,,2004-10-20,2017-12-01
+ss-challenger,Chieftain,Bought,,1996-04-01,,1996-04-01,
+ss-challenger,Challenger,Bought,Scrapped,1999-05-28,,1999-05-28,2015-03-01
+ss-challenger,Centurion,Bought,Scrapped,1999-05-28,,1999-05-28,2015-03-01
+ss-challenger,Conqueror,Bought,,1999-05-28,,1999-05-28,
+ss-swordsman,Swordsman,Bought,,2005-12-31,,2005-12-31,
+ss-swordsman,Archer,Bought,,2005-12-31,,2005-12-31,
+ss-invincible,Invincible,Planned,Scrapped,2014-01-01,2019-02-18,,
+ss-invincible,Impeccable,Planned,Scrapped,2014-06-01,,,
+ss-invincible,Illustrious,Planned,Scrapped,2018-01-12,,,
+ss-invincible,Inimitable,Planned,Scrapped,2018-01-12,,,
+ss-peral,Peral,Built,Scrapped,1887-01-01,1889-06-01,1890-06-01,1909-01-01
+ss-isaac-peral,Isaac Peral,Built,Scrapped,1917-01-01,,1917-01-01,1932-05-01
+ss-a1-narciso-monturiol,A1 Narciso Monturiol,Bought,Scrapped,1917-08-01,,1917-08-01,1934-09-01
+ss-a1-narciso-monturiol,A2 Cosme Garcia,Bought,Scrapped,1917-08-01,,1917-08-01,1931-12-01
+ss-a1-narciso-monturiol,A3,Bought,Scrapped,1917-08-01,,1917-08-01,1932-05-01
+ss-b1-spain,B1,Built,Scrapped,1917-02-01,1921-06-02,1922-02-01,1941-10-01
+ss-b1-spain,B2,Built,Scrapped,1917-08-01,1921-10-01,1922-06-01,1951-05-01
+ss-b1-spain,B3,Built,Scrapped,1920-01-01,1922-03-18,1922-08-01,1940-06-01
+ss-b1-spain,B4,Built,Scrapped,1920-05-01,1922-10-31,1923-05-01,1941-07-01
+ss-b1-spain,B5,Built,Sunk,1921-01-01,1925-01-04,1925-12-01,1936-10-12
+ss-b1-spain,B6,Built,Sunk,1921-09-01,1925-06-06,1926-01-01,1936-09-19
+ss-c1-spain,C1,Built,Scrapped,1923-07-01,1927-03-30,1928-07-01,1950-01-01
+ss-c1-spain,C2,Built,Scrapped,1923-09-01,1928-03-04,1928-07-01,1951-06-01
+ss-c1-spain,C3,Built,Sunk,1924-05-01,1929-02-20,1929-05-01,1936-12-12
+ss-c1-spain,C4,Built,Sunk,1924-05-01,1929-07-06,1929-09-01,1946-06-27
+ss-c1-spain,C5,Built,Sunk,1924-10-01,1929-10-28,1930-04-01,1936-12-30
+ss-c1-spain,C6,Built,Sunk,1925-02-01,1929-12-26,1930-09-01,1937-10-20
+ss-general-mola,General Mola,Bought,Scrapped,1937-04-01,,1937-04-01,1959-09-01
+ss-general-mola,General Sanjurjo,Bought,Scrapped,1937-04-01,,1937-04-01,1959-09-01
+ss-general-mola,General Mola II,Bought,Sold,1937-10-01,,1937-10-01,1938-01-01
+ss-general-mola,General Sanjurjo II,Bought,Sold,1937-10-01,,1937-10-01,1938-01-01
+ss-aguilar-tablada,Gonzalez Lopez,Bought,Sold,1937-10-01,,1937-10-01,1938-01-01
+ss-aguilar-tablada,Aguilar Tablada,Bought,Sold,1937-10-01,,1937-10-01,1938-01-01
+ss-d1-spain,D1,Built,Scrapped,1933-09-23,1944-05-11,1947-03-17,1965-02-01
+ss-d1-spain,D2,Built,Scrapped,1934-11-19,1944-12-21,1951-05-23,1971-04-01
+ss-d1-spain,D3,Built,Scrapped,1934-12-11,1952-02-20,1954-02-20,1971-02-01
+ss-g1-spain,G1,Cancelled,Scrapped,1953-05-18,,,1961-10-01
+ss-g1-spain,G7,Bought,Scrapped,1942-08-02,,1947-11-05,1970-05-01
+ss-almirante-garcia-de-los-reyes,Almirante Garcia de los Reyes,Bought,Scrapped,1959-10-24,,1959-10-24,1982-04-01
+ss-isaac-peral-1971,Isaac Peral,Bought,Scrapped,1971-07-01,,1971-07-01,1984-06-01
+ss-isaac-peral-1971,Narciso Monturiol,Bought,Scrapped,1972-10-01,,1972-10-01,1977-04-01
+ss-isaac-peral-1971,Cosme Garcia,Bought,Scrapped,1972-10-01,,1972-10-01,1982-09-01
+ss-isaac-peral-1971,Narciso Monturiol,Bought,Scrapped,1947-06-29,,1947-06-29,1984-12-01
+ssk-delfin-spain,Delfin,Built,Scrapped,1968-08-13,1972-03-25,1973-05-03,2003-07-01
+ssk-delfin-spain,Tonina,Built,Scrapped,1970-03-02,1972-10-03,1973-07-10,2005-09-01
+ssk-delfin-spain,Marsopa,Built,Scrapped,1971-03-19,1974-03-15,1975-04-12,2006-04-01
+ssk-delfin-spain,Narval,Built,Scrapped,1972-04-24,1974-12-14,1975-11-22,2003-04-01
+ss-galerna,Galerna,Built,,1977-09-05,1981-12-05,1983-01-22,
+ss-galerna,Siroco,Built,Scrapped,1978-11-27,1982-11-13,1983-12-05,2012-06-01
+ss-galerna,Mistral,Built,,1980-05-30,1983-11-14,1985-06-05,
+ss-galerna,Tramontana,Built,,1981-12-10,1984-11-30,1986-01-27,
+ss-isaac-peral-2007,Isaac Peral,Planned,,2007-12-13,,,
+ss-isaac-peral-2007,Narciso Monturiol,Planned,,2009-02-19,,,
+ss-isaac-peral-2007,Cosme Garcia,Planned,,2010-01-21,,,
+ss-isaac-peral-2007,Mateo Garcia de los Reyes,Planned,,2011-01-01,,,
+ss-hajen-1902,HSwMS Hajen,Built,Museum,1902-01-01,1904-07-16,1905-07-01,1922-08-01
+ss-hvalen,HSwMS Hvalen,Built,Scrapped,1907-01-01,1909-02-16,1909-07-01,1919-01-01
+ss-n-r2,HSwMS N:r2,Built,Scrapped,1907-01-01,1909-02-25,1909-05-01,1929-06-01
+ss-n-r2,HSwMS N:r3,Built,Scrapped,1907-03-01,1909-04-14,1909-06-01,1930-11-01
+ss-n-r2,HSwMS N:r4,Built,Scrapped,1907-09-01,1909-10-16,1909-12-01,1929-06-01
+ss-svardfisken,HSwMS Svardfisken,Built,Scrapped,1913-01-01,1914-08-30,1915-02-01,1936-01-01
+ss-svardfisken,HSwMS Tumlaren,Built,Scrapped,1913-03-01,1914-10-14,1915-04-01,1936-01-01
+ss-delfinen-sweden,HSwMS Delfinen,Built,Scrapped,1913-04-01,1914-12-01,1915-05-01,1930-10-01
+ss-laxen,HSwMS Laxen,Built,Scrapped,1913-03-01,1914-11-01,1915-04-01,1935-01-01
+ss-laxen,HSwMS Gaddan,Built,Scrapped,1913-05-01,1915-01-01,1915-06-01,1931-01-01
+ss-abborren,HSwMS Abborren,Built,Scrapped,1915-06-01,1916-05-25,1917-01-01,1937-06-01
+ss-abborren,HSwMS Braxen,Built,Scrapped,1915-06-01,1916-05-05,1917-01-01,1937-06-01
+ss-hajen,HSwMS Hajen,Built,Scrapped,1917-01-01,1917-11-08,1920-05-01,1943-03-01
+ss-hajen,HSwMS Salen,Built,Scrapped,1917-03-01,1918-01-31,1920-06-01,1942-07-01
+ss-hajen,HSwMS Valrossen,Built,Scrapped,1917-05-01,1918-04-16,1920-08-01,1943-03-01
+ss-bavern,HSwMS Bavern,Built,Scrapped,1918-09-01,1921-03-05,1921-06-01,1944-10-01
+ss-bavern,HSwMS Illern,Built,Sunk,1918-11-01,1921-06-30,1921-10-01,1943-08-12
+ss-bavern,HSwMS Uttern,Built,Scrapped,1918-12-01,1921-07-25,1921-12-01,1944-10-01
+ss-valen,HSwMS Valen,Built,Scrapped,1923-12-01,1925-05-05,1925-09-01,1944-10-01
+ss-draken,HSwMS Draken,Built,Scrapped,1925-08-01,1926-10-21,1929-02-01,1948-10-01
+ss-draken,HSwMS Gripen,Built,Scrapped,1926-10-01,1928-08-21,1929-03-01,1947-06-01
+ss-draken,HSwMS Ulven,Built,Sunk,1928-10-01,1930-03-06,1931-02-01,1943-04-16
+ss-delfinen-sweden-1933,HSwMS Delfinen,Built,Scrapped,1933-07-01,1934-12-20,1936-04-01,1953-02-01
+ss-delfinen-sweden-1933,HSwMS Nordkaparen,Built,Scrapped,1933-09-01,1935-02-09,1936-10-01,1953-02-01
+ss-delfinen-sweden-1933,HSwMS Springaren,Built,Scrapped,1933-12-01,1935-04-27,1937-08-01,1953-02-01
+ss-sjolejonet,HSwMS Sjolejonet,Built,Scrapped,1935-09-01,1936-07-25,1938-09-01,1959-05-01
+ss-sjolejonet,HSwMS Sjobjornen,Built,Scrapped,1936-03-01,1937-01-15,1939-03-01,1964-11-01
+ss-sjolejonet,HSwMS Sjohunden,Built,Scrapped,1937-10-01,1938-11-26,1939-12-01,1960-07-01
+ss-sjolejonet,HSwMS Svardfisken,Built,Scrapped,1939-11-01,1940-05-18,1941-04-01,1959-05-01
+ss-sjolejonet,HSwMS Tumlaren,Built,Scrapped,1940-03-01,1940-09-08,1941-07-01,1964-01-01
+ss-sjolejonet,HSwMS Dykaren,Built,Scrapped,1940-05-01,1940-12-17,1941-10-01,1959-12-01
+ss-sjolejonet,HSwMS Sjohasten,Built,Scrapped,1940-04-01,1940-10-19,1941-07-01,1963-04-01
+ss-sjolejonet,HSwMS Sjoormen,Built,Scrapped,1940-10-01,1941-04-05,1941-12-01,1964-01-01
+ss-sjolejonet,HSwMS Sjoborren,Built,Scrapped,1941-01-01,1941-06-14,1942-05-01,1959-06-01
+ss-u1-sweden,HSwMS U1,Built,Scrapped,1940-11-01,1941-06-14,1942-05-01,1960-07-01
+ss-u1-sweden,HSwMS U2,Built,Scrapped,1940-12-01,1942-05-16,1943-03-01,1961-12-01
+ss-u1-sweden,HSwMS U3,Built,Scrapped,1940-12-01,1942-06-11,1943-11-01,1964-11-01
+ss-u1-sweden,HSwMS U4,Built,Scrapped,1943-01-01,1943-06-05,1944-04-01,1970-07-01
+ss-u1-sweden,HSwMS U5,Built,Scrapped,1943-02-01,1943-07-08,1944-06-01,1976-07-01
+ss-u1-sweden,HSwMS U6,Built,Scrapped,1943-03-01,1943-08-18,1944-07-01,1974-07-01
+ss-u1-sweden,HSwMS U7,Built,Scrapped,1943-06-01,1943-11-25,1944-09-01,1973-07-01
+ss-u1-sweden,HSwMS U8,Built,Scrapped,1943-10-01,1944-04-25,1944-10-01,1976-07-01
+ss-u1-sweden,HSwMS U9,Built,Scrapped,1943-11-01,1944-05-23,1944-11-01,1976-07-01
+ss-neptun,HSwMS Neptun,Built,Scrapped,1942-03-01,1942-11-17,1943-08-01,1966-04-01
+ss-neptun,HSwMS Najad,Built,Scrapped,1942-02-01,1942-09-26,1943-07-01,1966-04-01
+ss-neptun,HSwMS Nacken,Built,Scrapped,1942-02-01,1942-09-26,1943-06-01,1966-04-01
+ss-hajen-1953,HSwMS Hajen,Built,Scrapped,1953-01-01,1954-12-11,1957-02-28,1980-07-01
+ss-hajen-1953,HSwMS Salen,Built,Scrapped,1953-12-01,1955-10-03,1957-04-08,1980-07-01
+ss-hajen-1953,HSwMS Valen,Built,Scrapped,1953-06-01,1955-04-21,1957-03-04,1980-07-01
+ss-hajen-1953,HSwMS Bavern,Built,Scrapped,1955-06-01,1958-02-03,1959-05-29,1980-07-01
+ss-hajen-1953,HSwMS Illern,Built,Scrapped,1955-01-01,1957-11-14,1959-08-31,1980-07-01
+ss-hajen-1953,HSwMS Uttern,Built,Scrapped,1955-12-01,1958-11-14,1960-03-15,1980-07-01
+ss-draken-1957,HSwMS Draken,Built,Scrapped,1957-12-01,1960-04-01,1962-04-04,1981-07-01
+ss-draken-1957,HSwMS Gripen,Built,Scrapped,1958-01-01,1960-05-31,1962-04-28,1981-07-01
+ss-draken-1957,HSwMS Vargen,Built,Scrapped,1958-01-01,1960-05-20,1961-11-15,1989-01-01
+ss-draken-1957,HSwMS Delfinen,Built,Scrapped,1958-09-01,1961-03-07,1962-06-07,1989-01-01
+ss-draken-1957,HSwMS Nordkaperen,Built,Scrapped,1958-09-01,1961-03-08,1962-04-04,1988-01-01
+ss-draken-1957,HSwMS Springaren,Built,Scrapped,1960-03-01,1961-08-31,1962-11-07,1987-10-01
+ss-sjoormen,HSwMS Sjoormen,Built,Sold,1965-05-01,1967-01-25,1968-07-31,1997-07-01
+ss-sjoormen,HSwMS Sjolejonet,Built,Sold,1965-10-01,1967-06-29,1968-12-16,1997-07-01
+ss-sjoormen,HSwMS Sjobjornen,Built,Sold,1966-04-01,1968-01-09,1969-02-28,1997-07-01
+ss-sjoormen,HSwMS Sjohunden,Built,Sold,1966-07-01,1968-03-21,1969-06-25,1997-02-01
+ss-sjoormen,HSwMS Sjohasten,Built,Sold,1966-12-01,1968-08-06,1969-09-15,1997-07-01
+ss-nacken,HSwMS Nacken,Built,Sold,1972-11-01,1978-04-17,1980-04-25,2001-08-01
+ss-nacken,HSwMS Najad,Built,Scrapped,1973-09-01,1978-12-06,1980-12-05,1999-01-01
+ss-nacken,HSwMS Neptun,Built,Scrapped,1974-03-01,1979-08-13,1981-06-26,1998-01-01
+ss-vastergotland,HSwMS Vastergotland,Built,Sold,1983-01-10,1986-09-17,1987-11-27,2005-12-01
+ss-vastergotland,HSwMS Halsingland,Built,Sold,1984-01-01,1987-08-31,1988-10-20,2005-12-01
+ss-vastergotland,HSwMS Sodermanland,Built,,1985-02-02,1988-04-12,1989-04-21,
+ss-vastergotland,HSwMS Ostergotland,Built,,1985-10-15,1988-12-09,1990-01-10,
+ss-gotland,HSwMS Gotland,Built,,1992-11-27,1995-02-02,1996-09-02,
+ss-gotland,HSwMS Uppland,Built,,1994-01-14,1996-02-09,1997-05-01,
+ss-gotland,HSwMS Halland,Built,,1994-10-21,1996-09-27,1997-10-01,
+ss-skane,HSwMS Skane,Planned,,2015-09-04,,,
+ss-mustecip-onbasi,TCG Mustecip Onbasi,Captured,Auxiliary,1915-10-30,,1915-11-10,1915-12-01
+ss-birinci-inonu,TCG Birinci Inonu,Built,Scrapped,1926-01-01,1927-01-29,1928-06-01,1948-01-01
+ss-birinci-inonu,TCG Ikinci Inonu,Built,Scrapped,1926-01-01,1927-03-12,1928-06-01,1948-01-01
+ss-dumlupinar,TCG Dumlupinar,Built,Scrapped,1930-02-01,1931-03-04,1931-11-01,1949-01-01
+ss-sakarya,TCG Sakarya,Built,Scrapped,1930-01-01,1931-02-05,1931-10-01,1949-01-01
+ss-gur,TCG Gur,Built,Scrapped,1929-03-01,1930-10-22,1934-12-01,1947-01-01
+ss-saldiray,TCG Saldiray,Built,Scrapped,1937-02-01,1938-07-23,1939-06-01,1958-01-01
+ss-saldiray,TCG Atilay,Built,Sunk,1937-08-01,1939-05-19,1940-04-01,1942-07-14
+ss-saldiray,TCG Yildiray,Built,Scrapped,1937-09-01,1939-08-28,1946-01-01,1957-01-01
+ss-bitiray,TCG Batiray,Built,Sold,1937-02-01,1938-09-28,,1939-09-01
+ss-oruc-reis,TCG Oruc Reis,Built,Scrapped,1939-05-01,1940-07-19,1941-12-01,1958-01-01
+ss-oruc-reis,TCG Murat Reis,Built,Scrapped,1939-05-01,1940-07-20,1942-01-01,1958-01-01
+ss-oruc-reis,TCG Burak Reis,Built,Scrapped,1939-05-01,1940-10-19,1942-03-01,1958-01-01
+ss-oruc-reis,TCG Uluc Ali Reis,Built,Sold,1939-10-01,1940-11-01,,1942-04-01
+ss-preveze-1954,TCG Preveze,Bought,Scrapped,1954-08-07,,1954-08-07,1972-05-01
+ss-preveze-1954,TCG Cerbe,Bought,Scrapped,1954-08-07,,1954-08-07,1972-05-01
+ss-birinci-inonu-1948,TCG Birinci Inonu,Bought,Scrapped,1948-05-23,,1948-05-23,1972-08-01
+ss-birinci-inonu-1948,TCG Ikinci Inonu,Bought,Scrapped,1948-05-23,,1948-05-23,1973-11-01
+ss-birinci-inonu-1948,TCG Sakarya,Bought,Scrapped,1948-05-23,,1948-05-23,1975-12-01
+ss-birinci-inonu-1948,TCG Canakkale,Bought,Scrapped,1950-11-16,,1950-11-16,1972-05-01
+ss-birinci-inonu-1948,TCG Gur,Bought,Scrapped,1948-05-23,,1948-05-23,1975-12-01
+ss-birinci-inonu-1948,TCG Dumlupinar,Bought,Sunk,1950-11-16,,1950-11-16,1953-04-04
+ss-turgut-reis,TCG Turgut Reis,Bought,Scrapped,1958-10-17,,1958-10-17,1983-04-01
+ss-turgut-reis,TCG Piri Reis,Bought,Scrapped,1960-04-20,,1960-04-20,1973-11-01
+ss-turgut-reis,TCG Hizir Reis,Bought,Scrapped,1960-04-20,,1960-04-20,1980-10-01
+ss-dumlupinar-1972,TCG Dumlupinar,Bought,Scrapped,1972-08-24,,1972-08-24,1987-01-01
+ss-burak-reis,TCG Burak Reis,Bought,Scrapped,1971-08-08,,1971-08-08,1996-07-01
+ss-burak-reis,TCG Murat Reis,Bought,Scrapped,1971-12-17,,1971-12-17,2001-08-01
+ss-burak-reis,TCG Oruc Reis,Bought,Scrapped,1972-05-03,,1972-05-03,1987-01-01
+ss-burak-reis,TCG Preveze,Bought,Scrapped,1972-10-24,,1972-10-24,1987-01-01
+ss-burak-reis,TCG Birinci Inonu,Bought,Scrapped,1972-08-24,,1972-08-24,1998-08-01
+ss-ikinci-inonu,TCG Ikinci Inonu,Bought,Scrapped,1974-02-12,,1974-02-12,1996-10-01
+ss-ikinci-inonu,TCG Canakkale,Bought,Scrapped,1974-02-12,,1974-02-12,1998-01-01
+ss-uluc-ali-reis,TCG Uluc Ali Reis,Bought,Scrapped,1972-05-03,,1972-05-03,2000-08-01
+ss-uluc-ali-reis,TCG Cerbe,Bought,Scrapped,1973-05-27,,1973-05-27,1999-07-01
+ss-atilay,TCG Atilay,Built,Scrapped,1972-08-02,1974-10-23,1976-03-12,2016-11-01
+ss-atilay,TCG Saldiray,Built,Scrapped,1973-01-02,1975-02-14,1977-01-15,2014-11-01
+ss-atilay,TCG Batiray,Built,,1975-06-11,1977-10-24,1978-11-07,
+ss-atilay,TCG Yildiray,Built,,1976-05-01,1979-07-20,1981-07-20,
+ss-atilay,TCG Doganay,Built,,1980-03-21,1983-11-16,1984-11-16,
+ss-atilay,TCG Dolunay,Built,,1983-11-16,1988-07-22,1989-07-29,
+ss-piri-reis-1980,TCG Hizir Reis,Bought,Scrapped,1983-09-30,,1983-09-30,2004-01-01
+ss-piri-reis-1980,TCG Piri Reis,Bought,Scrapped,1980-04-21,,1980-04-21,2004-08-01
+ss-preveze,TCG Preveze,Built,,1989-07-27,1993-10-22,1994-07-28,
+ss-preveze,TCG Sakarya,Built,,1990-04-04,1994-07-28,1995-09-23,
+ss-preveze,TCG 18 Mart,Built,,1994-07-28,1997-08-25,1998-06-24,
+ss-preveze,TCG Anafartalar,Built,,1995-08-01,1998-09-01,1999-07-22,
+ss-preveze,TCG Gur,Built,,1998-07-24,2002-05-01,2003-07-24,
+ss-preveze,TCG Canakkale,Built,,1999-07-22,2004-06-23,2005-07-26,
+ss-preveze,TCG Burakreis,Built,,2001-07-25,2005-09-05,2006-02-15,
+ss-preveze,TCG I. Inonu,Built,,2002-07-25,2006-05-01,2007-07-22,
+ss-piri-reis,TCG Piri Reis,Planned,,2015-10-01,2019-12-22,,
+ss-piri-reis,TCG Hizir Reis,Planned,,2017-01-01,,,
+ss-piri-reis,TCG Murat Reis,Planned,,2018-02-25,,,
+ss-piri-reis,TCG Aydin Reis,Planned,,2019-01-01,,,
+ss-piri-reis,TCG Seydi Ali Reis,Planned,,2020-01-01,,,
