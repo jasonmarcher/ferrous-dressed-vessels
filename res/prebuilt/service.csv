@@ -6160,7 +6160,8 @@ dd-barfleur,HMS Lagos,britain,Active,Scrapped,1945-11-01,1967-06-01
 dd-barfleur,HMS St. James,britain,Active,Scrapped,1946-07-01,1961-03-01
 dd-barfleur,HMS St. Kitts,britain,Active,Scrapped,1946-04-01,1962-02-01
 dd-barfleur,HMS Saintes,britain,Active,Scrapped,1946-09-01,1972-09-01
-dd-barfleur,HMS Sluys,britain,Active,Sold,1946-09-01,1967-01-01
+dd-barfleur,HMS Sluys,britain,Active,Reserve,1946-09-01,1953-01-01
+dd-barfleur,HMS Sluys,britain,Reserve,Sold,1953-01-01,1965-01-26
 dd-barfleur,HMS Solebay,britain,Active,Scrapped,1945-10-01,1967-08-01
 dd-barfleur,HMS Trafalgar,britain,Active,Scrapped,1945-07-01,1970-07-01
 dd-barfleur,HMS Vigo,britain,Active,Scrapped,1946-12-01,1964-12-01
@@ -6638,10 +6639,10 @@ ddg-harry-w-hill,USS Ingersoll,usa,Active,Scrapped,1980-04-12,1998-07-01
 ddg-harry-w-hill,USS Fife,usa,Active,Scrapped,1980-05-31,2004-04-01
 ddg-harry-w-hill,USS Fletcher,usa,Active,Scrapped,1980-07-12,2004-10-01
 ddg-harry-w-hill,USS Hayler,usa,Active,Scrapped,1983-03-05,2004-04-01
-ddg-kidd,USS Kouroush),usa,Active,Sold,1981-06-27,1998-03-01
-ddg-kidd,USS Daryush),usa,Active,Sold,1981-08-29,1998-03-01
-ddg-kidd,USS Nader),usa,Active,Sold,1981-10-24,1998-12-01
-ddg-kidd,USS Anoushirvan),usa,Active,Sold,1982-03-13,1999-09-01
+ddg-kidd,USS Kidd,usa,Active,Sold,1981-06-27,1998-03-01
+ddg-kidd,USS Callaghan,usa,Active,Sold,1981-08-29,1998-03-01
+ddg-kidd,USS Scott,usa,Active,Sold,1981-10-24,1998-12-01
+ddg-kidd,USS Chandler,usa,Active,Sold,1982-03-13,1999-09-01
 ddg-arleigh-burke-i,USS Arleigh Burke,usa,Active,,1991-07-04,
 ddg-arleigh-burke-i,USS Barry,usa,Active,,1992-12-12,
 ddg-arleigh-burke-i,USS John Paul Jones,usa,Active,,1993-12-18,
@@ -12353,6 +12354,7 @@ ss-tang,USS Trigger,usa,Active,Sold,1952-03-31,1973-07-02
 ss-tang,USS Wahoo,usa,Active,Reserve,1952-05-30,1980-06-27
 ss-tang,USS Wahoo,usa,Reserve,Scrapped,1980-06-27,1983-07-01
 ss-tang,USS Trout,usa,Active,Sold,1952-06-27,1978-12-19
+ss-tang,USS Trout,usa,Reserve,Auxiliary,1979-02-01,1994-01-01
 ss-gudgeon,USS Gudgeon,usa,Active,Sold,1952-11-21,1983-09-30
 ss-gudgeon,USS Harder,usa,Active,Reserve,1952-08-19,1974-01-31
 ss-gudgeon,USS Harder,usa,Reserve,Sold,1974-01-31,1974-08-18
@@ -17547,7 +17549,7 @@ ss-s1-it-1943,S6,italy,Active,Captured,1943-08-01,1943-09-08
 ss-s1-it-1943,S7,italy,Active,Captured,1943-08-01,1943-09-08
 ss-s1-it-1943,S9,italy,Active,Captured,1943-08-01,1943-09-08
 ss-s8-it,S8,italy,Active,Captured,1943-08-01,1943-09-08
-ss-cm1,CM1,italy,Active,Scrapped,1945-01-01,1948-02-01
+ss-cm-italy,CM1,italy,Active,Scrapped,1945-01-01,1948-02-01
 ss-leonardo-da-vinci,Leonardo da Vinci,italy,Active,Scrapped,1955-01-31,1973-05-01
 ss-leonardo-da-vinci,Enrico Tazzoli,italy,Active,Scrapped,1954-12-13,1973-02-01
 ss-evangelista-torricelli,Alfredo Cappellini,italy,Active,Scrapped,1966-03-05,1977-11-01
@@ -18400,3 +18402,239 @@ ss-preveze,TCG Gur,turkey,Active,,2003-07-24,
 ss-preveze,TCG Canakkale,turkey,Active,,2005-07-26,
 ss-preveze,TCG Burakreis,turkey,Active,,2006-02-15,
 ss-preveze,TCG I. Inonu,turkey,Active,,2007-07-22,
+ss-no510,No510,albania,Active,Renamed,1961-05-01,1990-01-01
+ss-no510,No331,albania,Active,Scrapped,1990-01-01,1976-01-01
+ss-no510,No512,albania,Active,Renamed,1961-05-01,1990-01-01
+ss-no510,No523,albania,Active,Renamed,1990-01-01,1993-01-01
+ss-no510,No442,albania,Active,Scrapped,1993-01-01,1991-01-01
+ss-no510,No514,albania,Active,Renamed,1961-05-01,1990-01-01
+ss-no510,No552,albania,Active,Renamed,1990-01-01,1993-01-01
+ss-no510,No422,albania,Active,Renamed,1993-01-01,1995-01-01
+ss-no510,No022,albania,Active,Scrapped,1995-01-01,1995-06-01
+ss-no510,No516,albania,Active,Renamed,1961-05-01,1993-01-01
+ss-no510,No423,albania,Active,Scrapped,1993-01-01,1995-01-01
+ss-santa-fe-1928,ARA Santa Fe,argentina,Active,Scrapped,1933-01-01,1956-09-01
+ss-santa-fe-1928,ARA Santiago del Estero,argentina,Active,Scrapped,1933-01-01,1959-04-01
+ss-santa-fe-1928,ARA Salta,argentina,Active,Scrapped,1933-01-01,1960-08-01
+ss-santiago-del-estero-1960,ARA Santa Fe,argentina,Active,Scrapped,1960-08-21,1971-01-01
+ss-santiago-del-estero-1960,ARA Santiago del Estero,argentina,Active,Scrapped,1960-08-21,1972-01-01
+ss-santa-fe-1971,ARA Santa Fe,argentina,Active,Sunk,1971-07-05,1982-04-25
+ss-santiago-del-estero-1971,ARA Santiago del Estero,argentina,Active,Scrapped,1971-07-01,1983-01-01
+ss-salta,ARA Salta,argentina,Active,,1974-03-07,
+ss-salta,ARA San Luis,argentina,Active,Scrapped,1974-05-24,1997-04-01
+ss-santa-cruz,ARA Santa Cruz,argentina,Active,,1984-12-14,
+ss-santa-cruz,ARA San Juan,argentina,Active,Sunk,1985-11-18,2017-11-15
+ffg-sabha,Sabha,bahrain,Active,,1996-09-13,
+ffs-al-manama,Al Manama,bahrain,Active,,1987-12-14,
+ffs-al-manama,Al Muharraq,bahrain,Active,,1988-02-03,
+ss-nabajatra,Nabajatra,bangladesh,Active,,2016-11-14,
+ss-nabajatra,Joyjatra,bangladesh,Active,,2016-11-14,
+fa-umar-farooq,Umar Farooq,bangladesh,Active,Scrapped,1976-12-10,2015-12-01
+fa-ali-haider,Abu Bakr,bangladesh,Active,Scrapped,1982-03-12,2014-01-01
+fa-ali-haider,Ali Haider,bangladesh,Active,Scrapped,1978-07-06,2014-01-01
+ffg-osman,Osman,bangladesh,Active,,1989-09-26,
+ffg-bangabandhu,Bangabandhu,bangladesh,Active,Renamed,2001-06-20,2007-07-01
+ffg-bangabandhu,Khalid Bin Walid,bangladesh,Active,Renamed,2007-07-01,2009-01-01
+ffg-bangabandhu,Bangabandhu,bangladesh,Active,,2009-01-01,
+ffg-abu-bakr,Abu Bakr,bangladesh,Active,,2014-03-02,
+ffg-abu-bakr,Ali Haider,bangladesh,Active,,2014-03-02,
+ffg-umar-farooq,Umar Farooq,bangladesh,Active,,2019-12-18,
+ffg-umar-farooq,Abu Ubaidah,bangladesh,Active,,2019-12-18,
+fsg-durjoy,Durjoy,bangladesh,Active,,2013-08-30,
+fsg-durjoy,Nirmul,bangladesh,Active,,2013-08-30,
+fsg-durjoy,Durgam,bangladesh,Active,,2017-11-08,
+fsg-durjoy,Nishan,bangladesh,Active,,2017-11-08,
+fsg-shadinota,Shadinota,bangladesh,Active,,2016-03-19,
+fsg-shadinota,Prottoy,bangladesh,Active,,2016-03-19,
+fsg-shadinota,Shongram,bangladesh,Active,,2019-03-28,
+fsg-shadinota,Prottasha,bangladesh,Active,,2019-03-28,
+tg-nadezhda,Nadezhda,bulgaria,Active,,1898-10-01,1918-12-01
+dd-zheleznyakov,Zheleznyakov,bulgaria,Active,Sold,1947-12-18,1949-09-01
+dd-georgi-dimitrov,Georgi Dimitrov,bulgaria,Active,Training,1950-04-18,1960-09-01
+dd-georgi-dimitrov,Georgi Dimitrov,bulgaria,Training,Scrapped,1960-09-01,1963-01-01
+ss-podvodnik,Podvodnik No18,bulgaria,Active,Captured,1916-05-01,1919-02-01
+ss-m-1-bulgaria,M-1,bulgaria,Active,Sold,1954-08-18,1958-11-01
+ss-m-1-bulgaria,M-2,bulgaria,Active,Sold,1954-08-18,1958-11-01
+ss-m-1-bulgaria,M-3,bulgaria,Active,Scrapped,1954-08-18,1959-01-01
+ss-pobeda,S-11 Slava,bulgaria,Active,Scrapped,1958-09-12,1971-01-01
+ss-pobeda,S-12 Pobeda,bulgaria,Active,Scrapped,1958-09-12,1972-08-01
+ss-slava,Leninski Komsomol,bulgaria,Active,Renamed,1972-05-25,1983-01-01
+ss-slava,Pobeda,bulgaria,Active,Scrapped,1983-01-01,1990-09-01
+ss-slava,Dimitrovski Komsomol,bulgaria,Active,Renamed,1972-12-05,1983-01-01
+ss-slava,Viktoriya,bulgaria,Active,Scrapped,1983-01-01,1992-01-01
+ss-slava,Nadezhda,bulgaria,Active,Scrapped,1985-12-28,2008-06-01
+ss-slava,Slava,bulgaria,Active,Scrapped,1983-01-20,2011-11-01
+de-druzki,SKR-67,bulgaria,Active,Renamed,1957-04-12,1985-01-01
+de-druzki,Druzki,bulgaria,Active,Scrapped,1985-01-01,1990-01-01
+de-druzki,SKR-53,bulgaria,Active,Renamed,1958-10-15,1985-01-01
+de-druzki,Smeli,bulgaria,Active,Scrapped,1985-01-01,1989-01-01
+de-druzki,Bodri,bulgaria,Active,Scrapped,1985-11-01,1993-01-01
+fsg-smeli,Smeli,bulgaria,Active,,1990-06-01,
+ffg-druzki,Druzki,bulgaria,Active,,2005-10-21,
+ffg-druzki,Verni,bulgaria,Active,,2008-08-22,
+ffg-druzki,Gordi,bulgaria,Active,,2009-02-09,
+tg-almirante-lezo,Almirante Lezo,colombia,Active,Renamed,1902-01-01,1904-01-01
+tg-almirante-lezo,Cartagena,colombia,Active,Scrapped,1904-01-01,1925-01-01
+dd-antioquia,Antioquia,colombia,Active,Scrapped,1934-02-01,1961-01-01
+dd-antioquia,Caldas,colombia,Active,Scrapped,1934-04-01,1961-01-01
+dd-veinte-de-julio,Veinte de Julio,colombia,Active,Scrapped,1958-06-15,1984-01-01
+dd-veinte-de-julio,Siete de Agosto,colombia,Active,Scrapped,1958-10-31,1986-01-01
+dd-antioquia-1960,Antioquia,colombia,Active,Scrapped,1960-12-01,1973-12-01
+dd-caldas,Caldas,colombia,Active,Scrapped,1972-07-01,1977-01-01
+dd-caldas,Santander,colombia,Active,Scrapped,1973-10-30,1986-01-01
+ss-pijao,Pijao,colombia,Active,,1975-04-18,
+ss-pijao,Tayrona,colombia,Active,,1975-07-16,
+ss-intrepido,Intrepido,colombia,Active,,2012-08-28,
+ss-intrepido,Indomable,colombia,Active,,2012-08-28,
+pf-almirante-padilla-1947,Almirante Padilla,colombia,Active,Scrapped,1947-03-01,1965-01-01
+pf-almirante-padilla-1947,Almirante Tono,colombia,Active,Scrapped,1953-02-01,1962-01-01
+pf-almirante-padilla-1947,Almirante Brion,colombia,Active,Scrapped,1953-06-01,1968-01-01
+apd-almirante-padilla-1965,Almirante Padilla,colombia,Active,Scrapped,1965-08-14,1973-01-01
+apd-almirante-padilla-1965,Almirante Tono,colombia,Active,Scrapped,1968-09-06,1977-01-01
+apd-almirante-padilla-1965,Almirante Brion,colombia,Active,Scrapped,1968-12-08,1974-01-01
+apd-almirante-padilla-1965,Cordoba,colombia,Active,Museum,1969-11-24,1980-01-01
+ff-boyaca,Boyaca,colombia,Active,Scrapped,1972-07-08,1994-01-01
+fs-narino,Narino,colombia,Active,,2013-01-01,
+tg-el-bashir,El Bashir,morocco,Active,Scrapped,1892-07-01,1902-01-01
+dd-el-fateh,El Qaher,egypt,Active,Sunk,1956-07-01,1970-05-16
+dd-el-fateh,El Fateh,egypt,Active,Scrapped,1956-07-01,2006-01-01
+dd-el-zaffer,El Nasser,egypt,Active,Sold,1956-06-01,1968-07-01
+dd-el-zaffer,El Zaffer,egypt,Active,Scrapped,1956-06-01,1985-01-01
+dd-el-zaffer,Suez,egypt,Active,Scrapped,1962-01-01,1985-01-01
+dd-el-zaffer,Damiet,egypt,Active,Sold,1962-01-01,1968-07-01
+dd-el-nasser,Damiet,egypt,Active,Scrapped,1968-06-01,1985-01-01
+dd-el-nasser,El Nasser,egypt,Active,Scrapped,1968-06-01,1985-01-01
+ss-m-271,M-271,egypt,Active,Scrapped,1957-06-01,1971-01-01
+ss-s1-egypt,S1,egypt,Active,Sold,1957-06-01,1966-08-01
+ss-s1-egypt,S2,egypt,Active,Sold,1957-06-01,1968-07-01
+ss-s1-egypt,S3,egypt,Active,Scrapped,1958-04-01,1978-01-01
+ss-s1-egypt,S4,egypt,Active,Scrapped,1958-04-01,1982-01-01
+ss-s1-egypt,S5,egypt,Active,Scrapped,1958-04-01,1967-08-01
+ss-s1-egypt,S6,egypt,Active,Scrapped,1962-01-01,1982-01-01
+ss-s1-egypt,S7,egypt,Active,Scrapped,1965-12-01,1985-01-01
+ss-s1-egypt,S8,egypt,Active,Scrapped,1965-12-01,1988-01-01
+ss-s1-egypt,415,egypt,Active,Scrapped,1972-02-01,1995-01-01
+ss-s1-egypt,418,egypt,Active,Scrapped,1971-12-01,1995-01-01
+ss-711,711,egypt,Active,Renamed,1966-10-01,1986-01-01
+ss-711,831,egypt,Active,Scrapped,1986-01-01,1989-01-01
+ss-711,342,egypt,Active,Renamed,1966-10-01,1986-01-01
+ss-711,834,egypt,Active,Scrapped,1986-01-01,1989-01-01
+ss-711,334,egypt,Active,Renamed,1966-07-01,1986-01-01
+ss-711,837,egypt,Active,Scrapped,1986-01-01,1996-01-01
+ss-711,335,egypt,Active,Renamed,1966-10-01,1986-01-01
+ss-711,840,egypt,Active,Scrapped,1986-01-01,1996-01-01
+ss-711,333,egypt,Active,Renamed,1967-01-01,1986-01-01
+ss-711,843,egypt,Active,Scrapped,1986-01-01,1996-01-01
+ss-711,332,egypt,Active,Renamed,1967-10-01,1986-01-01
+ss-711,846,egypt,Active,Scrapped,1986-01-01,1996-01-01
+ss-849,849,egypt,Active,,1983-03-28,
+ss-849,852,egypt,Active,,1983-03-28,
+ss-849,855,egypt,Active,,1984-01-03,
+ss-849,858,egypt,Active,,1984-01-03,
+ss-s41,S41,egypt,Active,,2016-12-12,
+ss-s41,S42,egypt,Active,,2017-08-08,
+s-el-malek-farouq,El Malek Farouq,egypt,Active,Renamed,1949-11-01,1956-01-01
+s-el-malek-farouq,Tariq,egypt,Active,Auxiliary,1956-01-01,1985-01-01
+pf-fashid,Rashid,egypt,Active,Scrapped,1949-12-01,1994-01-01
+pf-fashid,Aboukir,egypt,Active,Sunk,1950-04-01,1956-11-01
+pf-fashid,Damiat,egypt,Active,Sunk,1950-05-01,1956-11-01
+ffg-el-najim-al-zafir,El Najim Al Zafir,egypt,Active,,1984-10-27,
+ffg-el-najim-al-zafir,El Naser,egypt,Active,,1985-04-16,
+ffg-damiyat,Damyat,egypt,Active,,1994-07-28,
+ffg-damiyat,Rasheed,egypt,Active,,1994-07-28,
+ffg-sharm-el-sheikh,Sharm El Sheikh,egypt,Active,,1996-09-18,
+ffg-sharm-el-sheikh,Toushka,egypt,Active,,1997-03-01,
+ffg-sharm-el-sheikh,Mubarak,egypt,Active,Renamed,1998-03-31,2011-01-01
+ffg-sharm-el-sheikh,Eskendria,egypt,Active,,2011-01-01,
+ffg-sharm-el-sheikh,Taba,egypt,Active,,1998-09-30,
+ffg-tahya-misr,Tahya Misr,egypt,Active,,2015-06-23,
+fsg-el-fateh-2015,El Fateh,egypt,Active,,2017-09-22,
+fs-as-sudan,As Sudan,egypt,Active,Scrapped,1949-10-01,1975-01-01
+fsg-el-suez,El Suez,egypt,Active,,1984-05-21,
+fsg-el-suez,Aboukir,egypt,Active,,1984-10-27,
+fsg-suleiman-ezzat,Suleiman Ezzat,egypt,Active,,2013-11-19,
+fsg-suleiman-ezzat,Fuad Zekry,egypt,Active,,2013-12-06,
+fsg-suleiman-ezzat,Ali Gad,egypt,Active,,2015-01-01,
+fsg-suleiman-ezzat,Mahmoud Fahmy,egypt,Active,,2015-01-01,
+fs-shahab-misr,Shahab Misr,egypt,Active,,2017-09-22,
+de-50-1,50/1,east_germany,Active,Renamed,1956-07-14,1961-01-01
+de-50-1,Ernst Thalmann,east_germany,Active,Scrapped,1961-01-01,1977-08-01
+de-50-1,50/2,east_germany,Active,Renamed,1957-01-14,1961-01-01
+de-50-1,Karl Marx,east_germany,Active,Scrapped,1961-01-01,1976-08-01
+de-50-3,50/3,east_germany,Active,Renamed,1959-12-31,1961-01-01
+de-50-3,Karl Liebknecht,east_germany,Active,Scrapped,1961-01-01,1968-10-01
+de-50-3,50/4,east_germany,Active,Renamed,1959-12-31,1961-01-01
+de-50-3,Friedrich Engels,east_germany,Active,Scrapped,1961-01-01,1969-10-01
+fsg-rostock,Rostock,east_germany,Active,Captured,1978-07-25,1990-10-01
+fsg-rostock,Berlin,east_germany,Active,Scrapped,1979-05-10,1990-10-01
+fsg-rostock,Halle,east_germany,Active,Captured,1986-01-28,1990-10-01
+fsg-parchim,Wismar,east_germany,Active,Captured,1981-07-09,1990-10-01
+fsg-parchim,Parchim,east_germany,Active,Sold,1981-04-09,1990-10-01
+fsg-parchim,Perleberg,east_germany,Active,Sold,1981-09-19,1990-10-01
+fsg-parchim,Butzow,east_germany,Active,Sold,1981-12-30,1990-10-01
+fsg-parchim,Lubz,east_germany,Active,Captured,1982-02-12,1990-10-01
+fsg-parchim,Bad Doberan,east_germany,Active,Sold,1982-06-30,1990-10-01
+fsg-parchim,Gustrow,east_germany,Active,Sold,1982-11-10,1990-10-01
+fsg-parchim,Waren,east_germany,Active,Sold,1982-11-23,1990-10-01
+fsg-parchim,Prenzlau,east_germany,Active,Sold,1983-05-11,1990-10-01
+fsg-parchim,Ludwigslust,east_germany,Active,Sold,1983-07-04,1990-10-01
+fsg-parchim,Ribnitz-Damgarten,east_germany,Active,Sold,1983-10-29,1990-10-01
+fsg-parchim,Teterow,east_germany,Active,Captured,1984-01-27,1990-10-01
+fsg-parchim,Gadebusch,east_germany,Active,Captured,1984-08-31,1990-10-01
+fsg-parchim,Grevesmuhlen,east_germany,Active,Captured,1984-09-21,1990-10-01
+fsg-parchim,Bergen,east_germany,Active,Sold,1985-02-01,1990-10-01
+fsg-parchim,Angermunde,east_germany,Active,Sold,1985-07-26,1990-10-01
+ddg-artemiz,Artemiz,iran,Active,Renamed,1965-01-26,1985-01-01
+ddg-artemiz,Damavand,iran,Active,Scrapped,1985-01-01,1996-01-01
+ddg-babr,Babr,iran,Active,Auxiliary,1971-03-19,1994-01-01
+ddg-babr,Palang,iran,Active,Auxiliary,1972-02-16,1994-01-01
+ss-kousseh,Kousseh,iran,Active,Captured,1978-12-19,1979-02-01
+ss-tareq,Tareq,iran,Active,,1992-11-21,
+ss-tareq,Noor,iran,Active,,1993-06-06,
+ss-tareq,Yunes,iran,Active,,1996-11-25,
+ss-nahang,Nahang,iran,Active,,2006-03-08,
+ss-fateh,Fateh,iran,Active,,2019-02-17,
+fs-babr,Babr,iran,Active,Sunk,1932-06-01,1941-08-25
+fs-babr,Palang,iran,Active,Sunk,1932-06-01,1941-08-25
+ff-babr,Babr,iran,Active,Scrapped,1949-07-01,1972-01-01
+ff-bayandor,Bayandor,iran,Active,,1964-05-15,
+ff-bayandor,Naghdi,iran,Active,,1964-07-22,
+ff-bayandor,Milanian,iran,Active,Sunk,1969-02-13,1982-01-01
+ff-bayandor,Kahnamuie,iran,Active,Sunk,1969-02-13,1982-01-01
+ffg-saam,Alvand,iran,Active,,1971-05-20,
+ffg-saam,Alborz,iran,Active,,1971-03-01,
+ffg-saam,Sabalan,iran,Active,,1972-06-01,
+ffg-saam,Sahand,iran,Active,Sunk,1972-02-28,1988-04-18
+fsg-jamaran,Jamaran,iran,Active,,2010-02-19,
+fsg-damavand,Damavand,iran,Active,Sunk,2015-03-09,2018-01-10
+fsg-damavand,Sahand,iran,Active,,2018-12-01,
+dd-eilath,Eilath,isreal,Active,Sunk,1955-07-15,1967-10-21
+dd-eilath,Yaffa,isreal,Active,Scrapped,1955-07-15,1972-01-01
+ss-tanin-1958,Tanin,isreal,Active,Scrapped,1958-10-09,1972-01-01
+ss-tanin-1958,Rahav,isreal,Active,Scrapped,1958-10-09,1968-01-01
+ss-leviathan,Leviathan,isreal,Active,Scrapped,1967-05-19,1975-01-01
+ss-leviathan,Dakar,isreal,Active,Sunk,1967-11-10,1968-01-25
+ss-leviathan,Dolphin,isreal,Active,Scrapped,1968-01-09,1977-01-01
+ss-gal,Gal,isreal,Active,Scrapped,1976-12-01,1999-01-01
+ss-gal,Tanin,isreal,Active,Scrapped,1977-06-01,1999-01-01
+ss-gal,Rahav,isreal,Active,Scrapped,1977-12-18,1999-01-01
+ss-dolphin-isreal,Dolphin,isreal,Active,,1999-03-29,
+ss-dolphin-isreal,Leviathan,isreal,Active,,1999-06-29,
+ss-dolphin-isreal,Tekuma,isreal,Active,,2000-07-25,
+ss-tanin,Tanin,isreal,Active,,2014-09-01,
+ss-tanin,Rahav,isreal,Active,,2016-01-01,
+pf-mivtakh,Mivtakh,isreal,Active,Sold,1949-04-20,1959-01-01
+pf-mivtakh,Misgav,isreal,Active,Target,1950-02-01,1970-01-01
+pf-mivtakh,Misnak,isreal,Active,Sold,1952-01-01,1959-01-01
+ff-haifa,Haifa,isreal,Active,Target,1957-01-01,1968-01-01
+fsg-eilat,Eilat,isreal,Active,,1994-05-24,
+fsg-eilat,Lahav,isreal,Active,,1994-09-23,
+fsg-eilat,Hanit,isreal,Active,,1995-02-07,
+ss-703,703,syria,Active,Scrapped,1959-02-17,1986-01-01
+ss-703,902,syria,Active,Scrapped,1959-02-17,1986-06-01
+ss-703,214,syria,Active,Scrapped,1959-02-17,1987-01-01
+ss-mumbata,Mumbata,syria,Active,Scrapped,1987-02-05,1993-01-01
+ss-mumbata,351,syria,Active,Scrapped,1985-12-17,1993-01-01
+ss-mumbata,352,syria,Active,Scrapped,1986-02-14,1993-01-01
+fs-al-assari,Al Hirasa,syria,Active,Target,1975-05-01,2018-03-01
+fs-al-assari,Al Assari,syria,Active,Target,1975-12-01,2018-04-15
