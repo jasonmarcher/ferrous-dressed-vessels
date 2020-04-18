@@ -6,8 +6,21 @@ function convertDate {
     )
 
     switch -regex ($DateText) {
-        '^\d+\/\d+\/\d+' { [datetime]::parseexact($DateText, 'd/M/yyyy', $null).toString('yyyy-MM-dd'); break }
-        '^\d+\/\d+' { [datetime]::parseexact($DateText, 'M/yyyy', $null).toString('yyyy-MM-dd'); break }
+        '^\d+\/\d+\/\d+' {
+            try {
+                [datetime]::parseexact($DateText, 'd/M/yyyy', $null).toString('yyyy-MM-dd')
+            } catch {
+                $DateText
+            }
+            break }
+        '^\d+\/\d+' {
+            try {
+                [datetime]::parseexact($DateText, 'M/yyyy', $null).toString('yyyy-MM-dd')
+             } catch {
+                $DateText
+             }
+             break
+        }
         Default { return "" }
     }
 }
