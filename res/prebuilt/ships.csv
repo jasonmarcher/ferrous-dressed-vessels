@@ -16741,18 +16741,103 @@ av-wakamiya,Wakamiya,Converted,Scrapped,1914-06-01,1914-06-01,1914-08-17,1931-04
 av-notoro,Notoro,Converted,Auxiliary,1923-10-01,1923-10-01,1924-01-01,1942-11-01
 av-notoro,Tsurumi,Converted,Auxiliary,1923-10-01,1923-10-01,1924-01-01,1931-01-01
 av-kamoi,Kamoi,Built,Auxiliary,1933-04-01,1933-04-01,1933-06-01,1943-01-01
-av-kagu-maru,Kagu Maru,Converted,,1937-08-01,,1937-08-01,
-av-kagu-maru,Kamikawa Maru,Converted,,1937-09-01,,1937-09-01,
-av-kagu-maru,Kimikawa Maru,Converted,,1941-07-01,,1941-07-01,
-av-kagu-maru,Kinugasa Maru,Converted,,1937-09-01,,1937-09-01,
-av-kagu-maru,Kiyokawa Maru,Converted,,1941-10-01,,1941-10-01,
-av-kagu-maru,Kunikawa Maru,Converted,,1942-07-01,,1942-07-01,
-av-kagu-maru,Noshiro Maru,Converted,,1941-07-01,,1941-07-01,
-av-sagara-maru,Sagara Maru,Converted,,1941-09-01,,1941-09-01,
-av-sagara-maru,Sanuki Maru,Converted,,1941-09-01,,1941-09-01,
-av-sagara-maru,San'yo Maru,Converted,,1941-08-01,,1941-08-01,
+av-kagu-maru,Kagu Maru,Converted,Sunk,1937-08-01,,1937-08-01,1944-11-04
+av-kagu-maru,Kamikawa Maru,Converted,Sunk,1937-09-01,,1937-09-01,1943-05-29
+av-kagu-maru,Kimikawa Maru,Converted,Sunk,1941-07-01,,1941-07-01,1944-10-23
+av-kagu-maru,Kinugasa Maru,Converted,Sunk,1937-09-01,,1937-09-01,1944-10-07
+av-kagu-maru,Kiyokawa Maru,Converted,Sunk,1941-10-01,,1941-10-01,1945-07-20
+av-kagu-maru,Kunikawa Maru,Converted,Sunk,1942-07-01,,1942-07-01,1945-05-21
+av-kagu-maru,Noshiro Maru,Converted,Sunk,1941-07-01,,1941-07-01,1944-09-24
+av-sagara-maru,Sagara Maru,Converted,Sunk,1941-09-01,,1941-09-01,1943-07-04
+av-sagara-maru,Sanuki Maru,Converted,Sunk,1941-09-01,,1941-09-01,1945-01-28
+av-sagara-maru,San'yo Maru,Converted,Sunk,1941-08-01,,1941-08-01,1944-05-26
 av-mizuho,Mizuho,Built,Sunk,1937-05-16,1938-05-16,1939-02-25,1942-05-02
 av-nisshin,Nisshin,Built,Sunk,1938-11-02,1939-11-30,1942-02-27,1943-07-22
 av-akitsushima,Akitsushima,Built,Sunk,1940-10-29,1941-07-25,1942-04-29,1944-09-24
 av-akitsushima,Chihaya,Cancelled,Scrapped,1941-01-01,,,1941-03-01
 mav-hayasui,Hayasui,Built,Sunk,1943-02-01,1943-12-25,1944-04-24,1944-08-19
+cvl-independencia,ARA Independencia,Bought,Scrapped,1959-07-08,,1959-07-08,1971-03-01
+cvl-veinticinco-de-mayo,ARA Veinticinco de Mayo,Bought,Scrapped,1968-10-08,,1968-10-08,1997-02-01
+cvl-minas-gerais,Minas Gerais,Bought,Scrapped,1960-12-06,,1960-12-06,2001-10-01
+cvl-sao-paulo,Sao Paulo,Bought,Scrapped,2000-11-15,,2000-11-15,2017-02-01
+cv-project-11435,Admiral Flota Sovetskogo Soyuza Kuznetsov,Built,,1982-09-01,1985-12-04,1990-12-25,
+cv-project-11435,Variag,Built,Sold,1985-12-06,1988-11-25,,1992-01-01
+cvn-project-11437,Ulyanovsk,Cancelled,Scrapped,1988-11-25,,,1991-11-01
+cvl-project-1143,Kiev,Built,Scrapped,1970-07-21,1972-12-26,1975-12-28,1993-06-01
+cvl-project-1143,Minsk,Built,Scrapped,1972-12-28,1975-09-30,1978-09-27,1993-06-01
+cvl-project-11433,Novorossiysk,Built,Scrapped,1975-09-30,1978-12-26,1982-08-14,1993-06-01
+cvl-project-11434,Baku,Built,Sold,1978-02-17,1982-04-01,1987-12-11,2004-03-01
+av-orlitsa,Orlitsa,Converted,Sold,1915-02-20,,1915-02-20,1923-01-01
+av-imperator-alexander-i,Imperator Alexander I,Converted,Sunk,1916-11-29,,1916-11-29,1919-01-01
+av-imperator-alexander-i,Imperator Nikolai I,Converted,Sunk,1916-11-29,,1916-11-29,1919-01-01
+av-regele-carol-i,Regele Carol I,Converted,Sold,1916-12-01,,1916-12-01,1918-07-01
+av-rumania,Dakia,Converted,Sold,1916-12-01,,1916-12-01,1918-07-01
+av-rumania,Imperator Trajan,Converted,Sold,1916-12-01,,1916-12-01,1918-07-01
+av-rumania,Rumyniya,Converted,Sold,1916-12-01,,1916-12-01,1918-07-01
+lha-vladivostok,Vladivostok,Built,Sold,2013-02-01,2013-10-15,,2014-11-25
+lha-vladivostok,Sevastopol,Built,Sold,2013-06-18,2014-11-20,,2014-11-25
+cv-type-001,Liaoning,Built,,1985-12-06,1988-11-25,2012-09-24,
+cv-type-002,Shangdong,Built,,2013-11-19,2017-04-26,2019-12-17,
+cv-type-003,No18,Planned,,2017-12-01,,,
+av-chen-hai,Chen Hai,Converted,Sunk,1927-01-01,,1927-01-01,1937-12-25
+av-wei-hai,Wei Hai,Converted,Sold,1927-01-01,,1927-01-01,1936-01-01
+av-teh-sheng,Teh Sheng,Converted,Sunk,1930-01-01,,1930-01-01,1937-08-11
+av-teh-sheng,Wei Sheng,Converted,Sunk,1930-01-01,,1930-01-01,1937-08-11
+cv-bearn,Bearn,Built,Auxiliary,1914-01-10,1920-04-15,1927-06-01,1945-03-01
+cv-joffre,Joffre,Cancelled,Scrapped,1938-11-26,,,1940-06-01
+cvl-clemenceau,Clemenceau,Built,Scrapped,1955-11-01,1957-12-21,1961-11-12,1998-03-01
+cvl-clemenceau,Foch,Built,Sold,1957-02-01,1960-07-28,1963-07-15,2000-11-01
+cvn-charles-de-gaulle,Charles de Gaulle,Built,,1989-04-14,1994-05-07,2001-05-18,
+cvl-arromanches,Arromanches,Bought,Scrapped,1946-08-06,,1946-08-06,1974-01-01
+cvl-la-fayette,La Fayette,Built,Sold,1951-06-02,,1951-06-02,1963-03-01
+cvl-la-fayette,Bois Belleau,Built,Sold,1953-12-23,,1953-12-23,1960-09-01
+cve-dixmude,Dixmude,Bought,Auxiliary,1945-04-09,,1945-04-09,1949-01-01
+av-campinas,Campinas,Converted,,1915-01-01,,1915-01-01,
+av-nord,Nord,Converted,Sold,1916-01-01,,1916-01-01,1919-01-01
+av-nord,Pas-de-Calais,Converted,Sold,1916-01-01,,1916-01-01,1919-01-01
+av-rouen,Rouen,Converted,Scrapped,1917-01-01,,1917-01-01,1919-01-01
+av-foudre,Foudre,Converted,Scrapped,1911-11-29,,1912-04-15,1921-12-01
+av-commandant-teste,Commandant Teste,Built,Sunk,1927-09-06,1929-04-12,1932-04-18,1942-11-27
+av-sans-souci,Sans Souci,Built,Converted,1938-12-01,,,1940-06-01
+av-sans-souci,La Perouse,Built,Converted,1939-01-01,,,1940-06-01
+av-sans-souci,Beautemps Beaupre,Built,Converted,1940-01-01,,,1940-06-01
+av-sans-souci,Sans Reproche,Built,Converted,1938-12-01,,,1940-06-01
+cv-graf-zeppelin,Graf Zeppelin,Cancelled,Sunk,1936-12-28,1938-12-08,,1943-01-30
+cv-graf-zeppelin,B,Cancelled,Scrapped,1938-01-01,,,1939-09-19
+cvl-weser,Weser,Cancelled,Sunk,1942-12-01,,,1943-06-01
+cvl-elbe,Elbe,Converted,Converted,1942-12-01,,,1943-02-02
+av-krischan-i,Krischan I,Built,Sunk,1933-09-01,1934-03-10,1934-03-23,1944-01-04
+av-krischan-ii,Krischan II,Built,Interned,1934-07-01,1935-01-17,1935-03-10,1945-05-01
+av-krischan-iii,Krischan III,Built,Sunk,1935-02-01,1935-09-01,1935-11-07,1944-01-04
+av-greif,Greif,Built,Interned,1935-12-01,1936-12-01,1937-08-01,1945-05-01
+av-hans-rolshoven,Hans Rolshoven,Built,Sunk,1936-02-01,1937-02-20,1938-02-09,1942-10-02
+av-karl-meyer,Karl Meyer,Built,Sunk,1936-06-01,1940-01-01,1940-08-22,1944-10-27
+av-karl-meyer,Max Stinsky,Built,Interned,1937-08-01,1940-10-12,1941-08-07,1945-05-01
+av-karl-meyer,Immelmann,Built,Interned,1939-02-01,1941-03-01,1941-12-18,1945-05-01
+av-karl-meyer,Boelcke,Built,Sunk,1940-02-01,1942-02-01,1942-12-01,1945-04-17
+av-hans-albrecht-wedel,Hans Albrecht Wedel,Built,Sunk,1940-08-01,1940-09-02,1941-09-22,1945-04-08
+av-hans-albrecht-wedel,Richthofen,Built,Interned,1941-03-01,1942-09-26,1943-05-01,1945-05-01
+av-hans-albrecht-wedel,Hermann Kohl,Cancelled,Scrapped,1941-02-01,1942-03-19,,1944-01-01
+av-zmaj,Zmaj,Built,Captured,1928-01-01,1929-06-22,1930-08-20,1941-04-17
+av-drache,Drache,Captured,Auxiliary,1941-08-07,,1941-08-07,1941-12-01
+av-sperber,Sperber,Built,Interned,1938-01-01,1938-09-01,1938-11-26,1945-05-01
+av-schwabenland,Schwabenland,Bought,Sunk,1939-10-12,,1939-10-12,1944-03-24
+av-friesenland,Friesenland,Bought,Auxiliary,1939-09-05,,1939-09-05,1945-03-01
+av-westfalen,Westfalen,Bought,Sunk,1940-01-01,,1940-01-01,1944-09-07
+av-bussard,Bussard,Built,Interned,1940-01-01,1940-08-01,1942-05-01,1945-05-01
+av-bussard,Falke,Built,Interned,1940-01-01,1940-07-29,1942-11-22,1945-05-01
+cvl-vikrant,INS Vikrant,Bought,Scrapped,1961-03-04,,1961-03-04,1997-01-01
+cvl-viraat,INS Viraat,Bought,Scrapped,1986-11-14,,1986-11-14,2016-06-01
+cvl-vikramaditya,INS Vikramaditya,Bought,,2004-01-20,2009-01-01,2013-11-16,
+cvl-vikrant,INS Vikrant,Planned,,2009-02-28,2013-08-12,,
+cvl-aquila,Aquila,Cancelled,Scrapped,1941-06-01,,,1943-09-09
+cvl-sparviero,Sparviero,Cancelled,Sunk,1942-09-01,,,1943-09-09
+cvl-giuseppe-garibaldi,Giuseppe Garibaldi,Built,,1981-03-26,1983-06-04,1985-09-30,
+cvl-cavour,Cavour,Built,,2001-07-17,2004-07-20,2009-06-10,
+av-europa,Europa,Converted,Scrapped,1915-10-01,,1915-10-01,1920-01-01
+av-giuseppe-miraglia,Giuseppe Miraglia,Converted,Auxiliary,1925-01-24,,1927-01-01,1943-09-01
+lha-dokdo,ROKS Dokdo,Built,,2002-10-28,2005-07-12,2007-07-03,
+lha-dokdo,ROKS Marado,Planned,,2017-04-28,2018-05-14,,
+cvl-dedalo,Dedalo,Bought,Sold,1967-08-30,,1967-08-30,1989-08-01
+cvl-principe-de-asturias,Principe de Asturias,Built,Scrapped,1979-10-08,1982-05-22,1988-05-30,2013-02-01
+av-dedalo,Dedalo,Converted,Scrapped,1922-05-01,,1922-05-01,1936-01-01
