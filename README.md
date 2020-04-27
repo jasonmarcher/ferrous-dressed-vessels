@@ -28,3 +28,7 @@ http://www.designed4submariners.com/Welcome_Page.html
 
 Misc.
 https://dinamicaglobal.wordpress.com/militar/uma-breve-analise-comparativa-dos-grandes-porta-avioes/
+
+http://www.combinedfleet.com/kaigun.htm
+
+http://www.hazegray.org/navhist/
