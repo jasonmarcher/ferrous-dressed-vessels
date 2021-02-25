@@ -614,9 +614,9 @@ bbar-vauban,Vauban,france,Active,,1885-12-01,1905-01-01
 bbar-admiral-baudin,Amiral Baudin,france,Active,,1888-12-01,1909-01-01
 bbar-admiral-baudin,Formidable,france,Active,,1889-02-01,1909-02-09
 bt-hoche,Hoche,france,Active,,1890-06-01,1908-04-01
-bbar-Marceau,Magenta,france,Active,,1893-02-01,1910-01-01
-bbar-Marceau,Marceau,france,Active,,1891-03-14,1914-08-01
-bbar-Marceau,Neptune,france,Active,,1892-07-01,1908-02-01
+bbar-marceau,Magenta,france,Active,,1893-02-01,1910-01-01
+bbar-marceau,Marceau,france,Active,,1891-03-14,1914-08-01
+bbar-marceau,Neptune,france,Active,,1892-07-01,1908-02-01
 bt-brennus,Brennus,france,Active,,1896-12-16,1919-01-01
 pred-carnot,Carnot,france,Active,,1897-07-01,1914-03-01
 pred-carnot,Carnot,france,Reserve,,1914-03-01,1922-01-01
@@ -10544,9 +10544,9 @@ ff-yu-shan,ROCS Tien Shan,taiwan,Active,Scrapped,1960-05-01,1993-01-01
 ff-yu-shan,ROCS Yu Shan,taiwan,Active,Scrapped,1965-04-01,1997-06-01
 ff-yu-shan,ROCS Hua Shan,taiwan,Active,Scrapped,1965-05-01,1995-05-01
 ff-yu-shan,ROCS Wen Shan,taiwan,Active,Scrapped,1966-05-01,1991-01-01
-ff-yu-shan,ROCS Fu Shan,taiwan,Active,Scrapped,1966-03-01,1996-01-01
+ff-yu-shan,ROCS Chang Shan,taiwan,Active,Scrapped,1966-03-01,1996-01-01
 ff-yu-shan,ROCS Lu Shan,taiwan,Active,Scrapped,1966-08-01,1995-05-01
-ff-yu-shan,ROCS Shou Shan,taiwan,Active,Scrapped,1966-03-01,1997-06-01
+ff-yu-shan,ROCS Ao Shan,taiwan,Active,Scrapped,1966-03-01,1997-06-01
 ff-yu-shan,ROCS Tai Shan,taiwan,Active,Scrapped,1966-10-01,1991-01-01
 ff-yu-shan,ROCS Heng Shan,taiwan,Active,Scrapped,1966-10-01,1976-01-01
 ff-yu-shan,ROCS Kang Shan,taiwan,Active,Scrapped,1967-07-01,1978-01-01
@@ -11225,7 +11225,7 @@ ffg-carvajal,Mariategui,peru,Active,,1987-12-28,
 ffg-aguirre-2004,Aguirre,peru,Active,,2004-11-03,
 ffg-aguirre-2004,Palacios,peru,Active,,2004-11-03,
 ffg-aguirre-2004,Bolognesi,peru,Active,,2006-01-23,
-ffg-aguirre-2004,Quiñones,peru,Active,,2006-01-23,
+ffg-aguirre-2004,Quinones,peru,Active,,2006-01-23,
 fs-galvez,Galvez,peru,Active,Auxiliary,1960-11-01,1975-01-01
 fs-galvez,Diez Canseco,peru,Active,Auxiliary,1960-11-01,1975-01-01
 cl-dragon,Dragon,poland,Active,Sunk,1943-01-15,1944-07-08
@@ -16090,9 +16090,9 @@ ss-e24,HMS E41,britain,Active,Scrapped,1916-06-01,1922-09-01
 ss-e24,HMS E45,britain,Active,Scrapped,1916-08-01,1922-09-01
 ss-e24,HMS E46,britain,Active,Scrapped,1916-10-01,1922-09-01
 ss-e24,HMS E51,britain,Active,Scrapped,1917-01-01,1931-10-01
-ss-s1-it,HMS S1,britain,Active,Sold,1914-08-01,1915-10-01
-ss-s1-it,HMS S2,britain,Active,Sold,1915-05-01,1915-10-01
-ss-s1-it,HMS S3,britain,Active,Sold,1915-09-01,1915-10-01
+ss-s1,HMS S1,britain,Active,Sold,1914-08-01,1915-10-01
+ss-s1,HMS S2,britain,Active,Sold,1915-05-01,1915-10-01
+ss-s1,HMS S3,britain,Active,Sold,1915-09-01,1915-10-01
 ss-v1,HMS V1,britain,Active,Scrapped,1915-05-01,1921-11-01
 ss-v1,HMS V2,britain,Active,Scrapped,1915-11-01,1921-11-01
 ss-v1,HMS V3,britain,Active,Scrapped,1916-01-01,1920-10-01
@@ -18627,6 +18627,7 @@ ss-tanin,Rahav,isreal,Active,,2016-01-01,
 pf-mivtakh,Mivtakh,isreal,Active,Sold,1949-04-20,1959-01-01
 pf-mivtakh,Misgav,isreal,Active,Target,1950-02-01,1970-01-01
 pf-mivtakh,Misnak,isreal,Active,Sold,1952-01-01,1959-01-01
+ff-mohammed-ali,Mohammed Ali,egypt,Active,Captured,1949-11-09,1956-10-31
 ff-haifa,Haifa,isreal,Active,Target,1957-01-01,1968-01-01
 fsg-eilat,Eilat,isreal,Active,,1994-05-24,
 fsg-eilat,Lahav,isreal,Active,,1994-09-23,
@@ -18892,7 +18893,8 @@ lha-wasp,USS Essex,usa,Active,,1992-10-17,
 lha-wasp,USS Kearsarge,usa,Active,,1993-10-16,
 lha-wasp,USS Boxer,usa,Active,,1995-02-11,
 lha-wasp,USS Bataan,usa,Active,,1997-09-20,
-lha-wasp,USS Bonhomme Richard,usa,Active,,1998-08-15,
+lha-wasp,USS Bonhomme Richard,usa,Active,Reserve,1998-08-15,2020-07-16
+lha-wasp,USS Bonhomme Richard,usa,Reserve,,2020-07-16,
 lha-wasp,USS Iwo Jima,usa,Active,,2001-06-30,
 lha-wasp,USS Makin Island,usa,Active,,2009-10-24,
 lha-makin-island,USS Wasp,usa,Active,,1989-07-06,
@@ -19164,3 +19166,1479 @@ lha-dokdo,ROKS Dokdo,south_korea,Active,,2007-07-03,
 cvl-dedalo,Dedalo,spain,Active,Sold,1967-08-30,1989-08-01
 cvl-principe-de-asturias,Principe de Asturias,spain,Active,Scrapped,1988-05-30,2013-02-01
 av-dedalo,Dedalo,spain,Active,Scrapped,1922-05-01,1936-01-01
+cvl-karel-doorman,HNLMS Karel Doorman,netherlands,Active,Rebuild,1948-04-01,1968-04-29
+cvl-karel-doorman,HNLMS Karel Doorman,netherlands,Rebuilds,Sold,1968-04-29,1968-10-01
+mac-gadila,HNLMS Gadila,netherlands,Active,Sold,1944-02-01,1945-05-01
+mac-gadila,HNLMS Macoma,netherlands,Active,Sold,1944-04-01,1945-05-01
+cve-karel-doorman,HNLMS Karel Doorman,netherlands,Active,Sold,1946-03-01,1948-05-01
+av-poolster,HNLMS Poolster,netherlands,Active,Sunk,1940-01-01,1942-03-01
+ddg-project-61me,Nadyozhnyy,russia,Active,Sold,1979-11-30,1980-09-30
+ddg-project-61me,Gubitelnyy,russia,Active,Sold,1981-09-30,1982-06-28
+ddg-project-61me,Lovkiy,russia,Active,Sold,1983-07-20,1983-11-24
+ddg-project-61me,Tviordyy,russia,Active,Sold,1985-12-30,1986-10-28
+ddg-project-61me,Tolkovyy,russia,Active,Sold,1987-10-15,1988-01-15
+m-monitor_uss-monitor,USS Monitor,usa,Active,Sunk,1862-02-25,1862-12-31
+m-ozark_uss-ozark,USS Ozark,usa,Active,Reserve,1864-02-18,1865-07-24
+m-neosho_uss-neosho,USS Neosho,usa,Active,Reserve,1863-05-13,1865-07-23
+m-neosho_uss-neosho,USS Neosho,usa,Reserve,Renamed,1865-07-23,1869-06-15
+m-neosho_uss-neosho,USS Vixen,usa,Reserve,Renamed,1869-06-15,1869-08-02
+m-neosho_uss-neosho,USS Osceola,usa,Reserve,Sold,1869-08-02,1873-08-17
+m-neosho_uss-osage,USS Osage,usa,Active,Sunk,1863-07-10,1865-03-29
+m-casco_uss-casco,USS Casco,usa,Active,Reserve,1864-12-04,1865-06-10
+m-casco_uss-casco,USS Casco,usa,Reserve,Renamed,1865-06-10,1869-06-01
+m-casco_uss-casco,USS Hero,usa,Reserve,Scrapped,1869-06-01,1875-04-01
+m-casco_uss-chimo,USS Chimo,usa,Active,Reserve,1865-01-20,1865-06-24
+m-casco_uss-chimo,USS Chimo,usa,Reserve,Renamed,1865-06-24,1869-05-15
+m-casco_uss-chimo,USS Orion,usa,Reserve,Renamed,1869-05-15,1869-08-10
+m-casco_uss-chimo,USS Piscataqua,usa,Reserve,Scrapped,1869-08-10,1874-07-01
+m-cohoes_uss-cohoes,USS Cohoes,usa,Reserve,Renamed,1866-01-19,1869-06-15
+m-cohoes_uss-cohoes,USS Charybdis,usa,Reserve,Renamed,1869-06-15,1869-08-19
+m-cohoes_uss-cohoes,USS Cohoes,usa,Reserve,Scrapped,1869-08-19,1874-07-01
+m-cohoes_uss-etlah,USS Etlah,usa,Reserve,Renamed,1866-03-12,1869-06-15
+m-cohoes_uss-etlah,USS Hecate,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-etlah,USS Etlah,usa,Reserve,Scrapped,1869-08-10,1874-09-12
+m-cohoes_uss-klamath,USS Klamath,usa,Reserve,Renamed,1866-05-06,1869-06-15
+m-cohoes_uss-klamath,USS Harpy,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-klamath,USS Klamath,usa,Reserve,Scrapped,1869-08-10,1874-09-12
+m-cohoes_uss-koka,USS Koka,usa,Reserve,Renamed,1865-11-28,1869-06-15
+m-cohoes_uss-koka,USS Argos,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-koka,USS Koka,usa,Reserve,Scrapped,1869-08-10,1874-10-02
+m-casco_uss-modoc,USS Modoc,usa,Reserve,Renamed,1865-06-23,1869-06-15
+m-casco_uss-modoc,USS Modoc,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-casco_uss-modoc,USS Modoc,usa,Reserve,Scrapped,1869-08-10,1875-08-01
+m-casco_uss-napa,USS Napa,usa,Reserve,Renamed,1866-05-04,1869-06-15
+m-casco_uss-napa,USS Nemesis,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-casco_uss-napa,USS Napa,usa,Reserve,Scrapped,1869-08-10,1875-08-01
+m-casco_uss-naubuc,USS Naubuc,usa,Active,Reserve,1865-03-27,1865-06-27
+m-casco_uss-naubuc,USS Naubuc,usa,Reserve,Renamed,1865-06-27,1869-06-15
+m-casco_uss-naubuc,USS Gorgon,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-casco_uss-naubuc,USS Minnetonka,usa,Reserve,Scrapped,1869-08-10,1875-08-01
+m-cohoes_uss-nausett,USS Nausett,usa,Active,Reserve,1865-08-10,1865-08-24
+m-cohoes_uss-nausett,USS Nausett,usa,Reserve,Renamed,1865-08-24,1869-06-15
+m-cohoes_uss-nausett,USS Aetna,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-nausett,USS Nausett,usa,Reserve,Scrapped,1869-08-10,1875-08-01
+m-cohoes_uss-shawnee,USS Shawnee,usa,Active,Reserve,1865-08-18,1865-11-01
+m-cohoes_uss-shawnee,USS Shawnee,usa,Reserve,Renamed,1865-11-01,1869-06-15
+m-cohoes_uss-shawnee,USS Eolus,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-shawnee,USS Shawnee,usa,Reserve,Scrapped,1869-08-10,1875-09-09
+m-cohoes_uss-shiloh,USS Shiloh,usa,Reserve,Renamed,1866-03-12,1869-06-15
+m-cohoes_uss-shiloh,USS Iris,usa,Reserve,Active,1869-06-15,1874-09-17
+m-cohoes_uss-shiloh,USS Iris,usa,Active,Reserve,1874-09-17,1874-10-05
+m-cohoes_uss-shiloh,USS Iris,usa,Reserve,Scrapped,1874-10-05,1874-12-01
+m-cohoes_uss-squando,USS Squando,usa,Active,Reserve,1865-06-06,1866-05-26
+m-cohoes_uss-squando,USS Squando,usa,Reserve,Renamed,1866-05-26,1869-06-15
+m-cohoes_uss-squando,USS Erebus,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-squando,USS Squando,usa,Reserve,Scrapped,1869-08-10,1874-07-01
+m-cohoes_uss-suncook,USS Suncook,usa,Reserve,Renamed,1865-07-27,1869-06-15
+m-cohoes_uss-suncook,USS Spitfire,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-suncook,USS Suncook,usa,Reserve,Scrapped,1869-08-10,1874-07-01
+m-casco_uss-tunxis,USS Tunxis,usa,Active,Reserve,1864-07-12,1864-09-01
+m-casco_uss-tunxis,USS Tunxis,usa,Reserve,Renamed,1864-09-01,1869-06-15
+m-casco_uss-tunxis,USS Hydra,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-casco_uss-tunxis,USS Otsego,usa,Reserve,Scrapped,1869-08-10,1874-09-01
+m-cohoes_uss-umpqua,USS Umpqua,usa,Reserve,Renamed,1866-05-07,1869-06-15
+m-cohoes_uss-umpqua,USS Fury,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-umpqua,USS Umpqua,usa,Reserve,Scrapped,1869-08-10,1874-09-12
+m-cohoes_uss-wassuc,USS Wassuc,usa,Reserve,Renamed,1865-10-28,1869-06-15
+m-cohoes_uss-wassuc,USS Stromboli,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-wassuc,USS Wassuc,usa,Reserve,Scrapped,1869-08-10,1875-09-09
+m-cohoes_uss-waxsaw,USS Waxsaw,usa,Reserve,Renamed,1866-10-21,1869-06-15
+m-cohoes_uss-waxsaw,USS Niobe,usa,Reserve,Scrapped,1869-06-15,1875-08-25
+m-cohoes_uss-yazoo,USS Yazoo,usa,Reserve,Renamed,1865-12-15,1869-06-15
+m-cohoes_uss-yazoo,USS Tartar,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-yazoo,USS Yazoo,usa,Reserve,Scrapped,1869-08-10,1874-09-05
+m-cohoes_uss-yuma,USS Yuma,usa,Reserve,Renamed,1866-05-06,1869-06-15
+m-cohoes_uss-yuma,USS Tempest,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-cohoes_uss-yuma,USS Yuma,usa,Reserve,Scrapped,1869-08-10,1874-09-12
+m-passaic_uss-passaic,USS Passaic,usa,Active,Reserve,1862-11-25,1865-06-16
+m-passaic_uss-passaic,USS Passaic,usa,Reserve,Active,1865-06-16,1876-11-24
+m-passaic_uss-passaic,USS Passaic,usa,Active,Reserve,1876-11-24,1898-09-11
+m-passaic_uss-passaic,USS Passaic,usa,Reserve,Scrapped,1898-09-11,1899-10-10
+m-passaic_uss-montauk,USS Montauk,usa,Active,Reserve,1862-12-14,1865-09-01
+m-passaic_uss-montauk,USS Montauk,usa,Reserve,Active,1865-09-01,1898-05-01
+m-passaic_uss-montauk,USS Montauk,usa,Active,Reserve,1898-05-01,1899-03-01
+m-passaic_uss-montauk,USS Montauk,usa,Reserve,Scrapped,1899-03-01,1904-04-14
+m-passaic_uss-nahant,USS Nahant,usa,Active,Reserve,1862-12-29,1865-08-11
+m-passaic_uss-nahant,USS Nahant,usa,Reserve,Renamed,1865-08-11,1869-06-15
+m-passaic_uss-nahant,USS Atlas,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-passaic_uss-nahant,USS Nahant,usa,Reserve,Active,1869-08-10,1898-04-12
+m-passaic_uss-nahant,USS Nahant,usa,Active,Reserve,1898-04-12,1899-03-01
+m-passaic_uss-nahant,USS Nahant,usa,Reserve,Scrapped,1899-03-01,1904-04-06
+m-passaic_uss-patapsco,USS Patapsco,usa,Active,Sunk,1863-01-02,1865-01-15
+m-passaic_uss-weehawken,USS Weehawken,usa,Active,Sunk,1863-01-18,1863-12-06
+m-passaic_uss-sangamon,USS Sangamon,usa,Active,Reserve,1863-02-09,1865-05-03
+m-passaic_uss-sangamon,USS Sangamon,usa,Reserve,Renamed,1865-05-03,1869-06-10
+m-passaic_uss-sangamon,USS Jason,usa,Reserve,Active,1869-06-10,1898-05-13
+m-passaic_uss-sangamon,USS Jason,usa,Active,Reserve,1898-05-13,1899-03-01
+m-passaic_uss-sangamon,USS Jason,usa,Reserve,Scrapped,1899-03-01,1904-04-10
+m-passaic_uss-catskill,USS Catskill,usa,Active,Reserve,1863-02-24,1865-07-26
+m-passaic_uss-catskill,USS Catskill,usa,Reserve,Renamed,1865-07-26,1869-06-15
+m-passaic_uss-catskill,USS Goliath,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-passaic_uss-catskill,USS Catskill,usa,Reserve,Active,1869-08-10,1876-01-01
+m-passaic_uss-catskill,USS Catskill,usa,Active,Reserve,1876-01-01,1878-01-01
+m-passaic_uss-catskill,USS Catskill,usa,Reserve,Active,1878-01-01,1898-04-16
+m-passaic_uss-catskill,USS Catskill,usa,Active,Reserve,1898-04-16,1898-09-22
+m-passaic_uss-catskill,USS Catskill,usa,Reserve,Scrapped,1898-09-22,1901-12-04
+m-passaic_uss-nantucket,USS Nantucket,usa,Active,Reserve,1863-02-26,1865-06-24
+m-passaic_uss-nantucket,USS Nantucket,usa,Reserve,Renamed,1865-06-24,1869-06-15
+m-passaic_uss-nantucket,USS Medusa,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-passaic_uss-nantucket,USS Nantucket,usa,Reserve,Active,1869-08-10,1882-07-29
+m-passaic_uss-nantucket,USS Nantucket,usa,Active,Reserve,1882-07-29,1882-12-12
+m-passaic_uss-nantucket,USS Nantucket,usa,Reserve,Active,1882-12-12,1884-06-16
+m-passaic_uss-nantucket,USS Nantucket,usa,Active,Reserve,1884-06-16,1884-10-06
+m-passaic_uss-nantucket,USS Nantucket,usa,Reserve,Scrapped,1884-10-06,1900-11-14
+m-passaic_uss-lehigh,USS Lehigh,usa,Active,Reserve,1863-04-15,1865-06-09
+m-passaic_uss-lehigh,USS Lehigh,usa,Reserve,Active,1865-06-09,1875-12-15
+m-passaic_uss-lehigh,USS Lehigh,usa,Active,Reserve,1875-12-15,1879-01-01
+m-passaic_uss-lehigh,USS Lehigh,usa,Reserve,Active,1879-01-01,1898-04-18
+m-passaic_uss-lehigh,USS Lehigh,usa,Active,Reserve,1898-04-18,1898-09-08
+m-passaic_uss-lehigh,USS Lehigh,usa,Reserve,Scrapped,1898-09-08,1904-04-14
+m-passaic_uss-camanche,USS Camanche,usa,Active,Reserve,1865-05-01,1865-10-01
+m-passaic_uss-camanche,USS Camanche,usa,Reserve,Active,1865-10-01,1898-04-01
+m-passaic_uss-camanche,USS Camanche,usa,Active,Reserve,1898-04-01,1898-07-01
+m-passaic_uss-camanche,USS Camanche,usa,Reserve,Sold,1898-07-01,1899-03-22
+m-canonicus_uss-manayunk,USS Manayunk,usa,Reserve,Renamed,1865-09-27,1869-06-15
+m-canonicus_uss-manayunk,USS Ajax,usa,Reserve,Active,1869-06-15,1871-01-01
+m-canonicus_uss-manayunk,USS Ajax,usa,Active,Reserve,1871-01-01,1871-07-01
+m-canonicus_uss-manayunk,USS Ajax,usa,Reserve,Active,1871-07-01,1875-11-05
+m-canonicus_uss-manayunk,USS Ajax,usa,Active,Reserve,1875-11-05,1891-06-30
+m-canonicus_uss-manayunk,USS Ajax,usa,Reserve,Active,1891-06-30,1898-07-09
+m-canonicus_uss-manayunk,USS Ajax,usa,Active,Reserve,1898-07-09,1898-09-01
+m-canonicus_uss-manayunk,USS Ajax,usa,Reserve,Scrapped,1898-09-01,1899-10-10
+m-canonicus_uss-canonicus,USS Canonicus,usa,Active,Scrapped,1864-04-16,1908-02-19
+m-canonicus_uss-catawba,USS Catawba,usa,Reserve,Sold,1865-06-10,1868-04-11
+m-canonicus_uss-mahopac,USS Mahopac,usa,Active,Reserve,1864-09-22,1865-06-01
+m-canonicus_uss-mahopac,USS Mahopac,usa,Reserve,Active,1865-06-01,1866-01-15
+m-canonicus_uss-mahopac,USS Mahopac,usa,Active,Renamed,1866-01-15,1869-06-15
+m-canonicus_uss-mahopac,USS Castor,usa,Active,Renamed,1869-06-15,1869-08-10
+m-canonicus_uss-mahopac,USS Mahopac,usa,Active,Reserve,1869-08-10,1872-03-11
+m-canonicus_uss-mahopac,USS Mahopac,usa,Reserve,Active,1872-03-11,1873-11-21
+m-canonicus_uss-mahopac,USS Mahopac,usa,Active,Reserve,1873-11-21,1889-01-01
+m-canonicus_uss-mahopac,USS Mahopac,usa,Reserve,Scrapped,1889-01-01,1902-01-14
+m-canonicus_uss-manhattan,USS Manhattan,usa,Active,Reserve,1864-06-06,1865-08-01
+m-canonicus_uss-manhattan,USS Manhattan,usa,Reserve,Renamed,1865-08-01,1869-06-15
+m-canonicus_uss-manhattan,USS Neptune,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-canonicus_uss-manhattan,USS Manhattan,usa,Reserve,Active,1869-08-10,1873-11-19
+m-canonicus_uss-manhattan,USS Manhattan,usa,Active,Reserve,1873-11-19,1877-06-01
+m-canonicus_uss-manhattan,USS Manhattan,usa,Reserve,Scrapped,1877-06-01,1901-12-14
+m-canonicus_uss-oneota,USS Oneota,usa,Reserve,Sold,1865-06-10,1868-04-11
+m-canonicus_uss-saugus,USS Saugus,usa,Active,Reserve,1864-08-27,1865-06-13
+m-canonicus_uss-saugus,USS Saugus,usa,Reserve,Active,1865-06-13,1869-04-30
+m-canonicus_uss-saugus,USS Saugus,usa,Active,Renamed,1869-04-30,1869-06-15
+m-canonicus_uss-saugus,USS Centaur,usa,Active,Renamed,1869-06-15,1869-08-10
+m-canonicus_uss-saugus,USS Saugus,usa,Active,Reserve,1869-08-10,1870-12-31
+m-canonicus_uss-saugus,USS Saugus,usa,Reserve,Active,1870-12-31,1872-11-09
+m-canonicus_uss-saugus,USS Saugus,usa,Active,Reserve,1872-11-09,1874-03-09
+m-canonicus_uss-saugus,USS Saugus,usa,Reserve,Active,1874-03-09,1874-10-10
+m-canonicus_uss-saugus,USS Saugus,usa,Active,Reserve,1874-10-10,1877-10-08
+m-canonicus_uss-saugus,USS Saugus,usa,Reserve,Scrapped,1877-10-08,1891-05-15
+m-canonicus_uss-tecumseh,USS Tecumseh,usa,Active,Sunk,1864-04-19,1864-08-05
+m-canonicus_uss-tippecanoe,USS Tippecanoe,usa,Reserve,Renamed,1866-02-15,1869-06-15
+m-canonicus_uss-tippecanoe,USS Vesuvius,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-canonicus_uss-tippecanoe,USS Wyandotte,usa,Reserve,Active,1869-08-10,1876-01-24
+m-canonicus_uss-tippecanoe,USS Wyandotte,usa,Active,Reserve,1876-01-24,1898-09-20
+m-canonicus_uss-tippecanoe,USS Wyandotte,usa,Reserve,Scrapped,1898-09-20,1899-01-17
+m-milwaukee_uss-chickasaw,USS Chickasaw,usa,Active,Reserve,1864-05-14,1865-07-06
+m-milwaukee_uss-chickasaw,USS Chickasaw,usa,Reserve,Renamed,1865-07-06,1869-06-15
+m-milwaukee_uss-chickasaw,USS Samson,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-milwaukee_uss-chickasaw,USS Chickasaw,usa,Reserve,Sold,1869-08-10,1874-09-12
+m-milwaukee_uss-kickapoo,USS Kickapoo,usa,Active,Reserve,1864-07-08,1865-07-29
+m-milwaukee_uss-kickapoo,USS Kickapoo,usa,Reserve,Renamed,1865-07-29,1869-06-15
+m-milwaukee_uss-kickapoo,USS Cyclops,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-milwaukee_uss-kickapoo,USS Kewaydin,usa,Reserve,Scrapped,1869-08-10,1874-09-12
+m-milwaukee_uss-milwaukee,USS Milwaukee,usa,Active,Sunk,1864-08-27,1865-03-28
+m-milwaukee_uss-winnebago,USS Winnebago,usa,Active,Reserve,1864-04-27,1865-09-27
+m-milwaukee_uss-winnebago,USS Winnebago,usa,Reserve,Renamed,1865-09-27,1869-06-15
+m-milwaukee_uss-winnebago,USS Tornado,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-milwaukee_uss-winnebago,USS Winnebago,usa,Reserve,Scrapped,1869-08-10,1874-09-12
+m-dictator_uss-dictator,USS Dictator,usa,Active,Reserve,1864-11-11,1865-09-05
+m-dictator_uss-dictator,USS Dictator,usa,Reserve,Active,1865-09-05,1869-07-20
+m-dictator_uss-dictator,USS Dictator,usa,Active,Reserve,1869-07-20,1871-06-28
+m-dictator_uss-dictator,USS Dictator,usa,Reserve,Active,1871-06-28,1874-01-12
+m-dictator_uss-dictator,USS Dictator,usa,Active,Reserve,1874-01-12,1877-06-01
+m-dictator_uss-dictator,USS Dictator,usa,Reserve,Scrapped,1877-06-01,1883-09-27
+m-onondaga_uss-onondaga,USS Onondaga,usa,Active,Reserve,1964-03-24,1865-06-08
+m-onondaga_uss-onondaga,USS Onondaga,usa,Reserve,Sold,1865-06-08,1867-03-07
+m-miantonomoh_uss-agamenticus,USS Agamenticus,usa,Active,Reserve,1864-05-05,1865-09-30
+m-miantonomoh_uss-agamenticus,USS Agamenticus,usa,Reserve,Renamed,1865-09-30,1869-06-15
+m-miantonomoh_uss-agamenticus,USS Agamenticus,usa,Reserve,Active,1869-06-15,1870-05-27
+m-miantonomoh_uss-agamenticus,USS Agamenticus,usa,Active,Reserve,1870-05-27,1872-06-10
+m-miantonomoh_uss-agamenticus,USS Agamenticus,usa,Reserve,Scrapped,1872-06-10,1874-01-01
+m-miantonomoh_uss-miantonomoh,USS Miantonomoh,usa,Active,Reserve,1865-09-18,1866-07-26
+m-miantonomoh_uss-miantonomoh,USS Miantonomoh,usa,Reserve,Active,1866-07-26,1869-11-15
+m-miantonomoh_uss-miantonomoh,USS Miantonomoh,usa,Active,Reserve,1869-11-15,1870-07-28
+m-miantonomoh_uss-miantonomoh,USS Miantonomoh,usa,Reserve,Scrapped,1870-07-28,1875-01-01
+m-miantonomoh_uss-monadnock,USS Monadnock,usa,Active,Reserve,1864-10-04,1866-06-30
+m-miantonomoh_uss-monadnock,USS Monadnock,usa,Reserve,Scrapped,1866-06-30,1874-01-01
+m-miantonomoh_uss-tonawanda,USS Tonawanda,usa,Active,Reserve,1865-10-12,1865-12-22
+m-miantonomoh_uss-tonawanda,USS Tonawanda,usa,Reserve,Active,1865-12-22,1866-10-23
+m-miantonomoh_uss-tonawanda,USS Amphitrite,usa,Active,Renamed,1866-10-23,1869-06-15
+m-miantonomoh_uss-tonawanda,USS Amphitrite,usa,Active,Reserve,1869-06-15,1872-01-01
+m-miantonomoh_uss-tonawanda,USS Amphitrite,usa,Reserve,Scrapped,1872-01-01,1873-10-01
+ci-keokuk_uss-keokuk,USS Keokuk,usa,Active,Sunk,1863-03-11,1863-04-08
+ar-katahdin,USS Katahdin,usa,Active,Reserve,1897-02-20,1897-04-17
+ar-katahdin,USS Katahdin,usa,Reserve,Active,1897-04-17,1898-03-10
+ar-katahdin,USS Katahdin,usa,Active,Reserve,1898-03-10,1898-10-08
+ar-katahdin,USS Katahdin,usa,Reserve,Target,1898-10-08,1909-07-09
+stb-spuyten-duyvil_uss-spuyten-duyvil,USS Spuyten Duyvil,usa,Active,Reserve,1864-11-19,1866-01-01
+stb-spuyten-duyvil_uss-spuyten-duyvil,USS Spuyten Duyvil,usa,Reserve,Scrapped,1866-01-01,1880-01-01
+ci-albemarle_css-albemarle,CSS Albemarle,csa,Active,Sunk,1864-04-17,1864-10-27
+ci-arkansas_css-arkansas,CSS Arkansas,csa,Active,Sunk,1862-05-26,1862-08-06
+ci-atlanta_css-atlanta,CSS Atlanta,csa,Active,Captured,1862-11-22,1863-06-17
+ci-atlanta-1863_uss-atlanta,USS Atlanta,usa,Active,Reserve,1864-02-01,1865-06-21
+ci-atlanta-1863_uss-atlanta,USS Atlanta,usa,Reserve,Sold,1865-06-21,1869-05-04
+cc-baltic_css-baltic,CSS Baltic,csa,Active,Converted,1862-06-01,1864-07-01
+ci-charleston_css-charleston,CSS Charleston,csa,Active,Sunk,1863-09-01,1865-02-17
+ci-palmetto-state_css-chicora,CSS Chicora,csa,Active,Sunk,1862-11-01,1865-02-18
+ci-columbia_css-columbia,CSS Columbia,csa,Active,Captured,1864-05-01,1865-02-18
+ci-eastport_uss-eastport,USS Eastport,usa,Active,Sunk,1862-08-01,1864-04-15
+ci-fredricksburg_css-fredricksburg,CSS Fredricksburg,csa,Active,Sunk,1864-03-01,1865-04-04
+ci-huntsville_css-huntsville,CSS Huntsville,csa,Active,Sunk,1863-08-01,1865-04-12
+sf-merrimack_uss-merrimack,USS Merrimack,usa,Active,Reserve,1856-02-20,1860-02-16
+sf-merrimack_uss-merrimack,USS Merrimack,usa,Reserve,Sunk,1860-02-16,1861-04-20
+sf-wabash_uss-wabash,USS Wabash,usa,Active,Reserve,1856-08-18,1858-03-01
+sf-wabash_uss-wabash,USS Wabash,usa,Reserve,Active,1858-03-01,1858-05-25
+sf-wabash_uss-wabash,USS Wabash,usa,Active,Reserve,1858-05-25,1859-12-20
+sf-wabash_uss-wabash,USS Wabash,usa,Reserve,Active,1859-12-20,1861-05-16
+sf-wabash_uss-wabash,USS Wabash,usa,Active,Reserve,1861-05-16,1865-02-14
+sf-wabash_uss-wabash,USS Wabash,usa,Reserve,Active,1865-02-14,1871-10-24
+sf-wabash_uss-wabash,USS Wabash,usa,Active,Reserve,1871-10-24,1874-04-25
+sf-wabash_uss-wabash,USS Wabash,usa,Reserve,Scrapped,1874-04-25,1912-11-15
+sf-roanoke_uss-roanoke,USS Roanoke,usa,Active,Reserve,1857-05-04,1857-09-24
+sf-roanoke_uss-roanoke,USS Roanoke,usa,Reserve,Active,1857-09-24,1858-08-18
+sf-roanoke_uss-roanoke,USS Roanoke,usa,Active,Reserve,1858-08-18,1860-05-12
+sf-roanoke_uss-roanoke,USS Roanoke,usa,Reserve,Active,1860-05-12,1861-06-20
+sf-roanoke_uss-roanoke,USS Roanoke,usa,Active,Converted,1861-06-20,1862-05-25
+sf-colorado_uss-colorado,USS Colorado,usa,Active,Reserve,1858-03-13,1861-01-01
+sf-colorado_uss-colorado,USS Colorado,usa,Reserve,Active,1861-01-01,1861-06-03
+sf-colorado_uss-colorado,USS Colorado,usa,Active,Reserve,1861-06-03,1865-02-03
+sf-colorado_uss-colorado,USS Colorado,usa,Reserve,Active,1865-02-03,1865-05-25
+sf-colorado_uss-colorado,USS Colorado,usa,Active,Reserve,1865-05-25,1867-09-07
+sf-colorado_uss-colorado,USS Colorado,usa,Reserve,Active,1867-09-07,1870-02-15
+sf-colorado_uss-colorado,USS Colorado,usa,Active,Reserve,1870-02-15,1876-06-08
+sf-colorado_uss-colorado,USS Colorado,usa,Reserve,Scrapped,1876-06-08,1885-02-14
+sf-minnesota_uss-minnesota,USS Minnesota,usa,Active,Reserve,1857-05-21,1859-06-02
+sf-minnesota_uss-minnesota,USS Minnesota,usa,Reserve,Active,1859-06-02,1861-05-02
+sf-minnesota_uss-minnesota,USS Minnesota,usa,Active,Reserve,1861-05-02,1865-02-16
+sf-minnesota_uss-minnesota,USS Minnesota,usa,Reserve,Active,1865-02-16,1867-06-03
+sf-minnesota_uss-minnesota,USS Minnesota,usa,Active,Reserve,1867-06-03,1868-01-13
+sf-minnesota_uss-minnesota,USS Minnesota,usa,Reserve,Active,1868-01-13,1875-06-12
+sf-minnesota_uss-minnesota,USS Minnesota,usa,Active,Reserve,1875-06-12,1895-10-01
+sf-minnesota_uss-minnesota,USS Minnesota,usa,Reserve,Scrapped,1895-10-01,1901-08-01
+sf-niagara_uss-niagara,USS Niagara,usa,Active,Reserve,1857-04-06,1865-09-28
+sf-niagara_uss-niagara,USS Niagara,usa,Reserve,Scrapped,1865-09-28,1885-05-06
+sf-merrimack_uss-merrimack,CSS Virginia,csa,Active,Sunk,1862-02-17,1862-05-11
+ci-louisiana_css-louisiana,CSS Louisiana,csa,Active,Sunk,1962-04-20,1862-04-28
+ar-manassas_css-manassas,CSS Manassas,csa,Active,Sunk,1861-09-12,1862-04-24
+ci-missouri_css-missouri,CSS Missouri,csa,Active,Captured,1863-09-12,1865-06-03
+ci-nashville_css-nashville,CSS Nashville,csa,Active,Captured,1864-09-15,1865-05-10
+ci-neuse_css-neuse,CSS Neuse,csa,Active,Sunk,1864-04-01,1865-03-01
+ci-richmond_css-richmond,CSS Richmond,csa,Active,Sunk,1862-07-01,1865-04-03
+ci-north-carolina_css-north-carolina,CSS North Carolina,csa,Active,Sunk,1863-12-01,1864-09-27
+ci-north-carolina_css-raleigh,CSS Raleigh,csa,Active,Sunk,1864-04-30,1864-05-07
+ci-palmetto-state_css-palmetto-state,CSS Palmetto State,csa,Active,Sunk,1862-09-25,1865-02-18
+ci-savannah_css-savannah,CSS Savannah,csa,Active,Sunk,1863-06-30,1864-12-21
+ci-tennessee_css-tennessee,CSS Tenessee,csa,Active,Captured,1864-02-16,1864-08-05
+ci-tennessee_css-tennessee,USS Tenessee,usa,Active,Reserve,1864-08-05,1865-08-19
+ci-tennessee_css-tennessee,USS Tenessee,usa,Reserve,Scrapped,1865-08-19,1867-11-27
+ci-tuscaloosa_css-tuscaloosa,CSS Tuscaloosa,csa,Active,Sunk,1863-05-01,1865-04-12
+ci-virginia-ii_css-virginia-ii,CSS Virginia II,csa,Active,Sunk,1864-05-18,1865-04-03
+ssow-alabama_css-alabama,CSS Alabama,csa,Active,Sunk,1862-08-24,1864-06-19
+ssow-chikamauga_css-chikamauga,CSS Chikamauga,csa,Active,Sunk,1864-09-30,1865-02-25
+sow-clarence_css-clarence,CSS Clarence,csa,Active,Sunk,1863-05-06,1863-06-12
+ssow-florida_css-florida,CSS Florida,csa,Active,Captured,1862-08-17,1864-10-07
+ssow-georgia_css-georgia,CSS Georgia,csa,Active,Captured,1863-04-09,1864-08-15
+ssow-nashville_css-nashville,CSS Nashville,csa,Active,Sold,1861-10-01,1862-03-01
+ssow-nashville_css-nashville,SS Rattlesnake,csa,Active,Sunk,1862-11-05,1863-02-26
+ssow-intrepid_hms-victor,CSS Rappahannock,csa,Active,Interned,1863-11-24,1863-11-25
+ssow-intrepid_hms-victor,CSS Rappahannock,csa,Interned,Captured,1863-11-25,1865-04-01
+ssow-shenandoah_css-shenandoah,CSS Shenandoah,csa,Active,Captured,1864-10-19,1865-11-06
+ssow-sumter_css-sumter,CSS Sumter,csa,Active,Sold,1861-06-03,1862-12-19
+ssow-tacony_css-tacony,CSS Tacony,csa,Active,Sunk,1863-06-12,1863-06-25
+ssow-tallahassee_css-tallahassee,CSS Tallahassee,csa,Active,Renamed,1864-07-20,1864-10-15
+ssow-tallahassee_css-tallahassee,CSS Olustee,csa,Active,Renamed,1864-10-15,1864-12-15
+ssow-tallahassee_css-tallahassee,CSS Chameleon,csa,Active,Sold,1864-12-15,1865-04-09
+ssow-tuscaloosa_css-tuscaloosa,CSS Tuscaloosa,csa,Active,Captured,1863-06-21,1863-12-17
+mts-north-carolina_css-north-carolina,HMS Scorpion,britain,Active,Target,1865-07-01,1901-01-01
+mts-north-carolina_css-mississippi,HMS Wivern,britain,Active,Scrapped,1865-10-01,1922-01-01
+dbi-stonewall_css-stonewall,CSS Stonewall,csa,Active,Captured,1865-01-01,1865-05-01
+dbi-stonewall_css-stonewall,Kotetsu,japan,Active,Renamed,1869-02-03,1871-12-07
+dbi-stonewall_css-stonewall,Azuma,japan,Active,Reserve,1871-12-07,1888-01-28
+dbi-stonewall_css-stonewall,Azuma,japan,Reserve,Scrapped,1888-01-28,1889-12-12
+dbi-stonewall_css-cheops,SMS Prinz Adalbert,germany,Active,Reserve,1866-06-09,1871-10-23
+dbi-stonewall_css-cheops,SMS Prinz Adalbert,germany,Reserve,Scrapped,1871-10-23,1878-05-28
+sf-georgia_css-georgia,BAP Union,peru,Active,Sunk,1865-01-17,1881-01-16
+sf-georgia_css-texas,BAP America,peru,Active,Sunk,1865-01-17,1868-08-13
+sf-santa-maria_santa-maria,HDMS Danmark,denmark,Active,Reserve,1869-06-01,1869-10-01
+sf-santa-maria_santa-maria,HDMS Danmark,denmark,Reserve,Auxiliary,1869-10-01,1893-01-01
+sf-santa-maria_santa-maria,HDMS Danmark,denmark,Auxiliary,Scrapped,1893-01-01,1907-01-01
+sol-america_uss-america,America,france,Active,Scrapped,1783-06-24,1786-01-01
+sol-independence_uss-independence,USS Independence,usa,Active,Reserve,1814-07-01,1822-01-01
+sol-independence_uss-independence,USS Independence,usa,Reserve,Converted,1822-01-01,1836-01-01
+sol-independence_uss-washington,USS Washington,usa,Active,Reserve,1815-08-26,1820-01-01
+sol-independence_uss-washington,USS Washington,usa,Reserve,Scrapped,1820-01-01,1843-01-01
+sol-independence_uss-franklin,USS Franklin,usa,Active,Reserve,1817-10-01,1824-08-29
+sol-independence_uss-franklin,USS Franklin,usa,Reserve,Auxiliary,1824-08-29,1838-06-01
+sol-independence_uss-franklin,USS Franklin,usa,Auxiliary,Scrapped,1838-06-01,1852-01-01
+sol-independence_uss-columbus,USS Columbus,usa,Active,Reserve,1819-09-07,1833-01-01
+sol-independence_uss-columbus,USS Columbus,usa,Reserve,Active,1833-01-01,1842-08-29
+sol-independence_uss-columbus,USS Columbus,usa,Active,Reserve,1842-08-29,1851-01-01
+sol-independence_uss-columbus,USS Columbus,usa,Reserve,Sunk,1851-01-01,1861-04-20
+sol-chippewa_uss-chippewa,USS Chippewa,usa,Reserve,Scrapped,1815-03-01,1833-11-01
+sol-chippewa_uss-new-orleans,USS New Orleans,usa,Reserve,Scrapped,1815-03-01,1883-09-24
+sol-pennsylvania_uss-pennsylvania,USS Pennsylvania,usa,Active,Reserve,1837-11-29,1838-09-16
+sol-pennsylvania_uss-pennsylvania,USS Pennsylvania,usa,Reserve,Auxiliary,1838-09-16,1842-01-01
+sol-pennsylvania_uss-pennsylvania,USS Pennsylvania,usa,Auxiliary,Sunk,1842-01-01,1861-04-20
+sol-delaware_uss-delaware,USS Delaware,usa,Reserve,Active,1820-10-21,1828-02-10
+sol-delaware_uss-delaware,USS Delaware,usa,Active,Reserve,1828-02-10,1830-02-10
+sol-delaware_uss-delaware,USS Delaware,usa,Reserve,Active,1830-02-10,1833-07-15
+sol-delaware_uss-delaware,USS Delaware,usa,Active,Reserve,1833-07-15,1836-03-10
+sol-delaware_uss-delaware,USS Delaware,usa,Reserve,Active,1836-03-10,1841-05-07
+sol-delaware_uss-delaware,USS Delaware,usa,Active,Reserve,1841-05-07,1844-03-22
+sol-delaware_uss-delaware,USS Delaware,usa,Reserve,Sunk,1844-03-22,1861-04-20
+sol-delaware_uss-vermont,USS Vermont,usa,Reserve,Auxiliary,1825-01-01,1862-01-30
+sol-delaware_uss-vermont,USS Vermont,usa,Auxiliary,Sold,1862-01-30,1901-12-19
+sol-delaware_uss-alabama,USS Alabama,usa,Reserve,Renamed,1825-03-01,1863-10-28
+sol-delaware_uss-new-hampshire,USS New Hampshire,usa,Reserve,Auxiliary,1863-10-28,1864-04-23
+sol-delaware_uss-new-hampshire,USS New Hampshire,usa,Auxiliary,Renamed,1864-04-23,1904-11-30
+sol-delaware_uss-new-hampshire,USS Granite State,usa,Auxiliary,Sunk,1904-11-30,1921-05-23
+sol-delaware_uss-virginia,USS Virginia,usa,Reserve,Scrapped,1825-05-01,1874-01-01
+sol-delaware_uss-new-york,USS New York,usa,Reserve,Sunk,1825-01-01,1861-04-20
+sol-delaware_uss-ohio,USS Ohio,usa,Reserve,Active,1820-05-30,1838-10-16
+sol-delaware_uss-ohio,USS Ohio,usa,Active,Auxiliary,1838-10-16,1840-01-01
+sol-delaware_uss-ohio,USS Ohio,usa,Auxiliary,Active,1840-01-01,1846-12-07
+sol-delaware_uss-ohio,USS Ohio,usa,Active,Auxiliary,1846-12-07,1850-01-01
+sol-delaware_uss-ohio,USS Ohio,usa,Auxiliary,Reserve,1850-01-01,1875-01-01
+sol-delaware_uss-ohio,USS Ohio,usa,Reserve,Sold,1875-01-01,1883-09-27
+sol-delaware_uss-north-carolina,USS North Carolina,usa,Active,Auxiliary,1824-06-24,1839-06-01
+sol-delaware_uss-north-carolina,USS North Carolina,usa,Auxiliary,Reserve,1839-06-01,1866-01-01
+sol-delaware_uss-north-carolina,USS North Carolina,usa,Reserve,Sold,1866-01-01,1867-10-01
+sf-mississippi_uss-mississippi,USS Mississippi,usa,Active,Reserve,1842-01-01,1860-01-01
+sf-mississippi_uss-mississippi,USS Mississippi,usa,Reserve,Active,1860-01-01,1861-03-01
+sf-mississippi_uss-mississippi,USS Mississippi,usa,Active,Sunk,1861-03-01,1863-03-14
+sf-mississippi_uss-missouri,USS Missouri,usa,Active,Sunk,1842-01-01,1843-08-26
+sf-susquehanna_uss-susquehanna,USS Susquehanna,usa,Active,Reserve,1850-12-24,1855-03-15
+sf-susquehanna_uss-susquehanna,USS Susquehanna,usa,Reserve,Active,1855-03-15,1856-05-05
+sf-susquehanna_uss-susquehanna,USS Susquehanna,usa,Active,Reserve,1856-05-05,1858-04-18
+sf-susquehanna_uss-susquehanna,USS Susquehanna,usa,Reserve,Active,1858-04-18,1860-08-17
+sf-susquehanna_uss-susquehanna,USS Susquehanna,usa,Active,Reserve,1860-08-17,1866-06-30
+sf-susquehanna_uss-susquehanna,USS Susquehanna,usa,Reserve,Active,1866-06-30,1866-11-02
+sf-susquehanna_uss-susquehanna,USS Susquehanna,usa,Active,Reserve,1866-11-02,1868-01-14
+sf-susquehanna_uss-susquehanna,USS Susquehanna,usa,Reserve,Scrapped,1868-01-14,1883-09-27
+sf-susquehanna_uss-powhatan,USS Powhatan,usa,Active,Reserve,1852-09-02,1886-06-02
+sf-susquehanna_uss-powhatan,USS Powhatan,usa,Reserve,Scrapped,1886-06-02,1886-07-30
+sf-franklin_uss-franklin,USS Franklin,usa,Active,Reserve,1867-06-03,1871-11-13
+sf-franklin_uss-franklin,USS Franklin,usa,Reserve,Active,1871-11-13,1873-12-15
+sf-franklin_uss-franklin,USS Franklin,usa,Active,Auxiliary,1873-12-15,1877-03-02
+sf-franklin_uss-franklin,USS Franklin,usa,Auxiliary,Reserve,1877-03-02,1915-10-14
+sf-franklin_uss-franklin,USS Franklin,usa,Reserve,Sold,1915-10-14,1915-10-26
+sf-wampanoag_uss-wampanoag,USS Wampanoag,usa,Active,Reserve,1867-09-17,1868-05-05
+sf-wampanoag_uss-wampanoag,USS Wampanoag,usa,Active,Renamed,1868-05-05,1869-05-15
+sf-wampanoag_uss-wampanoag,USS Florida,usa,Active,Sold,1869-05-15,1885-02-27
+sf-madawaska_uss-madawaska,USS Tenessee,usa,Active,Sold,1869-05-15,1886-09-15
+sf-ammonoosuc_uss-ammonoosuc,USS Ammonoosuc,usa,Reserve,Renamed,1868-04-01,1869-05-15
+sf-ammonoosuc_uss-ammonoosuc,USS Iowa,usa,Reserve,Sold,1869-05-15,1883-09-27
+sf-ammonoosuc_uss-neshaminy,USS Neshaminy,usa,Reserve,Renamed,1869-01-01,1869-05-15
+sf-ammonoosuc_uss-neshaminy,USS Arizona,usa,Reserve,Renamed,1869-05-15,1869-08-12
+sf-ammonoosuc_uss-neshaminy,USS Nevada,usa,Reserve,Sold,1869-08-12,1874-06-01
+sf-chattanooga_uss-chattanooga,USS Chattanooga,usa,Active,Reserve,1866-05-16,1866-09-03
+sf-chattanooga_uss-chattanooga,USS Chattanooga,usa,Reserve,Sunk,1866-09-03,1871-12-01
+sf-java_uss-guerriere,USS Guerriere,usa,Active,Reserve,1867-05-21,1872-03-22
+sf-java_uss-guerriere,USS Guerriere,usa,Reserve,Sold,1872-03-22,1872-12-12
+sf-java_uss-piscataqua,USS Piscataqua,usa,Active,Renamed,1867-10-21,1869-05-15
+sf-java_uss-piscataqua,USS Delaware,usa,Active,Reserve,1869-05-15,1870-12-05
+sf-java_uss-piscataqua,USS Delaware,usa,Reserve,Scrapped,1870-12-05,1877-02-01
+sf-java_uss-minnetonka,USS California,usa,Active,Sold,1870-10-07,1875-05-01
+sf-java_uss_antietam,USS Antietam,usa,Auxiliary,Sold,1876-01-01,1888-09-08
+sf-trenton_uss-trenton,USS Trenton,usa,Active,Reserve,1877-02-14,1881-11-09
+sf-trenton_uss-trenton,USS Trenton,usa,Reserve,Active,1881-11-09,1883-09-19
+sf-trenton_uss-trenton,USS Trenton,usa,Active,Reserve,1883-09-19,1886-09-17
+sf-trenton_uss-trenton,USS Trenton,usa,Reserve,Active,1886-09-17,1887-05-16
+sf-trenton_uss-trenton,USS Trenton,usa,Active,Sunk,1887-05-16,1889-03-16
+sf-adams_uss-adams,USS Adams,usa,Active,Reserve,1799-09-23,1801-03-23
+sf-adams_uss-adams,USS Adams,usa,Reserve,Active,1801-03-23,1802-05-01
+sf-adams_uss-adams,USS Adams,usa,Active,Reserve,1802-05-01,1803-11-01
+sf-adams_uss-adams,USS Adams,usa,Reserve,Active,1803-11-01,1805-07-01
+sf-adams_uss-adams,USS Adams,usa,Active,Reserve,1805-07-01,1806-10-01
+sf-adams_uss-adams,USS Adams,usa,Reserve,Auxiliary,1806-10-01,1811-08-01
+sf-adams_uss-adams,USS Adams,usa,Auxiliary,Modernized,1811-08-01,1812-06-01
+sf-adams-1812_uss-adams,USS Adams,usa,Active,Sunk,1812-12-01,1814-09-03
+sf-baltimore_uss-baltimore,USS Baltimore,usa,Active,Sold,1798-05-23,1801-01-01
+sf-boston_uss-boston,USS Boston,usa,Active,Sunk,1799-04-01,1814-08-24
+sf-potomac_uss-potomac,USS Potomac,usa,Active,Auxiliary,1831-01-01,1861-12-25
+sf-potomac_uss-potomac,USS Potomac,usa,Auxiliary,Reserve,1861-12-25,1867-01-01
+sf-potomac_uss-potomac,USS Potomac,usa,Reserve,Sold,1867-01-01,1877-05-24
+sf-potomac_uss-brandywine,USS Brandywine,usa,Active,Reserve,1825-08-25,1829-10-08
+sf-potomac_uss-brandywine,USS Brandywine,usa,Reserve,Active,1829-10-08,1830-01-10
+sf-potomac_uss-brandywine,USS Brandywine,usa,Active,Reserve,1830-01-10,1833-07-11
+sf-potomac_uss-brandywine,USS Brandywine,usa,Reserve,Active,1833-07-11,1834-04-04
+sf-potomac_uss-brandywine,USS Brandywine,usa,Active,Reserve,1834-04-04,1837-05-09
+sf-potomac_uss-brandywine,USS Brandywine,usa,Reserve,Active,1837-05-09,1839-08-02
+sf-potomac_uss-brandywine,USS Brandywine,usa,Active,Reserve,1839-08-02,1842-07-30
+sf-potomac_uss-brandywine,USS Brandywine,usa,Reserve,Active,1842-07-30,1843-02-16
+sf-potomac_uss-brandywine,USS Brandywine,usa,Active,Reserve,1843-02-16,1845-09-25
+sf-potomac_uss-brandywine,USS Brandywine,usa,Reserve,Active,1845-09-25,1847-08-30
+sf-potomac_uss-brandywine,USS Brandywine,usa,Active,Reserve,1847-08-30,1850-12-14
+sf-potomac_uss-brandywine,USS Brandywine,usa,Reserve,Auxiliary,1850-12-14,1861-10-27
+sf-potomac_uss-brandywine,USS Brandywine,usa,Auxiliary,Sunk,1861-10-27,1864-09-03
+sf-potomac_uss-columbia,USS Columbia,usa,Active,Reserve,1838-05-01,1847-10-01
+sf-potomac_uss-columbia,USS Columbia,usa,Reserve,Active,1847-10-01,1853-01-01
+sf-potomac_uss-columbia,USS Columbia,usa,Active,Reserve,1853-01-01,1855-03-01
+sf-potomac_uss-columbia,USS Columbia,usa,Reserve,Sunk,1855-03-01,1861-04-21
+sf-potomac_uss-cumberland,USS Cumberland,usa,Active,Converted,1842-11-09,1855-01-01
+sf-potomac_uss-cumberland,USS Cumberland,usa,Active,Sunk,1857-01-01,1862-03-08
+sf-potomac_uss-raritan,USS Raritan,usa,Active,Reserve,1844-02-20,1848-01-01
+sf-potomac_uss-raritan,USS Raritan,usa,Reserve,Active,1848-01-01,1849-01-01
+sf-potomac_uss-raritan,USS Raritan,usa,Active,Reserve,1849-01-01,1852-10-01
+sf-potomac_uss-raritan,USS Raritan,usa,Reserve,Sunk,1852-10-01,1861-04-20
+sf-potomac_uss-savannah,USS Savannah,usa,Active,Converted,1844-01-01,1856-11-01
+sf-potomac_uss-savannah,USS Savannah,usa,Active,Auxiliary,1859-01-01,1862-02-11
+sf-potomac_uss-savannah,USS Savannah,usa,Auxiliary,Reserve,1862-02-11,1870-01-01
+sf-potomac_uss-savannah,USS Savannah,usa,Reserve,Sold,1870-01-01,1883-01-01
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Active,Reserve,1848-08-17,1850-11-15
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Reserve,Active,1850-11-15,1851-02-05
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Active,Reserve,1851-02-05,1851-08-18
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Reserve,Active,1851-08-18,1851-11-18
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Active,Reserve,1851-11-18,1855-05-21
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Reserve,Active,1855-05-21,1856-09-22
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Active,Reserve,1856-09-22,1859-05-25
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Reserve,Active,1859-05-25,1861-06-21
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Active,Reserve,1861-06-21,1863-05-30
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Reserve,Active,1863-05-30,1863-08-05
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Active,Reserve,1863-08-05,1865-12-12
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Reserve,Auxiliary,1865-12-12,1867-01-01
+sf-potomac_uss-st-lawrence,USS St. Lawrence,usa,Auxiliary,Sold,1867-01-01,1875-12-31
+sf-united-states_uss-united-states,USS United States,usa,Active,Reserve,1797-04-01,1801-03-03
+sf-united-states_uss-united-states,USS United States,usa,Reserve,Active,1801-03-03,1810-06-10
+sf-united-states_uss-united-states,USS United States,usa,Active,Reserve,1810-06-10,1819-06-09
+sf-united-states_uss-united-states,USS United States,usa,Reserve,Active,1819-06-09,1823-11-01
+sf-united-states_uss-united-states,USS United States,usa,Active,Reserve,1823-11-01,1830-01-01
+sf-united-states_uss-united-states,USS United States,usa,Reserve,Active,1830-01-01,1832-07-01
+sf-united-states_uss-united-states,USS United States,usa,Active,Reserve,1832-07-01,1844-10-14
+sf-united-states_uss-united-states,USS United States,usa,Reserve,Active,1844-10-14,1846-05-18
+sf-united-states_uss-united-states,USS United States,usa,Active,Reserve,1846-05-18,1849-02-24
+sf-united-states_uss-united-states,USS United States,usa,Reserve,Captured,1849-02-24,1861-04-20
+sf-united-states_uss-united-states,USS United States,usa,Reserve,Scrapped,1862-04-15,1864-03-01
+sf-united-states_uss-united-states,CSS Confederate States,csa,Auxiliary,Sunk,1861-04-29,1862-05-11
+sf-united-states_uss-president,USS President,usa,Active,Captured,1800-08-05,1815-01-15
+sf-united-states_uss-constitution,USS Constitution,usa,Active,Reserve,1798-07-22,1802-07-02
+sf-united-states_uss-constitution,USS Constitution,usa,Reserve,Active,1802-07-02,1803-05-13
+sf-united-states_uss-constitution,USS Constitution,usa,Active,Reserve,1803-05-13,1807-10-14
+sf-united-states_uss-constitution,USS Constitution,usa,Reserve,Active,1807-10-14,1807-12-01
+sf-united-states_uss-constitution,USS Constitution,usa,Active,Reserve,1807-12-01,1816-01-01
+sf-united-states_uss-constitution,USS Constitution,usa,Reserve,Active,1816-01-01,1820-04-01
+sf-united-states_uss-constitution,USS Constitution,usa,Active,Reserve,1820-04-01,1825-07-04
+sf-united-states_uss-constitution,USS Constitution,usa,Reserve,Active,1825-07-04,1835-03-01
+sf-united-states_uss-constitution,USS Constitution,usa,Active,Auxiliary,1835-03-01,1842-12-01
+sf-united-states_uss-constitution,USS Constitution,usa,Auxiliary,Active,1842-12-01,1844-05-29
+sf-united-states_uss-constitution,USS Constitution,usa,Active,Reserve,1844-05-29,1846-10-05
+sf-united-states_uss-constitution,USS Constitution,usa,Reserve,Active,1846-10-05,1848-12-09
+sf-united-states_uss-constitution,USS Constitution,usa,Active,Reserve,1848-12-09,1851-01-01
+sf-united-states_uss-constitution,USS Constitution,usa,Reserve,Active,1851-01-01,1852-12-22
+sf-united-states_uss-constitution,USS Constitution,usa,Active,Reserve,1852-12-22,1855-06-14
+sf-united-states_uss-constitution,USS Constitution,usa,Reserve,Auxiliary,1855-06-14,1857-01-01
+sf-united-states_uss-constitution,USS Constitution,usa,Auxiliary,Reserve,1857-01-01,1871-09-26
+sf-united-states_uss-constitution,USS Constitution,usa,Reserve,Auxiliary,1871-09-26,1878-01-09
+sf-united-states_uss-constitution,USS Constitution,usa,Auxiliary,Renamed,1878-01-09,1917-12-01
+sf-united-states_uss-constitution,USS Old Constitution,usa,Auxiliary,Renamed,1917-12-01,1925-07-24
+sf-united-states_uss-constitution,USS Constitution,usa,Auxiliary,,1925-07-24,
+sf-united-states_uss-president,HMS President,britain,Active,Scrapped,1815-01-15,1818-01-01
+sf-constellation_uss-constellation,USS Constellation,usa,Active,Reserve,1798-01-01,1805-11-01
+sf-constellation_uss-constellation,USS Constellation,usa,Reserve,Active,1805-11-01,1813-01-01
+sf-constellation_uss-constellation,USS Constellation,usa,Active,Scrapped,1813-01-01,1853-01-01
+sf-constellation_uss-congress,USS Congress,usa,Active,Reserve,1800-01-06,1801-03-03
+sf-constellation_uss-congress,USS Congress,usa,Reserve,Active,1801-03-03,1804-04-01
+sf-constellation_uss-congress,USS Congress,usa,Active,Auxiliary,1804-04-01,1805-10-01
+sf-constellation_uss-congress,USS Congress,usa,Auxiliary,Active,1805-10-01,1811-07-01
+sf-constellation_uss-congress,USS Congress,usa,Active,Reserve,1811-07-01,1815-12-01
+sf-constellation_uss-congress,USS Congress,usa,Reserve,Active,1815-12-01,1816-06-01
+sf-constellation_uss-congress,USS Congress,usa,Active,Auxiliary,1816-06-01,1823-12-17
+sf-constellation_uss-congress,USS Congress,usa,Auxiliary,Scrapped,1823-12-17,1834-01-01
+sf-congress_uss-congress,USS Congress,usa,Active,Reserve,1842-05-07,1845-03-01
+sf-congress_uss-congress,USS Congress,usa,Reserve,Active,1845-03-01,1845-09-15
+sf-congress_uss-congress,USS Congress,usa,Active,Reserve,1845-09-15,1848-01-01
+sf-congress_uss-congress,USS Congress,usa,Reserve,Active,1848-01-01,1850-05-01
+sf-congress_uss-congress,USS Congress,usa,Active,Reserve,1850-05-01,1853-07-20
+sf-congress_uss-congress,USS Congress,usa,Reserve,Active,1853-07-20,1855-06-19
+sf-congress_uss-congress,USS Congress,usa,Active,Reserve,1855-06-19,1858-01-13
+sf-congress_uss-congress,USS Congress,usa,Reserve,Active,1858-01-13,1859-01-01
+sf-congress_uss-congress,USS Congress,usa,Active,Sunk,1859-01-01,1862-03-08
+sf-chesapeake_uss-chesapeake,USS Chesapeake,usa,Active,Reserve,1800-05-22,1801-02-26
+sf-chesapeake_uss-chesapeake,USS Chesapeake,usa,Reserve,Active,1801-02-26,1802-04-27
+sf-chesapeake_uss-chesapeake,USS Chesapeake,usa,Active,Reserve,1802-04-27,1803-06-01
+sf-chesapeake_uss-chesapeake,USS Chesapeake,usa,Reserve,Active,1803-06-01,1807-06-01
+sf-chesapeake_uss-chesapeake,USS Chesapeake,usa,Active,Captured,1807-06-01,1813-06-01
+sf-chesapeake_uss-chesapeake,HMS Chesapeake,britain,Active,Scrapped,1813-06-01,1819-01-01
+sf-connecticut_uss-connecticut,USS Connecticut,usa,Active,Sold,1799-10-15,1801-01-01
+sow-delaware_uss-delaware,USS Delaware,usa,Active,Sold,1798-05-05,1801-06-01
+sf-ganges_uss-ganges,USS Ganges,usa,Active,Sold,1798-05-03,1801-12-08
+sf-george-washington_uss-george-washington,USS George Washington,usa,Active,Sold,1798-10-12,1802-05-01
+sf-merrimack-1798_uss-merrimack,USS Merrimack,usa,Active,Sold,1798-12-01,1801-04-01
+sf-montezuma_uss-montezuma,USS Montezuma,usa,Active,Sold,1798-06-26,1799-12-30
+sf-portsmouth_uss-portsmouth,USS Portsmouth,usa,Active,Sold,1799-07-01,1801-05-01
+sow-warren_uss-warren,USS Warren,usa,Active,Sold,1799-12-01,1801-06-01
+sow-trumbull_uss-trumbull,USS Trumbull,usa,Active,Sold,1800-03-01,1801-06-01
+sf-essex_uss-essex,USS Essex,usa,Active,Reserve,1799-12-14,1806-07-01
+sf-essex_uss-essex,USS Essex,usa,Reserve,Active,1806-07-01,1809-02-01
+sf-essex_uss-essex,USS Essex,usa,Active,Captured,1809-02-01,1814-03-28
+sf-essex_uss-essex,HMS Essex,britain,Active,Auxiliary,1814-03-28,1819-07-07
+sf-essex_uss-essex,HMS Essex,britain,Auxiliary,Sold,1819-07-07,1837-06-06
+sf-general-greene_uss-general-greene,USS General Greene,usa,Active,Reserve,1799-06-02,1801-04-03
+sf-general-greene_uss-general-greene,USS General Greene,usa,Reserve,Auxiliary,1801-04-03,1805-01-01
+sf-general-greene_uss-general-greene,USS General Greene,usa,Auxiliary,Sunk,1805-01-01,1814-08-24
+sf-liberator_liberator,USS Hudson,usa,Active,Auxiliary,1828-09-28,1831-08-05
+sf-liberator_liberator,USS Hudson,usa,Auxiliary,Scrapped,1831-08-05,1844-06-04
+sf-new-york_uss-new-york,USS New York,usa,Active,Reserve,1800-10-01,1801-04-01
+sf-new-york_uss-new-york,USS New York,usa,Reserve,Active,1801-04-01,1802-08-14
+sf-new-york_uss-new-york,USS New York,usa,Active,Reserve,1802-08-14,1803-12-09
+sf-new-york_uss-new-york,USS New York,usa,Reserve,Sunk,1803-12-09,1814-08-24
+sol-superior_uss-superior,USS Superior,usa,Active,Reserve,1814-07-01,1815-04-01
+sol-superior_uss-superior,USS Superior,usa,Reserve,Sold,1815-04-01,1824-01-01
+sf-philadelphia_uss-philadelphia,USS Philadelphia,usa,Active,Captured,1800-04-05,1803-11-31
+sf-philadelphia_uss-philadelphia,USS Philadelphia,usa,Active,Sunk,1804-02-15,1804-02-16
+sf-mohawk_uss-mohawk,USS Mohawk,usa,Active,Reserve,1814-07-31,1814-12-28
+sf-mohawk_uss-mohawk,USS Mohawk,usa,Reserve,Sold,1814-12-28,1821-01-01
+sf-banterer_hms-banterer,HMS Banterer,britain,Active,Sunk,1807-07-12,1808-10-01
+sf-banterer_hms-daphne,HMS Daphne,britain,Active,Sold,1806-10-04,1816-02-01
+sf-banterer_hms-cossack,HMS Cossack,britain,Active,Scrapped,1807-07-02,1816-06-01
+sf-banterer_hms-cyane,HMS Cyane,britain,Active,Captured,1807-07-13,1815-02-20
+sf-banterer_hms-crocodile,HMS Crocodile,britain,Active,Scrapped,1906-08-10,1816-10-01
+sf-banterer_hms-porcupine,HMS Porcupine,britain,Active,Reserve,1807-06-22,1815-11-06
+sf-banterer_hms-porcupine,HMS Porcupine,britain,Reserve,Scrapped,1815-11-06,1816-04-01
+sf-banterer_hms-cyane,USS Cyane,usa,Active,Reserve,1815-02-20,1826-01-01
+sf-banterer_hms-cyane,USS Cyane,usa,Reserve,Sunk,1826-01-01,1835-01-01
+sf-guerriere_uss-guerriere,USS Guerriere,usa,Active,Reserve,1815-01-01,1816-03-04
+sf-guerriere_uss-guerriere,USS Guerriere,usa,Reserve,Active,1816-03-04,1818-04-22
+sf-guerriere_uss-guerriere,USS Guerriere,usa,Active,Reserve,1818-04-22,1820-11-08
+sf-guerriere_uss-guerriere,USS Guerriere,usa,Reserve,Active,1820-11-08,1828-11-01
+sf-guerriere_uss-guerriere,USS Guerriere,usa,Active,Reserve,1828-11-01,1831-12-19
+sf-guerriere_uss-guerriere,USS Guerriere,usa,Reserve,Scrapped,1831-12-19,1841-01-01
+sf-guerriere_uss-java,USS Java,usa,Active,Reserve,1815-08-05,1817-02-01
+sf-guerriere_uss-java,USS Java,usa,Reserve,Active,1817-02-01,1827-01-01
+sf-guerriere_uss-java,USS Java,usa,Active,Auxiliary,1827-01-01,1831-11-01
+sf-guerriere_uss-java,USS Java,usa,Auxiliary,Scrapped,1831-11-01,1842-01-01
+sf-sabine_uss-sabine,USS Sabine,usa,Reserve,Active,1855-06-01,1858-08-23
+sf-sabine_uss-sabine,USS Sabine,usa,Active,Training,1858-08-23,1864-08-01
+sf-sabine_uss-sabine,USS Sabine,usa,Training,Auxiliary,1864-08-01,1872-01-01
+sf-sabine_uss-sabine,USS Sabine,usa,Auxiliary,Reserve,1872-01-01,1876-01-01
+sf-sabine_uss-sabine,USS Sabine,usa,Reserve,Sold,1876-01-01,1883-09-23
+sf-sabine_uss-santee,USS Santee,usa,Reserve,Active,1855-06-01,1861-06-09
+sf-sabine_uss-santee,USS Santee,usa,Active,Auxiliary,1861-06-09,1862-09-04
+sf-sabine_uss-santee,USS Santee,usa,Auxiliary,Sunk,1862-09-04,1912-04-02
+sf-john-adams_uss-john-adams,USS John Adams,usa,Active,Reserve,1799-10-01,1801-06-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Reserve,Active,1801-06-01,1802-10-22
+sf-john-adams_uss-john-adams,USS John Adams,usa,Active,Reserve,1802-10-22,1805-11-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Reserve,Converted,1805-11-01,1807-01-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Reserve,Active,1809-01-01,1814-03-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Active,Converted,1814-03-01,1829-01-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Active,Reserve,1831-01-01,1840-06-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Reserve,Active,1840-06-01,1842-06-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Active,Auxiliary,1842-06-01,1862-03-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Auxiliary,Active,1862-03-01,1863-06-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Active,Reserve,1863-06-01,1865-09-01
+sf-john-adams_uss-john-adams,USS John Adams,usa,Reserve,Sold,1865-09-01,1867-10-05
+sf-lively_hms-lively,HMS Lively,britain,Active,Sunk,1804-08-27,1810-08-10
+sf-lively_hms-resistance,HMS Resistance,britain,Active,Scrapped,1805-10-19,1858-04-01
+sf-lively_hms-apollo,HMS Apollo,britain,Active,Auxiliary,1805-09-26,1815-06-01
+sf-lively_hms-apollo,HMS Apollo,britain,Auxiliary,Scrapped,1815-06-01,1856-10-01
+sf-lively_hms-hussar,HMS Hussar,britain,Active,Sunk,1807-06-27,1861-01-01
+sf-lively_hms-undaunted,HMS Undaunted,britain,Active,Reserve,1807-12-02,1815-10-01
+sf-lively_hms-undaunted,HMS Undaunted,britain,Reserve,Active,1815-10-01,1827-08-11
+sf-lively_hms-undaunted,HMS Undaunted,britain,Active,Reserve,1827-08-11,1830-11-01
+sf-lively_hms-undaunted,HMS Undaunted,britain,Reserve,Active,1830-11-01,1831-11-01
+sf-lively_hms-undaunted,HMS Undaunted,britain,Active,Reserve,1831-11-01,1834-06-01
+sf-lively_hms-undaunted,HMS Undaunted,britain,Reserve,Target,1834-06-01,1859-11-15
+sf-lively_hms-undaunted,HMS Undaunted,britain,Target,Sunk,1859-11-15,1859-11-24
+sf-lively_hms-statira,HMS Statira,britain,Active,Sunk,1807-08-26,1815-02-26
+sf-lively_hms-horatio,HMS Horatio,britain,Active,Converted,1807-08-04,1850-01-01
+sf-lively_hms-horatio,HMS Horatio,britain,Active,Scrapped,1851-01-01,1861-01-01
+sf-lively_hms-spartan,HMS Spartan,britain,Active,Scrapped,1806-10-06,1822-04-01
+sf-lively_hms-menelaus,HMS Menelaus,britain,Active,Reserve,1810-06-21,1818-01-01
+sf-lively_hms-menelaus,HMS Menelaus,britain,Reserve,Auxiliary,1818-01-01,1832-01-01
+sf-lively_hms-menelaus,HMS Menelaus,britain,Auxiliary,Scrapped,1832-01-01,1897-05-10
+sf-lively_hms-nisus,HMS Nisus,britain,Active,Reserve,1810-06-15,1815-01-01
+sf-lively_hms-nisus,HMS Nisus,britain,Reserve,Scrapped,1815-01-01,1822-09-01
+sf-lively_hms-macedonian,HMS Macedonian,britain,Active,Captured,1810-07-06,1812-10-25
+sf-lively_hms-crescent,HMS Crescent,britain,Active,Scrapped,1811-02-02,1854-01-01
+sf-lively_hms-bacchante,HMS Bacchante,britain,Active,Scrapped,1812-01-25,1858-01-01
+sf-lively_hms-nymphe,HMS Nymphe,britain,Active,Scrapped,1812-06-22,1875-01-01
+sf-lively_hms-sirius,HMS Sirius,britain,Active,Scrapped,1815-09-29,1862-01-01
+sf-lively_hms-laurel,HMS Laurel,britain,Active,Scrapped,1813-09-13,1885-01-01
+sf-lively_hms-macedonian,USS Macedonian,usa,Active,Reserve,1813-04-01,1828-12-01
+sf-lively_hms-macedonian,USS Macedonian,usa,Reserve,Scrapped,1828-12-01,1832-01-01
+sf-macedonian-1836_uss-macedonian,USS Macedonian,usa,Active,Converted,1836-04-01,1852-01-01
+sf-macedonian-1836_uss-macedonian,USS Macedonian,usa,Active,Auxiliary,1853-01-01,1863-12-01
+sf-macedonian-1836_uss-macedonian,USS Macedonian,usa,Auxiliary,Sold,1863-12-01,1871-01-01
+sf-semillante_semillante,Semillante,france,Active,Privateer,1792-05-01,1808-09-01
+sf-semillante_semillante,Charles,france,Privateer,Captured,1808-09-01,1809-12-01
+sf-semillante_insurgente,Insurgente,france,Active,Captured,1793-06-01,1799-02-08
+sf-semillante_insurgente,USS Insurgent,usa,Active,Sunk,1799-02-08,1800-09-20
+sf-alliance_uss-hancock,USS Alliance,usa,Active,Reserve,1778-05-29,1784-01-01
+sf-alliance_uss-hancock,USS Alliance,usa,Reserve,Sold,1784-01-01,1785-08-01
+sf-hancock_uss-hancock,USS Hancock,usa,Active,Captured,1777-05-01,1777-07-08
+sf-hancock_uss-hancock,HMS Iris,britain,Active,Captured,1777-07-08,1781-09-09
+sf-hancock_uss-hancock,Iris,france,Active,Sold,1781-09-09,1783-01-01
+sf-hancock_uss-raleigh,USS Raleigh,usa,Active,Captured,1778-09-25,1778-09-25
+sf-hancock_uss-raleigh,HMS Raleigh,britain,Active,Reserve,1778-09-25,1780-05-01
+sf-hancock_uss-raleigh,HMS Raleigh,britain,Reserve,Sold,1780-05-01,1781-06-10
+sf-alliance_uss-confederacy,HMS Confederate,britain,Active,Sold,1781-04-14,1782-03-01
+sf-randolph_uss-randolph,USS Randolph,usa,Active,Sunk,1776-10-15,1778-03-07
+sf-randolph_uss-warren,USS Warren,usa,Active,Sunk,1776-12-01,1779-08-01
+sf-boston-1777_uss-boston,USS Boston,usa,Active,Captured,1777-05-21,1780-05-12
+sf-boston-1777_uss-boston,HMS Charlestown,britain,Active,Sold,1780-05-12,1783-01-01
+sf-delaware_uss-delaware,USS Delaware,usa,Active,Captured,1776-08-01,1777-09-27
+sf-delaware_uss-delaware,HMS Delaware,britain,Active,Sold,1778-04-01,1783-04-01
+sf-queen-of-france_uss-queen-of-france,USS Queen of France,usa,Active,Sunk,1778-12-01,1780-05-11
+sf-providence_uss-providence,USS Providence,usa,Active,Captured,1776-06-01,1780-05-12
+sf-providence_uss-providence,HMS Providence,britain,Active,Sold,1780-05-12,1783-03-01
+sf-deane_uss-deane,USS Deane,usa,Active,Renamed,1778-05-01,1782-09-01
+sf-deane_uss-deane,USS Hague,usa,Active,Sold,1782-09-01,1783-01-01
+sf-providence_uss-trumbull,USS Trumbull,usa,Active,Captured,1779-09-20,1781-08-28
+sf-indien_uss-indien,USS South Carolina,usa,Active,Captured,1780-05-30,1782-12-21
+sf-bonhomme-richard_uss-bonhomme-richard,USS Bonhomme Richard,usa,Active,Sunk,1779-02-04,1779-09-25
+sf-enterprise_hms-siren,HMS Siren,britain,Active,Sunk,1775-10-05,1777-11-06
+sf-enterprise_hms-fox,HMS Fox,britain,Active,Captured,1776-02-12,1777-06-07
+sf-enterprise_hms-fox,HMS Fox,britain,Active,Captured,1777-07-08,1778-09-11
+sf-enterprise_hms-surprise,HMS Surprise,britain,Active,Sold,1775-04-15,1783-04-24
+sf-enterprise_hms-enterprise,HMS Enterprise,britain,Active,Scrapped,1775-06-20,1807-08-01
+sf-enterprise_hms-actaeon,HMS Actaeon,britain,Active,Sunk,1775-08-03,1776-06-29
+sf-enterprise_hms-proserpine,HMS Proserpine,britain,Active,Sunk,1777-09-23,1799-02-01
+sf-enterprise_hms-medea,HMS Medea,britain,Active,Reserve,1778-09-15,1784-02-01
+sf-enterprise_hms-medea,HMS Medea,britain,Reserve,Auxiliary,1784-02-01,1801-01-01
+sf-enterprise_hms-medea,HMS Medea,britain,Auxiliary,Sold,1801-01-01,1805-01-01
+sf-enterprise_hms-andromeda,HMS Andromeda,britain,Active,Sunk,1778-01-28,1780-11-11
+sf-enterprise_hms-aurora,HMS Aurora,britain,Active,Sold,1777-08-09,1814-11-03
+sf-enterprise_hms-sibyl,HMS Sibyl,britain,Active,Renamed,1779-03-13,1795-01-01
+sf-enterprise_hms-sibyl,HMS Garland,britain,Active,Sunk,1795-01-01,1798-07-26
+sf-enterprise_hms-brilliant,HMS Brilliant,britain,Active,Scrapped,1779-09-04,1811-11-01
+sf-enterprise_hms-pomona,HMS Pomona,britain,Active,Renamed,1778-12-17,1795-01-01
+sf-enterprise_hms-pomona,HMS Amphitrite,britain,Active,Scrapped,1795-01-01,1811-08-01
+sf-enterprise_hms-crescent,HMS Crescent,britain,Active,Captured,1779-06-30,1781-06-19
+sf-enterprise_hms-nemesis,HMS Nemesis,britain,Active,Captured,1780-06-22,1795-12-09
+sf-enterprise_hms-nemesis,HMS Nemesis,britain,Active,Scrapped,1796-03-09,1814-06-09
+sf-enterprise_hms-resource,HMS Resource,britain,Active,Renamed,1778-10-02,1806-04-17
+sf-enterprise_hms-resource,HMS Enterprise,britain,Active,Sold,1806-04-17,1816-08-28
+sf-enterprise_hms-mercury,HMS Mercury,britain,Active,Scrapped,1780-02-24,1814-01-01
+sf-enterprise_hms-pegasus,HMS Pegasus,britain,Active,Sold,1779-07-20,1816-08-28
+sf-enterprise_hms-cyclops,HMS Cyclops,britain,Active,Sold,1779-09-26,1814-09-01
+sf-enterprise_hms-vestal,HMS Vestal,britain,Active,Sold,1780-02-25,1816-02-01
+sf-enterprise_hms-laurel,HMS Laurel,britain,Active,Sunk,1780-01-04,1780-11-11
+sf-enterprise_hms-thisbe,HMS Thisbe,britain,Active,Scrapped,1784-04-19,1815-08-09
+sf-enterprise_hms-circe,HMS Circe,britain,Active,Sunk,1790-11-02,1803-11-17
+sf-enterprise_hms-rose,HMS Rose,britain,Active,Sunk,1783-11-23,1794-06-28
+sf-enterprise_hms-hussar,HMS Hussar,britain,Active,Sunk,1787-11-01,1796-12-27
+sf-enterprise_hms-alligator,HMS Alligator,britain,Active,Sold,1790-07-18,1814-07-21
+sf-enterprise_hms-dido,HMS Dido,britain,Active,Sold,1787-10-01,1817-04-03
+sf-enterprise_hms-lapwing,HMS Lapwing,britain,Active,Scrapped,1791-05-19,1828-05-01
+sf-enterprise_hms-fox,USS Fox,usa,Active,Captured,1777-06-07,1777-07-08
+sf-enterprise_hms-fox,Fox,france,Active,Sunk,1778-09-11,1779-03-01
+sf-enterprise_hms-crescent,Crescent,france,Active,Sunk,1781-06-20,1786-01-01
+sf-enterprise_hms-nemesis,Nemesis,france,Active,Captured,1795-12-09,1796-03-09
+sow-albany_uss-albany,USS Albany,usa,Active,Sunk,1846-11-06,1854-09-28
+gs-fair-american_uss-fair-american,USS Fair American,usa,Active,Sold,1812-10-01,1815-05-15
+sow-wasp_uss-wasp,USS Wasp,usa,Active,Captured,1807-04-01,1812-10-15
+sow-wasp_uss-wasp,HMS Loup Cervier,britain,Active,Renamed,1812-10-15,1814-03-01
+sow-wasp_uss-wasp,HMS Peacock,britain,Active,Sunk,1814-03-01,1814-07-01
+sow-yorktown_uss-yorktown,USS Yorktown,usa,Active,Reserve,1840-11-15,1843-08-11
+sow-yorktown_uss-yorktown,USS Yorktown,usa,Reserve,Active,1843-08-11,1844-08-07
+sow-yorktown_uss-yorktown,USS Yorktown,usa,Active,Reserve,1844-08-07,1846-06-09
+sow-yorktown_uss-yorktown,USS Yorktown,usa,Reserve,Active,1846-06-09,1848-11-22
+sow-yorktown_uss-yorktown,USS Yorktown,usa,Active,Sunk,1848-11-22,1850-09-06
+sow-yorktown_uss-dale,USS Dale,usa,Active,Reserve,1839-12-11,1859-05-01
+sow-yorktown_uss-dale,USS Dale,usa,Reserve,Auxiliary,1859-05-01,1861-06-30
+sow-yorktown_uss-dale,USS Dale,usa,Auxiliary,Reserve,1861-06-30,1865-07-20
+sow-yorktown_uss-dale,USS Dale,usa,Reserve,Training,1865-07-20,1867-05-29
+sow-yorktown_uss-dale,USS Dale,usa,Training,Auxiliary,1867-05-29,1884-01-01
+sow-yorktown_uss-dale,USS Dale,usa,Auxiliary,Renamed,1884-01-01,1904-11-30
+sow-yorktown_uss-dale,USS Oriole,usa,Auxiliary,Converted,1904-11-30,1906-07-23
+sow-yorktown_uss-decatur,USS Decatur,usa,Active,Reserve,1840-03-16,1845-03-01
+sow-yorktown_uss-decatur,USS Decatur,usa,Reserve,Active,1845-03-01,1846-12-01
+sow-yorktown_uss-decatur,USS Decatur,usa,Active,Reserve,1846-12-01,1859-06-20
+sow-yorktown_uss-decatur,USS Decatur,usa,Reserve,Active,1859-06-20,1863-03-01
+sow-yorktown_uss-decatur,USS Decatur,usa,Active,Sold,1863-03-01,1865-08-17
+sow-marion_uss-marion,USS Marion,usa,Active,Reserve,1839-12-11,1843-05-01
+sow-marion_uss-marion,USS Marion,usa,Reserve,Active,1843-05-01,1846-01-01
+sow-marion_uss-marion,USS Marion,usa,Active,Reserve,1846-01-01,1856-01-01
+sow-marion_uss-marion,USS Marion,usa,Reserve,Active,1856-01-01,1861-06-21
+sow-marion_uss-marion,USS Marion,usa,Active,Training,1861-06-21,1862-07-24
+sow-marion_uss-marion,USS Marion,usa,Training,Converted,1862-07-24,1871-01-01
+sow-marion_uss-marion,USS Marion,usa,Active,Training,1876-01-12,1897-12-11
+sow-marion_uss-marion,USS Marion,usa,Training,Sold,1897-12-11,1907-03-14
+sow-marion_uss-preble,USS Preble,usa,Active,Training,1840-01-01,1850-11-01
+sow-marion_uss-preble,USS Preble,usa,Training,Reserve,1850-11-01,1857-01-01
+sow-marion_uss-preble,USS Preble,usa,Reserve,Sunk,1857-01-01,1861-07-01
+sow-marion_uss-preble,USS Preble,usa,Active,Sunk,1861-07-01,1863-04-27
+sow-hornet_uss-hornet,USS Hornet,usa,Active,Captured,1775-12-15,1777-04-27
+sow-wasp-1775_uss-wasp,USS Wasp,usa,Active,Sunk,1775-12-15,1777-11-01
+sow-providence_uss-providence,USS Providence,usa,Active,Sunk,1775-12-03,1779-08-14
+sf-maryland_uss-maryland,USS Maryland,usa,Active,Sold,1799-08-01,1801-10-02
+sow-quantre-freres_quantre-freres,Quantre freres,france,Active,Captured,1796-01-01,1797-03-01
+sow-quantre-freres_quantre-freres,HMS Transfer,britain,Active,Captured,1797-04-01,1802-01-01
+sow-quantre-freres_quantre-freres,USS Scourge,usa,Active,Sold,1804-03-21,1812-01-01
+sow-hornet-1805_uss-hornet,USS Hornet,usa,Active,Sold,1805-04-01,1806-09-03
+sow-hornet-1806_uss-hornet,USS Hornet,usa,Active,Modernized,1805-10-18,1810-11-01
+sow-hornet-1806_uss-hornet,USS Hornet,usa,Active,Sunk,1811-09-01,1829-09-29
+gs-alligator_uss-alligator,USS Alligator,usa,Active,Captured,1813-01-01,1814-12-14
+sow-eagle_uss-eagle,USS Eagle,usa,Active,Captured,1812-12-01,1813-06-03
+sow-eagle_uss-eagle,USS Eagle,usa,Active,Sold,1814-09-11,1815-07-01
+sow-eagle_uss-eagle,HMS Finch,britain,Active,Captured,1813-06-03,1814-09-11
+sow-snake_hms-snake,HMS Snake,britain,Active,Scrapped,1798-02-01,1816-04-18
+sow-snake_hms-victor,HMS Victor,britain,Active,Scrapped,1798-06-01,1808-09-05
+sow-cruizer_hms-cruizer,HMS Cruizer,britain,Active,Scrapped,1798-02-01,1819-02-01
+sow-cruizer_hms-scorpion,HMS Scorpion,britain,Active,Reserve,1803-11-01,1813-07-01
+sow-cruizer_hms-scorpion,HMS Scorpion,britain,Reserve,Sold,1813-07-01,1819-02-03
+sow-cruizer_hms-dispatch,HMS Dispatch,britain,Active,Scrapped,1804-05-30,1811-09-01
+sow-cruizer_hms-scout,HMS Scout,britain,Active,Reserve,1804-09-01,1825-01-01
+sow-cruizer_hms-scout,HMS Scout,britain,Reserve,Sold,1825-01-01,1827-07-11
+sow-cruizer_hms-musquito,HMS Musquito,britain,Active,Reserve,1804-10-01,1818-12-15
+sow-cruizer_hms-musquito,HMS Musquito,britain,Reserve,Sold,1818-12-15,1822-05-01
+sow-cruizer_hms-swallow,HMS Swallow,britain,Active,Scrapped,1806-03-01,1815-11-01
+sow-cruizer_hms-ferret,HMS Ferret,britain,Active,Sunk,1806-03-01,1813-01-01
+sow-cruizer_hms-leveret,HMS Leveret,britain,Active,Sunk,1806-02-01,1807-11-10
+sow-cruizer_hms-belette,HMS Belette,britain,Active,Sunk,1806-04-01,1812-11-24
+sow-cruizer_hms-amaranthe,HMS Amaranthe,britain,Active,Sold,1805-01-01,1815-10-12
+sow-cruizer_hms-calypso,HMS Calypso,britain,Active,Reserve,1805-02-15,1817-01-01
+sow-cruizer_hms-calypso,HMS Calypso,britain,Reserve,Scrapped,1817-01-01,1821-03-01
+sow-cruizer_hms-espoir,HMS Espoir,britain,Active,Reserve,1804-10-01,1816-10-01
+sow-cruizer_hms-espoir,HMS Espoir,britain,Reserve,Scrapped,1816-10-01,1821-04-01
+sow-cruizer_hms-surinam,HMS Surinam,britain,Active,Reserve,1805-03-01,1815-10-01
+sow-cruizer_hms-surinam,HMS Surinam,britain,Reserve,Active,1815-10-01,1820-11-18
+sow-cruizer_hms-surinam,HMS Surinam,britain,Active,Scrapped,1820-11-18,1825-07-20
+sow-cruizer_hms-wolverine,HMS Wolverine,britain,Active,Reserve,1805-05-01,1815-09-08
+sow-cruizer_hms-wolverine,HMS Wolverine,britain,Reserve,Sold,1815-09-08,1816-02-15
+sow-cruizer_hms-moselle,HMS Moselle,britain,Active,Sold,1804-12-01,1815-12-14
+sow-cruizer_hms-weazel,HMS Weazel,britain,Active,Sold,1805-05-01,1815-11-23
+sow-cruizer_hms-minorca,HMS Minorca,britain,Active,Scrapped,1805-08-01,1814-05-01
+sow-cruizer_hms-racehorse,HMS Racehorse,britain,Active,Reserve,1806-03-01,1813-10-01
+sow-cruizer_hms-racehorse,HMS Racehorse,britain,Reserve,Active,1813-10-01,1814-05-01
+sow-cruizer_hms-racehorse,HMS Racehorse,britain,Active,Sunk,1814-05-01,1822-12-14
+sow-cruizer_hms-avon,HMS Avon,britain,Active,Sunk,1805-03-01,1814-09-01
+sow-cruizer_hms-rover,HMS Rover,britain,Active,Reserve,1808-05-01,1815-09-01
+sow-cruizer_hms-rover,HMS Rover,britain,Reserve,Sold,1815-09-01,1828-03-26
+sow-cruizer_hms-beagle,HMS Beagle,britain,Active,Sold,1804-10-07,1814-07-21
+sow-cruizer_hms-elk,HMS Elk,britain,Active,Scrapped,1804-09-01,1812-10-01
+sow-cruizer_hms-raven,HMS Raven,britain,Active,Sunk,1804-08-01,1805-01-30
+sow-cruizer_hms-saracen,HMS Saracen,britain,Active,Scrapped,1804-08-01,1812-05-01
+sow-cruizer_hms-raindeer,HMS Raindeer,britain,Active,Captured,1804-09-01,1814-06-28
+sow-cruizer_hms-harrier,HMS Harrier,britain,Active,Sunk,1804-11-01,1809-03-13
+sow-cruizer_hms-forester,HMS Forester,britain,Active,Reserve,1806-10-01,1817-01-01
+sow-cruizer_hms-forester,HMS Forester,britain,Reserve,Sold,1817-01-01,1819-03-01
+sow-cruizer_hms-foxhound,HMS Foxhound,britain,Active,Sunk,1807-05-01,1809-08-31
+sow-cruizer_hms-mutine,HMS Mutine,britain,Active,Sold,1807-02-01,1819-02-03
+sow-cruizer_hms-emulous,HMS Emulous,britain,Active,Sunk,1806-12-01,1812-08-02
+sow-cruizer_hms-grasshopper,HMS Grasshopper,britain,Active,Captured,1806-11-01,1811-12-25
+sow-cruizer_hms-columbine,HMS Columbine,britain,Active,Sunk,1806-08-01,1824-01-28
+sow-cruizer_hms-pandora,HMS Pandora,britain,Active,Sunk,1806-12-01,1811-02-13
+sow-cruizer_hms-alacrity,HMS Alacrity,britain,Active,Captured,1807-02-01,1811-05-26
+sow-cruizer_hms-raleigh,HMS Raleigh,britain,Active,Sold,1807-02-01,1841-01-01
+sow-cruizer_hms-primrose,HMS Primrose,britain,Active,Sunk,1807-11-01,1809-01-22
+sow-cruizer_hms-cephalus,HMS Cephalus,britain,Active,Scrapped,1807-03-01,1830-01-01
+sow-cruizer_hms-procris,HMS Procris,britain,Active,Sold,1807-03-01,1815-11-23
+sow-cruizer_hms-redwing,HMS Redwing,britain,Active,Reserve,1806-11-01,1815-01-01
+sow-cruizer_hms-redwing,HMS Redwing,britain,Reserve,Active,1815-01-01,1818-01-01
+sow-cruizer_hms-redwing,HMS Redwing,britain,Active,Sunk,1818-01-01,1827-07-01
+sow-cruizer_hms-ringdove,HMS Ringdove,britain,Active,Sold,1806-12-01,1829-06-11
+sow-cruizer_hms-peacock,HMS Peacock,britain,Active,Sunk,1807-02-01,1813-02-24
+sow-cruizer_hms-sappho,HMS Sappho,britain,Active,Scrapped,1807-02-01,1825-12-14
+sow-cruizer_hms-recruit,HMS Recruit,britain,Active,Reserve,1807-03-01,1815-06-13
+sow-cruizer_hms-recruit,HMS Recruit,britain,Reserve,Sold,1815-06-13,1822-08-07
+sow-cruizer_hms-royalist,HMS Royalist,britain,Active,Sold,1807-05-01,1819-02-03
+sow-cruizer_hms-carnation,HMS Carnation,britain,Active,Captured,1807-12-01,1808-10-03
+sow-cruizer_hms-clio,HMS Clio,britain,Active,Reserve,1807-02-01,1816-01-01
+sow-cruizer_hms-clio,HMS Clio,britain,Reserve,Active,1816-01-01,1823-02-01
+sow-cruizer_hms-clio,HMS Clio,britain,Active,Scrapped,1823-02-01,1845-01-01
+sow-cruizer_hms-philomel,HMS Philomel,britain,Active,Sold,1806-11-01,1817-01-01
+sow-cruizer_hms-frolic,HMS Frolic,britain,Active,Scrapped,1807-02-01,1813-11-01
+sow-cruizer_hms-derwent,HMS Derwent,britain,Active,Sold,1807-06-01,1817-03-07
+sow-cruizer_hms-eclair,HMS Eclair,britain,Active,Scrapped,1807-09-01,1831-01-01
+sow-cruizer_hms-eclipse,HMS Eclipse,britain,Active,Sold,1807-09-01,1815-08-31
+sow-cruizer_hms-barracouta,HMS Barracouta,britain,Active,Sold,1807-09-01,1815-01-01
+sow-cruizer_hms-nautilus,HMS Nautilus,britain,Active,Scrapped,1807-09-01,1823-01-01
+sow-cruizer_hms-pilot,HMS Pilot,britain,Active,Sold,1807-10-01,1828-01-01
+sow-cruizer_hms-sparrowhawk,HMS Sparrowhawk,britain,Active,Sold,1807-10-01,1841-01-01
+sow-cruizer_hms-zenobia,HMS Zenobia,britain,Active,Reserve,1808-01-01,1816-04-08
+sow-cruizer_hms-zenobia,HMS Zenobia,britain,Reserve,Active,1816-04-08,1822-01-01
+sow-cruizer_hms-zenobia,HMS Zenobia,britain,Active,Sold,1822-01-01,1835-08-06
+sow-cruizer_hms-magnet,HMS Magnet,britain,Active,Sunk,1808-01-01,1809-01-11
+sow-cruizer_hms-peruvian,HMS Peruvian,britain,Active,Scrapped,1808-05-01,1830-02-01
+sow-cruizer_hms-pelorus,HMS Pelorus,britain,Active,Sunk,1808-07-01,1839-11-25
+sow-cruizer_hms-doterel,HMS Doterel,britain,Active,Auxiliary,1808-10-01,1827-04-04
+sow-cruizer_hms-doterel,HMS Doterel,britain,Auxiliary,Scrapped,1827-04-04,1855-01-01
+sow-cruizer_hms-arachne,HMS Arachne,britain,Active,Sold,1809-04-01,1837-01-01
+sow-cruizer_hms-persian,HMS Persian,britain,Active,Sunk,1809-07-01,1813-06-26
+sow-cruizer_hms-castilian,HMS Castilian,britain,Active,Scrapped,1809-08-01,1829-01-01
+sow-cruizer_hms-charybdis,HMS Charybdis,britain,Active,Reserve,1809-09-25,1815-08-01
+sow-cruizer_hms-charybdis,HMS Charybdis,britain,Reserve,Sold,1815-08-01,1819-02-01
+sow-cruizer_hms-scylla,HMS Scylla,britain,Active,Reserve,1809-09-01,1815-08-01
+sow-cruizer_hms-scylla,HMS Scylla,britain,Reserve,Active,1815-08-01,1822-01-01
+sow-cruizer_hms-scylla,HMS Scylla,britain,Active,Scrapped,1822-01-01,1846-01-01
+sow-cruizer_hms-thracian,HMS Thracian,britain,Active,Scrapped,1809-10-01,1829-01-01
+sow-cruizer_hms-trinculo,HMS Trinculo,britain,Active,Scrapped,1809-10-01,1841-01-01
+sow-cruizer_hms-hecate,HMS Hecate,britain,Active,Sold,1809-08-01,1817-10-01
+sow-cruizer_hms-crane,HMS Crane,britain,Active,Sunk,1809-09-01,1813-12-01
+sow-cruizer_hms-rifleman,HMS Rifleman,britain,Active,Sold,1809-09-01,1836-01-01
+sow-cruizer_hms-echo,HMS Echo,britain,Active,Scrapped,1809-09-01,1817-01-01
+sow-cruizer_hms-sophie,HMS Sophie,britain,Active,Sold,1809-10-01,1825-08-15
+sow-cruizer_hms-childers,HMS Childers,britain,Active,Scrapped,1812-08-22,1822-03-07
+sow-cruizer_hms-curlew,HMS Curlew,britain,Active,Sold,1812-07-01,1822-12-01
+sow-cruizer_hms-wasp,HMS Wasp,britain,Active,Scrapped,1812-09-01,1847-01-01
+sow-cruizer_hms-fairy,HMS Fairy,britain,Active,Scrapped,1812-08-01,1821-01-01
+sow-cruizer_hms-pelican,HMS Pelican,britain,Active,Auxiliary,1812-12-11,1850-01-01
+sow-cruizer_hms-pelican,HMS Pelican,britain,Auxiliary,Sold,1850-01-01,1865-06-01
+sow-cruizer_hms-bacchus,HMS Bacchus,britain,Active,Reserve,1813-05-15,1820-01-01
+sow-cruizer_hms-bacchus,HMS Bacchus,britain,Reserve,Auxiliary,1820-01-01,1826-08-01
+sow-cruizer_hms-bacchus,HMS Bacchus,britain,Auxiliary,Sunk,1826-08-01,1829-01-01
+sow-cruizer_hms-pandora,HMS Pandora,britain,Active,Sold,1813-10-01,1831-01-01
+sow-cruizer_hms-nimrod,HMS Nimrod,britain,Active,Sunk,1812-08-01,1827-01-14
+sow-cruizer_hms-saracen,HMS Saracen,britain,Active,Sold,1812-08-01,1819-08-18
+sow-cruizer_hms-satelite,HMS Satelite,britain,Active,Sold,1813-01-01,1824-01-01
+sow-cruizer_hms-arab,HMS Arab,britain,Active,Sunk,1812-11-01,1823-01-01
+sow-cruizer_hms-espiegle,HMS Espiegle,britain,Active,Sold,1812-11-01,1832-01-01
+sow-cruizer_hms-haron,HMS Haron,britain,Active,Scrapped,1813-01-01,1831-01-01
+sow-cruizer_hms-dispatch-ii,HMS Dispatch,britain,Active,Sold,1813-02-01,1836-01-01
+sow-cruizer_hms-grasshopper-ii,HMS Grasshopper,britain,Active,Sold,1813-08-01,1832-01-01
+sow-cruizer_hms-fly,HMS Fly,britain,Active,Sold,1813-05-01,1828-04-10
+sow-cruizer_hms-epervier,HMS Epervier,britain,Active,Captured,1813-01-15,1814-04-29
+sow-cruizer_hms-jaseur,HMS Jaseur,britain,Active,Sold,1813-04-01,1845-01-01
+sow-cruizer_hms-argus,HMS Argus,britain,Active,Sold,1813-11-01,1828-01-01
+sow-cruizer_hms-halcyon,HMS Halcyon,britain,Active,Sunk,1813-07-13,1814-05-19
+sow-cruizer_hms-challenger,HMS Challenger,britain,Active,Auxiliary,1813-06-01,1818-02-26
+sow-cruizer_hms-challenger,HMS Challenger,britain,Auxiliary,Sold,1818-02-26,1824-05-01
+sow-cruizer_hms-penguin,HMS Penguin,britain,Active,Captured,1813-11-01,1815-03-23
+sow-cruizer_hms-victor,HMS Victor,britain,Active,Sunk,1815-01-01,1842-01-01
+sow-cruizer_hms-zebra,HMS Zebra,britain,Active,Sunk,1815-12-30,1840-12-02
+sow-cruizer_hms-carnation-ii,HMS Carnation,britain,Active,Sold,1813-10-01,1836-01-01
+sow-cruizer_hms-elk-ii,HMS Elk,britain,Active,Sold,1813-11-01,1836-01-01
+sow-cruizer_hms-confidence,HMS Confiance,britain,Active,Sunk,1813-11-01,1822-01-01
+sow-cruizer_hms-alert,HMS Alert,britain,Active,Sold,1813-09-01,1832-01-01
+sow-cruizer_hms-harlequin,HMS Harlequin,britain,Active,Sold,1813-09-01,1829-01-01
+sow-cruizer_hms-harrier-ii,HMS Harrier,britain,Active,Sold,1813-10-01,1829-01-01
+sow-cruizer_hms-ontario,HMS Ontario,britain,Active,Sold,1814-01-01,1832-01-01
+sow-cruizer_hms-belette-ii,HMS Belette,britain,Reserve,Active,1814-07-13,1818-05-01
+sow-cruizer_hms-belette-ii,HMS Belette,britain,Active,Sold,1818-05-01,1828-03-26
+sow-cruizer_hms-gannet,HMS Gannet,britain,Active,Sold,1815-01-01,1838-01-01
+sow-cruizer_hms-grasshopper,Grasshopper,france,Active,Renamed,1811-12-25,1812-12-01
+sow-cruizer_hms-grasshopper,Irene,france,Active,Captured,1812-12-01,1813-12-01
+sow-cruizer_hms-grasshopper,HNLMS Irene,netherlands,Active,Scrapped,1813-12-01,1822-01-01
+sow-cruizer_hms-alacrity,Alacrity,france,Active,Scrapped,1811-05-26,1822-01-01
+sow-cruizer_hms-carnation,Carnation,france,Active,Sunk,1808-10-03,1809-01-31
+sow-cruizer_hms-hecate,Galvarino,chile,Active,Scrapped,1818-11-09,1828-01-01
+sow-cruizer_hms-epervier,USS Epervier,usa,Active,Sunk,1814-04-29,1815-08-09
+sow-erie,USS Erie,usa,Active,Modernized,1814-03-01,1820-01-20
+sow-erie,USS Erie,usa,Active,Reserve,1823-11-01,1832-08-21
+sow-erie,USS Erie,usa,Reserve,Active,1832-08-21,1834-06-24
+sow-erie,USS Erie,usa,Active,Reserve,1834-06-24,1837-09-15
+sow-erie,USS Erie,usa,Reserve,Active,1837-09-15,1838-02-04
+sow-erie,USS Erie,usa,Active,Auxiliary,1838-02-04,1840-07-01
+sow-erie,USS Erie,usa,Auxiliary,Sold,1840-07-01,1850-11-26
+sow-growler_uss-growler,USS Growler,usa,Active,Captured,1812-07-01,1813-06-03
+sow-growler_uss-growler,USS Growler,usa,Active,Sold,1814-09-11,1815-07-01
+sow-growler_uss-growler,HMS Chub,britain,Active,Captured,1813-06-03,1814-09-11
+sow-hamilton_uss-hamilton,USS Hamilton,usa,Active,Sunk,1812-10-21,1813-08-08
+gs-ohio_uss-ohio,USS Ohio,usa,Active,Captured,1812-12-01,1814-08-12
+sow-ontario_uss-ontario,USS Ontario,usa,Active,Auxiliary,1814-04-01,1843-07-30
+sow-ontario_uss-ontario,USS Ontario,usa,Auxiliary,Sold,1843-07-30,1859-07-15
+sow-erie_uss-peacock,USS Peacock,usa,Active,Reserve,1812-11-01,1821-07-10
+sow-erie_uss-peacock,USS Peacock,usa,Reserve,Active,1821-07-10,1822-06-03
+sow-erie_uss-peacock,USS Peacock,usa,Active,Reserve,1822-06-03,1827-10-01
+sow-erie_uss-peacock,USS Peacock,usa,Reserve,Active,1827-10-01,1829-01-01
+sow-erie_uss-peacock,USS Peacock,usa,Active,Auxiliary,1829-01-01,1838-01-01
+sow-erie_uss-peacock,USS Peacock,usa,Auxiliary,Sunk,1838-01-01,1841-07-17
+sow-scourge-1812_uss-scourge,USS Scourge,usa,Active,Sunk,1812-06-09,1813-08-08
+gw-trippe_uss-trippe,USS Trippe,usa,Active,Sunk,1812-10-01,1813-10-01
+sow-boston_uss-boston,USS Boston,usa,Active,Reserve,1826-01-01,1832-01-01
+sow-boston_uss-boston,USS Boston,usa,Reserve,Active,1832-01-01,1836-01-01
+sow-boston_uss-boston,USS Boston,usa,Active,Sunk,1836-01-01,1846-11-15
+sow-fairfield_uss-fairfield,USS Fairfield,usa,Active,Reserve,1828-08-20,1840-04-01
+sow-fairfield_uss-fairfield,USS Fairfield,usa,Reserve,Active,1840-04-01,1841-05-10
+sow-fairfield_uss-fairfield,USS Fairfield,usa,Active,Auxiliary,1841-05-10,1845-02-03
+sow-fairfield_uss-fairfield,USS Fairfield,usa,Auxiliary,Scrapped,1845-02-03,1852-01-01
+sow-falmouth_uss-falmouth,USS Falmouth,usa,Active,Reserve,1828-01-19,1846-11-22
+sow-falmouth_uss-falmouth,USS Falmouth,usa,Reserve,Active,1846-11-22,1849-04-26
+sow-falmouth_uss-falmouth,USS Falmouth,usa,Active,Reserve,1849-04-26,1852-02-01
+sow-falmouth_uss-falmouth,USS Falmouth,usa,Reserve,Active,1852-02-01,1854-11-18
+sow-falmouth_uss-falmouth,USS Falmouth,usa,Active,Reserve,1854-11-18,1855-09-01
+sow-falmouth_uss-falmouth,USS Falmouth,usa,Reserve,Active,1855-09-01,1857-01-12
+sow-falmouth_uss-falmouth,USS Falmouth,usa,Active,Auxiliary,1857-01-12,1859-05-24
+sow-falmouth_uss-falmouth,USS Falmouth,usa,Auxiliary,Sold,1859-05-24,1863-10-01
+sow-falmouth_uss-lexington,USS Lexington,usa,Active,Reserve,1826-06-11,1830-11-16
+sow-falmouth_uss-lexington,USS Lexington,usa,Reserve,Active,1830-11-16,1831-05-31
+sow-falmouth_uss-lexington,USS Lexington,usa,Active,Auxiliary,1831-05-31,1840-06-01
+sow-falmouth_uss-lexington,USS Lexington,usa,Auxiliary,Reserve,1840-06-01,1855-02-26
+sow-falmouth_uss-lexington,USS Lexington,usa,Reserve,Sold,1855-02-26,1860-01-01
+sow-natchez_uss-natchez,USS Natchez,usa,Active,Reserve,1827-07-15,1831-08-24
+sow-natchez_uss-natchez,USS Natchez,usa,Reserve,Active,1831-08-24,1832-12-28
+sow-natchez_uss-natchez,USS Natchez,usa,Active,Scrapped,1832-12-28,1840-01-01
+sow-boston_uss-st-louis,USS St. Louis,usa,Active,Reserve,1828-12-20,1831-12-25
+sow-boston_uss-st-louis,USS St. Louis,usa,Reserve,Active,1831-12-25,1832-09-19
+sow-boston_uss-st-louis,USS St. Louis,usa,Active,Reserve,1832-09-19,1838-07-01
+sow-boston_uss-st-louis,USS St. Louis,usa,Reserve,Active,1838-07-01,1839-04-05
+sow-boston_uss-st-louis,USS St. Louis,usa,Active,Reserve,1839-04-05,1842-09-16
+sow-boston_uss-st-louis,USS St. Louis,usa,Reserve,Active,1842-09-16,1843-02-27
+sow-boston_uss-st-louis,USS St. Louis,usa,Active,Auxiliary,1843-02-27,1865-05-12
+sow-boston_uss-st-louis,USS St. Louis,usa,Auxiliary,Scrapped,1865-05-12,1907-06-05
+sow-natchez_uss-vincennes,USS Vincennes,usa,Active,Reserve,1826-08-27,1830-06-10
+sow-natchez_uss-vincennes,USS Vincennes,usa,Reserve,Active,1830-06-10,1831-06-01
+sow-natchez_uss-vincennes,USS Vincennes,usa,Active,Reserve,1831-06-01,1836-01-01
+sow-natchez_uss-vincennes,USS Vincennes,usa,Reserve,Active,1836-01-01,1838-08-01
+sow-natchez_uss-vincennes,USS Vincennes,usa,Active,Reserve,1838-08-01,1847-04-09
+sow-natchez_uss-vincennes,USS Vincennes,usa,Reserve,Active,1847-04-09,1849-11-12
+sow-natchez_uss-vincennes,USS Vincennes,usa,Active,Reserve,1849-11-12,1865-08-28
+sow-natchez_uss-vincennes,USS Vincennes,usa,Reserve,Sold,1865-08-28,1867-10-05
+sow-boston_uss-warren,USS Warren,usa,Active,Auxiliary,1827-01-14,1845-01-01
+sow-boston_uss-warren,USS Warren,usa,Auxiliary,Sold,1845-01-01,1863-01-01
+sow-cyane_uss-cyanne,USS Cyanne,usa,Active,Reserve,1838-05-01,1871-09-20
+sow-cyane_uss-cyanne,USS Cyanne,usa,Reserve,Sold,1871-09-20,1887-07-30
+sow-levant_uss-levant,USS Levant,usa,Active,Sunk,1838-03-17,1860-09-01
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1843-01-04,1844-12-10
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Active,1844-12-10,1845-03-15
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1845-03-15,1847-01-07
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Active,1847-01-07,1847-03-01
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1847-03-01,1848-02-26
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Active,1848-02-26,1848-04-10
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1848-04-10,1849-11-30
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Active,1849-11-30,1850-08-12
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1850-08-12,1854-10-10
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Active,1854-10-10,1855-09-06
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1855-09-06,1858-01-01
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Active,1858-01-01,1858-03-01
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1858-03-01,1860-06-26
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Active,1860-06-26,1860-11-05
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1860-11-05,1861-08-25
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Active,1861-08-25,1863-06-24
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1863-06-24,1865-04-28
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Active,1865-04-28,1867-10-01
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Active,Reserve,1867-10-01,1869-07-07
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Training,1869-07-07,1871-05-16
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Training,Reserve,1871-05-16,1871-10-14
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Training,1871-10-14,1875-05-01
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Training,Reserve,1875-05-01,1876-05-07
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Training,1876-05-07,1877-05-19
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Training,Reserve,1877-05-19,1888-10-08
+sow-saratoga_uss-saratoga,USS Saratoga,usa,Reserve,Sold,1888-10-08,1907-08-04
+sow-portsmouth_uss-portsmouth,USS Portsmouth,usa,Active,Training,1844-11-10,1878-02-16
+sow-portsmouth_uss-portsmouth,USS Portsmouth,usa,Training,Scrapped,1878-02-16,1915-09-06
+sow-saratoga_uss-plymouth,USS Plymouth,usa,Active,Sunk,1844-04-03,1861-04-20
+sow-saratoga_uss-plymouth,CSS Plymouth,csa,Active,Sunk,1861-06-23,1862-05-10
+sow-st-marys_uss-st-marys,USS St. Mary's,usa,Active,Reserve,1844-04-01,1866-09-01
+sow-st-marys_uss-st-marys,USS St. Mary's,usa,Reserve,Active,1866-09-01,1870-10-01
+sow-st-marys_uss-st-marys,USS St. Mary's,usa,Active,Auxiliary,1870-10-01,1873-06-03
+sow-st-marys_uss-st-marys,USS St. Mary's,usa,Auxiliary,Scrapped,1873-06-03,1908-01-01
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Active,Reserve,1844-12-12,1854-05-11
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Reserve,Active,1854-05-11,1855-02-22
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Active,Reserve,1855-02-22,1857-06-02
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Reserve,Active,1857-06-02,1857-12-16
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Active,Reserve,1857-12-16,1860-02-14
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Reserve,Active,1860-02-14,1861-06-05
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Active,Reserve,1861-06-05,1865-09-17
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Reserve,Active,1865-09-17,1966-09-03
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Active,Reserve,1966-09-03,1868-08-13
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Reserve,Active,1868-08-13,1869-01-25
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Active,Reserve,1869-01-25,1871-10-07
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Reserve,Active,1871-10-07,1876-03-16
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Active,Reserve,1876-03-16,1879-03-03
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Reserve,Active,1879-03-03,1876-05-08
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Active,Reserve,1876-05-08,1881-09-21
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Reserve,Training,1881-09-21,1882-02-14
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Training,Reserve,1882-02-14,1888-08-31
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Reserve,Training,1888-08-31,1889-04-13
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Training,Auxiliary,1889-04-13,1892-09-06
+sow-saratoga_uss-jamestown,USS Jamestown,usa,Auxiliary,Sunk,1892-09-06,1913-01-03
+sow-saratoga_uss-germantown,USS Germantown,usa,Active,Reserve,1847-03-09,1848-02-25
+sow-saratoga_uss-germantown,USS Germantown,usa,Reserve,Active,1848-02-25,1848-04-08
+sow-saratoga_uss-germantown,USS Germantown,usa,Active,Reserve,1848-04-08,1850-09-21
+sow-saratoga_uss-germantown,USS Germantown,usa,Reserve,Active,1850-09-21,1850-12-23
+sow-saratoga_uss-germantown,USS Germantown,usa,Active,Reserve,1850-12-23,1853-04-09
+sow-saratoga_uss-germantown,USS Germantown,usa,Reserve,Active,1853-04-09,1853-11-23
+sow-saratoga_uss-germantown,USS Germantown,usa,Active,Reserve,1853-11-23,1857-02-12
+sow-saratoga_uss-germantown,USS Germantown,usa,Reserve,Active,1857-02-12,1857-07-15
+sow-saratoga_uss-germantown,USS Germantown,usa,Active,Reserve,1857-07-15,1860-04-18
+sow-saratoga_uss-germantown,USS Germantown,usa,Reserve,Sunk,1860-04-18,1861-04-20
+sow-saratoga_uss-germantown,CSS Germantown,csa,Active,Sunk,1861-07-01,1862-05-10
+sow-constellation_uss-constellation,USS Constellation,usa,Active,Reserve,1855-07-28,1858-08-13
+sow-constellation_uss-constellation,USS Constellation,usa,Reserve,Active,1858-08-13,1859-06-01
+sow-constellation_uss-constellation,USS Constellation,usa,Active,Auxiliary,1859-06-01,1864-12-25
+sow-constellation_uss-constellation,USS Constellation,usa,Auxiliary,Training,1864-12-25,1871-05-25
+sow-constellation_uss-constellation,USS Constellation,usa,Training,Auxiliary,1871-05-25,1893-09-02
+sow-constellation_uss-constellation,USS Constellation,usa,Auxiliary,Renamed,1893-09-02,1917-12-01
+sow-constellation_uss-constellation,USS Old Constellation,usa,Auxiliary,Renamed,1917-12-01,1925-07-24
+sow-constellation_uss-constellation,USS Constellation,usa,Auxiliary,Reserve,1925-07-24,1933-06-16
+sow-constellation_uss-constellation,USS Constellation,usa,Reserve,Auxiliary,1933-06-16,1940-08-24
+sow-constellation_uss-constellation,USS Constellation,usa,Auxiliary,Reserve,1940-08-24,1855-02-04
+sow-constellation_uss-constellation,USS Constellation,usa,Reserve,Museum,1855-02-04,1955-08-15
+gs-granite_uss-granite,USS Granite,usa,Active,Sold,1862-01-19,1865-06-29
+gs-rosalie_uss-rosalie,USS Rosalie,usa,Auxiliary,Sold,1863-06-01,1865-06-28
+ssow-quinnebaug_uss-quinnebaug,USS Quinnebaug,usa,Active,Reserve,1878-10-02,1889-07-03
+ssow-quinnebaug_uss-quinnebaug,USS Quinnebaug,usa,Reserve,Sold,1889-07-03,1889-11-21
+ssow-saranac_uss-saranac,USS Saranac,usa,Active,Reserve,1850-10-12,1853-07-20
+ssow-saranac_uss-saranac,USS Saranac,usa,Reserve,Active,1853-07-20,1853-11-05
+ssow-saranac_uss-saranac,USS Saranac,usa,Active,Reserve,1853-11-05,1856-07-01
+ssow-saranac_uss-saranac,USS Saranac,usa,Reserve,Active,1856-07-01,1857-09-17
+ssow-saranac_uss-saranac,USS Saranac,usa,Active,Reserve,1857-09-17,1869-01-25
+ssow-saranac_uss-saranac,USS Saranac,usa,Reserve,Active,1869-01-25,1870-01-27
+ssow-saranac_uss-saranac,USS Saranac,usa,Active,Sunk,1870-01-27,1875-06-18
+ssow-mohican_uss-mohican,USS Mohican,usa,Active,Reserve,1885-05-25,1895-09-16
+ssow-mohican_uss-mohican,USS Mohican,usa,Reserve,Active,1895-09-16,1898-02-08
+ssow-mohican_uss-mohican,USS Mohican,usa,Active,Auxiliary,1898-02-08,1904-04-01
+ssow-mohican_uss-mohican,USS Mohican,usa,Auxiliary,Reserve,1904-04-01,1921-10-21
+ssow-mohican_uss-mohican,USS Mohican,usa,Reserve,Sold,1921-10-21,1922-03-04
+ssow-galena_uss-swatara,USS Swatara,usa,Active,Reserve,1874-05-11,1878-11-05
+ssow-galena_uss-swatara,USS Swatara,usa,Reserve,Active,1878-11-05,1879-12-24
+ssow-galena_uss-swatara,USS Swatara,usa,Active,Reserve,1879-12-24,1886-10-27
+ssow-galena_uss-swatara,USS Swatara,usa,Reserve,Active,1886-10-27,1888-03-01
+ssow-galena_uss-swatara,USS Swatara,usa,Active,Reserve,1888-03-01,1891-02-07
+ssow-galena_uss-swatara,USS Swatara,usa,Reserve,Scrapped,1891-02-07,1896-07-29
+ssow-galena_uss-galena,USS Galena,usa,Active,Reserve,1880-08-26,1890-07-23
+ssow-galena_uss-galena,USS Galena,usa,Reserve,Sunk,1890-07-23,1891-03-13
+ssow-vandalia_uss-vandalia,USS Vandalia,usa,Active,Reserve,1874-05-11,1878-11-05
+ssow-vandalia_uss-vandalia,USS Vandalia,usa,Reserve,Active,1878-11-05,1879-12-24
+ssow-vandalia_uss-vandalia,USS Vandalia,usa,Active,Reserve,1879-12-24,1886-10-27
+ssow-vandalia_uss-vandalia,USS Vandalia,usa,Reserve,Active,1886-10-27,1888-03-01
+ssow-vandalia_uss-vandalia,USS Vandalia,usa,Active,Reserve,1888-03-01,1891-02-07
+ssow-vandalia_uss-vandalia,USS Vandalia,usa,Reserve,Scrapped,1891-02-07,1896-11-02
+ssow-wyoming_uss-wyoming,USS Wyoming,usa,Active,Reserve,1859-10-01,1868-02-10
+ssow-wyoming_uss-wyoming,USS Wyoming,usa,Reserve,Active,1868-02-10,1871-11-14
+ssow-wyoming_uss-wyoming,USS Wyoming,usa,Active,Reserve,1871-11-14,1874-04-30
+ssow-wyoming_uss-wyoming,USS Wyoming,usa,Reserve,Active,1874-04-30,1876-01-01
+ssow-wyoming_uss-wyoming,USS Wyoming,usa,Active,Auxiliary,1876-01-01,1877-01-01
+ssow-wyoming_uss-wyoming,USS Wyoming,usa,Auxiliary,Active,1877-01-01,1877-11-20
+ssow-wyoming_uss-wyoming,USS Wyoming,usa,Active,Reserve,1877-11-20,1882-11-30
+ssow-wyoming_uss-wyoming,USS Wyoming,usa,Reserve,Sold,1882-11-30,1892-05-09
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1861-12-05,1864-06-04
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Reserve,Active,1864-06-04,1864-10-03
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1864-10-03,1865-05-30
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Reserve,Active,1865-05-30,1865-10-01
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1865-10-01,1871-02-10
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Reserve,Active,1871-02-10,1872-05-16
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1872-05-16,1876-09-14
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Reserve,Active,1876-09-14,1878-01-10
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1878-01-10,1880-05-31
+ssow-wyoming_uss-tuscarora,USS Tuscarora,usa,Reserve,Sold,1880-05-31,1883-11-20
+ssow-dacotah_uss-dacotah,USS Dacotah,usa,Active,Reserve,1860-05-01,1869-07-26
+ssow-dacotah_uss-dacotah,USS Dacotah,usa,Reserve,Sold,1869-07-26,1873-05-30
+ssow-seminole_uss-seminole,USS Siminole,usa,Active,Reserve,1860-04-25,1865-08-11
+ssow-seminole_uss-seminole,USS Siminole,usa,Reserve,Sold,1865-08-11,1870-07-20
+ssow-seminole_uss-narragansett,USS Narragansett,usa,Active,Reserve,1859-11-06,1865-03-18
+ssow-seminole_uss-narragansett,USS Narragansett,usa,Reserve,Active,1865-03-18,1869-01-01
+ssow-seminole_uss-narragansett,USS Narragansett,usa,Active,Reserve,1869-01-01,1869-07-02
+ssow-seminole_uss-narragansett,USS Narragansett,usa,Reserve,Active,1869-07-02,1871-03-26
+ssow-seminole_uss-narragansett,USS Narragansett,usa,Active,Reserve,1871-03-26,1875-01-01
+ssow-seminole_uss-narragansett,USS Narragansett,usa,Reserve,Sold,1875-01-01,1883-11-03
+ssow-saginaw_uss-saginaw,USS Saginaw,usa,Active,Reserve,1860-01-05,1862-01-03
+ssow-saginaw_uss-saginaw,USS Saginaw,usa,Reserve,Active,1862-01-03,1863-03-23
+ssow-saginaw_uss-saginaw,USS Saginaw,usa,Active,Sunk,1863-03-23,1870-10-29
+ssow-dispatch_uss-dispatch,USS Dispatch,usa,Active,Reserve,1856-01-17,1859-01-02
+ssow-dispatch_uss-dispatch,USS Dispatch,usa,Reserve,Renamed,1859-01-02,1860-01-27
+ssow-dispatch_uss-dispatch,USS Pocahontas,usa,Reserve,Active,1860-01-27,1860-03-19
+ssow-dispatch_uss-dispatch,USS Pocahontas,usa,Active,Reserve,1860-03-19,1865-07-31
+ssow-dispatch_uss-dispatch,USS Pocahontas,usa,Reserve,Sold,1865-07-31,1865-11-30
+sf-hartford_uss-hartford,USS Hartford,usa,Active,Reserve,1859-05-27,1868-08-01
+sf-hartford_uss-hartford,USS Hartford,usa,Reserve,Active,1868-08-01,1872-10-09
+sf-hartford_uss-hartford,USS Hartford,usa,Active,Training,1872-10-09,1887-01-14
+sf-hartford_uss-hartford,USS Hartford,usa,Training,Reserve,1887-01-14,1890-01-01
+sf-hartford_uss-hartford,USS Hartford,usa,Reserve,Training,1890-01-01,1899-10-02
+sf-hartford_uss-hartford,USS Hartford,usa,Training,Auxiliary,1899-10-02,1912-10-24
+sf-hartford_uss-hartford,USS Hartford,usa,Auxiliary,Reserve,1912-10-24,1926-08-20
+sf-hartford_uss-hartford,USS Hartford,usa,Reserve,Sunk,1926-08-20,1956-11-20
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Active,Reserve,1859-01-26,1867-09-11
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Reserve,Active,1867-09-11,1870-08-24
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Active,Reserve,1870-08-24,1873-08-01
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Reserve,Active,1873-08-01,1874-01-20
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Active,Reserve,1874-01-20,1876-07-21
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Reserve,Active,1876-07-21,1881-11-11
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Active,Reserve,1881-11-11,1884-10-25
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Reserve,Active,1884-10-25,1885-10-15
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Active,Reserve,1885-10-15,1889-05-14
+sf-hartford_uss-brooklyn,USS Brooklyn,usa,Reserve,Sold,1889-05-14,1891-03-25
+sf-hartford_uss-richmond,USS Richmond,usa,Active,Reserve,1860-06-01,1865-07-14
+sf-hartford_uss-richmond,USS Richmond,usa,Reserve,Active,1865-07-14,1869-01-11
+sf-hartford_uss-richmond,USS Richmond,usa,Active,Reserve,1869-01-11,1871-11-08
+sf-hartford_uss-richmond,USS Richmond,usa,Reserve,Active,1871-11-08,1872-11-18
+sf-hartford_uss-richmond,USS Richmond,usa,Active,Reserve,1872-11-18,1877-09-18
+sf-hartford_uss-richmond,USS Richmond,usa,Reserve,Active,1877-09-18,1878-11-19
+sf-hartford_uss-richmond,USS Richmond,usa,Active,Reserve,1878-11-19,1884-08-22
+sf-hartford_uss-richmond,USS Richmond,usa,Reserve,Active,1884-08-22,1887-01-20
+sf-hartford_uss-richmond,USS Richmond,usa,Active,Training,1887-01-20,1890-06-28
+sf-hartford_uss-richmond,USS Richmond,usa,Training,Auxiliary,1890-06-28,1893-01-01
+sf-hartford_uss-richmond,USS Richmond,usa,Auxiliary,Sold,1893-01-01,1919-06-01
+sf-hartford_uss-lancaster,USS Lancaster,usa,Active,Reserve,1859-05-12,1867-03-19
+sf-hartford_uss-lancaster,USS Lancaster,usa,Reserve,Active,1867-03-19,1869-08-26
+sf-hartford_uss-lancaster,USS Lancaster,usa,Active,Reserve,1869-08-26,1875-07-31
+sf-hartford_uss-lancaster,USS Lancaster,usa,Reserve,Active,1875-07-31,1881-08-26
+sf-hartford_uss-lancaster,USS Lancaster,usa,Active,Reserve,1881-08-26,1889-09-07
+sf-hartford_uss-lancaster,USS Lancaster,usa,Reserve,Active,1889-09-07,1891-03-19
+sf-hartford_uss-lancaster,USS Lancaster,usa,Active,Reserve,1891-03-19,1894-06-30
+sf-hartford_uss-lancaster,USS Lancaster,usa,Reserve,Active,1894-06-30,1895-09-12
+sf-hartford_uss-lancaster,USS Lancaster,usa,Active,Reserve,1895-09-12,1897-12-31
+sf-hartford_uss-lancaster,USS Lancaster,usa,Reserve,Active,1897-12-31,1898-05-05
+sf-hartford_uss-lancaster,USS Lancaster,usa,Active,Auxiliary,1898-05-05,1902-05-01
+sf-hartford_uss-lancaster,USS Lancaster,usa,Auxiliary,Scrapped,1902-05-01,1915-12-31
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Active,Reserve,1861-09-16,1864-04-29
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Reserve,Active,1864-04-29,1866-08-16
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Active,Reserve,1866-08-16,1870-02-15
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Reserve,Active,1870-02-15,1871-10-14
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Active,Reserve,1871-10-14,1873-12-31
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Reserve,Active,1873-12-31,1874-07-13
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Active,Reserve,1874-07-13,1884-05-23
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Reserve,Active,1884-05-23,1885-04-04
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Active,Reserve,1885-04-04,1892-04-18
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Reserve,Training,1892-04-18,1898-11-22
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Training,Reserve,1898-11-22,1899-05-31
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Reserve,Auxiliary,1899-05-31,1901-07-14
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Auxiliary,Reserve,1901-07-14,1911-12-06
+ssow-hartford_uss-pensacola,USS Pensacola,usa,Reserve,Sunk,1911-12-06,1911-12-23
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Active,Reserve,1862-01-24,1864-11-26
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Reserve,Active,1864-11-26,1865-04-01
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Active,Reserve,1865-04-01,1866-08-14
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Reserve,Active,1866-08-14,1868-01-16
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Active,Reserve,1868-01-16,1870-10-11
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Reserve,Active,1870-10-11,1873-12-08
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Active,Reserve,1873-12-08,1878-01-15
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Reserve,Active,1878-01-15,1879-05-15
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Active,Reserve,1879-05-15,1886-12-01
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Reserve,Active,1886-12-01,1888-11-02
+ssow-mohican-1858_uss-kearsarge,USS Kearsarge,usa,Active,Sunk,1888-11-02,1894-02-02
+ssow-mohican-1858_uss-mohican,USS Mohican,usa,Active,Reserve,1859-11-29,1865-04-26
+ssow-mohican-1858_uss-mohican,USS Mohican,usa,Reserve,Active,1865-04-26,1866-08-18
+ssow-mohican-1858_uss-mohican,USS Mohican,usa,Active,Reserve,1866-08-18,1868-04-03
+ssow-mohican-1858_uss-mohican,USS Mohican,usa,Reserve,Active,1868-04-03,1869-06-07
+ssow-mohican-1858_uss-mohican,USS Mohican,usa,Active,Reserve,1869-06-07,1872-06-25
+ssow-mohican-1858_uss-mohican,USS Mohican,usa,Reserve,Sunk,1872-06-25,1873-01-01
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Active,Reserve,1859-11-24,1865-10-06
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Reserve,Active,1865-10-06,1867-01-07
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Active,Reserve,1867-01-07,1870-04-23
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Reserve,Active,1870-04-23,1871-08-23
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Active,Reserve,1871-08-23,1874-07-23
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Reserve,Active,1874-07-23,1882-04-12
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Active,Auxiliary,1882-04-12,1892-05-12
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Auxiliary,Active,1892-05-12,1898-12-13
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Active,Auxiliary,1898-12-13,1899-06-01
+ssow-mohican-1858_uss-iroquois,USS Iroquois,usa,Auxiliary,Renamed,1899-06-01,1904-11-30
+ssow-mohican-1858_uss-iroquois,USS Ionie,usa,Auxiliary,Scrapped,1904-11-30,1910-08-26
+ssow-mohican-1858_uss-oneida,USS Oneida,usa,Active,Reserve,1862-02-28,1865-08-11
+ssow-mohican-1858_uss-oneida,USS Oneida,usa,Reserve,Active,1865-08-11,1967-05-01
+ssow-mohican-1858_uss-oneida,USS Oneida,usa,Active,Sunk,1967-05-01,1870-01-24
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1861-12-05,1664-06-04
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Reserve,Active,1664-06-04,1864-10-03
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1864-10-03,1865-05-30
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Reserve,Active,1865-05-30,1865-10-01
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1865-10-01,1871-02-10
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Reserve,Active,1871-02-10,1872-05-16
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1872-05-16,1876-09-14
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Reserve,Active,1876-09-14,1878-01-10
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Active,Reserve,1878-01-10,1880-05-31
+ssow-mohican-1858_uss-tuscarora,USS Tuscarora,usa,Reserve,Sold,1880-05-31,1883-11-20
+ssow-mohican-1858_uss-wachusett,USS Wachusett,usa,Active,Reserve,1862-03-03,1863-06-19
+ssow-mohican-1858_uss-wachusett,USS Wachusett,usa,Reserve,Active,1863-06-19,1864-01-28
+ssow-mohican-1858_uss-wachusett,USS Wachusett,usa,Active,Reserve,1864-01-28,1868-02-04
+ssow-mohican-1858_uss-wachusett,USS Wachusett,usa,Reserve,Active,1868-02-04,1871-06-01
+ssow-mohican-1858_uss-wachusett,USS Wachusett,usa,Active,Reserve,1871-06-01,1874-12-29
+ssow-mohican-1858_uss-wachusett,USS Wachusett,usa,Reserve,Active,1874-12-29,1879-05-26
+ssow-mohican-1858_uss-wachusett,USS Wachusett,usa,Active,Reserve,1879-05-26,1885-09-01
+ssow-mohican-1858_uss-wachusett,USS Wachusett,usa,Reserve,Sold,1885-09-01,1887-07-30
+ssow-contoocook_uss-contoocook,USS Contoocook,usa,Active,Renamed,1868-03-14,1869-05-15
+ssow-contoocook_uss-contoocook,USS Albany,usa,Active,Reserve,1869-05-15,1871-01-07
+ssow-contoocook_uss-contoocook,USS Albany,usa,Reserve,Sold,1871-01-07,1872-12-12
+ssow-contoocook_uss-manitou,USS Worcester,usa,Active,Reserve,1871-02-27,1876-01-01
+ssow-contoocook_uss-manitou,USS Worcester,usa,Reserve,Auxiliary,1876-01-01,1878-01-01
+ssow-contoocook_uss-manitou,USS Worcester,usa,Auxiliary,Reserve,1878-01-01,1879-01-01
+ssow-contoocook_uss-manitou,USS Worcester,usa,Reserve,Scrapped,1879-01-01,1883-09-27
+ssow-contoocook_uss-mosholu,USS Severn,usa,Active,Reserve,1869-08-27,1871-12-31
+ssow-contoocook_uss-mosholu,USS Severn,usa,Reserve,Sold,1871-12-31,1877-03-02
+ssow-contoocook_uss-pushmataha,USS Congress,usa,Active,Reserve,1870-03-04,1876-07-26
+ssow-contoocook_uss-pushmataha,USS Congress,usa,Reserve,Sold,1876-07-26,1883-09-20
+ssow-ossipee_uss-ossipee,USS Ossipee,usa,Active,Reserve,1862-11-06,1865-07-03
+ssow-ossipee_uss-ossipee,USS Ossipee,usa,Reserve,Active,1865-07-03,1866-10-27
+ssow-ossipee_uss-ossipee,USS Ossipee,usa,Active,Reserve,1866-10-27,1872-11-30
+ssow-ossipee_uss-ossipee,USS Ossipee,usa,Reserve,Active,1872-11-30,1873-10-10
+ssow-ossipee_uss-ossipee,USS Ossipee,usa,Active,Reserve,1873-10-10,1878-05-25
+ssow-ossipee_uss-ossipee,USS Ossipee,usa,Reserve,Active,1878-05-25,1884-01-28
+ssow-ossipee_uss-ossipee,USS Ossipee,usa,Active,Reserve,1884-01-28,1889-11-12
+ssow-ossipee_uss-ossipee,USS Ossipee,usa,Reserve,Sold,1889-11-12,1891-03-25
+ssow-ossipee_uss-adirondack,USS Adirondack,usa,Active,Sunk,1862-06-30,1862-08-23
+ssow-ossipee_uss-juniata,USS Juniata,usa,Active,Reserve,1862-12-04,1867-06-29
+ssow-ossipee_uss-juniata,USS Juniata,usa,Reserve,Active,1867-06-29,1869-07-19
+ssow-ossipee_uss-juniata,USS Juniata,usa,Active,Reserve,1869-07-19,1972-07-10
+ssow-ossipee_uss-juniata,USS Juniata,usa,Reserve,Active,1972-07-10,1873-02-10
+ssow-ossipee_uss-juniata,USS Juniata,usa,Active,Reserve,1873-02-10,1876-09-01
+ssow-ossipee_uss-juniata,USS Juniata,usa,Reserve,Active,1876-09-01,1882-10-30
+ssow-ossipee_uss-juniata,USS Juniata,usa,Active,Reserve,1882-10-30,1889-02-28
+ssow-ossipee_uss-juniata,USS Juniata,usa,Reserve,Sold,1889-02-28,1891-03-25
+ssow-ossipee_uss-housatonic,USS Housatonic,usa,Active,Sunk,1862-08-29,1864-02-17
+ssow-canandaigua_uss-canandaigua,USS Canandaigua,usa,Active,Reserve,1862-08-01,1865-04-08
+ssow-canandaigua_uss-canandaigua,USS Canandaigua,usa,Reserve,Active,1865-04-08,1865-11-22
+ssow-canandaigua_uss-canandaigua,USS Canandaigua,usa,Active,Renamed,1865-11-22,1869-05-15
+ssow-canandaigua_uss-canandaigua,USS Detroit,usa,Active,Renamed,1869-05-15,1869-08-10
+ssow-canandaigua_uss-canandaigua,USS Canandaigua,usa,Active,Reserve,1869-08-10,1875-11-08
+ssow-canandaigua_uss-canandaigua,USS Canandaigua,usa,Reserve,Scrapped,1875-11-08,1884-01-01
+ssow-canandaigua_uss-monongahela,USS Monongahela,usa,Active,Reserve,1863-01-15,1879-01-01
+ssow-canandaigua_uss-monongahela,USS Monongahela,usa,Reserve,Auxiliary,1879-01-01,1883-01-01
+ssow-canandaigua_uss-monongahela,USS Monongahela,usa,Auxiliary,Training,1883-01-01,1891-01-01
+ssow-canandaigua_uss-monongahela,USS Monongahela,usa,Training,Auxiliary,1891-01-01,1904-05-09
+ssow-canandaigua_uss-monongahela,USS Monongahela,usa,Auxiliary,Sunk,1904-05-09,1908-03-17
+ssow-canandaigua_uss-sacramento,USS Sacramento,usa,Active,Reserve,1863-01-07,1865-08-21
+ssow-canandaigua_uss-sacramento,USS Sacramento,usa,Reserve,Active,1865-08-21,1866-09-17
+ssow-canandaigua_uss-sacramento,USS Sacramento,usa,Active,Sunk,1866-09-17,1867-06-19
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Active,Reserve,1863-06-20,1865-04-15
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Reserve,Active,1865-04-15,1865-11-20
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Active,Reserve,1865-11-20,1869-05-02
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Reserve,Active,1869-05-02,1870-08-15
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Active,Reserve,1870-08-15,1874-04-23
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Reserve,Active,1874-04-23,1879-09-08
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Active,Reserve,1879-09-08,1882-05-27
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Reserve,Active,1882-05-27,1883-11-05
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Active,Reserve,1883-11-05,1886-10-23
+ssow-canandaigua_uss-shenandoah,USS Shenandoah,usa,Reserve,Sold,1886-10-23,1887-07-30
+ssow-ticonderoga_uss-ticonderoga,USS Ticonderoga,usa,Active,Reserve,1863-05-12,1865-05-05
+ssow-ticonderoga_uss-ticonderoga,USS Ticonderoga,usa,Reserve,Active,1865-05-05,1866-01-01
+ssow-ticonderoga_uss-ticonderoga,USS Ticonderoga,usa,Active,Reserve,1866-01-01,1874-10-24
+ssow-ticonderoga_uss-ticonderoga,USS Ticonderoga,usa,Reserve,Active,1874-10-24,1875-11-05
+ssow-ticonderoga_uss-ticonderoga,USS Ticonderoga,usa,Active,Reserve,1875-11-05,1882-09-10
+ssow-ticonderoga_uss-ticonderoga,USS Ticonderoga,usa,Reserve,Sold,1882-09-10,1887-08-05
+ssow-ticonderoga_uss-lackawanna,USS Lackawanna,usa,Active,Reserve,1863-01-08,1865-07-20
+ssow-ticonderoga_uss-lackawanna,USS Lackawanna,usa,Reserve,Active,1865-07-20,1866-05-07
+ssow-ticonderoga_uss-lackawanna,USS Lackawanna,usa,Active,Reserve,1866-05-07,1871-02-10
+ssow-ticonderoga_uss-lackawanna,USS Lackawanna,usa,Reserve,Active,1871-02-10,1872-05-08
+ssow-ticonderoga_uss-lackawanna,USS Lackawanna,usa,Active,Reserve,1872-05-08,1885-04-07
+ssow-ticonderoga_uss-lackawanna,USS Lackawanna,usa,Reserve,Sold,1885-04-07,1887-07-30
+ssow-alaska_uss-alaska,USS Alaska,usa,Active,Reserve,1869-12-08,1876-10-05
+ssow-alaska_uss-alaska,USS Alaska,usa,Reserve,Active,1876-10-05,1878-04-23
+ssow-alaska_uss-alaska,USS Alaska,usa,Active,Reserve,1878-04-23,1883-02-13
+ssow-alaska_uss-alaska,USS Alaska,usa,Reserve,Sold,1883-02-13,1883-11-20
+ssow-alaska_uss-algoma,USS Benicia,usa,Active,Reserve,1869-12-01,1875-11-29
+ssow-alaska_uss-algoma,USS Benicia,usa,Reserve,Sold,1875-11-29,1884-05-03
+ssow-alaska_uss-kenosha,USS Kenosha,usa,Active,Renamed,1869-01-20,1869-05-15
+ssow-alaska_uss-kenosha,USS Kenosha,usa,Active,Reserve,1869-05-15,1879-05-17
+ssow-alaska_uss-kenosha,USS Kenosha,usa,Reserve,Scrapped,1879-05-17,1884-01-01
+ssow-alaska_uss-astoria,USS Omaha,usa,Active,Reserve,1872-09-12,1891-01-01
+ssow-alaska_uss-astoria,USS Omaha,usa,Reserve,Sold,1891-01-01,1914-07-10
+ssow-swatara-1865_uss-swatara,USS Swatara,usa,Active,Reserve,1865-11-15,1869-06-01
+ssow-swatara-1865_uss-swatara,USS Swatara,usa,Reserve,Active,1869-06-01,1869-11-11
+ssow-swatara-1865_uss-swatara,USS Swatara,usa,Active,Scrapped,1869-11-11,1871-12-20
+ssow-swatara-1865_uss-resaca,USS Resaca,usa,Active,Reserve,1866-03-01,1872-01-01
+ssow-swatara-1865_uss-resaca,USS Resaca,usa,Reserve,Sold,1872-01-01,1873-02-18
+ssow-swatara-1865_uss-quinnebaug,USS Quinnebaug,usa,Active,Reserve,1866-07-19,1870-07-29
+ssow-swatara-1865_uss-quinnebaug,USS Quinnebaug,usa,Reserve,Scrapped,1870-07-29,1871-01-01
+ssow-swatara-1865_uss-nantasket,USS Nantasket,usa,Active,Reserve,1869-10-22,1872-06-08
+ssow-swatara-1865_uss-nantasket,USS Nantasket,usa,Reserve,Sold,1872-06-08,1883-01-01
+ssow-enterprise_uss-enterprise,USS Enterprise,usa,Active,Reserve,1877-03-16,1880-05-09
+ssow-enterprise_uss-enterprise,USS Enterprise,usa,Reserve,Active,1880-05-09,1882-01-12
+ssow-enterprise_uss-enterprise,USS Enterprise,usa,Active,Reserve,1882-01-12,1886-03-21
+ssow-enterprise_uss-enterprise,USS Enterprise,usa,Reserve,Active,1886-03-21,1890-07-08
+ssow-enterprise_uss-enterprise,USS Enterprise,usa,Active,Reserve,1890-07-08,1909-05-04
+ssow-enterprise_uss-enterprise,USS Enterprise,usa,Reserve,Scrapped,1909-05-04,1909-10-01
+ssow-enterprise_uss-adams,USS Adams,usa,Active,Reserve,1876-07-21,1884-09-20
+ssow-enterprise_uss-adams,USS Adams,usa,Reserve,Active,1884-09-20,1885-11-02
+ssow-enterprise_uss-adams,USS Adams,usa,Active,Reserve,1885-11-02,1890-07-31
+ssow-enterprise_uss-adams,USS Adams,usa,Reserve,Active,1890-07-31,1892-03-23
+ssow-enterprise_uss-adams,USS Adams,usa,Active,Reserve,1892-03-23,1894-11-16
+ssow-enterprise_uss-adams,USS Adams,usa,Reserve,Active,1894-11-16,1895-12-24
+ssow-enterprise_uss-adams,USS Adams,usa,Active,Reserve,1895-12-24,1898-04-30
+ssow-enterprise_uss-adams,USS Adams,usa,Reserve,Training,1898-04-30,1898-10-07
+ssow-enterprise_uss-adams,USS Adams,usa,Training,Auxiliary,1898-10-07,1904-04-24
+ssow-enterprise_uss-adams,USS Adams,usa,Auxiliary,Reserve,1904-04-24,1919-08-05
+ssow-enterprise_uss-adams,USS Adams,usa,Reserve,Sold,1876-07-21,1920-08-01
+ssow-enterprise_uss-alliance,USS Alliance,usa,Active,Auxiliary,1877-01-18,1904-08-17
+ssow-enterprise_uss-alliance,USS Alliance,usa,Auxiliary,Scrapped,1877-01-18,1911-08-09
+ssow-enterprise_uss-nipsic,USS Nipsic,usa,Active,Auxiliary,1879-10-11,1892-01-01
+ssow-enterprise_uss-nipsic,USS Nipsic,usa,Auxiliary,Scrapped,1879-10-11,1915-11-01
+ssow-enterprise_uss-essex,USS Essex,usa,Active,Reserve,1876-10-03,1889-05-01
+ssow-enterprise_uss-essex,USS Essex,usa,Reserve,Training,1889-05-01,1893-01-01
+ssow-enterprise_uss-essex,USS Essex,usa,Training,Active,1893-01-01,1904-01-01
+ssow-enterprise_uss-essex,USS Essex,usa,Active,Auxiliary,1904-01-01,1928-01-01
+ssow-enterprise_uss-essex,USS Essex,usa,Auxiliary,Scrapped,1928-01-01,1930-10-27
+ssow-alert_uss-alert,USS Alert,usa,Training,Active,1875-05-27,1875-12-01
+ssow-alert_uss-alert,USS Alert,usa,Active,Reserve,1875-12-01,1882-07-31
+ssow-alert_uss-alert,USS Alert,usa,Reserve,Active,1882-07-31,1883-10-08
+ssow-alert_uss-alert,USS Alert,usa,Active,Reserve,1883-10-08,1886-09-23
+ssow-alert_uss-alert,USS Alert,usa,Reserve,Active,1886-09-23,1887-01-15
+ssow-alert_uss-alert,USS Alert,usa,Active,Reserve,1887-01-15,1890-02-06
+ssow-alert_uss-alert,USS Alert,usa,Reserve,Active,1890-02-06,1890-10-09
+ssow-alert_uss-alert,USS Alert,usa,Active,Reserve,1890-10-09,1893-09-23
+ssow-alert_uss-alert,USS Alert,usa,Reserve,Active,1893-09-23,1894-04-02
+ssow-alert_uss-alert,USS Alert,usa,Active,Reserve,1894-04-02,1898-06-04
+ssow-alert_uss-alert,USS Alert,usa,Reserve,Training,1898-06-04,1901-05-11
+ssow-alert_uss-alert,USS Alert,usa,Training,Reserve,1901-05-11,1910-02-27
+ssow-alert_uss-alert,USS Alert,usa,Reserve,Auxiliary,1910-02-27,1912-07-01
+ssow-alert_uss-alert,USS Alert,usa,Auxiliary,Reserve,1912-07-01,1922-03-09
+ssow-alert_uss-alert,USS Alert,usa,Reserve,Sold,1922-03-09,1922-07-29
+ssow-alert_uss-huron,USS Huron,usa,Active,Sunk,1875-11-15,1877-11-24
+ssow-alert_uss-ranger,USS Ranger,usa,Active,Reserve,1876-11-27,1891-09-14
+ssow-alert_uss-ranger,USS Ranger,usa,Reserve,Active,1891-09-14,1892-08-26
+ssow-alert_uss-ranger,USS Ranger,usa,Active,Reserve,1892-08-26,1895-11-26
+ssow-alert_uss-ranger,USS Ranger,usa,Reserve,Active,1895-11-26,1899-11-01
+ssow-alert_uss-ranger,USS Ranger,usa,Active,Reserve,1899-11-01,1903-06-11
+ssow-alert_uss-ranger,USS Ranger,usa,Reserve,Active,1903-06-11,1905-03-30
+ssow-alert_uss-ranger,USS Ranger,usa,Active,Reserve,1905-03-30,1905-06-21
+ssow-alert_uss-ranger,USS Ranger,usa,Reserve,Active,1905-06-21,1908-08-10
+ssow-alert_uss-ranger,USS Ranger,usa,Active,Reserve,1908-08-10,1908-11-12
+ssow-alert_uss-ranger,USS Ranger,usa,Reserve,Auxiliary,1908-11-12,1909-04-26
+ssow-alert_uss-ranger,USS Ranger,usa,Auxiliary,Renamed,1909-04-26,1917-10-30
+ssow-alert_uss-ranger,USS Rockport,usa,Auxiliary,Renamed,1917-10-30,1921-07-01
+ssow-alert_uss-ranger,USS Nantucket,usa,Auxiliary,Scrapped,1921-07-01,1940-11-30
+ssow-idaho_uss-idaho,USS Idaho,usa,Active,Auxiliary,1866-04-02,1869-09-21
+ssow-idaho_uss-idaho,USS Idaho,usa,Auxiliary,Sold,1869-09-21,1874-01-01
+gb-peoria_uss-peoria,USS Peoria,usa,Active,Auxiliary,1898-05-23,1911-12-01
+gb-peoria_uss-peoria,USS Peoria,usa,Auxiliary,Reserve,1911-12-01,1921-11-10
+gb-peoria_uss-peoria,USS Peoria,usa,Reserve,Sold,1921-11-10,1922-06-16
+gb-unadilla_uss-aroostook,USS Aroostook,usa,Active,Sold,1862-02-20,1869-09-18
+gb-unadilla_uss-cayuga,USS Cayuga,usa,Active,Sold,1862-02-21,1865-10-25
+gb-unadilla_uss-chippewa,USS Chippewa,usa,Active,Sold,1861-12-13,1865-11-30
+gb-unadilla_uss-chocura,USS Chocura,usa,Active,Sold,1862-02-15,1867-07-13
+gb-unadilla_uss-huron,USS Huron,usa,Active,Sold,1862-01-08,1869-06-14
+gb-unadilla_uss-itasca,USS Itasca,usa,Active,Sold,1861-11-28,1865-11-30
+gb-unadilla_uss-kanawha,USS Kanawha,usa,Active,Sold,1862-01-21,1866-06-13
+gb-unadilla_uss-katahdin,USS Katahdin,usa,Active,Sold,1862-02-17,1865-11-30
+gb-unadilla_uss-kennebec,USS Kennebec,usa,Active,Sold,1862-02-08,1865-11-30
+gb-unadilla_uss-kineo,USS Kineo,usa,Active,Sold,1862-02-08,1866-10-09
+gb-unadilla_uss-marblehead,USS Marblehead,usa,Active,Sold,1862-03-08,1868-09-30
+gb-unadilla_uss-ottawa,USS Ottawa,usa,Active,Sold,1861-10-07,1865-10-25
+gb-unadilla_uss-owasco,USS Owasco,usa,Active,Sold,1862-01-23,1865-10-25
+gb-unadilla_uss-pembina,USS Pembina,usa,Active,Sold,1861-10-16,1865-11-30
+gb-unadilla_uss-penobscot,USS Penobscot,usa,Active,Sold,1862-01-16,1869-10-19
+gb-unadilla_uss-pinola,USS Pinola,usa,Active,Sold,1862-01-29,1865-11-30
+gb-unadilla_uss-sagamore,USS Sagamore,usa,Active,Sold,1861-12-07,1865-06-13
+gb-unadilla_uss-sciota,USS Sciota,usa,Active,Sunk,1861-12-15,1863-07-14
+gb-unadilla_uss-sciota,USS Sciota,usa,Active,Sunk,1863-12-01,1865-04-14
+gb-unadilla_uss-seneca,USS Seneca,usa,Active,Sold,1861-10-14,1868-09-10
+gb-unadilla_uss-tahoma,USS Tahoma,usa,Active,Sold,1861-12-20,1867-10-07
+gb-unadilla_uss-unadilla,USS Unadilla,usa,Active,Sold,1861-09-30,1869-11-09
+gb-unadilla_uss-winona,USS Winona,usa,Active,Sold,1861-12-11,1865-11-30
+gb-unadilla_uss-wissahickon,USS Wissahickon,usa,Active,Sold,1861-11-25,1865-10-25
+gb-octorara_uss-cimarron,USS Cimarron,usa,Active,Reserve,1862-07-05,1865-08-17
+gb-octorara_uss-cimarron,USS Cimarron,usa,Reserve,Sold,1865-08-17,1865-11-06
+gb-mahaska_uss-conemaugh,USS Conemaugh,usa,Active,Reserve,1862-07-16,1867-07-27
+gb-mahaska_uss-conemaugh,USS Conemaugh,usa,Reserve,Sold,1867-07-27,1867-10-01
+gb-octorara_uss-genesee,USS Genesee,usa,Active,Reserve,1862-07-03,1865-07-31
+gb-octorara_uss-genesee,USS Genesee,usa,Reserve,Sold,1865-07-31,1867-10-03
+gb-mahaska_uss-mahaska,USS Mahaska,usa,Active,Reserve,1862-05-05,1868-09-12
+gb-mahaska_uss-mahaska,USS Mahaska,usa,Reserve,Sold,1868-09-12,1868-11-20
+gb-octorara_uss-maratanza,USS Maratanza,usa,Active,Reserve,1862-04-12,1865-06-21
+gb-octorara_uss-maratanza,USS Maratanza,usa,Reserve,Sold,1865-06-21,1868-08-01
+gb-octorara_uss-miami,USS Miami,usa,Active,Reserve,1862-01-29,1865-05-22
+gb-octorara_uss-miami,USS Miami,usa,Reserve,Sold,1865-05-22,1865-08-10
+gb-octorara_uss-octorara,USS Octorara,usa,Active,Reserve,1862-02-28,1865-08-05
+gb-octorara_uss-octorara,USS Octorara,usa,Reserve,Sold,1865-08-05,1866-11-09
+gb-mahaska_uss-paul-jones,USS Paul Jones,usa,Active,Sold,1862-06-09,1867-07-13
+gb-octorara_uss-port-royal,USS Port Royal,usa,Active,Reserve,1862-04-26,1866-05-23
+gb-octorara_uss-port-royal,USS Port Royal,usa,Reserve,Sold,1866-05-23,1866-10-03
+gb-octorara_uss-sebago,USS Sebago,usa,Active,Reserve,1862-03-26,1865-01-29
+gb-octorara_uss-sebago,USS Sebago,usa,Reserve,Sold,1865-01-29,1867-01-19
+gb-octorara_uss-sonoma,USS Sonoma,usa,Active,Reserve,1862-07-08,1863-06-20
+gb-octorara_uss-sonoma,USS Sonoma,usa,Reserve,Active,1863-06-20,1863-09-28
+gb-octorara_uss-sonoma,USS Sonoma,usa,Active,Reserve,1863-09-28,1865-06-13
+gb-octorara_uss-sonoma,USS Sonoma,usa,Reserve,Sold,1865-06-13,1867-10-01
+gb-octorara_uss-tioga,USS Tioga,usa,Active,Reserve,1862-06-30,1864-06-29
+gb-octorara_uss-tioga,USS Tioga,usa,Reserve,Sold,1864-06-29,1867-10-15
+gb-kansas_uss-kansas,USS Kansas,usa,Active,Reserve,1863-12-21,1865-05-04
+gb-kansas_uss-kansas,USS Kansas,usa,Reserve,Active,1865-05-04,1865-07-28
+gb-kansas_uss-kansas,USS Kansas,usa,Active,Reserve,1865-07-28,1869-09-20
+gb-kansas_uss-kansas,USS Kansas,usa,Reserve,Active,1869-09-20,1870-09-26
+gb-kansas_uss-kansas,USS Kansas,usa,Active,Reserve,1870-09-26,1875-08-10
+gb-kansas_uss-kansas,USS Kansas,usa,Reserve,Sold,1875-08-10,1883-09-27
+gb-kansas_uss-maumee,USS Maumee,usa,Active,Reserve,1864-09-29,1865-06-17
+gb-kansas_uss-maumee,USS Maumee,usa,Reserve,Sold,1865-06-17,1869-12-15
+gb-kansas_uss-nipsic,USS Nipsic,usa,Active,Scrapped,1863-09-02,1873-01-01
+gb-kansas_uss-nyack,USS Nyack,usa,Active,Reserve,1864-09-28,1871-03-15
+gb-kansas_uss-nyack,USS Nyack,usa,Reserve,Sold,1871-03-15,1883-11-30
+gb-kansas_uss-pequot,USS Pequot,usa,Active,Reserve,1864-01-15,1865-06-03
+gb-kansas_uss-pequot,USS Pequot,usa,Reserve,Sold,1865-06-03,1869-01-01
+gb-kansas_uss-saco,USS Saco,usa,Active,Reserve,1864-07-11,1865-06-01
+gb-kansas_uss-saco,USS Saco,usa,Reserve,Active,1865-06-01,1866-06-10
+gb-kansas_uss-saco,USS Saco,usa,Active,Reserve,1866-06-10,1868-12-17
+gb-kansas_uss-saco,USS Saco,usa,Reserve,Active,1868-12-17,1870-07-22
+gb-kansas_uss-saco,USS Saco,usa,Active,Reserve,1870-07-22,1876-07-13
+gb-kansas_uss-saco,USS Saco,usa,Reserve,Sold,1876-07-13,1883-11-20
+gb-kansas_uss-shawmut,USS Shawmut,usa,Active,Reserve,1864-11-01,1865-04-17
+gb-kansas_uss-shawmut,USS Shawmut,usa,Reserve,Active,1865-04-17,1865-06-15
+gb-kansas_uss-shawmut,USS Shawmut,usa,Active,Reserve,1865-06-15,1866-12-08
+gb-kansas_uss-shawmut,USS Shawmut,usa,Reserve,Active,1866-12-08,1867-08-12
+gb-kansas_uss-shawmut,USS Shawmut,usa,Active,Reserve,1867-08-12,1868-07-07
+gb-kansas_uss-shawmut,USS Shawmut,usa,Reserve,Active,1868-07-07,1871-03-18
+gb-kansas_uss-shawmut,USS Shawmut,usa,Active,Reserve,1871-03-18,1877-01-22
+gb-kansas_uss-shawmut,USS Shawmut,usa,Reserve,Sold,1877-01-22,1877-09-27
+gb-kansas_uss-yantic,USS Yantic,usa,Active,Training,1864-08-12,1898-01-01
+gb-kansas_uss-yantic,USS Yantic,usa,Training,Reserve,1864-08-12,1919-07-24
+gb-kansas_uss-yantic,USS Yantic,usa,Reserve,Training,1864-08-12,1919-12-31
+gb-kansas_uss-yantic,USS Yantic,usa,Training,Sunk,1864-08-12,1829-10-22
+gb-antona_uss-antona,USS Antona,usa,Active,Sold,1863-03-19,1865-11-30
+gb-sassacus_uss-agawam,USS Agawam,usa,Active,Reserve,1864-03-09,1867-03-31
+gb-sassacus_uss-agawam,USS Agawam,usa,Reserve,Sold,1867-03-31,1867-10-10
+gb-sassacus_uss-ascutney,USS Ascutney,usa,Active,Reserve,1864-07-28,1864-09-22
+gb-sassacus_uss-ascutney,USS Ascutney,usa,Reserve,Active,1864-09-22,1865-10-19
+gb-sassacus_uss-ascutney,USS Ascutney,usa,Active,Reserve,1865-10-19,1868-08-01
+gb-sassacus_uss-ascutney,USS Ascutney,usa,Reserve,Sold,1868-08-01,1868-10-28
+gb-sassacus_uss-chenango,USS Chenango,usa,Active,Reserve,1864-02-29,1865-07-01
+gb-sassacus_uss-chenango,USS Chenango,usa,Reserve,Sold,1865-07-01,1868-10-28
+gb-sassacus_uss-chicopee,USS Chicopee,usa,Active,Reserve,1864-05-07,1866-12-19
+gb-sassacus_uss-chicopee,USS Chicopee,usa,Reserve,Sold,1866-12-19,1867-10-08
+gb-sassacus_uss-eutaw,USS Eutaw,usa,Active,Reserve,1863-07-02,1865-05-08
+gb-sassacus_uss-eutaw,USS Eutaw,usa,Reserve,Sold,1865-05-08,1867-10-15
+gb-sassacus_uss-iosco,USS Iosco,usa,Active,Reserve,1864-04-26,1865-07-28
+gb-sassacus_uss-iosco,USS Iosco,usa,Reserve,Auxiliary,1865-07-28,1868-02-01
+gb-sassacus_uss-lenapee,USS Lenapee,usa,Active,Reserve,1864-12-30,1867-10-17
+gb-sassacus_uss-lenapee,USS Lenapee,usa,Reserve,Sold,1867-10-17,1868-08-26
+gb-sassacus_uss-mackinaw,USS Mackinaw,usa,Active,Reserve,1864-04-23,1867-05-04
+gb-sassacus_uss-mackinaw,USS Mackinaw,usa,Reserve,Sold,1867-05-04,1867-10-03
+gb-sassacus_uss-massacoit,USS Massacoit,usa,Active,Reserve,1864-03-08,1864-07-31
+gb-sassacus_uss-massacoit,USS Massacoit,usa,Reserve,Active,1864-07-31,1864-08-25
+gb-sassacus_uss-massacoit,USS Massacoit,usa,Active,Reserve,1864-08-25,1865-06-27
+gb-sassacus_uss-massacoit,USS Massacoit,usa,Reserve,Sold,1865-06-27,1867-10-15
+gb-sassacus_uss-mattabesett,USS Mattabesett,usa,Active,Reserve,1864-04-07,1865-05-31
+gb-sassacus_uss-mattabesett,USS Mattabesett,usa,Reserve,Sold,1865-05-31,1865-10-15
+gb-sassacus_uss-mendota,USS Mendota,usa,Active,Reserve,1864-02-01,1865-05-12
+gb-sassacus_uss-mendota,USS Mendota,usa,Reserve,Sold,1865-05-12,1867-12-07
+gb-sassacus_uss-metacomet,USS Metacomet,usa,Active,Reserve,1864-01-04,1865-08-18
+gb-sassacus_uss-metacomet,USS Metacomet,usa,Reserve,Sold,1865-08-18,1865-10-28
+gb-sassacus_uss-mingoe,USS Mingoe,usa,Active,Reserve,1864-07-29,1865-09-01
+gb-sassacus_uss-mingoe,USS Mingoe,usa,Reserve,Sold,1865-09-01,1867-10-03
+gb-sassacus_uss-osceola,USS Osceola,usa,Active,Reserve,1864-02-10,1865-05-13
+gb-sassacus_uss-osceola,USS Osceola,usa,Reserve,Sold,1865-05-13,1867-10-01
+gb-sassacus_uss-otsego,USS Otsego,usa,Active,Sunk,1864-04-01,1864-12-09
+gb-sassacus_uss-pawtuxet,USS Pawtuxet,usa,Active,Reserve,1864-05-18,1865-06-15
+gb-sassacus_uss-pawtuxet,USS Pawtuxet,usa,Reserve,Sold,1865-06-15,1867-10-15
+gb-sassacus_uss-peoria,USS Peoria,usa,Active,Reserve,1866-12-26,1867-09-05
+gb-sassacus_uss-peoria,USS Peoria,usa,Reserve,Sold,1867-09-05,1868-08-26
+gb-sassacus_uss-pontiac,USS Pontiac,usa,Active,Reserve,1864-07-07,1865-06-21
+gb-sassacus_uss-pontiac,USS Pontiac,usa,Reserve,Sold,1865-06-21,1867-10-15
+gb-sassacus_uss-pontoosuc,USS Pontoosuc,usa,Active,Reserve,1864-05-10,1865-07-05
+gb-sassacus_uss-pontoosuc,USS Pontoosuc,usa,Reserve,Sold,1865-07-05,1866-10-03
+gb-sassacus_uss-sassacus,USS Sassacus,usa,Active,Reserve,1863-10-05,1865-05-13
+gb-sassacus_uss-sassacus,USS Sassacus,usa,Reserve,Sold,1865-05-13,1868-08-28
+gb-sassacus_uss-shamrock,USS Shamrock,usa,Active,Reserve,1864-06-13,1865-08-15
+gb-sassacus_uss-shamrock,USS Shamrock,usa,Reserve,Active,1865-08-15,1865-10-17
+gb-sassacus_uss-shamrock,USS Shamrock,usa,Active,Reserve,1865-10-17,1868-08-10
+gb-sassacus_uss-shamrock,USS Shamrock,usa,Reserve,Sold,1868-08-10,1868-09-01
+gb-sassacus_uss-tacony,USS Tacony,usa,Active,Reserve,1864-02-12,1867-10-07
+gb-sassacus_uss-tacony,USS Tacony,usa,Reserve,Sold,1867-10-07,1868-08-26
+gb-sassacus_uss-tallahoma,USS Tallahoma,usa,Reserve,Sold,1867-01-01,1868-08-29
+gb-sassacus_uss-tallapoosa,USS Tallapoosa,usa,Active,Reserve,1864-09-13,1867-01-01
+gb-sassacus_uss-tallapoosa,USS Tallapoosa,usa,Reserve,Auxiliary,1867-01-01,1869-01-01
+gb-sassacus_uss-tallapoosa,USS Tallapoosa,usa,Auxiliary,Sunk,1869-01-01,1884-08-24
+gb-sassacus_uss-tallapoosa,USS Tallapoosa,usa,Active,Reserve,1886-01-11,1892-01-30
+gb-sassacus_uss-tallapoosa,USS Tallapoosa,usa,Reserve,Sold,1892-01-30,1892-03-03
+gb-sassacus_uss-wateree,USS Wateree,usa,Active,Sunk,1864-01-20,1868-08-13
+gb-sassacus_uss-winooski,USS Winooski,usa,Active,Reserve,1865-06-27,1867-06-01
+gb-sassacus_uss-winooski,USS Winooski,usa,Reserve,Sold,1867-06-01,1868-08-25
+gb-sassacus_uss-wyalusing,USS Wyalusing,usa,Active,Reserve,1864-02-08,1865-06-10
+gb-sassacus_uss-wyalusing,USS Wyalusing,usa,Reserve,Sold,1865-06-10,1867-10-15
+gb-mohongo_uss-ashuelot,USS Ashuelot,usa,Active,Sunk,1866-04-04,1883-02-18
+gb-mohongo_uss-mohongo,USS Mohongo,usa,Active,Reserve,1865-05-23,1869-05-29
+gb-mohongo_uss-mohongo,USS Mohongo,usa,Reserve,Sold,1869-05-29,1870-11-17
+gb-mohongo_uss-monocacy,USS Monocacy,usa,Active,Sold,1866-02-01,1903-06-22
+gb-mohongo_uss-muscoota,USS Muscoota,usa,Active,Sold,1865-01-01,1869-06-01
+gb-mohongo_uss-shamokin,USS Shamokin,usa,Active,Reserve,1865-10-17,1868-12-24
+gb-mohongo_uss-shamokin,USS Shamokin,usa,Reserve,Sold,1868-12-24,1869-10-21
+gb-mohongo_uss-suwanee,USS Suwanee,usa,Active,Sunk,1865-01-23,1866-07-09
+gb-mohongo_uss-winnepec,USS Winnepec,usa,Active,Reserve,1866-01-01,1868-01-01
+gb-mohongo_uss-winnepec,USS Winnepec,usa,Reserve,Sold,1868-01-01,1869-06-17
+m-marietta_uss-marietta,USS Marietta,usa,Reserve,Renamed,1866-04-25,1869-06-15
+m-marietta_uss-marietta,USS Circe,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-marietta_uss-marietta,USS Marietta,usa,Reserve,Sold,1869-08-10,1873-04-12
+m-marietta_uss-sandusky,USS Sandusky,usa,Reserve,Renamed,1866-04-25,1869-06-15
+m-marietta_uss-sandusky,USS Minerva,usa,Reserve,Renamed,1869-06-15,1869-08-10
+m-marietta_uss-sandusky,USS Sandusky,usa,Reserve,Sold,1869-08-10,1873-04-17
+sf-roanoke_uss-roanoke,USS Roanoke,usa,Active,Reserve,1863-06-29,1865-06-20
+sf-roanoke_uss-roanoke,USS Roanoke,usa,Reserve,Active,1865-06-20,1874-01-13
+sf-roanoke_uss-roanoke,USS Roanoke,usa,Active,Reserve,1874-01-13,1875-06-12
+sf-roanoke_uss-roanoke,USS Roanoke,usa,Reserve,Scrapped,1875-06-12,1883-09-27
