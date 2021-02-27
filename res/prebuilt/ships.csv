@@ -16936,13 +16936,13 @@ m-kalamazoo_uss-passaconaway,m-kalamazoo,USS Passaconaway,Cancelled,Scrapped,186
 m-kalamazoo_uss-quinsigamond,m-kalamazoo,USS Quinsigamond,Cancelled,Scrapped,1864-04-15,,,1865-11-17
 m-kalamazoo_uss-shackamaxon,m-kalamazoo,USS Shackamaxon,Cancelled,Scrapped,1863-12-01,,,1865-11-17
 ci-keokuk_uss-keokuk,ci-keokuk,USS Keokuk,Built,Sunk,1862-02-01,1862-12-06,1863-03-11,1863-04-08
-ar-katahdin,ar-katahdin,USS Katahdin,Built,Target,1891-07-01,1893-02-04,1897-02-20,1909-07-09
+ar-katahdin_uss-katahdin,ar-katahdin,USS Katahdin,Built,Target,1891-07-01,1893-02-04,1897-02-20,1909-07-09
 stb-spuyten-duyvil_uss-spuyten-duyvil,stb-spuyten-duyvil,USS Spuyten Duyvil,Built,Scrapped,1864-06-01,1864-09-01,1864-11-19,1880-01-01
 ci-albemarle_css-albemarle,ci-albemarle,CSS Albemarle,Built,Sunk,1863-01-01,1864-01-01,1864-04-17,1864-10-27
 ci-arkansas_css-arkansas,ci-arkansas,CSS Arkansas,Built,Sunk,1861-10-01,1862-04-22,1862-05-26,1862-08-06
 ci-arkansas_css-tenessee,ci-arkansas,CSS Tenessee,Cancelled,Sunk,1861-10-01,,,1862-06-05
 ci-atlanta_css-atlanta,ci-atlanta,CSS Atlanta,Converted,Captured,1862-03-01,1862-03-01,1862-11-22,1863-06-17
-ci-atlanta-1863_uss-atlanta,ci-atlanta-1863,USS Atlanta,Captured,Sold,1863-06-17,1863-06-17,1864-02-01,1869-05-04
+ci-atlanta_css-atlanta,ci-atlanta-1863,USS Atlanta,Captured,Sold,1863-06-17,1863-06-17,1864-02-01,1869-05-04
 cc-baltic_css-baltic,cc-baltic,CSS Baltic,Converted,Converted,1862-01-01,1862-01-01,1862-06-01,1864-07-01
 ci-charleston_css-charleston,ci-charleston,CSS Charleston,Built,Sunk,1862-12-01,1863-06-01,1863-09-01,1865-02-17
 ci-palmetto-state_css-chicora,ci-palmetto-state,CSS Chicora,Built,Sunk,1862-03-01,1862-09-01,1862-11-01,1865-02-18
@@ -17006,6 +17006,7 @@ sf-santa-maria_santa-maria,sf-danmark,HDMS Danmark,Bought,Scrapped,1864-02-23,18
 sol-america_uss-america,sol-america,USS America,Cancelled,Sold,1777-05-01,,,1782-09-03
 sol-america_uss-america,sol-america-fra,America,Bought,Scrapped,1782-09-03,1782-11-05,1783-06-24,1786-01-01
 sol-independence_uss-independence,sol-independence,USS Independence,Built,Converted,1813-01-01,1814-06-22,1814-07-01,1836-01-01
+sol-independence_uss-independence,sol-independence-1836,USS Independence,Converted,Scrapped,1836-01-01,,1837-03-26,1914-11-28
 sol-independence_uss-washington,sol-independence,USS Washington,Built,Scrapped,1813-05-01,1814-10-01,1815-08-26,1843-01-01
 sol-independence_uss-franklin,sol-independence,USS Franklin,Built,Scrapped,1815-01-01,1815-08-01,1817-10-01,1852-01-01
 sol-independence_uss-columbus,sol-independence,USS Columbus,Built,Sunk,1818-01-01,1819-03-01,1819-09-07,1861-04-20
