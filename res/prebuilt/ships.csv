@@ -17319,13 +17319,17 @@ sow-growler_uss-growler,sow-chub,HMS Chub,Captured,Captured,1813-06-03,,1813-06-
 sow-hamilton_uss-hamilton,sow-hamilton,USS Hamilton,Bought,Sunk,1812-10-21,,1812-10-21,1813-08-08
 gs-ohio_uss-ohio,gs-ohio,USS Ohio,Bought,Captured,1812-12-01,,1812-12-01,1814-08-12
 sow-ontario_uss-ontario,sow-ontario,USS Ontario,Built,Sold,1813-03-01,1813-12-01,1814-04-01,1859-07-15
-sow-erie_uss-peacock,sow-erie,USS Peacock,Built,Sunk,1813-07-09,1813-09-19,1812-11-01,1841-07-17
+sow-erie_uss-frolic,sow-erie,USS Frolic,Built,Captured,1813-03-01,1813-09-11,1814-01-01,1814-04-20
+sow-erie_uss-frolic,sow-florida-1814,HMS Florida,Captured,Scrapped,1814-04-20,,1814-04-20,1819-05-01
+sow-erie_uss-peacock,sow-erie,USS Peacock,Built,Sunk,1813-07-09,1813-09-19,1813-11-01,1841-07-17
+sow-erie_uss-wasp,sow-erie,USS Wasp,Built,Sunk,1813-04-01,1813-09-18,1814-02-01,1814-10-10
 sow-scourge-1812_uss-scourge,sow-scourge-1812,USS Scourge,Captured,Sunk,1812-06-09,,1812-06-09,1813-08-08
 gw-trippe_uss-trippe,gw-trippe,USS Trippe,Bought,Captured,1812-10-01,,1812-10-01,1813-10-01
 sow-boston_uss-boston,sow-boston,USS Boston,Built,Sunk,1825-04-01,1825-10-15,1826-01-01,1846-11-15
 sow-fairfield_uss-fairfield,sow-fairfield,USS Fairfield,Built,Scrapped,1825-04-01,1828-06-28,1828-08-20,1852-01-01
 sow-falmouth_uss-falmouth,sow-falmouth,USS Falmouth,Built,Sold,1825-04-01,1827-11-03,1828-01-19,1863-10-01
 sow-falmouth_uss-lexington,sow-falmouth,USS Lexington,Built,Sold,1825-04-01,1826-03-01,1826-06-11,1860-01-01
+sow-natchez_uss-concord,sow-natchez,USS Concord,Built,Sunk,1825-04-01,1828-09-24,1830-05-07,1842-11-02
 sow-natchez_uss-natchez,sow-natchez,USS Natchez,Built,Scrapped,1825-04-01,1827-05-01,1827-07-15,1840-01-01
 sow-boston_uss-st-louis,sow-boston,USS St. Louis,Built,Scrapped,1827-02-12,1828-08-18,1828-12-20,1907-06-05
 sow-natchez_uss-vincennes,sow-natchez,USS Vincennes,Built,Sold,1825-04-01,1826-04-27,1826-08-27,1867-10-05
@@ -17481,3 +17485,176 @@ gb-mohongo_uss-suwanee,gb-mohongo,USS Suwanee,Built,Sunk,1863-07-01,1864-03-13,1
 gb-mohongo_uss-winnepec,gb-mohongo,USS Winnepec,Built,Sold,1863-12-01,1864-08-20,1866-01-01,1869-06-17
 m-marietta_uss-marietta,m-marietta,USS Marietta,Built,Sold,1862-12-01,1865-01-04,1866-04-25,1873-04-12
 m-marietta_uss-sandusky,m-marietta,USS Sandusky,Built,Sold,1862-12-01,1865-01-15,1866-04-25,1873-04-17
+sow-madison_uss-madison,sow-madison,USS Madison,Built,Sold,1812-08-01,1812-11-26,1813-02-01,1825-01-01
+sow-oneida_uss-oneida,sow-oneida,USS Oneida,Built,Sold,1808-12-01,1809-08-01,1810-01-01,1825-01-01
+sow-buffalo_uss-buffalo,sow-buffalo,USS Buffalo,Built,Sold,1813-01-01,1813-04-15,1813-05-29,1816-08-12
+sow-alert_hms-alert,sow-alert,HMS Alert,Bought,Captured,1804-05-01,1804-05-01,1804-08-09,1812-08-13
+sow-alert_hms-alert,sow-alert-usa,USS Alert,Captured,Scrapped,1812-08-13,,1812-08-13,1829-01-01
+sow-essex-junior_essex-junior,sow-essex-junior,Essex Junior,Captured,Sold,1813-04-29,,1813-04-29,1814-08-26
+sow-fly_uss-fly,sow-fly,USS Fly,Bought,Sunk,1775-11-01,1775-11-01,1776-01-01,1777-11-01
+gb-frances_uss-frances,gb-frances,USS Frances,Bought,Sold,1813-01-01,,1813-01-01,1814-01-01
+sow-georgiana_uss-georgiana,sow-georgiana,USS Georgiana,Captured,Captured,1813-04-29,1813-04-29,1813-05-08,1813-11-28
+gb-growler_uss-growler,gb-growler,USS Growler,Bought,Captured,1812-07-15,,1812-07-15,1814-05-05
+gb-growler_uss-growler,gb-growler-uk,HMS Growler,Captured,Sold,1813-08-10,,1813-08-10,1815-07-01
+sow-independence_uss-independence,sow-independence,USS Independence,Bought,Sunk,1776-09-01,,1776-09-01,1778-04-24
+sow-louisiana_uss-louisiana,sow-louisiana,USS Louisiana,Bought,Scrapped,1812-10-01,,1812-10-01,1821-01-01
+gb-mosquito_uss-mosquito,gb-mosquito,USS Mosquito,Bought,Sunk,1775-10-01,,1775-10-01,1777-07-07
+sow-chesapeake_uss-chesapeake,sow-chesapeake,USS Chesapeake,Built,Sold,1798-11-01,1799-06-20,1799-08-01,1801-06-01
+ssow-pawnee_uss-pawnee,ssow-pawnee,USS Pawnee,Built,Sold,1858-04-01,1859-10-08,1860-06-11,1884-05-03
+sow-president_uss-president,sow-president,USS President,Built,Captured,1812-10-01,,1812-10-01,1814-01-01
+sow-president_uss-president,sow-icicle,HMS Icicle,Captured,Sold,1814-01-01,,1814-01-01,1815-06-01
+ssow-princeton_uss-princeton,ssow-princeton,USS Princeton,Built,Scrapped,1842-10-20,1843-09-05,1843-09-09,1849-10-01
+ssow-queen-charlotte_hms-queen-charlotte,ssow-queen-charlotte,HMS Queen Charlotte,Built,Captured,1809-03-01,1810-10-01,1811-01-01,1813-09-10
+ssow-queen-charlotte_hms-queen-charlotte,ssow-queen-charlotte-usa,USS Queen Charlotte,Captured,Sold,1813-09-10,,1813-09-10,1825-01-01
+sow-sachem_hms-edward,sow-sachem,USS Sachem,Captured,Sunk,1776-05-02,,1776-05-02,1777-09-01
+g-st-mary-s_uss-st-mary-s,g-st-mary-s,USS St. Mary's,Built,Sold,1797-01-01,1797-04-01,1797-05-01,1801-01-01
+sow-vandalia_uss-vandalia,sow-vandalia,USS Vandalia,Built,Scrapped,1825-01-01,1828-05-01,1828-11-06,1870-01-01
+gb-wasp_uss-wasp,gb-wasp,USS Wasp,Bought,Sold,1813-01-01,,1813-01-01,1814-01-01
+sow-ticonderoga_uss-ticonderoga,sow-ticonderoga,USS Ticonderoga,Bought,Sold,1814-05-01,1814-05-12,1814-05-12,1825-07-19
+g-washington_uss-washington,g-washington,USS Washington,Built,Captured,1776-06-01,1776-09-01,1776-10-06,1776-10-13
+g-congress_uss-congress,g-congress,USS Congress,Built,Sunk,1776-06-01,1776-09-01,1776-10-06,1776-10-13
+g-trumbull_uss-trumbull,g-trumbull,USS Trumbull,Built,Captured,1776-06-01,1776-09-10,1776-10-06,1777-04-01
+gb-union_uss-union,gb-union,USS Union,Built,Sold,1841-01-01,1842-01-01,1843-03-01,1858-01-01
+gb-allegheny_uss-allegheny,gb-allegheny,USS Allgheny,Built,Sold,1844-01-01,1847-02-22,1847-06-03,1869-05-15
+g-lee_uss-lee,g-lee,USS Lee,Built,Sunk,1776-06-01,1776-08-01,1776-09-06,1776-10-11
+g-spitfire_uss-spitfire,g-spitfire,USS Spitfire,Built,Captured,1775-11-01,1775-12-15,1776-01-01,1778-05-25
+g-spitfire_uss-washington,g-spitfire,USS Washington,Built,Captured,1775-11-01,1775-12-15,1776-01-01,1776-08-01
+g-lady-washington_uss-lady-washington,g-lady-washington,USS Lady Washington,Built,Captured,1776-04-01,1775-05-01,1776-05-15,1778-06-01
+mc-alabama_uss-alabama,mc-alabama,USS Alabama,Bought,Sold,1861-08-01,1861-08-01,1861-09-30,1865-07-15
+sow-george_hms-george,sow-george,HMS George,Cancelled,Captured,1775-03-01,1775-05-01,,1775-05-18
+sow-george_hms-george,sow-enterprise,USS Enterprise,Captured,Sunk,1775-05-18,,1775-05-18,1777-07-07
+sow-royal-savage_hms-royal-savage,sow-royal-savage,HMS Royal Savage,Cancelled,Sunk,1775-06-01,1775-08-01,1775-09-01,1775-10-14
+sow-royal-savage_hms-royal-savage,sow-royal-savage-usa,USS Royal Savage,Captured,Captured,1775-11-02,,1775-11-15,1776-10-11
+gb-liberty_uss-liberty,gb-liberty,USS Liberty,Captured,Sunk,1775-05-11,,1775-05-11,1777-08-01
+gb-revenge_uss-revenge,gb-revenge,USS Revenge,Built,Sunk,1776-06-01,1776-08-01,1776-08-24,1777-07-01
+gun-boston_uss-boston,gun-boston,USS Boston,Built,Sunk,1776-06-01,1776-07-15,1776-08-01,1776-10-13
+gun-boston_uss-new-haven,gun-boston,USS New Haven,Built,Sunk,1776-06-01,1776-07-15,1776-08-01,1776-10-13
+gun-boston_uss-new-york,gun-boston,USS New York,Built,Captured,1776-06-01,1776-07-15,1776-08-01,1777-07-01
+gun-boston_uss-philadelphia,gun-boston,USS Philadelphia,Built,Sunk,1776-07-01,1776-08-01,1776-08-15,1776-10-11
+gun-boston_uss-providence,gun-boston,USS Providence,Built,Sunk,1776-07-01,1776-08-01,1776-08-15,1776-10-12
+gun-boston_uss-spitfire,gun-boston,USS Spitfire,Built,Sunk,1776-06-01,1776-07-15,1776-08-01,1776-10-13
+gun-boston_uss-connecticut,gun-boston,USS Connecticut,Built,Sunk,1776-06-01,1776-07-15,1776-08-01,1776-10-13
+gun-boston_uss-jersey,gun-boston,USS Jersey,Built,Captured,1776-06-01,1776-07-15,1776-08-01,1776-10-13
+sow-lexington_uss-lexington,sow-lexington,USS Lexington,Bought,Captured,1776-02-01,,1776-02-01,1777-09-19
+g-charleston_uss-charleston,g-charleston,USS Charleston,Built,Sold,1798-07-01,1798-08-01,1798-09-01,1802-02-01
+gb-ariel_uss-ariel,gb-ariel,USS Ariel,Built,Sunk,1813-02-01,1813-04-01,1813-05-01,1814-06-01
+gb-hornet_uss-hornet,gb-hornet,USS Hornet,Bought,Sold,1813-12-01,1813-12-01,1814-03-15,1820-01-01
+gb-warren_uss-warren,gb-warren,USS Warren,Bought,Captured,1775-10-12,1775-10-12,1775-10-25,1776-08-26
+sow-ranger_uss-ranger,sow-ranger,USS Ranger,Bought,Sold,1814-01-01,,1814-01-01,1821-05-15
+sf-alfred_uss-alfred,sf-alfred,USS Alfred,Bought,Captured,1775-11-04,1775-11-04,1775-12-03,1778-03-09
+sf-alfred_uss-alfred,sow-alfred,HMS Alfred,Captured,Sold,1778-03-09,,1778-03-09,1782-01-01
+sow-andrew-doria_andrew-doria,sow-andrew-doria,Andrew Doria,Bought,Sunk,1775-11-01,1775-11-01,1776-01-01,1777-11-01
+sf-columbus_uss-columbus,sf-columbus,USS Columbus,Bought,Sunk,1775-11-01,1775-11-01,1776-02-01,1778-03-28
+sow-cabot_uss-cabot,sow-cabot,USS Cabot,Bought,Captured,1775-11-01,1775-11-01,1776-01-01,1777-03-28
+sow-baltimore_uss-baltimore,sow-baltimore,USS Baltimore,Built,Sunk,1777-01-01,1777-04-01,1777-05-01,1780-01-23
+gb-champion_uss-champion,gb-champion,USS Champion,Built,Sunk,1777-03-01,1777-06-01,1777-07-01,1777-11-21
+sf-san-jacinto_uss-san-jacinto,sf-san-jacinto,USS San Jacinto,Built,Sunk,1847-08-01,1850-04-16,1851-12-01,1865-01-01
+sf-general-pike_uss-general-pike,sf-general-pike,USS General Pike,Built,Sold,1813-04-09,1813-06-12,1813-07-15,1825-01-01
+sf-sphinx_hms-sphinx,sf-sphinx,HMS Sphinx,Built,Scrapped,1773-11-01,1775-10-25,1775-12-29,1811-06-01
+sf-sphinx_hms-camilla,sf-sphinx,HMS Camilla,Built,Scrapped,1774-05-01,1776-04-20,1776-07-09,1831-04-01
+sf-sphinx_hms-daphne,sf-sphinx,HMS Daphne,Built,Sold,1774-08-01,1776-03-21,1776-05-25,1802-05-01
+sf-sphinx_hms-galatea,sf-sphinx,HMS Galatea,Built,Scrapped,1774-10-01,1776-03-21,1776-05-26,1783-04-01
+sf-sphinx_hms-ariadne,sf-sphinx,HMS Ariadne,Built,Sold,1775-05-01,1776-12-27,1777-02-23,1814-08-01
+sf-sphinx_hms-vestal,sf-sphinx,HMS Vestal,Built,Sunk,1776-02-01,1777-05-23,1777-07-09,1777-10-01
+sf-sphinx_hms-perseus,sf-sphinx,HMS Perseus,Built,Scrapped,1775-11-01,1776-03-20,1776-05-26,1805-09-01
+sf-sphinx_hms-unicorn,sf-sphinx,HMS Unicorn,Built,Scrapped,1775-11-01,1776-03-23,1776-05-25,1787-08-01
+sf-sphinx_hms-ariel,sf-sphinx,HMS Ariel,Built,Captured,1776-07-01,1777-07-07,1777-08-12,1779-09-10
+sf-sphinx_hms-narcissus,sf-sphinx,HMS Narcissus,Built,Sunk,1777-06-13,1781-05-09,1781-06-20,1796-01-01
+sf-sphinx_hms-ariel,sf-ariel,Ariel,Captured,Sunk,1779-09-10,,1779-09-10,1793-03-01
+sf-sphinx_hms-ariel,sf-ariel-usa,USS Ariel,Bought,Sold,1780-10-01,,1780-10-01,1781-06-01
+gb-franklin_uss-franklin,gb-franklin,USS Franklin,Bought,Sold,1775-06-01,,1775-06-01,1776-06-01
+sow-general-gates_uss-general-gates,sow-general-gates,USS Genral Gates,Captured,Sold,1777-08-29,1777-08-29,1777-12-19,1779-06-01
+sow-hampden_uss-hampden,sow-hampden,USS Hampden,Bought,Sold,1776-06-27,,1776-06-27,1777-11-01
+gb-harrison_uss-harrison,gb-harrison,USS Harrison,Bought,Sold,1775-10-22,,1775-10-22,1776-02-01
+gb-lee_uss-lee,gb-lee,USS Lee,Bought,Sold,1775-10-01,,1775-10-01,1777-11-01
+gb-lynch_uss-lynch,gb-lynch,USS Lynch,Bought,Captured,1776-01-26,1776-01-26,1776-02-01,1777-05-19
+sow-reprisal_uss-reprisal,sow-reprisal,USS Reprisal,Bought,Sunk,1776-03-28,,1776-03-28,1777-10-01
+sow-saratoga-1780_uss-saratoga,sow-saratoga-1780,USS Saratoga,Built,Sunk,1779-12-01,1780-04-10,1780-07-01,1781-03-01
+sow-ranger-1777_uss-ranger,sow-ranger-1777,USS Ranger,Built,Captured,1777-01-01,1777-05-10,1777-10-01,1780-05-11
+sow-ranger-1777_uss-ranger,sow-halifax-1780,HMS Halifax,Captured,Sold,1780-05-11,,1780-05-11,1781-07-01
+sow-race-horse_hms-race-horse,sow-race-horse,HMS Race Horse,Bought,Captured,1776-06-01,,1776-06-01,1776-12-08
+sow-race-horse_hms-race-horse,sow-surprise,Surprise,Captured,Sunk,1776-12-08,,1776-12-08,1777-11-15
+sow-washington_uss-washington,sow-washington,USS Washington,Bought,Captured,1775-10-01,1775-10-01,1775-11-03,1775-12-03
+sow-yankee-hero_uss-yankee-hero,sow-yankee-hero,USS Yankee Hero,Bought,Captured,1776-01-13,,1776-01-13,1776-06-07
+sow-yankee-hero_uss-yankee-hero,sow-postillion,HMS Postillion,Captured,Sold,1776-06-07,,1776-06-07,1779-01-01
+sow-diligent_hms-diligent,sow-diligent,HMS Diligent,Bought,Captured,1777-08-01,,1777-08-01,1779-05-07
+sow-diligent_hms-diligent,sow-diligent-usa,USS Diligent,Captured,Sunk,1779-05-07,,1779-05-07,1779-08-01
+sow-argus_uss-argus,sow-argus,USS Argus,Built,Captured,1803-05-12,1803-08-31,1803-09-06,1813-08-14
+sow-augusta_uss-augusta,sow-augusta,USS Augusta,Bought,Sold,1799-06-30,1799-06-30,1799-11-01,1801-06-01
+sow-bainbridge_uss-bainbridge,sow-bainbridge,USS Bainbridge,Built,Sunk,1841-09-01,1842-04-26,1842-12-16,1863-08-21
+gb-bohio_uss-bohio,gb-bohio,USS Bohio,Bought,Sold,1861-09-09,1861-09-09,1861-12-30,1865-09-27
+gb-caledonia_uss-caledonia,gb-caledonia,USS Caledonia,Captured,Sold,1812-10-08,,1812-10-08,1815-05-01
+gb-adams_adams,gb-adams,Adams,Built,Captured,1798-01-01,1799-05-18,1799-08-01,1812-08-16
+gb-adams_adams,gb-detroit,HMS Detroit,Captured,Sunk,1812-08-16,,1812-08-16,1812-10-09
+sow-chippewa_uss-chippewa,sow-chippewa,USS Chippewa,Built,Sunk,1815-01-01,1815-06-01,1815-07-01,1816-12-12
+sow-dolphin_uss-dolphin,sow-dolphin,USS Dolphin,Built,Sunk,1836-01-01,1836-06-17,1836-09-06,1861-04-21
+sow-dolphin_uss-porpoise,sow-dolphin,USS Porpoise,Built,Sunk,1835-12-01,1836-05-31,1836-09-01,1854-09-01
+sow-eagle_uss-eagle,sow-eagle,USS Eagle,Built,Sold,1814-03-01,1814-08-11,1814-09-09,1825-01-01
+sow-firefly_uss-firefly,sow-firefly,USS Firefly,Bought,Sold,1814-12-08,,1814-12-08,1816-04-03
+gb-franklin_uss-franklin,gb-franklin,USS Franklin,Bought,Sold,1805-04-27,,1805-04-27,1807-03-21
+gb-hancock_uss-hancock,gb-hancock,USS Hancock,Bought,Sold,1775-10-01,,1775-10-01,1777-02-01
+sow-jefferson_uss-jefferson,sow-jefferson,USS Jefferson,Built,Sold,1813-10-01,1814-04-07,1814-07-25,1825-04-30
+sow-jefferson_uss-jones,sow-jefferson,USS Jones,Built,Scrapped,1813-10-01,1814-04-10,1814-07-25,1821-01-01
+sow-prometheus_uss-prometheus,sow-prometheus,USS Prometheus,Bought,Sold,1814-01-01,,1814-01-01,1819-01-01
+sow-niagara_uss-niagara,sow-niagara,USS Niagara,Built,Sunk,1813-02-25,1813-06-04,1813-08-01,1815-06-01
+sow-niagara_uss-lawrence,sow-niagara,USS Lawrence,Built,Sunk,1813-02-25,1813-05-24,1813-08-01,1815-06-01
+gb-scorpion_uss-scorpion,gb-scorpion,USS Scorpion,Built,Captured,1813-03-01,1813-04-01,1813-06-01,1814-09-06
+gb-scorpion_uss-scorpion,gb-confiance,HMS Confiance,Captured,Sunk,1814-09-06,,1814-09-06,1816-01-01
+gb-tigress_uss-tigress,gb-tigress,USS Tigress,Built,Captured,1813-03-15,1813-04-15,1813-05-15,1814-09-03
+gb-tigress_uss-tigress,gb-surprise,HMS Surprise,Captured,Sunk,1814-09-03,,1814-09-03,1816-01-01
+gb-porcupine_uss-porcupine,gb-porcupine,USS Porcupine,Built,Sold,1813-04-25,1813-05-25,1813-06-15,1825-08-08
+gb-somers_uss-somers,gb-somers,USS Somers,Bought,Captured,1812-06-01,,1812-06-01,1814-08-12
+gb-somers_uss-somers,gb-sauk,HMS Sauk,Captured,Scrapped,1814-08-12,,1814-08-12,1817-01-01
+sow-detroit_hms-detroit,sow-detroit,HMS Detroit,Built,Captured,1813-01-01,1813-07-15,1813-08-10,1813-09-10
+sow-detroit_hms-detroit,sow-detroit-usa,USS Detroit,Captured,Sold,1813-09-10,,1813-09-10,1825-08-08
+sow-lady-prevost_hms-prevost,sow-lady-prevost,HMS Lady Prevost,Built,Captured,1810-01-01,1810-06-01,1810-09-01,1813-09-11
+sow-lady-prevost_hms-prevost,sow-lady-prevost-1813,USS Lady Prevost,Captured,Sunk,1813-09-11,,1813-09-11,1815-06-01
+gb-little-belt_hms-little-belt,gb-little-belt,HMS Little Belt,Captured,Captured,1812-07-17,,1812-07-17,1813-09-10
+gb-little-belt_hms-little-belt,gb-little-belt-1813,USS Little Belt,Captured,Sunk,1813-09-10,,1813-09-10,1813-12-30
+sow-lawrence_uss-lawrence,sow-lawrence,USS Lawrence,Built,Sold,1843-01-01,1843-08-01,1843-09-19,1846-11-01
+sow-nautilus_uss-nautilus,sow-nautilus,USS Nautilus,Bought,Captured,1803-05-01,1803-05-01,1803-06-24,1812-07-06
+sow-nautilus_uss-nautilus,sow-emulous,HMS Emulous,Captured,Scrapped,1812-07-06,,1812-07-06,1817-08-01
+sow-norfolk_uss-norfolk,sow-norfolk,USS Norfolk,Built,Sold,1798-05-01,1798-08-01,1798-09-09,1800-11-01
+gb-oregon_uss-oregon,gb-oregon,USS Oregon,Bought,Sold,1841-08-01,,1841-08-01,1845-04-10
+sow-retaliation_uss-retaliation,sow-retaliation,USS Retaliation,Captured,Sold,1798-07-07,,1798-07-07,1799-11-29
+sow-retaliation_uss-retaliation,sow-magicienne,Magicienne,Captured,Captured,1798-11-20,,1798-11-20,1799-06-28
+sow-perry_uss-perry,sow-perry,USS Perry,Built,Sold,1842-06-01,1843-05-01,1843-10-13,1865-08-10
+sow-rattlesnake_uss-rattlesnake,sow-rattlesnake,USS Rattlesnake,Bought,Captured,1813-07-01,,1813-07-01,1814-06-22
+sow-richmond_uss-richmond,sow-richmond,USS Richmond,Bought,Sold,1798-09-01,1798-09-01,1798-12-01,1801-04-01
+sow-enterprise-1799_uss-enterprise,sow-enterprise-1799,USS Enterprise,Built,Sunk,1799-06-01,1799-10-01,1799-12-17,1823-07-09
+bv-intrepid_uss-intrepid,bv-intrepid,USS Intrepid,Captured,Sunk,1803-12-23,,1803-12-23,1804-09-04
+ssow-santiago-de-cuba_uss-santiago-de-cuba,ssow-santiago-de-cuba,USS Santiago de Cuba,Bought,Sold,1861-09-06,1861-09-06,1861-11-05,1865-09-21
+bv-sea-foam_uss-sea-foam,bv-sea-foam,USS Sea Foam,Bought,Sold,1861-09-14,1861-09-14,1862-01-27,1865-06-12
+sow-seringapatam_seringapatam,sow-seringapatam,Seringapatam,Captured,Captured,1813-07-01,,1813-07-01,1814-05-01
+sow-somers_uss-somers,sow-somers,USS Somers,Built,Sunk,1842-01-01,1842-04-16,1842-05-12,1846-12-08
+sow-spark_uss-spark,sow-spark,USS Spark,Bought,Sold,1814-12-01,1814-12-01,1815-05-20,1826-01-01
+bv-stromboli_uss-stromboli,bv-stromboli,USS Stromboli,Bought,Sold,1846-12-01,1846-12-01,1847-03-18,1848-09-06
+sow-syren_uss-syren,sow-syren,USS Syren,Built,Captured,1803-04-01,1803-08-06,1803-09-01,1814-07-12
+sow-troup_uss-troup,sow-troup,USS Troup,Captured,Sold,1812-09-01,,1812-09-01,1815-06-01
+sow-truxtun_uss-truxtun,sow-truxtun,USS Truxtun,Built,Sunk,1841-12-01,1842-04-16,1843-02-18,1846-08-22
+gv-vengeance_uss-vengeance,gv-vengeance,USS Vengeance,Bought,Scrapped,1805-05-01,1805-05-01,1806-01-01,1818-01-01
+bv-vesuvius_uss-vesuvius,bv-vesuvius,USS Vesuvius,Bought,Sold,1846-01-01,1846-01-01,1846-04-01,1848-10-01
+sow-viper_uss-viper,sow-viper,USS Viper,Converted,Captured,1809-03-01,1809-03-01,1809-04-18,1813-01-17
+sow-viper_uss-viper,sow-mohawk,HMS Mohawk,Captured,Sold,1813-01-17,,1813-01-17,1814-01-01
+sow-vixen_uss-vixen,sow-vixen,USS Vixen,Built,Captured,1803-02-01,1803-06-25,1803-08-03,1812-11-22
+sow-vixen-1813_uss-vixen,sow-vixen-1813,USS Vixen,Bought,Captured,1813-12-01,1813-12-01,,1813-12-25
+bv-spitfire_uss-spitfire,bv-spitfire,USS Spitfire,Converted,Scrapped,1805-04-25,1805-04-25,1805-06-15,1820-01-01
+bv-vesuvius-1806_uss-vesuvius,bv-vesuvius-1806,USS Vesuvius,Built,Sunk,1806-01-01,1806-05-31,1806-09-01,1829-06-01
+sb-demologos_demologos,sb-demologos,Demologos,Built,Sunk,1814-06-20,1815-10-29,1816-06-01,1829-06-04
+cds-fulton_uss-fulton,cds-fulton,USS Fulton,Built,Converted,1835-06-01,1837-05-18,1837-12-13,1850-06-01
+cds-fulton_uss-fulton,ssow-fulton,USS Fulton,Converted,Captured,1850-06-01,1851-08-30,1852-01-25,1861-01-12
+gb-amanda_uss-amanda,gb-amanda,USS Amanda,Bought,Sunk,1861-08-06,1861-08-06,1861-10-01,1863-05-27
+gb-arthur_uss-arthur,gb-arthur,USS Arthur,Bought,Unknown,1861-08-01,1861-08-01,1861-12-11,1862-12-01
+gb-braziliera_uss-braziliera,gb-braziliera,USS Braziliera,Bought,Sold,1861-07-30,1861-07-30,1861-10-27,1865-06-02
+gb-ethan-allen_uss-ethan-allen,gb-ethan-allen,USS Ethan Allen,Bought,Sold,1861-08-23,1861-08-23,1861-10-03,1865-07-20
+gb-fernandina_uss-fernandina,gb-fernandina,USS Fernandina,Bought,Sold,1861-07-29,1861-07-29,1861-11-16,1865-06-02
+gb-gem-of-the-sea_uss-gem-of-the-sea,gb-gem-of-the-sea,USS Gem of the Sea,Bought,Sold,1861-08-03,1861-08-03,1861-10-15,1865-05-01
+gb-james-l-davis_james-l-davis,gb-james-l-davis,USS James L. Davis,Bought,Sold,1861-09-29,1861-09-29,1861-12-30,1865-06-20
+gb-kingfisher_uss-kingfisher,gb-kingfisher,USS Kingfisher,Bought,Sunk,1861-08-02,1861-08-02,1861-10-03,1864-03-28
+gb-midnight_uss-midnight,gb-midnight,USS Midnight,Bought,Sold,1861-07-31,1861-07-31,1861-10-19,1865-11-01
+gb-pursuit_uss-pursuit,gb-pursuit,USS Pursuit,Bought,Sold,1861-09-03,1861-09-03,1861-12-17,1865-07-12
+gb-gemsbok_uss-gemsbok,gb-gemsbok,USS Gemsbok,Bought,Sold,1861-08-30,1861-08-30,1861-09-07,1865-07-11
+gb-restless_uss-restless,gb-restless,USS Restless,Bought,Sold,1861-08-26,1861-08-26,1861-12-01,1865-09-21
+gb-roebuck_uss-roebuck,gb-roebuck,USS Roebuck,Bought,Sold,1861-07-21,1861-07-21,1861-11-08,1865-07-20
+gb-william-g-anderson_uss-william-g-anderson,gb-william-g-anderson,USS William G. Anderson,Bought,Sold,1861-08-23,1861-08-23,1861-10-02,1866-08-28
+gb-young-rover_uss-young-rover,gb-young-rover,USS Young Rover,Bought,Sold,1861-07-27,1861-07-27,1861-09-10,1865-06-22
