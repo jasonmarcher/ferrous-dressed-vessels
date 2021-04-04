@@ -1,6 +1,6 @@
 # ferrous-dressed-vessel
 
-A slowly growing dataset on iron armored worships.
+A slowly growing dataset on worships.
 
 ## Sources
 
@@ -22,9 +22,15 @@ http://www.navweaps.com/index_nathan/metalprpsept2009.php
 
 Ship History
 https://www.history.navy.mil/research/histories/ship-histories/danfs.html
+https://threedecks.org/index.php?display_type=ships_search
+http://3decks.pbworks.com/w/page/913970/FrontPage
 
 Submarines
 http://www.designed4submariners.com/Welcome_Page.html
+
+http://www.hisutton.com/
+
+https://www.patreon.com/jivturky
 
 Misc.
 https://dinamicaglobal.wordpress.com/militar/uma-breve-analise-comparativa-dos-grandes-porta-avioes/
@@ -32,3 +38,7 @@ https://dinamicaglobal.wordpress.com/militar/uma-breve-analise-comparativa-dos-g
 http://www.combinedfleet.com/kaigun.htm
 
 http://www.hazegray.org/navhist/
+
+https://www.pdavis.nl/MidVicShips.php?page=1
+
+https://freepages.rootsweb.com/~pbtyc/genealogy//18-1900/A/A.html
