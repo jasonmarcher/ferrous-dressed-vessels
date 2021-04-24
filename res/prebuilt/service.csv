@@ -20774,7 +20774,7 @@ sf-sphinx_hms-ariel,sf-sphinx,HMS Ariel,britain,Active,Captured,1777-08-12,1779-
 sf-sphinx_hms-narcissus,sf-sphinx,HMS Narcissus,britain,Active,Sunk,1781-06-20,1796-01-01
 sf-sphinx_hms-ariel,sf-ariel,Ariel,france,Active,Sunk,1779-09-10,1793-03-01
 sf-sphinx_hms-ariel,sf-ariel-usa,USS Ariel,usa,Active,Sold,1780-10-01,1781-06-01
-gb-franklin_uss-franklin,gb-franklin,USS Franklin,usa,Active,Sold,1775-06-01,1776-06-01
+gb-franklin_uss-franklin,gb-franklin,USS Franklin,usa,Active,Sold,1775-10-01,1776-06-01
 sow-general-gates_uss-general-gates,sow-general-gates,USS Genral Gates,usa,Active,Sold,1777-12-19,1779-06-01
 sow-hampden_uss-hampden,sow-hampden,USS Hampden,usa,Active,Sold,1776-06-27,1777-11-01
 gb-harrison_uss-harrison,gb-harrison,USS Harrison,usa,Active,Sold,1775-10-22,1776-02-01
@@ -21285,7 +21285,7 @@ sol-danube_triomphant,sol-danube,Triomphant,france,Active,Scrapped,1809-05-01,18
 sol-danube_polonais,sol-danube,Polonais,france,Active,Renamed,1808-06-01,1814-04-01
 sol-danube_polonais,sol-danube,Lys,france,Active,Renamed,1814-04-01,1815-03-01
 sol-danube_polonais,sol-danube,Polonais,france,Active,Renamed,1815-03-01,1515-07-01
-sol-danube_polonais,sol-danube,Lys,france,Active,Scrapped,1515-07-01,1822-07-01
+sol-danube_polonais,sol-danube,Lys,france,Active,Scrapped,1815-07-01,1822-07-01
 sol-danube_golymin,sol-danube,Golymin,france,Active,Sunk,1809-10-01,1814-03-23
 sol-danube_marengo,sol-danube,Marengo,france,Active,Scrapped,1811-04-01,1858-07-01
 sol-danube_danube,sol-danube,Danube,france,Active,Auxiliary,1809-08-01,1822-12-01
@@ -22990,3 +22990,711 @@ sol-suffren-1831_alexandre-ii,ssol-alexandre-1858,Alexandre,france,Active,1854-1
 sol-suffren-1831_massena,ssol-massena-1861,Massena,france,Active,1856-03-12,1861-11-01,1866-07-01
 sol-suffren-1831_castiglione,ssol-massena-1861,Castiglione,france,Active,1856-01-02,1861-12-01,1866-12-01
 sol-suffren-1831_fontenoy,ssol-fontenoy-1859,Le Fontenoy,france,Active,1857-01-01,1859-02-01,1871-05-01
+sol-bucentaure-1803_bucentaure,sol-bucentaure-1803,Le Bucentaure,france,Active,Sunk,1804-01-01,1805-10-22
+sol-bucentaure-1803_neptune,sol-bucentaure-1803,Le Neptune,france,Active,Captured,1804-04-01,1808-07-14
+sol-bucentaure-1803_robuste,sol-bucentaure-1803,Le Robuste,france,Active,Sunk,1807-05-01,1809-10-26
+sol-bucentaure-1803_donawerth,sol-bucentaure-1803,Le Donawerth,france,Active,Scrapped,1808-10-01,1823-08-01
+sol-bucentaure-1803_sceptre,sol-bucentaure-1803,Le Sceptre,france,Active,Scrapped,1811-03-01,1828-03-01
+sol-bucentaure-1803_ville-de-varsovie,sol-bucentaure-1803,Le Ville de Varsovie,france,Active,Sunk,1808-07-01,1809-04-13
+sol-bucentaure-1803_eylau,sol-bucentaure-1803,L'Eylau,france,Active,Scrapped,1809-05-01,1829-06-01
+sol-bucentaure-1803_diademe,sol-bucentaure-1803,Le Diademe,france,Active,Scrapped,1812-03-01,1856-01-01
+sol-bucentaure-1803_magnifique,sol-bucentaure-1803,Le Magnifique,france,Active,Scrapped,1814-11-01,1837-09-01
+sol-bucentaure-1803_neptune-ii,sol-bucentaure-1803,Le Neptune,france,Active,Scrapped,1818-06-01,1858-01-01
+sol-bucentaure-1803_algesiras,sol-bucentaure-1803,L'Algesiras,france,Active,Scrapped,1824-04-01,1846-01-01
+sol-bucentaure-1803_friedland,sol-bucentaure-1803,Le Friedland,france,Active,Captured,1811-05-01,1814-08-01
+sol-bucentaure-1803_tilsitt,sol-bucentaure-1803,Le Tilsitt,france,Active,Captured,1811-05-01,1814-08-01
+sol-bucentaure-1803_pacificateur,sol-bucentaure-1803,Le Pacificateur,france,Active,Scrapped,1811-08-01,1823-10-01
+sol-bucentaure-1803_illustre,sol-bucentaure-1803,L'Illustre,france,Active,Captured,1811-10-01,1814-08-01
+sol-bucentaure-1803_auguste,sol-bucentaure-1803,L'Auguste,france,Active,Scrapped,1811-07-01,1827-03-01
+sol-bucentaure-1803_conquerant,sol-bucentaure-1803,Le Conquerant,france,Active,Scrapped,1812-09-01,1831-07-01
+sol-bucentaure-1803_zelandais,sol-bucentaure-1803,Le Zelandais,france,Active,Scrapped,1814-03-01,1836-11-01
+sol-bucentaure-1803_centaure,sol-bucentaure-1803,Le Centaure,france,Active,Scrapped,1818-04-01,1849-11-01
+sol-bucentaure-1803_jupiter,sol-bucentaure-1803,Le Jupiter,france,Active,Scrapped,1833-09-01,1863-05-01
+sol-bucentaure-1803_neptune,sol-neptuno-1808,Neptuno,spain,Active,Scrapped,1808-07-14,1820-01-01
+sol-bucentaure-1803_friedland,sol-vlaming-1814,Vlaming,netherlands,Active,Scrapped,1814-08-01,1823-01-01
+sol-bucentaure-1803_tilsitt,sol-vlaming-1814,Neptunus,netherlands,Active,Scrapped,1814-08-01,1818-01-01
+sol-bucentaure-1803_illustre,sol-vlaming-1814,Prins van Oranje,netherlands,Active,Scrapped,1814-08-01,1825-01-01
+sol-bucentaure-1803_vesuvio,sol-vesuvio-1824,Vesuvio,naples,Active,Sold,1825-07-01,1861-03-17
+sol-bucentaure-1803_vesuvio,sol-vesuvio-1861,Vesuvio,italy,Active,Scrapped,1861-03-17,1865-01-01
+sol-auguste-1778_auguste,sol-auguste-1778,L'Auguste,france,Active,Sunk,1779-03-01,1795-01-09
+sol-triomphant-1779_triomphant,sol-triomphant-1779,Le Triomphant,france,Active,Captured,1779-06-01,1793-08-29
+sol-deux-freres-1784_deux-freres,sol-deux-freres-1784,Les Deux Freres,france,Active,Captured,1784-12-01,1794-06-01
+sol-deux-freres-1784_deux-freres,sol-juste-1794,HMS Juste,britain,Active,Scrapped,1794-06-01,1811-02-01
+bi-gloire_gloire,bi-gloire,Le Glorie,france,Active,Scrapped,1860-08-01,1879-12-01
+bi-gloire_invincible,bi-gloire,L'Invincible,france,Active,Scrapped,1863-03-01,1872-08-01
+bi-gloire_normandie,bi-gloire,Le Normandie,france,Active,Scrapped,1862-03-01,1871-08-01
+bi-couronne_couronne,bi-couronne,Le Couronne,france,Active,Training,1862-02-02,1885-01-01
+bi-magenta_magenta,bi-magenta,Le Magenta,france,Active,Sunk,1862-05-01,1875-10-31
+bi-magenta_solferino,bi-magenta,Le Solferino,france,Active,Scrapped,1862-08-01,1882-07-01
+bi-provence_provence,bi-provence,Le Provence,france,Active,Scrapped,1864-03-01,1886-05-01
+bi-provence_flandre,bi-provence,Le Flandre,france,Active,Scrapped,1865-05-01,1886-11-01
+bi-provence_savoie,bi-provence,Le Savoie,france,Active,Scrapped,1865-04-01,1888-11-01
+bi-provence_magnanime,bi-provence,Le Magnanime,france,Active,Scrapped,1865-11-01,1882-06-01
+bi-provence_valereuse,bi-provence,Le Valereuse,france,Active,Scrapped,1867-02-01,1886-02-01
+bi-provence_gauloise,bi-provence,Le Gauloise,france,Active,Scrapped,1867-04-01,1883-10-01
+bi-provence_guyenne,bi-provence,Le Guyenne,france,Active,Scrapped,1867-04-01,1882-10-01
+bi-provence_revanche,bi-provence,Le Revanche,france,Active,Auxiliary,1867-05-01,1889-01-01
+bi-provence_surveilante,bi-provence,Le Surveilante,france,Active,Scrapped,1867-05-01,1887-05-01
+bi-heroine_heroine,bi-heroine,Le Heroine,france,Active,Scrapped,1865-06-01,1893-01-01
+bi-belliqueuse_belliqueuse,bi-belliqueuse,Le Belliqueuse,france,Active,Target,1866-01-01,1886-01-01
+cb-alma_alma,cb-alma,L'Alma,france,Active,Auxiliary,1869-01-01,1886-01-01
+cb-alma_armide,cb-alma,L'Armide,france,Active,Scrapped,1867-12-01,1887-01-01
+cb-alma_atalante,cb-alma,L'Atalante,france,Active,Scrapped,1869-03-01,1887-01-01
+cb-alma_jeanne-d-arc,cb-alma,Jeanne d'Arc,france,Active,Scrapped,1868-08-01,1883-01-01
+cb-alma_montcalm,cb-alma,Le Montcalm,france,Active,Scrapped,1869-08-01,1891-01-01
+cb-alma_reine-blanche,cb-alma,Le Reine Blanche,france,Active,Scrapped,1869-02-01,1886-01-01
+cb-alma_thetis,cb-alma,Le Thetis,france,Active,Scrapped,1868-06-01,1895-01-01
+cb-ocean_ocean,cb-ocean,L'Ocean,france,Active,Scrapped,1870-07-15,1894-11-01
+cb-ocean_marengo,cb-ocean,Le Marengo,france,Active,Scrapped,1872-05-01,1895-03-01
+cb-ocean_suffren,cb-ocean,Le Suffren,france,Active,Scrapped,1873-08-05,1897-07-01
+cb-la-galissonniere_la-galissonniere,cb-la-galissonniere,La Galissonniere,france,Active,Scrapped,1874-01-01,1894-01-01
+cb-la-galissonniere_triomphante,cb-la-galissonniere,Le Triomphante,france,Active,Scrapped,1879-01-01,1903-01-01
+cb-la-galissonniere_victorieuse,cb-la-galissonniere,Le Victorieuse,france,Active,Auxiliary,1877-01-01,1900-01-01
+cb-richelieu_richelieu,cb-richelieu,Le Richelieu,france,Active,Scrapped,1875-04-12,1900-03-01
+cb-friedland_friedland,cb-friedland,Le Friedland,france,Active,Scrapped,1877-06-20,1902-01-01
+cb-colbert_colbert,cb-colbert,Le Colbert,france,Active,Scrapped,1877-06-30,1900-08-01
+cb-colbert_trident,cb-colbert,Le Trident,france,Active,Training,1878-11-18,1894-01-01
+cb-redoutable_redoutable,cb-redoutable,Le Redoutable,france,Active,Scrapped,1878-12-31,1910-03-01
+cb-courbet_foudroyant,cb-courbet,Le Courbet,france,Active,Scrapped,1886-10-20,1909-02-01
+cb-courbet_devastation,cb-courbet,Le Devastation,france,Active,Scrapped,1882-07-15,1909-01-01
+sol-neptune-1778_neptune,sol-neptune-1778,Le Neptune,france,Active,Sunk,1778-10-01,1795-01-28
+sol-scipion-1778_scipion,sol-scipion-1778,Le Scipion,france,Active,Sunk,1779-02-01,1782-10-19
+sol-scipion-1778_hercule,sol-scipion-1778,L'Hercule,france,Active,Converted,1779-02-01,1794-02-20
+sol-scipion-1778_pluton,sol-scipion-1778,Le Pluton,france,Active,Scrapped,1779-02-01,1805-01-01
+sol-annibal-1778_annibal,sol-annibal-1778,L'Annibal,france,Active,Captured,1779-01-01,1794-06-01
+sol-annibal-1778_northumberland,sol-annibal-1778,Le Northumberland,france,Active,Captured,1780-07-01,1794-06-01
+sol-annibal-1778_heros,sol-annibal-1778,Heros,france,Active,Captured,1779-03-01,1793-08-01
+sol-annibal-1778_annibal,sol-heros-1793,HMS Achille,britain,Active,Scrapped,1794-06-01,1796-02-01
+sol-annibal-1778_northumberland,sol-heros-1793,HMS Northumberland,britain,Active,Scrapped,1794-06-01,1795-11-01
+sol-annibal-1778_heros,sol-heros-1793,Heros,britain,Active,Sunk,1793-08-01,1793-12-18
+sol-scipion-1778_hercule,sol-hydra-1794,L'Hydra,france,Active,Scrapped,1794-06-01,1799-01-01
+sol-magnanime-1779_magnanime,sol-magnanime-1779,Le Magnanime,france,Active,Scrapped,1779-12-01,1793-01-01
+sol-magnanime-1779_illustre,sol-magnanime-1779,L'Illustre,france,Active,Converted,1781-03-20,1793-08-01
+sol-magnanime-1779_sceptre,sol-magnanime-1779,Le Sceptre,france,Active,Auxiliary,1780-10-15,1802-08-01
+sol-magnanime-1779_illustre,sol-scevola-1794,La Scevola,france,Active,Sunk,1794-03-01,1796-12-16
+sol-argonaute-1781_argonaute,sol-argonaute-1781,L'Argonaute,france,Active,Converted,1781-12-01,1793-03-01
+sol-argonaute-1781_brave,sol-argonaute-1781,Le Brave,france,Active,Converted,1781-11-01,1793-03-01
+sol-argonaute-1781_argonaute,sol-argonaute-1793,Le Flitbustier,france,Active,Scrapped,1794-01-01,1795-12-01
+sol-argonaute-1781_brave,sol-argonaute-1793,Le Brave,france,Active,Auxiliary,1794-01-01,1798-01-01
+sol-pegase-1781_pegase,sol-pegase-1781,Le Pegase,france,Active,Captured,1782-02-01,1782-04-21
+sol-pegase-1781_puissant,sol-pegase-1781,Le Puissant,france,Active,Captured,1782-06-01,1793-08-29
+sol-pegase-1781_dictateur,sol-pegase-1781,Le Dictateur,france,Active,Captured,1782-08-01,1793-08-29
+sol-pegase-1781_suffisant,sol-pegase-1781,Le Suffisant,france,Active,Captured,1782-08-01,1793-08-29
+sol-pegase-1781_alcide,sol-pegase-1781,L'Alcide,france,Active,Sunk,1783-01-01,1795-07-18
+sol-pegase-1781_censeur,sol-pegase-1781,Le Censeur,france,Active,Captured,1783-10-01,1795-03-14
+sol-pegase-1781_censeur,sol-pegase-1781,Le Revolution,france,Active,Sold,1795-10-07,1799-06-01
+sol-pegase-1781_pegase,sol-pegase-1782,HMS Pegase,britain,Active,Scrapped,1782-04-21,1815-01-01
+sol-pegase-1781_puissant,sol-pegase-1782,HMS Puissant,britain,Active,Scrapped,1793-08-29,1816-07-11
+sol-pegase-1781_dictateur,sol-pegase-1782,Dictateur,britain,Active,Sunk,1793-08-29,1793-12-18
+sol-pegase-1781_suffisant,sol-pegase-1782,Suffisant,britain,Active,Sunk,1793-08-29,1793-12-18
+sol-pegase-1781_censeur,sol-pegase-1782,HMS Censeur,britain,Active,Captured,1795-03-14,1795-10-07
+sol-centaure-1782_centaure,sol-centaure-1782,Le Centaure,france,Active,Captured,1782-12-01,1793-08-29
+sol-centaure-1782_heureux,sol-centaure-1782,L'Heureux,france,Active,Captured,1783-04-01,1798-08-02
+sol-seduisant-1783_seduisant,sol-seduisant-1783,Le Seduisant,france,Active,Sunk,1783-08-01,1796-12-16
+sol-seduisant-1783_mercure,sol-seduisant-1783,Le Mercure,france,Active,Captured,1783-09-01,1798-08-02
+sol-centaure-1782_centaure,sol-centaure-1793,Centaure,britain,Active,Sunk,1793-08-29,1793-12-18
+sol-brillant-1774_brillant,sol-brillant-1774,Le Brillant,france,Active,Scrapped,1774-12-01,1797-01-01
+sol-solitaire-1774_solitaire,sol-solitaire-1774,Le Solitaire,france,Active,Captured,1776-03-01,1782-12-06
+sol-solitaire-1774_reflechi,sol-solitaire-1774,Le Reflechi,france,Active,Auxiliary,1777-02-01,1788-11-01
+sol-solitaire-1774_solitaire,sol-solitaire-1782,HMS Solitaire,britain,Active,Scrapped,1782-12-06,1790-01-01
+sol-caton-1777_caton,sol-caton-1777,Le Caton,france,Active,Captured,1778-05-01,1782-04-19
+sol-caton-1777_jason,sol-caton-1777,Le Jason,france,Active,Captured,1779-05-01,1782-04-19
+sol-caton-1777_caton,sol-caton-1782,HMS Caton,britain,Active,Auxiliary,1782-04-19,1790-08-01
+sol-caton-1777_jason,sol-caton-1782,HMS Argonaut,britain,Active,Auxiliary,1782-04-19,1797-02-01
+sol-severe-1778_severe,sol-severe-1778,Le Severe,france,Active,Sunk,1779-02-01,1784-01-26
+sol-severe-1778_ajax,sol-severe-1778,L'Ajax,france,Active,Auxiliary,1779-08-13,1795-06-01
+sol-eclatant-1721_eclatant,sol-eclatant-1721,L'Eclatant,france,Active,Auxiliary,1722-01-01,1745-01-01
+sol-solide-1722_solide,sol-solide-1722,Le Solide,france,Active,Scrapped,1724-03-01,1771-01-01
+sol-saint-louis-1723_saint-louis,sol-saint-louis-1723,Le Saint Louis,france,Active,Scrapped,1724-01-01,1748-01-01
+sol-saint-louis-1723_ardent,sol-saint-louis-1723,L'Ardent,france,Active,Sunk,1724-06-01,1746-10-12
+sol-elisabeth-1723_elisabeth,sol-elisabeth-1723,L'Elisabeth,france,Active,Auxiliary,1724-12-01,1748-01-01
+sol-leopard-1727_leopard,sol-leopard-1727,Le Leopard,france,Active,Sunk,1728-05-01,1756-01-01
+sol-fleuron-1730_fleuron,sol-fleuron-1730,Le Fleuron,france,Active,Sunk,1732-03-01,1745-02-01
+sol-eole-1733_eole,sol-eole-1733,L'Eole,france,Active,Sunk,1734-05-01,1745-05-01
+sol-boree-1734_boree,sol-boree-1734,Le Boree,france,Active,Sunk,1735-08-01,1746-12-01
+sol-triton-1747_triton,sol-triton-1747,Le Triton,france,Active,Auxiliary,1747-12-01,1786-01-01
+sol-serieux-1740_serieux,sol-serieux-1740,Le Serieux,france,Active,Captured,1741-05-01,1747-05-03
+sol-serieux-1740_serieux,sol-intrepid-1747,HMS Intrepid,britain,Active,Scrapped,1747-11-21,1765-08-02
+sol-mars-1740_mars,sol-mars-1740,Le Mars,france,Active,Captured,1741-04-01,1746-10-11
+sol-mars-1740_alcide,sol-mars-1740,L'Alcide,france,Active,Captured,1744-10-01,1755-06-08
+sol-mars-1740_mars,sol-mars-1746,HMS Mars,britain,Active,Sunk,1747-03-30,1755-06-24
+sol-mars-1740_alcide,sol-mars-1746,L'Alcide,france,Active,Sold,1757-04-04,1772-05-27
+sol-saint-michel-1741_saint-michel,sol-saint-michel-1741,Le Saint Michel,france,Active,Sold,1741-05-01,1787-05-01
+sol-saint-michel-1741_vigilant,sol-saint-michel-1741,Le Vigilant,france,Active,Captured,1744-12-01,1745-05-19
+sol-saint-michel-1741_vigilant,sol-vigilant-1745,HMS Vigilant,britain,Active,Sold,1745-05-23,1759-12-11
+sol-trident-1742_trident,sol-trident-1742,Le Trident,france,Active,Captured,1742-12-01,1747-10-14
+sol-trident-1742_trident,sol-trident-1747,HMS Trident,britain,Active,Sold,1755-05-07,1763-03-15
+sol-lys-1746_lys,sol-lys-1746,Le Lys,france,Active,Captured,1747-01-01,1755-06-08
+sol-lys-1746_foudueux,sol-lys-1746,Le Foudueux,france,Active,Captured,1747-07-01,1747-10-14
+sol-lys-1746_dragon,sol-lys-1746,Le Dragon,france,Active,Sunk,1748-01-01,1762-03-01
+sol-lys-1746_foudueux,sol-foudueux-1747,HMS Foudueux,britain,Active,Scrapped,1748-03-21,1759-05-01
+sol-lys-1746_lys,sol-foudueux-1747,HMS Lys,britain,Active,Sold,1755-06-08,1755-12-01
+sol-content-1746_content,sol-content-1746,Le Content,france,Active,Captured,1747-12-01,1793-12-01
+sol-content-1746_orphee,sol-content-1746,L'Orphee,france,Active,Captured,1750-01-01,1758-02-28
+sol-content-1746_orphee,sol-orphee-1758,L'Orphee,france,Active,Scrapped,1758-02-28,1758-12-23
+sol-achille-1747_achille,sol-achille-1747,L'Achille,france,Active,Captured,1748-01-01,1761-07-17
+sol-protee-1748_protee,sol-protee-1748,Le Protee,france,Active,Scrapped,1750-08-01,1771-09-01
+sol-protee-1748_hercule,sol-protee-1748,L'Hercule,france,Active,Sold,1750-08-01,1760-12-01
+sol-hardi-1750_hardi,sol-hardi-1750,Le Hardi,france,Active,Auxiliary,1751-04-01,1786-01-01
+sol-hardi-1750_inflexible,sol-hardi-1750,L'Inflexible,france,Active,Sunk,1755-04-01,1760-01-01
+sol-illustre-1750_illustre,sol-illustre-1750,L'Illustre,france,Active,Scrapped,1751-03-01,1761-10-01
+sol-illustre-1750_actif,sol-illustre-1750,L'Actif,france,Active,Scrapped,1754-05-01,1767-03-01
+sol-opiniatre-1750_opiniatre,sol-opiniatre-1750,L'Opiniatre,france,Active,Sunk,1751-04-01,1758-01-01
+sol-lion-1751_lion,sol-lion-1751,Le Lion,france,Active,Auxiliary,1752-01-01,1783-12-01
+sol-lion-1751_sage,sol-lion-1751,Le Sage,france,Active,Scrapped,1752-07-01,1768-05-01
+sol-bizarre-1751_bizarre,sol-bizarre-1751,Le Bizarre,france,Active,Sunk,1753-03-01,1782-10-04
+sol-capricieux-1753_capricieux,sol-capricieux-1753,Le Capricieux,france,Active,Sunk,1754-06-01,1758-07-01
+sol-bienfaisant-1754_bienfaisant,sol-bienfaisant-1754,Le Bienfaisant,france,Active,Captured,1756-02-01,1758-07-25
+sol-bienfaisant-1754_bienfaisant,sol-bienfaisant-1758,HMS Bienfaisant,britain,Active,Auxiliary,1758-07-25,1794-07-01
+sol-algonkin-1753_algonkin,sol-algonkin-1753,L'Algonkin,france,Active,Auxiliary,1753-09-01,1755-04-14
+sol-vaillant-1755_modeste,sol-vaillant-1755,Le Modeste,france,Active,Captured,1759-05-01,1759-08-18
+sol-vaillant-1755_modeste,sol-modeste-1760,HMS Modeste,britain,Active,Auxiliary,1760-04-19,1778-08-01
+sol-vaillant-1755_vaillant,sol-vaillant-1755,Le Vaillant,france,Active,Auxiliary,1756-06-01,1783-07-01
+sol-sphinx-1755_sphinx,sol-sphinx-1755,Le Sphinx,france,Active,Scrapped,1756-02-01,1775-12-01
+sol-sphinx-1755_belliqueux,sol-sphinx-1755,Le Belliqueux,france,Active,Captured,1756-12-01,1758-10-31
+sol-sphinx-1755_celebre,sol-sphinx-1755,Le Celebre,france,Active,Sunk,1757-05-01,1758-07-01
+sol-sphinx-1755_belliqueux,sol-belliqueux-1758,HMS Belliqueux,britain,Active,Scrapped,1759-04-26,1772-09-16
+sol-eveille-1752_eveille,sol-eveille-1752,L'Eveille,france,Active,Scrapped,1753-06-01,1772-01-01
+sol-raisonnable-1756_raisonnable,sol-raisonnable-1756,Le Raisonnable,france,Active,Captured,1757-12-01,1758-04-29
+sol-raisonnable-1756_raisonnable,sol-raisonnable-1758,HMS Raisonnable,britain,Active,Sunk,1759-02-16,1762-01-08
+sol-brillant-1758_brillant,sol-brillant-1758,Le Brillant,france,Active,Scrapped,1758-11-01,1773-01-01
+sol-fantasque-1758_fantasque,sol-fantasque-1758,Le Fantasque,france,Active,Auxiliary,1759-05-01,1780-03-01
+sol-fantasque-1758_altier,sol-fantasque-1758,L'Altier,france,Active,Scrapped,1762-04-01,1772-01-01
+sol-solitaire-1758_solitaire,sol-solitaire-1758,Le Solitaire,france,Active,Scrapped,1759-04-01,1771-09-01
+sol-sainte-anne-1758_sainte-anne,sol-sainte-anne-1760,Sainte Anne,france,Active,Captured,1760-03-01,1761-06-05
+sol-sainte-anne-1758_notre-dame-de-rosaire,sol-sainte-anne-1760,Notre Dame de Rosaire,france,Active,Scrapped,1760-04-01,1804-01-01
+sol-sainte-anne-1758_vierge-de-sante,sol-sainte-anne-1760,Vierge de Sante,france,Active,Scrapped,1760-04-01,1770-01-01
+sol-sainte-anne-1758_saint-francois-de-paule,sol-sainte-anne-1760,Saint Francois de Paule,france,Active,Sold,1761-01-01,1772-01-01
+sol-sainte-anne-1758_sainte-anne,sol-saint-ann-1761,HMS Saint Ann,britain,Active,Sold,1762-02-01,1784-10-21
+sol-provence-1763_provence,sol-provence-1763,Le Provence,france,Active,Scrapped,1763-06-01,1786-01-01
+sol-union-1763_union,sol-union-1763,L'Union,france,Active,Auxiliary,1764-05-01,1778-01-01
+sol-vengeur-1765_vengeur,sol-vengeur-1765,Le Vengeur,france,Active,Sunk,1765-08-01,1785-03-01
+sol-artesien-1765_artesien,sol-artesien-1765,L'Artesien,france,Active,Auxiliary,1765-05-01,1786-01-01
+sol-artesien-1765_roland,sol-artesien-1765,Le Roland,france,Active,Sunk,1771-09-01,1779-02-01
+sol-artesien-1765_alexandre,sol-artesien-1765,L'Alexandre,france,Active,Sunk,1771-09-01,1779-02-01
+sol-artesien-1765_protee,sol-artesien-1765,Le Protee,france,Active,Captured,1773-02-01,1780-02-24
+sol-artesien-1765_eveille,sol-artesien-1765,L'Eveille,france,Active,Scrapped,1773-08-01,1786-01-01
+sol-artesien-1765_protee,sol-prothee-1780,HMS Prothee,britain,Active,Auxiliary,1780-02-24,1796-12-01
+sol-indien-1770_actionnaire,sol-indien-1770,L'Actionnaire,france,Active,Captured,1770-04-01,1782-04-01
+sol-indien-1770_indien,sol-indien-1770,L'Indien,france,Active,Sold,1770-04-01,1783-11-01
+sol-indien-1770_bars,sol-indien-1770,Mars,france,Active,Sunk,1770-04-01,1773-11-01
+sol-bordelais-1763_bordelais,sol-bordelais-1763,Le Bordelais,france,Active,Converted,1763-07-01,1779-06-01
+sol-bordelais-1763_ferme,sol-bordelais-1763,Le Ferme,france,Active,Sold,1763-12-01,1774-08-01
+sol-bordelais-1763_utile,sol-bordelais-1763,L'Utile,france,Active,Auxiliary,1764-12-01,1771-12-01
+sol-bordelais-1763_flamand,sol-bordelais-1763,Le Flamand,france,Active,Scrapped,1765-07-01,1786-01-01
+sol-bordelais-1763_bordelais,sol-artois-1780,L'Artois,france,Active,Captured,1780-05-01,1780-08-13
+sol-bordelais-1763_bordelais,sol-artois-1780-uk,HMS Artois,britain,Active,Sold,1781-03-21,1786-02-02
+sol-bordelais-1763_ferme,sol-mazhar-i-tevfik-1774,Mazhar-i Tevfik,turkey,Active,Scrapped,1774-08-01,1787-01-01
+sol-content-1717_content,sol-content-1717,Le Content,france,Active,Sold,1717-11-01,1747-05-01
+sol-jason-1724_jason,sol-jason-1724,Le Jason,france,Active,Sold,1724-11-01,1746-06-01
+sol-tigre-1724_tigre,sol-tigre-1724,Le Tigre,france,Active,Scrapped,1725-03-01,1754-01-01
+sol-brillant-1724_brillant,sol-brillant-1724,Le Brillant,france,Active,Scrapped,1725-03-01,1748-01-01
+sol-rubis-1728_rubis,sol-rubis-1728,Le Rubis,france,Active,Captured,1729-03-01,1747-05-03
+sol-rubis-1728_rubis,sol-rubis-1747,HMS Rubis,britain,Active,Auxiliary,1747-05-03,1748-01-01
+sol-heureux-1730_comte-de-morville,sol-heureux-1730,Heureux,france,Active,Scrapped,1731-01-01,1771-12-01
+sol-diamant-1733_diamant,sol-diamant-1733,Le Diamant,france,Active,Captured,1734-05-01,1747-05-03
+sol-diamant-1733_diamant,sol-isis-1747,HMS Isis,britain,Active,Sold,1747-10-16,1766-07-01
+sol-apollon-1740_apollon,sol-apollon-1740,L'Apollon,france,Active,Sunk,1741-01-01,1758-07-17
+sol-alcyon-1726_alcyon,sol-alcyon-1726,L'Alcyon,france,Active,Sunk,1727-04-01,1757-11-23
+sol-auguste-1741_auguste,sol-auguste-1741,L'Auguste,france,Active,Captured,1741-05-01,1746-02-09
+sol-auguste-1741_auguste,sol-portland-prize-1746,HMS Portland Prize,britain,Active,Sold,1746-04-10,1749-05-17
+sol-caribou-1744_caribou,sol-caribou-1744,Le Caribou,france,Active,Auxiliary,1744-07-01,1748-01-01
+sol-oriflamme-1744_oriflamme,sol-oriflamme-1744,L'Oriflamme,france,Active,Captured,1744-12-01,1761-04-01
+sol-arc-en-ciel-1745_arc-en-ciel,sol-arc-en-ciel-1745,L'Arc en Ciel,france,Active,Captured,1746-04-01,1756-07-12
+sol-arc-en-ciel-1745_arc-en-ciel,sol-arc-en-ciel-1756,HMS Arc-en-Ciel,britain,Active,Sold,1757-02-02,1759-09-06
+sol-fier-1745_fier,sol-fier-1745,Le Fier,france,Active,Auxiliary,1746-05-01,1780-01-01
+sol-amphion-1749_amphion,sol-amphion-1749,L'Amphion,france,Active,Scrapped,1750-01-01,1787-01-01
+sol-aigle-1750_aigle,sol-aigle-1750,L'Aigle,france,Active,Sunk,1751-04-01,1758-08-05
+sol-sagittaire-1761_sagittaire,sol-sagittaire-1761,Le Sagittaire,france,Active,Auxiliary,1762-03-01,1788-04-01
+sol-dauphin-1770_dauphin,sol-dauphin-1770,Le Dauphin,france,Active,Sold,1770-07-01,1771-09-01
+sol-hippopotame-1749_hippopotame,sol-hippopotame-1749,L'Hippopotame,france,Active,Auxiliary,1750-02-01,1779-08-01
+sf-argonaute-1722_argonaute,sf-argonaute-1722,L'Argonaute,france,Active,Auxiliary,1723-01-01,1746-04-01
+sf-argonaute-1722_parfaite,sf-argonaute-1722,La Parfaite,france,Active,Auxiliary,1723-06-01,1746-04-01
+sf-nereide-1724_nereide,sf-nereide-1724,La Nereide,france,Active,Scrapped,1724-11-01,1743-01-01
+sol-etoile-1745_etoile,sol-etoile-1745,L'Etoile,france,Active,Sunk,1745-08-01,1747-06-01
+sol-danube_romulus,sf-guerriere,La Guerriere,france,Active,Scrapped,1821-12-01,1840-11-29
+sol-danube_agamemnon,sf-guerriere,L'Amphitrite,france,Active,Auxiliary,1824-04-17,1836-01-01
+sol-danube_colosse,sf-guerriere,La Pallas,france,Active,Scrapped,1828-06-26,1840-09-25
+sol-danube_duc-de-berry,sf-guerriere,Le Minerve,france,Active,Scrapped,1836-10-16,1874-12-12
+sf-surveillante_surveillante,sf-surveillante,La Surveillante,france,Active,Scrapped,1825-09-01,1844-08-22
+sf-surveillante_melpomene,sf-surveillante,La Melpomene,france,Active,Auxiliary,1830-02-01,1845-03-20
+sf-surveillante_belle-gabrielle,sf-surveillante,La Belle-Gabrielle,france,Active,Auxiliary,1828-08-01,1844-01-01
+sf-surveillante_herminie,sf-surveillante,L'Herminie,france,Active,Sunk,1828-10-01,1838-12-03
+sf-surveillante_belle-poule,sf-surveillante,La Belle Poule,france,Active,Auxiliary,1834-06-01,1859-06-01
+sf-surveillante_semillante,sf-surveillante,La Semillante,france,Active,Sunk,1841-06-01,1855-02-16
+sf-surveillante_andromaque,sf-surveillante,L'Andromaque,france,Active,Auxiliary,1841-06-01,1859-01-01
+sf-surveillante_forte,sf-surveillante,Le Forte,france,Active,Scrapped,1852-06-01,1868-01-06
+sf-iphigenie_iphigenie,sf-iphigenie,L'Iphigenie,france,Active,Auxiliary,1827-09-01,1863-01-01
+sf-marie-therese_marie-therese,sf-marie-therese,Marie Therese,france,Active,Auxiliary,1823-07-01,1856-03-01
+sf-marie-therese_sirene,sf-marie-therese,Sirene,france,Active,Scrapped,1824-12-01,1861-07-01
+sf-jeanne-d-arc-1821_jeanne-d-arc,sf-jeanne-d-arc-1821,Le Jeanne d'Arc,france,Active,Scrapped,1821-01-01,1833-10-01
+sf-jeanne-d-arc-1821_amazone,sf-jeanne-d-arc-1821,L'Amazone,france,Active,Scrapped,1821-07-01,1841-03-01
+sf-pallas-1808_pallas,sf-pallas-1808,Le Pallas,france,Active,Scrapped,1808-06-01,1821-11-01
+sf-pallas-1808_elbe,sf-pallas-1808,L'Elbe,france,Active,Scrapped,1808-07-01,1824-11-01
+sf-pallas-1808_renommee,sf-pallas-1808,La Renommee,france,Active,Captured,1809-03-01,1811-05-20
+sf-pallas-1808_nymphe,sf-pallas-1808,La Nymphe,france,Active,Scrapped,1810-08-01,1832-09-01
+sf-pallas-1808_ariane,sf-pallas-1808,L'Ariane,france,Active,Sunk,1811-06-01,1812-05-22
+sf-pallas-1808_andromaque,sf-pallas-1808,L'Andromaque,france,Active,Sunk,1811-08-01,1812-05-22
+sf-pallas-1808_rubis,sf-pallas-1808,La Rubis,france,Active,Sunk,1812-08-01,1813-02-05
+sf-pallas-1808_fidele,sf-pallas-1808,La Fidele,france,Active,Captured,1809-08-01,1809-08-16
+sf-pallas-1808_elisa,sf-pallas-1808,L'Elisa,france,Active,Sunk,1809-11-01,1810-12-22
+sf-pallas-1808_gloire,sf-pallas-1808,La Gloire,france,Active,Scrapped,1812-02-01,1822-11-01
+sf-pallas-1808_cybele,sf-pallas-1808,La Cybele,france,Active,Converted,1816-02-01,1836-01-01
+sf-pallas-1808_clorinde,sf-pallas-1808,La Clorinde,france,Active,Captured,1809-03-01,1814-02-26
+sf-pallas-1808_meduse,sf-pallas-1808,La Meduse,france,Active,Sunk,1810-09-01,1816-07-02
+sf-pallas-1808_arethuse,sf-pallas-1808,L'Arethuse,france,Active,Converted,1812-07-01,1834-01-01
+sf-pallas-1808_sultane,sf-pallas-1808,La Sultane,france,Active,Captured,1813-09-01,1814-03-26
+sf-pallas-1808_etoile,sf-pallas-1808,L'Etoile,france,Active,Captured,1813-10-01,1814-03-27
+sf-pallas-1808_astree,sf-pallas-1808,L'Astree,france,Active,Scrapped,1821-10-01,1842-10-01
+sf-pallas-1808_armide,sf-pallas-1808,L'Armide,france,Active,Auxiliary,1823-03-01,1851-05-01
+sf-pallas-1808_corona,sf-pallas-1808,La Corona,france,Active,Captured,1808-12-01,1811-03-13
+sf-pallas-1808_favorita,sf-pallas-1808,Favorita,france,Active,Sunk,1809-06-01,1811-03-13
+sf-pallas-1808_amelie,sf-pallas-1808,L'Amelie,france,Active,Scrapped,1809-01-01,1842-08-01
+sf-pallas-1808_adrienne,sf-pallas-1808,L'Adrienne,france,Active,Auxiliary,1809-11-01,1840-01-01
+sf-pallas-1808_melpomene,sf-pallas-1808,La Melpomene,france,Active,Captured,1812-06-01,1815-04-30
+sf-pallas-1808_rancune,sf-pallas-1808,La Rancune,france,Active,Scrapped,1813-11-01,1825-01-01
+sf-pallas-1808_thetis,sf-pallas-1808,La Thetis,france,Active,Auxiliary,1822-03-01,1851-05-01
+sf-pallas-1808_pregel,sf-pallas-1808,La Pregel,france,Active,Scrapped,1812-02-01,1825-06-01
+sf-pallas-1808_illyrienne,sf-pallas-1808,L'Illyrienne,france,Active,Scrapped,1812-03-01,1840-12-01
+sf-pallas-1808_astree,sf-pallas-1808,L'Astree,france,Active,Captured,1809-07-01,1810-12-04
+sf-pallas-1808_iphigenie,sf-pallas-1808,L'Iphigenie,france,Active,Captured,1810-11-01,1814-01-20
+sf-pallas-1808_carolina,sf-pallas-1808,La Carolina,france,Active,Captured,1813-06-01,1815-06-01
+sf-pallas-1808_medee,sf-pallas-1808,La Medee,france,Active,Scrapped,1811-08-01,1849-02-01
+sf-pallas-1808_galatee,sf-pallas-1808,La Galatee,france,Active,Sunk,1812-09-01,1837-05-06
+sf-pallas-1808_dryade,sf-pallas-1808,La Dryade,france,Active,Sunk,1813-01-01,1833-06-23
+sf-pallas-1808_atalante,sf-pallas-1808,L'Atalante,france,Active,Scrapped,1812-12-01,1825-06-01
+sf-pallas-1808_duchesse-de-berry,sf-pallas-1808,La Duchesse de Berry,france,Active,Auxiliary,1817-03-01,1840-01-01
+sf-pallas-1808_terpsichore,sf-pallas-1808,La Terpsichore,france,Active,Captured,1812-05-01,1814-02-03
+sf-pallas-1808_erigone,sf-pallas-1808,L'Erigone,france,Active,Scrapped,1812-06-01,1824-11-01
+sf-pallas-1808_yssel,sf-pallas-1808,L'Yssel,france,Active,Captured,1812-02-01,1814-04-22
+sf-pallas-1808_meuse,sf-pallas-1808,La Meuse,france,Active,Captured,1812-06-01,1814-04-22
+sf-pallas-1808_trave,sf-pallas-1808,Trave,france,Active,Captured,1812-08-01,1813-10-23
+sf-pallas-1808_weser,sf-pallas-1808,La Weser,france,Active,Captured,1812-08-01,1813-10-21
+sf-pallas-1808_jahde,sf-pallas-1808,La Jahde,france,Active,Scrapped,1812-09-01,1821-01-01
+sf-pallas-1808_ems,sf-pallas-1808,L'Ems,france,Active,Sunk,1812-10-01,1822-05-16
+sf-pallas-1808_principessa-di-bologna,sf-pallas-1808,La Principessa di Bologna,france,Active,Captured,1811-12-01,1814-04-20
+sf-pallas-1808_piave,sf-pallas-1808,La Piave,france,Active,Captured,1813-07-01,1814-04-20
+sf-pallas-1808_ceres,sf-pallas-1808,La Ceres,france,Active,Captured,1813-01-01,1814-01-06
+sf-pallas-1808_constance,sf-pallas-1808,La Constance,france,Active,Scrapped,1819-01-01,1836-11-01
+sf-pallas-1808_renommee,sf-laurel-1809,HMS Java,britain,Active,Captured,1811-05-20,1812-12-29
+sf-pallas-1808_fidele,sf-laurel-1809,HMS Laurel,britain,Active,Sunk,1811-04-13,1812-01-31
+sf-pallas-1808_clorinde,sf-laurel-1809,HMS Aurora,britain,Active,Auxiliary,1821-06-01,1832-03-01
+sf-pallas-1808_sultane,sf-laurel-1809,HMS Sultane,britain,Active,Scrapped,1814-03-30,1819-08-03
+sf-pallas-1808_etoile,sf-laurel-1809,HMS Topaze,britain,Active,Scrapped,1818-04-01,1851-12-01
+sf-pallas-1808_melpomene,sf-laurel-1809,HMS Melpomene,britain,Active,Sold,1815-04-30,1821-06-07
+sf-pallas-1808_astree,sf-laurel-1809,HMS Pomone,britain,Active,Scrapped,1812-04-01,1816-06-01
+sf-pallas-1808_iphigenie,sf-laurel-1809,HMS Palma,britain,Active,Sold,1814-01-20,1817-09-10
+sf-pallas-1808_terpsichore,sf-laurel-1809,HMS Modeste,britain,Active,Scrapped,1814-02-03,1816-08-01
+sf-pallas-1808_yssel,sf-laurel-1809,HMS Ijssel,britain,Active,Scrapped,1814-04-22,1826-01-01
+sf-pallas-1808_trave,sf-laurel-1809,HMS Trave,britain,Active,Auxiliary,1813-10-23,1814-03-01
+sf-pallas-1808_weser,sf-laurel-1809,HMS Weser,britain,Active,Auxiliary,1813-10-21,1814-02-01
+sf-pallas-1808_ceres,sf-laurel-1809,HMS Seine,britain,Active,Scrapped,1814-01-06,1823-05-01
+sf-pallas-1808_meuse,sf-wilhelmina-1813,HNLMS Maas,netherlands,Active,Scrapped,1814-04-22,1816-01-01
+sf-pallas-1808_ambitieuse,sf-wilhelmina-1813,HNLMS Wilhelmina,netherlands,Active,Scrapped,1817-01-01,1821-01-01
+sf-pallas-1808_immortelle,sf-wilhelmina-1813,HNLMS Frederica Sophia Wilhelmina,netherlands,Active,Scrapped,1816-01-01,1820-01-01
+sf-pallas-1808_amstel,sf-wilhelmina-1813,HNLMS Amstel,netherlands,Active,Auxiliary,1815-01-01,1825-01-01
+sf-pallas-1808_vestale,sf-wilhelmina-1813,HNLMS Rhijn,netherlands,Active,Scrapped,1819-02-01,1852-01-01
+sf-pallas-1808_fidele,sf-wilhelmina-1813,HNLMS Schelde,netherlands,Active,Scrapped,1818-05-01,1842-01-01
+sf-pallas-1808_carolina,sf-amalia-1815,Amalia,naples,Active,Scrapped,1815-06-01,1865-01-01
+sf-pallas-1808_anfitrite,sf-anfitrite-1814,Anfitrite,austria,Active,Unknown,1815-12-01,1816-01-01
+sf-pallas-1808_ebe,sf-anfitrite-1814,Ebe,austria,Active,Unknown,1821-08-01,1822-01-01
+sf-pallas-1808_guerriera,sf-anfitrite-1814,Guerriera,austria,Active,Unknown,1830-01-01,1830-02-01
+sf-pallas-1808_moscava,sf-anfitrite-1814,Medea,austria,Active,Unknown,1828-01-01,1828-02-01
+sf-pallas-1808_venere,sf-anfitrite-1814,Venere,austria,Active,Scrapped,1832-11-01,1860-01-01
+sf-terpsichore-1828_terpsichore,sf-terpsichore-1828,La Terpsichore,france,Active,Scrapped,1829-01-01,1839-02-06
+sf-didon-1828_dryade,sf-didon-1828,La Dryade,france,Active,Scrapped,1828-10-01,1838-03-09
+sf-didon-1828_didon,sf-didon-1828,La Didon,france,Active,Scrapped,1828-08-01,1865-04-01
+sf-uranie-1828_uranie,sf-uranie-1828,L'Uranie,france,Active,Training,1833-01-01,1851-01-01
+sf-didon-1828_renommee,sf-renommee-1858,Renommee,france,Active,Auxiliary,1858-02-01,1869-01-01
+sf-didon-1828_semiramis,sf-semiramis-1861,Semiramis,france,Active,Scrapped,1862-06-01,1877-05-01
+sf-didon-1828_guerriere,sf-guerriere-1860,Guerriera,france,Active,Auxiliary,1860-09-01,1869-01-01
+sf-perseverante-1828_perseverante,sf-perseverante-1828,Perseverante,france,Active,Scrapped,1848-01-01,1867-03-28
+sf-vengeance-1850_vengeance,sf-vengeance-1850,Le Vengeance,france,Active,Auxiliary,1850-01-01,1863-01-01
+sf-vengeance-1850_victoire,sf-victoire-1863,La Victoire,france,Active,Scrapped,1863-12-01,1880-02-01
+lhp-jeanne-d-arc_jeanne-d-arc,lhp-jeanne-d-arc,Jeanne d'Arc,france,Active,Scrapped,1864-07-16,2010-09-01
+sf-resolue-1863_resolue,sf-resolue-1872,La Resolue,france,Active,Auxiliary,1872-10-02,1878-01-01
+sf-artemise-1829_circe,sf-circe-1862,La Circe,france,Active,Scrapped,1862-11-01,1872-07-01
+sf-artemise-1829_flore,sf-circe-1862,La Flore,france,Active,Training,1869-12-01,1876-06-01
+sf-magicienne-1859_magicienne,sf-magicienne-1862,La Magicienne,france,Active,Scrapped,1862-09-01,1886-04-01
+sf-magicienne-1859_themis,sf-magicienne-1862,La Themis,france,Active,Scrapped,1862-12-01,1882-11-01
+sf-surveillante_pallas,sf-pallas-1861,La Pallas,france,Active,Scrapped,1861-08-01,1883-10-01
+sf-astree-1858_astree,sf-astree-1860,L'Astree,france,Active,Scrapped,1860-12-01,1877-05-01
+sf-artemise-1829_hermione,sf-hermione-1860,La Hermione,france,Active,Auxiliary,1860-12-01,1868-01-01
+sf-artemise-1829_junon,sf-hermione-1860,La Junon,france,Active,Scrapped,1861-04-01,1872-03-01
+sf-amazone-1853_bellone,sf-bellone-1859,La Bellone,france,Active,Scrapped,1859-08-01,1877-02-01
+sf-impetueuse-1856_impetueuse,sf-impetueuse-1856,L'Impetueuse,france,Active,Scrapped,1856-12-01,1869-11-01
+sf-impetueuse-1856_souveraine,sf-impetueuse-1856,La Souveraine,france,Active,Auxiliary,1857-01-01,1871-06-01
+sf-imperatrice-eugenie-1856_imperatrice,sf-imperatrice-eugenie-1856,L'Imperatrice Eugenie,france,Active,Converted,1857-03-01,1872-01-01
+sf-imperatrice-eugenie-1856_foudre,sf-imperatrice-eugenie-1856,La Foudre,france,Active,Auxiliary,1857-05-01,1871-07-01
+sf-imperatrice-eugenie-1856_audacieuse,sf-imperatrice-eugenie-1856,L'Audacieuse,france,Active,Scrapped,1856-06-01,1870-04-01
+sf-imperatrice-eugenie-1856_ardente,sf-imperatrice-eugenie-1856,L'Ardente,france,Active,Scrapped,1858-06-01,1869-11-01
+sf-imperatrice-eugenie-1856_imperatrice,sf-imperatrice-eugenie-1872,L'Imperatrice Eugenie,france,Active,Scrapped,1872-06-01,1878-02-01
+sf-isly-1850_isly,sf-isly-1850,L'Isly,france,Active,Scrapped,1850-12-01,1872-07-01
+sf-pomone-1846_pomone,sf-pomone-1846,La Pomone,france,Active,Scrapped,1846-05-01,1862-11-01
+sf-mogador-1849_mogador,sf-mogador-1849,La Mogador,france,Active,Scrapped,1849-01-01,1878-04-01
+sf-sane-1849_sane,sf-sane-1849,La Sane,france,Active,Sunk,1849-02-01,1859-09-23
+sf-caffarelli-1848_platon,sf-caffarelli-1848,La Caffarelli,france,Active,Scrapped,1848-02-01,1867-03-01
+sf-vauban-1846_vauban,sf-vauban-1846,La Vauban,france,Active,Scrapped,1846-10-01,1865-06-01
+sf-descartes-1845_gomer,sf-descartes-1845,La Descartes,france,Active,Scrapped,1845-05-01,1867-07-01
+sf-infernal-1845_infernal,sf-infernal-1845,L'Infernal,france,Active,Auxiliary,1845-11-01,1855-06-01
+sf-darien-1843_darien,sf-darien-1843,La Darien,france,Active,Scrapped,1843-12-01,1869-07-01
+sf-darien-1843_ulloa,sf-darien-1843,L'Ulloa,france,Active,Scrapped,1843-07-01,1865-06-01
+sf-darien-1843_canada,sf-darien-1843,La Canada,france,Active,Scrapped,1843-07-01,1871-11-01
+sf-darien-1843_christophe-colomb,sf-darien-1843,La Christophe Colomb,france,Active,Scrapped,1843-04-01,1868-06-01
+sf-caraibe-1844_magellan,sf-caraibe-1844,La Magellan,france,Active,Scrapped,1846-03-01,1879-05-01
+sf-caraibe-1844_caraibe,sf-caraibe-1844,La Caraibe,france,Active,Sunk,1844-04-20,1847-01-11
+sf-caraibe-1844_cacique,sf-caraibe-1844,La Cacique,france,Active,Auxiliary,1844-10-01,1865-10-01
+sf-caraibe-1844_eldorado,sf-caraibe-1844,La Eldorado,france,Active,Scrapped,1844-01-01,1871-11-01
+sf-labrador-1843_groenland,sf-labrador-1843,La Groenland,france,Active,Sunk,1844-07-01,1844-08-26
+sf-labrador-1843_montezuma,sf-labrador-1843,La Montezuma,france,Active,Sunk,1844-07-01,1863-07-17
+sf-labrador-1843_panama,sf-labrador-1843,La Panama,france,Active,Scrapped,1844-11-01,1871-11-01
+sf-labrador-1843_albatros,sf-labrador-1843,L'Albatros,france,Active,Scrapped,1845-03-01,1879-05-01
+sf-labrador-1843_labrador,sf-labrador-1843,La Labrador,france,Active,Scrapped,1843-04-01,1871-11-01
+sf-labrador-1843_orenoque,sf-labrador-1843,L'Orenoque,france,Active,Scrapped,1843-09-01,1878-04-01
+sf-gomer-1842_gomer,sf-gomer-1842,La Gomer,france,Active,Scrapped,1842-04-01,1868-03-01
+sf-gomer-1842_asmodee,sf-gomer-1842,L'Asmodee,france,Active,Scrapped,1842-07-01,1865-12-01
+sf-algerie-1849_algerie,sf-algerie-1849,L'Algerie,france,Active,Scrapped,1849-03-01,1867-07-01
+sf-penelope-1841_penelope,sf-penelope-1841,La Penelope,france,Active,Auxiliary,1841-10-01,1861-06-01
+sf-penelope-1841_jeanne-d-arc,sf-penelope-1841,Jeanne d'Arc,france,Active,Scrapped,1851-05-01,1864-12-01
+sf-nemesis-1847_pandore,sf-nemesis-1847,La Pandore,france,Active,Converted,1847-07-01,1858-05-01
+sf-nemesis-1847_nemesis,sf-nemesis-1847,La Nemesis,france,Active,Auxiliary,1848-01-01,1864-01-01
+sf-nemesis-1847_pandore,sf-nemesis-1858,La Pandore,france,Active,Auxiliary,1859-05-01,1868-01-01
+sf-psyche-1845_psyche,sf-psyche-1845,La Psyche,france,Active,Auxiliary,1845-01-01,1863-06-01
+sf-psyche-1845_clorinde,sf-psyche-1845,La Clorinde,france,Active,Converted,1848-12-01,1856-05-01
+sf-psyche-1845_isis,sf-psyche-1845,L'Isis,france,Active,Auxiliary,1851-12-01,1873-01-01
+sf-psyche-1845_armorique,sf-armorique-1863,L'Armorique,france,Active,Scrapped,1863-04-01,1884-11-01
+sf-psyche-1845_clorinde,sf-clorinde-1857,La Clorinde,france,Active,Scrapped,1857-05-01,1888-01-01
+sf-poursuivante-1846_poursuivante,sf-poursuivante-1846,La Poursuivante,france,Active,Auxiliary,1846-03-01,1863-01-01
+sf-poursuivante-1846_zenobie,sf-poursuivante-1846,La Zenobie,france,Active,Converted,1848-08-01,1858-09-01
+sf-poursuivante-1846_sibylle,sf-poursuivante-1846,La Sibylle,france,Active,Auxiliary,1849-01-01,1860-01-01
+sf-poursuivante-1846_zenobie,sf-zenobie-1859,La Zenobie,france,Active,Scrapped,1859-09-01,1868-08-01
+sf-alceste-1840_reine-blanche,sf-alceste-1840,La Reine Blanche,france,Active,Scrapped,1840-09-01,1859-06-01
+sf-alceste-1840_alceste,sf-alceste-1840,L'Alceste,france,Active,Auxiliary,1849-01-01,1868-01-01
+sf-erigone-1837_erigone,sf-erigone-1837,L'Erigone,france,Active,Scrapped,1837-06-01,1864-12-01
+sf-erigone-1837_africaine,sf-erigone-1837,L'Africaine,france,Active,Scrapped,1840-11-01,1867-03-01
+sf-erigone-1837_charte,sf-erigone-1837,La Charte,france,Active,Auxiliary,1843-05-01,1873-01-01
+sf-erigone-1837_heliopolis,sf-erigone-1837,La Heliopolis,france,Active,Auxiliary,1849-07-01,1873-01-01
+sf-artemise-1829_artemise,sf-artemise-1829,L'Artemise,france,Active,Scrapped,1829-01-01,1840-10-01
+sf-artemise-1829_andromede,sf-artemise-1829,L'Andromede,france,Active,Scrapped,1836-10-01,1860-10-01
+sf-artemise-1829_nereide,sf-artemise-1829,La Nereide,france,Active,Auxiliary,1837-04-01,1863-12-01
+sf-artemise-1829_gloire,sf-artemise-1829,La Gloire,france,Active,Sunk,1838-04-01,1847-08-10
+sf-artemise-1829_cleopatre,sf-artemise-1829,La Cleopatre,france,Active,Scrapped,1838-06-01,1864-12-01
+sf-artemise-1829_danae,sf-artemise-1829,La Danae,france,Active,Converted,1838-08-01,1857-09-01
+sf-artemise-1829_virginie,sf-artemise-1829,La Virginie,france,Active,Auxiliary,1844-05-01,1872-05-01
+sf-artemise-1829_danae,sf-danae-1858,La Danae,france,Active,Auxiliary,1858-09-01,1868-01-01
+sf-vestale-1822_vestale,sf-vestale-1822,Vestale,france,Active,Scrapped,1823-09-01,1834-05-26
+sf-vestale-1822_venus,sf-vestale-1822,La Venus,france,Active,Scrapped,1824-05-01,1847-01-01
+sf-vestale-1822_atalante,sf-vestale-1822,L'Atalante,france,Active,Scrapped,1829-08-01,1850-12-28
+sf-clorinde-1821_clorinde,sf-clorinde-1821,La Clorinde,france,Active,Scrapped,1822-02-01,1833-10-26
+sf-vengeance-1794_vengeance,sf-vengeance-1794,La Vengeance,france,Active,Captured,1795-04-01,1800-08-25
+sf-vengeance-1794_resistance,sf-vengeance-1794,La Resistance,france,Active,Captured,1796-05-01,1797-03-09
+sf-vengeance-1794_vengeance,sf-fisgard-1797,HMS Vengeance,britain,Active,Scrapped,1800-08-25,1803-01-01
+sf-vengeance-1794_resistance,sf-fisgard-1797,HMS Fisgard,britain,Active,Scrapped,1797-03-09,1814-08-01
+sf-forte-1794_forte,sf-forte-1794,La Forte,france,Active,Captured,1795-11-01,1799-02-28
+sf-forte-1794_egyptienne,sf-forte-1794,L'Egyptienne,france,Active,Captured,1799-11-01,1801-09-02
+sf-forte-1794_egyptienne,sf-forte-1799,HMS Egyptienne,britain,Active,Scrapped,1802-12-01,1817-04-30
+sf-romaine-1794_romaine,sf-romaine-1794,La Romaine,france,Active,Auxiliary,1794-12-01,1805-01-01
+sf-romaine-1794_immortalite,sf-romaine-1794,L'Immortalite,france,Active,Captured,1795-02-01,1798-10-20
+sf-romaine-1794_impatiente,sf-romaine-1794,L'Impatiente,france,Active,Sunk,1795-05-01,1796-12-29
+sf-romaine-1794_incorruptible,sf-romaine-1794,L'Incorruptible,france,Active,Scrapped,1795-12-01,1815-01-01
+sf-romaine-1794_revanche,sf-romaine-1794,La Revanche,france,Active,Scrapped,1795-09-01,1818-01-01
+sf-romaine-1794_libre,sf-romaine-1794,La Libre,france,Active,Captured,1798-01-01,1805-12-24
+sf-romaine-1794_comete,sf-romaine-1794,La Comete,france,Active,Sunk,1798-01-01,1808-01-01
+sf-romaine-1794_desiree,sf-romaine-1794,La Desiree,france,Active,Captured,1798-12-01,1800-07-08
+sf-romaine-1794_poursuivante,sf-romaine-1794,La Poursuivante,france,Active,Sunk,1798-04-01,1805-01-01
+sf-romaine-1794_immortalite,sf-immortalite-1798,HMS Immortalite,britain,Active,Scrapped,1800-04-01,1806-07-01
+sf-romaine-1794_desiree,sf-immortalite-1798,HMS Desiree,britain,Active,Auxiliary,1800-11-01,1823-12-01
+sf-hortense-1803_hortense,sf-hortense-1803,Hortense,france,Active,Scrapped,1804-01-01,1840-11-25
+sf-hortense-1803_republique-italienne,sf-hortense-1803,Hermione,france,Active,Sunk,1805-03-01,1808-08-18
+sf-hortense-1803_promone,sf-hortense-1803,Promone,france,Active,Captured,1805-05-01,1811-11-29
+sf-hortense-1803_departement-de-la-manche,sf-hortense-1803,Manche,france,Active,Captured,1806-09-01,1810-12-04
+sf-hortense-1803_caroline,sf-hortense-1803,Caroline,france,Active,Captured,1806-12-01,1809-09-21
+sf-hortense-1803_pauline,sf-hortense-1803,Pauline,france,Active,Scrapped,1807-07-01,1841-12-11
+sf-hortense-1803_caroline,sf-bourbonnaise-1809,HMS Bourbonnaise,britain,Active,Scrapped,1809-10-01,1817-01-01
+sf-milanaise-1805_milanaise,sf-milanaise-1805,Le Milanaise,france,Active,Scrapped,1806-03-01,1837-01-01
+sf-milanaise-1805_vistule,sf-milanaise-1805,Le Vistule,france,Active,Scrapped,1812-02-01,1873-01-01
+sf-milanaise-1805_perle,sf-milanaise-1805,Le Perle,france,Active,Scrapped,1813-11-01,1823-08-01
+sf-milanaise-1805_oder,sf-milanaise-1805,L'Oder,france,Active,Scrapped,1814-08-01,1831-01-01
+sf-ville-de-milan-1803_hermione,sf-ville-de-milan-1803,Ville de Milan,france,Active,Captured,1804-02-01,1805-02-23
+sf-ville-de-milan-1803_hermione,sf-milan-1805,HMS Milan,britain,Active,Scrapped,1806-04-04,1815-12-01
+sf-consolante-1800_consolante,sf-consolante-1800,Consolante,france,Active,Sunk,1800-09-01,1803-02-01
+sf-consolante-1800_atalante,sf-consolante-1800,L'Atalante,france,Active,Sunk,1802-07-01,1806-01-10
+sf-consolante-1800_piemontaise,sf-consolante-1800,Piemontaise,france,Active,Captured,1805-04-01,1808-03-08
+sf-consolante-1800_italienne,sf-consolante-1800,L'Italienne,france,Active,Sold,1806-12-01,1816-01-01
+sf-consolante-1800_danae,sf-consolante-1800,Danae,france,Active,Sunk,1808-02-01,1812-09-01
+sf-consolante-1800_bellone,sf-consolante-1800,La Bellone,france,Active,Captured,1808-07-01,1810-12-06
+sf-consolante-1800_nereide,sf-consolante-1800,La Nereide,france,Active,Captured,1809-05-01,1811-05-26
+sf-consolante-1800_illyrienne,sf-consolante-1800,L'Illyrienne,france,Active,Auxiliary,1812-03-01,1841-08-01
+sf-consolante-1800_galatee,sf-consolante-1800,La Galatee,france,Active,Sunk,1812-09-01,1837-05-01
+sf-consolante-1800_piemontaise,sf-piedmontaise-1808,HMS Piemontaise,britain,Active,Scrapped,1809-01-01,1813-01-01
+sf-consolante-1800_bellone,sf-piedmontaise-1808,HMS Junon,britain,Active,Scrapped,1810-12-06,1817-02-01
+sf-consolante-1800_nereide,sf-piedmontaise-1808,HMS Madagascar,britain,Active,Scrapped,1811-05-26,1819-05-01
+sf-gloire-1803_gloire,sf-gloire-1803,La Gloire,france,Active,Captured,1803-10-01,1806-09-25
+sf-gloire-1803_president,sf-gloire-1803,Le President,france,Active,Captured,1804-08-01,1806-09-27
+sf-gloire-1803_topaze,sf-gloire-1803,La Topaze,france,Active,Captured,1805-04-01,1809-01-22
+sf-gloire-1803_venus,sf-gloire-1803,La Venus,france,Active,Captured,1806-06-01,1810-09-18
+sf-gloire-1803_calypso,sf-gloire-1803,La Calypso,france,Active,Sold,1807-03-01,1814-01-01
+sf-gloire-1803_amazone,sf-gloire-1803,L'Amazone,france,Active,Sunk,1807-07-01,1811-03-25
+sf-gloire-1803_gloire,sf-gloire-1806,HMS Gloire,britain,Active,Scrapped,1808-06-01,1812-09-01
+sf-gloire-1803_president,sf-gloire-1806,HMS President,britain,Active,Scrapped,1806-09-27,1815-12-01
+sf-gloire-1803_topaze,sf-gloire-1806,HMS Jewel,britain,Active,Scrapped,1809-01-22,1816-02-01
+sf-gloire-1803_venus,sf-gloire-1806,HMS Nereide,britain,Active,Scrapped,1810-10-01,1816-05-01
+sf-uranie-1800_uranie,sf-uranie-1800,L'Uranie,france,Active,Sunk,1801-06-01,1814-02-03
+sf-uranie-1800_clorinde,sf-uranie-1800,La Clorinde,france,Active,Captured,1801-06-01,1803-11-30
+sf-uranie-1800_clorinde,sf-clorinde-1803,La Clorinde,france,Active,Sold,1804-05-01,1817-03-06
+sf-guerriere-1799_guerriere,sf-guerriere-1799,La Guerriera,france,Active,Captured,1800-05-01,1806-07-19
+sf-guerriere-1799_guerriere,sf-guerriere-1806,HMS Guerriera,britain,Active,Captured,1808-01-02,1812-08-19
+sf-pallas-1799_pallas,sf-pallas-1799,La Pallas,france,Active,Captured,1799-06-01,1800-02-06
+sf-pallas-1799_pallas,sf-aeolus-1800,HMS Aeolus,britain,Active,Scrapped,1800-09-01,1819-07-22
+sf-creole-1797_creole,sf-creole-1797,La Creole,france,Active,Captured,1799-01-01,1803-06-30
+sf-carrere-1789_carrere,sf-carrere-1797,La Carrere,france,Active,Captured,1797-11-01,1801-08-03
+sf-carrere-1789_muiron,sf-carrere-1789,La Muiron,france,Active,Auxiliary,1797-11-02,1807-06-01
+sf-carrere-1789_carrere,sf-carrere-1801,HMS Carrere,britain,Active,Sold,1801-08-03,1814-09-01
+sf-armide-1804_armide,sf-armide-1804,L'Armide,france,Active,Captured,1804-08-01,1806-09-25
+sf-armide-1804_minerve,sf-armide-1804,La Minerve,france,Active,Captured,1805-11-01,1806-09-25
+sf-armide-1804_flore,sf-armide-1804,La Flore,france,Active,Sunk,1807-03-01,1811-11-01
+sf-armide-1804_amphitrite,sf-armide-1804,L'Amphitrite,france,Active,Sunk,1808-07-01,1809-02-03
+sf-armide-1804_niemen,sf-armide-1804,Niemen,france,Active,Captured,1809-01-01,1809-04-05
+sf-armide-1804_saale,sf-armide-1804,Le Saale,france,Active,Scrapped,1811-11-01,1821-06-01
+sf-armide-1804_alcmene,sf-armide-1804,L'Alcmene,france,Active,Captured,1812-03-01,1814-01-16
+sf-armide-1804_circe,sf-armide-1804,La Circe,france,Active,Scrapped,1812-03-01,1833-01-01
+sf-armide-1804_antigone,sf-armide-1804,L'Antigone,france,Active,Auxiliary,1816-05-01,1829-01-01
+sf-armide-1804_cleopatre,sf-armide-1804,La Cleopatre,france,Active,Scrapped,1817-06-01,1824-01-01
+sf-armide-1804_magicienne,sf-armide-1804,Le Magicienne,france,Active,Sunk,1823-05-01,1840-11-01
+sf-armide-1804_armide,sf-armide-1806,HMS Armide,britain,Active,Scrapped,1809-10-01,1815-11-01
+sf-armide-1804_minerve,sf-armide-1806,HMS Alceste,britain,Active,Auxiliary,1807-08-01,1814-01-01
+sf-armide-1804_niemen,sf-armide-1806,HMS Niemen,britain,Active,Scrapped,1809-11-01,1815-09-01
+sf-armide-1804_alcmene,sf-armide-1806,HMS Immortalite,britain,Active,Scrapped,1814-11-08,1822-03-01
+sf-diane-1796_diane,sf-diane-1796,La Diane,france,Active,Captured,1796-03-01,1800-08-25
+sf-diane-1796_diane,sf-niobe-1800,HMS Niobe,britain,Active,Auxiliary,1803-09-30,1814-10-01
+sf-preneuse-1794_preneuse,sf-preneuse-1794,La Preneuse,france,Active,Sunk,1795-07-01,1799-12-11
+sf-preneuse-1794_africaine,sf-preneuse-1794,L'Africaine,france,Active,Captured,1798-05-01,1801-02-19
+sf-preneuse-1794_africaine,sf-africaine-1801,HMS Africaine,britain,Active,Scrapped,1803-02-01,1816-09-01
+sf-virginie-1794_virginie,sf-virginie-1794,Virginie,france,Active,Captured,1794-12-01,1796-04-22
+sf-virginie-1794_courageuse,sf-virginie-1794,Justice,france,Active,Captured,1794-12-01,1801-09-27
+sf-virginie-1794_harmonie,sf-virginie-1794,Harmonie,france,Active,Sunk,1796-05-01,1797-04-16
+sf-virginie-1794_volontaire,sf-virginie-1794,La Volontaire,france,Active,Captured,1796-08-01,1808-03-04
+sf-virginie-1794_cornelie,sf-virginie-1794,La Cornelie,france,Active,Captured,1798-04-01,1808-06-14
+sf-virginie-1794_didon,sf-virginie-1794,Didon,france,Active,Captured,1800-09-01,1805-08-10
+sf-virginie-1794_atalante,sf-virginie-1794,L'Atalante,france,Active,Sunk,1802-07-01,1805-11-03
+sf-virginie-1794_rhin,sf-virginie-1794,Le Rhin,france,Active,Captured,1802-10-01,1806-07-27
+sf-virginie-1794_belle-poule,sf-virginie-1794,La Belle Poule,france,Active,Captured,1802-09-01,1806-03-13
+sf-virginie-1794_surveillante,sf-virginie-1794,La Surveillante,france,Active,Captured,1802-12-01,1803-11-30
+sf-virginie-1794_virginie,sf-virginie-1796,HMS Virginie,britain,Active,Scrapped,1796-08-01,1827-07-11
+sf-virginie-1794_volontaire,sf-virginie-1796,HMS Volontaire,britain,Active,Scrapped,1807-11-18,1816-02-01
+sf-virginie-1794_didon,sf-virginie-1796,HMS Didon,britain,Active,Scrapped,1805-08-10,1811-08-01
+sf-virginie-1794_rhin,sf-virginie-1796,HMS Rhin,britain,Active,Auxiliary,1806-07-27,1838-05-01
+sf-virginie-1794_belle-poule,sf-virginie-1796,HMS Belle Poule,britain,Active,Scrapped,1808-05-16,1818-06-11
+sf-virginie-1794_surveillante,sf-virginie-1796,HMS Surveillante,britain,Active,Scrapped,1803-11-30,1814-08-01
+sf-virginie-1794_courageuse,sf-iskenderiye-1801,Iskenderiye,turkey,Active,Sunk,1801-12-01,1823-06-01
+sf-virginie-1794_cornelie,sf-cornelia-1808,Cornelia,spain,Active,Scrapped,1808-06-14,1815-10-21
+gb-hannah_hannah,gb-hannah,USS Hannah,usa,Active,Sold,1775-09-02,1775-10-10
+sf-montagne-1794_montagne,sf-montagne-1794,Montagne,france,Active,Sunk,1794-07-15,1794-08-22
+sf-seine-1793_seine,sf-seine-1793,La Seine,france,Active,Captured,1794-03-01,1798-06-30
+sf-seine-1793_revolutionnaire,sf-seine-1793,La Revolutionnaire,france,Active,Captured,1794-07-01,1794-10-21
+sf-seine-1793_spartiate,sf-seine-1793,La Spartiate,france,Active,Sunk,1794-12-01,1804-11-01
+sf-seine-1793_indienne,sf-seine-1793,L'Indienne,france,Active,Sunk,1797-10-01,1809-04-01
+sf-seine-1793_furieuse,sf-seine-1793,La Furieuse,france,Active,Captured,1798-05-01,1809-07-06
+sf-seine-1793_seine,sf-revolutionaire-1794,La Seine,france,Active,Sunk,1798-12-03,1803-07-22
+sf-seine-1793_revolutionnaire,sf-revolutionaire-1794,La Revolutionnaire,france,Active,Scrapped,1795-05-07,1822-10-04
+sf-seine-1793_furieuse,sf-revolutionaire-1794,La Furieuse,france,Active,Scrapped,1809-12-01,1816-10-01
+sf-valeureuse-1798_valeureuse,sf-valeureuse-1798,La Valeureuse,france,Active,Scrapped,1800-03-01,1806-09-01
+sf-valeureuse-1798_infatigable,sf-valeureuse-1798,L'Infatigable,france,Active,Captured,1800-03-01,1806-09-24
+sf-valeureuse-1798_infatigable,sf-immortalite-1806,HMS Immortalite,britain,Active,Scrapped,1806-10-02,1811-01-01
+sf-loire-1796_loire,sf-loire-1796,La Loire,france,Active,Captured,1797-12-01,1798-10-18
+sf-loire-1796_loire,sf-loire-1798,HMS Loire,britain,Active,Scrapped,1799-06-01,1818-04-01
+sf-vertu-1794_vertu,sf-vertu-1794,La Vertu,france,Active,Captured,1795-08-01,1803-11-30
+sf-vertu-1794_vertu,sf-virtu-1803,HMS Virtu,britain,Active,Scrapped,1803-11-30,1810-12-01
+sf-arethuse-1791_arethuse,sf-arethuse-1791,L'Arethuse,france,Active,Captured,1791-07-01,1793-08-29
+sf-arethuse-1791_arethuse,sf-arethuse-1793,HMS Arethuse,britain,Active,Sunk,1795-01-06,1796-08-31
+sf-uranie-1788_uranie,sf-uranie-1788,L'Uranie,france,Active,Captured,1791-05-01,1797-01-05
+sf-uranie-1788_uranie,sf-tartu-1797,HMS Tartu,britain,Active,Scrapped,1799-04-01,1807-10-01
+sf-pomone-1785_pomone,sf-pomone-1785,La Pomone,france,Active,Captured,1787-05-01,1794-04-23
+sf-pomone-1785_pomone,sf-pomone-1794,HMS Pomone,britain,Active,Scrapped,1794-09-24,1802-12-01
+sf-minerve-1782_minerve,sf-minerve-1782,La Minerve,france,Active,Captured,1782-10-01,1794-02-19
+sf-minerve-1782_junon,sf-minerve-1782,La Junon,france,Active,Captured,1783-02-01,1799-06-19
+sf-minerve-1782_imperieuse,sf-minerve-1782,L'Imperieuse,france,Active,Captured,1787-10-01,1793-10-11
+sf-melpomene-1789_melpomene,sf-melpomene-1789,Le Melpomene,france,Active,Captured,1792-04-01,1794-08-10
+sf-melpomene-1789_perle,sf-melpomene-1789,La Perle,france,Active,Captured,1792-09-01,1793-08-29
+sf-minerve-1794_minerve,sf-minerve-1794,La Minerve,france,Active,Captured,1794-10-01,1795-08-01
+sf-minerve-1794_minerve,sf-minerve-1794,La Minerve,france,Active,Sold,1803-07-03,1809-06-01
+sf-minerve-1782_minerve,sf-imperieuse-1793,HMS San Fiorenzo,britain,Active,Auxiliary,1795-08-14,1810-05-01
+sf-minerve-1782_junon,sf-imperieuse-1793,HMS Princess Charlotte,britain,Active,Scrapped,1801-07-01,1828-06-14
+sf-minerve-1782_imperieuse,sf-imperieuse-1793,HMS Imperieuse,britain,Active,Auxiliary,1795-10-01,1836-09-01
+sf-melpomene-1789_melpomene,sf-perle-1793,HMS Melpomene,britain,Active,Auxiliary,1795-06-01,1810-05-01
+sf-melpomene-1789_perle,sf-perle-1793,HMS Amethyst,britain,Active,Sunk,1795-09-09,1795-12-29
+sf-minerve-1794_minerve,sf-minerve-1795,HMS Minerve,britain,Active,Captured,1795-08-01,1803-07-03
+sf-minerve-1794_minerve,sf-minerve-1795,HMS Confiance,britain,Active,Scrapped,1810-02-03,1814-01-01
+sf-danae-1782_danae,sf-danae-1782,Danae,france,Active,Scrapped,1782-10-01,1796-01-01
+sf-danae-1782_meduse,sf-danae-1782,Meduse,france,Active,Sunk,1783-05-01,1797-01-01
+sf-danae-1782_didon,sf-danae-1782,Didon,france,Active,Sunk,1786-01-01,1792-01-01
+sf-hebe-1782_hebe,sf-hebe-1782,L'Hebe,france,Active,Captured,1782-08-01,1782-09-04
+sf-hebe-1782_venus,sf-hebe-1782,Le Venus,france,Active,Sunk,1782-10-01,1788-12-31
+sf-hebe-1782_dryade,sf-hebe-1782,La Dryade,france,Active,Scrapped,1783-04-01,1801-11-01
+sf-hebe-1782_propserine,sf-hebe-1782,La Propserine,france,Active,Captured,1785-08-01,1796-06-13
+sf-hebe-1782_sibylle,sf-hebe-1782,La Sibylle,france,Active,Captured,1792-05-01,1794-06-17
+sf-hebe-1782_carmagnole,sf-hebe-1782,Le Carmagnole,france,Active,Sunk,1793-07-01,1800-11-09
+sf-hebe-1782_hebe,sf-hebe-1783,HMS Hebe,britain,Active,Scrapped,1783-11-11,1811-06-01
+sf-hebe-1782_propserine,sf-hebe-1783,HMS Amelia,britain,Active,Scrapped,1797-08-01,1816-12-01
+sf-hebe-1782_sibylle,sf-hebe-1783,HMS Sibylle,britain,Active,Auxiliary,1795-04-17,1830-01-01
+sf-nymphe-1777_nymphe,sf-nymphe-1777,La Nymphe,france,Active,Captured,1777-11-01,1780-08-10
+sf-nymphe-1777_andromaque,sf-nymphe-1777,L'Andromaque,france,Active,Sunk,1778-04-01,1796-08-23
+sf-nymphe-1777_astree,sf-nymphe-1777,L'Astree,france,Active,Sunk,1780-07-01,1795-05-01
+sf-nymphe-1777_nymphe,sf-nymphe-1780,HMS Nymphe,britain,Active,Sunk,1781-03-27,1810-12-18
+sf-nymphe-1782_nymphe,sf-nymphe-1782,La Nymphe,france,Active,Sunk,1782-08-01,1793-12-01
+sf-nymphe-1782_thetis,sf-nymphe-1782,La Thetis,france,Active,Captured,1788-10-01,1808-11-10
+sf-nymphe-1782_cybele,sf-nymphe-1782,La Cybele,france,Active,Sunk,1790-05-01,1809-02-27
+sf-nymphe-1782_concorde,sf-nymphe-1782,La Concorde,france,Active,Captured,1793-02-01,1800-08-04
+sf-nymphe-1782_thetis,sf-brune-1808,HMS Brune,britain,Active,Auxiliary,1808-11-10,1810-05-01
+sf-aigle-1782_aigle,sf-aigle-1782,L'Aigle,france,Active,Captured,1782-04-01,1782-09-14
+sf-aigle-1782_aigle,sf-aigle-1783,HMS Aigle,britain,Active,Sunk,1782-12-01,1798-07-18
+sf-pallas-1777_pallas,sf-pallas-1777,La Pallas,france,Active,Captured,1777-09-01,1778-06-18
+sf-pallas-1777_pallas,sf-convert-1778,HMS Convert,britain,Active,Scrapped,1779-02-07,1782-11-28
+sf-alcmene-1774_alcmene,sf-alcmene-1774,L'Alcmene,france,Active,Captured,1776-09-01,1779-10-21
+sf-alcmene-1774_aimable,sf-alcmene-1774,L'Aimable,france,Active,Captured,1776-11-01,1782-04-19
+sf-alcmene-1774_alcmene,sf-alcmene-1782,HMS Alcmene,britain,Active,Scrapped,1780-01-01,1784-08-17
+sf-alcmene-1774_aimable,sf-alcmene-1782,HMS Aimable,britain,Active,Scrapped,1782-07-20,1814-05-01
+sow-rohan-soubise-1780_rohan-soubise,sow-rohan-soubise-1780,Le Rohan Soubise,france,Active,Captured,1780-04-01,1781-04-25
+sow-rohan-soubise-1780_robecq,sow-rohan-soubise-1780,Le Robecq,france,Active,Captured,1780-04-01,1782-06-30
+sow-rohan-soubise-1780_robecq,sow-robecque-1782,HMS Robecque,britain,Active,Sold,1782-06-30,1783-06-05
+sf-sibylle-1777_sibylle,sf-sibylle-1777,La Sibylle,france,Active,Captured,1777-12-01,1783-01-22
+sf-sibylle-1777_diane,sf-sibylle-1777,La Diane,france,Active,Sunk,1779-04-01,1780-03-31
+sf-sibylle-1777_nereide,sf-sibylle-1777,La Nereide,france,Active,Captured,1779-08-01,1797-12-22
+sf-sibylle-1777_nereide,sf-sibylle-1777,La Nereide,france,Active,Captured,1810-06-28,1810-12-06
+sf-sibylle-1777_fine,sf-sibylle-1777,La Fine,france,Active,Sunk,1779-10-01,1793-11-01
+sf-sibylle-1777_emeraude,sf-sibylle-1777,L'Emeraude,france,Active,Scrapped,1779-12-01,1797-01-01
+sf-sibylle-1777_sibylle,sf-sibylle-1783,La Sibylle,britain,Reserve,Scrapped,1783-01-22,1784-01-01
+sf-sibylle-1777_nereide,sf-sibylle-1783,HMS Nereide,britain,Active,Captured,1799-06-01,1810-06-28
+sf-sibylle-1777_nereide,sf-sibylle-1783,HMS Nereide,britain,Reserve,Scrapped,1810-12-06,1816-03-01
+sf-charmante-1777_charmante,sf-charmante-1777,La Charmante,france,Active,Sunk,1778-01-01,1780-03-24
+sf-charmante-1777_junon,sf-charmante-1777,La Junon,france,Active,Sunk,1778-05-01,1780-10-11
+sf-charmante-1777_gracieuse,sf-charmante-1777,La Gracieuse,france,Active,Captured,1787-10-01,1796-04-12
+sf-charmante-1777_inconstante,sf-charmante-1777,L'Inconstante,france,Active,Captured,1791-02-01,1793-10-29
+sf-charmante-1777_helena,sf-charmante-1777,L'Helene,france,Active,Captured,1791-10-01,1793-05-01
+sf-charmante-1777_gracieuse,sf-convert-1793,HMS Unite,britain,Active,Scrapped,1796-04-12,1802-01-01
+sf-charmante-1777_inconstante,sf-convert-1793,HMS Convert,britain,Active,Sunk,1793-12-01,1794-03-08
+sf-charmante-1777_helena,sf-sirena-1793,Sirena,spain,Active,Scrapped,1793-05-01,1807-01-01
+sf-concorde-1777_concorde,sf-concorde-1777,La Concorde,france,Active,Captured,1778-01-01,1783-02-15
+sf-concorde-1777_courageuse,sf-concorde-1777,La Courageuse,france,Active,Captured,1778-06-01,1799-06-19
+sf-concorde-1777_hermione,sf-concorde-1777,L'Hermione,france,Active,Sunk,1779-06-01,1793-09-01
+sf-concorde-1777_concorde,sf-concorde-1783,HMS Concorde,britain,Reserve,Fitting,1783-02-15,1790-11-01
+sf-concorde-1777_concorde,sf-concorde-1783,HMS Concorde,britain,Fitting,Scrapped,1790-11-01,1793-05-01
+sf-concorde-1777_concorde,sf-concorde-1783,HMS Concorde,britain,Active,Scrapped,1793-05-01,1811-01-21
+sf-iphigenie-1777_iphigenie,sf-iphigenie-1777,L'Iphigenie,france,Active,Captured,1778-03-01,1795-02-01
+sf-iphigenie-1777_prudente,sf-iphigenie-1777,La Prudente,france,Active,Captured,1778-07-01,1779-06-02
+sf-iphigenie-1777_rosulue,sf-iphigenie-1777,La Resolue,france,Active,Captured,1778-07-01,1798-10-13
+sf-iphigenie-1777_surveillante,sf-iphigenie-1777,La Surveillante,france,Active,Sunk,1778-05-01,1797-01-01
+sf-iphigenie-1777_amazone,sf-iphigenie-1777,L'Amazone,france,Active,Sunk,1778-07-01,1797-01-01
+sf-iphigenie-1777_gentille,sf-iphigenie-1777,La Gentille,france,Active,Captured,1778-10-01,1795-04-11
+sf-iphigenie-1777_gloire,sf-iphigenie-1777,La Gloire,france,Active,Captured,1778-10-01,1795-04-10
+sf-iphigenie-1777_bellone,sf-iphigenie-1777,La Bellone,france,Active,Captured,1779-02-01,1798-10-12
+sf-iphigenie-1777_medee,sf-iphigenie-1777,La Medee,france,Active,Captured,1779-02-01,1800-08-05
+sf-iphigenie-1777_iphigenie,sf-ifigenia-1795,Ifigenia,spain,Active,Sunk,1795-02-01,1818-01-01
+sf-iphigenie-1777_prudente,sf-prudente-1779,HMS Prudente,britain,Active,Auxiliary,1780-01-01,1796-04-01
+sf-iphigenie-1777_gloire,sf-prudente-1779,HMS Gloire,britain,Reserve,Scrapped,1795-04-10,1802-03-24
+sf-iphigenie-1777_amazone,sf-prudente-1779,L'Amazone,britain,Active,Captured,1782-07-29,1782-07-30
+sf-magicienne-1778_magicienne,sf-magicienne-1778,La Magicienne,france,Active,Captured,1778-10-01,1781-09-02
+sf-magicienne-1778_precieuse,sf-magicienne-1778,La Precieuse,france,Active,Scrapped,1778-11-01,1814-10-01
+sf-magicienne-1778_serieuse,sf-magicienne-1778,La Serieuse,france,Active,Sunk,1779-10-01,1798-08-01
+sf-magicienne-1778_lutine,sf-magicienne-1778,La Lutine,france,Active,Captured,1779-11-01,1793-08-29
+sf-magicienne-1778_vestale,sf-magicienne-1778,La Vestale,france,Active,Captured,1781-02-01,1799-08-20
+sf-magicienne-1778_alceste,sf-magicienne-1778,L'Alceste,france,Active,Captured,1781-02-01,1793-08-29
+sf-magicienne-1778_alceste,sf-magicienne-1778,L'Alceste,france,Active,Captured,1794-06-08,1799-06-18
+sf-magicienne-1778_iris,sf-magicienne-1778,L'Iris,france,Active,Sunk,1782-02-01,1793-12-01
+sf-magicienne-1778_reunion,sf-magicienne-1778,Reunion,france,Active,Captured,1786-06-01,1793-10-20
+sf-magicienne-1778_modeste,sf-magicienne-1778,La Modeste,france,Active,Captured,1787-01-01,1793-10-17
+sf-magicienne-1778_sensible,sf-magicienne-1778,La Sensible,france,Active,Captured,1787-12-01,1798-05-27
+sf-magicienne-1778_topaze,sf-magicienne-1778,Topaze,france,Active,Captured,1791-02-01,1793-08-29
+sf-magicienne-1778_artemise,sf-magicienne-1778,L'Artemise,france,Active,Sunk,1794-11-01,1798-08-01
+sf-magicienne-1778_magicienne,sf-magicienne-1781,HMS Magicienne,britain,Active,Sunk,1781-09-22,1810-08-27
+sf-magicienne-1778_lutine,sf-magicienne-1781,HMS Lutine,britain,Active,Sunk,1793-11-08,1799-10-09
+sf-magicienne-1778_alceste,sf-magicienne-1781,HMS Alceste,britain,Active,Converted,1799-06-18,1801-07-27
+sf-magicienne-1778_reunion,sf-magicienne-1781,HMS Reunion,britain,Active,Sunk,1794-03-17,1796-12-07
+sf-magicienne-1778_modeste,sf-magicienne-1781,HMS Modeste,britain,Active,Scrapped,1806-11-01,1814-06-01
+sf-magicienne-1778_sensible,sf-magicienne-1781,HMS Sensible,britain,Active,Sunk,1799-08-01,1802-03-02
+sf-magicienne-1778_topaze,sf-magicienne-1781,HMS Topaze,britain,Active,Scrapped,1795-11-17,1814-09-01
+sf-magicienne-1778_alceste,sf-alceste-1793,Alceste,sardinia,Active,Captured,1793-08-29,1794-06-08
+sf-ceres-1779_ceres,sf-ceres-1779,Ceres,france,Active,Scrapped,1780-04-01,1787-10-01
+sf-ceres-1779_fee,sf-ceres-1779,La Fee,france,Active,Scrapped,1780-07-01,1790-01-01
+sf-esperance-1779_esperance,sf-esperance-1779,L'Esperance,france,Active,Captured,1780-02-01,1780-09-03
+sf-galathee-1779_galatee,sf-galathee-1779,La Galatee,france,Active,Sunk,1779-09-01,1795-04-24
+sf-galathee-1779_railleuse,sf-galathee-1779,La Railleuse,france,Active,Sold,1780-02-01,1799-01-01
+sf-galathee-1779_fleur-de-lys,sf-galathee-1779,La Fleur de Lys,france,Active,Captured,1786-03-01,1795-01-06
+sf-galathee-1779_charente-inferieure,sf-galathee-1779,La Charente Inferieure,france,Active,Captured,1793-12-01,1796-06-08
+sf-galathee-1779_republique-francaise,sf-galathee-1779,La Republique Francaise,france,Active,Captured,1794-05-01,1796-07-12
+sf-galathee-1779_decade-francaise,sf-galathee-1779,La Decade Francaise,france,Active,Captured,1795-03-01,1798-08-24
+sf-galathee-1779_fleur-de-lys,sf-pique-1795,HMS Pique,britain,Active,Sunk,1795-01-06,1798-06-30
+sf-galathee-1779_charente-inferieure,sf-pique-1795,HMS Tribune,britain,Active,Sunk,1797-07-01,1797-11-16
+sf-galathee-1779_republique-francaise,sf-pique-1795,HMS Renommee,britain,Active,Auxiliary,1796-07-12,1800-01-01
+sf-galathee-1779_decade-francaise,sf-pique-1795,HMS Decade,britain,Active,Scrapped,1799-06-01,1811-02-21
+sf-capricieuse-1779_capricieuse,sf-capricieuse-1779,La Capricieuse,france,Active,Captured,1780-06-01,1780-07-05
+sf-capricieuse-1779_friponne,sf-capricieuse-1779,La Friponne,france,Active,Scrapped,1780-06-01,1796-01-01
+sf-capricieuse-1779_capricieuse-ii,sf-capricieuse-1779,La Capricieuse,france,Active,Sunk,1787-04-01,1799-10-31
+sf-capricieuse-1779_prudente,sf-capricieuse-1779,La Prudente,france,Active,Captured,1790-10-01,1799-02-09
+sf-venus-1780_venus,sf-venus-1780,Venus,france,Active,Sunk,1780-03-01,1781-08-05
+sf-venus-1780_cleopatre,sf-venus-1780,La Cleopatre,france,Active,Captured,1781-12-01,1793-06-18
+sf-venus-1780_cleopatre,sf-oiseau-1793,HMS Oiseau,britain,Active,Scrapped,1794-03-13,1816-09-18
+sf-felicite-1785_felicite,sf-felicite-1785,La Felicite,france,Active,Captured,1786-08-28,1809-06-16
+sf-felicite-1785_calypso,sf-felicite-1785,La Calypso,france,Active,Captured,1786-01-01,1793-01-01
+sf-felicite-1785_fidele,sf-felicite-1785,La Fidele,france,Active,Auxiliary,1789-12-01,1802-10-23
+sf-felicite-1785_fortunee,sf-felicite-1785,La Fortunee,france,Active,Sunk,1792-05-01,1794-02-01
+sf-felicite-1785_felicite,sf-amethyste-1809,Amethyste,haiti,Active,Captured,1809-06-16,1818-01-01
+sf-proselite-1786_proselite,sf-proselite-1786,La Proselite,france,Active,Captured,1786-05-01,1793-08-01
+sf-aglae-1788_aglae,sf-aglae-1788,L'Aglae,france,Active,Sunk,1788-08-01,1793-09-28
+sf-embuscade-1789_embuscade,sf-embuscade-1789,L'Embuscade,france,Active,Captured,1790-06-01,1798-10-12
+sf-embuscade-1789_embuscade,sf-ambuscade-1798,HMS Ambuscade,britain,Active,Scrapped,1800-10-27,1813-08-01
+sf-cocarde-nationale-1794_cocarde-nationale,sf-cocarde-nationale-1794,La Cocarde Nationale,france,Active,Scrapped,1794-07-01,1802-06-01
+sf-cocarde-nationale-1794_regenere,sf-cocarde-nationale-1794,La Regenere,france,Active,Captured,1795-04-01,1801-09-27
+sf-cocarde-nationale-1794_bravoure,sf-cocarde-nationale-1794,La Bravoure,france,Active,Sunk,1795-11-01,1801-09-10
+sf-cocarde-nationale-1794_regenere,sf-alexandria-1801,HMS Alexandria,britain,Active,Scrapped,1801-09-27,1804-04-01
+sf-patriote-1794_patriote,sf-patriote-1794,La Patriote,france,Active,Captured,1795-04-01,1798-10-12
+sf-patriote-1794_fidele,sf-patriote-1794,La Fidele,france,Active,Scrapped,1795-12-15,1825-01-01
+sf-patriote-1794_franchise,sf-patriote-1794,La Franchise,france,Active,Captured,1798-05-01,1803-05-28
+sf-patriote-1794_dedaigneuse,sf-patriote-1794,La Dedaigneuse,france,Active,Captured,1799-04-01,1801-01-28
+sf-patriote-1794_themis,sf-patriote-1794,La Themis,france,Active,Captured,1799-05-01,1808-06-01
+sf-patriote-1794_franchise,sf-coquille-1798,HMS Franchise,britain,Active,Scrapped,1803-10-17,1815-11-01
+sf-patriote-1794_dedaigneuse,sf-coquille-1798,HMS Dedaigneuse,britain,Active,Auxiliary,1801-11-01,1817-01-01
+sf-heureuse-1798_chiffone,sf-heureuse-1798,La Chiffone,france,Active,Captured,1801-01-31,1801-08-19
+sf-heureuse-1798_chiffone,sf-chiffone-1801,HMS Chiffone,britain,Active,Scrapped,1803-06-17,1814-09-01
+sf-psyche-1804_psyche,sf-psyche-1804,La Psyche,france,Active,Captured,1804-06-01,1805-02-13
+sf-psyche-1804_psyche,sf-psyche-1805,HMS Psyche,britain,Active,Scrapped,1805-02-13,1812-01-01
+sf-favorite-1747_favorite,sf-favorite-1747,La Favorite,france,Active,Scrapped,1748-01-01,1771-01-01
+sf-hermione-1749_hermione,sf-hermione-1749,L'Hermione,france,Active,Captured,1750-08-01,1757-11-02
+sf-hermione-1749_hermione,sf-hermione-1749,L'Hermione,france,Active,Captured,1758-01-01,1759-08-16
+sf-hermione-1749_hermione,sf-unicorn-prize-1757,HMS Unicorns Prize,britain,Active,Captured,1757-11-02,1758-01-01
+sf-gracieuse-1750_gracieuse,sf-gracieuse-1750,La Gracieuse,france,Active,Scrapped,1751-03-01,1781-02-01
+sf-abenaquise-1756_abenaquise,sf-abenaquise-1756,L'Abenaquise,france,Active,Captured,1756-11-01,1757-11-23
+sf-abenaquise-1756_abenaquise,sf-aurora-1757,HMS Aurora,britain,Active,Scrapped,1758-10-18,1763-04-01
+sf-danae-1757_danae,sf-danae-1757,La Danae,france,Active,Captured,1757-05-01,1759-03-28
+sf-danae-1757_danae,sf-danae-1759,HMS Danae,britain,Active,Scrapped,1759-08-01,1771-06-14
+sf-hebe-1757_hebe,sf-hebe-1757,L'Hebe,france,Active,Sunk,1758-02-01,1763-09-01
+sf-chimere-1758_chimere,sf-chimere-1758,La Chimere,france,Active,Scrapped,1758-07-01,1783-08-01
+sf-terpsichore-1763_terpsichore,sf-terpsichore-1763,La Terpsichore,france,Active,Scrapped,1763-12-01,1784-01-01
+sow-terpsichore-1758_terpsichore,sow-terpsichore-1758,La Terpsichore,france,Active,Captured,1758-10-01,1760-02-28
+sow-terpsichore-1758_terpsichore,sow-terpsichore-1760,HMS Terpsichore,britain,Active,Sold,1760-10-01,1766-11-04
+sf-sultane-1765_sultane,sf-sultane-1765,La Sultane,france,Active,Auxiliary,1766-05-01,1792-09-01
+sf-infidele-1765_infidele,sf-infidele-1765,L'Infidele,france,Active,Scrapped,1765-09-01,1783-12-01
+sf-infidele-1765_legere,sf-infidele-1765,La Legere,france,Active,Sunk,1765-09-01,1780-07-14
+sf-infidele-1765_sincere,sf-infidele-1765,La Sincere,france,Active,Scrapped,1766-10-01,1778-01-01
+sf-infidele-1765_inconstante,sf-infidele-1765,L'Inconstante,france,Active,Sunk,1766-10-01,1781-07-01
+sf-infidele-1765_blanche,sf-infidele-1765,La Blanche,france,Active,Captured,1768-01-01,1779-12-21
+sf-infidele-1765_enjouee,sf-infidele-1765,L'Enjouee,france,Active,Scrapped,1768-01-01,1783-12-01
+sf-infidele-1765_blanche,sf-blanche-1765,HMS Blanche,britain,Active,Sunk,1780-01-01,1780-10-11
+sf-dedaigneuse-1766_dedaigneuse,sf-dedaigneuse-1766,La Dedaigneuse,france,Active,Auxiliary,1766-09-01,1780-05-01
+sf-dedaigneuse-1766_belle-poule,sf-dedaigneuse-1766,La Belle Poule,france,Active,Captured,1767-01-01,1780-07-14
+sf-dedaigneuse-1766_amphitrite,sf-dedaigneuse-1766,L'Amphitrite,france,Active,Sunk,1769-09-01,1792-01-01
+sf-dedaigneuse-1766_tourterelle,sf-dedaigneuse-1766,La Tourterelle,france,Active,Scrapped,1770-11-01,1784-01-01
+sf-dedaigneuse-1766_belle-poule,sf-belle-poule-1780,HMS Belle Poule,britain,Active,Auxiliary,1781-04-02,1796-04-01
+sf-engageante-1766_engageante,sf-engageante-1766,L'Engageante,france,Active,Captured,1768-04-01,1794-04-23
+sf-atalante-1768_atalante,sf-atalante-1768,L'Atalante,france,Active,Captured,1769-03-01,1794-05-05
+sf-atalante-1768_atalante,sf-espion-1794,HMS Espion,britain,Active,Auxiliary,1765-06-01,1798-04-01
+sf-boudeuse-1766_boudeuse,sf-boudeuse-1766,La Boudeuse,france,Active,Captured,1766-10-01,1793-08-29
+sf-boudeuse-1766_boudeuse,sf-boudeuse-1766,La Boudeuse,france,Active,Scrapped,1793-12-20,1800-07-01
+sf-boudeuse-1766_indiscrete,sf-boudeuse-1766,L'Indiscrete,france,Active,Scrapped,1767-08-01,1784-03-01
+sf-boudeuse-1766_sensible,sf-boudeuse-1766,La Sensible,france,Active,Auxiliary,1767-08-01,1780-04-01
+sf-boudeuse-1766_boudeuse,sf-boudeuse-1793,La Boudeuse,britain,Reserve,Captured,1793-08-29,1793-12-20
+sf-renommee-1767_renommee,sf-renommee-1767,Renommee,france,Active,Scrapped,1767-12-01,1783-08-01
+sf-zephyr-1768_zephyr,sf-zephyr-1768,Le Zephyr,france,Active,Sunk,1769-02-01,1779-02-01
+sf-aurore-1768_aurore,sf-aurore-1768,L'Aurore,france,Active,Captured,1769-04-01,1793-08-29
+sf-pourvoyeuse-1772_pourvoyeuse,sf-pourvoyeuse-1772,La Pourvoyeuse,france,Active,Scrapped,1773-03-01,1786-01-01
+sf-pourvoyeuse-1772_consolante,sf-pourvoyeuse-1772,La Consolante,france,Active,Auxiliary,1776-03-01,1785-01-01
