@@ -19702,7 +19702,7 @@ sf-banterer_hms-banterer,sf-banterer,HMS Banterer,britain,Active,Sunk,1807-07-12
 sf-banterer_hms-daphne,sf-banterer,HMS Daphne,britain,Active,Sold,1806-10-04,1816-02-01
 sf-banterer_hms-cossack,sf-banterer,HMS Cossack,britain,Active,Scrapped,1807-07-02,1816-06-01
 sf-banterer_hms-cyane,sf-banterer,HMS Cyane,britain,Active,Captured,1807-07-13,1815-02-20
-sf-banterer_hms-crocodile,sf-banterer,HMS Crocodile,britain,Active,Scrapped,1906-08-10,1816-10-01
+sf-banterer_hms-crocodile,sf-banterer,HMS Crocodile,britain,Active,Scrapped,1806-08-10,1816-10-01
 sf-banterer_hms-porcupine,sf-banterer,HMS Porcupine,britain,Active,Reserve,1807-06-22,1815-11-06
 sf-banterer_hms-porcupine,sf-banterer,HMS Porcupine,britain,Reserve,Scrapped,1815-11-06,1816-04-01
 sf-banterer_hms-cyane,sf-cyane,USS Cyane,usa,Active,Reserve,1815-02-20,1826-01-01
@@ -23010,7 +23010,7 @@ sol-bucentaure-1803_conquerant,sol-bucentaure-1803,Le Conquerant,france,Active,S
 sol-bucentaure-1803_zelandais,sol-bucentaure-1803,Le Zelandais,france,Active,Scrapped,1814-03-01,1836-11-01
 sol-bucentaure-1803_centaure,sol-bucentaure-1803,Le Centaure,france,Active,Scrapped,1818-04-01,1849-11-01
 sol-bucentaure-1803_jupiter,sol-bucentaure-1803,Le Jupiter,france,Active,Scrapped,1833-09-01,1863-05-01
-sol-bucentaure-1803_neptune,sol-neptuno-1808,Neptuno,spain,Active,Scrapped,1808-07-14,1820-01-01
+sol-bucentaure-1803_neptune,sol-neptuno-1808,Neptuno,spain,Active,Scrapped,1808-06-14,1820-01-01
 sol-bucentaure-1803_friedland,sol-vlaming-1814,Vlaming,netherlands,Active,Scrapped,1814-08-01,1823-01-01
 sol-bucentaure-1803_tilsitt,sol-vlaming-1814,Neptunus,netherlands,Active,Scrapped,1814-08-01,1818-01-01
 sol-bucentaure-1803_illustre,sol-vlaming-1814,Prins van Oranje,netherlands,Active,Scrapped,1814-08-01,1825-01-01
@@ -24335,3 +24335,471 @@ sow-zenobie-1759_zenobie,sow-zenobie-1759,La Zenobie,france,Active,Sold,1759-06-
 sow-guirlande-1761_guirlande,sow-guirlande-1761,La Guirlande,france,Active,Captured,1762-02-01,1762-08-18
 sow-etourdie-1762_etourdie,sow-etourdie-1762,L'Etourdie,france,Active,Sunk,1762-02-01,1783-01-01
 sow-bayonnaise-1764_bayonnaise,sow-bayonnaise-1764,La Bayonnaise,france,Active,Sunk,1764-07-01,1765-08-01
+bi-victoria-1867_victoria,bi-victoria-1867,Victoria,spain,Active,Auxiliary,1867-11-15,1907-01-01
+bi-numancia-1864_numancia,bi-numancia-1864,Numancia,spain,Active,Auxiliary,1864-12-17,1909-01-01
+m-puigcerda-1874_puigcerda,m-puigcerda-1874,Puigcerda,spain,Active,Sold,1875-02-01,1900-01-01
+bi-arapiles-1864_arapiles,bi-arapiles-1864,Arapiles,spain,Active,Scrapped,1865-01-01,1879-01-01
+sf-resolucion-1861_resolucion,sf-resolucion-1861,Resolucion,spain,Active,Converted,1862-08-28,1867-01-01
+sf-resolucion-1861_resolucion,cb-resolucion-1870,Resolucion,spain,Active,Scrapped,1871-02-01,1886-01-01
+ci-duque-de-tetuan-1874_duque-de-tetuan,ci-duque-de-tetuan-1874,Duque de Tetuan,spain,Active,Scrapped,1874-03-01,1900-01-01
+ssol-principe-don-alfonso-1863_principe-don-alfonso,cb-sagunto-1869,Sagunto,spain,Active,Scrapped,1877-02-01,1891-01-01
+bi-tetuan-1863_tetuan,bi-tetuan-1863,Tetuan,spain,Active,Captured,1866-01-01,1873-07-12
+bi-zaragoza-1867_zaragoza,bi-zaragoza-1867,Zaragoza,spain,Active,Scrapped,1868-06-01,1896-01-01
+ac-giuseppe-garibaldi_giuseppe-garibaldi,ac-cristobal-colon-1897,Cristobal Colon,spain,Active,Sunk,1897-05-16,1898-07-03
+ac-giuseppe-garibaldi_san-mitra,ac-kasuga-1903,Kasuga,spain,Active,Training,1904-01-07,1927-01-01
+ac-giuseppe-garibaldi_san-roca,ac-kasuga-1903,Nisshin,spain,Active,Auxiliary,1904-01-07,1927-01-01
+ac-infanta-maria-teresa-1890_infanta-maria-teresa,ac-infanta-maria-teresa-1890,Infanta Maria Teresa,spain,Active,Sunk,1893-01-01,1898-07-03
+ac-infanta-maria-teresa-1890_vizcaya,ac-infanta-maria-teresa-1890,Vizcaya,spain,Active,Sunk,1893-01-01,1898-07-03
+ac-infanta-maria-teresa-1890_almirante-oquendo,ac-infanta-maria-teresa-1890,Almirante Oquendo,spain,Active,Sunk,1893-01-01,1898-07-03
+sow-conquest-1794_aimwell,sow-conquest-1794,HMS Aimwell,britain,Active,Scrapped,1795-05-14,1811-11-01
+sow-conquest-1794_force,sow-conquest-1794,HMS Force,britain,Active,Sold,1794-10-16,1802-10-01
+sow-conquest-1794_pelter,sow-conquest-1794,HMS Pelter,britain,Active,Sold,1794-10-01,1802-10-01
+sow-conquest-1794_borer,sow-conquest-1794,HMS Borer,britain,Active,Sold,1795-04-16,1810-01-01
+sow-conquest-1794_plumper,sow-conquest-1794,HMS Plumper,britain,Active,Sold,1795-04-16,1802-01-01
+sow-conquest-1794_teazer,sow-conquest-1794,HMS Teazer,britain,Active,Sold,1795-04-16,1802-10-01
+sow-conquest-1794_tickler,sow-conquest-1794,HMS Trickler,britain,Active,Sold,1795-04-15,1802-05-01
+sow-conquest-1794_swinger,sow-conquest-1794,HMS Swinger,britain,Active,Sold,1795-05-07,1802-10-01
+sow-conquest-1794_fearless,sow-conquest-1794,HMS Fearless,britain,Active,Sunk,1794-10-26,1804-01-20
+sow-conquest-1794_piercer,sow-conquest-1794,HMS Piercer,britain,Active,Sold,1795-06-07,1802-05-30
+sow-conquest-1794_attack,sow-conquest-1794,HMS Attack,britain,Active,Sold,1794-12-11,1802-09-01
+sow-conquest-1794_conquest,sow-conquest-1794,HMS Conquest,britain,Active,Sold,1795-03-05,1817-04-30
+sow-acute-1797_gb-no-4,sow-acute-1797,HMS Assault,britain,Active,Auxiliary,1797-05-12,1807-07-01
+sow-acute-1797_gb-no-5,sow-acute-1797,HMS Asp,britain,Active,Sold,1797-05-20,1803-07-01
+sow-acute-1797_gb-no-6,sow-acute-1797,HMS Acute,britain,Active,Sold,1797-06-08,1802-10-01
+sow-acute-1797_gb-no-7,sow-acute-1797,HMS Sparkler,britain,Active,Sold,1797-06-21,1802-09-01
+sow-acute-1797_gb-no-8,sow-acute-1797,HMS Bouncer,britain,Active,Auxiliary,1797-05-29,1802-04-01
+sow-acute-1797_gb-no-9,sow-acute-1797,HMS Boxer,britain,Active,Sold,1797-06-16,1809-07-01
+sow-acute-1797_gb-no-10,sow-acute-1797,HMS Biter,britain,Active,Sold,1797-06-21,1802-05-01
+sow-acute-1797_gb-no-11,sow-acute-1797,HMS Bruiser,britain,Active,Sold,1797-06-08,1802-01-01
+sow-acute-1797_gb-no-12,sow-acute-1797,HMS Blazer,britain,Active,Sold,1797-06-26,1803-01-01
+sow-acute-1797_gb-no-13,sow-acute-1797,HMS Cracker,britain,Active,Sold,1797-06-26,1802-12-01
+sow-acute-1797_gb-no-14,sow-acute-1797,HMS Clinker,britain,Active,Sold,1797-06-16,1802-10-01
+sow-acute-1797_gb-no-15,sow-acute-1797,HMS Crash,britain,Active,Captured,1797-05-13,1798-08-26
+sow-acute-1797_gb-no-15,sow-acute-1797,HMS Crash,britain,Active,Sold,1799-08-11,1802-09-01
+sow-acute-1797_gb-no-16,sow-acute-1797,HMS Contest,britain,Active,Sunk,1797-05-11,1799-08-29
+sow-acute-1797_gb-no-17,sow-acute-1797,HMS Adder,britain,Active,Scrapped,1797-05-29,1805-02-01
+sow-acute-1797_gb-no-18,sow-acute-1797,HMS Spiteful,britain,Active,Auxiliary,1797-06-30,1804-01-01
+sow-acute-1797_gb-no-15,sow-crash-1798,Crash,netherlands,Active,Captured,1798-08-26,1799-08-11
+sow-meteor-1797_gb-no-34,sow-meteor-1797,HMS Meteor,britain,Active,Sold,1797-07-11,1802-02-01
+sow-mastiff-1797_gb-no-35,sow-mastiff-1797,HMS Mastiff,britain,Active,Sunk,1797-07-11,1800-01-05
+sow-minx-1797_gb-no-36,sow-minx-1797,HMS Minx,britain,Active,Sold,1797-09-19,1801-01-13
+sow-manly-1797_gb-no-37,sow-manly-1797,HMS Manly,britain,Active,Sold,1797-08-20,1802-12-01
+sow-pouncer-1797_gb-no-38,sow-pouncer-1797,HMS Pouncer,britain,Active,Sold,1797-08-20,1802-09-01
+sow-pincher-1797_gb-no-39,sow-pincher-1797,HMS Pincher,britain,Active,Sold,1797-08-01,1802-04-01
+sow-wrangler-1797_gb-no-40,sow-wrangler-1797,HMS Wrangler,britain,Active,Sold,1797-07-11,1802-12-01
+sow-rattler-1797_gb-no-41,sow-rattler-1797,HMS Rattler,britain,Active,Sold,1797-09-01,1802-05-31
+sow-ready-1797_gb-no-42,sow-ready-1797,HMS Ready,britain,Active,Sold,1797-08-21,1802-12-01
+sow-safeguard-1797_gb-no-43,sow-safeguard-1797,HMS Safeguard,britain,Active,Sold,1797-05-01,1802-09-01
+sow-staunch-1797_gb-no-44,sow-staunch-1797,HMS Staunch,britain,Active,Sold,1797-06-11,1803-05-01
+gb-lady-nelson-1799_lady-nelson,gb-lady-nelson-1799,HMS Lady Nelson,britain,Active,Captured,1799-12-01,1825-04-01
+sow-bloodhound-1801_escort,sow-bloodhound-1801,HMS Escort,britain,Active,Sold,1801-07-01,1815-08-01
+sow-bloodhound-1801_jackall,sow-bloodhound-1801,HMS Jackall,britain,Active,Sunk,1801-05-13,1807-05-30
+sow-bloodhound-1801_bloodhound,sow-bloodhound-1801,HMS Bloodhound,britain,Active,Scrapped,1801-04-19,1816-09-18
+sow-bloodhound-1801_basilisk,sow-bloodhound-1801,HMS Basilisk,britain,Active,Scrapped,1801-04-19,1815-12-14
+sow-bloodhound-1801_censor,sow-bloodhound-1801,HMS Censor,britain,Active,Sold,1801-04-27,1816-01-11
+sow-bloodhound-1801_starling,sow-bloodhound-1801,HMS Starling,britain,Active,Sunk,1801-05-09,1804-12-24
+sow-bloodhound-1801_ferreter,sow-bloodhound-1801,HMS Ferreter,britain,Active,Captured,1801-04-29,1807-03-31
+sow-bloodhound-1801_snipe,sow-bloodhound-1801,HMS Snipe,britain,Active,Auxiliary,1801-06-11,1815-08-01
+sow-bloodhound-1801_monkey,sow-bloodhound-1801,HMS Monkey,britain,Active,Sunk,1801-06-01,1810-12-25
+sow-bloodhound-1801_vixen,sow-bloodhound-1801,HMS Vixen,britain,Active,Sold,1801-06-29,1815-03-28
+sow-confounder-1805_confounder,sow-confounder-1805,HMS Confounder,britain,Active,Sold,1805-06-24,1814-06-06
+sow-confounder-1805_hearty,sow-confounder-1805,HMS Hearty,britain,Active,Sold,1805-06-24,1816-07-11
+sow-confounder-1805_martial,sow-confounder-1805,HMS Martial,britain,Active,Auxiliary,1805-05-15,1831-04-01
+sow-confounder-1805_resolute,sow-confounder-1805,HMS Resolute,britain,Active,Auxiliary,1805-07-06,1820-05-01
+sow-confounder-1805_exertion,sow-confounder-1805,HMS Exertion,britain,Active,Sunk,1805-07-05,1812-07-09
+sow-confounder-1805_indignant,sow-confounder-1805,HMS Indignant,britain,Active,Converted,1806-05-08,1809-06-01
+sow-confounder-1805_encounter,sow-confounder-1805,HMS Encounter,britain,Active,Sunk,1805-06-29,1812-07-11
+sow-confounder-1805_rebuff,sow-confounder-1805,HMS Rebuff,britain,Active,Converted,1805-12-06,1809-06-01
+sow-confounder-1805_starling,sow-confounder-1805,HMS Starling,britain,Active,Sold,1805-12-13,1814-09-29
+sow-confounder-1805_inverterate,sow-confounder-1805,HMS Inverterate,britain,Active,Sunk,1806-04-12,1807-02-18
+sow-confounder-1805_intelligent,sow-confounder-1805,HMS Intelligent,britain,Active,Auxiliary,1806-04-14,1816-08-01
+sow-confounder-1805_dapper,sow-confounder-1805,HMS Dapper,britain,Active,Sold,1806-03-20,1814-09-29
+sow-confounder-1805_fancy,sow-confounder-1805,HMS Fancy,britain,Active,Sunk,1806-03-28,1811-12-24
+sow-confounder-1805_conflict,sow-confounder-1805,HMS Conflict,britain,Active,Sunk,1805-11-27,1810-11-09
+sow-confounder-1805_strenuous,sow-confounder-1805,HMS Strenuous,britain,Active,Sold,1805-08-01,1814-09-01
+sow-confounder-1805_turbulent,sow-confounder-1805,HMS Turbulent,britain,Active,Captured,1806-04-11,1808-06-09
+sow-confounder-1805_havock,sow-confounder-1805,HMS Havock,britain,Active,Auxiliary,1805-10-30,1818-04-01
+sow-confounder-1805_virago,sow-confounder-1805,HMS Virago,britain,Active,Sold,1806-01-01,1816-05-30
+sow-confounder-1805_bustler,sow-confounder-1805,HMS Bustler,britain,Active,Captured,1806-09-14,1808-12-26
+sow-confounder-1805_adder,sow-confounder-1805,HMS Adder,britain,Active,Sunk,1806-05-28,1806-12-09
+sow-confounder-1805_richmond,sow-confounder-1805,HMS Richmond,britain,Active,Sold,1806-05-03,1814-09-29
+sow-confounder-1805_indignant,bv-indignant-1809,HMS Indignant,britain,Active,Scrapped,1809-07-01,1811-06-01
+sow-confounder-1805_rebuff,bv-indignant-1809,HMS Rebuff,britain,Active,Sold,1809-07-01,1814-12-15
+sow-confounder-1805_turbulent,sow-turbulent-1808,HDMS The Turbulent,denmark,Active,Unknown,1808-06-09,1814-01-01
+sow-confounder-1805_bustler,sow-bustler-1808,Le Bustler,france,Active,Captured,1808-12-26,1813-12-08
+sow-linnet-1806_linnet,sow-linnet-1806,HMS Linnet,britain,Active,Captured,1807-01-02,1813-02-25
+sow-pigmy-1806_ranger,sow-pigmy-1806,HMS Pigmy,britain,Active,Sunk,1806-09-26,1807-03-02
+sow-bold-1812_bold,sow-bold-1812,HMS Bold,britain,Active,Sunk,1812-08-26,1813-09-27
+sow-bold-1812_manly,sow-bold-1812,HMS Manly,britain,Active,Scrapped,1812-09-24,1833-12-12
+sow-bold-1812_snap,sow-bold-1812,HMS Snap,britain,Active,Sold,1812-10-09,1821-01-01
+sow-bold-1812_thistle,sow-bold-1812,HMS Thistle,britain,Active,Scrapped,1812-09-12,1823-07-01
+sow-bold-1812_boxer,sow-bold-1812,HMS Boxer,britain,Active,Captured,1812-09-01,1813-09-05
+sow-bold-1812_borer,sow-bold-1812,HMS Borer,britain,Active,Scrapped,1812-10-09,1815-10-12
+sow-bold-1812_shamrock,sow-bold-1812,HMS Shamrock,britain,Active,Auxiliary,1812-11-01,1816-11-01
+sow-bold-1812_hasty,sow-bold-1812,HMS Hasty,britain,Active,Auxiliary,1812-12-01,1819-04-01
+sow-bold-1812_conflict,sow-bold-1812,HMS Conflict,britain,Active,Auxiliary,1812-12-14,1832-01-01
+sow-bold-1812_contest,sow-bold-1812,HMS Contest,britain,Active,Sunk,1813-02-23,1828-04-14
+sow-bold-1812_swinger,sow-bold-1812,HMS Swinger,britain,Active,Auxiliary,1813-11-02,1829-01-01
+sow-bold-1812_plumper,sow-bold-1812,HMS Plumper,britain,Active,Sold,1813-11-25,1833-12-12
+sow-bold-1812_adder,sow-bold-1812,HMS Adder,britain,Active,Sold,1814-02-19,1826-01-01
+sow-bold-1812_griper,sow-bold-1812,HMS Griper,britain,Active,Sold,1813-07-14,1825-12-01
+sow-bold-1812_clinker,sow-bold-1812,HMS Clinker,britain,Active,Sold,1814-02-19,1831-11-01
+sow-bold-1812_pelter,sow-bold-1812,HMS Pelter,britain,Active,Sold,1813-08-27,1826-04-01
+sow-bold-1812_mastiff,sow-bold-1812,HMS Mastiff,britain,Active,Auxiliary,1813-12-23,1822-05-01
+sow-bold-1812_snapper,sow-bold-1812,HMS Snapper,britain,Active,Auxiliary,1813-09-27,1824-05-01
+sow-gb-1793_gb-no-1,sow-gb-1793,HMS Gunboat No. 1,britain,Active,Unknown,1793-01-01,1799-01-01
+sow-gb-1793_gb-no-2,sow-gb-1793,HMS Gunboat No. 2,britain,Active,Unknown,1793-01-01,1799-01-01
+sow-gb-1793_gb-no-3,sow-gb-1793,HMS Gunboat No. 3,britain,Active,Unknown,1793-01-01,1799-01-01
+sow-watchful-1804_watchful,sow-watchful-1804,HMS Watchful,britain,Active,Sold,1804-08-14,1814-11-03
+sow-thrasher-1804_thrasher,sow-thrasher-1804,HMS Thrasher,britain,Active,Sold,1804-09-05,1814-11-03
+sow-sentinel-1804_sentinel,sow-sentinel-1804,HMS Sentinel,britain,Active,Sunk,1804-11-01,1812-10-10
+sow-volunteer-1804_volunteer,sow-volunteer-1804,HMS Volunteer,britain,Active,Sold,1804-11-10,1812-06-01
+sow-archer-1801_archer,sow-archer-1801,HMS Archer,britain,Active,Sold,1801-04-21,1815-12-14
+sow-guachapin-1801_guachapin,sow-guachapin-1801,HMS Guachapin,britain,Active,Sunk,1801-01-01,1811-07-29
+sow-harlingen-1796_harlingen,sow-harlingen-1796,Harlingen,netherlands,Active,Captured,1796-01-01,1796-01-23
+sow-harlingen-1796_harlingen,sow-amboyna-1796,HMS Amboyna,britain,Active,Scrapped,1796-03-09,1802-04-01
+sow-mongoose-1799_mongoose,sow-mongoose-1799,HMS Mongoose,britain,Active,Sold,1799-01-01,1803-01-01
+gb-negresse-1793_negresse,gb-negresse-1793,La Negresse,france,Active,Captured,1793-03-01,1799-03-18
+gb-negresse-1793_negresse,gb-negresse-1799,HMS Negresse,britain,Active,Sold,1799-03-18,1802-01-01
+gb-marie-rose-1798_marie-rose,gb-marie-rose-1798,La Marie Rose,france,Active,Captured,1798-03-01,1799-03-18
+gb-marie-rose-1798_marie-rose,gb-marie-rose-1798,HMS Marie Rose,britain,Active,Unknown,1799-03-18,1800-01-01
+gb-torride-1797_torride,gb-torride-1797,La Torride,france,Active,Captured,1797-10-01,1798-08-25
+gb-torride-1797_torride,gb-torride-1798,HMS Torride,britain,Active,Unknown,1798-08-25,1802-01-01
+sow-rolla-1805_rolla,sow-rolla-1805,La Rolla,france,Active,Captured,1805-12-05,1806-02-21
+sow-rolla-1805_rolla,sow-rolla-1806,HMS Rolla,britain,Active,Sold,1806-02-21,1810-01-01
+sow-nancy-1808_nancy,sow-nancy-1808,HMS Nancy,britain,Active,Sold,1808-09-23,1813-01-01
+sow-weazle-1745_weazle,sow-weazle-1745,HMS Weazle,britain,Active,Captured,1745-06-24,1779-01-13
+sow-porcupine-1746_porcupine,sow-porcupine-1746,HMS Porcupine,britain,Active,Sold,1746-11-07,1763-03-31
+sow-favorite-1757_favorite,sow-favorite-1757,HMS Favorite,britain,Active,Sold,1758-04-04,1784-10-21
+sow-favorite-1757_tamar,sow-favorite-1757,HMS Tamar,britain,Active,Auxiliary,1758-05-28,1777-08-01
+sow-nautilus-1762_nautilus,sow-nautilus-1762,HMS Nautilus,britain,Active,Sold,1762-06-09,1780-10-01
+sow-merlin-1757_merlin,sow-merlin-1757,HMS Merlin,britain,Active,Sunk,1757-08-07,1777-10-23
+sow-pelican-1757_pelican,sow-pelican-1757,HMS Pelican,britain,Active,Converted,1757-07-23,1758-09-01
+sow-pelican-1757_pelican,bv-pelican-1757,HMS Pelican,britain,Active,Sold,1758-10-01,1763-05-03
+sow-racehorse-1757_racehorse,sow-racehorse-1757,HMS Racehorse,britain,Active,Converted,1757-06-01,1758-05-01
+sow-racehorse-1757_racehorse,sow-racehorse-1757,HMS Racehorse,britain,Active,Converted,1760-01-01,1775-10-24
+sow-racehorse-1757_racehorse,bv-racehorse-1757,HMS Racehorse,britain,Active,Converted,1758-06-01,1760-01-01
+sow-racehorse-1757_racehorse,bv-racehorse-1757,HMS Thunder,britain,Active,Captured,1775-10-24,1778-08-14
+sow-roman-emperor-1757_roman-emperor,sow-roman-emperor-1757,HMS Roman Emperor,britain,Active,Converted,1757-07-04,1758-04-01
+sow-ferret-1760_ferret,sow-ferret-1760,HMS Ferret,britain,Active,Sunk,1761-01-19,1776-08-01
+sow-beaver-1760_senegal,sow-beaver-1760,HMS Senegal,britain,Active,Captured,1761-04-30,1778-08-14
+sow-beaver-1760_beaver,sow-beaver-1760,HMS Beaver,britain,Active,Sold,1761-03-25,1783-07-17
+sow-beaver-1760_martin,sow-beaver-1760,HMS Martin,britain,Active,Sold,1761-04-03,1784-07-01
+sow-beaver-1760_senegal,sow-senegal-1778,Le Senegal,france,Active,Captured,1778-08-14,1780-11-02
+sow-swift-1763_swift,sow-swift-1763,HMS Swift,britain,Active,Sunk,1763-04-27,1770-03-13
+sow-swift-1763_vulture,sow-swift-1763,HMS Vulture,britain,Active,Scrapped,1763-06-24,1771-08-01
+sow-otter-1767_otter,sow-otter-1767,HMS Otter,britain,Active,Sunk,1768-02-13,1778-08-25
+sow-swallow-1769_swallow,sow-swallow-1769,HMS Swallow,britain,Active,Sunk,1770-11-06,1777-12-01
+sow-swallow-1769_falcon,sow-swallow-1769,HMS Falcon,britain,Active,Sunk,1771-08-01,1779-09-20
+sow-swan-1767_swan,sow-swan-1767,HMS Swan,britain,Active,Sold,1768-04-14,1814-09-01
+sow-swan-1767_kingfisher,sow-swan-1767,HMS Kingfisher,britain,Active,Sunk,1770-11-21,1778-08-07
+sow-swan-1767_atalanta,sow-swan-1767,HMS Atalanta,britain,Active,Sold,1775-10-02,1802-08-01
+sow-swan-1767_cygnet,sow-swan-1767,HMS Cygnet,britain,Active,Auxiliary,1776-03-14,1797-10-01
+sow-swan-1767_hound,sow-swan-1767,HMS Hound,britain,Active,Scrapped,1776-05-13,1784-11-01
+sow-swan-1767_vulture,sow-swan-1767,HMS Vulture,britain,Active,Sold,1776-07-26,1805-09-01
+sow-swan-1767_hornet,sow-swan-1767,HMS Hornet,britain,Active,Sold,1776-05-28,1791-07-01
+sow-swan-1767_spy,sow-swan-1767,HMS Spy,britain,Active,Sunk,1776-06-15,1778-06-16
+sow-swan-1767_cormorant,sow-swan-1767,HMS Cormorant,britain,Active,Captured,1776-05-21,1781-08-24
+sow-swan-1767_fly,sow-swan-1767,HMS Fly,britain,Active,Sunk,1776-10-19,1802-01-01
+sow-swan-1767_pegasus,sow-swan-1767,HMS Pegasus,britain,Active,Sunk,1777-03-03,1777-10-01
+sow-swan-1767_swift,sow-swan-1767,HMS Swift,britain,Active,Sunk,1777-03-09,1778-11-24
+sow-swan-1767_dispatch,sow-swan-1767,HMS Dispatch,britain,Active,Sunk,1777-03-16,1778-12-08
+sow-swan-1767_cameleon,sow-swan-1767,HMS Cameleon,britain,Active,Sunk,1777-05-13,1780-10-12
+sow-swan-1767_zebra,sow-swan-1767,HMS Zebra,britain,Active,Sunk,1777-05-29,1778-10-01
+sow-swan-1767_savage,sow-swan-1767,HMS Savage,britain,Active,Sold,1778-07-29,1815-08-31
+sow-swan-1767_nymph,sow-swan-1767,HMS Nymph,britain,Active,Sunk,1778-07-27,1783-06-28
+sow-swan-1767_fortune,sow-swan-1767,HMS Fortune,britain,Active,Captured,1778-09-19,1780-04-26
+sow-swan-1767_fairy,sow-swan-1767,HMS Fairy,britain,Active,Scrapped,1778-12-19,1811-07-01
+sow-swan-1767_delight,sow-swan-1767,HMS Delight,britain,Active,Sunk,1779-01-01,1781-09-01
+sow-swan-1767_thorn,sow-swan-1767,HMS Thorn,britain,Active,Sold,1779-05-15,1816-08-28
+sow-swan-1767_fury,sow-swan-1767,HMS Fury,britain,Active,Sold,1779-06-27,1787-04-01
+sow-swan-1767_bonetta,sow-swan-1767,HMS Bonetta,britain,Active,Scrapped,1779-07-13,1797-10-01
+sow-swan-1767_shark,sow-swan-1767,HMS Shark,britain,Active,Sunk,1780-06-09,1818-01-13
+sow-swan-1767_alligator,sow-swan-1767,HMS Alligator,britain,Active,Captured,1781-05-01,1782-06-26
+sow-swan-1767_atalanta,sow-atalanta-1781,USS Atalanta,usa,Active,Captured,1781-05-28,1781-07-07
+sow-swan-1767_fortune,sow-fortune-1780,La Fortune,france,Active,Sold,1780-04-26,1789-01-01
+sow-swan-1767_thorn,sow-fortune-1780,Le Thorn,france,Active,Captured,1779-08-25,1782-08-20
+sow-swan-1767_alligator,sow-fortune-1780,L'Alligator,france,Active,Sold,1782-06-26,1787-05-01
+sow-raven-1771_raven,sow-raven-1771,HMS Raven,britain,Active,Sold,1771-12-18,1780-07-19
+sow-scorpion-1771_etna,sow-scorpion-1771,HMS Scorpion,britain,Active,Sold,1772-01-06,1781-12-27
+sow-ceres-1777_ceres,sow-ceres-1777,HMS Ceres,britain,Active,Captured,1777-05-01,1778-12-17
+sow-ceres-1777_ceres,sow-ceres-1777,HMS Raven,britain,Active,Captured,1782-04-19,1783-01-07
+sow-ceres-1777_ceres,sow-ceres-1778,La Ceres,france,Active,Captured,1778-12-17,1782-04-19
+sow-ceres-1777_ceres,sow-ceres-1778,Le Ceres,france,Active,Captured,1783-01-07,1791-01-01
+sow-termagant-1780_termagant,sow-termagant-1780,HMS Termagant,britain,Active,Sold,1780-09-01,1795-08-28
+sow-zebra-1780_zebra,sow-zebra-1780,HMS Zebra,britain,Active,Sold,1780-11-11,1812-08-13
+sow-zebra-1780_ariel,sow-zebra-1780,HMS Ariel,britain,Active,Sold,1782-02-05,1802-08-01
+sow-zebra-1780_bulldog,sow-zebra-1780,HMS Bulldog,britain,Active,Converted,1783-02-27,1798-09-01
+sow-zebra-1780_bulldog,bv-bulldog-1798,HMS Bulldog,britain,Active,Captured,1798-09-01,1801-02-27
+sow-zebra-1780_bulldog,bv-bulldog-1801,Le Bulldog,france,Active,Captured,1801-02-27,1801-09-16
+sow-inspector-1782_inspector,sow-inspector-1782,HMS Inspector,britain,Active,Sold,1782-07-21,1802-02-01
+sow-echo-1782_echo,sow-echo-1782,HMS Echo,britain,Active,Scrapped,1783-01-01,1797-01-01
+sow-echo-1782_rattler,sow-echo-1782,HMS Rattler,britain,Active,Sold,1783-07-21,1792-09-06
+sow-echo-1782_calypso,sow-echo-1782,HMS Calypso,britain,Active,Sunk,1783-12-01,1803-08-01
+sow-echo-1782_nautilus,sow-echo-1782,HMS Nautilus,britain,Active,Sunk,1784-12-17,1799-02-03
+sow-echo-1782_brisk,sow-echo-1782,HMS Brisk,britain,Active,Auxiliary,1785-06-03,1790-08-01
+sow-echo-1782_scorpion,sow-echo-1782,HMS Scorpion,britain,Active,Sold,1785-04-01,1802-01-01
+gb-wasp-1749_wasp,gb-wasp-1749,HMS Wasp,britain,Active,Sold,1749-07-04,1781-01-04
+gb-wasp-1749_peggy,gb-wasp-1749,HMS Peggy,britain,Active,Sunk,1749-07-26,1770-12-20
+gb-wasp-1749_hazard,gb-wasp-1749,HMS Hazard,britain,Active,Sold,1749-10-03,1783-02-11
+gb-wasp-1749_savage,gb-wasp-1749,HMS Savage,britain,Active,Sunk,1750-03-24,1776-09-16
+gb-fly-1752_fly,gb-fly-1752,HMS Fly,britain,Active,Sold,1752-07-14,1772-09-23
+gb-fly-1752_ranger,gb-fly-1752,HMS Ranger,britain,Active,Sold,1753-03-18,1783-01-16
+gb-cruizer-1752_cruizer,gb-cruizer-1752,HMS Cruizer,britain,Active,Sunk,1753-03-14,1776-10-02
+gb-cruizer-1752_speedwell,gb-cruizer-1752,HMS Speedwell,britain,Active,Auxiliary,1753-03-07,1779-08-27
+gb-cruizer-1752_wolf,gb-cruizer-1752,HMS Wolf,britain,Active,Sold,1754-09-24,1781-08-15
+gb-cruizer-1752_happy,gb-cruizer-1752,HMS Happy,britain,Active,Sunk,1754-09-02,1766-09-14
+sow-bonetta-1756_bonetta,sow-bonetta-1756,HMS Bonetta,britain,Active,Sold,1756-02-27,1776-11-01
+sow-bonetta-1756_spy,sow-bonetta-1756,HMS Spy,britain,Active,Sold,1756-03-25,1773-09-03
+sow-bonetta-1756_merlin,sow-bonetta-1756,HMS Merlin,britain,Active,Captured,1756-04-24,1757-08-01
+sow-bonetta-1756_merlin,sow-bonetta-1756,HMS Zephyr,britain,Active,Captured,1757-08-01,1778-08-23
+sow-bonetta-1756_merlin,sow-merlin-1757,Le Merlin,france,Active,Captured,1757-08-01,1757-08-01
+sow-bonetta-1756_merlin,sow-merlin-1757,Le Zephyr,france,Active,Captured,1778-08-23,1780-08-26
+sow-hunter-1756_hunter,sow-hunter-1756,HMS Hunter,britain,Active,Auxiliary,1756-04-23,1779-01-01
+sow-hunter-1756_viper,sow-hunter-1756,HMS Viper,britain,Active,Sunk,1756-05-28,1779-12-15
+sow-alderney-1757_alderney,sow-alderney-1757,HMS Alderney,britain,Active,Sold,1757-04-27,1783-05-01
+sow-alderney-1757_diligence,sow-alderney-1757,HMS Diligence,britain,Active,Auxiliary,1756-09-25,1779-08-27
+sow-alderney-1757_stork,sow-alderney-1757,HMS Stork,britain,Active,Captured,1757-02-08,1758-08-06
+sow-alderney-1757_stork,sow-stork-1758,Le Stork,france,Active,Sold,1758-08-06,1760-01-01
+sow-druid-1761_druid,sow-druid-1761,HMS Druid,britain,Active,Sunk,1761-04-27,1773-08-01
+sow-druid-1761_lynx,sow-druid-1761,HMS Lynx,britain,Active,Sold,1761-04-30,1777-02-14
+gb-hawke-1756_hawke,gb-hawke-1756,HMS Hawke,britain,Active,Captured,1756-07-02,1759-12-09
+gb-hawke-1756_hawke,gb-hawke-1756,HMS Hawk,britain,Active,Sold,1761-01-15,1781-08-13
+sol-reina-dona-isabel-ii-1852_reina-dona-isabel-ii,sol-reina-dona-isabel-ii-1852,Reina Dona Isabel II,spain,Active,Scrapped,1853-01-01,1889-01-01
+sol-reina-dona-isabel-ii-1852_rey-don-francisco-de-asis,sol-reina-dona-isabel-ii-1852,Rey Don Francisco de Asis,spain,Active,Scrapped,1858-01-17,1876-01-01
+sol-selafail-1802_selafail,sol-selafail-1802,Selafail,russia,Active,Sold,1803-01-01,1813-01-01
+sol-selafail-1802_silnyi,sol-selafail-1802,Silnyi,russia,Active,Scrapped,1804-08-01,1819-01-01
+sol-selafail-1802_severnaia-zvezda,sol-selafail-1802,Severnaia Zvezda,russia,Active,Scrapped,1807-08-01,1827-01-01
+sol-selafail-1802_borey,sol-selafail-1802,Borey,russia,Active,Scrapped,1807-08-01,1829-01-01
+sol-selafail-1802_oryol,sol-selafail-1802,Oryol,russia,Active,Scrapped,1807-08-01,1833-01-01
+sol-selafail-1802_trekh-ierarkhov,sol-selafail-1802,Trekh Ierarkhov,russia,Active,Auxiliary,1809-07-01,1827-01-01
+sol-selafail-1802_ne-tron-menia,sol-selafail-1802,Ne Tron Menia,russia,Active,Auxiliary,1809-07-01,1823-01-01
+sol-selafail-1802_sviatoslav,sol-selafail-1802,Sviatoslav,russia,Active,Scrapped,1809-10-01,1828-01-01
+sol-selafail-1802_nord-adler,sol-selafail-1802,Nord Adler,russia,Active,Sold,1811-07-01,1818-02-27
+sol-selafail-1802_prints-gustav,sol-selafail-1802,Prints Gustav,russia,Active,Scrapped,1811-07-01,1827-01-01
+sol-selafail-1802_berlin,sol-selafail-1802,Berlin,russia,Active,Auxiliary,1813-10-01,1827-01-01
+sol-selafail-1802_gamburg,sol-selafail-1802,Gamburg,russia,Active,Auxiliary,1813-10-01,1827-01-01
+sol-selafail-1802_liubek,sol-selafail-1802,Liubek,russia,Active,Sold,1813-10-01,1818-02-21
+sol-selafail-1802_drezden,sol-selafail-1802,Drezden,russia,Active,Sold,1813-10-01,1818-02-21
+sol-selafail-1802_arsis,sol-selafail-1802,Arsis,russia,Active,Auxiliary,1816-08-01,1825-01-01
+sol-selafail-1802_katsbakh,sol-selafail-1802,Katsbakh,russia,Active,Auxiliary,1816-08-01,1828-01-01
+sol-selafail-1802_retvizan,sol-selafail-1802,Retvizan,russia,Active,Auxiliary,1818-08-01,1829-01-01
+sol-selafail-1802_trekh-sviatitelei,sol-selafail-1802,Trekh Sviatitelei,russia,Active,Sunk,1819-10-01,1824-11-07
+sol-selafail-1802_sviatol-andrei,sol-selafail-1802,Sviatol Andrei,russia,Active,Target,1821-08-01,1840-01-01
+sol-selafail-1802_sysoi-velkii,sol-selafail-1802,Sysoi Velikii,russia,Active,Auxiliary,1822-08-01,1831-01-01
+sol-selafail-1802_prokhor,sol-selafail-1802,Prokhor,russia,Active,Scrapped,1823-08-01,1846-01-01
+sol-selafail-1802_kniaz-vladimir,sol-selafail-1802,Kniaz Vladimir,russia,Active,Auxiliary,1824-08-01,1831-01-01
+sol-selafail-1802_tsar-konstantin,sol-selafail-1802,Tsar Konstantin,russia,Active,Scrapped,1825-08-01,1831-01-01
+sol-selafail-1802_nord-adler,sol-espana-1818,Espana,spain,Active,Scrapped,1818-02-27,1822-03-12
+sol-selafail-1802_liubek,sol-espana-1818,Numancia,spain,Active,Scrapped,1818-02-21,1823-01-01
+sol-selafail-1802_drezden,sol-espana-1818,Alejandro,spain,Active,Scrapped,1818-02-21,1823-01-01
+sol-trekh-sviatitelei-1810_trekh-sviatitelei,sol-trekh-sviatitelei-1810,Trekh Sviatitelei,russia,Active,Sold,1810-12-01,1818-02-21
+sol-trekh-sviatitelei-1810_sviatyk-zhen-mironosits,sol-trekh-sviatitelei-1810,Sviatyk Zhen Mironosits,russia,Active,Scrapped,1811-08-01,1825-01-01
+sol-trekh-sviatitelei-1810_neptunus,sol-trekh-sviatitelei-1810,Neptunus,russia,Active,Sold,1812-08-01,1818-02-21
+sol-trekh-sviatitelei-1810_iupiter,sol-trekh-sviatitelei-1810,Iupiter,russia,Active,Scrapped,1812-11-01,1828-01-01
+sol-trekh-sviatitelei-1810_piotr,sol-trekh-sviatitelei-1810,Piotr,russia,Active,Scrapped,1814-10-01,1828-01-01
+sol-trekh-sviatitelei-1810_finland,sol-trekh-sviatitelei-1810,Finland,russia,Active,Scrapped,1814-10-01,1828-01-01
+sol-trekh-sviatitelei-1810_fershampenuaz,sol-trekh-sviatitelei-1810,Fershampenuaz,russia,Active,Sunk,1817-10-01,1831-10-08
+sol-trekh-sviatitelei-1810_trekh-sviatitelei,sol-velasco-1818,Velasco,spain,Active,Scrapped,1818-02-21,1821-01-01
+sol-trekh-sviatitelei-1810_neptunus,sol-velasco-1818,Fernando VII,spain,Active,Scrapped,1818-02-21,1823-01-01
+sol-santa-ana-1784_santa-ana,sol-santa-ana-1784,Santa Ana,spain,Active,Sunk,1784-11-24,1816-01-01
+sol-santa-ana-1784_mejicano,sol-santa-ana-1784,Mejicano,spain,Active,Scrapped,1786-04-01,1813-10-08
+sol-santa-ana-1784_conde-de-regla,sol-santa-ana-1784,Conde de Regla,spain,Active,Scrapped,1787-01-01,1818-01-01
+sol-santa-ana-1784_salvador-del-mundo,sol-santa-ana-1784,Salvador del Mundo,spain,Active,Captured,1787-07-01,1797-02-14
+sol-santa-ana-1784_real-carlos,sol-santa-ana-1784,Real Carlos,spain,Active,Sunk,1788-01-01,1801-07-12
+sol-santa-ana-1784_san-hermenegildo,sol-santa-ana-1784,San Hermenegildo,spain,Active,Sunk,1789-04-01,1801-07-12
+sol-santa-ana-1784_reina-luisa,sol-santa-ana-1784,Reina Luisa,spain,Active,Sunk,1791-11-01,1815-12-09
+sol-santa-ana-1784_principe-de-asturias,sol-santa-ana-1784,Principe de Asturias,spain,Active,Sunk,1794-03-01,1814-01-01
+sol-santa-ana-1784_salvador-del-mundo,sol-salvador-del-mundo-1797,HMS Salvador del Mundo,britain,Reserve,Auxiliary,1797-10-05,1803-03-01
+sol-bahama-1783_bahama,sol-bahama-1783,Bahama,spain,Active,Captured,1783-06-01,1805-10-21
+sol-bahama-1783_bahama,sol-bahama-1805,HMS Bahama,britain,Reserve,Auxiliary,1806-06-12,1807-04-01
+sol-san-antonio-1785_san-antonio,sol-san-antonio-1785,San Antonio,spain,Active,Sold,1785-10-01,1801-05-21
+sol-san-antonio-1785_san-antonio,sol-sant-antoine-1801,Saint Antoine,france,Active,Captured,1801-05-21,1801-07-12
+sol-san-antonio-1785_san-antonio,sol-san-antonio-1801,HMS San Antonio,britain,Reserve,Auxiliary,1801-10-08,1807-10-01
+sol-san-ildefonso-1785_san-ildefonso,sol-san-ildefonso-1785,San Ildefonso,spain,Active,Captured,1785-05-01,1805-10-21
+sol-san-ildefonso-1785_san-telmo,sol-san-ildefonso-1785,San Telmo,spain,Active,Sunk,1788-10-01,1819-01-01
+sol-san-ildefonso-1785_san-francisco-de-paula,sol-san-ildefonso-1785,San Francisco de Paula,spain,Active,Scrapped,1789-04-01,1823-01-01
+sol-san-ildefonso-1785_europa,sol-san-ildefonso-1785,Europa,spain,Active,Sunk,1790-01-01,1801-01-01
+sol-san-ildefonso-1785_intrepido,sol-san-ildefonso-1785,Intrépido,spain,Active,Sold,1791-03-01,1801-07-01
+sol-san-ildefonso-1785_conquistador,sol-san-ildefonso-1785,Conquistador,spain,Active,Sold,1792-03-01,1802-04-23
+sol-san-ildefonso-1785_infante-don-pelayo,sol-san-ildefonso-1785,Infante Don Pelayo,spain,Active,Sold,1792-03-01,1802-04-23
+sol-san-ildefonso-1785_san-ildefonso,sol-san-ildefonso-1805,HMS San Ildefonso,britain,Active,Scrapped,1805-10-21,1816-01-01
+sol-san-ildefonso-1785_intrepido,sol-intrepide-1801,L'Intrepide,france,Active,Captured,1801-07-01,1805-10-21
+sol-san-ildefonso-1785_conquistador,sol-intrepide-1801,Le Conquerant,france,Active,Auxiliary,1802-04-23,1804-01-01
+sol-san-ildefonso-1785_infante-don-pelayo,sol-intrepide-1801,Le Desaix,france,Active,Scrapped,1802-04-23,1804-01-01
+sol-san-fulgencio-1787_san-fulgencio,sol-san-fulgencio-1787,San Fulgencio,spain,Active,Sunk,1788-04-10,1814-01-01
+sol-san-fulgencio-1787_san-leandro,sol-san-fulgencio-1787,San Leandro,spain,Active,Sunk,1788-01-01,1814-01-01
+sol-san-fulgencio-1787_san-pedro-de-alcantara,sol-san-fulgencio-1787,San Pedro de Alcantara,spain,Active,Sunk,1788-10-01,1815-04-24
+sol-asia-1789_asia,sol-asia-1789,Asia,spain,Active,Captured,1790-04-01,1825-03-10
+sol-asia-1789_asia,sol-congreso-mexicano-1825,Congreso Mexicano,mexico,Active,Scrapped,1825-03-10,1830-01-01
+sol-soberano-1790_soberano,sol-soberano-1790,Soberano,spain,Active,Scrapped,1790-12-01,1809-01-01
+sol-temeraire_ferme,sol-ferme-1793,Ferme,spain,Active,Scrapped,1793-01-30,1808-01-01
+sol-monarca-1794_monarca,sol-monarca-1794,Monarca,spain,Active,Captured,1794-06-01,1805-10-21
+sol-monarca-1794_montanes,sol-monarca-1794,Montanes,spain,Active,Sunk,1795-04-01,1810-03-10
+sol-monarca-1794_argonauta,sol-monarca-1794,Argonauta,spain,Active,Captured,1798-10-01,1805-10-21
+sol-monarca-1794_neptuno,sol-monarca-1794,Neptuno,spain,Active,Captured,1796-04-01,1805-10-21
+sol-duquesne_argonaute,sol-argonauta-1806,Argonauta,spain,Active,Sunk,1806-12-01,1810-03-29
+sol-pegase-1781_censeur,sol-censeur-1799,Censeur,spain,Reserve,Scrapped,1799-06-01,1799-08-01
+sol-duquesne_heros,sol-argonauta-1806,Heroe,spain,Active,Scrapped,1808-06-14,1839-01-01
+sol-suffren_algesiras,sol-algeciras-1808,Algeciras,spain,Active,Scrapped,1808-06-14,1826-01-01
+sol-san-pedro-apostol-1770_san-pedro-apostol,sol-san-pedro-apostol-1770,San Pedro Apostol,spain,Active,Scrapped,1771-04-01,1801-01-01
+sol-san-pedro-apostol-1770_san-pablo,sol-san-pedro-apostol-1770,San Pablo,spain,Active,Scrapped,1771-07-01,1855-10-01
+sol-san-pedro-apostol-1770_san-gabriel,sol-san-pedro-apostol-1770,San Gabriel,spain,Active,Scrapped,1772-07-01,1809-08-10
+sol-san-joaquin-1771_san-joaquin,sol-san-joaquin-1771,San Joaquin,spain,Active,Scrapped,1771-10-01,1817-01-01
+sol-san-joaquin-1771_san-juan-bautista,sol-san-joaquin-1771,San Juan Bautista,spain,Active,Scrapped,1772-12-01,1809-04-05
+sol-san-joaquin-1771_santo-angel-de-la-guarda,sol-san-joaquin-1771,Santo Angel de la Guarda,spain,Active,Scrapped,1772-12-01,1809-04-05
+sol-san-joaquin-1771_san-damaso,sol-san-joaquin-1771,San Damaso,spain,Active,Captured,1776-08-01,1797-02-17
+sol-san-joaquin-1771_san-damaso,sol-san-damaso-1797,HMS San Damaso,britain,Active,Scrapped,1797-08-10,1816-01-08
+sol-san-miguel-1773_san-miguel,sol-san-miguel-1773,San Miguel,spain,Active,Captured,1773-12-01,1782-10-11
+sol-san-miguel-1773_san-miguel,sol-san-miguel-1782,HMS San Miguel,britain,Reserve,Scrapped,1782-10-11,1791-12-01
+sol-san-ramon-1775_san-ramon,sol-san-ramon-1775,San Ramon,spain,Active,Sunk,1775-12-01,1810-03-12
+sol-san-eugenio-1775_san-eugenio,sol-san-eugenio-1775,San Eugenio,spain,Active,Scrapped,1775-11-01,1804-01-01
+sol-san-giuseppe-1768_san-giuseppe,sol-san-giuseppe-1768,San Giuseppe,naples,Active,Sold,1768-11-01,1776-06-01
+sol-san-giuseppe-1768_san-giuseppe,sol-san-isidoro-1776,San Isidoro,spain,Active,Sunk,1776-08-01,1794-10-26
+sol-san-ferdinando-1768_san-ferdinando,sol-san-ferdinando-1768,San Ferdinando,naples,Active,Sold,1768-11-01,1776-06-01
+sol-san-ferdinando-1768_san-ferdinando,sol-san-leandro-1776,San Leandro,spain,Active,Scrapped,1776-08-01,1784-01-01
+sow-san-ferdinando-1750_san-ferdinando,sow-san-ferdinando-1750,San Ferdinando,naples,Active,Unknown,1750-05-01,1750-12-01
+sol-purisima-concepcion-1779_purisima-concepcion,sol-purisima-concepcion-1779,Purisima Concepcion,spain,Active,Sunk,1779-12-15,1810-03-09
+sol-san-jose-1783_san-jose,sol-san-jose-1783,San Jose,spain,Active,Captured,1783-12-15,1797-02-14
+sol-san-jose-1783_san-jose,sol-san-josef-1797,HMS San Josef,britain,Active,Training,1797-02-14,1837-01-01
+sol-san-justo-1779_san-justo,sol-san-justo-1779,San Justo,spain,Active,Scrapped,1779-11-16,1828-01-01
+sol-santo-domingo-1781_santo-domingo,sol-santo-domingo-1781,Santo Domingo,spain,Active,Scrapped,1781-04-01,1807-01-01
+sol-santo-domingo-1781_san-felipe-apostol,sol-santo-domingo-1781,San Felipe Apostol,spain,Active,Sold,1781-09-01,1794-07-08
+sol-santo-domingo-1781_san-felipe-apostol,sol-overijssel-1794,Overijssel,netherlands,Active,Captured,1794-07-08,1795-10-22
+sol-santo-domingo-1781_san-felipe-apostol,sol-overyssel-1795,HMS Overyssel,britain,Active,Auxiliary,1795-10-22,1805-10-01
+sol-san-julian-1781_san-julian,sol-san-julian-1781,San Julian,spain,Active,Sold,1781-09-01,1819-07-22
+sol-san-fermin-1782_san-fermin,sol-san-fermin-1782,San Fermin,spain,Active,Scrapped,1782-05-01,1808-01-01
+sol-san-fermin-1782_san-sebastian,sol-san-fermin-1782,San Sebastian,spain,Active,Sold,1783-03-01,1799-01-01
+sol-san-fermin-1782_san-sebastian,sol-alliance-1799,L'Alliance,france,Active,Scrapped,1799-01-01,1807-01-01
+sol-guipuscoana-1780_guipusoana,sol-prince-william-1780,HMS Prince William,britain,Active,Auxiliary,1780-01-08,1791-04-01
+sol-san-fernando-1751_san-fernando,sol-san-fernando-1751,San Fernando,spain,Active,Sunk,1751-03-01,1769-01-03
+sol-san-fernando-1751_castilla,sol-san-fernando-1751,Castilla,spain,Active,Sunk,1751-08-01,1771-11-30
+sol-san-fernando-1751_asia,sol-san-fernando-1751,Asia,spain,Active,Sunk,1752-05-01,1762-06-11
+sol-mino-1779_mino,sol-mino-1779,Mino,spain,Active,Scrapped,1779-04-01,1808-06-11
+sol-septentrion-1751_septentrion,sol-septentrion-1751,Septentrion,spain,Active,Scrapped,1752-02-01,1784-12-01
+sol-africa-1752_africa,sol-africa-1752,Africa,spain,Active,Converted,1752-02-01,1798-06-01
+sol-africa-1752_aquiles,sol-africa-1752,Aquiles,spain,Active,Scrapped,1754-11-01,1790-08-07
+sol-africa-1752_firme,sol-africa-1752,Firme,spain,Active,Captured,1755-08-01,1805-07-22
+sol-africa-1752_espana,sol-africa-1752,Espana,spain,Active,Scrapped,1757-08-01,1809-01-01
+sol-africa-1752_firme,sol-firme-1805,HMS Firme,britain,Active,Auxiliary,1805-07-22,1808-03-01
+sol-eolo-1753_eolo,sol-eolo-1753,Eolo,spain,Active,Scrapped,1753-11-01,1864-03-20
+sol-eolo-1753_oriente,sol-eolo-1753,Oriente,spain,Active,Scrapped,1753-08-28,1808-09-27
+sol-eolo-1753_aquilon,sol-eolo-1753,Aquilon,spain,Active,Captured,1754-08-17,1762-08-13
+sol-eolo-1753_neptuno,sol-eolo-1753,Neptuno,spain,Active,Sunk,1754-10-18,1762-06-11
+sol-eolo-1753_magnanimo,sol-eolo-1753,Magnanimo,spain,Active,Scrapped,1755-03-01,1794-07-12
+sol-eolo-1753_gallardo,sol-eolo-1753,Gallardo,spain,Active,Scrapped,1755-02-01,1797-02-16
+sol-eolo-1753_brillante,sol-eolo-1753,Brillante,spain,Active,Sunk,1755-03-01,1790-10-10
+sol-eolo-1753_vencedor,sol-eolo-1753,Vencedor,spain,Active,Sold,1755-09-01,1806-01-01
+sol-eolo-1753_vencedor,sol-eolo-1753,Vencedor,spain,Active,Scrapped,1808-01-01,1810-01-01
+sol-eolo-1753_glorioso,sol-eolo-1753,Glorioso,spain,Active,Scrapped,1755-05-01,1818-05-05
+sol-eolo-1753_guerrero,sol-eolo-1753,Guerrero,spain,Active,Scrapped,1755-07-01,1844-01-01
+sol-eolo-1753_soberano,sol-eolo-1753,Soberano,spain,Active,Captured,1755-11-01,1762-08-13
+sol-eolo-1753_hector,sol-eolo-1753,Hector,spain,Active,Scrapped,1756-01-01,1768-06-06
+sol-eolo-1753_aquilon,sol-moro-1762,HMS Moro,britain,Reserve,Scrapped,1764-06-15,1770-07-18
+sol-eolo-1753_soberano,sol-moro-1762,HMS Soverano,britain,Reserve,Scrapped,1763-08-19,1770-08-14
+sol-eolo-1753_vencedor,sol-argonaute-1806,L'Argonaute,france,Active,Captured,1806-01-01,1808-01-01
+sol-serio-1752_serio,sol-serio-1752,Serio,spain,Active,Scrapped,1754-03-01,1805-01-01
+sol-serio-1752_poderoso,sol-serio-1752,Poderoso,spain,Active,Sunk,1754-04-01,1779-08-27
+sol-serio-1752_soberbio,sol-serio-1752,Soberbio,spain,Active,Scrapped,1754-06-01,1764-06-23
+sol-serio-1752_arrogante,sol-serio-1752,Arrogante,spain,Active,Sunk,1754-06-01,1797-02-16
+sol-serio-1752_hercules,sol-serio-1752,Hercules,spain,Active,Scrapped,1755-04-01,1761-07-04
+sol-serio-1752_constante,sol-serio-1752,Constante,spain,Active,Scrapped,1755-04-01,1761-10-06
+sol-tridente-1754_tridente,sol-tridente-1754,Tridente,spain,Active,Scrapped,1754-09-01,1766-07-03
+sol-terrible-1755_terrible,sol-terrible-1755,Terrible,spain,Active,Scrapped,1755-03-01,1811-01-01
+sol-terrible-1755_atalante,sol-terrible-1755,Atalante,spain,Active,Scrapped,1755-03-01,1817-01-01
+sol-terrible-1755_atalante,sol-atlas-1801,L'Atlas,france,Active,Captured,1801-09-22,1808-06-09
+sol-triunfante-1756_triunfante,sol-triunfante-1756,Triunfante,spain,Active,Scrapped,1756-04-01,1795-01-05
+sol-triunfante-1756_dichoso,sol-triunfante-1756,Dichoso,spain,Active,Scrapped,1756-06-01,1784-10-15
+sol-triunfante-1756_monarca,sol-triunfante-1756,Monarca,spain,Active,Captured,1756-09-01,1780-01-16
+sol-triunfante-1756_diligente,sol-triunfante-1756,Diligente,spain,Active,Captured,1756-12-01,1780-01-16
+sol-triunfante-1756_monarca,sol-monarca-1780,HMS Monarca,britain,Active,Scrapped,1780-09-19,1791-10-13
+sol-triunfante-1756_diligente,sol-monarca-1780,HMS Diligent,britain,Active,Scrapped,1780-09-27,1784-12-02
+sol-peruano-1756_peruano,sol-peruano-1756,Peruano,spain,Active,Sold,1756-03-01,1790-01-01
+sol-campeon-1758_campeon,sol-campeon-1758,Campeon,spain,Active,Auxiliary,1758-04-01,1778-01-01
+sol-conquistador-1758_conquistador,sol-conquistador-1758,Conquistador,spain,Active,Captured,1758-10-01,1762-08-13
+sol-conquistador-1758_conquistador,sol-conquestador-1762,HMS Conquestador,britain,Active,Auxiliary,1764-03-09,1779-05-01
+sol-astuto-1759_astuto,sol-astuto-1759,Astuto,spain,Active,Scrapped,1759-03-01,1810-01-01
+sol-principe-1759_principe,sol-principe-1759,Principe,spain,Active,Scrapped,1760-04-01,1776-05-15
+sol-principe-1759_victorioso,sol-principe-1759,Victorioso,spain,Active,Scrapped,1760-04-01,1776-05-15
+sol-buen-consejo-1761_buen-consejo,sol-buen-consejo-1761,Buen Consejo,spain,Active,Sunk,1761-11-18,1772-07-08
+sol-san-antonio-1761_san-antonio,sol-san-antonio-1761,San Antonio,spain,Active,Captured,1763-03-01,1762-08-13
+sol-san-antonio-1761_san-genaro,sol-san-antonio-1761,San Genaro,spain,Active,Captured,1763-02-01,1762-08-13
+sol-san-antonio-1761_san-antonio,sol-san-antonio-1762,HMS San Antonio,britain,Active,Sold,1764-11-14,1775-03-28
+sol-san-antonio-1761_san-genaro,sol-san-antonio-1762,HMS San Genaro,britain,Active,Sunk,1762-08-13,1763-01-01
+sol-velasco-1764_velasco,sol-velasco-1764,Velasco,spain,Active,Scrapped,1764-11-01,1796-09-04
+sol-velasco-1764_san-genaro,sol-velasco-1764,San Genaro,spain,Active,Sold,1766-03-01,1801-07-24
+sol-velasco-1764_santa-isabel,sol-velasco-1764,Santa Isabel,spain,Active,Scrapped,1767-08-01,1803-01-01
+sol-velasco-1764_san-genaro,sol-ulysse-1801,L'Ulysse,france,Active,Auxiliary,1801-08-24,1822-01-01
+sol-san-vicente-ferrer-1768_san-vicente-ferrer,sol-san-vicente-ferrer-1768,San Vicente Ferrer,spain,Active,Sunk,1768-07-01,1797-02-17
+sol-san-vicente-ferrer-1768_san-nicolas-de-bari,sol-san-vicente-ferrer-1768,San Nicolas de Bari,spain,Active,Captured,1769-03-01,1797-02-14
+sol-san-vicente-ferrer-1768_san-nicolas-de-bari,,HMS San Nicolas,britain,Active,Auxiliary,1797-10-05,1798-08-01
+sol-san-carlos-1765_san-carlos,sol-san-carlos-1765,San Carlos,spain,Active,Converted,1765-08-01,1801-01-01
+sol-san-carlos-1765_san-fernando,sol-san-carlos-1765,San Fernando,spain,Active,Converted,1765-11-01,1798-01-01
+sol-san-carlos-1765_san-luis,sol-san-carlos-1765,San Luis,spain,Active,Scrapped,1768-01-01,1789-01-01
+sol-san-carlos-1765_san-carlos,sol-san-carlos-1801,San Carlos,spain,Active,Scrapped,1801-01-01,1819-01-01
+sol-san-carlos-1765_san-fernando,sol-san-fernando-1798,San Fernando,spain,Active,Scrapped,1798-01-01,1813-10-08
+sol-america-1766_america,sol-america-1766,America,spain,Active,Scrapped,1765-10-01,1823-01-01
+sol-san-juan-nepomuceno-1766_san-juan-nepomuceno,sol-san-juan-nepomuceno-1766,San Juan Nepomuceno,spain,Active,Captured,1766-12-15,1805-10-21
+sol-san-juan-nepomuceno-1766_san-pascual-bailon,sol-san-juan-nepomuceno-1766,San Pascual Bailon,spain,Active,Scrapped,1766-12-16,1797-01-01
+sol-san-juan-nepomuceno-1766_san-francisco-de-asis,sol-san-juan-nepomuceno-1766,San Francisco de Asis,spain,Active,Captured,1767-04-01,1805-10-21
+sol-san-juan-nepomuceno-1766_san-lorenzo,sol-san-juan-nepomuceno-1766,San Lorenzo,spain,Active,Scrapped,1768-11-01,1815-01-01
+sol-san-juan-nepomuceno-1766_san-agustin,sol-san-juan-nepomuceno-1766,San Agustin,spain,Active,Captured,1769-01-01,1776-01-01
+sol-san-juan-nepomuceno-1766_san-agustin,sol-san-juan-nepomuceno-1766,San Agustin,spain,Active,Captured,1777-01-01,1805-10-21
+sol-san-juan-nepomuceno-1766_santo-domingo,sol-san-juan-nepomuceno-1766,Santo Domingo,spain,Active,Sunk,1770-01-01,1780-01-16
+sol-san-juan-nepomuceno-1766_san-juan-nepomuceno,sol-san-juan-1805,HMS San Juan,britain,Active,Scrapped,1806-09-04,1808-09-01
+sol-san-juan-nepomuceno-1766_san-agustin,sol-san-agustin-1776,San Agustin,spain,Active,Sold,1776-01-01,1777-01-01
+sol-san-isidro-1768_san-isidro,sol-san-isidro-1768,San Isidro,spain,Active,Captured,1768-06-01,1797-02-14
+sol-san-isidro-1768_san-julian,sol-san-isidro-1768,San Julian,spain,Active,Sunk,1769-01-01,1780-01-16
+sol-san-isidro-1768_san-isidro,sol-san-ysidro-1797,HMS San Ysidro,britain,Active,Auxiliary,1798-05-01,1798-05-01
+sol-san-francisco-de-paula-1769_san-francisco-de-paula,sol-san-francisco-de-paula-1769,San Francisco de Paula,spain,Active,Sunk,1769-03-01,1784-01-01
+sol-san-francisco-de-paula-1769_san-jose,sol-san-francisco-de-paula-1769,San Jose,spain,Active,Sunk,1770-01-01,1780-04-08
+sol-san-rafael-1771_san-rafael,sol-san-rafael-1771,San Rafael,spain,Active,Captured,1771-02-01,1805-07-22
+sol-san-rafael-1771_san-rafael,sol-san-rafael-1805,HMS San Rafael,britain,Active,Auxiliary,1805-07-30,1808-05-01
+sol-nuestra-senora-de-la-santisima-trinidad-1801_sol-nuestra-senora-de-la-santisima-trinidad,sol-nuestra-senora-de-la-santisima-trinidad-1801,Nuestra Senora de la Santisima Trinidad,spain,Active,Captured,1769-05-01,1805-10-21
+sol-san-giovanni-1755_san-giovanni,sol-san-giovanni-1755,San Giovanni,venice,Active,Unknown,1755-01-01,1765-01-01
+sol-san-gioachino-1765_san-gioachino,sol-san-gioachino-1765,San Gioachino,venice,Active,Sold,1765-01-01,1781-01-01
+sol-san-gioachino-1765_san-gioachino,sol-san-gioacchino-1781,San Gioacchino,venice,Active,Sunk,1781-01-01,1799-01-08
+sol-san-zacharia-1765_san-zacharia,sol-san-zacharia-1765,San Zacharia,venice,Active,Captured,1765-07-21,1798-06-12
+sol-san-zacharia-1765_san-zacharia,sol-dego-1798,Le Dego,france,Active,Captured,1798-06-12,1800-09-05
+sol-san-zacharia-1765_san-zacharia,sol-dego-1800,HMS Dego,britain,Active,Scrapped,1800-09-05,1802-01-01
+sol-san-giovanni-1768_san-giovanni,sol-san-giovanni-1768,San Giovanni,venice,Active,Sold,1768-01-01,1781-01-01
+sol-san-giovanni-1768_san-giovanni,sol-san-giovanni-1781,San Giovanni,venice,Active,Unknown,1781-01-01,1784-09-26
+sol-san-giacomo-1769_san-giacomo,sol-san-giacomo-1769,San Giacomo,venice,Active,Sold,1769-01-01,1781-01-01
+sol-san-giovanni-1789_san-giovanni,sol-san-giovanni-1789,San Giovanni,venice,Active,Captured,1789-01-01,1798-10-01
+sol-san-giovanni-1789_san-giovanni,sol-athenien-1798,L'Athenien,france,Active,Captured,1798-10-01,1800-09-04
+sol-san-giovanni-1789_san-giovanni,sol-athenian-1800,HMS Athenian,britain,Active,Sunk,1804-03-01,1806-10-20
+sf-calcutta-1795_calcutta,sf-calcutta-1795,HMS Calcutta,britain,Active,Captured,1795-03-09,1805-09-26
+sf-calcutta-1795_calcutta,sf-calcutta-1805,Le Calutta,venice,Active,Sunk,1805-09-26,1809-04-12
+sol-speranza-1752_speranza,sol-speranza-1752,Speranza,venice,Active,Scrapped,1752-06-01,1773-01-01
+sol-speranza-1752_san-vicenzo-ferrer,sol-speranza-1752,San Vicenzo Ferrer,venice,Active,Scrapped,1757-08-01,1776-01-01
+sol-leon-trionfante-1761_buon-consiglio,sol-leon-trionfante-1761,Buon Consiglio,venice,Active,Unknown,1765-05-29,1780-01-01
+sol-leon-trionfante-1761_san-giacomo,sol-leon-trionfante-1761,San Giacomo,venice,Active,Unknown,1765-07-01,1784-01-01
+sol-leon-trionfante-1761_fedelta,sol-leon-trionfante-1761,Fedelta,venice,Active,Unknown,1770-06-01,1788-01-01
+sol-leon-trionfante-1761_corriera-veneta,sol-leon-trionfante-1761,Corriera Veneta,venice,Active,Unknown,1770-07-01,1770-12-01
+sol-leon-trionfante-1761_diligenza,sol-leon-trionfante-1761,Diligenza,venice,Active,Unknown,1774-07-01,1780-01-01
+sol-leon-trionfante-1761_forza,sol-leon-trionfante-1761,Forza,venice,Active,Unknown,1774-08-01,1784-11-14
+sol-leon-trionfante-1761_galatea,sol-leon-trionfante-1761,Galatea,venice,Active,Captured,1779-06-29,1797-05-01
+sol-leon-trionfante-1761_fenice,sol-leon-trionfante-1761,Fenice,venice,Active,Unknown,1779-08-01,1783-04-01
+sol-leon-trionfante-1761_vittoria,sol-leon-trionfante-1761,Vittoria,venice,Active,Captured,1784-02-01,1797-05-01
+sol-leon-trionfante-1761_eolo,sol-leon-trionfante-1761,Eolo,venice,Active,Captured,1785-03-01,1797-07-23
+sol-leon-trionfante-1761_san-giorgio,sol-leon-trionfante-1761,San Giorgio,venice,Active,Captured,1786-06-30,1797-07-23
+sol-leon-trionfante-1761_medea,sol-leon-trionfante-1761,Medea,venice,Active,Captured,1794-05-28,1797-06-28
+sol-leon-trionfante-1761_eolo,sol-frontin-1797,Le Robert,france,Active,Auxiliary,1797-07-23,1801-10-01
+sol-leon-trionfante-1761_san-giorgio,sol-frontin-1797,Le Sandos,france,Active,Captured,1797-07-23,1799-03-01
+sol-leon-trionfante-1761_medea,sol-frontin-1797,Le Frontin,france,Active,Auxiliary,1797-06-28,1800-11-01
+sol-vigilanza-1757_vigilanza,sol-vigilanza-1757,Vigilanza,venice,Active,Unknown,1757-08-01,1762-01-01
+sol-vigilanza-1757_ercole,sol-vigilanza-1757,Ercole,venice,Active,Scrapped,1769-05-01,1781-05-01
+sol-vigilanza-1757_sirena,sol-vigilanza-1757,Sirena,venice,Active,Sunk,1778-08-01,1795-01-30
+sol-san-michiel-arcangelo-1749_san-michiel-arcangelo,sol-san-michiel-arcangelo-1749,San Michiel Arcangelo,venice,Active,Scrapped,1749-07-01,1769-01-01
+sol-san-michiel-arcangelo-1749_giglio-d-oro,sol-san-michiel-arcangelo-1749,Giglio d'Oro,venice,Active,Scrapped,1749-08-01,1769-01-01
+sol-san-michiel-arcangelo-1749_concordia,sol-san-michiel-arcangelo-1749,Concordia,venice,Active,Auxiliary,1773-01-01,1793-01-01
+sol-san-michiel-arcangelo-1749_minerva,sol-san-michiel-arcangelo-1749,Minerva,venice,Active,Captured,1773-09-01,1797-05-12
+sol-san-michiel-arcangelo-1749_minerva,sol-minerva-1797,La Minerva,france,Reserve,Auxiliary,1797-05-12,1797-08-01
+sol-fama-1784_fama,sol-fama-1784,Fama,venice,Active,Captured,1784-06-01,1798-06-28
+sol-fama-1784_gloria-veneta,sol-fama-1784,Gloria Veneta,venice,Active,Captured,1794-06-01,1797-05-20
+sol-fama-1784_fama,sol-banel-1797,Le Dubois,france,Active,Sunk,1798-06-28,1801-01-01
+sol-fama-1784_gloria-veneta,sol-banel-1797,Le Banel,france,Active,Unknown,1797-05-20,1802-01-01
+sol-san-carlo-borromeo-1747_,sol-san-carlo-borromeo-1747,San Carlo Borromeo,venice,Active,Sunk,1750-06-06,1768-05-21
+sol-san-carlo-borromeo-1747_vulcano,sol-san-carlo-borromeo-1747,Vulcano,venice,Active,Captured,1793-04-01,1797-06-28
+sol-san-carlo-borromeo-1747_vulcano,sol-causse-1797,Le Causse,france,Active,Captured,1797-06-28,1801-09-02
+sol-san-carlo-borromeo-1747_vulcano,sol-nimet-i-huda-1801,Nimet-i Huda,turkey,Active,Unknown,1801-09-02,1801-10-01
