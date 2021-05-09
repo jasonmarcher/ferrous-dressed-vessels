@@ -6,6 +6,10 @@ A slowly growing dataset on worships.
 
 http://www.navypedia.org/ships_index.htm
 
+https://threedecks.org/index.php?display_type=ships_search
+
+https://felipe.mbnet.fi/index.html
+
 https://en.wikipedia.org/
 
 http://www.gwpda.org/naval/brassey/b1901o04.htm
@@ -22,7 +26,6 @@ http://www.navweaps.com/index_nathan/metalprpsept2009.php
 
 Ship History
 https://www.history.navy.mil/research/histories/ship-histories/danfs.html
-https://threedecks.org/index.php?display_type=ships_search
 http://3decks.pbworks.com/w/page/913970/FrontPage
 
 Submarines
