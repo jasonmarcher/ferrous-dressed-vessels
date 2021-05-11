@@ -21531,7 +21531,7 @@ sol-velasco-1764_san-genaro,sol-ulysse-1801,L'Ulysse,Bought,Auxiliary,1801-07-24
 sol-san-vicente-ferrer-1768_san-vicente-ferrer,sol-san-vicente-ferrer-1768,San Vicente Ferrer,Built,Sunk,1766-06-10,1768-04-22,1768-07-01,1797-02-17
 sol-san-vicente-ferrer-1768_san-nicolas-de-bari,sol-san-vicente-ferrer-1768,San Nicolas de Bari,Built,Captured,1767-05-01,1769-04-05,1769-03-01,1797-02-14
 sol-san-vicente-ferrer-1768_san-raphael,sol-san-vicente-ferrer-1768,San Raphael,Canceled,Sunk,1768-01-01,,,1769-01-01
-sol-san-vicente-ferrer-1768_san-nicolas-de-bari,,HMS San Nicolas,Captured,Auxiliary,1797-02-14,1797-02-14,1797-10-05,1798-08-01
+sol-san-vicente-ferrer-1768_san-nicolas-de-bari,sol-san-nicolas-1797,HMS San Nicolas,Captured,Auxiliary,1797-02-14,1797-02-14,1797-10-05,1798-08-01
 sol-san-carlos-1765_san-carlos,sol-san-carlos-1765,San Carlos,Built,Converted,1763-04-01,1765-04-30,1765-08-01,1801-01-01
 sol-san-carlos-1765_san-fernando,sol-san-carlos-1765,San Fernando,Built,Converted,1764-07-01,1765-07-29,1765-11-01,1798-01-01
 sol-san-carlos-1765_san-luis,sol-san-carlos-1765,San Luis,Built,Scrapped,1765-09-01,1767-09-30,1768-01-01,1789-01-01
@@ -21602,3 +21602,372 @@ sol-san-carlo-borromeo-1747_,sol-san-carlo-borromeo-1747,San Carlo Borromeo,Buil
 sol-san-carlo-borromeo-1747_vulcano,sol-san-carlo-borromeo-1747,Vulcano,Built,Captured,1790-01-01,1793-01-26,1793-04-01,1797-06-28
 sol-san-carlo-borromeo-1747_vulcano,sol-causse-1797,Le Causse,Captured,Captured,1797-06-28,,1797-06-28,1801-09-02
 sol-san-carlo-borromeo-1747_vulcano,sol-nimet-i-huda-1801,Nimet-i Huda,Captured,Unknown,1801-09-02,,1801-09-02,1801-10-01
+sf-prinses-frederika-louise-wilhelmina-1790_prinses-frederika-louise-wilhelmina,sf-prinses-frederika-louise-wilhelmina-1790,Prinses Frederika Louise Wilhelmina,Built,Captured,1789-01-01,1790-10-20,1790-12-01,1796-08-17
+sf-prinses-frederika-louise-wilhelmina-1790_prinses-frederika-louise-wilhelmina,sf-braave-1796,HMS Braave,Captured,Auxiliary,1796-08-17,1796-08-17,1796-12-22,1811-07-01
+sol-prins-frederik-willem-1788_prins-frederik-willem,sol-prins-frederik-willem-1788,Prins Frederik Willem,Built,Captured,1786-01-01,1788-01-01,1788-03-01,1797-10-11
+sol-prins-frederik-willem-1788_prins-frederik-willem,sol-gelikheid-1797,HMS Gelikheid,Captured,Auxiliary,1797-10-11,1797-10-11,1798-01-08,1807-05-01
+sol-prinses-louisa-1769_prinses-louisa,sol-prinses-louisa-1769,Prinses Louisa,Built,Captured,1767-01-01,1769-01-01,1769-03-01,1799-08-28
+sol-prinses-louisa-1769_prinses-louisa,sol-broederschap-1799,HMS Broederschap,Captured,Scrapped,1799-08-28,1799-08-28,1800-05-24,1803-09-01
+sol-zevenwolden-1784_zevenwolden,sol-zevenwolden-1784,Zevenwolden,Built,Converted,1783-01-01,1784-01-01,1784-03-01,1795-01-01
+sol-zevenwolden-1784_zevenwolden,sf-mars-1795,Mars,Converted,Captured,1795-01-01,,1795-01-01,1799-08-30
+sol-zevenwolden-1784_zevenwolden,sf-vleiter-1799,HMS Vleiter,Captured,Converted,1799-08-30,,1799-08-30,1800-07-01
+sol-prins-willem-de-eerste-1785_prins-willem-de-eerste,sol-prins-willem-de-eerste-1785,Prins Willem de Eerste,Built,Scrapped,1782-08-01,1785-07-01,1785-09-01,1820-01-01
+sol-prins-frederik-1779_prins-frederik,sol-prins-frederik-1779,Prins Frederik,Built,Captured,1777-01-01,1779-06-15,1779-08-01,1796-08-17
+sol-prins-frederik-1779_prins-frederik,sol-prince-frederick-1796,HMS Prince Frederick,Captured,Converted,1796-08-17,,1796-08-17,1796-12-01
+sol-washington-1796_washington,sol-princess-of-orange-1799,HMS Princess of Orange,Captured,Auxiliary,1799-08-30,,1799-08-30,1806-01-01
+sol-pylades-1771_pylades,sol-pylades-1771,Pylades,Built,Unknown,1769-01-01,1771-01-01,1771-03-01,1779-01-01
+sol-pylades-1771_roma,sol-pylades-1771,Roma,Built,Unknown,1770-01-01,1772-01-01,1772-03-01,1779-01-01
+sol-taranto-1781_taranto,sol-taranto-1781,Taranto,Built,Unknown,1779-01-01,1781-01-01,1781-03-01,1785-01-01
+sol-taranto-1781_vesuvio,sol-taranto-1781,Vesuvio,Built,Unknown,1779-01-01,1781-01-01,1781-03-01,1798-01-01
+sol-partenope-1786_partenope,sol-partenope-1786,Partenope,Built,Sunk,1783-01-01,1786-01-01,1786-03-01,1799-01-01
+sol-ruggiero-1788_ruggiero,sol-ruggiero-1788,Ruggiero,Built,Unknown,1785-09-01,1788-09-15,1788-11-01,1790-01-01
+sol-ruggiero-1788_tancredi,sol-ruggiero-1788,Tancredi,Built,Unknown,1786-01-01,1789-01-01,1789-03-01,1799-01-01
+sol-ruggiero-1788_guiscardo,sol-ruggiero-1788,Guiscardo,Built,Unknown,1788-01-01,1791-01-01,1791-03-01,1799-01-01
+sol-ruggiero-1788_samnita,sol-ruggiero-1788,Samnita,Built,Scrapped,1789-01-01,1792-01-01,1792-03-01,1805-01-01
+sol-ruggiero-1788_archimede,sol-ruggiero-1788,Archimede,Built,Unknown,1792-01-01,1795-01-01,1795-03-01,1809-02-04
+sol-monarca-1850_monarca,sol-monarca-1850,Monarca,Built,Unknown,1847-01-01,1850-01-01,1850-03-01,1875-01-01
+sol-slava-ekateriny-1783_slava-ekateriny,sol-slava-ekateriny-1783,Slava Ekateriny,Built,Scrapped,1779-05-26,1783-09-16,1783-12-01,1794-01-01
+sol-slava-ekateriny-1783_sviatoi-pavel,sol-slava-ekateriny-1783,Sviatoi Pavel,Built,Scrapped,1780-07-09,1784-10-12,1784-12-01,1794-01-01
+sol-slava-ekateriny-1783_mariia-magdalina,sol-slava-ekateriny-1783,Mariia Magdalina,Built,Captured,1781-06-28,1785-05-16,1785-08-01,1787-09-13
+sol-slava-ekateriny-1783_alexander,sol-slava-ekateriny-1783,Alexander,Built,Sunk,1781-06-28,1786-04-11,1786-06-01,1786-09-24
+sol-slava-ekateriny-1783_sviatoi-vladimir,sol-slava-ekateriny-1783,Sviatoi Vladimir,Built,Scrapped,1780-07-09,1787-05-15,1787-08-01,1804-01-01
+sol-slava-ekateriny-1783_mariia-magdalina,sol-hudaverdi-1787,Huaverdi,Captured,Unknown,1787-09-13,,1787-09-13,1787-10-01
+sol-josif-ii-1787_josif-ii,sol-josif-ii-1787,Josif II,Built,Scrapped,1786-08-01,1787-06-15,1787-08-01,1800-01-01
+sol-aziia-1773_aziia,sol-aziia-1773,Aziia,Built,Scrapped,1772-08-19,1773-09-20,1775-06-01,1791-01-01
+sol-aziia-1773_amerika,sol-aziia-1773,Amerika,Built,Scrapped,1772-08-19,1773-09-20,1775-06-01,1791-01-01
+sol-aziia-1773_slava-rossii,sol-aziia-1773,Slava Rossii,Built,Sunk,1773-09-20,1774-05-18,1778-06-01,1780-10-23
+sol-aziia-1773_blagopoluchie,sol-aziia-1773,Blagopoluchie,Built,Scrapped,1773-09-20,1774-05-18,1778-01-01,1793-01-01
+sol-aziia-1773_khrabryi,sol-aziia-1773,Khrabryi,Built,Scrapped,1773-11-12,1774-05-21,1779-01-01,1796-01-01
+sol-aziia-1773_tvyordyi,sol-aziia-1773,Tvyordyi,Built,Scrapped,1773-09-20,1774-05-21,1778-06-01,1791-01-01
+sol-aziia-1773_sviatoi-nikolai,sol-aziia-1773,Sviatoi Nikolai,Built,Scrapped,1773-11-12,1774-05-21,1779-01-01,1790-01-01
+sol-aziia-1773_sviatoi-ianuarii,sol-aziia-1773,Sviatoi Ianuarii,Built,Scrapped,1776-12-01,1780-05-12,1780-07-10,1815-01-01
+sol-aziia-1773_ne-tron-menia,sol-aziia-1773,Ne Tron Menia,Built,Auxiliary,1776-12-01,1780-05-12,1780-07-01,1803-01-01
+sol-aziia-1773_sviatoi-georgii-pobedonosets,sol-aziia-1773,Sviatoi Georgii Pobedonosets,Built,Scrapped,1778-07-09,1780-09-16,1781-01-01,1808-01-01
+sol-aziia-1773_trekh-sviatitelei,sol-aziia-1773,Trekh Sviatitelei,Built,Scrapped,1778-08-27,1781-05-22,1781-08-01,1801-01-01
+sol-aziia-1773_vysheslav,sol-aziia-1773,Vysheslav,Built,Sunk,1778-08-27,1781-05-22,1782-07-01,1789-10-23
+sol-aziia-1773_sviatoslav,sol-aziia-1773,Sviatoslav,Built,Scrapped,1776-12-01,1781-05-22,1781-07-01,1800-01-01
+sol-aziia-1773_rodislav,sol-aziia-1773,Rodislav,Built,Sunk,1778-10-06,1782-05-21,1782-07-01,1789-10-24
+sol-aziia-1773_boleslav,sol-aziia-1773,Boleslav,Built,Training,1781-09-19,1783-05-16,1783-09-01,1813-01-01
+sol-aziia-1773_mecheslav,sol-aziia-1773,Mecheslav,Built,Scrapped,1781-09-19,1783-05-16,1783-09-01,1797-01-01
+sol-aziia-1773_panteleimon,sol-aziia-1773,Panteleimon,Built,Auxiliary,1784-09-07,1786-05-14,1787-07-01,1804-01-01
+sol-aziia-1773_severnyi-oryol,sol-aziia-1773,Severnyi Oryol,Built,Sunk,1786-05-11,1787-05-09,1787-08-01,1789-09-13
+sol-aziia-1773_prokhor,sol-aziia-1773,Prokhor,Built,Scrapped,1787-06-10,1788-05-07,1788-08-29,1797-01-01
+sol-aziia-1773_parmen,sol-aziia-1773,Parmen,Built,Scrapped,1788-08-28,1789-05-15,1789-08-01,1798-01-01
+sol-aziia-1773_nikanor,sol-aziia-1773,Nikanor,Built,Scrapped,1788-07-01,1789-05-16,1792-01-01,1797-01-01
+sol-aziia-1773_pimen,sol-aziia-1773,Pimen,Built,Scrapped,1788-07-01,1789-05-16,1792-01-01,1798-01-01
+sol-aziia-1773_filipp,sol-aziia-1773,Filipp,Built,Scrapped,1789-07-09,1790-05-22,1794-01-01,1803-01-01
+sol-aziia-1773_iona,sol-aziia-1773,Iona,Built,Auxiliary,1789-06-26,1790-05-22,1794-01-01,1801-01-01
+sol-aziia-1773_graf-orlov,sol-aziia-1773,Graf Orlov,Built,Converted,1790-07-14,1791-05-24,1791-07-01,1808-01-01
+sol-aziia-1773_evropa,sol-aziia-1773,Evropa,Built,Auxiliary,1791-07-19,1793-05-15,1794-01-01,1806-01-01
+sol-aziia-1773_aziia-ii,sol-aziia-1773,Aziia,Built,Sold,1794-09-21,1796-08-24,1797-01-01,1809-10-20
+sol-aziia-1773_pobeda,sol-aziia-1773,Pobeda,Built,Scrapped,1795-09-11,1797-05-26,1798-01-01,1816-01-01
+sol-aziia-1773_aziia-ii,sol-asie-1809,L'Asie,Bought,Scrapped,1809-10-20,,1809-10-20,1811-01-01
+sol-mariia-magdalina-1789_mariia-magdalina,sol-mariia-magdalina-1789,Mariia Magdalina,Built,Scrapped,1786-06-13,1789-04-12,1789-06-01,1803-01-01
+sol-bogoiavlenie-gospodne-1791_bogoiavlenie-gospodne,sol-bogoiavlenie-gospodne-1791,Mogoiavlenie Gospodne,Built,Scrapped,1789-03-15,1791-03-22,1791-05-01,1804-01-01
+sol-sviataia-troitsa-1791_sviataia-troitsa,sol-sviataia-troitsa-1791,Sviataia Troitsa,Built,Scrapped,1790-09-30,1791-05-06,1791-07-01,1806-01-01
+sol-sviatoi-pavel-1794_sviatoi-pavel,sol-sviatoi-pavel-1794,Sviatoi Pavel,Built,Scrapped,1791-11-20,1794-08-09,1795-01-01,1810-01-01
+sol-iaroslav-1784_vladislav,sol-iaroslav-1784,Vladislav,Built,Captured,1782-09-19,1784-05-12,1784-07-01,1788-07-17
+sol-iaroslav-1784_yaroslav,sol-iaroslav-1784,Yaroslav,Built,Scrapped,1783-01-13,1784-05-12,1784-07-01,1798-01-01
+sol-iaroslav-1784_vseslav,sol-iaroslav-1784,Vseslav,Built,Scrapped,1784-05-01,1785-05-13,1785-07-01,1798-01-01
+sol-iaroslav-1784_mstislav,sol-iaroslav-1784,Mstislav,Built,Auxiliary,1784-05-01,1785-05-13,1785-07-01,1805-01-01
+sol-iaroslav-1784_sviatoi-piotr,sol-iaroslav-1784,Sviatoi Piotr,Built,Auxiliary,1785-07-20,1786-05-14,1786-07-01,1803-01-01
+sol-iaroslav-1784_kir-ioann,sol-iaroslav-1784,Kir Ioann,Built,Scrapped,1785-06-20,1786-05-16,1786-07-01,1798-01-01
+sol-iaroslav-1784_sysoi-velikii,sol-iaroslav-1784,Sysoi Velikii,Built,Scrapped,1787-06-10,1788-05-07,1788-07-01,1804-01-01
+sol-iaroslav-1784_maksim-ispovednik,sol-iaroslav-1784,Maksim Ispovednik,Built,Scrapped,1787-06-10,1788-05-08,1788-07-01,1804-01-01
+sol-iaroslav-1784_boris,sol-iaroslav-1784,Boris,Built,Auxiliary,1788-07-01,1789-05-16,1789-07-01,1802-01-01
+sol-iaroslav-1784_gleb,sol-iaroslav-1784,Gleb,Built,Auxiliary,1788-07-25,1789-05-16,1789-07-01,1805-01-01
+sol-iaroslav-1784_piotr,sol-iaroslav-1784,Piotr,Built,Scrapped,1789-06-26,1790-05-22,1790-07-01,1821-01-01
+sol-iaroslav-1784_aleksei,sol-iaroslav-1784,Aleksei,Built,Converted,1789-06-26,1790-05-22,1790-07-01,1807-01-01
+sol-iaroslav-1784_pamiat,sol-iaroslav-1784,Pamiat Evstafii,Built,Converted,1790-07-14,1791-05-24,1791-07-01,1803-01-01
+sol-iaroslav-1784_evstafii,sol-iaroslav-1784,Isidor,Built,Auxiliary,1792-10-10,1795-01-01,1795-03-01,1809-01-01
+sol-iaroslav-1784_vsevolod,sol-iaroslav-1784,Vsevolod,Built,Sunk,1794-09-21,1796-08-24,1796-10-01,1808-08-26
+sol-iaroslav-1784_severnyi-oryol,sol-iaroslav-1784,Severnyi Oryol,Built,Scrapped,1794-09-21,1797-05-02,1797-07-01,1809-01-01
+sol-iaroslav-1784_iaroslav,sol-iaroslav-1784,Iaroslav,Built,Scrapped,1798-08-21,1799-05-22,1799-07-01,1813-01-01
+sol-iaroslav-1784_moskva,sol-iaroslav-1784,Moskva,Built,Sold,1798-08-21,1799-05-22,1799-07-01,1809-09-27
+sol-iaroslav-1784_vladislav,sol-vladislaff-1788,Vladislaff,Captured,Scrapped,1788-07-17,,1788-07-17,1819-01-01
+sol-iaroslav-1784_moskva,sol-mosou-1809,Le Moscou,Bought,Training,1809-09-27,,1809-09-27,1816-02-01
+sol-sviatoi-pyotr-1794_sviatoi-pyotr,sol-sviatoi-pyotr-1794,Sviatoi Pyotr,Built,Auxiliary,1794-02-03,1794-11-05,1794-12-01,1805-01-01
+sol-sviatoi-pyotr-1794_zakharii-i-elisavet,sol-sviatoi-pyotr-1794,Zakharii i Elisavet,Built,Scrapped,1794-03-18,1795-08-01,1795-09-01,1805-01-01
+sol-sviatoi-pyotr-1794_simion-i-anna,sol-sviatoi-pyotr-1794,Simion i Anna,Built,Auxiliary,1795-11-15,1797-07-19,1797-09-01,1805-01-01
+sol-sviatoi-pyotr-1794_sviatoi-mikhail,sol-sviatoi-pyotr-1794,Sviatoi Mikhail,Built,Auxiliary,1796-10-31,1798-06-20,1798-08-01,1804-01-01
+sol-sviatoi-pyotr-1794_mariia-magdalina-vtoraja,sol-sviatoi-pyotr-1794,Mariia Magdalina Vtoraja,Built,Auxiliary,1798-03-09,1799-08-07,1799-09-01,1807-01-01
+sol-sviatoi-pyotr-1794_tolskaya-bogoroditsa,sol-sviatoi-pyotr-1794,Tolskaya Bogoroditsa,Built,Sunk,1798-03-09,1799-08-07,1799-09-01,1804-12-08
+sol-sviatoi-pyotr-1794_sviataia-paraskeva,sol-sviatoi-pyotr-1794,Sviataia Paraskeva,Built,Sold,1798-11-04,1799-11-06,1799-12-01,1809-09-27
+sol-iagudiil-1800_iagudiil,sol-iagudiil-1800,Iagudiil,Built,Scrapped,1799-12-06,1800-11-17,1801-01-01,1812-01-01
+sol-varakhail-1800_varakhail,sol-varakhail-1800,Varakhail,Built,Scrapped,1798-11-06,1800-10-12,1800-12-01,1813-01-01
+sol-ratnyi-1802_ratnyi,sol-ratnyi-1802,Ratnyi,Built,Scrapped,1801-03-09,1802-11-22,1803-01-01,1826-01-01
+sol-pravyi-1804_pravyi,sol-pravyi-1804,Pravyi,Built,Auxiliary,1801-07-14,1804-07-10,1804-08-01,1825-01-01
+sol-anapa-1807_anapa,sol-anapa-1807,Anapa,Built,Auxiliary,1806-02-05,1807-07-30,1807-09-01,1825-01-01
+sol-anapa-1807_mariia,sol-anapa-1807,Mariia,Built,Auxiliary,1807-02-28,1808-11-12,1808-12-01,1825-01-01
+sol-anapa-1807_aziia,sol-anapa-1807,Aziia,Built,Auxiliary,1807-07-28,1810-08-05,1810-09-01,1825-01-01
+sol-anapa-1807_dmitrii-donskoi,sol-anapa-1807,Dmitrii Donskoi,Built,Auxiliary,1807-02-28,1810-11-06,1810-12-01,1825-01-01
+sol-anapa-1807_lesnoe,sol-anapa-1807,Lesnoe,Built,Auxiliary,1809-11-06,1811-07-01,1811-08-01,1825-01-01
+sol-anapa-1807_maksim-ispovednik,sol-anapa-1807,Maksim Ispovednik,Built,Auxiliary,1810-02-04,1812-06-09,1812-07-01,1826-01-01
+sol-anapa-1807_brien,sol-anapa-1807,Brien,Built,Auxiliary,1811-12-24,1813-11-01,1813-12-01,1826-01-01
+sol-anapa-1807_kulm,sol-anapa-1807,Kulm,Built,Auxiliary,1810-11-23,1813-11-04,1813-12-01,1826-01-01
+sol-anapa-1807_krasnoi,sol-anapa-1807,Krasnoi,Built,Auxiliary,1813-07-13,1816-05-16,1816-07-01,1827-01-01
+sol-anapa-1807_nikolai,sol-anapa-1807,Nikolai,Built,Auxiliary,1811-11-25,1816-06-16,1816-08-01,1827-01-01
+sol-anapa-1807_skoryi,sol-anapa-1807,Skoryi,Built,Auxiliary,1816-05-16,1818-05-08,1818-06-01,1829-01-01
+sol-poltava-1808_poltava,sol-poltava-1808,Poltava,Built,Auxiliary,1806-10-20,1808-06-20,1808-08-01,1825-01-01
+sol-poltava-1808_dvenadtsat-apostolov,sol-poltava-1808,Dvenadtsat Apostolov,Built,Auxiliary,1808-11-12,1811-05-31,1811-07-01,1825-01-01
+sol-poltava-1808_parizh,sol-poltava-1808,Parizh,Built,Auxiliary,1812-09-08,1814-11-22,1815-01-01,1827-01-01
+sol-nord-adler-1820_nord-adler,sol-nord-adler-1820,Nord Adler,Built,Scrapped,1817-05-21,1820-05-24,1820-07-01,1839-01-01
+sol-Imperator-frants-1821_Imperator-frants,sol-Imperator-frants-1821,Imperator Frants,Built,Scrapped,1818-05-08,1821-06-25,1821-08-01,1832-01-01
+sol-pimen-1823_pimen,sol-pimen-1823,Pimen,Built,Auxiliary,1822-05-26,1823-09-01,1823-10-01,1839-01-01
+sol-parmen-1823_parmen,sol-parmen-1823,Parmen,Built,Auxiliary,1822-04-27,1823-10-18,1823-12-01,1835-01-01
+sol-panteleimon-1824_panteleimon,sol-panteleimon-1824,Panteleimon,Built,Auxiliary,1823-10-17,1824-11-08,1824-12-01,1838-01-01
+sol-ioann-zlatoust-1825_ioann-zlatoust,sol-ioann-zlatoust-1825,Ioann Zlatoust,Built,Scrapped,1824-01-30,1825-09-07,1825-10-01,1841-01-01
+sol-derbent-1826_derbent,sol-derbent-1826,Derbent,Built,Auxiliary,1823-10-17,1826-09-23,1826-11-01,1836-01-01
+sol-varshava-1833_varshava,sol-varshava-1833,Varshava,Built,Scrapped,1832-03-30,1833-11-06,1833-12-01,1850-01-01
+sol-trekh-sviatitelei-1838_trekh-sviatitelei,sol-trekh-sviatitelei-1838,Trekh Sviatitelei,Built,Sunk,1835-12-29,1838-08-28,1838-10-01,1854-09-11
+sol-dvenadtsat-apostolov-1838_dvenadtsat-apostolov,sol-dvenadtsat-apostolov-1838,Dvenadtsat Apostolov,Built,Unknown,1838-10-01,1841-06-15,1841-08-01,1855-02-12
+sol-dvenadtsat-apostolov-183_parizh,sol-dvenadtsat-apostolov-1838,Parizh,Built,Sunk,1847-06-18,1849-10-23,1849-12-01,1855-08-28
+sol-dvenadtsat-apostolov-183_velikii-knyaz-konstantin,sol-dvenadtsat-apostolov-1838,Velikii Knyaz Konstantin,Built,Sunk,1850-05-07,1852-09-29,1852-11-01,1855-08-28
+sol-chesma-1783_ioann-krestitel,sol-chesma-1783,Ioann Krestitel,Built,Converted,1782-07-26,1783-06-09,1783-08-01,1803-01-01
+sol-chesma-1783_trekh-ierarkhov,sol-chesma-1783,Trekh Ierarkhov,Built,Scrapped,1782-06-26,1783-09-26,1783-12-01,1802-01-01
+sol-chesma-1783_rostislav,sol-chesma-1783,Rostislav,Built,Auxiliary,1782-07-02,1784-05-23,1784-08-01,1803-01-01
+sol-chesma-1783_saratov,sol-chesma-1783,Saratov,Built,Auxiliary,1784-02-22,1785-10-15,1785-12-01,1803-01-01
+sol-chesma-1783_sviatoi-ravnoapostolnyi-knyaz-vladimir,sol-chesma-1783,Sviatoi Ravnoapostolnyi Knyaz Vladimir,Built,Scrapped,1785-09-06,1788-08-02,1788-10-01,1802-01-01
+sol-chesma-1783_dvenadtsat-apostolov,sol-chesma-1783,Dvenadtsat Apostolov,Built,Scrapped,1785-05-15,1788-08-02,1788-10-01,1802-01-01
+sol-chesma-1783_sviatoi-evsevii,sol-chesma-1783,Sviatoi Evsevii,Built,Scrapped,1785-09-19,1789-05-13,1789-07-01,1808-01-01
+sol-chesma-1783_sviatoi-nikolai-chudotvorets,sol-chesma-1783,Sviatoi Nikolai Chudotvorets,Built,Converted,1785-09-19,1789-05-13,1789-07-01,1803-01-01
+sol-chesma-1783_rostislav-ii,sol-chesma-1783,Rostislav,Built,Scrapped,1811-12-27,1813-07-31,1813-10-01,1827-01-01
+sol-imperator-aleksandr-1827_imperator-aleksandr,sol-imperator-aleksandr-1827,Imperator Aleksandr,Built,Scrapped,1826-05-26,1827-10-13,1827-12-01,1854-01-01
+sol-imperator-aleksandr-1827_imperator-pyotr-i,sol-imperator-aleksandr-1827,Imperator Pyotr I,Built,Scrapped,1827-12-05,1829-05-02,1829-07-01,1863-01-05
+sol-imperator-aleksandr-1827_sviatoi-georgii-pobedonosets,sol-imperator-aleksandr-1827,Sviatoi Georgii Pobedonosets,Built,Scrapped,1828-12-15,1829-10-15,1829-12-01,1858-01-01
+sol-rossia-1839_rossia,sol-rossia-1839,Rossia,Built,Auxiliary,1836-02-11,1839-07-05,1839-09-01,1857-01-01
+sol-leiptsig-1816_leiptsig,sol-leiptsig-1816,Leiptsig,Built,Auxiliary,1814-08-07,1816-09-20,1816-12-01,1824-12-01
+sol-leiptsig-1816_tvyordyi,sol-leiptsig-1816,Tvyordyi,Built,Scrapped,1817-08-17,1819-09-05,1819-11-01,1828-01-01
+sol-fershampenuaz-1833_fershampenuaz,sol-fershampenuaz-1833,Fershampenuaz,Built,Scrapped,1831-01-01,1833-01-01,1833-03-01,1860-01-01
+sol-fershampenuaz-1833_tsar-konstantin,sol-fershampenuaz-1833,Tsar' Konstantin,Built,Converted,1835-01-01,1837-01-01,1837-03-01,1852-01-01
+sol-fershampenuaz-1833_vyborg,sol-fershampenuaz-1833,Vyborg,Built,Converted,1839-01-01,1841-01-01,1841-03-01,1852-01-01
+sol-iezekil-1826_iezekil,sol-iezekil-1826,Iezekil,Built,Auxiliary,1824-01-01,1826-01-01,1826-03-01,1842-01-01
+sol-iezekil-1826_azov,sol-iezekil-1826,Azov,Built,Scrapped,1824-01-01,1826-01-01,1826-03-01,1831-01-01
+sol-iezekil-1826_aleksandr-nevskil,sol-iezekil-1826,Aleksandr Nevskii,Built,Converted,1824-01-01,1826-01-01,1826-03-01,1832-01-01
+sol-iezekil-1826_velikii-knyaz-mikhail,sol-iezekil-1826,Velikii Knyaz Mikhail,Built,Auxiliary,1825-01-01,1827-01-01,1827-03-01,1860-01-01
+sol-iezekil-1826_katsbhakh,sol-iezekil-1826,Katsbhakh,Built,Scrapped,1826-01-01,1828-01-01,1828-03-01,1857-01-01
+sol-iezekil-1826_kui-m,sol-iezekil-1826,Kui'm,Built,Scrapped,1826-01-01,1828-01-01,1828-03-01,1857-01-01
+sol-iezekil-1826_arsis,sol-iezekil-1826,Arsis,Built,Auxiliary,1826-01-01,1828-01-01,1828-03-01,1854-01-01
+sol-iezekil-1826_lesnoe,sol-iezekil-1826,Lesnoe,Built,Auxiliary,1827-01-01,1829-01-01,1829-03-01,1842-01-01
+sol-iezekil-1826_narva,sol-iezekil-1826,Narva,Built,Auxiliary,1827-01-01,1829-01-01,1829-03-01,1844-01-01
+sol-iezekil-1826_brien,sol-iezekil-1826,Brien,Built,Scrapped,1827-01-01,1829-01-01,1829-03-01,1860-01-01
+sol-iezekil-1826_borodino,sol-iezekil-1826,Borodino,Built,Auxiliary,1828-01-01,1830-01-01,1830-03-01,1847-01-01
+sol-iezekil-1826_krasnoi,sol-iezekil-1826,Krasnoi,Built,Auxiliary,1828-01-01,1830-01-01,1830-03-01,1844-01-01
+sol-iezekil-1826_berezino,sol-iezekil-1826,Berezino,Built,Scrapped,1828-01-01,1830-01-01,1830-03-01,1860-01-01
+sol-iezekil-1826_smolensk,sol-iezekil-1826,Smolensk,Built,Auxiliary,1828-01-01,1830-01-01,1830-03-01,1856-01-01
+sol-iezekil-1826_pamiat-azova,sol-iezekil-1826,Pamiat Azova,Built,Auxiliary,1829-01-01,1831-01-01,1831-03-01,1848-01-01
+sol-iezekil-1826_oryol,sol-iezekil-1826,Oryol,Built,Scrapped,1831-01-01,1833-01-01,1833-03-01,1848-01-01
+sol-iezekil-1826_ostrolenka,sol-iezekil-1826,Ostrolenka,Built,Auxiliary,1832-01-01,1834-01-01,1834-03-01,1848-01-01
+sol-iezekil-1826_leiptsig,sol-iezekil-1826,Leiptsig,Built,Auxiliary,1834-01-01,1836-01-01,1836-03-01,1850-01-01
+sol-iezekil-1826_retvizan,sol-iezekil-1826,Retvizan,Built,Auxiliary,1837-01-01,1839-01-01,1839-03-01,1852-01-01
+sol-iezekil-1826_finland,sol-iezekil-1826,Finland,Built,Scrapped,1838-01-01,1840-01-01,1840-03-01,1857-01-01
+sol-iezekil-1826_ingermanland,sol-iezekil-1826,Ingermanland,Built,Sunk,1840-01-01,1842-01-01,1841-03-01,1842-01-01
+sol-iezekil-1826_iezekil-ii,sol-iezekil-1826,Ingermanland,Built,Scrapped,1842-06-01,1844-01-01,1844-03-01,1857-01-01
+sol-iezekil-1826_narva-ii,sol-iezekil-1826,Narva,Built,Converted,1842-01-01,1844-01-01,1844-03-01,1855-01-01
+sol-iezekil-1826_pamiat-azova-ii,sol-iezekil-1826,Pamiat Azova,Built,Scrapped,1846-01-01,1848-01-01,1848-03-01,1857-01-01
+sol-iezekil-1826_sisoi-velikii,sol-iezekil-1826,Sisoi Velikii,Built,Converted,1847-01-01,1849-01-01,1849-03-01,1855-01-01
+sol-iezekil-1826_aleksandr-nevskil,sf-aleksandr-nevskii-1832,Aleksandr Nevskii,Converted,Auxiliary,1832-01-01,,1832-01-01,1846-01-01
+sol-iezekil-1826_narva-ii,sf-narva-1855,Narva,Converted,Scrapped,1855-01-01,,1855-01-01,1863-01-01
+sol-iezekil-1826_sisoi-velikii,sf-narva-1855,Sisoi Velikii,Converted,Scrapped,1855-01-01,,1855-01-01,1863-01-01
+sol-iezekil-1847_iezekil,sol-iezekil-1847,Iezekil,Built,Auxiliary,1845-01-01,1847-01-01,1847-03-01,1860-01-01
+sol-borodino-1850_borodino,sol-borodino-1850,Borodino,Built,Converted,1848-01-01,1850-01-01,1850-03-01,1855-01-01
+sol-borodino-1850_vilagosh,sol-borodino-1850,Vilagosh,Built,Converted,1849-01-01,1851-01-01,1851-03-01,1855-01-01
+sol-borodino-1850_borodino,sf-borodino-1855,Borodino,Converted,Scrapped,1855-01-01,,1855-01-01,1863-01-01
+sol-borodino-1850_vilagosh,sf-borodino-1855,Vilagosh,Converted,Scrapped,1855-01-01,,1855-01-01,1863-01-01
+sol-emmanuil-1824_emmanuil,sol-emmanuil-1824,Emmanuil,Built,Sold,1822-01-01,1824-01-01,1824-03-01,1830-01-01
+sol-emmanuil-1824_emmanuil,sol-emmanuil-1830,Emmanuil,Bought,Scrapped,1830-01-01,,1830-01-01,1833-01-01
+gb-cymone-1825_cymone,gb-cymone-1825,Cymone,Bought,Sunk,1825-01-01,,1825-01-01,1825-11-10
+sf-hellas-1826_hellas,sf-hellas-1826,Hellas,Built,Sunk,1825-01-01,1826-01-01,1826-03-01,1831-08-01
+sow-hydra-1831_hydra,sow-hydra-1831,Hydra,Bought,Sunk,1831-01-01,,1831-01-01,1831-08-01
+sow-psara-1830_psara,sow-psara-1830,Psara,Bought,Unknown,1830-01-01,,1830-01-01,1836-01-01
+sf-loudovikos-1838_loudovikos,sf-loudovikos-1838,Loudovikos,Built,Unknown,1836-01-01,1838-01-01,1838-03-01,1873-01-01
+sol-khrabryi-1808_khrabryi,sol-khrabryi-1808,Khrabryi,Built,Scrapped,1805-07-18,1808-07-01,1808-10-01,1829-01-01
+sol-vsevolod-1809_vsevolod,sol-vsevolod-1809,Vsevolod,Built,Auxiliary,1807-08-02,1809-05-10,1809-07-01,1820-01-01
+sol-vsevolod-1809_saratov,sol-vsevolod-1809,Saratov,Built,Sunk,1807-08-02,1809-05-19,1809-07-01,1812-10-30
+ssol-imperator-nikolay-i_imperator-nikolay-i,ssol-imperator-nikolay-i,Imperator Nikolay I,Built,Scrapped,1855-06-26,1860-05-18,1861-01-01,1874-01-26
+sol-pamiat-evstafii-1810_pamiat-evstafii,sol-pamiat-evstafii-1810,Pamiat Evstafii,Built,Scrapped,1810-01-15,1810-09-30,1810-12-01,1828-01-01
+sol-pamiat-evstafii-1810_chesma,sol-pamiat-evstafii-1810,Chesma,Built,Scrapped,1809-01-15,1811-05-24,1811-08-01,1828-01-01
+sol-pobedonosets-1809_pobedonosets,sol-pobedonosets-1809,Pobedonosets,Built,Auxiliary,1807-08-28,1809-05-09,1809-07-01,1822-01-01
+sol-smelyi-1808_smelyi,sol-smelyi-1808,Smelyi,Built,Scrapped,1806-07-01,1808-07-15,1808-09-01,1819-01-01
+sol-emgeiten-1822_emgeiten,sol-emgeiten-1822,Emgeiten,Built,Auxiliary,1820-11-20,1822-08-22,1822-11-01,1835-07-01
+sol-gavriil-1802_gavriil,sol-gavriil-1802,Gavriil,Built,Scrapped,1800-08-03,1802-10-30,1803-01-01,1819-01-01
+sol-seddulbahir-1799_seddulbahir,sol-seddulbahir-1799,Seddulbahir,Built,Captured,1797-01-01,1799-01-01,1799-03-01,1807-07-01
+sol-seddulbahir-1799_seddulbahir,sol-sedel-bakhr-1807,Sedel Bakhr,Captured,Sold,1807-07-01,,1807-07-01,1809-10-20
+sol-seddulbahir-1799_seddulbahir,sol-sed-el-bakhr-1809,Le Sed el Bahr,Bought,Scrapped,1809-10-20,,1809-10-20,1811-01-01
+sol-arkhangel-uriil-1802_arkhangel-uriil,sol-arkhangel-uriil-1802,Arkhangel Uriil,Built,Sold,1800-08-03,1802-08-16,1802-10-01,1809-10-20
+sol-arkhangel-uriil-1802_tvyordyi,sol-arkhangel-uriil-1802,Tvyordyi,Built,Scrapped,1802-08-16,1805-07-18,1805-09-01,1813-01-01
+sol-arkhangel-uriil-1802_arkhangel-uriil,sol-uriil-1809,L'Uriil,Bought,Scrapped,1809-10-20,,1809-10-20,1811-01-01
+sol-moshchnyi-1805_moshchnyi,sol-moshchnyi-1805,Moshchnyi,Built,Scrapped,1804-07-16,1805-07-17,1805-09-01,1817-01-01
+sol-skoryi-1805_skoryi,sol-skoryi-1805,Skoryi,Built,Sold,1802-08-16,1805-07-18,1805-09-01,1813-01-01
+sol-rafail-1802_rafail,sol-rafail-1802,Rafail,Built,Captured,1800-08-03,1802-08-06,1802-10-01,1808-01-01
+sol-blagodat-1800_blagodat,sol-blagodat-1800,Blagodat,Built,Auxiliary,1799-02-05,1800-08-03,1800-11-01,1812-01-01
+sol-zacatie-sviatoi-anny-1800_,sol-zacatie-sviatoi-anny-1800,Zacatie Sviatoi Anny,Built,Auxiliary,1799-02-25,1800-05-03,1800-06-01,1812-01-01
+sol-iaroslav-1784_sviatoi-piotr-ii,sol-iaroslav-1784,Sviatoi Piotr,Built,Sold,1798-11-12,1799-07-22,1799-09-01,1809-10-01
+sol-iaroslav-1784_sviatoi-piotr-ii,sol-mosou-1809,Le Saint Pierre,Bought,Auxiliary,1809-10-01,,1809-10-01,1813-10-01
+sol-elisaveta-1795_elisaveta,sol-elisaveta-1795,Elisaveta,Built,Scrapped,1788-11-22,1795-09-06,1795-11-01,1817-01-01
+sol-arkhistratig-mikhail-1800_,sol-arkhistratig-mikhail-1800,Arkhistratig Mikhail,Built,Scrapped,1798-01-01,1800-01-01,1800-03-01,1817-01-01
+sol-gangut-1825_gangut,sol-gangut-1825,Gangut,Built,Converted,1823-01-01,1825-01-01,1825-04-01,1854-01-01
+sol-gangut-1825_gangut,ssol-gangut-1854,Gangut,Converted,Training,1854-01-01,,1854-01-01,1862-01-01
+sol-krasnoi-1847_krasnoi,sol-krasnoi-1847,Krasnoi,Built,Scrapped,1845-01-01,1847-01-01,1847-03-01,1863-01-01
+sol-prokhor-1851_prokhor,sol-prokhor-1851,Prokhor,Built,Training,1849-01-01,1851-01-01,1851-03-01,1858-01-01
+sol-oryol-1851_oryol,sol-oryol-1851,Oryol,Canceled,Converted,1851-06-14,,,1853-08-01
+sol-oryol-1851_oryol,ssol-oryol-1854,Oryol,Converted,Scrapped,1853-08-01,1854-08-12,1856-01-01,1863-12-07
+sol-retvizan-1852_retvizan,sol-retvizan-1852,Retvizan,Canceled,Converted,1852-09-17,,,1854-09-17
+sol-retvizan-1852_retvizan,ssol-retvizan-1855,Retvizan,Converted,Converted,1854-09-17,1855-08-12,1858-01-01,1863-01-01
+sol-retvizan-1852_retvizan,sol-retvizan-1863,Retvizan,Converted,Target,1863-01-01,,1863-01-01,1874-01-01
+sol-imperatritsa-aleksandra-1827_imperatritsa-aleksandra,sol-imperatritsa-aleksandra-1827,Imperatritsa Aleksandra,Built,Scrapped,1825-01-01,1827-01-01,1827-06-01,1863-01-01
+sol-imperatritsa-aleksandra-1827_emgeiten,sol-imperatritsa-aleksandra-1827,Emgeiten,Built,Scrapped,1826-01-01,1828-01-01,1828-06-01,1858-01-01
+sol-imperatritsa-aleksandra-1827_poltava,sol-imperatritsa-aleksandra-1827,Poltava,Built,Scrapped,1827-01-01,1829-01-01,1829-06-01,1860-01-01
+sol-imperatritsa-aleksandra-1827_ne-tron-menia,sol-imperatritsa-aleksandra-1827,Ne Tron Menia,Built,Scrapped,1830-01-01,1832-01-01,1832-06-01,1863-01-01
+sol-imperatritsa-aleksandra-1827_vladimir,sol-imperatritsa-aleksandra-1827,Vladimir,Built,Auxiliary,1931-01-01,1833-01-01,1833-06-01,1860-01-01
+sol-imperatritsa-aleksandra-1827_vola,sol-imperatritsa-aleksandra-1827,Vola,Built,Converted,1835-10-23,1837-07-30,1839-01-01,1854-06-01
+sol-imperatritsa-aleksandra-1827_andrei,sol-imperatritsa-aleksandra-1827,Andrei,Built,Auxiliary,1942-01-01,1844-01-01,1844-06-01,1857-01-01
+sol-imperatritsa-aleksandra-1827_lefort,sol-imperatritsa-aleksandra-1827,Lefort,Built,Sunk,1833-01-01,1835-01-01,1835-06-01,1857-09-22
+sol-imperatritsa-aleksandra-1827_vola,ssol-vola-1856,Vola,Built,Training,1854-06-01,,1856-10-26,1871-08-26
+ssol-sinop-1858_bosfor,ssol-sinop-1858,Sinop,Built,Scrapped,1852-10-29,1858-09-26,1858-08-31,1874-01-26
+ssol-sinop-1858_tsesarevich,ssol-sinop-1858,Tsesarevich,Built,Scrapped,1853-08-01,1857-10-29,1858-10-12,1874-01-26
+sol-fershampenuaz-1833_tsar-konstantin,ssol-tsar-konstantin-1854,Tsar' Konstantin,Converted,Scrapped,1852-01-01,,1854-01-01,1864-02-08
+sol-fershampenuaz-1833_vyborg,ssol-tsar-konstantin-1854,Vyborg,Converted,Scrapped,1852-01-01,,1854-01-01,1863-01-01
+sol-imperatritsa-anna-1737_imperatritsa-anna,sol-imperatritsa-anna-1737,Imperatritsa Anna,Built,Scrapped,1732-05-09,1737-05-13,1737-10-01,1752-01-01
+sol-peleng-i-bahri-1777_peleng-i-bahri,sol-peleng-i-bahri-1777,Peleng-i Bahri,Built,Captured,1775-01-01,1777-01-01,1777-04-01,1790-09-09
+sol-peleng-i-bahri-1777_peleng-i-bahri,sol-ioann-predtecha-1790,Ioann Predtecha,Captured,Converted,1790-09-09,,1790-09-09,1800-01-01
+sol-kronprins-gustaf-adolf-1783_kronprins-gustaf-adolf,sol-kronprins-gustaf-adolf-1783,Omheten,Built,Captured,1782-09-01,1783-01-01,1783-03-01,1790-07-04
+sol-kronprins-gustaf-adolf-1783_faderneslandet,sol-kronprins-gustaf-adolf-1783,Faderneslandet,Built,Scrapped,1782-11-06,1783-03-31,1783-05-01,1864-01-01
+sol-kronprins-gustaf-adolf-1783_dygden,sol-kronprins-gustaf-adolf-1783,Dygden,Built,Sunk,1784-01-01,1784-07-06,1787-09-01,1793-09-29
+sol-kronprins-gustaf-adolf-1783_forsiktigheten,sol-kronprins-gustaf-adolf-1783,Forsiktigheten,Built,Scrapped,1784-08-28,1784-10-23,1784-12-01,1825-01-01
+sol-kronprins-gustaf-adolf-1783_manligheten,sol-kronprins-gustaf-adolf-1783,Manligheten,Built,Scrapped,1784-09-01,1785-01-01,1785-03-01,1864-01-01
+sol-kronprins-gustaf-adolf-1783_tapperhaten,sol-kronprins-gustaf-adolf-1783,Tapperhaten,Built,Scrapped,1785-01-01,1785-06-01,1785-08-01,1825-01-01
+sol-kronprins-gustaf-adolf-1783_dristigheten,sol-kronprins-gustaf-adolf-1783,Dristigheten,Built,Scrapped,1785-02-01,1785-07-09,1785-09-01,1869-01-01
+sol-kronprins-gustaf-adolf-1783_kronprins-gustaf-adolf,sol-emgeiten-1790,Emgeiten,Captured,Auxiliary,1790-07-04,,1790-07-04,1812-01-01
+sol-drottning-sofia-magdalena-1774_drottning-sofia-magdalena,sol-drottning-sofia-magdalena-1774,Drottning Sofia Magdalena,Built,Captured,1767-07-22,1774-07-22,1774-09-01,1790-07-03
+sol-drottning-sofia-magdalena-1774_drottning-sofia-magdalena,sol-sofia-magdalina-1790,Sofia Magdalina,Captured,Scrapped,1790-07-03,,1790-07-03,1805-01-01
+sol-finland-1735_finland,sol-finland-1735,Finland,Built,Scrapped,1731-01-01,1735-06-28,1735-09-01,1766-01-01
+sol-finland-1767_finland,sol-finland-1767,Finland,Built,Captured,1766-01-01,1767-01-01,1767-03-01,1790-07-04
+sol-finland-1767_finland,sol-finland-1790,Finland,Captured,Scrapped,1790-07-04,,1790-07-04,1794-01-01
+sol-prins-karl-1758_prins-karl,sol-prins-karl-1758,Prins Karl,Built,Captured,1755-08-18,1758-11-06,1759-02-01,1790-05-13
+sol-prins-karl-1758_prins-karl,sol-prints-karl-1790,Prints Karl,Captured,Scrapped,1790-05-13,,1790-05-13,1813-01-01
+sol-rattvisan-1783_rattvisan,sol-rattvisan-1783,Rattvisan,Built,Captured,1783-07-19,1783-09-02,1783-10-01,1790-07-03
+sol-rattvisan-1783_rattvisan,sol-retvizan-1790,Retvizan,Captured,Sold,1790-07-03,,1790-07-03,1813-01-01
+sol-prins-gustaf-1758_prins-gustaf,sol-prins-gustaf-1758,Prins Gustaf,Built,Captured,1756-08-02,1758-04-06,1758-06-01,1788-07-17
+sol-prins-gustaf-1758_prins-gustaf,sol-prints-gustav-1788,Prints Gustav,Captured,Sunk,1788-07-17,,1788-07-17,1798-11-04
+sol-ejder-basli-1778_ejder-basli,sol-ejder-basli-1778,Ejder Basli,Built,Captured,1776-01-01,1778-01-01,1778-03-01,1788-06-29
+sol-ejder-basli-1778_ejder-basli,sol-leontii-muchenik-1788,Leontii Muchenik,Captured,Scrapped,1788-06-29,,1788-06-29,1791-01-01
+sol-iziaslav-1784_iziaslav,sol-iziaslav-1784,Iziaslav,Built,Auxiliary,1782-09-19,1784-05-16,1784-06-01,1810-01-01
+sol-tsar-konstantin-1779_tsar-konstantin,sol-tsar-konstantin-1779,Tsar' Konstantin,Built,Scrapped,1770-04-24,1779-06-24,1779-08-01,1799-01-01
+sol-tsar-konstantin-1779_pobedoslav,sol-tsar-konstantin-1779,Pobedoslav,Built,Scrapped,1778-01-01,1782-01-01,1782-03-01,1804-01-01
+sol-tsar-konstantin-1779_sviataia-elena,sol-tsar-konstantin-1779,Sviataia Elena,Built,Sold,1781-01-01,1785-01-01,1785-03-01,1813-01-01
+sol-tsar-konstantin-1779_aleksandr-nevskii,sol-tsar-konstantin-1779,Aleksandr Nevskii,Built,Auxiliary,1783-01-01,1787-01-01,1787-03-01,1804-01-01
+sol-ioann-bogoslov-1783_ioann-bogoslov,sol-ioann-bogoslov-1783,Ioann Bogoslav,Built,Scrapped,1780-01-01,1783-01-01,1783-03-01,1791-01-01
+sol-sultan-makhmud-1836_sultan-makhmud,sol-sultan-makhmud-1836,Sultan Makhmud,Built,Scrapped,1835-02-01,1836-10-31,1837-01-01,1854-01-01
+sol-sultan-makhmud-1836_trekh-ierarkhov,sol-sultan-makhmud-1836,Trekh Ierarkhov,Built,Scrapped,1835-11-19,1838-08-28,1839-01-01,1854-01-01
+sol-sultan-makhmud-1836_arkhangel-gavriil,sol-sultan-makhmud-1836,Arkhangel Gavriil,Built,Sunk,1838-08-28,1839-11-19,1840-01-01,1854-09-11
+sol-sultan-makhmud-1836_selafail,sol-sultan-makhmud-1836,Selafail,Built,Sunk,1838-08-28,1840-07-10,1840-12-01,1854-09-11
+sol-sultan-makhmud-1836_uriil,sol-sultan-makhmud-1836,Uriil,Built,Sunk,1838-08-28,1840-10-31,1841-03-01,1854-09-11
+sol-sultan-makhmud-1836_varna,sol-sultan-makhmud-1836,Varna,Built,Sunk,1838-10-04,1842-07-26,1843-03-01,1854-09-11
+sol-sultan-makhmud-1836_iagudiil,sol-sultan-makhmud-1836,Iagudiil,Built,Sunk,1838-09-21,1839-09-17,1840-03-01,1855-08-28
+sol-sultan-makhmud-1836_sviatoslav,sol-sultan-makhmud-1836,Sviatoslav,Built,Auxiliary,1843-05-16,1845-11-07,1846-04-01,1854-01-01
+sol-rostislav-1844_rostislav,sol-rostislav-1844,Rostislav,Built,Sunk,1843-05-16,1844-11-01,1845-04-01,1855-02-13
+sol-khrabryi-1847_khrabryi,sol-khrabryi-1847,Khrabryi,Built,Sunk,1841-06-01,1847-06-25,1848-01-01,1855-08-28
+sol-khrabryi-1847_imperatritsa-maria,sol-khrabryi-1847,Imperatritsa Mariia,Built,Sunk,1849-04-23,1853-05-09,1853-08-01,1855-08-28
+sol-silistriia-1835_silistriia,sol-silistriia-1835,Silistriia,Built,Auxiliary,1833-05-01,1835-01-01,1835-03-01,1852-01-01
+sol-chesma-1849_chesma,sol-chesma-1849,Chesma,Built,Sunk,1842-07-26,1849-10-23,1880-04-01,1855-08-28
+ssol-tsesarevich-1857_tsesarevich,ssol-tsesarevich-1857,Tsesarevich,Built,Scrapped,1853-08-03,1857-10-29,1860-01-01,1874-01-26
+sol-imperatritsa-mariia-1827_imperatritsa-mariia,sol-imperatritsa-mariia-1827,Imperatritsa Mariia,Built,Auxiliary,1825-01-01,1827-01-01,1827-03-01,1843-01-01
+sol-imperatritsa-mariia-1827_chesma,sol-imperatritsa-mariia-1827,Chesma,Built,Auxiliary,1826-01-01,1828-01-01,1828-03-01,1841-01-01
+sol-imperatritsa-mariia-1827_anapa,sol-imperatritsa-mariia-1827,Anapa,Built,Auxiliary,1827-01-01,1829-01-01,1829-03-01,1845-01-01
+sol-pamyat-evstafii-1830_pamyat-evstafii,sol-pamyat-evstafii-1830,Pamyat Evstafii,Built,Auxiliary,1828-01-01,1830-01-01,1830-03-01,1845-01-01
+sol-andrianopol-1830_andrianopol,sol-andrianopol-1830,Andrianopol',Built,Auxiliary,1828-01-01,1830-01-01,1830-03-01,1845-01-01
+sol-imperatritsa-ekaterina-ii-1831_imperatritsa-ekaterina-ii,sol-imperatritsa-ekaterina-ii-1831,Imperatritsa Ekaterina II,Built,Auxiliary,1829-01-01,1831-01-01,1831-03-01,1845-01-01
+sol-sviatoi-velikomuchenik-isidor-1772_sviatoi-velikomuchenik-isidor,sol-sviatoi-velikomuchenik-isidor-1772,Sviatoi Velikomuchenik Isidor,Built,Scrapped,1769-09-28,1772-09-17,1772-12-01,1784-01-01
+sol-sviatoi-velikomuchenik-isidor-1772_sviatoi-velikomuchenik-panteleimon,sol-sviatoi-velikomuchenik-isidor-1772,Sviatoi Velikomuchenik Panteleimon,Built,Scrapped,1769-10-01,1772-10-01,1772-12-01,1784-01-01
+sol-iezekil-1773_iezekil,sol-iezekil-1773,Iezekil,Built,Scrapped,1770-06-01,1773-01-01,1773-03-01,1797-01-01
+sol-zakharii-i-elisavet-1747_zakharii-i-elisavet,sol-zakharii-i-elisavet-1747,Zakharii i Elisavet,Built,Scrapped,1745-05-26,1747-10-01,1748-01-01,1759-01-01
+sol-sviatoi-dmitrii-rostovskii-1758_sviatoi-dmitrii-rostovskii,sol-sviatoi-dmitrii-rostovskii-1758,Sviatoi Dmitrii Rostovskii,Built,Scrapped,1756-04-11,1758-06-12,1758-10-01,1772-01-01
+sol-sviatoi-pavel-1743_sviatoi-pavel,sol-sviatoi-pavel-1743,Sviatoi Pavel,Built,Scrapped,1741-09-02,1743-04-17,1743-06-01,1751-01-01
+sol-sviatoi-pavel-1743_ioann-zlatoust-pervyi,sol-sviatoi-pavel-1743,Ioann Zlatoust Pervyi,Built,Scrapped,1749-05-18,1751-09-08,1752-01-01,1769-01-01
+sol-sviatoi-pavel-1743_sviatoi-nikolai,sol-sviatoi-pavel-1743,Sviatoi Nikolai,Built,Scrapped,1752-06-18,1754-09-12,1755-01-01,1769-01-01
+sol-sviatoi-pavel-1743_sviatoi-pavel-ii,sol-sviatoi-pavel-1743,Sviatoi Pavel,Built,Scrapped,1753-06-03,1755-07-10,1755-11-01,1769-01-01
+sol-sviatoi-pavel-1743_sviatoi-andrei-pervozvannyy,sol-sviatoi-pavel-1743,Sviatoi Andrei Pervozvannyy,Built,Scrapped,1756-08-01,1758-05-20,1758-10-01,1780-01-01
+sol-sviatoi-pavel-1743_sviatoi-kliment-papa-rimskii,sol-sviatoi-pavel-1743,Sviatoi Kliment Papa Rimskii,Built,Scrapped,1756-07-20,1758-09-28,1759-01-01,1780-01-01
+sol-sviatoi-pavel-1743_kir-ioann,sol-sviatoi-pavel-1743,Kir Ioann,Built,Scrapped,1759-01-11,1762-05-06,1762-09-01,1773-01-01
+sol-sviatoi-pavel-1743_sviataia-ekaterina,sol-sviatoi-pavel-1743,Sviataia Ekaterina,Built,Scrapped,1758-12-16,1762-05-06,1762-09-01,1773-01-01
+sol-sviatoi-pavel-1743_sviatoslav,sol-sviatoi-pavel-1743,Sviatoslav,Built,Sunk,1766-06-18,1769-05-07,1769-07-27,1770-09-27
+sol-sviatoi-pavel-1743_chesma,sol-sviatoi-pavel-1743,Chesma,Built,Scrapped,1766-06-13,1770-10-09,1771-02-01,1781-01-01
+sol-slava-rossii-1733_slava-rossii,sol-slava-rossii-1733,Slava Rossii,Built,Auxiliary,1731-01-28,1733-04-30,1733-06-01,1746-01-01
+sol-slava-rossii-1733_osnovanie-blagopoluchiia,sol-slava-rossii-1733,Osnovanie Blagopoluchiia,Built,Scrapped,1733-06-01,1735-05-29,1735-07-01,1752-01-01
+sol-slava-rossii-1733_severnyj-oryol,sol-slava-rossii-1733,Severnyj Oryol,Built,Scrapped,1733-10-04,1735-06-01,1735-07-01,1763-01-01
+sol-slava-rossii-1733_revel,sol-slava-rossii-1733,Revel,Built,Scrapped,1732-02-12,1735-06-28,1735-08-01,1752-01-01
+sol-slava-rossii-1733_ingermanland,sol-slava-rossii-1733,Ingermanland,Built,Scrapped,1733-06-14,1735-08-17,1735-09-01,1752-01-01
+sol-slava-rossii-1733_leferm,sol-slava-rossii-1733,Leferm,Built,Scrapped,1737-05-24,1739-05-10,1739-07-01,1756-01-01
+sol-slava-rossii-1733_generalissimus-rossiiskii,sol-slava-rossii-1733,Schastie,Built,Unknown,1740-07-11,1741-05-12,1741-06-01,1756-01-01
+sol-slava-rossii-1733_pravitelnitsa-rossiiskaia,sol-slava-rossii-1733,Blagopoluchie,Built,Scrapped,1740-06-13,1741-05-16,1741-06-01,1744-01-01
+sol-slava-rossii-1733_ioann,sol-slava-rossii-1733,Sviatoi Piotr,Built,Unknown,1740-11-04,1741-08-12,1741-09-01,1756-01-01
+sol-slava-rossii-1733_sviataia-ekaterina,sol-slava-rossii-1733,Sviataia Ekaterina,Built,Scrapped,1741-07-01,1742-06-16,1742-07-01,1756-01-01
+sol-slava-rossii-1733_fridemaker,sol-slava-rossii-1733,Fridemaker,Built,Scrapped,1741-07-07,1742-07-08,1742-08-01,1756-01-01
+sol-slava-rossii-1733_lesnoe,sol-slava-rossii-1733,Lesnoe,Built,Scrapped,1741-07-31,1743-05-05,1743-06-01,1759-01-01
+sol-slava-rossii-1733_poltava,sol-slava-rossii-1733,Poltava,Built,Scrapped,1741-08-05,1743-05-15,1743-06-01,1756-01-01
+sol-slava-rossii-1733_arkhangel-rafail,sol-slava-rossii-1733,Arkhangel Rafail,Built,Scrapped,1744-06-04,1745-05-15,1745-06-01,1759-01-01
+sol-slava-rossii-1733_sviataia-velikomuchenitsa-varvara,sol-slava-rossii-1733,Sviataia Velikomuchenitsa Varvara,Built,Scrapped,1743-05-03,1745-05-26,1745-07-01,1755-01-01
+sol-slava-rossii-1733_sviatoi-sergii,sol-slava-rossii-1733,Sviatoi Sergii,Built,Scrapped,1746-08-21,1747-08-26,1747-10-01,1763-01-01
+sol-slava-rossii-1733_sviatoi-aleksandr-nevskij,sol-slava-rossii-1733,Sviatoi Aleksandr Nevskij,Built,Scrapped,1747-10-01,1749-05-18,1749-07-01,1763-01-01
+sol-slava-rossii-1733_ioann-zlatoust-vtoroi,sol-slava-rossii-1733,Ioann Zlatoust Vtoroi,Built,Scrapped,1747-10-01,1749-05-18,1749-07-01,1759-01-01
+sol-slava-rossii-1733_arkhangel-uriil,sol-slava-rossii-1733,Arkhangel Uriil,Built,Scrapped,1748-08-28,1749-08-21,1749-10-01,1763-01-01
+sol-slava-rossii-1733_arkhangel-gavriil,sol-slava-rossii-1733,Arkhangel Gavriil,Built,Scrapped,1748-08-23,1749-09-13,1749-10-01,1763-01-01
+sol-slava-rossii-1733_moskva,sol-slava-rossii-1733,Moskva,Built,Sunk,1749-08-24,1750-04-19,1750-06-01,1758-09-26
+sol-slava-rossii-1733_ingermanland-ii,sol-slava-rossii-1733,Ingermanland,Built,Scrapped,1751-06-04,1752-04-30,1752-06-01,1765-01-01
+sol-slava-rossii-1733_poltava-ii,sol-slava-rossii-1733,Poltava,Built,Sunk,1753-04-15,1754-04-26,1754-06-01,1770-04-30
+sol-slava-rossii-1733_natalia,sol-slava-rossii-1733,Natalia,Built,Scrapped,1753-04-15,1754-04-26,1754-06-01,1771-01-01
+sol-slava-rossii-1733_revel-ii,sol-slava-rossii-1733,Revel,Built,Scrapped,1755-04-26,1756-05-12,1756-06-01,1771-01-01
+sol-astrakhan-1755_astrakhan,sol-astrakhan-1755,Astrakhan,Built,Sunk,1755-04-26,1756-05-12,1756-07-01,1761-11-10
+sol-slava-rossii-1733_rafail,sol-slava-rossii-1733,Rafail,Built,Scrapped,1757-04-29,1758-05-20,1758-07-01,1771-01-01
+sol-slava-rossii-1733_unnamed,sol-slava-rossii-1733,Unnamed,Built,Sunk,1757-04-29,1758-05-20,1758-07-01,1758-09-19
+sol-astrakhan-1755_moskva,sol-astrakhan-1755,Moskva,Built,Scrapped,1758-09-25,1760-04-25,1760-06-01,1771-01-01
+sol-astrakhan-1755_sviatoi-piotr,sol-astrakhan-1755,Sviatoi Piotr,Built,Sunk,1758-09-25,1760-04-25,1760-06-01,1764-08-04
+sol-astrakhan-1755_sviatoi-iakov,sol-astrakhan-1755,Sviatoi Iakov,Built,Scrapped,1760-05-25,1761-05-17,1761-07-01,1774-01-01
+sol-astrakhan-1755_sviatoi-aleksandr-nevskij,sol-astrakhan-1755,Sviatoi Aleksandr Nevskij,Built,Sunk,1760-07-03,1762-05-03,1762-06-01,1764-08-04
+sol-slava-rossii-1733_ne-tron-menia,sol-slava-rossii-1733,Ne Tron Menia,Built,Scrapped,1762-08-30,1763-05-20,1763-07-01,1775-09-07
+sol-slava-rossii-1733_severnyj-oryol,sol-slava-rossii-1733,Severnyj Oryol,Built,Scrapped,1762-07-20,1763-05-20,1763-07-01,1770-08-01
+sol-slava-rossii-1733_sviatoi-januarii,sol-slava-rossii-1733,Sviatoi Januarii,Built,Scrapped,1762-07-30,1763-08-20,1763-10-01,1775-01-01
+sol-slava-rossii-1733_sviatoi-evstafii-plakida,sol-slava-rossii-1733,Sviatoi Evstafii Plakida,Built,Sunk,1762-07-30,1763-08-20,1763-10-01,1770-06-24
+sol-slava-rossii-1733_tver,sol-slava-rossii-1733,Tver,Built,Scrapped,1762-08-20,1765-04-30,1765-06-01,1776-01-01
+sol-slava-rossii-1733_saratov,sol-slava-rossii-1733,Saratov,Built,Unknown,1762-08-20,1765-04-30,1765-06-01,1791-01-01
+sol-slava-rossii-1733_trekh-sviatitelei,sol-slava-rossii-1733,Trekh Sviatitelei,Built,Scrapped,1763-11-13,1765-04-30,1765-06-01,1775-01-01
+sol-slava-rossii-1733_trekh-ierarkhov,sol-slava-rossii-1733,Trekh Ierarkhov,Built,Unknown,1763-11-13,1765-06-30,1765-08-01,1791-01-01
+sol-slava-rossii-1733_rostislav,sol-slava-rossii-1733,Rostislav,Built,Unknown,1766-08-28,1768-05-13,1768-07-01,1791-01-01
+sol-slava-rossii-1733_evropa,sol-slava-rossii-1733,Evropa,Built,Unknown,1766-08-28,1768-05-13,1768-07-01,1791-01-01
+sol-slava-rossii-1733_vsevolod,sol-slava-rossii-1733,Vsevolod,Built,Sunk,1767-11-01,1769-05-07,1769-06-01,1779-03-08
+sol-slava-rossii-1733_sviatoi-georgii-pobedonosets,sol-slava-rossii-1733,Sviatoi Georgii Pobedonosets,Built,Scrapped,1769-05-28,1770-04-28,1770-06-01,1780-01-01
+sol-slava-rossii-1733_pamiat-evstafii,sol-slava-rossii-1733,Pamiat Evstafii,Built,Scrapped,1769-09-29,1770-05-03,1770-06-01,1791-01-01
+sol-slava-rossii-1733_pobeda,sol-slava-rossii-1733,Pobeda,Built,Unknown,1769-05-07,1770-05-03,1770-06-01,1791-01-01
+sol-slava-rossii-1733_graf-orlov,sol-slava-rossii-1733,Graf Orlov,Built,Scrapped,1769-05-07,1770-05-03,1770-06-01,1791-01-01
+sol-slava-rossii-1733_dimitrii-donskoi,sol-slava-rossii-1733,Dimitrii Donskoi,Built,Scrapped,1770-09-21,1771-05-17,1771-07-01,1791-01-01
+sol-slava-rossii-1733_vlacheslav,sol-slava-rossii-1733,Viacheslav,Built,Scrapped,1770-09-21,1771-05-17,1771-07-01,1784-01-01
+sol-slava-rossii-1733_viktor,sol-slava-rossii-1733,Viktor,Built,Scrapped,1769-11-24,1771-05-17,1771-07-01,1791-01-01
+sol-slava-rossii-1733_sviatoi-kniaz-vladimir,sol-slava-rossii-1733,Sviatoi Kniaz Vladimir,Built,Scrapped,1770-09-28,1771-08-28,1771-10-01,1791-01-01
+sol-slava-rossii-1733_sviatyk-zhen-mironosits,sol-slava-rossii-1733,Sviatyk Zhen Mironosits,Built,Scrapped,1769-05-28,1771-08-28,1771-10-01,1791-01-01
+sol-slava-rossii-1733_alexander-nevskii,sol-slava-rossii-1733,Alexander Nevskii,Built,Scrapped,1770-09-21,1772-05-01,1772-06-01,1784-01-01
+sol-slava-rossii-1733_preslava,sol-slava-rossii-1733,Preslava,Built,Scrapped,1771-11-01,1772-05-06,1772-06-01,1791-01-01
+sol-slava-rossii-1733_boris-i-gleb,sol-slava-rossii-1733,Boris i Gleb,Built,Scrapped,1771-09-01,1772-05-06,1772-06-01,1759-01-01
+sol-slava-rossii-1733_deris,sol-slava-rossii-1733,Deris,Built,Scrapped,1771-10-04,1772-05-19,1772-07-01,1791-01-01
+sol-slava-rossii-1733_ingermanland-iii,sol-slava-rossii-1733,Ingermanland,Built,Scrapped,1771-11-01,1773-05-14,1773-07-01,1784-01-01
+sol-slava-rossii-1733_spiridon,sol-slava-rossii-1733,Spiridon,Built,Scrapped,1770-04-24,1779-06-24,1779-08-01,1791-01-01
+sol-david-selunskii-1779_david-selunskii,sol-david-selunskii-1779,David Selunskii,Built,Scrapped,1773-11-15,1779-06-24,1779-08-01,1786-01-01
+sol-pyotr-ii-1728_pyotr-ii,sol-pyotr-ii-1728,Pyotr II,Built,Scrapped,1724-03-10,1728-05-29,1728-07-01,1747-01-01
+sol-pyotr-ii-1728_vyborg,sol-pyotr-ii-1728,Vyborg,Built,Scrapped,1725-10-24,1729-10-19,1729-12-01,1739-01-01
+sol-pyotr-ii-1728_novaia-nadezhada,sol-pyotr-ii-1728,Novaia Nadezhada,Built,Auxiliary,1726-01-23,1730-06-09,1730-08-01,1742-01-01
+sol-pyotr-ii-1728_gorod-arkhangelsk,sol-pyotr-ii-1728,Gorod Arkhangelsk,Built,Scrapped,1734-06-02,1735-06-22,1735-08-01,1749-01-01
+sol-pyotr-ii-1728_severnaia-zvezda,sol-pyotr-ii-1728,Severnaia Zvezda,Built,Scrapped,1734-07-22,1735-07-15,1735-09-01,1749-01-01
+sol-pyotr-ii-1728_neptunus,sol-pyotr-ii-1728,Neptunus,Built,Unknown,1735-03-29,1736-06-29,1736-08-01,1752-01-01
+sol-pyotr-ii-1728_astrakhan,sol-pyotr-ii-1728,Astrakhan,Built,Unknown,1734-09-10,1736-10-31,1736-12-01,1752-01-01
+sol-pyotr-ii-1728_azov,sol-pyotr-ii-1728,Azov,Built,Scrapped,1734-03-24,1736-10-31,1736-12-01,1752-01-01
+sol-pyotr-ii-1728_sviatoi-andrei-pervozvannyy,sol-pyotr-ii-1728,Sviatoi Andrei Pervozvannyy,Built,Auxiliary,1735-09-10,1737-05-12,1737-07-01,1750-01-01
+sol-pyotr-ii-1728_kronshtadt,sol-pyotr-ii-1728,Kronshtadt,Built,Scrapped,1737-08-05,1738-05-21,1738-07-01,1755-01-01
+sol-pyotr-ii-1728_sviatoi-panteleimon,sol-pyotr-ii-1728,Sviatoi Panteleimon,Built,Scrapped,1739-05-03,1740-05-11,1740-06-01,1756-01-01
+sol-pyotr-ii-1728_sviatoi-isakii,sol-pyotr-ii-1728,Sviatoi Isakii,Built,Scrapped,1739-06-16,1740-05-18,1740-06-01,1763-01-01
+sol-pyotr-ii-1728_sviatoi-nikolai,sol-pyotr-ii-1728,Sviatoi Nikolai,Built,Auxiliary,1747-06-16,1748-05-08,1748-06-01,1757-01-01
+sol-pyotr-ii-1728_varakhail,sol-pyotr-ii-1728,Varakhail,Built,Sunk,1748-04-27,1749-05-15,1749-06-01,1749-06-07
+sol-pyotr-ii-1728_shlisselburg,sol-pyotr-ii-1728,Shlisselburg,Built,Scrapped,1749-08-24,1751-04-28,1751-06-01,1765-01-01
+sol-pyotr-ii-1728_varakhail-ii,sol-pyotr-ii-1728,Varakhail,Built,Scrapped,1751-06-04,1752-04-30,1752-06-01,1763-01-01
+sol-pyotr-ii-1728_neptunus-ii,sol-pyotr-ii-1728,Neptunus,Built,Scrapped,1757-04-29,1758-05-20,1758-07-01,1771-01-01
+sol-pyotr-ii-1728_gorod-arkhangelsk-ii,sol-pyotr-ii-1728,Gorod Arkhangelsk,Built,Scrapped,1760-05-25,1761-05-29,1761-07-01,1774-01-01
+sol-pyotr-ii-1728_aziia,sol-pyotr-ii-1728,Aziia,Built,Sunk,1764-02-27,1766-06-13,1768-07-01,1773-02-09
