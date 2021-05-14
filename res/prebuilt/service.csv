@@ -24110,16 +24110,16 @@ sf-speshnyi-1801_speshnyi,sf-speshnyi-1801,Speshnyi,russia,Active,Captured,1801-
 sf-speshnyi-1801_legkii,sf-speshnyi-1801,Legkii,russia,Active,Sold,1803-07-01,1809-10-20
 sf-speshnyi-1801_argus,sf-speshnyi-1801,Argus,russia,Active,Sunk,1807-08-01,1808-10-25
 sf-speshnyi-1801_bystryi,sf-speshnyi-1801,Bystryi,russia,Active,Auxiliary,1807-08-01,1820-01-01
-sf-merkurii-1815_merkurii,sf-merkurii-1815,Merkurii,russia,Active,Sold,1815-09-01,1817-01-01
-sf-merkurii-1815_legkii,sf-merkurii-1815,Legkii,russia,Active,Sold,1816-10-01,1818-01-01
-sf-merkurii-1815_patrikii,sf-merkurii-1815,Patrikii,russia,Active,Sold,1816-09-01,1817-08-17
-sf-speshnyi-1801_patrikii,sf-speshnyi-1801,Patrikii,russia,Active,Scrapped,1819-10-01,1827-01-01
+sf-speshnyi-1801_merkurii,sf-speshnyi-1801,Merkurii,russia,Active,Sold,1815-09-01,1817-01-01
+sf-speshnyi-1801_legkii-ii,sf-speshnyi-1801,Legkii,russia,Active,Sold,1816-10-01,1818-01-01
+sf-speshnyi-1801_patrikii,sf-speshnyi-1801,Patrikii,russia,Active,Sold,1816-09-01,1817-08-17
+sf-speshnyi-1801_patrikii-ii,sf-speshnyi-1801,Patrikii,russia,Active,Scrapped,1819-10-01,1827-01-01
 sf-speshnyi-1801_legkii,sow-corcyre-1809,La Corcyre,france,Active,Captured,1809-10-20,1811-11-27
-sf-merkurii-1815_merkurii,sf-mercurio-1817,Mercurio,spain,Active,Scrapped,1817-01-01,1820-01-01
-sf-merkurii-1815_legkii,sf-mercurio-1817,Ligeria,spain,Active,Sunk,1818-01-01,1822-01-01
-sf-merkurii-1815_patrikii,sf-mercurio-1817,Maria Isabel,spain,Active,Captured,1817-08-17,1818-10-20
-sf-merkurii-1815_patrikii,sf-o-higgins-1818,O'Higgins,chile,Active,Sold,1818-10-20,1826-04-01
-sf-merkurii-1815_patrikii,sf-buenos-aires-1826,Buenos Aires,argentina,Active,Sunk,1826-04-01,1826-07-01
+sf-speshnyi-1801_merkurii,sf-mercurio-1817,Mercurio,spain,Active,Scrapped,1817-01-01,1820-01-01
+sf-speshnyi-1801_legkii-ii,sf-mercurio-1817,Ligeria,spain,Active,Sunk,1818-01-01,1822-12-12
+sf-speshnyi-1801_patrikii,sf-mercurio-1817,Maria Isabel,spain,Active,Captured,1817-08-17,1818-10-20
+sf-speshnyi-1801_patrikii,sf-o-higgins-1818,O'Higgins,chile,Active,Sold,1818-10-20,1826-04-01
+sf-speshnyi-1801_patrikii,sf-buenos-aires-1826,Buenos Aires,argentina,Active,Sunk,1826-04-01,1826-07-01
 sow-ciervo-1795_ciervo,sow-ciervo-1795,Ciervo,spain,Active,Captured,1795-01-01,1801-01-01
 sow-ciervo-1795_ciervo,sow-cerf-1801,Le Cerf,france,Active,Captured,1801-12-15,1803-11-30
 sow-ciervo-1795_ciervo,sow-cerf-1803,HMS Cerf,britain,Active,Sold,1803-11-30,1806-08-27
@@ -24885,7 +24885,7 @@ sol-iaroslav-1784_vsevolod,sol-iaroslav-1784,Vsevolod,russia,Active,Sunk,1796-10
 sol-iaroslav-1784_severnyi-oryol,sol-iaroslav-1784,Severnyi Oryol,russia,Active,Scrapped,1797-07-01,1809-01-01
 sol-iaroslav-1784_iaroslav,sol-iaroslav-1784,Iaroslav,russia,Active,Scrapped,1799-07-01,1813-01-01
 sol-iaroslav-1784_moskva,sol-iaroslav-1784,Moskva,russia,Active,Sold,1799-07-01,1809-09-27
-sol-iaroslav-1784_vladislav,sol-vladislaff-1788,Vladislaff,sweden,Active,Scrapped,1788-07-17,1819-01-01
+sol-iaroslav-1784_vladislav,sol-vladislaff-1788,HSwMS Vladislaff,sweden,Active,Scrapped,1788-07-17,1819-01-01
 sol-iaroslav-1784_moskva,sol-mosou-1809,Le Moscou,france,Active,Training,1809-09-27,1816-02-01
 sol-sviatoi-pyotr-1794_sviatoi-pyotr,sol-sviatoi-pyotr-1794,Sviatoi Pyotr,russia,Active,Auxiliary,1794-12-01,1805-01-01
 sol-sviatoi-pyotr-1794_zakharii-i-elisavet,sol-sviatoi-pyotr-1794,Zakharii i Elisavet,russia,Active,Scrapped,1795-09-01,1805-01-01
@@ -25030,24 +25030,24 @@ sol-fershampenuaz-1833_vyborg,ssol-tsar-konstantin-1854,Vyborg,russia,Active,Scr
 sol-imperatritsa-anna-1737_imperatritsa-anna,sol-imperatritsa-anna-1737,Imperatritsa Anna,russia,Active,Scrapped,1737-10-01,1752-01-01
 sol-peleng-i-bahri-1777_peleng-i-bahri,sol-peleng-i-bahri-1777,Peleng-i Bahri,turkey,Active,Captured,1777-04-01,1790-09-09
 sol-peleng-i-bahri-1777_peleng-i-bahri,sol-ioann-predtecha-1790,Ioann Predtecha,russia,Active,Converted,1790-09-09,1800-01-01
-sol-kronprins-gustaf-adolf-1783_kronprins-gustaf-adolf,sol-kronprins-gustaf-adolf-1783,Omheten,sweden,Active,Captured,1783-03-01,1790-07-04
-sol-kronprins-gustaf-adolf-1783_faderneslandet,sol-kronprins-gustaf-adolf-1783,Faderneslandet,sweden,Active,Scrapped,1783-05-01,1864-01-01
-sol-kronprins-gustaf-adolf-1783_dygden,sol-kronprins-gustaf-adolf-1783,Dygden,sweden,Active,Sunk,1787-09-01,1793-09-29
-sol-kronprins-gustaf-adolf-1783_forsiktigheten,sol-kronprins-gustaf-adolf-1783,Forsiktigheten,sweden,Active,Scrapped,1784-12-01,1825-01-01
-sol-kronprins-gustaf-adolf-1783_manligheten,sol-kronprins-gustaf-adolf-1783,Manligheten,sweden,Active,Scrapped,1785-03-01,1864-01-01
-sol-kronprins-gustaf-adolf-1783_tapperhaten,sol-kronprins-gustaf-adolf-1783,Tapperhaten,sweden,Active,Scrapped,1785-08-01,1825-01-01
-sol-kronprins-gustaf-adolf-1783_dristigheten,sol-kronprins-gustaf-adolf-1783,Dristigheten,sweden,Active,Scrapped,1785-09-01,1869-01-01
+sol-kronprins-gustaf-adolf-1783_kronprins-gustaf-adolf,sol-kronprins-gustaf-adolf-1783,HSwMS Omheten,sweden,Active,Captured,1783-03-01,1790-07-04
+sol-kronprins-gustaf-adolf-1783_faderneslandet,sol-kronprins-gustaf-adolf-1783,HSwMS Faderneslandet,sweden,Active,Scrapped,1783-05-01,1864-01-01
+sol-kronprins-gustaf-adolf-1783_dygden,sol-kronprins-gustaf-adolf-1783,HSwMS Dygden,sweden,Active,Sunk,1787-09-01,1793-09-29
+sol-kronprins-gustaf-adolf-1783_forsiktigheten,sol-kronprins-gustaf-adolf-1783,HSwMS Forsiktigheten,sweden,Active,Scrapped,1784-12-01,1825-01-01
+sol-kronprins-gustaf-adolf-1783_manligheten,sol-kronprins-gustaf-adolf-1783,HSwMS Manligheten,sweden,Active,Scrapped,1785-03-01,1864-01-01
+sol-kronprins-gustaf-adolf-1783_tapperhaten,sol-kronprins-gustaf-adolf-1783,HSwMS Tapperhaten,sweden,Active,Scrapped,1785-08-01,1825-01-01
+sol-kronprins-gustaf-adolf-1783_dristigheten,sol-kronprins-gustaf-adolf-1783,HSwMS Dristigheten,sweden,Active,Scrapped,1785-09-01,1869-01-01
 sol-kronprins-gustaf-adolf-1783_kronprins-gustaf-adolf,sol-emgeiten-1790,Emgeiten,russia,Active,Auxiliary,1790-07-04,1812-01-01
-sol-drottning-sofia-magdalena-1774_drottning-sofia-magdalena,sol-drottning-sofia-magdalena-1774,Drottning Sofia Magdalena,sweden,Active,Captured,1774-09-01,1790-07-03
+sol-drottning-sofia-magdalena-1774_drottning-sofia-magdalena,sol-drottning-sofia-magdalena-1774,HSwMS Drottning Sofia Magdalena,sweden,Active,Captured,1774-09-01,1790-07-03
 sol-drottning-sofia-magdalena-1774_drottning-sofia-magdalena,sol-sofia-magdalina-1790,Sofia Magdalina,russia,Active,Scrapped,1790-07-03,1805-01-01
-sol-finland-1735_finland,sol-finland-1735,Finland,sweden,Active,Scrapped,1735-09-01,1766-01-01
-sol-finland-1767_finland,sol-finland-1767,Finland,sweden,Active,Captured,1767-03-01,1790-07-04
+sol-finland-1735_finland,sol-finland-1735,HSwMS Finland,sweden,Active,Scrapped,1735-09-01,1766-01-01
+sol-finland-1767_finland,sol-finland-1767,HSwMS Finland,sweden,Active,Captured,1767-03-01,1790-07-04
 sol-finland-1767_finland,sol-finland-1790,Finland,russia,Active,Scrapped,1790-07-04,1794-01-01
-sol-prins-karl-1758_prins-karl,sol-prins-karl-1758,Prins Karl,sweden,Active,Captured,1759-02-01,1790-05-13
+sol-prins-karl-1758_prins-karl,sol-prins-karl-1758,HSwMS Prins Karl,sweden,Active,Captured,1759-02-01,1790-05-13
 sol-prins-karl-1758_prins-karl,sol-prints-karl-1790,Prints Karl,russia,Active,Scrapped,1790-05-13,1813-01-01
-sol-rattvisan-1783_rattvisan,sol-rattvisan-1783,Rattvisan,sweden,Active,Captured,1783-10-01,1790-07-03
+sol-rattvisan-1783_rattvisan,sol-rattvisan-1783,HSwMS Rattvisan,sweden,Active,Captured,1783-10-01,1790-07-03
 sol-rattvisan-1783_rattvisan,sol-retvizan-1790,Retvizan,russia,Active,Sold,1790-07-03,1813-01-01
-sol-prins-gustaf-1758_prins-gustaf,sol-prins-gustaf-1758,Prins Gustaf,sweden,Active,Captured,1758-06-01,1788-07-17
+sol-prins-gustaf-1758_prins-gustaf,sol-prins-gustaf-1758,HSwMS Prins Gustaf,sweden,Active,Captured,1758-06-01,1788-07-17
 sol-prins-gustaf-1758_prins-gustaf,sol-prints-gustav-1788,Prints Gustav,russia,Active,Sunk,1788-07-17,1798-11-04
 sol-ejder-basli-1778_ejder-basli,sol-ejder-basli-1778,Ejder Basli,turkey,Active,Captured,1778-03-01,1788-06-29
 sol-ejder-basli-1778_ejder-basli,sol-leontii-muchenik-1788,Leontii Muchenik,russia,Active,Scrapped,1788-06-29,1791-01-01
@@ -25170,3 +25170,249 @@ sol-pyotr-ii-1728_varakhail-ii,sol-pyotr-ii-1728,Varakhail,russia,Active,Scrappe
 sol-pyotr-ii-1728_neptunus-ii,sol-pyotr-ii-1728,Neptunus,russia,Active,Scrapped,1758-07-01,1771-01-01
 sol-pyotr-ii-1728_gorod-arkhangelsk-ii,sol-pyotr-ii-1728,Gorod Arkhangelsk,russia,Active,Scrapped,1761-07-01,1774-01-01
 sol-pyotr-ii-1728_aziia,sol-pyotr-ii-1728,Aziia,russia,Active,Sunk,1768-07-01,1773-02-09
+sow-neva-1805_neva,sow-neva-1805,Neva,russia,Training,Reserve,1805-09-01,1820-01-01
+sow-neva-1805_neva,sow-neva-1805,Neva,russia,Reserve,Scrapped,1820-01-01,1829-01-01
+sf-geroi-1807_geroi,sf-geroi-1807,Geroi,russia,Active,Sunk,1807-07-01,1808-09-20
+sf-merkurii-1820_merkurii,sf-merkurii-1820,Merkurii,russia,Active,Scrapped,1820-07-01,1830-01-01
+sf-merkurii-1820_provornyi,sf-merkurii-1820,Provornyi,russia,Active,Scrapped,1820-12-01,1831-01-01
+sf-merkurii-1820_vestovoi,sf-merkurii-1820,Vestovoi,russia,Active,Sunk,1822-06-01,1827-03-01
+sf-merkurii-1820_konstantin,sf-merkurii-1820,Konstantin,russia,Active,Auxiliary,1824-07-01,1837-01-01
+sf-merkurii-1820_aleksandra,sf-merkurii-1820,Aleksandra,russia,Active,Scrapped,1826-02-01,1845-01-01
+sf-merkurii-1820_mariya,sf-merkurii-1820,Mariya,russia,Active,Auxiliary,1827-02-01,1847-01-01
+sf-merkurii-1820_olga,sf-merkurii-1820,Ol'ga,russia,Active,Scrapped,1827-02-01,1849-01-01
+sf-merkurii-1820_kniaginia-lovitch,sf-merkurii-1820,Kniaginia Lovitch,russia,Active,Auxiliary,1828-02-01,1837-01-01
+sf-merkurii-1820_elisaveta,sf-merkurii-1820,Elisaveta,russia,Active,Auxiliary,1828-02-01,1838-01-01
+sf-merkurii-1820_ekaterina,sf-merkurii-1820,Ekaterina,russia,Active,Scrapped,1828-02-01,1854-01-01
+sf-merkurii-1820_anna,sf-merkurii-1820,Anna,russia,Active,Auxiliary,1829-02-01,1838-01-01
+sf-merkurii-1820_prints-oranskii,sf-merkurii-1820,Prints Oranskii,russia,Active,Scrapped,1829-02-01,1858-01-01
+sf-merkurii-1820_neva,sf-merkurii-1820,Neva,russia,Active,Auxiliary,1829-02-01,1837-01-01
+sf-merkurii-1820_venus,sf-merkurii-1820,Venus,russia,Active,Auxiliary,1829-02-01,1852-01-01
+sf-merkurii-1820_bellona,sf-merkurii-1820,Bellona,russia,Active,Auxiliary,1830-02-01,1837-01-01
+sf-merkurii-1820_yunona,sf-merkurii-1820,Yunona,russia,Active,Auxiliary,1830-02-01,1845-01-01
+sf-merkurii-1820_pomona,sf-merkurii-1820,Pomona,russia,Active,Scrapped,1830-02-01,1848-01-01
+sf-merkurii-1820_tserera,sf-merkurii-1820,Tserera,russia,Active,Scrapped,1830-02-01,1859-01-01
+sf-merkurii-1820_kastor,sf-merkurii-1820,Kastor,russia,Active,Scrapped,1831-02-01,1865-01-01
+sf-merkurii-1820_amfitrida,sf-merkurii-1820,Amfitrida,russia,Active,Sunk,1832-02-01,1859-01-01
+sf-merkurii-1820_prozerpina,sf-merkurii-1820,Prozerpina,russia,Active,Scrapped,1831-02-01,1855-01-01
+sf-merkurii-1820_diana,sf-merkurii-1820,Diana,russia,Active,Auxiliary,1832-02-01,1850-01-01
+sf-merkurii-1820_aurora,sf-merkurii-1820,Aurora,russia,Active,Scrapped,1835-02-01,1861-01-01
+sf-merkurii-1820_melpomena,sf-merkurii-1820,Mel'pomena,russia,Active,Unknown,1836-02-01,1849-01-01
+sf-merkurii-1820_tsesarevich,sf-merkurii-1820,Tsesarevich,russia,Active,Auxiliary,1841-02-01,1858-01-01
+sf-merkurii-1820_tsesarevna,sf-merkurii-1820,Tsesarevna,russia,Active,Scrapped,1841-02-01,1858-01-01
+sf-merkurii-1820_konstantin-ii,sf-merkurii-1820,Konstantin,russia,Active,Scrapped,1844-02-01,1860-01-01
+sf-amfitrada-1808_amfitrida,sf-amfitrada-1808,Amfitrida,russia,Active,Scrapped,1808-08-01,1828-01-01
+sf-amfitrada-1808_arkhipelag,sf-amfitrada-1808,Arkhipelag,russia,Active,Scrapped,1811-11-01,1828-01-01
+sf-amfitrada-1808_avtroil,sf-amfitrada-1808,Avtroil,russia,Active,Sold,1811-11-01,1817-01-01
+sf-amfitrada-1808_argus,sf-amfitrada-1808,Argus,russia,Active,Scrapped,1813-10-01,1828-01-01
+sf-amfitrada-1808_diana,sf-amfitrada-1808,Diana,russia,Active,Scrapped,1818-07-01,1830-01-01
+sf-amfitrada-1808_avtroil-ii,sf-amfitrada-1808,Avtroil,russia,Active,Auxiliary,1819-08-01,1827-01-01
+sf-amfitrada-1808_legkii,sf-amfitrada-1808,Legkii,russia,Active,Auxiliary,1819-11-01,1827-01-01
+sf-kastor-1807_kastor,sf-kastor-1807,Kastor,russia,Active,Scrapped,1807-02-01,1817-01-01
+sf-kastor-1807_poluks,sf-kastor-1807,Poluks,russia,Active,Sunk,1807-02-01,1809-10-25
+sow-rossia-1814_neva,sow-rossia-1814,Neva,russia,Training,Reserve,1816-07-01,1826-01-01
+sow-rossia-1814_neva,sow-rossia-1814,Neva,russia,Reserve,Scrapped,1826-01-01,1830-01-01
+sow-rossia-1814_rossia,sow-rossia-1814,Rossia,russia,Training,Renamed,1814-08-01,1827-01-01
+sow-rossia-1814_rossia,sow-rossia-1814,Petergof,russia,Training,Auxiliary,1827-01-01,1830-01-01
+sf-venera-1808_venera,sf-venera-1808,Venera,russia,Active,Scrapped,1808-09-01,1819-01-01
+sf-sveaborg-1809_sveaborg,sf-sveaborg-1809,Sveaborg,russia,Active,Scrapped,1809-11-01,1828-01-01
+sf-poluks-1812_poluks,sf-poluks-1812,Poluks,russia,Active,Sunk,1812-07-01,1827-11-07
+sow-pomona-1817_pomona,sow-pomona-1817,Pomona,russia,Active,Scrapped,1817-09-01,1829-01-01
+sow-pomona-1817_pomoschnyi,sow-pomona-1817,Pomoschnyi,russia,Active,Sunk,1821-02-01,1829-01-01
+sf-provornyi-1816_provornyi,sf-provornyi-1816,Provornyi,russia,Active,Sold,1816-07-01,1818-10-12
+sf-provornyi-1816_pospeshnyi,sf-provornyi-1816,Pospeshnyi,russia,Active,Sold,1816-09-01,1818-10-12
+sf-provornyi-1816_gektor,sf-provornyi-1816,Gektor,russia,Active,Scrapped,1817-10-01,1828-01-01
+sf-provornyi-1816_kreiser,sf-provornyi-1816,Kreiser,russia,Active,Auxiliary,1821-07-01,1831-01-01
+sf-provornyi-1816_alexander-nevskii,sf-provornyi-1816,Alexander Nevskii,russia,Active,Scrapped,1821-09-01,1829-01-01
+sf-provornyi-1816_kastor,sf-provornyi-1816,Kastor,russia,Active,Scrapped,1823-07-01,1830-01-01
+sf-provornyi-1816_vind-khund,sf-provornyi-1816,Vind Khund,russia,Active,Scrapped,1823-06-01,1828-01-01
+sf-provornyi-1816_elena,sf-provornyi-1816,Elena,russia,Active,Auxiliary,1825-07-01,1835-01-01
+sf-provornyi-1816_provornyi,sf-viva-1818,Viva,spain,Active,Captured,1818-10-12,1828-01-01
+sf-provornyi-1816_pospeshnyi,sf-viva-1818,Pronta,spain,Active,Scrapped,1818-10-12,1822-11-23
+sf-amfitrada-1808_avtroil,sf-astrolabio-1818,Astrolabio,spain,Active,Scrapped,1818-02-21,1820-01-01
+sf-pallada-1832_pallada,sf-pallada-1832,Pallada,russia,Active,Sunk,1832-10-01,1856-01-01
+sf-pallada-1832_diana,sf-pallada-1832,Diana,russia,Active,Sunk,1853-02-01,1854-12-23
+sf-voin-1804_voin,sf-voin-1804,Voin,russia,Active,Unknown,1804-12-01,1821-01-01
+sf-voin-1804_afrika,sf-voin-1804,Afrika,russia,Active,Unknown,1811-07-01,1827-01-01
+sf-minerva-1811_minerva,sf-minerva-1811,Minerva,russia,Active,Auxiliary,1811-12-01,1825-01-01
+sf-vezul-1813_vezul,sf-vezul-1813,Vezul,russia,Active,Sunk,1813-12-01,1817-10-02
+sf-vezul-1813_speshnyi,sf-vezul-1813,Speshnyi,russia,Active,Scrapped,1813-12-01,1830-01-01
+sf-evstafii-1817_evstafii,sf-evstafii-1817,Evstafii,russia,Active,Unknown,1817-11-01,1837-01-01
+sf-flora-1818_flora,sf-flora-1818,Flora,russia,Active,Unknown,1818-06-01,1837-01-01
+sow-malyi-1819_malyi,sow-malyi-1819,Malyi,russia,Active,Scrapped,1820-02-01,1838-01-01
+sow-malyi-1819_pomoshchnyi,sow-malyi-1819,Pomoshchnyi,russia,Active,Sunk,1821-07-01,1829-05-22
+sow-malyi-1819_rossia,sow-malyi-1819,Rossia,russia,Active,Scrapped,1825-06-01,1838-01-01
+sf-pospeshnyi-1821_pospeshnyi,sf-pospeshnyi-1821,Pospeshnyi,russia,Active,Scrapped,1821-12-01,1839-01-01
+sf-shtandart-1824_shtandart,sf-shtandart-1824,Shtandart,russia,Active,Auxiliary,1824-07-01,1841-01-01
+sf-rafail-1828_rafail,sf-rafail-1828,Rafail,russia,Active,Captured,1828-02-01,1829-01-01
+sf-rafail-1828_rafail,sf-fazlullah-1829,Fazlullah,turkey,Active,Sunk,1829-01-01,1853-11-30
+sf-tenedos-1828_tenedos,sf-tenedos-1828,Tenedos,russia,Active,Auxiliary,1828-02-01,1842-01-01
+sf-tenedos-1828_erivan,sf-tenedos-1828,Erivan,russia,Active,Auxiliary,1829-02-01,1837-01-01
+sf-tenedos-1828_arkhipelag,sf-tenedos-1828,Arkhipelag,russia,Active,Auxiliary,1829-02-01,1838-01-01
+sf-tenedos-1828_varna,sf-tenedos-1828,Varna,russia,Active,Sunk,1830-02-01,1838-01-01
+sf-tenedos-1828_enos,sf-tenedos-1828,Enos,russia,Active,Auxiliary,1831-02-01,1845-01-01
+sf-tenedos-1828_burgas,sf-tenedos-1828,Burgas,russia,Active,Auxiliary,1832-02-01,1842-01-01
+sf-agatopol-1834_agatopol,sf-agatopol-1834,Agatopol',russia,Active,Scrapped,1834-02-01,1853-01-01
+sf-messemvriia-1840_messemvriia,sf-messemvriia-1840,Messemvriia,russia,Active,Sunk,1840-02-01,1855-01-01
+sf-sizopol-1841_sizopol,sf-sizopol-1841,Sizopol,russia,Active,Sunk,1841-02-01,1854-12-01
+sf-midiia-1843_midiia,sf-midiia-1843,Midiia,russia,Active,Sunk,1843-02-01,1855-01-01
+sf-kovarna-1845_kovarna,sf-kovarna-1845,Kovarna,russia,Active,Sunk,1845-02-01,1855-01-01
+sf-kulevchi-1847_kulevchi,sf-kulevchi-1847,Kulevchi,russia,Active,Sunk,1847-02-01,1855-01-01
+sf-brailov-1836_brailov,sf-brailov-1836,Brailov,russia,Active,Scrapped,1836-02-01,1851-01-01
+sf-flora-1839_flora,sf-flora-1839,Flora,russia,Active,Sunk,1839-02-01,1854-12-01
+sf-kagul-1843_kagul,sf-kagul-1843,Kagul,russia,Active,Auxiliary,1843-02-01,1854-01-01
+sow-malyi-1819_uraniya,sow-malyi-1819,Uraniya,russia,Training,Scrapped,1820-02-01,1838-01-01
+sow-malyi-1819_nadezhda,sow-malyi-1819,Nadezhda,russia,Training,Scrapped,1828-02-01,1845-01-01
+sow-malyi-1819_otvazhnost,sow-malyi-1819,Otvazhnost,russia,Training,Scrapped,1834-02-01,1858-01-01
+sow-vernost-1834_vernost,sow-vernost-1834,Vernost,russia,Active,Scrapped,1834-02-01,1858-01-01
+sow-vernost-1834_uspekh,sow-vernost-1834,Uspekh,russia,Active,Scrapped,1839-02-01,1855-01-01
+sow-vernost-1834_nadezhda,sow-vernost-1834,Nadezhda,russia,Active,Scrapped,1845-02-01,1855-01-01
+sf-pyotr-apostol-1788_pyotr-apostol,sf-pyotr-apostol-1788,Pyotr Apostol,russia,Active,Scrapped,1788-10-01,1799-01-01
+sf-pyotr-apostol-1788_ioann-bogoslov,sf-pyotr-apostol-1788,Ioann Bogoslov,russia,Active,Sunk,1788-10-01,1794-11-11
+sf-pyotr-apostol-1788_tsar-konstantin,sf-pyotr-apostol-1788,Tsar Konstantin,russia,Active,Sunk,1789-08-01,1798-10-14
+sf-pyotr-apostol-1788_fyodor-stratilat,sf-pyotr-apostol-1788,Fyodor Stratilat,russia,Active,Sunk,1790-06-01,1798-10-14
+sf-pyotr-apostol-1788_soshestvie-sviatogo-dukha,sf-pyotr-apostol-1788,Soshestvie Sviatogo Dukha,russia,Active,Scrapped,1791-06-01,1802-04-25
+sf-pyotr-apostol-1788_kazanskaya-bogoroditsa,sf-pyotr-apostol-1788,Kazanskaya Bogoroditsa,russia,Active,Scrapped,1791-09-01,1802-04-25
+sow-sviatoi-nikolai-belomorskii-1789_sviatoi-nikolai-belomorskii,sow-sviatoi-nikolai-belomorskii-1789,Sviatoi Nikolai Belomorskii,russia,Active,Scrapped,1789-01-01,1808-01-01
+sow-sviatoi-matvei-1792_sviatoi-matvei,sow-sviatoi-matvei-1792,Sviatoi Matvei,russia,Active,Scrapped,1792-01-01,1804-01-01
+sow-legkii-1793_legkii,sow-legkii-1793,Legkii,russia,Active,Scrapped,1793-12-01,1804-01-01
+sf-navarkhiia-1790_navarkhiia,sf-navarkhiia-1790,Navarkhiia,russia,Active,Scrapped,1790-02-01,1802-01-01
+sf-sviatoi-nikolai-1790_sviatoi-nikolai,sf-sviatoi-nikolai-1790,Sviatoi Nikolai,russia,Active,Sold,1790-10-01,1802-07-26
+sow-grigorii-velikiia-armenii-1788_grigorii-velikiia-armenii,sow-grigorii-velikiia-armenii-1788,Grigorii Velikiia Armenii,russia,Active,Unknown,1788-01-01,1806-01-01
+sf-ioann-zlatoust-1791_ioann-zlatoust,sf-ioann-zlatoust-1791,Ioann Zlatoust,russia,Active,Unknown,1791-09-01,1815-01-01
+sf-pospeshnyi-1793_pospeshnyi,sf-pospeshnyi-1793,Pospeshnyi,russia,Active,Sunk,1793-09-01,1800-10-09
+sf-schastlivyi-1793_schastlivyi,sf-schastlivyi-1793,Schastlivyii,russia,Active,Scrapped,1793-11-01,1805-01-01
+sf-sviatoi-mikhail-1796_sviatoi-mikhail,sf-sviatoi-mikhail-1796,Sviatoi Mikhail,russia,Active,Sold,1797-01-01,1809-10-20
+sf-nazaret-1800_nazaret,sf-nazaret-1800,Nazaret,russia,Active,Scrapped,1801-01-01,1813-01-01
+sf-krepkii-1801_krepkii,sf-krepkii-1801,Krepkii,russia,Active,Auxiliary,1802-01-01,1812-01-01
+sf-liliia-1806_liliia,sf-liliia-1806,Liliia,russia,Active,Unknown,1807-01-01,1821-01-01
+sf-apostolov-andrei-1786_apostolov-andrei,sf-apostolov-andrei-1786,Apostolov Andrei,russia,Active,Auxiliary,1786-06-01,1800-01-01
+sf-apostolov-andrei-1786_aleksandr-nevskii,sf-apostolov-andrei-1786,Aleksandr Nevskii,russia,Active,Unknown,1787-03-01,1799-01-01
+sf-kinburn-1786_kinburn,sf-kinburn-1786,Kinburn,russia,Active,Auxiliary,1786-01-01,1791-01-01
+sf-kinburn-1786_berislav,sf-kinburn-1786,Berislav,russia,Active,Scrapped,1786-01-01,1790-12-01
+sf-kinburn-1786_fanagoriia,sf-kinburn-1786,Fanagoriia,russia,Active,Scrapped,1786-01-01,1795-01-01
+sf-vestnik-1783_vestnik,sf-vestnik-1783,Vestnik,russia,Active,Converted,1783-01-01,1788-07-19
+sf-vestnik-1783_vestnik,bv-arkhangel-gavrill-1788,Arkhangel Gavrill,russia,Active,Scrapped,1788-07-19,1790-01-01
+sf-grigory-velikiia-armenii-1791_,sf-grigory-velikiia-armenii-1791,Grigory Velikiia Armenii,russia,Active,Auxiliary,1791-08-01,1804-01-01
+sf-sviatoi-antonii-1788_sviatoi-antonii,sf-sviatoi-antonii-1788,Sviatoi Antonii,russia,Active,Sunk,1788-01-01,1791-01-01
+sf-sviatoi-antonii-1788_sviatoi-feodosii,sf-sviatoi-antonii-1788,Sviatoi Feodosii,russia,Active,Unknown,1788-01-01,1791-01-01
+sow-sviatoi-sergei-chudotvorets-1788_sviatoi-sergei-chudotvorets,sow-sviatoi-sergei-chudotvorets-1788,Sviatoi Sergei Chudotvorets,russia,Active,Auxiliary,1788-01-01,1797-01-01
+sow-sviatoi-sergei-chudotvorets-1788_sviatoi-nikolai-chudotvorets,sow-sviatoi-sergei-chudotvorets-1788,Sviatoi Nikolai Chudotvorets,russia,Active,Unknown,1788-01-01,1790-01-01
+sf-sviatoi-georgy-pobedonosets-1785_,sf-sviatoi-georgy-pobedonosets-1785,Sviatoi Georgy Pobedonosets,russia,Active,Scrapped,1785-08-01,1801-01-01
+sf-taganrog-1785_taganrog,sf-taganrog-1785,Taganrog,russia,Active,Scrapped,1785-04-01,1795-01-01
+sf-vosmoi-1778_vosmoi,sf-vosmoi-1778,Vos'moi,russia,Active,Converted,1778-06-01,1787-08-01
+sf-vosmoi-1778_desiatyi,sf-vosmoi-1778,Desiatyi,russia,Active,Sunk,1779-06-01,1787-09-09
+sf-vosmoi-1778_deviatyi,sf-vosmoi-1778,Deviatyi,russia,Active,Converted,1779-06-01,1787-08-01
+sf-vosmoi-1778_odinnadtsatyi,sf-vosmoi-1778,Odinnadtsatyi,russia,Active,Scrapped,1779-06-01,1788-01-01
+sf-vosmoi-1778_trinadtsatyi,sf-vosmoi-1778,Trinadtsatyi,russia,Active,Scrapped,1782-10-01,1791-01-01
+sf-vosmoi-1778_dvenadtsatyi,sf-vosmoi-1778,Dvenadtsatyi,russia,Active,Scrapped,1782-10-01,1792-01-01
+sf-vosmoi-1778_piadnadtsatyi,sf-vosmoi-1778,Piadnadtsatyi,russia,Active,Auxiliary,1783-06-01,1791-01-01
+sf-vosmoi-1778_chetyrnadtsatyi,sf-vosmoi-1778,Chetyrnadtsatyi,russia,Active,Auxiliary,1783-06-01,1791-01-01
+sf-vosmoi-1778_shestnadtsatyi,sf-vosmoi-1778,Shestnadtsatyi,russia,Active,Auxiliary,1783-07-01,1800-01-01
+sf-piatyi-1774_piatyi,sf-piatyi-1774,Piatyi,russia,Active,Scrapped,1774-06-01,1785-01-01
+sf-piatyi-1774_shestoi,sf-piatyi-1774,Shestoi,russia,Active,Scrapped,1774-06-01,1785-01-01
+sf-piatyi-1774_sedmoi,sf-piatyi-1774,Sed'moi,russia,Active,Scrapped,1777-06-01,1790-01-01
+sf-tretyi-1773_tretyi,sf-tretyi-1773,Tretyi,russia,Active,Sunk,1773-06-01,1779-03-23
+sf-tretyi-1773_chetvertyi,sf-tretyi-1773,Chetvertyi,russia,Active,Scrapped,1773-06-01,1785-01-01
+sf-pervyi-1771_pervyi,sf-pervyi-1771,Pervyi,russia,Active,Sunk,1771-06-01,1775-11-30
+sf-pervyi-1771_vtoroi,sf-pervyi-1771,Vtoroi,russia,Active,Scrapped,1771-06-01,1783-01-01
+sf-feodosii-totemskii-1798_feodosii-totemskii,sf-feodosii-totemskii-1798,Feodosii Totemskii,russia,Active,Converted,1799-11-01,1809-01-01
+sf-feodosii-totemskii-1798_tikhvinskaya-bogoroditsa,sf-feodosii-totemskii-1798,Tikhvinskaya Bogoroditsa,russia,Active,Scrapped,1799-09-01,1819-01-01
+sf-biachislav-1785_biachislav,sf-biachislav-1785,Biachislav,russia,Active,Scrapped,1785-07-01,1804-01-01
+sf-biachislav-1785_arkhangel-gavrill,sf-biachislav-1785,Arkhangel Gavrill,russia,Active,Scrapped,1787-07-01,1799-01-01
+sf-biachislav-1785_pomoschchnyi,sf-biachislav-1785,Pomoschchnyi,russia,Active,Scrapped,1788-07-01,1799-01-01
+sf-biachislav-1785_kronshtadt,sf-biachislav-1785,Kronshtadt,russia,Active,Scrapped,1789-07-01,1789-05-15
+sf-biachislav-1785_arkhipelag,sf-biachislav-1785,Arkhipelag,russia,Active,Scrapped,1789-07-01,1809-01-01
+sf-biachislav-1785_revel,sf-biachislav-1785,Revel,russia,Active,Scrapped,1790-07-01,1805-01-01
+sf-biachislav-1785_narva,sf-biachislav-1785,Narva,russia,Active,Scrapped,1790-07-01,1815-01-01
+sf-biachislav-1785_riga,sf-biachislav-1785,Riga,russia,Active,Auxiliary,1790-07-01,1801-01-01
+sf-arkhangel-mikmail-1791_arkhangel-mikmail,sf-arkhangel-mikmail-1791,Arkhangel Mikhail,russia,Active,Sunk,1791-07-01,1796-10-25
+sf-arkhangel-mikmail-1791_arkhangel-rafail,sf-arkhangel-mikmail-1791,Arkhangel Rafail,russia,Active,Scrapped,1791-07-01,1804-01-01
+sf-arkhangel-mikmail-1791_schastivyii,sf-arkhangel-mikmail-1791,Schastlivyii,russia,Active,Sunk,1798-07-01,1810-01-01
+sf-emmanuil-1797_emmanuil,sf-emmanuil-1797,Emmanuil,russia,Active,Scrapped,1797-01-01,1825-01-01
+sow-emprenabl-1797_emprenabl,sow-emprenabl-1797,Emprenabl',russia,Active,Scrapped,1797-01-01,1800-01-01
+sf-pospeshnyi-1798_pospeshnyi,sf-pospeshnyi-1798,Pospeshnyi,russia,Active,Scrapped,1798-07-01,1809-01-01
+sf-kildyuin-1798_kildyuin,sf-kildyuin-1798,Kildyuin,russia,Active,Scrapped,1798-07-01,1813-01-01
+sf-pavel-1773_pavel,sf-pavel-1773,Pavel,russia,Active,Scrapped,1773-07-01,1791-01-01
+sf-pavel-1773_evstafii,sf-pavel-1773,Evstafii,russia,Active,Scrapped,1773-07-01,1793-01-01
+sf-pavel-1773_natalia,sf-pavel-1773,Natalia,russia,Active,Sunk,1773-07-01,1779-09-22
+sf-pavel-1773_legkii,sf-pavel-1773,Legkii,russia,Active,Scrapped,1773-09-01,1793-01-01
+sf-pavel-1773_schastlivyii,sf-pavel-1773,Schastlivyii,russia,Active,Scrapped,1774-09-01,1793-01-01
+sf-sviatoi-mikhail-1774_sviatoi-mikhail,sf-sviatoi-mikhail-1774,Sviatoi Mikhail,russia,Active,Scrapped,1774-07-01,1796-01-01
+sf-sviatoi-mikhail-1774_pospeshnyi,sf-sviatoi-mikhail-1774,Pospeshnyi,russia,Active,Scrapped,1774-09-01,1791-01-01
+sf-sviatoi-mikhail-1774_alexander,sf-sviatoi-mikhail-1774,Alexander,russia,Active,Scrapped,1778-07-01,1804-01-01
+sf-sviatoi-mikhail-1774_voin,sf-sviatoi-mikhail-1774,Voin,russia,Active,Converted,1778-07-01,1801-01-01
+sf-sviatoi-mikhail-1774_mariia,sf-sviatoi-mikhail-1774,Mariia,russia,Active,Scrapped,1778-07-01,1796-01-01
+sf-sviatoi-mikhail-1774_patrikii,sf-sviatoi-mikhail-1774,Patrikii,russia,Active,Auxiliary,1779-06-21,1801-01-01
+sf-sviatoi-mikhail-1774_simion,sf-sviatoi-mikhail-1774,Simion,russia,Active,Scrapped,1779-06-21,1803-01-01
+sf-sviatoi-mikhail-1774_slava,sf-sviatoi-mikhail-1774,Slava,russia,Active,Unknown,1781-07-01,1799-01-01
+sf-sviatoi-mikhail-1774_nadezhda,sf-sviatoi-mikhail-1774,Nadezhda,russia,Active,Scrapped,1781-07-01,1799-01-01
+sf-sviatoi-mikhail-1774_podrazhislav,sf-sviatoi-mikhail-1774,Podrazhislav,russia,Active,Unknown,1781-07-01,1796-01-01
+sf-sviatoi-mikhail-1774_vozmislav,sf-sviatoi-mikhail-1774,Voz'mislav,russia,Active,Sunk,1783-07-01,1788-08-01
+sf-sviatoi-mikhail-1774_premislav,sf-sviatoi-mikhail-1774,Premislav,russia,Active,Unknown,1785-07-01,1797-01-01
+sf-sviatoi-mikhail-1774_nadezhda-blagopoluchiia,sf-sviatoi-mikhail-1774,Nadezhda Blagopoluchiia,russia,Active,Unknown,1786-07-01,1798-01-01
+sow-gektor-1781_gektor,sow-gektor-1781,Gektor,russia,Active,Captured,1782-01-01,1788-06-27
+sow-gektor-1781_gektor,sow-hector-1788,HSwMS Hector,sweden,Active,Scrapped,1788-06-27,1818-01-01
+sf-mstislavets-1784_mstislavets,sf-mstislavets-1784,Mstislavets,russia,Active,Scrapped,1784-06-20,1793-01-01
+sf-iaroslavets-1784_iaroslavets,sf-iaroslavets-1784,Iaroslavets,russia,Training,Captured,1784-07-01,1788-06-01
+sf-iaroslavets-1784_iaroslavets,sf-iaroslavets-1784,Iaroslavets,russia,Active,Scrapped,1790-07-04,1799-01-01
+sf-iaroslavets-1784_iaroslavets,sf-jarislawitz-1788,HSwMS Jarislawitz,sweden,Active,Captured,1788-06-01,1790-07-04
+sow-riga-1784_riga,sow-riga-1784,Riga,russia,Active,Scrapped,1784-02-01,1791-01-01
+sf-gektor-1736_gektor,sf-gektor-1736,Gektor,russia,Active,Sunk,1736-07-01,1742-07-29
+sf-gektor-1736_voin,sf-gektor-1736,Voin,russia,Active,Scrapped,1737-07-01,1755-01-01
+sf-gektor-1736_kavaler,sf-gektor-1736,Kavaler,russia,Active,Scrapped,1737-08-01,1755-01-01
+sf-gektor-1736_merkurius,sf-gektor-1736,Merkurius,russia,Active,Sunk,1740-07-01,1743-09-13
+sf-gektor-1736_apollon,sf-gektor-1736,Apollon,russia,Active,Scrapped,1740-07-01,1756-01-01
+sf-gektor-1736_iagudiil,sf-gektor-1736,Iagudiil,russia,Active,Scrapped,1746-07-01,1760-01-01
+sf-gektor-1736_selafail,sf-gektor-1736,Selafail,russia,Active,Scrapped,1746-07-01,1760-01-01
+sf-gektor-1736_arkhangel-mikhail,sf-gektor-1736,Arkhangel Mikhail,russia,Active,Sunk,1748-07-01,1760-08-05
+sf-gektor-1736_kreiser,sf-gektor-1736,Kreiser,russia,Active,Scrapped,1751-06-01,1763-01-01
+sf-gektor-1736_rossia,sf-gektor-1736,Rossia,russia,Active,Scrapped,1754-06-01,1771-01-01
+sf-gektor-1736_vakhmeister,sf-gektor-1736,Vakhmeister,russia,Active,Sunk,1754-06-01,1757-10-03
+sf-gektor-1736_sviatoi-mikhail,sf-gektor-1736,Sviatoi Mikhail,russia,Active,Scrapped,1758-07-01,1771-01-01
+sf-gektor-1736_sviatoi-sergii,sf-gektor-1736,Sviatoi Sergii,russia,Active,Scrapped,1761-07-01,1771-01-01
+sf-gektor-1736_gremiashchii,sf-gektor-1736,Gremiashchii,russia,Active,Auxiliary,1762-07-01,1778-01-01
+sf-gektor-1736_nadezhda,sf-gektor-1736,Nadezhda,russia,Active,Unknown,1762-07-01,1780-01-01
+sf-gektor-1736_afrika,sf-gektor-1736,Afrika,russia,Active,Scrapped,1768-07-01,1790-01-01
+sf-sviatoi-fyodor-1762_sviatoi-fyodor,sf-sviatoi-fyodor-1762,Sviatoi Fyodor,russia,Active,Scrapped,1782-07-01,1774-01-01
+sf-nadezhda-blagopoluchiia-1764_,sf-nadezhda-blagopoluchiia-1764,Nadezhda Blagopoluchiia,russia,Active,Scrapped,1764-07-01,1774-01-01
+gb-vestovoi-1783_vestovoi,gb-vestovoi-1783,Vestovoi,russia,Active,Scrapped,1763-01-01,1776-01-01
+sow-sviatoi-aleksandr-1766_sviatoi-aleksandr,sow-sviatoi-aleksandr-1766,Sviatoi Aleksandr,russia,Training,Scrapped,1766-07-01,1774-01-01
+sow-vtoraia-ekaterina-1773_vtoraia-ekaterina,sow-vtoraia-ekaterina-1773,Vtoraia Ekaterina,russia,Active,Scrapped,1773-09-01,1782-01-01
+sow-pochtalon-1766_pochtalon,sow-pochtalon-1766,Pochtalon,russia,Active,Converted,1766-07-01,1788-01-01
+sow-pochtalon-1766_pochtalon,sow-pochtalon-1766,Nikita Muchenik,russia,Active,Scrapped,1790-01-01,1791-01-01
+sow-pochtalon-1766_pochtalon,bv-nikita-muchenik-1788,Nikita Muchenik,russia,Active,Converted,1788-01-01,1790-01-01
+sf-severnyi-oryol-1770_svernyi-oryol,sf-severnyi-oryol-1770,Severnyi Oryol,russia,Active,Auxiliary,1770-08-20,1780-01-01
+sow-paros-1770_paros,sow-paros-1770,Paros,russia,Active,Scrapped,1770-01-01,1790-01-01
+sow-pobeda-1770_pobeda,sow-pobeda-1770,Pobeda,russia,Active,Sunk,1770-01-01,1775-06-01
+sow-sviatoi-nikolai-1770_sviatoi-nikolai,sow-sviatoi-nikolai-1770,Sviatoi Nikolai,russia,Active,Scrapped,1770-02-21,1788-06-01
+sow-sviatoi-pavel-1770_sviatoi-pavel,sow-sviatoi-pavel-1770,Sviatoi Pavel,russia,Active,Scrapped,1770-01-01,1782-01-01
+sow-slava-1770_slava,sow-slava-1770,Slava,russia,Active,Sold,1770-01-01,1776-01-01
+gb-slava-georgiia-pobedonostsa-1789_slava-georgiia-pobedonostsa,gb-slava-georgiia-pobedonostsa-1789,Slava Georgiia Pobedonostsa,russia,Active,Unknown,1789-01-01,1791-01-01
+sow-konstantsiia-1773_konstantsiia,sow-konstantsiia-1773,Konstantsiia,russia,Active,Scrapped,1772-01-01,1787-01-01
+sow-ungariia-1775_ungariia,sow-ungariia-1775,Ungariia,russia,Active,Scrapped,1775-01-01,1796-01-01
+sow-pomoshchnyi-1772_pomoshchnyi,sow-pomoshchnyi-1772,Pomoshchnyi,russia,Active,Scrapped,1772-01-01,1783-01-01
+bv-iona-1788_iona,bv-iona-1788,Iona,russia,Active,Unknown,1788-08-01,1792-01-01
+sf-bellona-1782_bellona,sf-bellona-1782,HSwMS Bellona,sweden,Active,Scrapped,1782-12-01,1794-01-01
+sf-bellona-1782_minerva,sf-bellona-1782,HSwMS Minerva,sweden,Active,Sunk,1783-04-30,1789-01-01
+sf-bellona-1782_venus,sf-bellona-1782,HSwMS Venus,sweden,Active,Captured,1783-08-01,1789-06-01
+sf-bellona-1782_diana,sf-bellona-1782,HSwMS Diana,sweden,Active,Scrapped,1783-07-01,1802-01-01
+sf-bellona-1782_froja,sf-bellona-1782,HSwMS Froja,sweden,Active,Scrapped,1784-08-01,1813-01-01
+sf-bellona-1782_thetis,sf-bellona-1782,HSwMS Thetis,sweden,Active,Scrapped,1784-10-01,1795-01-01
+sf-bellona-1782_camilla,sf-bellona-1782,HSwMS Camilla,sweden,Active,Scrapped,1784-12-01,1798-01-01
+sf-bellona-1782_galatea,sf-bellona-1782,HSwMS Galatea,sweden,Active,Scrapped,1785-08-01,1812-01-01
+sf-bellona-1782_eurydice,sf-bellona-1782,HSwMS Eurydice,sweden,Active,Scrapped,1785-10-01,1806-01-01
+sf-bellona-1782_zemire,sf-bellona-1782,HSwMS Zemire,sweden,Active,Sunk,1785-11-01,1790-07-04
+sf-bellona-1782_venus,sf-venus-1789,Venus,russia,Active,Sold,1789-06-01,1808-01-01
+sf-bellona-1782_venus,sf-venere-1808,Venere,naples,Active,Unknown,1808-01-01,1812-04-01
+sf-voznesenie-gospodne-1790_voznesenie-gospodne,sf-voznesenie-gospodne-1790,Voznesenie Gospodne,russia,Active,Scrapped,1790-06-01,1802-05-01
+bv-filipp-1792_filipp,bv-filipp-1792,Filipp,russia,Active,Unknown,1792-01-01,1792-02-01
+sow-sviatatia-elena-1792_sviatatia-elena,sow-sviatatia-elena-1792,Sviatatia Elena,russia,Active,Converted,1792-01-01,1807-01-01
+sow-briun-1781_briun,sow-briun-1781,Le Briun,france,Active,Captured,1781-02-01,1799-03-01
+sf-legkii-1803_legkii,sf-legkii-1803,Legkii,russia,Active,Sold,1803-07-01,1809-01-01
+sf-mahubey-subham_mahubey-subham,sf-magubei-subkhan-1811,Magubei Subkhan,russia,Active,Scrapped,1811-07-24,1818-01-01
+sow-kamchatka-1817_kamchatka,sow-kamchatka-1817,Kamchatka,russia,Active,Unknown,1817-07-01,1828-01-01
+sow-kamchatka-1817_otkrytie,sow-kamchatka-1817,Otkrytie,russia,Active,Scrapped,1818-06-01,1828-01-01
+sow-kamchatka-1817_vostok,sow-kamchatka-1817,Vostok,russia,Active,Scrapped,1818-08-01,1828-01-01
+sow-bogemiia-1775_bogemiia,sow-bogemiia-1775,Bogemiia,russia,Active,Scrapped,1775-01-01,1796-01-01
+sf-arkhipelag-1770_arkipelag,sf-arkhipelag-1770,Arkhipelag,russia,Active,Sold,1770-01-01,1781-01-01
+sf-minerva-1771_minerva,sf-minerva-1771,Minerva,russia,Active,Sunk,1771-01-01,1774-07-30

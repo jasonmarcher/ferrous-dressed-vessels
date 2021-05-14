@@ -20918,16 +20918,16 @@ sf-speshnyi-1801_speshnyi,sf-speshnyi-1801,Speshnyi,Built,Captured,1800-03-10,18
 sf-speshnyi-1801_legkii,sf-speshnyi-1801,Legkii,Built,Sold,1800-10-18,1803-05-07,1803-07-01,1809-10-20
 sf-speshnyi-1801_argus,sf-speshnyi-1801,Argus,Built,Sunk,1806-06-30,1807-06-01,1807-08-01,1808-10-25
 sf-speshnyi-1801_bystryi,sf-speshnyi-1801,Bystryi,Built,Auxiliary,1805-12-16,1807-06-01,1807-08-01,1820-01-01
-sf-merkurii-1815_merkurii,sf-merkurii-1815,Merkurii,Built,Sold,1814-03-14,1815-07-13,1815-09-01,1817-01-01
-sf-merkurii-1815_legkii,sf-merkurii-1815,Legkii,Built,Sold,1815-02-24,1816-08-16,1816-10-01,1818-01-01
-sf-merkurii-1815_patrikii,sf-merkurii-1815,Patrikii,Built,Sold,1814-04-30,1816-06-21,1816-09-01,1817-08-17
-sf-speshnyi-1801_patrikii,sf-speshnyi-1801,Patrikii,Built,Scrapped,1818-02-18,1819-07-31,1819-10-01,1827-01-01
+sf-speshnyi-1801_merkurii,sf-speshnyi-1801,Merkurii,Built,Sold,1814-03-14,1815-07-13,1815-09-01,1817-01-01
+sf-speshnyi-1801_legkii-ii,sf-speshnyi-1801,Legkii,Built,Sold,1815-02-24,1816-08-16,1816-10-01,1818-01-01
+sf-speshnyi-1801_patrikii,sf-speshnyi-1801,Patrikii,Built,Sold,1814-04-30,1816-06-21,1816-09-01,1817-08-17
+sf-speshnyi-1801_patrikii-ii,sf-speshnyi-1801,Patrikii,Built,Scrapped,1818-02-18,1819-07-31,1819-10-01,1827-01-01
 sf-speshnyi-1801_legkii,sow-corcyre-1809,La Corcyre,Bought,Captured,1809-10-20,,1809-10-20,1811-11-27
-sf-merkurii-1815_merkurii,sf-mercurio-1817,Mercurio,Bought,Scrapped,1817-01-01,,1817-01-01,1820-01-01
-sf-merkurii-1815_legkii,sf-mercurio-1817,Ligeria,Bought,Sunk,1818-01-01,,1818-01-01,1822-01-01
-sf-merkurii-1815_patrikii,sf-mercurio-1817,Maria Isabel,Bought,Captured,1817-08-17,,1817-08-17,1818-10-20
-sf-merkurii-1815_patrikii,sf-o-higgins-1818,O'Higgins,Captured,Sold,1818-10-20,,1818-10-20,1826-04-01
-sf-merkurii-1815_patrikii,sf-buenos-aires-1826,Buenos Aires,Bought,Sunk,1826-04-01,,1826-04-01,1826-07-01
+sf-speshnyi-1801_merkurii,sf-mercurio-1817,Mercurio,Bought,Scrapped,1817-01-01,,1817-01-01,1820-01-01
+sf-speshnyi-1801_legkii-ii,sf-mercurio-1817,Ligeria,Bought,Sunk,1818-01-01,,1818-01-01,1822-12-12
+sf-speshnyi-1801_patrikii,sf-mercurio-1817,Maria Isabel,Bought,Captured,1817-08-17,,1817-08-17,1818-10-20
+sf-speshnyi-1801_patrikii,sf-o-higgins-1818,O'Higgins,Captured,Sold,1818-10-20,,1818-10-20,1826-04-01
+sf-speshnyi-1801_patrikii,sf-buenos-aires-1826,Buenos Aires,Bought,Sunk,1826-04-01,,1826-04-01,1826-07-01
 sow-ciervo-1795_ciervo,sow-ciervo-1795,Ciervo,Built,Captured,1794-01-01,,1795-01-01,1801-01-01
 sow-ciervo-1795_ciervo,sow-cerf-1801,Le Cerf,Bought,Captured,1801-12-15,,1801-12-15,1803-11-30
 sow-ciervo-1795_ciervo,sow-cerf-1803,HMS Cerf,Captured,Sold,1803-11-30,,1803-11-30,1806-08-27
@@ -21971,3 +21971,244 @@ sol-pyotr-ii-1728_varakhail-ii,sol-pyotr-ii-1728,Varakhail,Built,Scrapped,1751-0
 sol-pyotr-ii-1728_neptunus-ii,sol-pyotr-ii-1728,Neptunus,Built,Scrapped,1757-04-29,1758-05-20,1758-07-01,1771-01-01
 sol-pyotr-ii-1728_gorod-arkhangelsk-ii,sol-pyotr-ii-1728,Gorod Arkhangelsk,Built,Scrapped,1760-05-25,1761-05-29,1761-07-01,1774-01-01
 sol-pyotr-ii-1728_aziia,sol-pyotr-ii-1728,Aziia,Built,Sunk,1764-02-27,1766-06-13,1768-07-01,1773-02-09
+sow-neva-1805_neva,sow-neva-1805,Neva,Built,Scrapped,1800-10-09,1805-07-18,1805-09-01,1829-01-01
+sf-geroi-1807_geroi,sf-geroi-1807,Geroi,Built,Sunk,1806-06-30,1807-05-31,1807-07-01,1808-09-20
+sf-merkurii-1820_merkurii,sf-merkurii-1820,Merkurii,Built,Scrapped,1819-07-31,1820-05-31,1820-07-01,1830-01-01
+sf-merkurii-1820_provornyi,sf-merkurii-1820,Provornyi,Built,Scrapped,1820-01-20,1820-10-21,1820-12-01,1831-01-01
+sf-merkurii-1820_vestovoi,sf-merkurii-1820,Vestovoi,Built,Sunk,1821-09-01,1822-05-12,1822-06-01,1827-03-01
+sf-merkurii-1820_konstantin,sf-merkurii-1820,Konstantin,Built,Auxiliary,1823-07-18,1824-05-27,1824-07-01,1837-01-01
+sf-merkurii-1820_aleksandra,sf-merkurii-1820,Aleksandra,Built,Scrapped,1825-01-01,1826-01-01,1826-02-01,1845-01-01
+sf-merkurii-1820_mariya,sf-merkurii-1820,Mariya,Built,Auxiliary,1826-01-01,1827-01-01,1827-02-01,1847-01-01
+sf-merkurii-1820_olga,sf-merkurii-1820,Ol'ga,Built,Scrapped,1826-01-01,1827-01-01,1827-02-01,1849-01-01
+sf-merkurii-1820_kniaginia-lovitch,sf-merkurii-1820,Kniaginia Lovitch,Built,Auxiliary,1827-01-01,1828-01-01,1828-02-01,1837-01-01
+sf-merkurii-1820_elisaveta,sf-merkurii-1820,Elisaveta,Built,Auxiliary,1827-01-01,1828-01-01,1828-02-01,1838-01-01
+sf-merkurii-1820_ekaterina,sf-merkurii-1820,Ekaterina,Built,Scrapped,1827-01-01,1828-01-01,1828-02-01,1854-01-01
+sf-merkurii-1820_anna,sf-merkurii-1820,Anna,Built,Auxiliary,1828-01-01,1829-01-01,1829-02-01,1838-01-01
+sf-merkurii-1820_prints-oranskii,sf-merkurii-1820,Prints Oranskii,Built,Scrapped,1828-01-01,1829-01-01,1829-02-01,1858-01-01
+sf-merkurii-1820_neva,sf-merkurii-1820,Neva,Built,Auxiliary,1828-01-01,1829-01-01,1829-02-01,1837-01-01
+sf-merkurii-1820_venus,sf-merkurii-1820,Venus,Built,Auxiliary,1828-01-01,1829-01-01,1829-02-01,1852-01-01
+sf-merkurii-1820_bellona,sf-merkurii-1820,Bellona,Built,Auxiliary,1829-01-01,1830-01-01,1830-02-01,1837-01-01
+sf-merkurii-1820_yunona,sf-merkurii-1820,Yunona,Built,Auxiliary,1829-01-01,1830-01-01,1830-02-01,1845-01-01
+sf-merkurii-1820_pomona,sf-merkurii-1820,Pomona,Built,Scrapped,1829-01-01,1830-01-01,1830-02-01,1848-01-01
+sf-merkurii-1820_tserera,sf-merkurii-1820,Tserera,Built,Scrapped,1829-01-01,1830-01-01,1830-02-01,1859-01-01
+sf-merkurii-1820_kastor,sf-merkurii-1820,Kastor,Built,Scrapped,1830-01-01,1831-01-01,1831-02-01,1865-01-01
+sf-merkurii-1820_amfitrida,sf-merkurii-1820,Amfitrida,Built,Sunk,1831-01-01,1832-01-01,1832-02-01,1859-01-01
+sf-merkurii-1820_prozerpina,sf-merkurii-1820,Prozerpina,Built,Scrapped,1830-01-01,1831-01-01,1831-02-01,1855-01-01
+sf-merkurii-1820_diana,sf-merkurii-1820,Diana,Built,Auxiliary,1831-01-01,1832-01-01,1832-02-01,1850-01-01
+sf-merkurii-1820_aurora,sf-merkurii-1820,Aurora,Built,Scrapped,1834-01-01,1835-01-01,1835-02-01,1861-01-01
+sf-merkurii-1820_melpomena,sf-merkurii-1820,Mel'pomena,Built,Unknown,1835-01-01,1836-01-01,1836-02-01,1849-01-01
+sf-merkurii-1820_tsesarevich,sf-merkurii-1820,Tsesarevich,Built,Auxiliary,1840-01-01,1841-01-01,1841-02-01,1858-01-01
+sf-merkurii-1820_tsesarevna,sf-merkurii-1820,Tsesarevna,Built,Scrapped,1840-01-01,1841-01-01,1841-02-01,1858-01-01
+sf-merkurii-1820_konstantin-ii,sf-merkurii-1820,Konstantin,Built,Scrapped,1843-01-01,1844-01-01,1844-02-01,1860-01-01
+sf-amfitrada-1808_amfitrida,sf-amfitrada-1808,Amfitrida,Built,Scrapped,1806-10-11,1808-07-11,1808-08-01,1828-01-01
+sf-amfitrada-1808_arkhipelag,sf-amfitrada-1808,Arkhipelag,Built,Scrapped,1811-01-28,1811-09-17,1811-11-01,1828-01-01
+sf-amfitrada-1808_avtroil,sf-amfitrada-1808,Avtroil,Built,Sold,1811-01-28,1811-09-17,1811-11-01,1818-02-21
+sf-amfitrada-1808_argus,sf-amfitrada-1808,Argus,Built,Scrapped,1812-06-03,1813-08-26,1813-10-01,1828-01-01
+sf-amfitrada-1808_diana,sf-amfitrada-1808,Diana,Built,Scrapped,1816-07-12,1818-06-10,1818-07-01,1830-01-01
+sf-amfitrada-1808_avtroil-ii,sf-amfitrada-1808,Avtroil,Built,Auxiliary,1818-02-11,1819-07-01,1819-08-01,1827-01-01
+sf-amfitrada-1808_legkii,sf-amfitrada-1808,Legkii,Built,Auxiliary,1818-12-03,1819-10-16,1819-11-01,1827-01-01
+sf-kastor-1807_kastor,sf-kastor-1807,Kastor,Built,Scrapped,1806-01-01,1807-01-01,1807-02-01,1817-01-01
+sf-kastor-1807_poluks,sf-kastor-1807,Poluks,Built,Sunk,1806-01-01,1807-01-01,1807-02-01,1809-10-25
+sow-rossia-1814_neva,sow-rossia-1814,Neva,Built,Scrapped,1815-11-30,1816-05-18,1816-07-01,1830-01-01
+sow-rossia-1814_rossia,sow-rossia-1814,Rossia,Built,Auxiliary,1813-12-20,1814-06-23,1814-08-01,1830-01-01
+sf-venera-1808_venera,sf-venera-1808,Venera,Built,Scrapped,1807-07-01,1808-07-15,1808-09-01,1819-01-01
+sf-sveaborg-1809_sveaborg,sf-sveaborg-1809,Sveaborg,Built,Scrapped,1808-01-09,1809-09-18,1809-11-01,1828-01-01
+sf-poluks-1812_poluks,sf-poluks-1812,Poluks,Built,Sunk,1811-07-13,1812-06-04,1812-07-01,1827-11-07
+sow-pomona-1817_pomona,sow-pomona-1817,Pomona,Built,Scrapped,1816-07-12,1817-08-13,1817-09-01,1829-01-01
+sow-pomona-1817_pomoschnyi,sow-pomona-1817,Pomoschnyi,Built,Sunk,1820-01-01,1821-01-01,1821-02-01,1829-01-01
+sf-provornyi-1816_provornyi,sf-provornyi-1816,Provornyi,Built,Sold,1815-11-08,1816-05-26,1816-07-01,1818-10-12
+sf-provornyi-1816_pospeshnyi,sf-provornyi-1816,Pospeshnyi,Built,Sold,1815-09-22,1816-08-16,1816-09-01,1818-10-12
+sf-provornyi-1816_gektor,sf-provornyi-1816,Gektor,Built,Scrapped,1816-10-07,1817-09-01,1817-10-01,1828-01-01
+sf-provornyi-1816_kreiser,sf-provornyi-1816,Kreiser,Built,Auxiliary,1820-06-11,1821-05-18,1821-07-01,1831-01-01
+sf-provornyi-1816_alexander-nevskii,sf-provornyi-1816,Alexander Nevskii,Built,Scrapped,1820-09-01,1821-08-11,1821-09-01,1829-01-01
+sf-provornyi-1816_kastor,sf-provornyi-1816,Kastor,Built,Scrapped,1822-02-24,1823-05-22,1823-07-01,1830-01-01
+sf-provornyi-1816_vind-khund,sf-provornyi-1816,Vind Khund,Built,Scrapped,1822-02-01,1823-05-01,1823-06-01,1828-01-01
+sf-provornyi-1816_elena,sf-provornyi-1816,Elena,Built,Auxiliary,1824-07-05,1825-05-21,1825-07-01,1835-01-01
+sf-provornyi-1816_provornyi,sf-viva-1818,Viva,Bought,Captured,1818-10-12,,1818-10-12,1828-01-01
+sf-provornyi-1816_pospeshnyi,sf-viva-1818,Pronta,Bought,Scrapped,1818-10-12,,1818-10-12,1822-11-23
+sf-amfitrada-1808_avtroil,sf-astrolabio-1818,Astrolabio,Bought,Scrapped,1818-02-21,,1818-02-21,1820-01-01
+sf-pallada-1832_pallada,sf-pallada-1832,Pallada,Built,Sunk,1831-11-14,1832-09-13,1832-10-01,1856-01-01
+sf-pallada-1832_diana,sf-pallada-1832,Diana,Built,Sunk,1852-01-01,1853-01-01,1853-02-01,1854-12-23
+sf-voin-1804_voin,sf-voin-1804,Voin,Built,Unknown,1803-06-05,1804-10-26,1804-12-01,1821-01-01
+sf-voin-1804_afrika,sf-voin-1804,Afrika,Built,Unknown,1809-10-26,1811-06-03,1811-07-01,1827-01-01
+sf-minerva-1811_minerva,sf-minerva-1811,Minerva,Built,Auxiliary,1809-12-16,1811-10-29,1811-12-01,1825-01-01
+sf-vezul-1813_vezul,sf-vezul-1813,Vezul,Built,Sunk,1812-03-09,1813-11-01,1813-12-01,1817-10-02
+sf-vezul-1813_speshnyi,sf-vezul-1813,Speshnyi,Built,Scrapped,1812-03-09,1813-11-15,1813-12-01,1830-01-01
+sf-evstafii-1817_evstafii,sf-evstafii-1817,Evstafii,Built,Unknown,1815-05-16,1817-10-07,1817-11-01,1837-01-01
+sf-flora-1818_flora,sf-flora-1818,Flora,Built,Unknown,1816-02-18,1818-05-07,1818-06-01,1837-01-01
+sow-malyi-1819_malyi,sow-malyi-1819,Malyi,Built,Scrapped,1819-01-01,1820-01-01,1820-02-01,1838-01-01
+sow-malyi-1819_pomoshchnyi,sow-malyi-1819,Pomoshchnyi,Built,Sunk,1819-06-11,1821-05-18,1821-07-01,1829-05-22
+sow-malyi-1819_rossia,sow-malyi-1819,Rossia,Built,Scrapped,1824-02-24,1825-05-02,1825-06-01,1838-01-01
+sf-pospeshnyi-1821_pospeshnyi,sf-pospeshnyi-1821,Pospeshnyi,Built,Scrapped,1820-02-10,1821-11-02,1821-12-01,1839-01-01
+sf-shtandart-1824_shtandart,sf-shtandart-1824,Shtandart,Built,Auxiliary,1822-05-26,1824-05-31,1824-07-01,1841-01-01
+sf-rafail-1828_rafail,sf-rafail-1828,Rafail,Built,Captured,1827-01-01,1828-01-01,1828-02-01,1829-01-01
+sf-rafail-1828_rafail,sf-fazlullah-1829,Fazlullah,Captured,Sunk,1829-01-01,,1829-01-01,1853-11-30
+sf-tenedos-1828_tenedos,sf-tenedos-1828,Tenedos,Built,Auxiliary,1827-01-01,1828-01-01,1828-02-01,1842-01-01
+sf-tenedos-1828_erivan,sf-tenedos-1828,Erivan,Built,Auxiliary,1828-01-01,1829-01-01,1829-02-01,1837-01-01
+sf-tenedos-1828_arkhipelag,sf-tenedos-1828,Arkhipelag,Built,Auxiliary,1828-01-01,1829-01-01,1829-02-01,1838-01-01
+sf-tenedos-1828_varna,sf-tenedos-1828,Varna,Built,Sunk,1829-01-01,1830-01-01,1830-02-01,1838-01-01
+sf-tenedos-1828_enos,sf-tenedos-1828,Enos,Built,Auxiliary,1830-01-01,1831-01-01,1831-02-01,1845-01-01
+sf-tenedos-1828_burgas,sf-tenedos-1828,Burgas,Built,Auxiliary,1831-01-01,1832-01-01,1832-02-01,1842-01-01
+sf-agatopol-1834_agatopol,sf-agatopol-1834,Agatopol',Built,Scrapped,1833-01-01,1834-01-01,1834-02-01,1853-01-01
+sf-messemvriia-1840_messemvriia,sf-messemvriia-1840,Messemvriia,Built,Sunk,1839-01-01,1840-01-01,1840-02-01,1855-01-01
+sf-sizopol-1841_sizopol,sf-sizopol-1841,Sizopol,Built,Sunk,1840-01-01,1841-01-01,1841-02-01,1854-12-01
+sf-midiia-1843_midiia,sf-midiia-1843,Midiia,Built,Sunk,1842-01-01,1843-01-01,1843-02-01,1855-01-01
+sf-kovarna-1845_kovarna,sf-kovarna-1845,Kovarna,Built,Sunk,1844-01-01,1845-01-01,1845-02-01,1855-01-01
+sf-kulevchi-1847_kulevchi,sf-kulevchi-1847,Kulevchi,Built,Sunk,1846-01-01,1847-01-01,1847-02-01,1855-01-01
+sf-brailov-1836_brailov,sf-brailov-1836,Brailov,Built,Scrapped,1835-01-01,1836-01-01,1836-02-01,1851-01-01
+sf-flora-1839_flora,sf-flora-1839,Flora,Built,Sunk,1838-01-01,1839-01-01,1839-02-01,1854-12-01
+sf-kagul-1843_kagul,sf-kagul-1843,Kagul,Built,Auxiliary,1842-01-01,1843-01-01,1843-02-01,1854-01-01
+sow-malyi-1819_uraniya,sow-malyi-1819,Uraniya,Built,Scrapped,1819-01-01,1820-01-01,1820-02-01,1838-01-01
+sow-malyi-1819_nadezhda,sow-malyi-1819,Nadezhda,Built,Scrapped,1827-01-01,1828-01-01,1828-02-01,1845-01-01
+sow-malyi-1819_otvazhnost,sow-malyi-1819,Otvazhnost,Built,Scrapped,1833-01-01,1834-01-01,1834-02-01,1858-01-01
+sow-vernost-1834_vernost,sow-vernost-1834,Vernost,Built,Scrapped,1833-01-01,1834-01-01,1834-02-01,1858-01-01
+sow-vernost-1834_uspekh,sow-vernost-1834,Uspekh,Built,Scrapped,1838-01-01,1839-01-01,1839-02-01,1855-01-01
+sow-vernost-1834_nadezhda,sow-vernost-1834,Nadezhda,Built,Scrapped,1844-01-01,1845-01-01,1845-02-01,1855-01-01
+sf-pyotr-apostol-1788_pyotr-apostol,sf-pyotr-apostol-1788,Pyotr Apostol,Built,Scrapped,1783-12-23,1788-08-10,1788-10-01,1799-01-01
+sf-pyotr-apostol-1788_ioann-bogoslov,sf-pyotr-apostol-1788,Ioann Bogoslov,Built,Sunk,1787-12-23,1788-08-10,1788-10-01,1794-11-11
+sf-pyotr-apostol-1788_tsar-konstantin,sf-pyotr-apostol-1788,Tsar Konstantin,Built,Sunk,1788-07-20,1789-06-27,1789-08-01,1798-10-14
+sf-pyotr-apostol-1788_fyodor-stratilat,sf-pyotr-apostol-1788,Fyodor Stratilat,Built,Sunk,1788-07-20,1790-04-09,1790-06-01,1798-10-14
+sf-pyotr-apostol-1788_soshestvie-sviatogo-dukha,sf-pyotr-apostol-1788,Soshestvie Sviatogo Dukha,Built,Scrapped,1788-07-20,1791-04-04,1791-06-01,1802-04-25
+sf-pyotr-apostol-1788_kazanskaya-bogoroditsa,sf-pyotr-apostol-1788,Kazanskaya Bogoroditsa,Built,Scrapped,1789-10-16,1791-07-10,1791-09-01,1802-04-25
+sow-sviatoi-nikolai-belomorskii-1789_sviatoi-nikolai-belomorskii,sow-sviatoi-nikolai-belomorskii-1789,Sviatoi Nikolai Belomorskii,Bought,Scrapped,1789-01-01,,1789-01-01,1808-01-01
+sow-sviatoi-matvei-1792_sviatoi-matvei,sow-sviatoi-matvei-1792,Sviatoi Matvei,Bought,Scrapped,1792-01-01,,1792-01-01,1804-01-01
+sow-legkii-1793_legkii,sow-legkii-1793,Legkii,Built,Scrapped,1790-11-23,1793-10-02,1793-12-01,1804-01-01
+sf-navarkhiia-1790_navarkhiia,sf-navarkhiia-1790,Navarkhiia,Built,Scrapped,1789-01-01,1790-01-01,1790-02-01,1802-01-01
+sf-sviatoi-nikolai-1790_sviatoi-nikolai,sf-sviatoi-nikolai-1790,Sviatoi Nikolai,Built,Sold,1790-01-06,1790-08-25,1790-10-01,1802-07-26
+sow-grigorii-velikiia-armenii-1788_grigorii-velikiia-armenii,sow-grigorii-velikiia-armenii-1788,Grigorii Velikiia Armenii,Bought,Unknown,1788-01-01,,1788-01-01,1806-01-01
+sf-ioann-zlatoust-1791_ioann-zlatoust,sf-ioann-zlatoust-1791,Ioann Zlatoust,Built,Unknown,1790-07-01,1791-07-16,1791-09-01,1815-01-01
+sf-pospeshnyi-1793_pospeshnyi,sf-pospeshnyi-1793,Pospeshnyi,Built,Sunk,1791-10-06,1793-07-26,1793-09-01,1800-10-09
+sf-schastlivyi-1793_schastlivyi,sf-schastlivyi-1793,Schastlivyii,Built,Scrapped,1793-01-21,1793-09-18,1793-11-01,1805-01-01
+sf-sviatoi-mikhail-1796_sviatoi-mikhail,sf-sviatoi-mikhail-1796,Sviatoi Mikhail,Built,Sold,1795-11-06,1796-10-31,1797-01-01,1809-10-20
+sf-nazaret-1800_nazaret,sf-nazaret-1800,Nazaret,Built,Scrapped,1799-11-06,1800-10-12,1801-01-01,1813-01-01
+sf-krepkii-1801_krepkii,sf-krepkii-1801,Krepkii,Built,Auxiliary,1801-01-13,1801-11-10,1802-01-01,1812-01-01
+sf-liliia-1806_liliia,sf-liliia-1806,Liliia,Built,Unknown,1805-06-28,1806-10-30,1807-01-01,1821-01-01
+sf-apostolov-andrei-1786_apostolov-andrei,sf-apostolov-andrei-1786,Apostolov Andrei,Built,Auxiliary,1785-03-01,1786-04-13,1786-06-01,1800-01-01
+sf-apostolov-andrei-1786_aleksandr-nevskii,sf-apostolov-andrei-1786,Aleksandr Nevskii,Built,Unknown,1786-01-01,1787-01-01,1787-03-01,1799-01-01
+sf-kinburn-1786_kinburn,sf-kinburn-1786,Kinburn,Built,Auxiliary,1785-01-01,1786-01-01,1786-01-01,1791-01-01
+sf-kinburn-1786_berislav,sf-kinburn-1786,Berislav,Built,Scrapped,1785-01-01,1786-01-01,1786-01-01,1790-12-01
+sf-kinburn-1786_fanagoriia,sf-kinburn-1786,Fanagoriia,Built,Scrapped,1785-01-01,1786-01-01,1786-01-01,1795-01-01
+sf-vestnik-1783_vestnik,sf-vestnik-1783,Vestnik,Built,Converted,1783-01-01,,1783-01-01,1788-07-19
+sf-vestnik-1783_vestnik,bv-arkhangel-gavrill-1788,Arkhangel Gavrill,Converted,Scrapped,1788-07-19,,1788-07-19,1790-01-01
+sf-grigory-velikiia-armenii-1791_,sf-grigory-velikiia-armenii-1791,Grigory Velikiia Armenii,Built,Auxiliary,1790-09-30,1791-06-12,1791-08-01,1804-01-01
+sf-sviatoi-antonii-1788_sviatoi-antonii,sf-sviatoi-antonii-1788,Sviatoi Antonii,Converted,Sunk,1788-01-01,,1788-01-01,1791-01-01
+sf-sviatoi-antonii-1788_sviatoi-feodosii,sf-sviatoi-antonii-1788,Sviatoi Feodosii,Converted,Unknown,1788-01-01,,1788-01-01,1791-01-01
+sow-sviatoi-sergei-chudotvorets-1788_sviatoi-sergei-chudotvorets,sow-sviatoi-sergei-chudotvorets-1788,Sviatoi Sergei Chudotvorets,Bought,Auxiliary,1788-01-01,,1788-01-01,1797-01-01
+sow-sviatoi-sergei-chudotvorets-1788_sviatoi-nikolai-chudotvorets,sow-sviatoi-sergei-chudotvorets-1788,Sviatoi Nikolai Chudotvorets,Bought,Unknown,1788-01-01,,1788-01-01,1790-01-01
+sf-sviatoi-georgy-pobedonosets-1785_,sf-sviatoi-georgy-pobedonosets-1785,Sviatoi Georgy Pobedonosets,Built,Scrapped,1783-12-28,1785-06-16,1785-08-01,1801-01-01
+sf-taganrog-1785_taganrog,sf-taganrog-1785,Taganrog,Built,Scrapped,1784-04-01,1785-03-07,1785-04-01,1795-01-01
+sf-vosmoi-1778_vosmoi,sf-vosmoi-1778,Vos'moi,Built,Converted,1774-01-22,1778-04-25,1778-06-01,1787-08-01
+sf-vosmoi-1778_desiatyi,sf-vosmoi-1778,Desiatyi,Built,Sunk,1778-09-29,1779-04-14,1779-06-01,1787-09-09
+sf-vosmoi-1778_deviatyi,sf-vosmoi-1778,Deviatyi,Built,Converted,1778-09-13,1779-04-15,1779-06-01,1787-08-01
+sf-vosmoi-1778_odinnadtsatyi,sf-vosmoi-1778,Odinnadtsatyi,Built,Scrapped,1778-01-18,1779-04-19,1779-06-01,1788-01-01
+sf-vosmoi-1778_trinadtsatyi,sf-vosmoi-1778,Trinadtsatyi,Built,Scrapped,1778-07-24,1782-08-26,1782-10-01,1791-01-01
+sf-vosmoi-1778_dvenadtsatyi,sf-vosmoi-1778,Dvenadtsatyi,Built,Scrapped,1778-07-24,1782-08-26,1782-10-01,1792-01-01
+sf-vosmoi-1778_piadnadtsatyi,sf-vosmoi-1778,Piadnadtsatyi,Built,Auxiliary,1779-02-26,1783-04-04,1783-06-01,1791-01-01
+sf-vosmoi-1778_chetyrnadtsatyi,sf-vosmoi-1778,Chetyrnadtsatyi,Built,Auxiliary,1779-02-26,1783-04-04,1783-06-01,1791-01-01
+sf-vosmoi-1778_shestnadtsatyi,sf-vosmoi-1778,Shestnadtsatyi,Built,Auxiliary,1779-03-01,1783-05-04,1783-07-01,1800-01-01
+sf-piatyi-1774_piatyi,sf-piatyi-1774,Piatyi,Built,Scrapped,1774-01-15,1774-04-26,1774-06-01,1785-01-01
+sf-piatyi-1774_shestoi,sf-piatyi-1774,Shestoi,Built,Scrapped,1774-01-16,1774-05-03,1774-06-01,1785-01-01
+sf-piatyi-1774_sedmoi,sf-piatyi-1774,Sed'moi,Built,Scrapped,1774-01-18,1777-04-02,1777-06-01,1790-01-01
+sf-tretyi-1773_tretyi,sf-tretyi-1773,Tretyi,Built,Sunk,1772-05-01,1773-04-28,1773-06-01,1779-03-23
+sf-tretyi-1773_chetvertyi,sf-tretyi-1773,Chetvertyi,Built,Scrapped,1772-05-23,1773-04-29,1773-06-01,1785-01-01
+sf-pervyi-1771_pervyi,sf-pervyi-1771,Pervyi,Built,Sunk,1770-09-20,1771-04-12,1771-06-01,1775-11-30
+sf-pervyi-1771_vtoroi,sf-pervyi-1771,Vtoroi,Built,Scrapped,1770-09-20,1771-04-13,1771-06-01,1783-01-01
+sf-feodosii-totemskii-1798_feodosii-totemskii,sf-feodosii-totemskii-1798,Feodosii Totemskii,Built,Converted,1798-08-09,1799-09-24,1799-11-01,1809-01-01
+sf-feodosii-totemskii-1798_tikhvinskaya-bogoroditsa,sf-feodosii-totemskii-1798,Tikhvinskaya Bogoroditsa,Built,Scrapped,1798-08-19,1799-07-22,1799-09-01,1819-01-01
+sf-biachislav-1785_biachislav,sf-biachislav-1785,Biachislav,Built,Scrapped,1784-06-18,1785-05-13,1785-07-01,1804-01-01
+sf-biachislav-1785_arkhangel-gavrill,sf-biachislav-1785,Arkhangel Gavrill,Built,Scrapped,1786-05-11,1787-05-09,1787-07-01,1799-01-01
+sf-biachislav-1785_pomoschchnyi,sf-biachislav-1785,Pomoschchnyi,Built,Scrapped,1787-06-10,1788-05-07,1788-07-01,1799-01-01
+sf-biachislav-1785_kronshtadt,sf-biachislav-1785,Kronshtadt,Built,Scrapped,1787-06-10,1789-05-15,1789-07-01,1789-05-15
+sf-biachislav-1785_arkhipelag,sf-biachislav-1785,Arkhipelag,Built,Scrapped,1788-07-01,1789-05-16,1789-07-01,1809-01-01
+sf-biachislav-1785_revel,sf-biachislav-1785,Revel,Built,Scrapped,1789-06-26,1790-05-21,1790-07-01,1805-01-01
+sf-biachislav-1785_narva,sf-biachislav-1785,Narva,Built,Scrapped,1789-07-09,1790-05-21,1790-07-01,1815-01-01
+sf-biachislav-1785_riga,sf-biachislav-1785,Riga,Built,Auxiliary,1789-07-09,1790-05-22,1790-07-01,1801-01-01
+sf-arkhangel-mikmail-1791_arkhangel-mikmail,sf-arkhangel-mikmail-1791,Arkhangel Mikhail,Built,Sunk,1790-07-14,1791-05-24,1791-07-01,1796-10-25
+sf-arkhangel-mikmail-1791_arkhangel-rafail,sf-arkhangel-mikmail-1791,Arkhangel Rafail,Built,Scrapped,1790-07-14,1791-05-24,1791-07-01,1804-01-01
+sf-arkhangel-mikmail-1791_schastivyii,sf-arkhangel-mikmail-1791,Schastlivyii,Built,Sunk,1796-12-16,1798-05-19,1798-07-01,1810-01-01
+sf-emmanuil-1797_emmanuil,sf-emmanuil-1797,Emmanuil,Built,Scrapped,1796-01-01,1797-01-01,1797-01-01,1825-01-01
+sow-emprenabl-1797_emprenabl,sow-emprenabl-1797,Emprenabl',Bought,Scrapped,1797-01-01,,1797-01-01,1800-01-01
+sf-pospeshnyi-1798_pospeshnyi,sf-pospeshnyi-1798,Pospeshnyi,Built,Scrapped,1796-09-19,1798-05-19,1798-07-01,1809-01-01
+sf-kildyuin-1798_kildyuin,sf-kildyuin-1798,Kildyuin,Built,Scrapped,1796-11-14,1798-05-19,1798-07-01,1813-01-01
+sf-pavel-1773_pavel,sf-pavel-1773,Pavel,Built,Scrapped,1772-08-19,1773-05-14,1773-07-01,1791-01-01
+sf-pavel-1773_evstafii,sf-pavel-1773,Evstafii,Built,Scrapped,1772-08-19,1773-05-18,1773-07-01,1793-01-01
+sf-pavel-1773_natalia,sf-pavel-1773,Natalia,Built,Sunk,1772-08-20,1773-05-18,1773-07-01,1779-09-22
+sf-pavel-1773_legkii,sf-pavel-1773,Legkii,Built,Scrapped,1772-12-05,1773-07-21,1773-09-01,1793-01-01
+sf-pavel-1773_schastlivyii,sf-pavel-1773,Schastlivyii,Built,Scrapped,1772-12-05,1774-08-18,1774-09-01,1793-01-01
+sf-sviatoi-mikhail-1774_sviatoi-mikhail,sf-sviatoi-mikhail-1774,Sviatoi Mikhail,Built,Scrapped,1772-11-10,1774-05-31,1774-07-01,1796-01-01
+sf-sviatoi-mikhail-1774_pospeshnyi,sf-sviatoi-mikhail-1774,Pospeshnyi,Built,Scrapped,1772-12-05,1774-07-26,1774-09-01,1791-01-01
+sf-sviatoi-mikhail-1774_alexander,sf-sviatoi-mikhail-1774,Alexander,Built,Scrapped,1773-11-23,1778-05-15,1778-07-01,1804-01-01
+sf-sviatoi-mikhail-1774_voin,sf-sviatoi-mikhail-1774,Voin,Built,Converted,1773-11-23,1778-05-15,1778-07-01,1801-01-01
+sf-sviatoi-mikhail-1774_mariia,sf-sviatoi-mikhail-1774,Mariia,Built,Scrapped,1773-11-23,1778-05-21,1778-07-01,1796-01-01
+sf-sviatoi-mikhail-1774_patrikii,sf-sviatoi-mikhail-1774,Patrikii,Built,Auxiliary,1778-02-03,1779-05-14,1779-06-21,1801-01-01
+sf-sviatoi-mikhail-1774_simion,sf-sviatoi-mikhail-1774,Simion,Built,Scrapped,1778-10-05,1779-05-16,1779-06-21,1803-01-01
+sf-sviatoi-mikhail-1774_slava,sf-sviatoi-mikhail-1774,Slava,Built,Unknown,1778-08-27,1784-05-22,1781-07-01,1799-01-01
+sf-sviatoi-mikhail-1774_nadezhda,sf-sviatoi-mikhail-1774,Nadezhda,Built,Scrapped,1778-08-27,1781-05-22,1781-07-01,1799-01-01
+sf-sviatoi-mikhail-1774_podrazhislav,sf-sviatoi-mikhail-1774,Podrazhislav,Built,Unknown,1778-08-27,1781-05-22,1781-07-01,1796-01-01
+sf-sviatoi-mikhail-1774_vozmislav,sf-sviatoi-mikhail-1774,Voz'mislav,Built,Sunk,1781-11-18,1783-05-16,1783-07-01,1788-08-01
+sf-sviatoi-mikhail-1774_premislav,sf-sviatoi-mikhail-1774,Premislav,Built,Unknown,1784-06-18,1785-05-13,1785-07-01,1797-01-01
+sf-sviatoi-mikhail-1774_nadezhda-blagopoluchiia,sf-sviatoi-mikhail-1774,Nadezhda Blagopoluchiia,Built,Unknown,1785-05-17,1786-05-17,1786-07-01,1798-01-01
+sow-gektor-1781_gektor,sow-gektor-1781,Gektor,Built,Captured,1774-07-09,1781-11-04,1782-01-01,1788-06-27
+sow-gektor-1781_gektor,sow-hector-1788,HSwMS Hector,Captured,Scrapped,1788-06-27,,1788-06-27,1818-01-01
+sf-mstislavets-1784_mstislavets,sf-mstislavets-1784,Mstislavets,Built,Scrapped,1783-06-23,1784-05-17,1784-06-20,1793-01-01
+sf-iaroslavets-1784_iaroslavets,sf-iaroslavets-1784,Iaroslavets,Built,Scrapped,1783-06-23,1784-05-12,1784-07-01,1799-01-01
+sf-iaroslavets-1784_iaroslavets,sf-jarislawitz-1788,HSwMS Jarislawitz,Captured,Captured,1788-06-01,,1788-06-01,1790-07-04
+sow-riga-1784_riga,sow-riga-1784,Riga,Built,Scrapped,1783-01-01,1784-01-01,1784-02-01,1791-01-01
+sf-gektor-1736_gektor,sf-gektor-1736,Gektor,Built,Sunk,1735-10-07,1736-05-30,1736-07-01,1742-07-29
+sf-gektor-1736_voin,sf-gektor-1736,Voin,Built,Scrapped,1736-09-01,1737-05-24,1737-07-01,1755-01-01
+sf-gektor-1736_kavaler,sf-gektor-1736,Kavaler,Built,Scrapped,1736-11-06,1737-07-05,1737-08-01,1755-01-01
+sf-gektor-1736_merkurius,sf-gektor-1736,Merkurius,Built,Sunk,1739-07-17,1740-05-11,1740-07-01,1743-09-13
+sf-gektor-1736_apollon,sf-gektor-1736,Apollon,Built,Scrapped,1739-05-03,1740-05-18,1740-07-01,1756-01-01
+sf-gektor-1736_iagudiil,sf-gektor-1736,Iagudiil,Built,Scrapped,1745-09-30,1746-05-21,1746-07-01,1760-01-01
+sf-gektor-1736_selafail,sf-gektor-1736,Selafail,Built,Scrapped,1745-09-30,1746-05-21,1746-07-01,1760-01-01
+sf-gektor-1736_arkhangel-mikhail,sf-gektor-1736,Arkhangel Mikhail,Built,Sunk,1747-09-22,1748-05-08,1748-07-01,1760-08-05
+sf-gektor-1736_kreiser,sf-gektor-1736,Kreiser,Built,Scrapped,1749-08-24,1751-04-28,1751-06-01,1763-01-01
+sf-gektor-1736_rossia,sf-gektor-1736,Rossia,Built,Scrapped,1753-04-25,1754-04-26,1754-06-01,1771-01-01
+sf-gektor-1736_vakhmeister,sf-gektor-1736,Vakhmeister,Built,Sunk,1753-05-23,1754-04-26,1754-06-01,1757-10-03
+sf-gektor-1736_sviatoi-mikhail,sf-gektor-1736,Sviatoi Mikhail,Built,Scrapped,1757-04-24,1758-05-20,1758-07-01,1771-01-01
+sf-gektor-1736_sviatoi-sergii,sf-gektor-1736,Sviatoi Sergii,Built,Scrapped,1760-07-18,1761-05-17,1761-07-01,1771-01-01
+sf-gektor-1736_gremiashchii,sf-gektor-1736,Gremiashchii,Built,Auxiliary,1761-08-20,1762-05-20,1762-07-01,1778-01-01
+sf-gektor-1736_nadezhda,sf-gektor-1736,Nadezhda,Built,Unknown,1760-08-20,1762-05-20,1762-07-01,1780-01-01
+sf-gektor-1736_afrika,sf-gektor-1736,Afrika,Built,Scrapped,1764-02-17,1768-05-13,1768-07-01,1790-01-01
+sf-sviatoi-fyodor-1762_sviatoi-fyodor,sf-sviatoi-fyodor-1762,Sviatoi Fyodor,Built,Scrapped,1761-08-01,1762-05-08,1782-07-01,1774-01-01
+sf-nadezhda-blagopoluchiia-1764_,sf-nadezhda-blagopoluchiia-1764,Nadezhda Blagopoluchiia,Built,Scrapped,1763-06-01,1764-06-04,1764-07-01,1774-01-01
+gb-vestovoi-1783_vestovoi,gb-vestovoi-1783,Vestovoi,Bought,Scrapped,1763-01-01,,1763-01-01,1776-01-01
+sow-sviatoi-aleksandr-1766_sviatoi-aleksandr,sow-sviatoi-aleksandr-1766,Sviatoi Aleksandr,Built,Scrapped,1765-12-23,1766-06-04,1766-07-01,1774-01-01
+sow-vtoraia-ekaterina-1773_vtoraia-ekaterina,sow-vtoraia-ekaterina-1773,Vtoraia Ekaterina,Built,Scrapped,1773-01-01,1773-08-09,1773-09-01,1782-01-01
+sow-pochtalon-1766_pochtalon,sow-pochtalon-1766,Pochtalon,Built,Scrapped,1765-09-27,1766-05-27,1766-07-01,1791-01-01
+sow-pochtalon-1766_pochtalon,bv-nikita-muchenik-1788,Nikita Muchenik,Converted,Converted,1788-01-01,,1788-01-01,1790-01-01
+sf-severnyi-oryol-1770_svernyi-oryol,sf-severnyi-oryol-1770,Severnyi Oryol,Bought,Auxiliary,1770-08-20,,1770-08-20,1780-01-01
+sow-paros-1770_paros,sow-paros-1770,Paros,Bought,Scrapped,1770-01-01,,1770-01-01,1790-01-01
+sow-pobeda-1770_pobeda,sow-pobeda-1770,Pobeda,Bought,Sunk,1770-01-01,,1770-01-01,1775-06-01
+sow-sviatoi-nikolai-1770_sviatoi-nikolai,sow-sviatoi-nikolai-1770,Sviatoi Nikolai,Bought,Scrapped,1770-02-21,,1770-02-21,1788-06-01
+sow-sviatoi-pavel-1770_sviatoi-pavel,sow-sviatoi-pavel-1770,Sviatoi Pavel,Bought,Scrapped,1770-01-01,,1770-01-01,1782-01-01
+sow-slava-1770_slava,sow-slava-1770,Slava,Bought,Sold,1770-01-01,,1770-01-01,1776-01-01
+gb-slava-georgiia-pobedonostsa-1789_slava-georgiia-pobedonostsa,gb-slava-georgiia-pobedonostsa-1789,Slava Georgiia Pobedonostsa,Bought,Unknown,1789-01-01,,1789-01-01,1791-01-01
+sow-konstantsiia-1773_konstantsiia,sow-konstantsiia-1773,Konstantsiia,Bought,Scrapped,1772-01-01,,1772-01-01,1787-01-01
+sow-ungariia-1775_ungariia,sow-ungariia-1775,Ungariia,Bought,Scrapped,1775-01-01,,1775-01-01,1796-01-01
+sow-pomoshchnyi-1772_pomoshchnyi,sow-pomoshchnyi-1772,Pomoshchnyi,Bought,Scrapped,1772-01-01,,1772-01-01,1783-01-01
+bv-iona-1788_iona,bv-iona-1788,Iona,Built,Unknown,1788-01-01,1788-07-01,1788-08-01,1792-01-01
+sf-bellona-1782_bellona,sf-bellona-1782,HSwMS Bellona,Built,Scrapped,1782-07-18,1782-11-06,1782-12-01,1794-01-01
+sf-bellona-1782_minerva,sf-bellona-1782,HSwMS Minerva,Built,Sunk,1782-11-06,1783-03-31,1783-04-30,1789-01-01
+sf-bellona-1782_venus,sf-bellona-1782,HSwMS Venus,Built,Captured,1783-03-31,1783-07-19,1783-08-01,1789-06-01
+sf-bellona-1782_diana,sf-bellona-1782,HSwMS Diana,Built,Scrapped,1783-07-19,1783-06-02,1783-07-01,1802-01-01
+sf-bellona-1782_froja,sf-bellona-1782,HSwMS Froja,Built,Scrapped,1784-05-01,1784-07-06,1784-08-01,1813-01-01
+sf-bellona-1782_thetis,sf-bellona-1782,HSwMS Thetis,Built,Scrapped,1784-07-01,1784-08-28,1784-10-01,1795-01-01
+sf-bellona-1782_camilla,sf-bellona-1782,HSwMS Camilla,Built,Scrapped,1784-08-28,1784-10-23,1784-12-01,1798-01-01
+sf-bellona-1782_galatea,sf-bellona-1782,HSwMS Galatea,Built,Scrapped,1785-05-23,1785-07-09,1785-08-01,1812-01-01
+sf-bellona-1782_eurydice,sf-bellona-1782,HSwMS Eurydice,Built,Scrapped,1785-07-09,1785-08-31,1785-10-01,1806-01-01
+sf-bellona-1782_zemire,sf-bellona-1782,HSwMS Zemire,Built,Sunk,1785-08-31,1785-10-21,1785-11-01,1790-07-04
+sf-bellona-1782_venus,sf-venus-1789,Venus,Captured,Sold,1789-06-01,,1789-06-01,1808-01-01
+sf-bellona-1782_venus,sf-venere-1808,Venere,Bought,Unknown,1808-01-01,,1808-01-01,1812-04-01
+sf-voznesenie-gospodne-1790_voznesenie-gospodne,sf-voznesenie-gospodne-1790,Voznesenie Gospodne,Built,Scrapped,1789-11-16,1790-04-23,1790-06-01,1802-05-01
+bv-filipp-1792_filipp,bv-filipp-1792,Filipp,Bought,Unknown,1792-01-01,,1792-01-01,1792-02-01
+sow-sviatatia-elena-1792_sviatatia-elena,sow-sviatatia-elena-1792,Sviatatia Elena,Bought,Converted,1792-01-01,,1792-01-01,1807-01-01
+sow-briun-1781_briun,sow-briun-1781,Le Briun,Built,Captured,1780-01-01,1781-01-01,1781-02-01,1799-03-01
+sf-legkii-1803_legkii,sf-legkii-1803,Legkii,Built,Sold,1800-10-18,1803-05-07,1803-07-01,1809-01-01
+sf-mahubey-subham_mahubey-subham,sf-magubei-subkhan-1811,Magubei Subkhan,Captured,Scrapped,1811-07-24,,1811-07-24,1818-01-01
+sow-kamchatka-1817_kamchatka,sow-kamchatka-1817,Kamchatka,Built,Unknown,1816-10-17,1817-05-17,1817-07-01,1828-01-01
+sow-kamchatka-1817_otkrytie,sow-kamchatka-1817,Otkrytie,Built,Scrapped,1817-10-01,1818-05-01,1818-06-01,1828-01-01
+sow-kamchatka-1817_vostok,sow-kamchatka-1817,Vostok,Built,Scrapped,1817-12-31,1818-07-04,1818-08-01,1828-01-01
+sow-bogemiia-1775_bogemiia,sow-bogemiia-1775,Bogemiia,Bought,Scrapped,1775-01-01,,1775-01-01,1796-01-01
+sf-arkhipelag-1770_arkipelag,sf-arkhipelag-1770,Arkhipelag,Captured,Sold,1770-01-01,,1770-01-01,1781-01-01
+sf-minerva-1771_minerva,sf-minerva-1771,Minerva,Captured,Sunk,1771-01-01,,1771-01-01,1774-07-30
