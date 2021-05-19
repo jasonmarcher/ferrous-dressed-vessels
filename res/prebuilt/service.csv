@@ -21435,8 +21435,8 @@ sol-boyne_hms-union,sol-boyne,HMS Union,britain,Active,Scrapped,1812-02-01,1833-
 sol-boyne_hms-boyne,sol-boyne-1826,HMS Boyne,britain,Active,Auxiliary,1826-06-01,1834-01-01
 sol-foudroyant_hms-foudroyant,sol-foudroyant,HMS Foudroyant,britain,Active,Auxiliary,1798-05-25,1862-01-01
 sol-rochfort_hms-rochfort,sol-rochfort,HMS Rochfort,britain,Active,Scrapped,1817-10-01,1826-01-01
-sol-holsteen_hdms-holsteen,sol-holstein,HMS Holstein,britain,Active,Scrapped,1801-04-02,1814-01-01
-sol-holsteen_hdms-holsteen,sol-holsteen,HDMS Holsteen,britain,Active,Auxiliary,1775-01-01,1810-03-01
+sol-holsteen-1772_hdms-holsteen,sol-holstein,HMS Holstein,britain,Active,Scrapped,1801-04-02,1814-01-01
+sol-holsteen-1772_hdms-holsteen,sol-holsteen-1772,HDMS Holsteen,britain,Active,Captured,1775-01-01,1801-04-02
 sol-imaun_imaun,sol-imaun,Imaun,muscat,Active,Sold,1827-02-01,1836-03-09
 sol-imaun_imaun,sol-imaun-1836,HMS Imaun,britain,Active,Auxiliary,1836-03-09,1842-01-01
 sol-diomede_hms-diomede,sol-diomede,HMS Diomede,britain,Active,Scrapped,1798-01-01,1815-01-01
@@ -21516,12 +21516,12 @@ sol-valiant_hms-triumph,sol-valiant,HMS Triumph,britain,Active,Auxiliary,1764-05
 sol-arrogant_hms-arrogant,sol-arrogant,HMS Arrogant,britain,Active,Auxiliary,1761-04-22,1804-01-01
 sol-arrogant_hms-cornwall,sol-arrogant,HMS Cornwall,britain,Active,Sunk,1761-09-16,1780-06-30
 sol-arrogant_hms-edgar,sol-arrogant,HMS Edgar,britain,Active,Auxiliary,1779-10-01,1813-01-01
-sol-arrogant_hms-goliath,sol-arrogant,HMS Goliath,britain,Active,Scrapped,1782-02-01,1814-10-03
+sol-arrogant_hms-goliath,sol-arrogant,HMS Goliath,britain,Active,Scrapped,1782-02-01,1813-03-01
 sol-arrogant_hms-zealous,sol-arrogant,HMS Zealous,britain,Active,Scrapped,1785-11-01,1816-12-01
 sol-arrogant_hms-audacious,sol-arrogant,HMS Audacious,britain,Active,Scrapped,1785-12-01,1815-08-01
 sol-arrogant_hms-elephant,sol-arrogant,HMS Elephant,britain,Active,Converted,1787-01-01,1818-01-01
 sol-arrogant_hms-bellerophon,sol-arrogant,HMS Bellerophon,britain,Active,Auxiliary,1787-03-01,1816-01-01
-sol-arrogant_hms-saturn,sol-arrogant,HMS Saturn,britain,Active,Scrapped,1787-04-01,1868-01-01
+sol-arrogant_hms-saturn,sol-arrogant,HMS Saturn,britain,Active,Scrapped,1787-04-01,1813-04-01
 sol-arrogant_hms-vanguard,sol-arrogant,HMS Vanguard,britain,Active,Auxiliary,1787-07-01,1812-01-01
 sol-arrogant_hms-excellent,sol-arrogant,HMS Excellent,britain,Active,Converted,1788-04-01,1820-01-01
 sol-arrogant_hms-illustrious,sol-arrogant,HMS Illustrious,britain,Active,Sunk,1789-11-01,1795-03-20
@@ -24805,16 +24805,7 @@ sol-san-carlo-borromeo-1747_vulcano,sol-causse-1797,Le Causse,france,Active,Capt
 sol-san-carlo-borromeo-1747_vulcano,sol-nimet-i-huda-1801,Nimet-i Huda,turkey,Active,Unknown,1801-09-02,1801-10-01
 sf-prinses-frederika-louise-wilhelmina-1790_prinses-frederika-louise-wilhelmina,sf-prinses-frederika-louise-wilhelmina-1790,Prinses Frederika Louise Wilhelmina,netherlands,Active,Captured,1790-12-01,1796-08-17
 sf-prinses-frederika-louise-wilhelmina-1790_prinses-frederika-louise-wilhelmina,sf-braave-1796,HMS Braave,britain,Active,Auxiliary,1796-12-22,1811-07-01
-sol-prins-frederik-willem-1788_prins-frederik-willem,sol-prins-frederik-willem-1788,Prins Frederik Willem,netherlands,Active,Captured,1788-03-01,1797-10-11
-sol-prins-frederik-willem-1788_prins-frederik-willem,sol-gelikheid-1797,HMS Gelikheid,britain,Active,Auxiliary,1798-01-08,1807-05-01
-sol-prinses-louisa-1769_prinses-louisa,sol-prinses-louisa-1769,Prinses Louisa,netherlands,Active,Captured,1769-03-01,1799-08-28
-sol-prinses-louisa-1769_prinses-louisa,sol-broederschap-1799,HMS Broederschap,britain,Active,Scrapped,1800-05-24,1803-09-01
-sol-zevenwolden-1784_zevenwolden,sol-zevenwolden-1784,Zevenwolden,netherlands,Active,Converted,1784-03-01,1795-01-01
-sol-zevenwolden-1784_zevenwolden,sf-mars-1795,Mars,netherlands,Active,Captured,1795-01-01,1799-08-30
-sol-zevenwolden-1784_zevenwolden,sf-vleiter-1799,HMS Vleiter,britain,Reserve,Converted,1799-08-30,1800-07-01
 sol-prins-willem-de-eerste-1785_prins-willem-de-eerste,sol-prins-willem-de-eerste-1785,Prins Willem de Eerste,netherlands,Active,Scrapped,1785-09-01,1820-01-01
-sol-prins-frederik-1779_prins-frederik,sol-prins-frederik-1779,Prins Frederik,netherlands,Active,Captured,1779-08-01,1796-08-17
-sol-prins-frederik-1779_prins-frederik,sol-prince-frederick-1796,HMS Prince Frederick,britain,Reserve,Converted,1796-08-17,1796-12-01
 sol-washington-1796_washington,sol-princess-of-orange-1799,HMS Princess of Orange,britain,Active,Auxiliary,1799-08-30,1806-01-01
 sol-pylades-1771_pylades,sol-pylades-1771,Pylades,naples,Active,Unknown,1771-03-01,1779-01-01
 sol-pylades-1771_roma,sol-pylades-1771,Roma,naples,Active,Unknown,1772-03-01,1779-01-01
@@ -25416,3 +25407,303 @@ sow-kamchatka-1817_vostok,sow-kamchatka-1817,Vostok,russia,Active,Scrapped,1818-
 sow-bogemiia-1775_bogemiia,sow-bogemiia-1775,Bogemiia,russia,Active,Scrapped,1775-01-01,1796-01-01
 sf-arkhipelag-1770_arkipelag,sf-arkhipelag-1770,Arkhipelag,russia,Active,Sold,1770-01-01,1781-01-01
 sf-minerva-1771_minerva,sf-minerva-1771,Minerva,russia,Active,Sunk,1771-01-01,1774-07-30
+sow-evangelist-mark-1773_evangelist-mark,sow-evangelist-mark-1773,Evangelist Mark,russia,Active,Scrapped,1773-06-01,1794-01-01
+sow-evangelist-mark-1773_provornyi,sow-evangelist-mark-1773,Provornyi,russia,Active,Scrapped,1781-12-01,1789-01-01
+sf-sviatoi-aleksandr-1790_sviatoi-aleksandr,sf-sviatoi-aleksandr-1790,Sviatoi Aleksandr,russia,Active,Captured,1790-06-01,1790-07-09
+sf-sviatoi-aleksandr-1790_sviataia-aleksandra,sf-sviatoi-aleksandr-1790,Sviataia Aleksandra,russia,Active,Scrapped,1790-06-01,1804-01-01
+sf-sviatoi-aleksandr-1790_sviataia-ekaterina,sf-sviatoi-aleksandr-1790,Sviataia Ekaterina,russia,Active,Captured,1790-06-01,1790-07-09
+sf-sviatoi-aleksandr-1790_sviataia-elena,sf-sviatoi-aleksandr-1790,Sviataia Elena,russia,Active,Scrapped,1790-06-01,1802-01-01
+sf-sviatoi-aleksandr-1790_sviatoi-konstantin,sf-sviatoi-aleksandr-1790,Sviatoi Konstantin,russia,Active,Captured,1790-06-01,1790-07-09
+sf-sviatoi-aleksandr-1790_sviataia-mariia,sf-sviatoi-aleksandr-1790,Sviataia Mariia,russia,Active,Sunk,1790-06-01,1790-07-09
+sf-sviatoi-aleksandr-1790_sviatoi-nikolai,sf-sviatoi-aleksandr-1790,Sviatoi Nikolai,russia,Active,Sunk,1790-06-01,1790-07-09
+sf-sviatoi-aleksandr-1790_sviatoipavel,sf-sviatoi-aleksandr-1790,Sviatoi Pavel,russia,Active,Scrapped,1790-06-01,1804-01-01
+sf-sviatoi-aleksandr-1792_sviatoi-aleksandr,sf-sviatoi-aleksandr-1790,Sviatoi Aleksandr,russia,Active,Scrapped,1792-11-01,1804-01-01
+sf-sviatoi-aleksandr-1792_sviataia-ekaterina,sf-sviatoi-aleksandr-1792,Sviataia Ekaterina,russia,Active,Scrapped,1792-12-01,1804-01-01
+sf-sviatoi-aleksandr-1792_sviataia-elisaveta,sf-sviatoi-aleksandr-1792,Sviataia Elisaveta,russia,Active,Scrapped,1794-10-01,1803-01-01
+sf-sviatoi-aleksandr-1792_sviataia-mariia,sf-sviatoi-aleksandr-1792,Sviataia Mariia,russia,Active,Sunk,1794-10-01,1796-07-18
+sf-sviatoi-aleksandr-1792_sviatoi-konstantin,sf-sviatoi-aleksandr-1792,Sviatoi Konstantin,russia,Active,Scrapped,1796-11-01,1808-01-01
+sf-sviatoi-aleksandr-1792_sviatoi-nikolai,sf-sviatoi-aleksandr-1792,Sviatoi Nikolai,russia,Active,Scrapped,1796-11-01,1809-01-01
+sf-sviatoi-aleksandr-1792_bogoiavlenie-gospodne,sf-sviatoi-aleksandr-1792,Bogoiavlenie Gospodne,russia,Active,Scrapped,1798-10-01,1816-01-01
+sf-sviatoi-aleksandr-1792_emmanuil,sf-sviatoi-aleksandr-1792,Emmanuil,russia,Active,Scrapped,1804-05-01,1817-01-01
+sf-sviatoi-aleksandr-1790_sviatoi-aleksandr,sow-alexander-1790,HSwMS Alexander,sweden,Active,Unknown,1790-07-09,1790-08-01
+sf-sviatoi-aleksandr-1790_sviataia-ekaterina,sow-alexander-1790,HSwMS Katarina,sweden,Active,Unknown,1790-07-09,1790-08-01
+sf-sviatoi-aleksandr-1790_sviatoi-konstantin,sow-alexander-1790,HSwMS Konstantin,sweden,Active,Unknown,1790-07-09,1790-08-01
+sf-bodryi-1808_bodryi,sf-bodryi-1808,Bodryi,russia,Active,Scrapped,1808-08-01,1829-01-01
+sf-bodryi-1808_neva,sf-bodryi-1808,Neva,russia,Active,Scrapped,1808-08-01,1829-01-01
+sf-bodryi-1808_sveaborg,sf-bodryi-1808,Sveaborg,russia,Active,Scrapped,1808-08-01,1822-01-01
+sf-bodryi-1808_petergof,sf-bodryi-1808,Petergof,russia,Active,Scrapped,1808-08-01,1822-01-01
+sf-bodryi-1808_torneo,sf-bodryi-1808,Torneo,russia,Active,Scrapped,1808-11-01,1824-01-01
+sf-bodryi-1808_mirnyi,sf-bodryi-1808,Mirnyi,russia,Active,Scrapped,1823-08-01,1834-01-01
+sow-kater-1790_kater-no-1,sow-kater-1790,Kater No. 1,russia,Active,Scrapped,1779-02-01,1786-01-01
+sow-kater-1790_kater-no-2,sow-kater-1790,Kater No. 2,russia,Active,Scrapped,1779-02-01,1786-01-01
+sow-kater-1790_kater-no-3,sow-kater-1790,Kater No. 3,russia,Active,Scrapped,1780-02-01,1787-01-01
+sow-kavkaz-1784_kavkaz,sow-kavkaz-1784,Kavkaz,russia,Active,Scrapped,1784-02-01,1791-01-01
+sow-kavkaz-1784_astrakhan,sow-kavkaz-1784,Astrakhan,russia,Active,Scrapped,1784-06-01,1798-01-01
+sow-kavkaz-1784_kizliar,sow-kavkaz-1784,Kizliar,russia,Active,Unknown,1785-06-01,1790-01-01
+sow-tsaritsyn-1795_tsaritsyn,sow-tsaritsyn-1795,Tsaritsyn,russia,Active,Scrapped,1795-07-01,1808-01-01
+sow-kavkaz-1784_frigate-no-1,sow-kavkaz-1784,Frigate No. 1,russia,Active,Scrapped,1798-06-01,1810-01-01
+sow-kavkaz-1784_frigate-no-2,sow-kavkaz-1784,Frigate No. 1,russia,Active,Scrapped,1798-06-01,1809-01-01
+sol-neptunus-1782_neptunus,sol-neptunus-1782,HNLMS Neptunus,netherlands,Active,Scrapped,1782-03-01,1794-01-01
+sol-jupiter-1782_jupiter,sol-jupiter-1782,HNLMS Jupiter,netherlands,Active,Captured,1782-06-01,1797-10-11
+sol-jupiter-1782_stad-en-lande,sol-jupiter-1782,HNLMS Stad en Lande,netherlands,Active,Scrapped,1783-09-01,1792-01-01
+sol-jupiter-1782_friesland,sol-jupiter-1782,HNLMS Friesland,netherlands,Active,Scrapped,1783-03-01,1792-01-01
+sol-jupiter-1782_zeven-provincien,sol-jupiter-1782,HNLMS Zeven Provincien,netherlands,Active,Scrapped,1783-03-01,1794-01-01
+sol-jupiter-1782_vrijheid,sol-jupiter-1782,HNLMS Vrijheid,netherlands,Active,Captured,1783-03-01,1797-10-11
+sol-jupiter-1782_prins-maurits,sol-jupiter-1782,HNLMS Prins Maurits,netherlands,Active,Captured,1783-11-01,1797-10-11
+sol-jupiter-1782_staaten-generaal,sol-jupiter-1782,HNLMS Staaten Generaal,netherlands,Active,Sunk,1788-06-01,1806-01-10
+sol-jupiter-1782_jupiter,sol-camperdown-1797,HMS Camperdown,britain,Active,Auxiliary,1798-01-10,1798-10-01
+sol-jupiter-1782_vrijheid,sol-camperdown-1797,HMS Vryheid,britain,Active,Auxiliary,1798-01-08,1798-02-01
+sol-admiraal-de-ruyter-1778_admiraal-de-ruyter,sol-admiraal-de-ruyter-1778,HNLMS Admiraal de Ruyter,netherlands,Active,Captured,1779-01-01,1799-08-30
+sol-admiraal-de-ruyter-1778_prins-frederik,sol-admiraal-de-ruyter-1778,HNLMS Prins Frederik,netherlands,Active,Captured,1799-08-01,1796-08-17
+sol-admiraal-de-ruyter-1778_unie,sol-admiraal-de-ruyter-1778,HNLMS Unie,netherlands,Active,Sunk,1782-02-01,1782-06-01
+sol-admiraal-de-ruyter-1778_wassenaer,sol-admiraal-de-ruyter-1778,HNLMS Wassenaer,netherlands,Active,Captured,1782-03-01,1797-10-11
+sol-admiraal-de-ruyter-1778_gelderland,sol-admiraal-de-ruyter-1778,HNLMS Gelderland,netherlands,Active,Captured,1782-03-01,1799-08-30
+sol-admiraal-de-ruyter-1778_utrecht,sol-admiraal-de-ruyter-1778,HNLMS Utrecht,netherlands,Active,Captured,1781-10-01,1799-08-30
+sol-admiraal-de-ruyter-1778_hercules,sol-admiraal-de-ruyter-1778,HNLMS Hercules,netherlands,Active,Captured,1781-06-01,1797-10-11
+sol-admiraal-de-ruyter-1778_drente,sol-admiraal-de-ruyter-1778,HNLMS Drente,netherlands,Active,Sunk,1782-03-01,1784-01-01
+sol-admiraal-de-ruyter-1778_overijssel,sol-admiraal-de-ruyter-1778,HNLMS Overijssel,netherlands,Active,Sold,1782-03-01,1794-01-01
+sol-admiraal-de-ruyter-1778_admiraal-tjerk-hiddes-de-vries,sol-admiraal-de-ruyter-1778,HNLMS Admiraal Tjerk Hiddes de Vries,netherlands,Active,Captured,1783-10-01,1797-10-11
+sol-admiraal-de-ruyter-1778_holland,sol-admiraal-de-ruyter-1778,HNLMS Holland,netherlands,Active,Sunk,1783-01-01,1786-01-01
+sol-admiraal-de-ruyter-1778_hersteller,sol-admiraal-de-ruyter-1778,HNLMS Hersteller,netherlands,Active,Scrapped,1783-03-01,1795-01-01
+sol-admiraal-de-ruyter-1778_noord-holland,sol-admiraal-de-ruyter-1778,HNLMS Noord Holland,netherlands,Active,Scrapped,1783-03-01,1795-01-01
+sol-admiraal-de-ruyter-1778_dordrecht,sol-admiraal-de-ruyter-1778,HNLMS Dordrecht,netherlands,Active,Captured,1784-02-01,1796-08-17
+sol-admiraal-de-ruyter-1778_rotterdam,sol-admiraal-de-ruyter-1778,HNLMS Rotterdam,netherlands,Active,Sold,1783-03-01,1799-01-01
+sol-admiraal-de-ruyter-1778_oostergo,sol-admiraal-de-ruyter-1778,HNLMS Oostergo,netherlands,Active,Unknown,1784-02-01,1794-01-01
+sol-admiraal-de-ruyter-1778_westergo,sol-admiraal-de-ruyter-1778,HNLMS Westergo,netherlands,Active,Scrapped,1784-03-01,1795-01-01
+sol-admiraal-de-ruyter-1778_zeeland,sol-admiraal-de-ruyter-1778,HNLMS Zeeland,netherlands,Active,Captured,1784-03-01,1796-01-19
+sol-admiraal-de-ruyter-1778_verwagting,sol-admiraal-de-ruyter-1778,HNLMS Verwagting,netherlands,Active,Captured,1784-05-01,1810-01-01
+sol-admiraal-de-ruyter-1778_cerberus,sol-admiraal-de-ruyter-1778,HNLMS Cerberus,netherlands,Active,Captured,1784-04-01,1799-08-30
+sol-admiraal-de-ruyter-1778_haarlem,sol-admiraal-de-ruyter-1778,HNLMS Haarlem,netherlands,Active,Captured,1785-05-09,1797-10-11
+sol-admiraal-de-ruyter-1778_pluto,sol-admiraal-de-ruyter-1778,HNLMS Pluto,netherlands,Active,Scrapped,1786-03-01,1797-01-01
+sol-admiraal-de-ruyter-1778_zevenwolden,sol-admiraal-de-ruyter-1778,HNLMS Zevenwolden,netherlands,Active,Converted,1784-03-01,1795-01-01
+sol-admiraal-de-ruyter-1778_leiden,sol-admiraal-de-ruyter-1778,HNLMS Leiden,netherlands,Active,Captured,1786-09-01,1799-08-30
+sol-admiraal-de-ruyter-1778_pieter-florisz,sol-admiraal-de-ruyter-1778,HNLMS Pieter Florisz,netherlands,Active,Scrapped,1788-03-01,1795-01-01
+sol-admiraal-de-ruyter-1778_prins-frederik-willem,sol-admiraal-de-ruyter-1778,HNLMS Prins Frederik Willem,netherlands,Active,Captured,1788-03-01,1797-10-11
+sol-admiraal-de-ruyter-1778_prins-frederik,sol-zealand-1796,HMS Prince Frederick,britain,Reserve,Auxiliary,1796-08-17,1796-12-01
+sol-admiraal-de-ruyter-1778_wassenaer,sol-zealand-1796,HMS Wassenar,britain,Reserve,Auxiliary,1797-10-28,1798-02-01
+sol-admiraal-de-ruyter-1778_gelderland,sol-zealand-1796,HMS Guelderland,britain,Reserve,Auxiliary,1801-04-14,1810-10-01
+sol-admiraal-de-ruyter-1778_utrecht,sol-zealand-1796,HMS Utrecht,britain,Reserve,Scrapped,1803-04-01,1815-03-23
+sol-admiraal-de-ruyter-1778_hercules,sol-zealand-1796,HMS Delft,britain,Reserve,Auxiliary,1798-01-08,1799-02-01
+sol-admiraal-de-ruyter-1778_admiraal-tjerk-hiddes-de-vries,sol-zealand-1796,HMS Admiral de Vries,britain,Reserve,Auxiliary,1798-01-07,1798-07-01
+sol-admiraal-de-ruyter-1778_dordrecht,sol-zealand-1796,HMS Dordrecht,britain,Reserve,Auxiliary,1796-08-17,1799-07-01
+sol-admiraal-de-ruyter-1778_zeeland,sol-zealand-1796,HMS Zealand,britain,Reserve,Auxiliary,1796-01-19,1803-05-01
+sol-admiraal-de-ruyter-1778_cerberus,sol-zealand-1796,HMS Texel,britain,Active,Converted,1801-01-01,1803-05-01
+sol-admiraal-de-ruyter-1778_haarlem,sol-zealand-1796,HMS Haarlem,britain,Reserve,Auxiliary,1797-10-11,1798-04-01
+sol-admiraal-de-ruyter-1778_leiden,sol-zealand-1796,HMS Leyden,britain,Active,Auxiliary,1799-08-30,1810-04-01
+sol-admiraal-de-ruyter-1778_prins-frederik-willem,sol-zealand-1796,HMS Gelikheid,britain,Active,Auxiliary,1803-03-01,1807-05-01
+sol-kortenaer-1781_kortenaer,sol-kortenaer-1781,HNLMS Kortenaer,netherlands,Active,Scrapped,1781-09-01,1794-01-01
+sol-neptunus-1798_neptunus,sol-neptunus-1798,HNLMS Neptunus,netherlands,Active,Scrapped,1798-09-01,1839-01-01
+sol-zevenwolden-1784_zevenwolden,sf-mars-1795,HNLMS Mars,netherlands,Active,Captured,1795-01-01,1799-08-30
+sol-zevenwolden-1784_zevenwolden,sf-vleiter-1799,HMS Vleiter,britain,Reserve,Converted,1799-08-30,1800-07-01
+sol-prinses-frederika-louisa-wilhelmina-1779_prinses-frederika-louisa-wilhelmina,sol-prinses-frederika-louisa-wilhelmina-1779,HNLMS Prinses Frederika Louisa Wilhelmina,netherlands,Active,Sunk,1779-02-01,1781-01-01
+sol-goes-1781_goes,sol-goes-1781,HNLMS Goes,netherlands,Active,Scrapped,1781-02-01,1797-01-01
+sol-delft-1782_delft,sol-delft-1782,HNLMS Delft,netherlands,Active,Captured,1782-02-01,1797-10-11
+sol-maarten-harpenzoon-tromp-1779_maarten-harpenzoon-tromp,sol-maarten-harpenzoon-tromp-1779,HNLMS Maarten Harpentzoon Tromp,netherlands,Active,Captured,1779-02-01,1796-08-17
+sol-maarten-harpenzoon-tromp-1779_maarten-harpenzoon-tromp,sol-tromp-1796,HMS Tromp,britain,Reserve,Auxiliary,1796-08-17,1798-02-01
+sol-brakel-1782_brakel,sol-brakel-1782,HNLMS Brakel,netherlands,Active,Captured,1782-02-01,1796-03-04
+sol-brakel-1782_brakel,sol-brakel-1796,HMS Brakel,britain,Reserve,Auxiliary,1797-08-10,1799-06-01
+sol-batavia-1779_batavia,sol-batavia-1779,HNLMS Batavia,netherlands,Active,Captured,1779-04-01,1799-08-30
+sol-batavia-1779_alkmaar,sol-batavia-1779,HNLMS Alkmaar,netherlands,Active,Captured,1782-02-01,1797-10-11
+sol-batavia-1779_beschermer,sol-batavia-1779,HNLMS Beschermer,netherlands,Active,Captured,1784-02-01,1799-08-30
+sol-batavia-1779_alkmaar,sol-alkmaar-1797,HMS Alkmaar,britain,Reserve,Auxiliary,1797-10-20,1798-06-01
+sol-haarlem-1721_haarlem,sol-haarlem-1721,HNLMS Haarlem,netherlands,Active,Scrapped,1721-03-01,1737-01-01
+sol-gelderland-1717_gelderland,sol-gelderland-1717,HNLMS Gelderland,netherlands,Active,Scrapped,1717-03-01,1751-01-01
+sol-gelderland-1717_gouda,sol-gelderland-1717,HNLMS Gouda,netherlands,Active,Scrapped,1719-03-01,1763-01-01
+sol-hollandia-1725_hollandia,sol-hollandia-1725,HNLMS Hollandia,netherlands,Active,Scrapped,1725-03-01,1734-01-01
+sol-maas-1728_maas,sol-maas-1728,HNLMS Maas,netherlands,Active,Scrapped,1728-03-01,1782-01-01
+sol-vrijheid-1731_vrijheid,sol-vrijheid-1731,HNLMS Vrijheid,netherlands,Active,Scrapped,1731-03-01,1742-01-01
+sol-haarlem-1736_haarlem,sol-haarlem-1736,HNLMS Haarlem,netherlands,Active,Unknown,1736-03-01,1770-01-01
+sol-prins-willem-1748_prins-willem,sol-prins-willem-1748,HNLMS Prins Willem,netherlands,Active,Sunk,1748-03-01,1781-01-01
+sol-prinses-royaal-1759_prinses-royaal,sol-prinses-royaal-1759,HNLMS Prinses Royaal,netherlands,Active,Scrapped,1759-03-01,1780-01-01
+sol-admiraal-generaal-1764_admiraal-generaal,sol-admiraal-generaal-1764,HNLMS Admiraal Generaal,netherlands,Active,Reserve,1764-03-01,1787-01-01
+sol-admiraal-generaal-1764_admiraal-generaal,sol-admiraal-generaal-1764,HNLMS Admiraal Generaal,netherlands,Reserve,Scrapped,1787-01-01,1795-01-01
+sol-purmer-1715_purmer,sol-purmer-1715,HNLMS Purmer,netherlands,Active,Scrapped,1715-03-01,1750-01-01
+sol-purmer-1715_roosendaal,sol-purmer-1715,HNLMS Roosendaal,netherlands,Active,Scrapped,1717-03-01,1751-01-01
+sol-purmer-1715_zoeterwoude,sol-purmer-1715,HNLMS Zoeterwoude,netherlands,Active,Scrapped,1719-03-01,1753-01-01
+sol-kasteel-van-egmond-1722_kasteel-van-egmond,sol-kasteel-van-egmond-1722,HNLMS Kasteel van Egmond,netherlands,Active,Scrapped,1722-03-01,1740-01-01
+sol-tholen-1723_tholen,sol-tholen-1723,HNLMS Tholen,netherlands,Active,Scrapped,1723-03-01,1768-01-01
+sol-heemstede-1724_heemstede,sol-heemstede-1724,HNLMS Heemstede,netherlands,Active,Scrapped,1724-03-01,1749-01-01
+sol-kasteel-van-medemblik-1725_kasteel-van-medemblik,sol-kasteel-van-medemblik-1725,HNLMS Kasteel van Medemblik,netherlands,Active,Scrapped,1725-03-01,1758-01-01
+sol-tholen-1723_provincie-van-utrecht,sol-tholen-1723,HNLMS Provincie van Utrecht,netherlands,Active,Scrapped,1728-03-01,1751-01-01
+sol-tholen-1723_zierikzee,sol-tholen-1723,HNLMS Zierikzee,netherlands,Active,Sunk,1733-03-01,1782-01-01
+sol-damiaten-1741_damiaten,sol-damiaten-1741,HNLMS Damiaten,netherlands,Active,Scrapped,1741-03-01,1770-01-01
+sol-rotterdam-1741_rotterdam,sol-rotterdam-1741,HNLMS Rotterdam,netherlands,Active,Scrapped,1742-02-01,1751-01-01
+sol-batavia-1746_batavia,sol-batavia-1746,HNLMS Batavia,netherlands,Active,Scrapped,1746-02-01,1778-01-01
+sol-zuid-beveland-1747_zuid-beveland,sol-zuid-beveland-1747,HNLMS Zuid Beveland,netherlands,Active,Scrapped,1747-03-01,1795-01-01
+sol-batavia-1746_eendracht,sol-batavia-1746,HNLMS Eendracht,netherlands,Active,Scrapped,1747-03-01,1770-01-01
+sol-nassau-1759_nassau,sol-nassau-1759,HNLMS Nassau,netherlands,Active,Scrapped,1759-03-01,1784-01-01
+sol-nassau-1759_holland,sol-nassau-1759,HNLMS Holland,netherlands,Active,Sunk,1761-03-01,1781-01-05
+sol-rotterdam-1761_rotterdam,sol-rotterdam-1761,HNLMS Rotterdam,netherlands,Active,Captured,1761-03-01,1781-01-05
+sol-rotterdam-1761_rotterdam,sol-rotterdam-1781,HMS Rotterdam,britain,Active,Auxiliary,1781-09-14,1785-01-01
+sol-mars-1763_mars,sol-mars-1763,HNLMS Mars,netherlands,Active,Captured,1763-03-01,1781-02-04
+sol-mars-1763_mars,sol-prince-edward-1781,HMS Prince Edward,britain,Reserve,Scrapped,1781-08-06,1802-03-24
+sol-amsterdam-1764_amsterdam,sol-amsterdam-1764,HNLMS Amsterdam,netherlands,Active,Scrapped,1764-03-01,1795-01-01
+sol-prinses-royaal-fredrika-sophia-wilhelmina-1769_,sol-prinses-royaal-fredrika-sophia-wilhelmina-1769,HNLMS Prinses Royaal Fredrika Sophia Wilhelmina,netherlands,Active,Scrapped,1769-03-01,1785-01-01
+sol-polanen-1722_polanen,sol-polanen-1722,HNLMS Polanen,netherlands,Active,Scrapped,1722-02-01,1747-01-01
+sol-polanen-1722_damiaten,sol-polanen-1722,HNLMS Damiaten,netherlands,Active,Scrapped,1723-02-01,1740-01-01
+sol-twickel-1725_twickel,sol-twickel-1725,HNLMS Twickel,netherlands,Active,Scrapped,1725-02-01,1751-01-01
+sol-valkenburg-1725_valkenburg,sol-valkenburg-1725,HNLMS Valkenburg,netherlands,Active,Scrapped,1725-02-01,1739-01-01
+sol-valkenburg-1725_beemsterlust,sol-valkenburg-1725,HNLMS Beemsterlust,netherlands,Active,Scrapped,1725-02-01,1741-01-01
+sol-ramhorst-1725_ramhorst,sol-ramhorst-1725,HNLMS Ramhorst,netherlands,Active,Scrapped,1725-02-01,1768-01-01
+sol-boekenrode-1732_boekenrode,sol-boekenrode-1732,HNLMS Boekenrode,netherlands,Active,Scrapped,1732-03-01,1765-01-01
+sol-prins-friso-1730_prins-friso,sol-prins-friso-1730,HNLMS Prins Friso,netherlands,Active,Scrapped,1730-02-01,1756-01-01
+sol-brederode-1731_brederode,sol-brederode-1731,HNLMS Brederode,netherlands,Active,Scrapped,1731-02-01,1751-01-01
+sol-brederode-1731_moriaanshoofd,sol-brederode-1731,HNLMS Moriaanshoofd,netherlands,Active,Scrapped,1733-02-01,1740-01-01
+sol-brederode-1731_watervliet,sol-brederode-1731,HNLMS Watervliet,netherlands,Active,Scrapped,1733-02-01,1754-01-01
+sol-delft-1731_delft,sol-delft-1731,HNLMS Delft,netherlands,Active,Scrapped,1731-02-01,1778-01-01
+sol-goes-1733_goes,sol-goes-1733,HNLMS Goes,netherlands,Active,Unknown,1733-03-01,1759-01-01
+sol-vlissingen-1733_vlissingen,sol-vlissingen-1733,HNLMS Vlissingen,netherlands,Active,Scrapped,1733-02-01,1768-01-01
+sol-assendelft-1736_assendelft,sol-assendelft-1736,HNLMS Assendelft,netherlands,Active,Scrapped,1736-02-01,1758-01-01
+sol-dordrecht-1739_dordrecht,sol-dordrecht-1739,HNLMS Dordrecht,netherlands,Active,Scrapped,1739-02-01,1783-01-01
+sol-assendelft-1736_burcht-van-leiden,sol-assendelft-1736,HNLMS Burcht van Leiden,netherlands,Active,Scrapped,1740-02-01,1772-01-01
+sol-assendelft-1736_edam,sol-assendelft-1736,HNLMS Edam,netherlands,Active,Sunk,1741-02-01,1741-03-01
+sol-assendelft-1736_edam-ii,sol-assendelft-1736,HNLMS Edam,netherlands,Active,Scrapped,1742-07-01,1779-01-01
+sol-assendelft-1736_leeuwenhorst,sol-assendelft-1736,HNLMS Leeuwenhorst,netherlands,Active,Scrapped,1742-02-01,1770-01-01
+sol-veere-1746_veere,sol-veere-1746,HNLMS Veere,netherlands,Active,Scrapped,1746-02-01,1762-01-01
+sol-schiedam-1745_schiedam,sol-schiedam-1745,HNLMS Schiedam,netherlands,Active,Scrapped,1745-02-01,1792-01-01
+sol-prinses-carolina-1748_prinses-carolina,sol-prinses-carolina-1748,HNLMS Prinses Carolina,netherlands,Active,Captured,1748-02-01,1780-12-30
+sol-prinses-carolina-1748_prinses-carolina,sol-princess-caroline-1780,HMS Princess Caroline,britain,Active,Auxiliary,1781-07-01,1791-08-01
+sol-rijnland-1753_rijnland,sol-rijnland-1753,HNLMS Rijnland,netherlands,Active,Sunk,1753-02-01,1783-01-01
+sol-rijnland-1753_glindhorst,sol-rijnland-1753,HNLMS Glindhorst,netherlands,Active,Scrapped,1754-02-01,1788-01-01
+sol-rijnland-1753_schieland,sol-rijnland-1753,HNLMS Schieland,netherlands,Active,Scrapped,1755-02-01,1782-01-01
+sol-rijnland-1753_nassau-weilburg,sol-rijnland-1753,HNLMS Nassau Weilburg,netherlands,Active,Sunk,1760-02-01,1783-01-01
+sol-rijnland-1753_prinses-maria-louisa,sol-rijnland-1753,HNLMS Prinses Maria-Louisa,netherlands,Active,Scrapped,1761-02-01,1781-01-01
+sol-rijnland-1753_kennemerland,sol-rijnland-1753,HNLMS Kennemerland,netherlands,Active,Sunk,1761-02-01,1778-01-01
+sol-erf-prins-1770_erf-prins,sol-erf-prins-1770,HNLMS Erf Prins,netherlands,Active,Sunk,1771-02-01,1783-01-01
+sol-erf-prins-1770_admiraal-piet-hein,sol-erf-prins-1770,HNLMS Admiraal Piet Hein,netherlands,Active,Scrapped,1774-11-01,1799-01-01
+sol-erf-prins-1770_prinses-louisa,sol-erf-prins-1770,HNLMS Prinses Louisa,netherlands,Active,Captured,1769-03-01,1799-08-28
+sol-erf-prins-1770_prinses-louisa,sol-broederschap-1799,HMS Broederschap,britain,Active,Scrapped,1800-05-24,1803-09-01
+sol-barbestein-1746_barbestein,sol-barbestein-1746,Barbestein,netherlands,Active,Scrapped,1746-03-01,1778-01-01
+sol-assendelft-1736_beschermer,sol-assendelft-1736,Beschermer,netherlands,Active,Sold,1741-02-01,1744-01-01
+sol-friesland-1740_friesland,sol-friesland-1740,Friesland,netherlands,Active,Scrapped,1740-01-01,1763-01-01
+sol-starrenburg-1732_starrenburg,sol-starrenburg-1732,Starrenburg,netherlands,Active,Sold,1732-03-01,1742-01-01
+sol-beekvlie-1725_beekvliet,sol-beekvlie-1725,Beekvliet,netherlands,Active,Scrapped,1725-02-01,1758-01-01
+sf-tholen-1782_tholen,sf-tholen-1782,Tholen,netherlands,Active,Captured,1782-02-01,1798-01-01
+sow-triton-1825_triton,sow-triton-1825,HNLMS Triton,netherlands,Active,Scrapped,1825-02-01,1847-01-01
+sow-triton-1825_atalante,sow-triton-1825,HNLMS Atalante,netherlands,Active,Unknown,1826-02-01,1841-01-01
+sow-triton-1825_,sow-triton-1825,HNLMS Leije,netherlands,Active,Unknown,1827-02-01,1834-01-01
+sow-triton-1825_,sow-triton-1825,HNLMS Nehalennia,netherlands,Active,Unknown,1828-02-01,1856-01-01
+sow-triton-1825_heldin,sow-triton-1825,HNLMS Heldin,netherlands,Active,Scrapped,1830-02-01,1837-01-01
+sow-triton-1825_hippomenus,sow-triton-1825,HNLMS Hippomenus,netherlands,Active,Unknown,1830-02-01,1844-01-01
+sow-triton-1825_ajax,sow-triton-1825,HNLMS Ajax,netherlands,Active,Unknown,1832-02-01,1890-01-01
+sow-triton-1825_argo,sow-triton-1825,HNLMS Argo,netherlands,Active,Auxiliary,1832-02-01,1837-01-01
+sow-triton-1825_boreas,sow-triton-1825,HNLMS Boreas,netherlands,Active,Sold,1833-02-01,1857-01-01
+sow-triton-1825_castor,sow-triton-1825,HNLMS Castor,netherlands,Active,Auxiliary,1835-02-01,1849-01-01
+sow-pollux-1824_pollux,sow-pollux-1824,HNLMS Pollux,netherlands,Active,Scrapped,1824-06-03,1838-01-01
+sf-java-1820_java,sf-java-1820,HNLMS Java,netherlands,Active,Sunk,1820-03-01,1830-01-01
+sf-java-1820_algiers,sf-java-1820,HNLMS Algiers,netherlands,Active,Scrapped,1821-03-01,1867-01-01
+sf-java-1820_rupel,sf-java-1820,HNLMS Rupel,netherlands,Active,Converted,1822-03-01,1836-01-01
+sf-java-1820_maas,sf-java-1820,HNLMS Maas,netherlands,Active,Scrapped,1822-03-01,1854-01-01
+sf-java-1820_bellona,sf-java-1820,HNLMS Bellona,netherlands,Active,Unknown,1823-03-01,1850-01-01
+sf-java-1820_javaan,sf-java-1820,HNLMS Javaan,netherlands,Active,Unknown,1824-03-01,1834-01-01
+sf-java-1820_sambre,sf-java-1820,HNLMS Sambre,netherlands,Active,Converted,1825-03-01,1828-01-01
+sf-java-1820_rotterdam,sf-java-1820,HNLMS Rotterdam,netherlands,Active,Converted,1826-03-01,1838-01-01
+sf-java-1820_jason,sf-java-1820,HNLMS Jason,netherlands,Active,Scrapped,1829-03-01,1850-01-01
+sf-java-1820_palembang,sf-java-1820,HNLMS Palembang,netherlands,Active,Scrapped,1829-03-01,1864-01-01
+sf-java-1820_ceres,sf-java-1820,HNLMS Ceres,netherlands,Active,Converted,1830-03-01,1859-01-01
+sf-java-1820_zaan,sf-java-1820,HNLMS Zaan,netherlands,Active,Unknown,1831-03-01,1850-01-01
+sf-java-1820_ijssel,sf-java-1820,HNLMS Ijssel,netherlands,Active,Converted,1840-03-01,1859-01-01
+sf-java-1820_prins-alexander-der-nederlanden,sf-java-1820,HNLMS Prins Alexander der Nederlanden,netherlands,Active,Scrapped,1844-03-01,1874-01-01
+sf-java-1820_holland,sf-java-1820,HNLMS Holland,netherlands,Active,Scrapped,1846-03-01,1873-01-01
+sf-java-1820_rupel,sow-sambre-1828,HNLMS Rupel,netherlands,Active,Scrapped,1836-01-01,1847-01-01
+sf-java-1820_sambre,sow-sambre-1828,HNLMS Sambre,netherlands,Active,Scrapped,1828-01-01,1853-01-01
+sf-java-1820_rotterdam,sow-sambre-1828,HNLMS Rotterdam,netherlands,Active,Scrapped,1838-01-01,1862-01-01
+sf-embuscade-1795_embuscade,sf-embuscade-1795,HNLMS Embuscade,netherlands,Active,Captured,1795-04-23,1799-08-30
+sf-embuscade-1795_embuscade,sf-ambuscade-1799,HMS Ambuscade,britain,Active,Converted,1801-07-09,1803-04-01
+sf-amphitrite-1797_amphitrite,sf-amphitrite-1797,HNLMS Amphitrite,netherlands,Active,Captured,1798-01-01,1799-08-30
+sf-amphitrite-1797_amphitrite,sf-amphitrite-1799,HMS Amphitrite,britain,Active,Scrapped,1803-08-01,1805-04-01
+sf-kenau-hasselaar-1801_maria-reijersbergen,sf-kenau-hasselaar-1801,HNLMS Maria Reijersbergen,netherlands,Active,Captured,1801-03-01,1806-10-18
+sf-kenau-hasselaar-1801_kenau-hasselaar,sf-kenau-hasselaar-1801,HNLMS Kenau Hasselaar,netherlands,Active,Captured,1801-03-01,1807-01-01
+sf-kenau-hasselaar-1801_pallas,sf-kenau-hasselaar-1801,HNLMS Pallas,netherlands,Active,Captured,1801-03-01,1806-07-26
+sf-kenau-hasselaar-1801_proserpine,sf-kenau-hasselaar-1801,HNLMS Proserpine,netherlands,Active,Captured,1801-03-01,1804-05-04
+sf-kenau-hasselaar-1801_maria-reijersbergen,sf-amsterdam-1806,HMS Java,britain,Active,Sunk,1806-10-18,1807-03-01
+sf-kenau-hasselaar-1801_kenau-hasselaar,sf-amsterdam-1806,HMS Halstarr,britain,Active,Unknown,1807-01-01,1809-01-01
+sf-kenau-hasselaar-1801_proserpine,sf-amsterdam-1806,HMS Amsterdam,britain,Active,Auxiliary,1805-06-17,1806-05-01
+sf-orpheus-1803_orpheus,sf-orpheus-1803,HNLMS Orpheus,netherlands,Active,Captured,1803-03-01,1808-05-19
+sf-orpheus-1803_orpheus,sf-helder-1808,HMS Helder,britain,Active,Sunk,1809-04-01,1817-06-01
+sf-dageraad-1808_dageraad,sf-dageraad-1808,HNLMS Dageraad,netherlands,Active,Captured,1808-03-01,1810-01-01
+sf-dageraad-1808_dageraad,sf-dageraad-1808,HNLMS Aurora,netherlands,Active,Auxiliary,1814-01-01,1824-01-01
+sf-dageraad-1808_maria-reijersbergen,sf-dageraad-1808,HNLMS Maria Reijersbergen,netherlands,Active,Captured,1808-03-01,1810-01-01
+sf-dageraad-1808_maria-reijersbergen,sf-dageraad-1808,HNLMS Maria Reijersbergen,netherlands,Active,Scrapped,1814-01-01,1841-01-01
+sf-dageraad-1808_dageraad,sf-aurora-1810,L'Aurora,france,Active,Sold,1810-01-01,1814-01-01
+sf-dageraad-1808_maria-reijersbergen,sf-aurora-1810,La Maria Reijersbergen,france,Active,Sold,1810-01-01,1814-01-01
+sf-hindostan-1804_hindostan,sf-hindostan-1804,HMS Hindostan,britain,Active,Auxiliary,1804-05-30,1807-11-11
+sol-arrogant_hms-saturn,sf-saturn-1813,HMS Saturn,britain,Active,Scrapped,1813-12-01,1868-02-01
+sol-arrogant_hms-goliath,sf-saturn-1813,HMS Goliath,britain,Active,Scrapped,1813-07-01,1815-06-01
+sol-dannebroge-1850_dannebroge,sol-dannebroge-1850,HDMS Dannebroge,denmark,Active,Converted,1853-05-17,1864-01-01
+sol-dronning-marie-1824_dronning-marie,sol-dronning-marie-1824,HDMS Dronning Marie,denmark,Active,Converted,1824-03-01,1850-01-01
+sol-dronning-marie-1824_dronning-lovisa,sol-dronning-marie-1824,HDMS Dronning Lovisa,denmark,Active,Unknown,1824-03-01,1862-01-01
+sol-dronning-marie-1824_valdemar,sol-dronning-marie-1824,HDMS Valdemar,denmark,Active,Scrapped,1828-03-01,1869-01-01
+sol-dronning-marie-1824_frederik-den-sjette,sol-dronning-marie-1824,HDMS Frederik den Sjette,denmark,Active,Scrapped,1831-03-01,1872-01-01
+sol-dronning-marie-1824_skiold,sol-dronning-marie-1824,HDMS Skiold,denmark,Active,Converted,1833-03-01,1858-01-01
+sol-christian-viii-1840_christian-viii,sol-christian-viii-1840,HDMS Christian VIII,denmark,Active,Sunk,1841-05-11,1849-04-05
+sol-danmark-1817_danmark,sol-danmark-1817,HDMS Danmark,denmark,Active,Auxiliary,1817-03-01,1848-01-01
+sol-phoenix-1810_phoenix,sol-phoenix-1810,HDMS Phoenix,denmark,Active,Scrapped,1811-01-01,1843-01-01
+sol-prinds-christian-frederik-1804_prinds-christian-frederik,sol-prinds-christian-frederik-1804,HDMS Prinds Christian Frederik,denmark,Active,Sunk,1805-01-01,1808-03-22
+sol-prinds-christian-frederik-1804_prindsesse-caroline,sol-prinds-christian-frederik-1804,HDMS Prindsesse Caroline,denmark,Active,Captured,1807-01-01,1807-09-07
+sol-prinds-christian-frederik-1804_prindsesse-caroline,sol-princess-carolina-1807,HMS Princess Carolina,britain,Active,Sold,1808-09-23,1815-02-09
+sol-norge-1800_norge,sol-norge-1800,HDMS Norge,denmark,Active,Captured,1800-12-01,1807-09-07
+sol-norge-1800_norge,sol-norge-1807,HMS Norge,britain,Active,Sold,1810-01-01,1816-03-01
+sol-christian-vii-1803_christian-vii,sol-christian-vii-1803,HDMS Christian VII,denmark,Active,Captured,1803-10-01,1807-09-07
+sol-christian-vii-1803_christian-vii,sol-christian-vii-1807,HMS Christian VII,denmark,Active,Scrapped,1808-09-11,1838-03-01
+sol-christian-vii-1767_christian-vii,sol-christian-vii-1767,HDMS Christian VII,denmark,Active,Converted,1768-03-01,1799-01-01
+sol-christian-vii-1767_christian-vii,sol-provesteen-1799,HDMS Provesteen,denmark,Active,Sunk,1799-01-01,1801-04-02
+sol-waldemar-1798_waldemar,sol-waldemar-1798,HDMS Waldemar,denmark,Active,Captured,1798-03-01,1807-09-07
+sol-waldemar-1798_waldemar,sol-waldemar-1807,HMS Waldemar,britain,Active,Auxiliary,1807-12-02,1811-12-01
+sol-sejeren-1795_sejeren,sol-sejeren-1795,HDMS Sejeren,denmark,Active,Captured,1795-12-01,1807-09-07
+sol-sejeren-1795_sejeren,sol-syeren-1807,HMS Syeren,britain,Active,Scrapped,1807-09-07,1815-11-23
+sol-danmark-1794_danmark,sol-danmark-1794,HDMS Danmark,denmark,Active,Captured,1794-10-01,1807-09-07
+sol-danmark-1794_danmark,sol-danmark-1807,HMS Danmark,britain,Reserve,Scrapped,1809-02-01,1815-12-14
+sol-prindsesse-sophia-friderica-1775_prindsesse-sophia-friderica,sol-prindsesse-sophia-friderica-1775,HDMS Prindsesse Sophia Friderica,denmark,Active,Captured,1775-05-01,1807-09-07
+sol-prindsesse-sophia-friderica-1775_justitia,sol-prindsesse-sophia-friderica-1775,HDMS Justitia,denmark,Active,Captured,1780-01-01,1807-09-07
+sol-prindsesse-sophia-friderica-1775_arveprinds-frederick,sol-prindsesse-sophia-friderica-1775,HDMS Arveprinds Frederick,denmark,Active,Captured,1782-08-01,1807-09-07
+sol-prindsesse-sophia-friderica-1775_kronprinds-frederik,sol-prindsesse-sophia-friderica-1775,HDMS Kronprinds Frederik,denmark,Active,Captured,1786-01-01,1807-09-07
+sol-prindsesse-sophia-friderica-1775_nordstiernen,sol-prindsesse-sophia-friderica-1775,HDMS Nordstiernen,denmark,Active,Scrapped,1787-01-01,1805-01-01
+sol-prindsesse-sophia-friderica-1775_fyen,sol-prindsesse-sophia-friderica-1775,HDMS Fyen,denmark,Active,Captured,1788-01-01,1807-09-07
+sol-prindsesse-sophia-friderica-1775_odin,sol-prindsesse-sophia-friderica-1775,HDMS Odin,denmark,Active,Captured,1791-01-01,1807-09-07
+sol-prindsesse-sophia-friderica-1775_saelland,sol-prindsesse-sophia-friderica-1775,HDMS Saelland,denmark,Active,Sunk,1789-04-01,1801-04-02
+sol-prindsesse-sophia-friderica-1775_tre-kroner,sol-prindsesse-sophia-friderica-1775,HDMS Tre Kroner,denmark,Active,Captured,1790-01-01,1807-09-07
+sol-prindsesse-sophia-friderica-1775_kronprindsesse-maria,sol-prindsesse-sophia-friderica-1775,HDMS Kronprindsesse Maria,denmark,Active,Captured,1793-01-01,1807-09-07
+sol-prindsesse-sophia-friderica-1775_skjold,sol-prindsesse-sophia-friderica-1775,HDMS Skjold,denmark,Active,Captured,1793-03-01,1807-09-07
+sol-prindsesse-sophia-friderica-1775_prindsesse-sophia-friderica,sol-princess-sophia-frederica-1807,HMS Princess Sophia Frederica,britain,Reserve,Auxiliary,1807-12-13,1811-02-01
+sol-prindsesse-sophia-friderica-1775_justitia,sol-princess-sophia-frederica-1807,HMS Justitia,britain,Reserve,Auxiliary,1807-12-05,1817-03-01
+sol-prindsesse-sophia-friderica-1775_arveprinds-frederick,sol-princess-sophia-frederica-1807,HMS Heir Apparent Frederick,britain,Reserve,Auxiliary,1807-11-19,1810-01-01
+sol-prindsesse-sophia-friderica-1775_kronprinds-frederik,sol-princess-sophia-frederica-1807,HMS Kron Princen,britain,Reserve,Auxiliary,1807-11-13,1811-07-01
+sol-prindsesse-sophia-friderica-1775_fyen,sol-princess-sophia-frederica-1807,HMS Fyen,britain,Reserve,Auxiliary,1808-01-17,1809-11-01
+sol-prindsesse-sophia-friderica-1775_odin,sol-princess-sophia-frederica-1807,HMS Odin,britain,Reserve,Auxiliary,1807-12-05,1810-12-01
+sol-prindsesse-sophia-friderica-1775_tre-kroner,sol-princess-sophia-frederica-1807,HMS Tree Kronen,britain,Reserve,Auxiliary,1807-11-08,1817-01-01
+sol-prindsesse-sophia-friderica-1775_kronprindsesse-maria,sol-princess-sophia-frederica-1807,HMS Kron Princessen,britain,Reserve,Fitting,1807-12-13,1811-01-01
+sol-prindsesse-sophia-friderica-1775_skjold,sol-princess-sophia-frederica-1807,HMS Skiold,britain,Reserve,Auxiliary,1807-12-02,1811-10-01
+sol-prindsesse-sophia-friderica-1775_kronprinds-frederik,sol-princess-sophia-frederica-1807,HMS Kron Princen,britain,Fitting,Active,1811-07-01,1811-11-01
+sol-prindsesse-sophia-friderica-1775_kronprinds-frederik,sol-princess-sophia-frederica-1807,HMS Kron Princen,britain,Active,Reserve,1811-11-01,1817-01-01
+sol-neptunus-1789_neptunus,sol-neptunus-1789,HDMS Neptunus,denmark,Active,Captured,1789-04-01,1807-09-07
+sol-infodsretten-1776_infodsretten,sol-infodsretten-1776,HDMS Infodsretten,denmark,Active,Unknown,1776-03-01,1784-01-01
+sol-infodsretten-1776_olden-borg,sol-infodsretten-1776,HDMS Olden Borg,denmark,Active,Unknown,1779-03-01,1799-01-01
+sol-infodsretten-1776_ditmarsken,sol-infodsretten-1776,HDMS Ditmarsken,denmark,Active,Captured,1780-03-01,1807-09-07
+sol-infodsretten-1776_prindsesse-lovisa-augusta,sol-infodsretten-1776,HDMS Prindsesse Lovisa Augusta,denmark,Active,Sold,1788-01-01,1829-01-01
+sol-infodsretten-1776_mars,sol-infodsretten-1776,HDMS Mars,denmark,Active,Captured,1784-03-01,1807-09-07
+sol-infodsretten-1776_infodsretten-ii,sol-infodsretten-1776,HDMS Infodsretten,denmark,Active,Sunk,1786-03-01,1801-04-02
+sol-holsteen-1772_dannebroge,sol-holsteen-1772,HDMS Dannebroge,denmark,Active,Sunk,1775-01-01,1801-04-02
+sol-holsteen-1772_wagrien,sol-holsteen-1772,HDMS Wagrien,denmark,Active,Captured,1773-03-01,1801-04-02
+sol-prins-friderich-1761_prins-friderich,sol-prins-friderich-1761,HDMS Prins Friderich,denmark,Active,Auxiliary,1761-03-01,1780-01-01
+sol-prins-friderich-1761_norske-love,sol-prins-friderich-1761,HDMS Norske Love,denmark,Active,Auxiliary,1765-03-01,1795-01-01
+sol-prins-friderich-1761_caroline-mathilde,sol-prins-friderich-1761,HDMS Caroline Mathilde,denmark,Active,Sunk,1766-03-01,1801-04-01
+sol-elephanten-1769_elephanten,sol-elephanten-1769,HDMS Elephanten,denmark,Active,Sunk,1769-03-01,1801-04-01
+sol-den-praegtige-1768_den-praegtige,sol-den-praegtige-1768,HDMS Den Praegtige,denmark,Active,Scrapped,1768-03-01,1799-01-01
+sol-slesvig-1767_slesvig,sol-slesvig-1767,HDMS Slesvig,denmark,Active,Sold,1767-03-01,1798-01-01
+sol-prindsesse-sophia-magdalena-1763_prindsesse-sophia-magdalena,sol-prindsesse-sophia-magdalena-1763,HDMS Prindsesse Sophia Magdalena,denmark,Active,Sold,1763-03-01,1781-01-01
+sol-prindsesse-sophia-magdalena-1763_prindsesse-wilhelmine-caroline,sol-prindsesse-sophia-magdalena-1763,HDMS Prindsesse Wilhelmine Caroline,denmark,Active,Sunk,1766-01-01,1801-04-01
+sol-jylland-1760_jylland,sol-jylland-1760,HDMS Jylland,denmark,Active,Captured,1760-03-01,1801-04-02
+sol-mars-1760_mars,sol-mars-1760,HDMS Mars,denmark,Active,Sold,1760-03-01,1781-01-01
+sol-gronland-1756_gronland,sol-gronland-1756,HDMS Gronland,denmark,Active,Scrapped,1756-03-01,1791-01-01
+sol-gronland-1756_ebenetzer,sol-gronland-1756,HDMS Ebenetzer,denmark,Active,Scrapped,1757-03-01,1791-01-01
+sol-gronland-1756_sanct-croix,sol-gronland-1756,HDMS Sanct Croix,denmark,Active,Scrapped,1758-03-01,1791-01-01
+sol-dronning-juliane-marie-1752_dronning-juliane-marie,sol-dronning-juliane-marie-1752,HDMS Dronning Juliane Marie,denmark,Active,Scrapped,1752-03-01,1788-01-01
+sol-dronning-juliane-marie-1752_cronprindsen,sol-dronning-juliane-marie-1752,HDMS Cronprindsen,denmark,Active,Scrapped,1756-03-01,1791-01-01
+sol-dronning-juliane-marie-1752_dannemark,sol-dronning-juliane-marie-1752,HDMS Dannemark,denmark,Active,Scrapped,1757-03-01,1792-01-01
+sol-fridericus-quintus-1753_fridericus-quintus,sol-fridericus-quintus-1753,HDMS Fridericus Quintus,denmark,Active,Scrapped,1753-04-01,1775-01-01
+sol-neptunus-1750_neptunus,sol-neptunus-1750,HDMS Neptunus,denmark,Active,Scrapped,1750-03-01,1789-01-01
+sol-neptunus-1750_saelland,sol-neptunus-1750,HDMS Saelland,denmark,Active,Scrapped,1750-03-01,1788-01-01
+sol-stormarn-1751_stormarn,sol-stormarn-1751,HDMS Stormarn,denmark,Active,Scrapped,1751-03-01,1790-01-01
+sol-stormarn-1751_island,sol-stormarn-1751,HDMS Island,denmark,Active,Scrapped,1751-03-01,1789-01-01
+sol-stormarn-1751_sejeren,sol-stormarn-1751,HDMS Sejeren,denmark,Active,Scrapped,1754-03-01,1794-01-01
