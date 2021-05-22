@@ -19794,7 +19794,9 @@ sf-providence_uss-providence,sf-providence-uk,HMS Providence,britain,Active,Sold
 sf-deane_uss-deane,sf-deane,USS Deane,usa,Active,Renamed,1778-05-01,1782-09-01
 sf-deane_uss-deane,sf-deane,USS Hague,usa,Active,Sold,1782-09-01,1783-01-01
 sf-providence_uss-trumbull,sf-providence,USS Trumbull,usa,Active,Captured,1779-09-20,1781-08-28
-sf-indien_uss-indien,sf-indien,USS South Carolina,usa,Active,Captured,1780-05-30,1782-12-21
+sf-indien-1777_indien,sf-indien-1777,Le Indien,france,Active,Sold,1778-04-01,1781-01-01
+sf-indien-1777_tigre,sf-indien-1777,Le Tigre,france,Active,Sold,1780-03-01,1781-05-01
+sf-indien-1777_indien,sf-south-carolina-1781,USS South Carolina,usa,Active,Captured,1781-01-01,1782-12-21
 sf-bonhomme-richard_uss-bonhomme-richard,sf-bonhomme-richard,USS Bonhomme Richard,usa,Active,Sunk,1779-02-04,1779-09-25
 sf-enterprise_hms-siren,sf-enterprise,HMS Siren,britain,Active,Sunk,1775-10-05,1777-11-06
 sf-enterprise_hms-fox,sf-enterprise,HMS Fox,britain,Active,Captured,1776-02-12,1777-06-07
@@ -21402,14 +21404,14 @@ sol-albion_royal-oak,sol-albion,HMS Royal Oak,britain,Active,Auxiliary,1809-03-1
 sol-albion_fame,sol-albion,HMS Fame,britain,Active,Scrapped,1806-01-01,1817-01-01
 sol-achille_superbe,sol-achille,HMS Superb,britain,Active,Scrapped,1798-06-30,1826-04-01
 sol-achille_achille,sol-achille,HMS Achille,britain,Active,Scrapped,1798-08-25,1865-11-01
-sol-tonnant_tonnant,sol-tonnant,Tonnant,france,Active,Captured,1790-09-01,1798-08-02
-sol-tonnant_indomptable,sol-tonnant,Indomptable,france,Active,Sunk,1793-04-01,1805-10-22
-sol-tonnant_sans-pareil,sol-tonnant,Sans Pareil,france,Active,Captured,1793-09-01,1794-06-01
-sol-tonnant_indivisible,sol-tonnant,Indivisible,france,Active,Captured,1799-10-01,1805-02-06
+sol-tonnant_tonnant,sol-tonnant,Le Tonnant,france,Active,Captured,1790-09-01,1798-08-02
+sol-tonnant_indomptable,sol-tonnant,L'Indomptable,france,Active,Sunk,1793-04-01,1805-10-22
+sol-tonnant_sans-pareil,sol-tonnant,Le Sans Pareil,france,Active,Captured,1793-09-01,1794-06-01
+sol-tonnant_indivisible,sol-tonnant,L'Indivisible,france,Active,Captured,1799-10-01,1805-02-06
 sol-tonnant_foudroyant,sol-tonnant,Foudroyant,france,Active,Scrapped,1800-08-01,1833-10-26
 sol-tonnant_formidable,sol-tonnant,Formidable,france,Active,Captured,1795-10-01,1805-11-03
-sol-tonnant_guilaume-tell,sol-tonnant,Guilaume Tell,france,Active,Captured,1796-07-01,1800-03-31
-sol-tonnant_franklin,sol-tonnant,Franklin,france,Active,Captured,1798-03-01,1798-08-02
+sol-tonnant_guilaume-tell,sol-tonnant,Le Guilaume Tell,france,Active,Captured,1796-07-01,1800-03-31
+sol-tonnant_franklin,sol-tonnant,Le Franklin,france,Active,Captured,1798-03-01,1798-08-02
 sol-tonnant_sans-pareil,sol-sans-pareil-1794,HMS Sans Pareil,britain,Active,Scrapped,1794-06-01,1842-10-01
 sol-tonnant_tonnant,sol-sans-pareil-1795,HMS Tonnant,britain,Active,Scrapped,1798-08-02,1821-01-01
 sol-tonnant_indivisible,sol-sans-pareil-1796,HMS Alexandre,britain,Active,Auxiliary,1805-02-06,1808-01-01
@@ -21417,11 +21419,11 @@ sol-tonnant_formidable,sol-sans-pareil-1797,HMS Brave,britain,Active,Scrapped,18
 sol-tonnant_guilaume-tell,sol-sans-pareil-1798,HMS Malta,britain,Active,Auxiliary,1800-03-31,1831-01-01
 sol-tonnant_franklin,sol-sans-pareil-1799,HMS Canopus,britain,Active,Scrapped,1798-08-02,1887-10-01
 sol-ganges-1782_hms-ganges,sol-ganges-1782,HMS Ganges,britain,Active,Auxiliary,1782-04-20,1811-10-01
-sol-ganges-1782_hms-culloden,sol-ganges-1783,HMS Culloden,britain,Active,Scrapped,1783-07-05,1813-02-01
-sol-ganges-1782_hms-tremendous,sol-ganges-1784,HMS Tremendous,britain,Active,Converted,1785-01-28,1845-01-01
-sol-ganges-1782_hms-invincible,sol-ganges-1785,HMS Invincible,britain,Active,Auxiliary,1808-04-11,1855-01-01
-sol-ganges-1782_hms-minden,sol-ganges-1786,HMS Minden,britain,Active,Auxiliary,1812-07-15,1842-01-01
-sol-ganges-1782_hms-minotaur,sol-ganges-1787,HMS Minotaur,britain,Active,Auxiliary,1816-10-14,1842-03-01
+sol-ganges-1782_hms-culloden,sol-ganges-1782,HMS Culloden,britain,Active,Scrapped,1783-07-05,1813-02-01
+sol-ganges-1782_hms-tremendous,sol-ganges-1782,HMS Tremendous,britain,Active,Converted,1785-01-28,1845-01-01
+sol-ganges-1782_hms-invincible,sol-ganges-1782,HMS Invincible,britain,Active,Auxiliary,1808-04-11,1855-01-01
+sol-ganges-1782_hms-minden,sol-ganges-1782,HMS Minden,britain,Active,Auxiliary,1812-07-15,1842-01-01
+sol-ganges-1782_hms-minotaur,sol-ganges-1782,HMS Minotaur,britain,Active,Auxiliary,1816-10-14,1842-03-01
 sol-st-lawrence_hms-st-lawrence,sol-st-lawrence,HMS St Lawrence,britain,Active,Reserve,1814-10-16,1815-05-01
 sol-st-lawrence_hms-st-lawrence,sol-st-lawrence,HMS St Lawrence,britain,Reserve,Scrapped,1815-05-01,1832-01-01
 sol-ville-de-paris_hms-ville-de-paris,sol-ville-de-paris,HMS Ville de Paris,britain,Active,Scrapped,1795-12-01,1845-01-01
@@ -21439,12 +21441,13 @@ sol-holsteen-1772_hdms-holsteen,sol-holstein,HMS Holstein,britain,Active,Scrappe
 sol-holsteen-1772_hdms-holsteen,sol-holsteen-1772,HDMS Holsteen,britain,Active,Captured,1775-01-01,1801-04-02
 sol-imaun_imaun,sol-imaun,Imaun,muscat,Active,Sold,1827-02-01,1836-03-09
 sol-imaun_imaun,sol-imaun-1836,HMS Imaun,britain,Active,Auxiliary,1836-03-09,1842-01-01
-sol-diomede_hms-diomede,sol-diomede,HMS Diomede,britain,Active,Scrapped,1798-01-01,1815-01-01
-sol-diomede_hms-tiger,sol-diomede,HMS Grampus,britain,Active,Scrapped,1803-04-11,1832-10-01
-sol-antelope_hms-antelope,sol-antelope,HMS Antelope,britain,Active,Scrapped,1802-01-01,1845-01-01
-sol-jupiter_hms-jupiter,sol-jupiter,HMS Jupiter,britain,Active,Scrapped,1813-01-01,1870-01-01
-sol-salisbury_hms-salisbury,sol-salisbury,HMS Salisbury,britain,Active,Scrapped,1814-01-01,1837-01-01
-sol-salisbury_hms-romney,sol-salisbury,HMS Romney,britain,Active,Scrapped,1815-01-01,1845-01-01
+sol-diomede_hms-diomede,sol-diomede,HMS Diomede,britain,Active,Auxiliary,1798-03-01,1812-06-01
+sol-diomede_hms-tiger,sol-diomede,HMS Grampus,britain,Active,Auxiliary,1803-04-11,1817-01-01
+sol-antelope_hms-antelope,sol-antelope,HMS Antelope,britain,Active,Auxiliary,1803-01-01,1823-08-01
+sol-jupiter_hms-jupiter,sol-jupiter,HMS Jupiter,britain,Reserve,Auxiliary,1814-01-01,1819-11-01
+sol-salisbury_hms-salisbury,sol-salisbury,HMS Salisbury,britain,Active,Reserve,1814-08-01,1824-09-01
+sol-salisbury_hms-salisbury,sol-salisbury,HMS Salisbury,britain,Reserve,Scrapped,1824-09-01,1837-01-01
+sol-salisbury_hms-romney,sol-salisbury,HMS Romney,britain,Reserve,Auxiliary,1815-03-01,1820-07-01
 sol-salisbury_hms-isis,sol-salisbury,HMS Isis,britain,Active,Auxiliary,1823-09-03,1861-01-01
 sol-blake_hms-blake,sol-blake,HMS Blake,britain,Active,Auxiliary,1808-11-01,1814-01-01
 sol-blake_hms-san-domingo,sol-blake,HMS San Domingo,britain,Active,Sold,1809-06-01,1816-01-01
@@ -21461,7 +21464,7 @@ sol-brunswick_hms-brunswick,sol-brunswick,HMS Brunswick,britain,Active,Scrapped,
 sol-mars_hms-mars,sol-mars,HMS Mars,britain,Active,Scrapped,1795-02-01,1823-01-01
 sol-mars_hms-centaur,sol-mars,HMS Centaur,britain,Active,Scrapped,1797-06-01,1819-01-01
 sol-courageux_hms-courageux,sol-courageux,HMS Courageux,britain,Active,Scrapped,1800-07-01,1832-01-01
-sol-plantagenent_hms-plantagenent,sol-plantagenent,HMS Plantagenent,britain,Active,Scrapped,1802-02-01,1817-01-01
+sol-plantagenet_hms-plantagenent,sol-plantagenet,HMS Plantagenet,britain,Active,Scrapped,1802-02-01,1817-01-01
 sol-bulwark_hms-bulwark,sol-bulwark,HMS Bulwark,britain,Active,Scrapped,1807-08-01,1826-09-26
 sol-ajax_hms-,sol-ajax,HMS Ajax,britain,Active,Sunk,1798-06-01,1807-02-14
 sol-ajax_hms-,sol-ajax,HMS Kent,britain,Active,Auxiliary,1798-04-01,1856-01-01
@@ -21475,8 +21478,8 @@ sol-royal-sovereign,sol-royal-sovereign,HMS Royal Sovereign,britain,Active,Auxil
 sol-umpire_hms-royal-george,sol-umpire,HMS Royal George,britain,Active,Scrapped,1789-01-01,1822-01-01
 sol-umpire_hms-queen-charlotte,sol-umpire,HMS Queen Charlotte,britain,Active,Sunk,1790-07-07,1800-03-17
 sol-sandwich_hms-sandwhich,sol-sandwich,HMS Sandwich,britain,Active,Scrapped,1759-07-01,1810-01-01
-sol-sandwich_hms-blenheim,sol-sandwich,HMS Blenheim,britain,Active,Sunk,1761-11-01,1807-01-12
-sol-sandwich_hms-ocean,sol-sandwich,HMS Ocean,britain,Active,Scrapped,1761-08-01,1793-01-01
+sol-sandwich_hms-blenheim,sol-sandwich,HMS Blenheim,britain,Active,Converted,1761-11-01,1801-02-01
+sol-sandwich_hms-ocean,sol-sandwich,HMS Ocean,britain,Active,Scrapped,1761-06-09,1791-07-01
 sol-london_hms-london,sol-london,HMS London,britain,Active,Scrapped,1766-09-01,1811-01-01
 sol-prince_hms-prince,sol-prince,HMS Prince,britain,Active,Scrapped,1788-10-01,1837-01-01
 sol-prince_hms-impregnable,sol-prince,HMS Impregnable,britain,Active,Sunk,1786-07-01,1799-10-18
@@ -21491,7 +21494,7 @@ sol-queen-1769_hms-queen,sol-queen-1811,HMS Queen,britain,Active,Scrapped,1811-1
 sol-duke_hms-duke,sol-duke,HMS Duke,britain,Active,Scrapped,1778-01-01,1843-01-01
 sol-duke_hms-glory,sol-duke,HMS Glory,britain,Active,Sunk,1786-01-01,1811-12-24
 sol-duke_hms-st-george,sol-duke,HMS St George,britain,Active,Auxiliary,1788-10-01,1815-01-01
-sol-duke_hms-atlas,sol-duke,HMS Atlas,britain,Active,Auxiliary,1782-05-01,1813-01-01
+sol-duke_hms-atlas,sol-duke,HMS Atlas,britain,Active,Converted,1782-05-01,1802-11-01
 sol-boyne-1790_hms-boyne,sol-boyne-1790,HMS Boyne,britain,Active,Sunk,1790-08-01,1795-05-01
 sol-boyne-1790_hms-prince-of-wales,sol-boyne-1790,HMS Prince of Wales,britain,Active,Scrapped,1794-09-01,1822-12-01
 sol-caesar_hms-caesar,sol-caesar,HMS Caesar,britain,Active,Auxiliary,1794-02-01,1814-01-01
@@ -21560,10 +21563,10 @@ sol-elizabeth_hms-berwick,sol-elizabeth,HMS Berwick,britain,Active,Sunk,1805-10-
 sol-elizabeth_hms-bombay-castle,sol-elizabeth,HMS Bombay Castle,britain,Active,Sunk,1782-01-01,1796-12-20
 sol-elizabeth_hms-powerful,sol-elizabeth,HMS Powerful,britain,Active,Scrapped,1783-08-01,1812-01-01
 sol-elizabeth_hms-defiance,sol-elizabeth,HMS Defiance,britain,Active,Auxiliary,1784-04-01,1813-01-01
-sol-elizabeth_hms-swiftsure,sol-elizabeth,HMS Swiftsure,britain,Active,Auxiliary,1787-08-01,1781-06-24
-sol-elizabeth_hms-swiftsure,sol-elizabeth,HMS Swiftsure,britain,Active,Auxiliary,1805-10-21,1808-03-01
+sol-elizabeth_hms-swiftsure,sol-elizabeth,HMS Swiftsure,britain,Active,Captured,1787-08-01,1801-06-24
+sol-elizabeth_hms-swiftsure,sol-elizabeth,HMS Swiftsure,britain,Active,Scrapped,1805-10-21,1816-01-01
 sol-elizabeth_hms-berwick,sol-swiftsure-1801,Berwick,france,Active,Captured,1795-03-08,1805-10-21
-sol-elizabeth_hms-swiftsure,sol-swiftsure-1801,Swiftsure,france,Active,Captured,1781-06-24,1805-10-21
+sol-elizabeth_hms-swiftsure,sol-swiftsure-1801,Swiftsure,france,Active,Captured,1801-06-24,1805-10-21
 sol-culloden_hms-culloden,sol-culloden,HMS Culloden,britain,Active,Sunk,1776-09-01,1781-01-23
 sol-culloden_hms-thunderer,sol-culloden,HMS Thunderer,britain,Reserve,Active,1783-12-01,1793-01-01
 sol-culloden_hms-thunderer,sol-culloden,HMS Thunderer,britain,Active,Scrapped,1793-01-01,1814-03-01
@@ -21602,9 +21605,9 @@ sol-ardent_hms-stately,sol-ardent,HMS Stately,britain,Active,Scrapped,1785-03-01
 sol-ardent_hms-nassau,sol-ardent,HMS Nassau,britain,Active,Sunk,1785-12-01,1799-10-14
 sol-ardent_hms-indefatigable,sol-ardent,HMS Indefatigable,britain,Reserve,Converted,1784-07-01,1794-09-01
 sol-ardent_hms-ardent,sol-ardent-1779,Ardent,france,Active,Captured,1779-08-17,1782-04-14
-sol-warcester_hms-worcester,sol-warcester,HMS Worcester,britain,Active,Scrapped,1770-01-01,1816-01-01
-sol-warcester_hms-lion,sol-warcester,HMS Lion,britain,Active,Auxiliary,1777-11-01,1816-09-01
-sol-warcester_hms-stirling-castle,sol-warcester,HMS Stirling Castle,britain,Active,Sunk,1775-09-01,1780-10-05
+sol-worcester_hms-worcester,sol-worcester,HMS Worcester,britain,Active,Scrapped,1770-01-01,1816-01-01
+sol-worcester_hms-lion,sol-worcester,HMS Lion,britain,Active,Auxiliary,1777-11-01,1816-09-01
+sol-worcester_hms-stirling-castle,sol-worcester,HMS Stirling Castle,britain,Active,Sunk,1775-09-01,1780-10-05
 sol-intrepid_hms-intrepid,sol-intrepid,HMS Intrepid,britain,Active,Auxiliary,1771-02-01,1810-05-01
 sol-intrepid_hms-monmouth,sol-intrepid,HMS Monmouth,britain,Active,Auxiliary,1772-07-01,1796-10-20
 sol-intrepid_hms-defiance,sol-intrepid,HMS Defiance,britain,Active,Sunk,1772-12-01,1780-02-15
@@ -21628,9 +21631,9 @@ sol-crown_hms-crown,sol-crown,HMS Crown,britain,Active,Scrapped,1782-06-01,1816-
 sol-crown_hms-ardent,sol-crown,HMS Ardent,britain,Active,Sunk,1783-04-01,1794-04-01
 sol-crown_hms-scipio,sol-crown,HMS Scipio,britain,Active,Scrapped,1783-02-01,1798-01-01
 sol-crown_hms-veteran,sol-crown,HMS Veteran,britain,Active,Scrapped,1787-11-01,1816-01-01
-sol-edgar_hms-,sol-edgar,HMS Panther,britain,Active,Auxiliary,1758-09-03,1807-01-01
-sol-edgar_hms-,sol-edgar,HMS Edgar,britain,Active,Sunk,1759-02-01,1774-01-01
-sol-edgar_hms-,sol-edgar,HMS Firm,britain,Active,Scrapped,1759-04-01,1791-01-01
+sol-edgar_hms-panther,sol-edgar,HMS Panther,britain,Active,Auxiliary,1758-09-03,1807-01-01
+sol-edgar_hms-edgar,sol-edgar,HMS Edgar,britain,Active,Sunk,1759-02-01,1774-01-01
+sol-edgar_hms-firm,sol-edgar,HMS Firm,britain,Active,Scrapped,1759-04-01,1791-01-01
 ssow-camelion_hms-camelion,ssow-camelion,HMS Camelion,britain,Active,Scrapped,1861-07-30,1883-01-01
 ssow-camelion_hms-pelican,ssow-camelion,HMS Pelican,britain,Active,Sold,1861-09-25,1867-02-01
 ssow-camelion_hms-rinaldo,ssow-camelion,HMS Rinaldo,britain,Active,Scrapped,1861-06-08,1884-04-01
@@ -25707,3 +25710,85 @@ sol-neptunus-1750_saelland,sol-neptunus-1750,HDMS Saelland,denmark,Active,Scrapp
 sol-stormarn-1751_stormarn,sol-stormarn-1751,HDMS Stormarn,denmark,Active,Scrapped,1751-03-01,1790-01-01
 sol-stormarn-1751_island,sol-stormarn-1751,HDMS Island,denmark,Active,Scrapped,1751-03-01,1789-01-01
 sol-stormarn-1751_sejeren,sol-stormarn-1751,HDMS Sejeren,denmark,Active,Scrapped,1754-03-01,1794-01-01
+sf-raleigh-1776_raleigh,sf-raleigh-1776,USS Raleigh,usa,Active,Captured,1776-05-21,1778-09-28
+sf-raleigh-1776_raleigh,sf-raleigh-1778,HMS Raleigh,britain,Active,Sold,1778-10-09,1783-07-17
+sow-confiance-1814_confiance,sow-confiance-1814,HMS Confiance,britain,Active,Captured,1814-08-25,1814-09-11
+sol-memduhiye-1833_memduhiye,sol-memduhiye-1833,Memduhiye,turkey,Active,Scrapped,1833-04-01,1857-01-01
+sol-memduhiye-1833_tesrifiye,sol-memduhiye-1833,Tesrifiye,turkey,Active,Unknown,1834-04-01,1853-01-01
+sol-memduhiye-1833_tesvikiye,sol-memduhiye-1833,Tesvikiye,turkey,Active,Unknown,1834-04-01,1835-01-01
+sol-memduhiye-1833_fevziye,sol-memduhiye-1833,Fevziye,turkey,Active,Unknown,1836-04-01,1836-12-01
+sol-memduhiye-1833_tevfikiye,sol-memduhiye-1833,Tevfikiye,turkey,Active,Unknown,1836-04-01,1836-12-01
+sol-tir-i-sevket-1842_tir-i-sevket,sol-tir-i-sevket-1842,Tir-i Sevket,turkey,Active,Sunk,1842-04-01,1850-10-23
+sol-fethiye-1830_fethiye,sol-fethiye-1830,Fethiye,turkey,Active,Sunk,1830-04-01,1854-01-01
+sol-iclaliye-1840_iclaliye,sol-iclaliye-1840,Iclaliye,turkey,Active,Scrapped,1840-04-01,1855-01-01
+sol-peyk-i-zafer-1841_peyk-i-zafer,sol-peyk-i-zafer-1841,Peyk i Zafer,turkey,Active,Converted,1841-04-01,1856-01-01
+sol-fethiye-1856_fethiye,sol-fethiye-1856,Fethiye,turkey,Active,Converted,1856-04-01,1858-01-01
+sol-fethiye-1856_sadiye,sol-fethiye-1856,Sadiye,turkey,Active,Converted,1856-04-01,1858-01-01
+sol-mahmudiye-1828_mahmudiye,sol-mahmudiye-1828,Mahmudiye,turkey,Active,Scrapped,1829-06-01,1874-12-19
+sol-mehalet-el-koubra-1831_mehalet-el-koubra,sol-mehalet-el-koubra-1831,Mehalet-el-Koubra,egypt,Active,Scrapped,1831-04-01,1850-01-01
+sol-mehalet-el-koubra-1831_mansourah,sol-mehalet-el-koubra-1831,Mansourah,egypt,Active,Scrapped,1831-10-01,1850-01-01
+sol-mehalet-el-koubra-1831_iskander,sol-mehalet-el-koubra-1831,Iskander,egypt,Active,Sold,1832-04-01,1850-01-01
+sol-mehalet-el-koubra-1831_homs,sol-mehalet-el-koubra-1831,Homs,egypt,Active,Sold,1833-04-01,1850-01-01
+sol-mehalet-el-koubra-1831_aleppo,sol-mehalet-el-koubra-1831,Aleppo,egypt,Active,Sold,1837-04-01,1853-01-01
+sol-mehalet-el-koubra-1831_fayoum,sol-mehalet-el-koubra-1831,Fayoum,egypt,Active,Sold,1838-07-01,1853-01-01
+sol-mehalet-el-koubra-1831_benisouef,sol-mehalet-el-koubra-1831,Benisouef,egypt,Active,Sold,1839-04-01,1853-01-01
+sol-beylan-1835_beylan,sol-beylan-1835,Beylan,egypt,Active,Training,1835-04-01,1851-01-01
+sol-aboukir-1832_aboukir,sol-aboukir-1832,Aboukir,egypt,Active,Scrapped,1832-08-01,1850-01-01
+sol-ake-1832_ake,sol-ake-1832,Ake,egypt,Active,Sunk,1833-08-01,1854-10-31
+sol-ake-1832_masr,sol-ake-1832,Masr,egypt,Active,Unknown,1832-11-01,1850-01-01
+sol-chatham-1812_chatham,sol-chatham-1812,HMS Chatham,britain,Active,Auxiliary,1812-04-01,1814-07-01
+sol-1745-establishment-1st-1756_royal-george,sol-1745-establishment-1st-1756,HMS Royal George,britain,Active,Sunk,1756-02-18,1782-08-29
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Reserve,Fitting,1762-10-19,1778-06-01
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Fitting,Active,1778-06-01,1779-04-01
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Active,Reserve,1762-10-19,1783-03-13
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Reserve,Active,1783-03-13,1793-01-01
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Active,Reserve,1793-01-01,1798-02-01
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Reserve,Auxiliary,1798-02-01,1800-01-01
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Auxiliary,Active,1800-01-01,1803-04-01
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Active,Reserve,1803-04-01,1806-06-01
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Reserve,Auxiliary,1806-06-01,1813-10-01
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Auxiliary,Reserve,1813-10-01,1815-06-01
+sol-1745-establishment-1st-1756_britannia,sol-1745-establishment-1st-1756,HMS Britannia,britain,Reserve,Auxiliary,1815-06-01,1825-02-25
+sol-agincourt-1796_agincourt,sol-agincourt-1796,HMS Agincourt,britain,Active,Auxiliary,1797-03-31,1808-02-01
+sol-namur-1756_namur,sol-namur-1756,HMS Namur,britain,Active,Converted,1756-05-19,1804-06-01
+sol-namur-1756_namur,sol-namur-1805,HMS Namur,britain,Active,Auxiliary,1805-03-01,1807-06-01
+sol-duke_hms-atlas,sol-atlas-1804,HMS Atlas,britain,Active,Auxiliary,1804-03-01,1813-12-01
+sol-neptune-1756_neptune,sol-neptune-1756,HMS Neptune,britain,Active,Scrapped,1757-04-02,1802-01-01
+sol-neptune-1756_union,sol-neptune-1756,HMS Union,britain,Active,Auxiliary,1757-01-21,1787-10-01
+sol-sandwich_hms-blenheim,sol-blenheim-1801,HMS Blenheim,britain,Active,Sunk,1801-05-01,1807-03-01
+sol-fenix-1749_fenix,sol-fenix-1749,Fenix,spain,Active,Captured,1749-11-01,1780-01-16
+sol-fenix-1749_fenix,sol-gibraltar-1780,HMS Gibraltar,britain,Active,Auxiliary,1780-08-01,1813-12-01
+sol-princessa-1750_princessa,sol-princessa-1750,Princessa,spain,Active,Captured,1751-08-15,1780-01-16
+sol-princessa-1750_infante,sol-princessa-1750,Infante,spain,Active,Captured,1751-08-15,1762-08-13
+sol-princessa-1750_galicia,sol-princessa-1750,Galicia,spain,Active,Scrapped,1851-08-15,1797-01-01
+sol-princessa-1750_princessa,sol-infanta-1762,HMS Princessa,britain,Active,Auxiliary,1780-08-22,1784-07-01
+sol-princessa-1750_infante,sol-infanta-1762,HMS Infanta,britain,Active,Sold,1762-08-13,1775-04-26
+sol-1733-establishment-70-1737_elizabeth,sol-1733-establishment-70-1737,HMS Elizabeth,britain,Active,Scrapped,1738-05-16,1766-05-10
+sol-1733-establishment-70-1737_suffolk,sol-1733-establishment-70-1737,HMS Suffolk,britain,Active,Scrapped,1739-07-01,1765-06-12
+sol-1733-establishment-70-1737_prince-frederick,sol-1733-establishment-70-1737,HMS Prince Frederick,britain,Active,Auxiliary,1740-06-11,1764-06-01
+sol-1733-establishment-70-1737_nassau,sol-1733-establishment-70-1737,HMS Nassau,britain,Active,Scrapped,1740-10-17,1770-09-04
+sol-1733-establishment-70-1737_essex,sol-1733-establishment-70-1737,HMS Essex,britain,Active,Sunk,1741-05-15,1759-11-20
+sol-1733-establishment-70-1737_bedford,sol-1733-establishment-70-1737,HMS Bedford,britain,Active,Auxiliary,1741-05-24,1767-11-01
+sol-1733-establishment-70-1737_royal-oak,sol-1733-establishment-70-1737,HMS Royal Oak,britain,Active,Scrapped,1741-10-08,1764-04-08
+sol-1733-establishment-70-1737_stirling-castle,sol-1733-establishment-70-1737,HMS Stirling Castle,britain,Active,Sunk,1742-05-30,1762-09-14
+sol-1733-establishment-70-1737_revenge,sol-1733-establishment-70-1737,HMS Revenge,britain,Active,Auxiliary,1742-07-03,1782-01-01
+sol-1733-establishment-70-1737_monmouth,sol-1733-establishment-70-1737,HMS Monmouth,britain,Active,Scrapped,1742-10-31,1767-08-28
+sol-1733-establishment-70-1737_captain,sol-1733-establishment-70-1737,HMS Captain,britain,Active,Converted,1743-05-17,1777-02-01
+sol-1733-establishment-70-1737_berwick,sol-1733-establishment-70-1737,HMS Berwick,britain,Active,Scrapped,1743-07-26,1760-09-01
+sol-1733-establishment-70-1737_captain,sol-buffalo-1777,HMS Buffalo,britain,Active,Scrapped,1777-03-28,1783-10-01
+sol-africa-1746_africa,sol-africa-1746,Africa,spain,Active,Sunk,1747-08-20,1748-10-15
+sol-africa-1746_vencador,sol-africa-1746,Vencador,spain,Active,Sunk,1747-01-14,1750-10-30
+sol-africa-1746_tigre,sol-africa-1746,Tigre,spain,Active,Captured,1748-01-14,1762-06-25
+sol-africa-1746_tigre,sol-tiger-1762,HMS Tiger,britain,Active,Auxiliary,1764-02-10,1778-12-01
+sol-reina-1743_reina,sol-reina-1743,Reina,spain,Active,Captured,1743-12-18,1762-08-13
+sol-reina-1743_invencible,sol-reina-1743,Invencible,spain,Active,Sunk,1744-05-10,1750-10-30
+sol-reina-1743_reina,sol-reyna-1762,HMS Reyna,britain,Active,Sold,1764-06-15,1772-05-13
+sol-belleisle-1761_belleisle,sol-belleisle-1761,HMS Belleisle,britain,Active,Auxiliary,1762-01-01,1784-12-14
+sf-prince-regent-1814_prince-regent,sf-prince-regent-1814,HMS Prince Regent,britain,Active,Sunk,1814-05-01,1832-01-01
+sol-malabar-1804_malabar,sol-malabar-1804,HMS Malabar,britain,Active,Auxiliary,1804-07-24,1806-11-01
+sf-psyche-1814_psyche,sf-psyche-1814,HMS Psyche,britain,Reserve,Sunk,1815-03-01,1837-01-01
+sol-chatham-1758_chatham,sol-chatham-1758,HMS Chatham,britain,Active,Auxiliary,1758-05-23,1791-01-01
+sf-mediator-1804_mediator,sf-mediator-1804,HMS Mediator,britain,Active,Auxiliary,1804-10-01,1808-01-01
+sf-weymouth-1804_weymouth,sf-weymouth-1804,HMS Weymouth,britain,Active,Auxiliary,1804-11-01,1807-01-01
+sol-de-ruyter-1799_de-ruyter,sol-de-ruyter-1799,HNLMS De Ruyter,netherlands,Active,Captured,1799-01-01,1799-08-30
+sol-de-ruyter-1799_de-ruyter,sol-de-ruyter-1799-uk,HMS De Ruyter,britain,Reserve,Auxiliary,1800-06-28,1801-04-01
