@@ -16,6 +16,8 @@ http://www.gwpda.org/naval/brassey/b1901o04.htm
 
 http://www.dreadnoughtproject.org/tfs/index.php/Warship_(Journal)
 
+https://warshipsresearch.blogspot.com/
+
 Artillery
 http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=35F35FF07458F859FF45772BE15050FF?doi=10.1.1.674.4023&rep=rep1&type=pdf
 https://www.gutenberg.org/files/20483/20483-h/20483-h.htm
