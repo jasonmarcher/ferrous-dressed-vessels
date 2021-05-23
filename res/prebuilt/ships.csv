@@ -1792,7 +1792,7 @@ dd-clemson_uss-belknap,dd-clemson,USS Belknap,Built,Auxiliary,1918-07-01,1919-01
 dd-clemson_uss-mccook,dd-clemson,USS McCook,Built,Sold,1918-09-01,1919-01-31,1919-04-01,1940-09-01
 dd-clemson_uss-mccalla,dd-clemson,USS McCalla,Built,Sold,1918-09-01,1919-03-28,1919-05-01,1940-10-01
 dd-clemson_uss-rodgers,dd-clemson,USS Rodgers,Built,Sold,1918-09-01,1919-04-26,1919-07-01,1940-10-01
-dd-clemson_uss-ingram,dd-clemson,USS Ingram,Built,Auxiliary,1918-10-01,1919-02-28,1919-06-01,1946-01-01
+dd-clemson_uss-osmond-ingram,dd-clemson,USS Osmond Ingram,Built,Auxiliary,1918-10-01,1919-02-28,1919-06-01,1946-01-01
 dd-clemson_uss-bancroft,dd-clemson,USS Bancroft,Built,Sold,1918-11-01,1919-03-21,1919-06-01,1940-09-01
 dd-clemson_uss-welles,dd-clemson,USS Welles,Built,Sold,1918-11-01,1919-05-08,1919-09-01,1940-09-01
 dd-clemson_uss-aulick,dd-clemson,USS Aulick,Built,Sold,1918-12-01,1919-04-11,1919-07-01,1940-10-01
@@ -2504,6 +2504,7 @@ de-te_uss-joseph-c-hubbard,de-te,USS Joseph C. Hubbard,Built,Auxiliary,1943-08-0
 de-te_uss-hayter,de-te,USS Hayter,Built,Auxiliary,1943-08-01,1943-11-11,1944-03-01,1966-12-01
 de-te_uss-william-t-powell,de-te,USS William T. Powell,Built,Converted,1943-08-01,1943-11-27,1944-03-01,1950-11-28
 de-te_uss-william-t-powell,der-te,USS William T. Powell,Converted,Scrapped,1950-11-28,,1950-11-28,1965-11-01
+de-te_uss-scott,de-te,USS Scott,Built,Scrapped,1843-01-01,1843-04-03,1843-07-01,1865-07-01
 de-te_uss-burke,de-te,USS Burke,Built,Auxiliary,1943-01-01,1943-04-03,1943-07-01,1968-06-01
 de-te_uss-enright,de-te,USS Enright,Built,Auxiliary,1943-02-01,1943-05-29,1943-09-01,1967-07-01
 de-te_uss-coolbaugh,de-te,USS Coolbaugh,Built,Scrapped,1943-02-01,1943-05-29,1943-10-01,1972-07-01
@@ -3019,7 +3020,7 @@ dd-gearing_uss-ozbourn,dd-gearing,USS Ozbourn,Built,Modernized,1945-06-01,1945-1
 dd-gearing_uss-robert-l-wilson,dd-gearing,USS Robert L. Wilson,Built,Modernized,1945-07-01,1946-01-05,1946-03-01,1963-11-01
 dd-gearing_uss-witek,dd-gearing,USS Witek,Built,Scrapped,1945-07-01,1946-02-02,1946-04-01,1968-09-01
 dd-gearing_uss-richard-e-kraus,dd-gearing,USS Richard E. Kraus,Built,Modernized,1945-07-01,1946-03-02,1946-05-01,1964-05-01
-"dd-gearing_uss-joseph-p-kennedy,-jr",dd-gearing,"USS Joseph P. Kennedy, Jr.",Built,Modernized,1945-04-01,1945-07-26,1945-12-01,1962-05-01
+dd-gearing_uss-joseph-p-kennedy-jr,dd-gearing,"USS Joseph P. Kennedy, Jr.",Built,Modernized,1945-04-01,1945-07-26,1945-12-01,1962-05-01
 dd-gearing_uss-rupertus,dd-gearing,USS Rupertus,Built,Modernized,1945-05-01,1945-09-21,1946-03-01,1963-11-01
 dd-gearing_uss-leonard-f-mason,dd-gearing,USS Leonard F. Mason,Built,Modernized,1945-08-01,1946-01-04,1946-06-01,1964-01-01
 dd-gearing_uss-charles-h-roan,dd-gearing,USS Charles H. Roan,Built,Modernized,1945-09-01,1946-03-15,1946-09-01,1962-06-01
@@ -3175,7 +3176,7 @@ dd-almirante-lynch_almirante-condell,dd-almirante-lynch,Almirante Condell,Built,
 dd-almirante-williams_almirante-williams-rebolledo,dd-almirante-williams,Almirante Williams Rebolledo,Built,Scrapped,1913-01-01,1914-12-02,1915-01-01,1933-01-01
 dd-almirante-williams_almirante-coni,dd-almirante-williams,Almirante Coni,Built,Scrapped,1912-06-01,1914-05-25,1914-12-01,1933-01-01
 dd-almirante-williams_almirante-simpson,dd-almirante-williams,Almirante Simpson,Built,Scrapped,1912-06-01,1914-02-26,1914-09-01,1933-01-01
-dd-almirante-williams_almirante-riveros,dd-almirante-williams,Almirante Riveros,Built,Sold,1913-01-01,,,1914-09-01
+dd-almirante-williams_almirante-riveros,dd-almirante-williams,Almirante Riveros,Canceled,Sold,1913-01-01,,,1914-09-01
 dd-serrano_sargento-aldea,dd-serrano,Sargento Aldea,Built,Scrapped,1928-03-01,1928-11-24,1929-07-01,1958-02-01
 dd-serrano_ingeniero-hyatt,dd-serrano,Ingeniero Hyatt,Built,Scrapped,1927-09-01,1928-07-21,1929-04-01,1963-01-01
 dd-serrano_capitan-orella,dd-serrano,Capitan Orella,Built,Scrapped,1927-06-01,1928-03-08,1928-12-01,1966-09-01
@@ -3193,7 +3194,7 @@ ltb-s90_s93,ltb-s90,S93,Built,Scrapped,1899-08-01,1900-03-24,1900-07-01,1921-03-
 ltb-s90_s94,ltb-s90,S94,Built,Sunk,1899-08-01,1900-04-23,1900-07-01,1920-03-13
 ltb-s90_s95,ltb-s90,S95,Built,Scrapped,1899-06-01,1900-02-20,1900-08-01,1921-03-01
 ltb-s90_s96,ltb-s90,S96,Built,Scrapped,1899-06-01,1900-01-31,1900-09-01,1921-03-01
-ltb-s90_s97,ltb-s90,S97,Built,Scrapped,1899-06-01,1899-12-16,1900-05-01,1921-03-01
+ltb-s90_sleipner,ltb-s90,Sleipner,Built,Scrapped,1899-06-01,1899-12-16,1900-05-01,1921-03-01
 ltb-s90_s98,ltb-s90,S98,Built,Scrapped,1899-12-01,1900-07-28,1900-11-01,1921-03-01
 ltb-s90_s99,ltb-s90,S99,Built,Scrapped,1899-12-01,1900-09-04,1900-12-01,1921-03-01
 ltb-s90_s100,ltb-s90,S100,Built,Sunk,1899-12-01,1900-11-13,1901-04-01,1915-10-15
@@ -3755,19 +3756,19 @@ tg-partenope_euridice,tg-partenope,Euridice,Built,Scrapped,1889-02-14,1890-09-22
 tg-partenope_urania,tg-partenope,Urania,Built,Scrapped,1889-02-16,1891-06-18,1893-07-21,1912-01-01
 tg-partenope_iride,tg-partenope,Iride,Built,Scrapped,1889-02-21,1891-07-20,1892-11-01,1920-12-01
 tg-partenope_aretusa,tg-partenope,Aretusa,Built,Scrapped,1889-06-01,1891-03-14,1892-09-01,1912-11-01
-tg-partenope_caprera-(ex-clio),tg-partenope,Caprera (ex-Clio),Built,Scrapped,1891-07-27,1894-05-06,1895-12-12,1913-05-01
-tg-partenope_calatafimi-(ex-terpsichore),tg-partenope,Calatafimi (ex-Terpsichore),Built,Scrapped,1891-09-15,1893-03-18,1894-01-16,1907-03-01
+tg-partenope_caprera,tg-partenope,Caprera,Built,Scrapped,1891-07-27,1894-05-06,1895-12-12,1913-05-01
+tg-partenope_calatafimi,tg-partenope,Calatafimi,Built,Scrapped,1891-09-15,1893-03-18,1894-01-16,1907-03-01
 tg-agordat_agordat,tg-agordat,Agordat,Built,Scrapped,1897-02-18,1899-10-11,1900-09-26,1923-01-01
 tg-agordat_coatit,tg-agordat,Coatit,Built,Scrapped,1897-04-08,1899-11-15,1900-10-01,1920-06-01
 dd-fulmine_fulmine,dd-fulmine,Fulmine,Built,Scrapped,1897-07-01,1898-12-04,1900-10-01,1921-05-01
 dd-lampo_lampo,dd-lampo,Lampo,Built,Scrapped,1899-05-01,1899-10-07,1900-06-01,1920-03-01
 dd-lampo_freccia,dd-lampo,Freccia,Built,Sunk,1899-06-01,1899-11-23,1902-05-01,1911-10-12
 dd-lampo_dardo,dd-lampo,Dardo,Built,Scrapped,1899-08-01,1900-02-07,1901-03-01,1920-03-01
-"dd-lampo_euro,-9/1924--strale",dd-lampo,"Euro, 9/1924- Strale",Built,Scrapped,1900-01-01,1900-08-27,1901-10-01,1924-11-01
+dd-lampo_euro,dd-lampo,Euro,Built,Scrapped,1900-01-01,1900-08-27,1901-10-01,1924-11-01
 dd-aquilone_aquilone,dd-aquilone,Aquilone,Built,Scrapped,1899-09-01,1902-10-16,1903-10-01,1923-03-01
 dd-aquilone_borea,dd-aquilone,Borea,Built,Sunk,1899-10-01,1902-12-12,1903-10-01,1917-05-15
 dd-aquilone_zeffiro,dd-aquilone,Zeffiro,Built,Scrapped,1901-03-01,1904-05-14,1905-04-01,1924-03-01
-"dd-aquilone_espero,-1/1921--turbine",dd-aquilone,"Espero, 1/1921- Turbine",Built,Scrapped,1901-04-01,1904-07-09,1905-04-01,1923-04-01
+dd-aquilone_espero,dd-aquilone,Espero,Built,Scrapped,1901-04-01,1904-07-09,1905-04-01,1923-04-01
 dd-nembo_nembo,dd-nembo,Nembo,Built,Sunk,1899-08-01,1901-05-18,1902-06-01,1916-10-17
 dd-nembo_turbine,dd-nembo,Turbine,Built,Sunk,1899-08-01,1901-11-21,1902-08-01,1915-05-24
 dd-strale_strale,dd-strale,Strale,Built,Scrapped,1899-11-01,1900-05-19,1901-07-01,1924-01-01
@@ -3796,11 +3797,11 @@ dd-audace_audace,dd-audace,Audace,Built,Sunk,1912-04-01,1913-05-04,1914-03-01,19
 dd-audace_animoso,dd-audace,Animoso,Built,Scrapped,1912-05-01,1913-07-13,1914-05-01,1923-04-01
 dd-rosolino-pilo_rosolino-pilo,dd-rosolino-pilo,Rosolino Pilo,Built,Scrapped,1913-08-01,1915-03-24,1915-05-01,1954-10-01
 dd-rosolino-pilo_giuseppe-cesare-abba,dd-rosolino-pilo,Giuseppe Cesare Abba,Built,Scrapped,1913-08-01,1915-05-25,1915-07-01,1958-09-01
-"dd-rosolino-pilo_pilade-bronzetti,-1/1921--giuseppe-dezza",dd-rosolino-pilo,"Pilade Bronzetti, 1/1921- Giuseppe Dezza",Built,Captured,1913-09-01,1915-10-26,1916-01-01,1943-09-16
+dd-rosolino-pilo_pilade-bronzetti,dd-rosolino-pilo,Pilade Bronzetti,Built,Captured,1913-09-01,1915-10-26,1916-01-01,1943-09-16
 dd-rosolino-pilo_giuseppe-missori,dd-rosolino-pilo,Giuseppe Missori,Built,Captured,1914-01-01,1915-12-20,1916-03-01,1943-09-10
 dd-rosolino-pilo_antonio-mosto,dd-rosolino-pilo,Antonio Mosto,Built,Scrapped,1913-10-01,1915-05-20,1915-07-01,1958-12-01
 dd-rosolino-pilo_ippolito-nievo,dd-rosolino-pilo,Ippolito Nievo,Built,Scrapped,1913-08-01,1915-07-24,1915-10-01,1938-04-01
-"dd-rosolino-pilo_francesco-nullo,-1/1921--fratelli-cairoli",dd-rosolino-pilo,"Francesco Nullo, 1/1921- Fratelli Cairoli",Built,Sunk,1913-09-01,1914-11-12,1915-05-01,1940-12-23
+dd-rosolino-pilo_francesco-nullo,dd-rosolino-pilo,Francesco Nullo,Built,Sunk,1913-09-01,1914-11-12,1915-05-01,1940-12-23
 dd-rosolino-pilo_simone-schiaffino,dd-rosolino-pilo,Simone Schiaffino,Built,Sunk,1913-09-01,1915-09-11,1915-11-01,1941-04-24
 dl-carlo-mirabello_carlo-mirabello,dl-carlo-mirabello,Carlo Mirabello,Built,Sunk,1914-11-21,1915-12-21,1916-08-24,1941-05-21
 dl-carlo-mirabello_carlo-alberto-racchia,dl-carlo-mirabello,Carlo Alberto Racchia,Built,Sunk,1914-12-10,1916-06-02,1916-12-21,1920-07-21
@@ -3811,7 +3812,7 @@ dd-giuseppe-sitori_vincenzo-giordano-orsini,dd-giuseppe-sitori,Vincenzo Giordano
 dd-giuseppe-sitori_francesco-stocco,dd-giuseppe-sitori,Francesco Stocco,Built,Sunk,1916-02-01,1917-05-05,1917-07-01,1943-09-24
 dd-giuseppe-la-masa_giuseppe-la-masa,dd-giuseppe-la-masa,Giuseppe La Masa,Built,Captured,1916-09-01,1917-09-06,1919-09-01,1943-09-09
 dd-giuseppe-la-masa_angelo-bassini,dd-giuseppe-la-masa,Angelo Bassini,Built,Sunk,1916-10-01,1918-03-28,1918-05-01,1943-05-28
-"dd-giuseppe-la-masa_agostino-bertani,-1/1921--enrico-cosenz",dd-giuseppe-la-masa,"Agostino Bertani, 1/1921- Enrico Cosenz",Built,Sunk,1917-12-01,1919-06-06,1919-06-01,1943-09-27
+dd-giuseppe-la-masa_agostino-bertani,dd-giuseppe-la-masa,Agostino Bertani,Built,Sunk,1917-12-01,1919-06-06,1919-06-01,1943-09-27
 dd-giuseppe-la-masa_benedetto-cairoli,dd-giuseppe-la-masa,Benedetto Cairoli,Built,Sunk,1916-09-01,1917-12-28,1918-02-01,1918-04-10
 dd-giuseppe-la-masa_giacinto-carini,dd-giuseppe-la-masa,Giacinto Carini,Built,Scrapped,1916-09-01,1917-11-07,1917-11-01,1958-12-01
 dd-giuseppe-la-masa_nicola-fabrizi,dd-giuseppe-la-masa,Nicola Fabrizi,Built,Scrapped,1916-09-01,1918-07-08,1918-07-01,1957-02-01
@@ -3850,7 +3851,7 @@ dd-turbine_nembo,dd-turbine,Nembo,Built,Sunk,1925-01-01,1927-01-27,1927-10-01,19
 dd-turbine_ostro,dd-turbine,Ostro,Built,Sunk,1925-04-01,1928-01-02,1928-06-01,1940-07-20
 dd-turbine_turbine,dd-turbine,Turbine,Built,Captured,1925-03-01,1927-04-21,1927-08-01,1943-09-09
 dd-turbine_zeffiro,dd-turbine,Zeffiro,Built,Sunk,1925-04-01,1927-05-27,1928-05-01,1940-07-05
-dl-navigatori_alvise-da-mosto-(ex-alvise-cadamosto),dl-navigatori,Alvise da Mosto (ex-Alvise Cadamosto),Built,Sunk,1928-08-01,1929-07-01,1931-03-01,1941-12-10
+dl-navigatori_alvise-da-mosto-(ex-alvise-cadamosto),dl-navigatori,Alvise da Mosto,Built,Sunk,1928-08-01,1929-07-01,1931-03-01,1941-12-10
 dl-navigatori_antonio-da-noli,dl-navigatori,Antonio da Noli,Built,Sunk,1927-07-01,1929-05-21,1929-12-01,1943-09-09
 dl-navigatori_nicoloso-da-recco,dl-navigatori,Nicoloso da Recco,Built,Scrapped,1927-12-01,1930-01-05,1930-05-01,1954-07-01
 dl-navigatori_giovanni-di-verazzano,dl-navigatori,Giovanni di Verazzano,Built,Sunk,1927-08-01,1928-12-15,1930-09-01,1942-10-19
@@ -3861,7 +3862,7 @@ dl-navigatori_antonio-pigafetta,dl-navigatori,Antonio Pigafetta,Built,Sunk,1928-
 dl-navigatori_luca-tarigo,dl-navigatori,Luca Tarigo,Built,Sunk,1927-08-01,1928-12-09,1929-11-01,1941-04-16
 dl-navigatori_antonio-usodimare,dl-navigatori,Antonio Usodimare,Built,Sunk,1927-06-01,1929-05-12,1929-11-01,1942-06-08
 dl-navigatori_ugolini-vivaldi,dl-navigatori,Ugolini Vivaldi,Built,Sunk,1927-05-01,1929-01-09,1930-03-01,1943-09-10
-dl-navigatori_nicol?-zeno,dl-navigatori,Nicol? Zeno,Built,Sunk,1927-06-01,1928-08-12,1930-05-01,1943-09-09
+dl-navigatori_nicolo-zeno,dl-navigatori,Nicolo Zeno,Built,Sunk,1927-06-01,1928-08-12,1930-05-01,1943-09-09
 dd-freccia_dardo,dd-freccia,Dardo,Built,Captured,1929-01-01,1930-09-06,1932-01-01,1943-09-09
 dd-freccia_freccia,dd-freccia,Freccia,Built,Sunk,1929-02-01,1930-08-03,1931-10-01,1943-08-08
 dd-freccia_saetta,dd-freccia,Saetta,Built,Sunk,1929-05-01,1932-01-17,1932-05-01,1943-02-03
@@ -4064,10 +4065,10 @@ dd-kazanets_steregushchiy,dd-kazanets,Steregushchiy,Built,Scrapped,1904-08-01,19
 dd-kazanets_strashnyy,dd-kazanets,Strashnyy,Built,Scrapped,1904-12-01,1906-01-05,1906-07-01,1925-11-01
 dd-kazanets_donskoy-kazak,dd-kazanets,Donskoy Kazak,Built,Scrapped,1905-01-01,1906-02-10,1906-08-01,1925-11-01
 dd-kazanets_zabaykalets,dd-kazanets,Zabaykalets,Built,Scrapped,1905-03-01,1906-04-27,1907-05-01,1925-11-01
-dd-emir-mukharskiy_emir-bukharskiy,dd-emir-mukharskiy,Emir Bukharskiy,Built,Scrapped,1904-03-01,1905-01-12,1905-05-01,1925-12-01
-dd-emir-mukharskiy_finn,dd-emir-mukharskiy,Finn,Built,Scrapped,1904-06-01,1905-04-04,1906-01-01,1925-12-01
-dd-emir-mukharskiy_moskvityanin,dd-emir-mukharskiy,Moskvityanin,Built,Sunk,1904-08-01,1905-05-20,1906-06-01,1919-05-21
-dd-emir-mukharskiy_dobrovolets,dd-emir-mukharskiy,Dobrovolets,Built,Sunk,1904-09-01,1905-06-11,1906-07-01,1916-08-21
+dd-emir-bukharskiy_emir-bukharskiy,dd-emir-bukharskiy,Emir Bukharskiy,Built,Scrapped,1904-03-01,1905-01-12,1905-05-01,1925-12-01
+dd-emir-bukharskiy_finn,dd-emir-bukharskiy,Finn,Built,Scrapped,1904-06-01,1905-04-04,1906-01-01,1925-12-01
+dd-emir-bukharskiy_moskvityanin,dd-emir-bukharskiy,Moskvityanin,Built,Sunk,1904-08-01,1905-05-20,1906-06-01,1919-05-21
+dd-emir-bukharskiy_dobrovolets,dd-emir-bukharskiy,Dobrovolets,Built,Sunk,1904-09-01,1905-06-11,1906-07-01,1916-08-21
 dd-vsadnik_vsadnik,dd-vsadnik,Vsadnik,Built,Scrapped,1904-07-01,1905-09-06,1906-06-01,1928-12-01
 dd-vsadnik_gaydamak,dd-vsadnik,Gaydamak,Built,Scrapped,1904-07-01,1905-11-14,1906-06-01,1926-11-01
 dd-vsadnik_amurets,dd-vsadnik,Amurets,Built,Scrapped,1904-05-01,1905-12-01,1907-01-01,1938-07-01
@@ -4358,7 +4359,7 @@ dd-project-56_svetlyy,dd-project-56,Svetlyy,Built,Scrapped,1953-03-04,1953-10-27
 dd-project-56_speshnyy,dd-project-56,Speshnyy,Built,Scrapped,1953-05-30,1954-08-07,1955-09-30,1989-04-01
 dd-project-56_skromnyy,dd-project-56,Skromnyy,Built,Scrapped,1953-07-27,1954-10-26,1955-12-30,1989-04-01
 dd-project-56_svedushchiy,dd-project-56,Svedushchiy,Built,Scrapped,1953-12-07,1955-02-17,1956-01-31,1992-04-01
-dd-project-56_moskovskiy-komsomolets,dd-project-56,Moskovskiy komsomolets,Built,Scrapped,1954-02-23,1955-05-24,1956-06-28,1986-07-01
+dd-project-56_smyshlionyy,dd-project-56,Smyshlionyy,Built,Scrapped,1954-02-23,1955-05-24,1956-06-28,1986-07-01
 dd-project-56_skrytnyy,dd-project-56,Skrytnyy,Built,Scrapped,1954-07-25,1955-09-27,1956-09-30,1989-04-01
 dd-project-56_soznatelnyy,dd-project-56,Soznatelnyy,Built,Scrapped,1954-09-25,1956-01-15,1956-10-31,1988-03-01
 dd-project-56_spravedlivyy,dd-project-56,Spravedlivyy,Built,Sold,1954-12-25,1956-04-12,1956-12-20,1970-06-01
@@ -4378,7 +4379,7 @@ dd-project-56_vdokhnovennyy,dd-project-56,Vdokhnovennyy,Built,Scrapped,1954-08-3
 dd-project-56_vozmushchionnyy,dd-project-56,Vozmushchionnyy,Built,Scrapped,1954-12-30,1956-07-08,1956-12-31,1987-03-01
 dd-project-56_vozbuzhdionnyy,dd-project-56,Vozbuzhdionnyy,Built,Scrapped,1955-07-29,1957-05-10,1957-10-31,1989-04-01
 dd-project-56_vliyatelnyy,dd-project-56,Vliyatelnyy,Built,Scrapped,1955-10-29,1957-05-10,1957-11-06,1988-07-01
-dd-project-56_dalnevostochnyy-komsomolets,dd-project-56,Dalnevostochnyy komsomolets,Built,Auxiliary,1956-06-30,1957-06-24,1957-12-10,1992-04-01
+dd-project-56_vyderzhannyy,dd-project-56,Vyderzhannyy,Built,Auxiliary,1956-06-30,1957-06-24,1957-12-10,1992-04-01
 tc-scout_hms-scout,tc-scout,HMS Scout,Built,Scrapped,1885-07-30,1885-07-30,1886-10-01,1904-07-01
 tc-scout_hms-fearless,tc-scout,HMS Fearless,Built,Scrapped,1884-09-22,1886-03-20,1887-07-01,1905-07-01
 tc-archer_hms-archer,tc-archer,HMS Archer,Built,Scrapped,1885-03-02,1885-12-23,1888-12-11,1905-04-01
@@ -5737,9 +5738,9 @@ pf-loch_hms-loch-shin,pf-loch,HMS Loch Shin,Built,Sold,1943-09-01,1944-02-23,194
 pf-loch_hms-loch-tarbert,pf-loch,HMS Loch Tarbert,Built,Scrapped,1943-11-01,1944-10-19,1945-02-01,1959-09-01
 pf-loch_hms-loch-tralaig,pf-loch,HMS Loch Tralaig,Built,Scrapped,1944-06-01,1945-02-12,1945-07-01,1963-08-01
 pf-loch_hms-loch-veyatie,pf-loch,HMS Loch Veyatie,Built,Scrapped,1944-03-01,1945-10-08,1946-07-01,1965-08-01
-pf-loch_sas-good-hope,pf-loch,SAS Good Hope,Built,Sunk,1943-11-01,1944-07-05,1944-12-01,1978-12-12
-pf-loch_sas-natal,pf-loch,SAS Natal,Built,Target,1943-10-01,1944-06-19,1945-03-01,1972-09-19
-pf-loch_sas-transvaal,pf-loch,SAS Transvaal,Built,Sunk,1944-01-01,1944-08-02,1945-05-01,1978-08-03
+pf-loch_rmsas-good-hope,pf-loch,RMSAS Good Hope,Built,Sunk,1943-11-01,1944-07-05,1944-12-01,1978-12-12
+pf-loch_rmsas-natal,pf-loch,RMSAS Natal,Built,Target,1943-10-01,1944-06-19,1945-03-01,1972-09-19
+pf-loch_rmsas-transvaal,pf-loch,RMSAS Transvaal,Built,Sunk,1944-01-01,1944-08-02,1945-05-01,1978-08-03
 pf-loch_hms-derby-haven,pf-loch,HMS Derby Haven,Built,Converted,1944-02-01,1944-12-14,,1945-01-01
 pf-loch_hms-woodbridge-haven,pf-loch,HMS Woodbridge Haven,Built,Converted,1944-05-01,1945-01-13,,1945-02-01
 pf-river-ran-mod_hmas-condamine,pf-river-ran-mod,HMAS Condamine,Built,Scrapped,1943-10-01,1944-11-04,1946-02-01,1961-09-01
@@ -6394,7 +6395,7 @@ dd-gearing_uss-baussell,dd-gearing-fram-i,USS Baussell,Modernized,Scrapped,1961-
 dd-gearing_uss-ozbourn,dd-gearing-fram-i,USS Ozbourn,Modernized,Scrapped,1961-12-01,,1961-12-01,1975-06-01
 dd-gearing_uss-robert-l-wilson,dd-gearing-fram-i,USS Robert L. Wilson,Modernized,Scrapped,1963-11-01,,1963-11-01,1974-09-01
 dd-gearing_uss-richard-e-kraus,dd-gearing-fram-i,USS Richard E. Kraus,Modernized,Sold,1964-05-01,,1964-05-01,1972-10-01
-"dd-gearing_uss-joseph-p-kennedy,-jr",dd-gearing-fram-i,"USS Joseph P. Kennedy, Jr.",Modernized,Scrapped,1962-05-01,,1962-05-01,1973-07-01
+dd-gearing_uss-joseph-p-kennedy-jr,dd-gearing-fram-i,"USS Joseph P. Kennedy, Jr.",Modernized,Scrapped,1962-05-01,,1962-05-01,1973-07-01
 dd-gearing_uss-rupertus,dd-gearing-fram-i,USS Rupertus,Modernized,Sold,1963-11-01,,1963-11-01,1973-07-01
 dd-gearing_uss-leonard-f-mason,dd-gearing-fram-i,USS Leonard F. Mason,Modernized,Sold,1964-01-01,,1964-01-01,1978-03-01
 dd-gearing_uss-charles-h-roan,dd-gearing-fram-i,USS Charles H. Roan,Modernized,Sold,1962-06-01,,1962-06-01,1973-09-01
@@ -7149,7 +7150,7 @@ dd-van-ghent_hnlms-de-ruyter,dd-van-ghent,HNLMS De Ruyter,Built,Sunk,1925-08-01,
 dd-van-ghent_hnlms-evertsen,dd-van-ghent,HNLMS Evertsen,Built,Sunk,1925-08-01,1926-12-29,1928-05-01,1942-03-01
 dd-van-ghent_hnlms-kortenaer,dd-van-ghent,HNLMS Kortenaer,Built,Sunk,1925-08-01,1927-07-30,1928-09-01,1942-02-27
 dd-van-ghent_hnlms-piet-hein,dd-van-ghent,HNLMS Piet Hein,Built,Sunk,1925-08-01,1927-04-02,1928-01-01,1942-02-19
-dd-van-galen_hnlms-van-galen-class,dd-van-galen,HNLMS Van Galen Class,Built,Sunk,1927-05-01,1928-06-28,1929-10-01,1940-05-10
+dd-van-galen_hnlms-van-galen,dd-van-galen,HNLMS Van Galen,Built,Sunk,1927-05-01,1928-06-28,1929-10-01,1940-05-10
 dd-van-galen_hnlms-witte-de-with,dd-van-galen,HNLMS Witte de With,Built,Sunk,1927-05-01,1928-09-11,1930-02-01,1942-03-02
 dd-van-galen_hnlms-banckert,dd-van-galen,HNLMS Banckert,Built,Sunk,1928-08-01,1929-11-14,1930-11-01,1942-03-02
 dd-van-galen_hnlms-van-nes,dd-van-galen,HNLMS Van Nes,Built,Sunk,1928-08-01,1930-03-30,1931-03-01,1942-02-17
@@ -10328,7 +10329,7 @@ ss-series-v-bis_shch-118,ss-series-v-bis,Shch-118,Built,Scrapped,1932-10-01,1934
 ss-series-v-bis_shch-119,ss-series-v-bis,Shch-119,Built,Scrapped,1933-05-01,1934-05-07,1935-02-01,1956-02-01
 ss-series-v-bis_shch-120,ss-series-v-bis,Shch-120,Built,Scrapped,1933-04-01,1934-06-01,1935-01-01,1956-02-01
 ss-series-v-bis_shch-201,ss-series-v-bis,Shch-201,Built,Scrapped,1933-08-01,1934-04-03,1935-08-01,1955-12-01
-ss-series-v-bis_shch-201,ss-series-v-bis,Shch-201,Built,Auxiliary,1933-09-01,1934-05-25,1935-09-01,1956-02-01
+ss-series-v-bis_shch-202,ss-series-v-bis,Shch-202,Built,Auxiliary,1933-09-01,1934-05-25,1935-09-01,1956-02-01
 ss-series-v-bis_shch-203,ss-series-v-bis,Shch-203,Built,Sunk,1933-03-01,1934-05-29,1935-09-01,1943-08-29
 ss-series-v-bis_shch-305,ss-series-v-bis,Shch-305,Built,Sunk,1932-11-01,1933-12-31,1934-12-01,1942-11-05
 ss-series-v-bis_shch-308,ss-series-v-bis,Shch-308,Built,Sunk,1932-11-01,1933-04-28,1935-11-01,1942-10-27
@@ -13982,7 +13983,7 @@ ss-p42_hms-upstart,ss-p42,HMS Upstart,Built,Target,1942-03-01,1942-11-24,1943-04
 ss-p42_hms-uther,ss-p42,HMS Uther,Built,Scrapped,1942-01-01,1943-04-06,1943-08-01,1950-02-01
 ss-p42_hms-varangian,ss-p42,HMS Varangian,Built,Scrapped,1941-12-01,1943-03-04,1943-07-01,1949-06-01
 ss-p42_hms-varne,ss-p42,HMS Varne,Built,Sold,1942-11-01,1943-01-22,,1943-04-01
-ss-p42_hms-vox,ss-p42,HMS Vox,Built,Scrapped,1942-12-01,1943-01-23,,1949-05-01
+ss-p42_hms-vox,ss-p42,HMS Vox,Built,Scrapped,1942-12-01,1943-01-23,,1943-05-01
 ss-archimede-it_galileo-galilei,ss-x2,HMS X2,Captured,Scrapped,1940-06-01,,1940-06-01,1946-01-01
 ss-thrasher_hms-tempest,ss-thrasher,HMS Tempest,Built,Sunk,1940-01-01,1941-06-10,1941-12-01,1942-02-13
 ss-thrasher_hms-thorn,ss-thrasher,HMS Thorn,Built,Sunk,1940-01-01,1941-03-18,1941-08-01,1942-08-06
@@ -21421,7 +21422,7 @@ sol-san-ildefonso-1785_san-ildefonso,sol-san-ildefonso-1785,San Ildefonso,Built,
 sol-san-ildefonso-1785_san-telmo,sol-san-ildefonso-1785,San Telmo,Built,Sunk,1787-09-01,1788-06-20,1788-10-01,1819-01-01
 sol-san-ildefonso-1785_san-francisco-de-paula,sol-san-ildefonso-1785,San Francisco de Paula,Built,Scrapped,1788-03-01,1788-12-20,1789-04-01,1823-01-01
 sol-san-ildefonso-1785_europa,sol-san-ildefonso-1785,Europa,Built,Sunk,1789-01-01,1789-10-19,1790-01-01,1801-01-01
-sol-san-ildefonso-1785_intrepido,sol-san-ildefonso-1785,Intrépido,Built,Sold,1790-02-01,1790-11-20,1791-03-01,1801-07-01
+sol-san-ildefonso-1785_intrepido,sol-san-ildefonso-1785,Intrepido,Built,Sold,1790-02-01,1790-11-20,1791-03-01,1801-07-01
 sol-san-ildefonso-1785_conquistador,sol-san-ildefonso-1785,Conquistador,Built,Sold,1791-02-01,1791-12-09,1792-03-01,1802-04-23
 sol-san-ildefonso-1785_infante-don-pelayo,sol-san-ildefonso-1785,Infante Don Pelayo,Built,Sold,1791-02-01,1791-12-22,1792-03-01,1802-04-23
 sol-san-ildefonso-1785_san-ildefonso,sol-san-ildefonso-1805,HMS San Ildefonso,Captured,Scrapped,1805-10-21,,1805-10-21,1816-01-01
