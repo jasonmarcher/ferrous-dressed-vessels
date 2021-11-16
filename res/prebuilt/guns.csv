@@ -1,0 +1,66 @@
+GunID,Name,Design,GunNation,DateOfDesign,GunCaliber,GunLength,GunWeight,MaxRateOfFire,NominalRateOfFire,Loading,SurfaceShellWeight,SurfaceShellCharge,SurfaceShellVelocity,AAShellWeight,AAShellCharge,AAShellVelocity,Ammo,Source
+bg-406-mk7,"16""/50 Mark 7","US 16""",usa,1939-01-01,406,50,121519,2,2,Breech,1225,,762,,,,130,http://www.navweaps.com/Weapons/WNUS_16-50_mk7.php
+bg-406-mk6,"16""/45 Mark 6","US 16""",usa,1936-01-01,406,45,97231,2,2,Breech,1225,,701,,,,148,http://www.navweaps.com/Weapons/WNUS_16-45_mk6.php
+bg-406-mk5,"16""/45 Mark 5","US 16""",usa,1935-01-01,406,45,106959,1.5,1.5,Breech,1016,,768,,,,100,http://www.navweaps.com/Weapons/WNUS_16-45_mk5.php
+bg-406-mk2,"16""/50 Mark 2","US 16""",usa,1916-01-01,406,50,130200,2,2,Breech,957,,853,,,,120,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php
+bg-406-mk1,"16""/45 Mark 1","US 16""",usa,1913-01-01,406,45,106959,1.5,1.5,Breech,957,,792,,,,100,http://www.navweaps.com/Weapons/WNUS_16-45_mk1.php
+bg-356-mk7,"14""/50 Mark 7","US 14""",usa,1930-01-01,356,50,81473,1.75,1.75,Breech,680,,823,,,,100,http://www.navweaps.com/Weapons/WNUS_14-50_mk11.php
+bg-356-mk8,"14""/45 Mark 8","US 14""",usa,1928-01-01,356,45,63000,1.75,1.5,Breech,680,,792,,,,100,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php
+bg-356-mk4,"14""/50 Mark 4","US 14""",usa,1916-01-01,356,50,81473,1.75,1.75,Breech,635,,853,,,,100,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php
+bg-356-mk4-ap-mk8,"14""/50 Mark 4","US 14""",usa,1916-01-01,356,50,81473,1.75,1.75,Breech,636,,853,,,,100,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php
+bg-356-mk1,"14""/45 Mark 1","US 14""",usa,1910-01-01,356,45,64633,1.75,1.5,Breech,635,,792,,,,100,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php
+bg-356-mk1-ap-mk8,"14""/45 Mark 1","US 14""",usa,1910-01-01,356,45,64633,1.75,1.5,Breech,636,,792,,,,100,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php
+bg-356-mk1-mod-12,"14""/45 Mark 1 Mod 12","US 14""",usa,1910-01-01,356,45,64633,1.75,1.5,Breech,636,,823,,,,100,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php
+bg-330-mk1-sp,"13""/35 Mark 1","US 13""",usa,1905-01-01,330,35,62550,1,1,Breech,513,,610,,,,60,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
+bg-330-mk1,"13""/35 Mark 1","US 13""",usa,1895-01-01,330,35,62550,0.2,0.2,Breech,513,,610,,,,60,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
+bg-305-mk8,"12""/50 Mark 8","US 12""",usa,1939-01-01,305,50,55262,3,2.7,Breech,517,,762,,,,166,http://www.navweaps.com/Weapons/WNUS_12-50_mk8.php
+bg-305-mk7,"12""/50 Mark 7","US 12""",usa,1910-01-01,305,50,56310,3,2.5,Breech,395,,884,,,,100,http://www.navweaps.com/Weapons/WNUS_12-50_mk7.php
+bg-305-mk5,"12""/45 Mark 5","US 12""",usa,1903-01-01,305,45,54000,2,2,Breech,395,,823,,,,100,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+bg-305-mk3,"12""/40 Mark 3","US 12""",usa,1899-01-01,305,40,52834,2,1,Breech,395,,853,,,,60,http://www.navweaps.com/Weapons/WNUS_12-40_mk3.php
+bg-305-mk1,"12""/35 Mark 1","US 12""",usa,1896-01-01,305,35,46516,1,1,Breech,395,,640,,,,70,http://www.navweaps.com/Weapons/WNUS_12-35_mk1.php
+bg-254-mk3,"10""/40 Mark 3","US 10""",usa,1904-01-01,254,40,52834,3,2.5,Breech,231,,823,,,,60,http://www.navweaps.com/Weapons/WNUS_10-40_mk3.php
+bg-254-mk2,"10""/30 Mark 2","US 10""",usa,1891-01-01,254,30,22770,3,2.5,Breech,231,,610,,,,90,http://www.navweaps.com/Weapons/WNUS_10-30_mk1.php
+bg-254-mk2-ii,"10""/30 Mark 2","US 10""",usa,1891-01-01,254,30,22770,3,2.5,Breech,231,,610,,,,90,http://www.navweaps.com/Weapons/WNUS_10-30_mk1.php
+bg-254-mk1-mod1,"10""/31 Mark 1 Mod 1","US 10""",usa,1891-01-01,254,31,23700,3,2.5,Breech,231,,620,,,,90,http://www.navweaps.com/Weapons/WNUS_10-30_mk1.php
+bg-254-mk1-mod2,"10""/31 Mark 1 Mod 2","US 10""",usa,1891-01-01,254,34,26082,3,2.5,Breech,231,,650,,,,90,http://www.navweaps.com/Weapons/WNUS_10-30_mk1.php
+rf-203-mk16,"8""/55RF Mark 16","US 8""",usa,1943-01-01,203,55,17400,10,10,Breech Autoloader,152,,762,,,,150,http://www.navweaps.com/Weapons/WNUS_8-55_mk16.php
+bg-203-mk16,"8""/55 Mark 12","US 8""",usa,1933-01-01,203,55,17450,4,3.5,Breech,118,,823,,,,150,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php
+bg-203-mk16-sh,"8""/55 Mark 12","US 8""",usa,1933-01-01,203,55,17450,4,3.5,Breech,152,,762,,,,150,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php
+bg-203-mk9,"8""/55 Mark 9","US 8""",usa,1922-01-01,203,55,30480,4,3.5,Breech,118,,853,,,,150,http://www.navweaps.com/Weapons/WNUS_8-55_mk9.php
+bg-203-mk6,"8""/45 Mark 6","US 8""",usa,1900-01-01,203,45,19200,2,1.5,Breech,118,,838,,,,120,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php
+bg-203-mk5,"8""/40 Mark 5","US 8""",usa,1894-01-01,203,40,16000,2.8,2.4,Breech,118,,762,,,,120,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php
+bg-203-mk3,"8""/35 Mark 3","US 8""",usa,1894-01-01,203,35,13336,2.8,2.4,Breech,118,,640,,,,120,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php
+bg-203-mk1,"8""/30 Mark 1","US 8""",usa,1883-01-01,203,30,13200,1,1.75,Breech,118,,610,,,,120,http://www.navweaps.com/Weapons/WNUS_8-30_mk1.php
+bg-178-mk2,"7""/45 Mark 2","US 7""",usa,1900-01-01,178,45,13000,4,4,Breech,75,,823,,,,105,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
+bg-152-mk17,"6""/47 Mark 17","Armstrong 6""",usa,1933-01-01,152,47,5320,8,6.5,Breech,48,,853,,,,,http://www.navweaps.com/Weapons/WNUS_6-47_mk17.php
+dp-152-mk16,"6""/47DP Mark 16","Armstrong 6""",usa,1943-01-01,152,47,6600,12,12,Breech Autoloader,59,,762,48,,812,403,http://www.navweaps.com/Weapons/WNUS_6-47DP_mk16.php
+bg-152-mk16,"6""/47 Mark 16","Armstrong 6""",usa,1932-01-01,152,47,6600,10,9,Breech,59,,762,,,,200,http://www.navweaps.com/Weapons/WNUS_6-47_mk16.php
+bg-152-mk12,"6""/53 Mark 12","Armstrong 6""",usa,1920-01-01,152,53,10270,7,6.5,Breech,48,,914,,,,200,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php
+bg-152-mk6,"6""/50 Mark 6","Armstrong 6""",usa,1898-01-01,152,50,8450,6,6,Breech,48,,853,,,,200,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php
+bg-152-mk5,"6""/50 Mark 5","Armstrong 6""",usa,1865-01-01,152,50,,6,6,Breech,45,,701,,,,,http://www.navweaps.com/Weapons/WNUS_6-50_mk5.php
+bg-152-mk1,"6""/30 Mark 1","Armstrong 6""",usa,1883-01-01,152,30,,7.3,7.3,Breech,48,,594,,,,100,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php
+bg-152-mk3-mod1,"6""/35 Mark 3 Mod 1","Armstrong 6""",usa,1883-01-01,152,35,,7.3,7.3,Breech,48,,610,,,,100,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php
+bg-152-mk3-mod2,"6""/40 Mark 3 Mod 2","Armstrong 6""",usa,1883-01-01,152,40,,7.3,7.3,Breech,48,,655,,,,100,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php
+bg-127-mk16,"5""/54 Mark 16","US 5""",usa,1940-01-01,127,54,2432,18,16.5,Breech,32,,808,31,,808,500,http://www.navweaps.com/Weapons/WNUS_5-54_mk16.php
+bg-127-mk12,"5""/38 Mark 12","US 5""",usa,1932-01-01,127,38,2100,15,13.5,Breech,25,,792,,,,450,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
+bg-127-mk12-hoist,"5""/38 Mark 12","US 5""",usa,1932-01-01,127,38,2100,22,18.8,Breech,25,,792,25,,792,450,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
+bg-127-mk10,"5""/25 Mark 10","US 5""",usa,1921-01-01,127,25,1937,20,17.5,Breech,24,,657,24,,657,200,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php
+bg-127-mk7,"5""/51 Mark 7","US 5""",usa,1910-01-01,127,51,5130,9,8.5,Breech,23,,960,,,,240,http://www.navweaps.com/Weapons/WNUS_5-51_mk7.php
+bg-127-mk9,"5""/51 Mark 9","US 5""",usa,1910-01-01,127,51,5160,9,8.5,Breech,23,,960,,,,240,http://www.navweaps.com/Weapons/WNUS_5-51_mk7.php
+bg-127-mk5,"5""/50 Mark 5","US 5""",usa,1900-01-01,127,50,,8,7,Breech,23,,914,,,,240,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
+bg-127-mk2,"5""/40 Mark 2","US 5""",usa,1890-01-01,127,40,3211,12,12,Breech,23,,701,,,,240,http://www.navweaps.com/Weapons/WNUS_5-40_mk2.php
+bg-127-mk1,"5""/31 Mark 1","US 5""",usa,1885-01-01,127,31,2900,6,6,Breech,23,,701,,,,,http://www.navweaps.com/Weapons/WNUS_5-31_mk1.php
+bg-120-mk3,"4.7""/50 Mark 3","US 4.7""",usa,1895-01-01,120,50,2200,6,5.5,Breech,20,,675,,,,,http://www.navweaps.com/Weapons/WNUS_47-50_mk3.php
+bg-102-mk7,"4""/50 Mark 7","US 4""",usa,1898-01-01,102,50,2769,9,8.5,Breech,15,,762,,,,300,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
+bg-102-mk9,"4""/50 Mark 9","US 4""",usa,1910-01-01,102,50,2769,9,8.5,Breech,15,,884,,,,300,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
+bg-102-mk1,"4""/40 Mark 1","US 4""",usa,1892-01-01,102,40,1600,9,8.5,Breech,15,,610,,,,,http://www.navweaps.com/Weapons/WNUS_4-40_mk1.php
+bg-76-mk26,"3""/70RF Mark 26","US 3""",usa,1956-01-01,76,70,1202,100,95,Breech Autoloader,0,,1036,7,,1036,1000,http://www.navweaps.com/Weapons/WNUS_3-70_mk37.php
+bg-76-mk22,"3""/50 Mark 22","US 3""",usa,1945-01-01,76,50,798,50,47.5,Breech Autoloader,0,,823,6,,823,1500,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php
+bg-76-mk10,"3""/50 Mark 10","US 3""",usa,1914-01-01,76,50,798,20,17.5,Breech,6,,823,6,,823,,http://www.navweaps.com/Weapons/WNUS_3-50_mk10-22.php
+bg-76-mk4,"3""/23.5 Mark 4","Bethlehem Steel 3""",usa,1900-01-01,76,23.5,,9,8.5,Breech,6,,503,,,,,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
+bg-76-mk7,"3""/23 Mark 7","Erhardt 3""",usa,1900-01-01,76,23,,9,8.5,Breech,6,,503,,,,,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
+bg-76-mk14,"3""/23.5 Mark 14","Bethlehem Steel 3""",usa,1913-01-01,76,23.5,298,9,8.5,Breech,6,,503,6,,503,,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
+bg-76-mk2,"3""/50 Mark 2","Bethlehem Steel 3""",usa,1898-01-01,76,50,946,20,17.5,Breech,6,,823,,,,300,http://www.navweaps.com/Weapons/WNUS_3-50_mk2.php
+bg-40-mk1,40 mm/56 Mark 1,Bofors 40mm,usa,1941-01-01,40,56,470,120,90,Breech Autoloader,0.9,,881,0.9,,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+bg-28-mk1,"1.1""/75 Mark 1","US 1.1""",usa,1929-01-01,28,75,260,150,100,Breech Autoloader,0.86,,823,0.86,,823,,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php
+bg-20-mk2,20 mm/70 Mark 2,Oerlikon 20mm,usa,1939-01-01,20,70,68,450,285,Breech Autoloader,0.12,,844,0.12,,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
