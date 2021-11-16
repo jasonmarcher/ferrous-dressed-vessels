@@ -53,6 +53,16 @@ task generateClassData(type: Copy) {
 //     }
 // }
 
+task generatePrototypeData(type: Copy) {
+    into 'build'
+    from 'res/prebuilt'
+    include 'batteries.csv'
+    include 'fitting-battery.csv'
+    include 'gun-mounts.csv'
+    include 'gun.csv'
+    include 'launcher-mount.csv'
+}
+
 task generateShipData(type: Copy) {
     into 'build'
     from 'res/prebuilt'
@@ -136,5 +146,5 @@ task clean(type: Delete) {
 }
 
 task build {
-    dependsOn generateGunData, generateClassData, generateShipHistory
+    dependsOn generateGunData, generateClassData, generateShipHistory, generatePrototypeData
 }
