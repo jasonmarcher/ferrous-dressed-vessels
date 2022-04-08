@@ -11246,8 +11246,6 @@ ffg-lupo_orsa,ffg-aguirre-2004,,Aguirre,peru,Active,,2004-11-03,
 ffg-lupo_lupo,ffg-aguirre-2004,,Palacios,peru,Active,,2004-11-03,
 ffg-lupo_perseo,ffg-aguirre-2004,,Bolognesi,peru,Active,,2006-01-23,
 ffg-lupo_sagittario,ffg-aguirre-2004,,Quinones,peru,Active,,2006-01-23,
-am-auk_uss-ruddy,fs-galvez,,Galvez,peru,Active,Auxiliary,1960-11-01,1975-01-01
-am-auk_uss-shoveller,fs-galvez,,Diez Canseco,peru,Active,Auxiliary,1960-11-01,1975-01-01
 cl-danae_hms-dragon,cl-dragon,,Dragon,poland,Active,Sunk,1943-01-15,1944-07-08
 cl-danae_hms-danae,cl-conrad,,Conrad,poland,Active,Sold,1944-10-04,1946-09-28
 dd-g_hms-garland,dd-garland,,Garland,poland,Active,Sold,1940-05-01,1946-09-01
@@ -34126,3 +34124,911 @@ ams-yms-1-1942_yms-179,ams-javari-1960,,Javari,brazil,Active,Scrapped,1960-08-01
 ams-yms-1-1942_yms-136,ams-javari-1960,,Jutai,brazil,Active,Scrapped,1960-08-01,1969-01-01
 ams-yms-1-1942_yms-373,ams-javari-1960,,Jurua,brazil,Active,Scrapped,1963-01-01,1969-01-01
 ams-yms-1-1942_yms-312,ams-javari-1960,,Juruena,brazil,Active,Scrapped,1963-04-01,1974-01-01
+ams-bird-1918_lapwing,ams-bird-1918,,USS Lapwing,usa,Active,Converted,1918-06-01,1936-01-01
+ams-bird-1918_owl,ams-bird-1918,,USS Owl,usa,Active,Auxiliary,1918-07-01,1942-06-01
+ams-bird-1918_robin,ams-bird-1918,,USS Robin,usa,Active,Auxiliary,1918-08-01,1942-06-01
+ams-bird-1918_swallow,ams-bird-1918,,USS Swallow,usa,Active,Sunk,1918-10-01,1938-02-19
+ams-bird-1918_tanager,ams-bird-1918,,USS Tanager,usa,Active,Sunk,1918-06-01,1942-05-04
+ams-bird-1918_cardinal,ams-bird-1918,,USS Cardinal,usa,Active,Sunk,1918-08-01,1923-06-06
+ams-bird-1918_oriole,ams-bird-1918,,USS Oriole,usa,Active,Auxiliary,1918-11-01,1942-06-01
+ams-bird-1918_curlew,ams-bird-1918,,USS Curlew,usa,Active,Sunk,1919-01-01,1925-12-15
+ams-bird-1918_finch,ams-bird-1918,,USS Finch,usa,Active,Sunk,1918-09-01,1942-05-06
+ams-bird-1918_heron,ams-bird-1918,,USS Heron,usa,Active,Converted,1918-10-01,1936-01-01
+ams-bird-1918_turkey,ams-bird-1918,,USS Turkey,usa,Active,Auxiliary,1918-12-01,1942-06-01
+ams-bird-1918_woodcock,ams-bird-1918,,USS Woodcock,usa,Active,Auxiliary,1919-02-01,1942-06-01
+ams-bird-1918_quail,ams-bird-1918,,USS Quail,usa,Active,Sunk,1919-04-01,1942-05-06
+ams-bird-1918_partridge,ams-bird-1918,,USS Partridge,usa,Active,Auxiliary,1919-06-01,1942-06-01
+ams-bird-1918_eider,ams-bird-1918,,USS Eider,usa,Active,Auxiliary,1919-01-01,1940-10-01
+ams-bird-1918_thrush,ams-bird-1918,,USS Thrush,usa,Active,Converted,1919-04-01,1936-01-01
+ams-bird-1918_avocet,ams-bird-1918,,USS Avocet,usa,Active,Converted,1919-09-01,1936-01-01
+ams-bird-1918_bobolink,ams-bird-1918,,USS Bobolink,usa,Active,Auxiliary,1919-01-01,1942-06-01
+ams-bird-1918_lark,ams-bird-1918,,USS Lark,usa,Active,Auxiliary,1919-04-01,1944-03-01
+ams-bird-1918_widgeon,ams-bird-1918,,USS Widgeon,usa,Active,Auxiliary,1918-07-01,1929-09-01
+ams-bird-1918_teal,ams-bird-1918,,USS Teal,usa,Active,Converted,1918-08-01,1936-01-01
+ams-bird-1918_brant,ams-bird-1918,,USS Brant,usa,Active,Auxiliary,1918-09-01,1942-06-01
+ams-bird-1918_kingfisher,ams-bird-1918,,USS Kingfisher,usa,Active,Auxiliary,1918-05-01,1942-06-01
+ams-bird-1918_rail,ams-bird-1918,,USS Rail,usa,Active,Auxiliary,1918-06-01,1942-06-01
+ams-bird-1918_pelican,ams-bird-1918,,USS Pelican,usa,Active,Converted,1918-10-01,1936-01-01
+ams-bird-1918_falcon,ams-bird-1918,,USS Falcon,usa,Active,Auxiliary,1918-11-01,1929-09-01
+ams-bird-1918_osprey,ams-bird-1918,,USS Osprey,usa,Active,Auxiliary,1919-01-01,1922-04-01
+ams-bird-1918_seagull,ams-bird-1918,,USS Seagull,usa,Active,Auxiliary,1919-03-01,1942-06-01
+ams-bird-1918_tern,ams-bird-1918,,USS Tern,usa,Active,Auxiliary,1919-05-01,1942-06-01
+ams-bird-1918_flamingo,ams-bird-1918,,USS Flamingo,usa,Active,Auxiliary,1919-02-01,1923-01-01
+ams-bird-1918_penguin,ams-bird-1918,,USS Penguin,usa,Active,Sunk,1919-11-01,1941-12-08
+ams-bird-1918_swan,ams-bird-1918,,USS Swan,usa,Active,Converted,1919-01-01,1936-01-01
+ams-bird-1918_whippoorwill,ams-bird-1918,,USS Whippoorwill,usa,Active,Auxiliary,1919-04-01,1944-03-01
+ams-bird-1918_bittern,ams-bird-1918,,USS Bittern,usa,Active,Sunk,1919-05-01,1941-12-10
+ams-bird-1918_sanderling,ams-bird-1918,,USS Sanderling,usa,Active,Sunk,1918-12-01,1937-06-26
+ams-bird-1918_auk,ams-bird-1918,,USS Auk,usa,Active,Auxiliary,1919-01-01,1922-04-01
+ams-bird-1918_chewink,ams-bird-1918,,USS Chewink,usa,Active,Auxiliary,1919-04-01,1929-09-01
+ams-bird-1918_cormorant,ams-bird-1918,,USS Cormorant,usa,Active,Auxiliary,1919-05-01,1942-06-01
+ams-bird-1918_gannet,ams-bird-1918,,USS Gannet,usa,Active,Converted,1919-07-01,1936-01-01
+ams-bird-1918_grebe,ams-bird-1918,,USS Grebe,usa,Active,Auxiliary,1919-05-01,1942-06-01
+ams-bird-1918_mallard,ams-bird-1918,,USS Mallard,usa,Active,Auxiliary,1919-06-01,1929-09-01
+ams-bird-1918_ortolan,ams-bird-1918,,USS Ortolan,usa,Active,Auxiliary,1919-09-01,1929-09-01
+ams-bird-1918_peacock,ams-bird-1918,,USS Peacock,usa,Active,Sunk,1919-12-01,1940-08-24
+ams-bird-1918_pigeon,ams-bird-1918,,USS Pigeon,usa,Active,Auxiliary,1919-07-01,1929-09-01
+ams-bird-1918_redwing,ams-bird-1918,,USS Redwing,usa,Active,Auxiliary,1919-10-01,1924-05-01
+ams-bird-1918_sandpiper,ams-bird-1918,,USS Sandpiper,usa,Active,Converted,1919-10-01,1936-01-01
+ams-bird-1918_vireo,ams-bird-1918,,USS Vireo,usa,Active,Auxiliary,1919-10-01,1942-06-01
+ams-bird-1918_warbler,ams-bird-1918,,USS Warbler,usa,Active,Auxiliary,1919-12-01,1941-09-01
+ams-bird-1918_willet,ams-bird-1918,,USS Willet,usa,Active,Auxiliary,1920-01-01,1941-09-01
+ams-raven-1940_raven,ams-raven-1940,,USS Raven,usa,Active,Scrapped,1940-11-01,1967-05-01
+ams-raven-1940_osprey,ams-raven-1940,,USS Osprey,usa,Active,Sunk,1940-11-01,1944-06-05
+ams-auk-1942_auk,ams-auk-1942,,USS Auk,usa,Active,Scrapped,1942-01-01,1956-08-01
+ams-auk-1942_broadbill,ams-auk-1942,,USS Broadbill,usa,Active,Scrapped,1942-10-01,1972-07-01
+ams-auk-1942_chickadee,ams-auk-1942,,USS Chickadee,usa,Active,Sold,1942-11-01,1966-08-01
+ams-auk-1942_nuthatch,ams-auk-1942,,USS Nuthatch,usa,Active,Scrapped,1942-11-01,1966-12-01
+ams-auk-1942_pheasant,ams-auk-1942,,USS Pheasant,usa,Active,Scrapped,1942-12-01,1966-12-01
+ams-auk-1942_sheldrake,ams-auk-1942,,USS Sheldrake,usa,Active,Auxiliary,1942-10-01,1952-04-01
+ams-auk-1942_skylark,ams-auk-1942,,USS Skylark,usa,Active,Sunk,1942-11-01,1945-03-28
+ams-auk-1942_starling,ams-auk-1942,,USS Starling,usa,Active,Sold,1942-12-01,1972-07-01
+ams-auk-1942_swallow,ams-auk-1942,,USS Swallow,usa,Active,Sunk,1943-01-01,1945-04-22
+ams-auk-1942_heed,ams-auk-1942,,USS Heed,usa,Active,Scrapped,1943-02-01,1967-03-01
+ams-auk-1942_herald,ams-auk-1942,,USS Herald,usa,Active,Sold,1943-03-01,1972-07-01
+ams-auk-1942_motive,ams-auk-1942,,USS Motive,usa,Active,Scrapped,1943-04-01,1966-12-01
+ams-auk-1942_oracle,ams-auk-1942,,USS Oracle,usa,Active,Scrapped,1943-05-01,1966-12-01
+ams-auk-1942_pilot,ams-auk-1942,,USS Pilot,usa,Active,Sold,1943-02-01,1972-07-01
+ams-auk-1942_pioneer,ams-auk-1942,,USS Pioneer,usa,Active,Sold,1943-02-01,1972-07-01
+ams-auk-1942_portent,ams-auk-1942,,USS Portent,usa,Active,Sunk,1943-04-01,1944-01-22
+ams-auk-1942_prevail,ams-auk-1942,,USS Prevail,usa,Active,Auxiliary,1943-04-01,1952-04-01
+ams-auk-1942_pursuit,ams-auk-1942,,USS Pursuit,usa,Active,Auxiliary,1943-04-01,1951-08-01
+ams-auk-1942_requisite,ams-auk-1942,,USS Requisite,usa,Active,Auxiliary,1943-06-01,1951-08-01
+ams-auk-1942_revenge,ams-auk-1942,,USS Revenge,usa,Active,Scrapped,1943-07-01,1966-11-01
+ams-auk-1942_sage,ams-auk-1942,,USS Sage,usa,Active,Sold,1943-08-01,1972-07-01
+ams-auk-1942_seer,ams-auk-1942,,USS Seer,usa,Active,Converted,1942-10-01,1958-10-01
+ams-auk-1942_sentinel,ams-auk-1942,,USS Sentinel,usa,Active,Sunk,1942-11-01,1943-07-12
+ams-auk-1942_staff,ams-auk-1942,,USS Staff,usa,Active,Scrapped,1942-11-01,1967-03-01
+ams-auk-1942_skill,ams-auk-1942,,USS Skill,usa,Active,Sunk,1942-11-01,1943-09-25
+ams-auk-1942_speed,ams-auk-1942,,USS Speed,usa,Active,Sold,1942-10-01,1967-11-01
+ams-auk-1942_strive,ams-auk-1942,,USS Strive,usa,Active,Converted,1942-10-01,1958-09-15
+ams-auk-1942_steady,ams-auk-1942,,USS Steady,usa,Active,Sold,1942-11-01,1968-02-01
+ams-auk-1942_sustain,ams-auk-1942,,USS Sustain,usa,Active,Converted,1942-11-01,1958-09-15
+ams-auk-1942_sway,ams-auk-1942,,USS Sway,usa,Active,Sold,1943-07-01,1972-07-01
+ams-auk-1942_swerve,ams-auk-1942,,USS Swerve,usa,Active,Sunk,1944-01-01,1944-07-09
+ams-auk-1942_swift,ams-auk-1942,,USS Swift,usa,Active,Scrapped,1943-12-01,1972-07-01
+ams-auk-1942_symbol,ams-auk-1942,,USS Symbol,usa,Active,Sold,1942-12-01,1972-07-01
+ams-auk-1942_threat,ams-auk-1942,,USS Threat,usa,Active,Sold,1943-03-01,1972-07-01
+ams-auk-1942_tide,ams-auk-1942,,USS Tide,usa,Active,Sunk,1943-05-01,1944-06-07
+ams-auk-1942_token,ams-auk-1942,,USS Token,usa,Active,Scrapped,1942-12-01,1966-12-01
+ams-auk-1942_tumult,ams-auk-1942,,USS Tumult,usa,Active,Scrapped,1943-02-01,1967-05-01
+ams-auk-1942_velocity,ams-auk-1942,,USS Velocity,usa,Active,Sold,1943-04-01,1972-07-01
+ams-auk-1942_zeal,ams-auk-1942,,USS Zeal,usa,Active,Scrapped,1943-07-01,1966-12-01
+ams-akbar-1942_akbar,ams-auk-1942,,USS Champion,usa,Active,Sold,1943-09-01,1972-07-01
+ams-akbar-1942_alice,ams-auk-1942,,USS Chief,usa,Active,Sold,1943-10-01,1972-07-01
+ams-akbar-1942_amelie,ams-auk-1942,,USS Competent,usa,Active,Sold,1943-11-01,1972-07-01
+ams-akbar-1942_amity,ams-auk-1942,,USS Defense,usa,Active,Sold,1944-01-01,1972-07-01
+ams-akbar-1942_augusta,ams-auk-1942,,USS Devastator,usa,Active,Sold,1944-01-01,1972-07-01
+ams-akbar-1942_blaze,ams-auk-1942,,USS Gladiator,usa,Active,Sold,1944-02-01,1972-07-01
+ams-akbar-1942_brutus,ams-auk-1942,,USS Impeccable,usa,Active,Scrapped,1944-04-01,1972-07-01
+ams-akbar-1942_errant,ams-auk-1942,,USS Spear,usa,Active,Sold,1943-12-01,1972-07-01
+ams-akbar-1942_espoir,ams-auk-1942,,USS Triumph,usa,Active,Converted,1944-02-01,1959-12-04
+ams-akbar-1942_exploit,ams-auk-1942,,USS Vigilance,usa,Active,Sold,1944-02-01,1966-12-01
+ams-akbar-1942_buffalo,ams-auk-1942,,USS Ardent,usa,Active,Sold,1944-05-01,1972-07-01
+ams-akbar-1942_sepoy,ams-auk-1942,,USS Dextrous,usa,Active,Sold,1943-09-01,1967-12-01
+ams-auk-1942_minivet,ams-auk-1942,,USS Minivet,usa,Active,Sunk,1945-05-01,1945-12-29
+ams-auk-1942_murrelet,ams-auk-1942,,USS Murrelet,usa,Active,Sold,1945-08-01,1964-12-01
+ams-auk-1942_peregrine,ams-auk-1942,,USS Peregrine,usa,Active,Auxiliary,1945-09-01,1964-02-01
+ams-auk-1942_pigeon,ams-auk-1942,,USS Pigeon,usa,Active,Scrapped,1945-10-01,1966-12-01
+ams-auk-1942_pochard,ams-auk-1942,,USS Pochard,usa,Active,Scrapped,1944-11-01,1966-12-01
+ams-auk-1942_ptarmigan,ams-auk-1942,,USS Ptarmigan,usa,Active,Sold,1945-01-01,1963-07-01
+ams-auk-1942_quail,ams-auk-1942,,USS Quail,usa,Active,Scrapped,1945-03-01,1966-12-01
+ams-auk-1942_redstart,ams-auk-1942,,USS Redstart,usa,Active,Sold,1945-04-01,1963-07-01
+ams-auk-1942_roselle,ams-auk-1942,,USS Roselle,usa,Active,Sold,1945-02-01,1972-07-01
+ams-auk-1942_ruddy,ams-auk-1942,,USS Ruddy,usa,Active,Sold,1945-04-01,1960-11-01
+ams-auk-1942_scoter,ams-auk-1942,,USS Scoter,usa,Active,Sold,1945-03-01,1972-07-01
+ams-auk-1942_shoveller,ams-auk-1942,,USS Shoveller,usa,Active,Sold,1945-05-01,1960-11-01
+ams-auk-1942_surfbird,ams-auk-1942,,USS Surfbird,usa,Active,Auxiliary,1944-11-01,1957-06-01
+ams-auk-1942_sprig,ams-auk-1942,,USS Sprig,usa,Active,Scrapped,1945-04-01,1972-07-01
+ams-auk-1942_tanager,ams-auk-1942,,USS Tanager,usa,Active,Auxiliary,1945-07-01,1963-10-01
+ams-auk-1942_tercel,ams-auk-1942,,USS Tercel,usa,Active,Scrapped,1945-08-01,1972-07-01
+ams-auk-1942_toucan,ams-auk-1942,,USS Toucan,usa,Active,Sold,1944-11-01,1964-12-01
+ams-auk-1942_towhee,ams-auk-1942,,USS Towhee,usa,Active,Auxiliary,1945-03-01,1964-04-01
+ams-auk-1942_waxwing,ams-auk-1942,,USS Waxwing,usa,Active,Sold,1945-08-01,1965-10-01
+ams-auk-1942_wheatear,ams-auk-1942,,USS Wheatear,usa,Active,Scrapped,1945-10-01,1972-07-01
+ams-flamingo-1941_harriet-n-eldridge,ams-flamingo-1941,,USS Flamingo,usa,Active,Auxiliary,1941-06-01,1944-07-01
+ams-flamingo-1941_john-g-murley,ams-flamingo-1941,,USS Canary,usa,Active,Auxiliary,1941-06-01,1944-01-01
+ams-accentor-1941_accentor,ams-accentor-1941,,USS Accentor,usa,Active,Scrapped,1941-07-01,1946-07-01
+ams-accentor-1941_bateleur,ams-accentor-1941,,USS Bateleur,usa,Active,Sold,1941-08-01,1946-01-01
+ams-accentor-1941_barbet,ams-accentor-1941,,USS Barbet,usa,Active,Sold,1941-09-01,1947-08-01
+ams-accentor-1941_brambling,ams-accentor-1941,,USS Brambling,usa,Active,Sold,1941-10-01,1946-01-01
+ams-accentor-1941_caracara,ams-accentor-1941,,USS Caracara,usa,Active,Scrapped,1941-12-01,1946-01-01
+ams-accentor-1941_charcalaca,ams-accentor-1941,,USS Charcalaca,usa,Active,Scrapped,1941-09-01,1946-05-01
+ams-accentor-1941_chimango,ams-accentor-1941,,USS Chimango,usa,Active,Sold,1941-06-01,1946-01-01
+ams-accentor-1941_cotinga,ams-accentor-1941,,USS Cotinga,usa,Active,Sold,1941-06-01,1946-01-01
+ams-accentor-1941_courlan,ams-accentor-1941,,USS Courlan,usa,Active,Sold,1941-07-01,1947-01-01
+ams-accentor-1941_develin,ams-accentor-1941,,USS Develin,usa,Active,Scrapped,1941-09-01,1946-07-01
+ams-accentor-1941_fulmar,ams-accentor-1941,,USS Fulmar,usa,Active,Sold,1941-06-01,1946-01-01
+ams-accentor-1941_jacamar,ams-accentor-1941,,USS Jacamar,usa,Active,Sold,1941-06-01,1946-01-01
+ams-accentor-1941_limpkin,ams-accentor-1941,,USS Limpkin,usa,Active,Scrapped,1941-08-01,1946-05-01
+ams-accentor-1941_morikeet,ams-accentor-1941,,USS Morikeet,usa,Active,Scrapped,1941-08-01,1946-01-01
+ams-accentor-1941_marabout,ams-accentor-1941,,USS Marabout,usa,Active,Sold,1941-07-01,1946-07-01
+ams-accentor-1941_ostrich,ams-accentor-1941,,USS Ostrich,usa,Active,Scrapped,1941-07-01,1946-01-01
+ams-accentor-1941_roller,ams-accentor-1941,,USS Roller,usa,Active,Scrapped,1941-08-01,1946-05-01
+ams-accentor-1941_skimmer,ams-accentor-1941,,USS Skimmer,usa,Active,Scrapped,1941-08-01,1946-08-01
+ams-accentor-1941_tapacola,ams-accentor-1941,,USS Tapacola,usa,Active,Scrapped,1941-09-01,1946-10-01
+ams-accentor-1941_turaco,ams-accentor-1941,,USS Turaco,usa,Active,Scrapped,1941-10-01,1945-12-01
+ams-accentor-1941_acme,ams-accentor-1941,,USS Acme,usa,Active,Scrapped,1941-09-01,1946-01-01
+ams-accentor-1941_adamant,ams-accentor-1941,,USS Adamant,usa,Active,Scrapped,1941-09-01,1946-01-01
+ams-accentor-1941_advance,ams-accentor-1941,,USS Advance,usa,Active,Scrapped,1941-10-01,1946-01-01
+ams-accentor-1941_aggressor,ams-accentor-1941,,USS Aggressor,usa,Active,Scrapped,1941-10-01,1946-01-01
+ams-accentor-1941_assentive,ams-accentor-1941,,USS Assentive,usa,Active,Scrapped,1942-03-01,1945-12-01
+ams-accentor-1941_avenge,ams-accentor-1941,,USS Avenge,usa,Active,Scrapped,1942-04-01,1946-01-01
+ams-accentor-1941_bold,ams-accentor-1941,,USS Bold,usa,Active,Sold,1942-05-01,1946-01-01
+ams-accentor-1941_bulwark,ams-accentor-1941,,USS Bulwark,usa,Active,Sold,1942-02-01,1946-09-01
+ams-accentor-1941_combat,ams-accentor-1941,,USS Combat,usa,Active,Sold,1942-02-01,1946-01-01
+ams-accentor-1941_conqueror,ams-accentor-1941,,USS Conqueror,usa,Active,Sold,1942-03-01,1946-01-01
+ams-accentor-1941_conquest,ams-accentor-1941,,USS Conquest,usa,Active,Sold,1942-03-01,1946-01-01
+ams-accentor-1941_courier,ams-accentor-1941,,USS Courier,usa,Active,Sold,1941-10-01,1946-01-01
+ams-accentor-1941_defiance,ams-accentor-1941,,USS Defiance,usa,Active,Sold,1941-11-01,1946-01-01
+ams-accentor-1941_demand,ams-accentor-1941,,USS Demand,usa,Active,Scrapped,1941-09-01,1945-12-01
+ams-accentor-1941_detector,ams-accentor-1941,,USS Detector,usa,Active,Sold,1941-09-01,1946-01-01
+ams-accentor-1941_dominant,ams-accentor-1941,,USS Dominant,usa,Active,Sold,1941-09-01,1946-01-01
+ams-accentor-1941_endurance,ams-accentor-1941,,USS Endurance,usa,Active,Sold,1941-10-01,1946-01-01
+ams-accentor-1941_energy,ams-accentor-1941,,USS Energy,usa,Active,Auxiliary,1942-01-01,1943-02-01
+ams-accentor-1941_exultant,ams-accentor-1941,,USS Exultant,usa,Active,Auxiliary,1942-01-01,1943-02-01
+ams-accentor-1941_fearless,ams-accentor-1941,,USS Fearless,usa,Active,Auxiliary,1942-01-01,1943-02-01
+ams-accentor-1941_governor,ams-accentor-1941,,USS Governor,usa,Active,Sold,1942-01-01,1947-04-01
+ams-accentor-1941_guide,ams-accentor-1941,,USS Guide,usa,Active,Sold,1942-03-01,1947-04-01
+ams-accentor-1941_heroic,ams-accentor-1941,,USS Heroic,usa,Active,Sold,1942-03-01,1946-01-01
+ams-accentor-1941_ideal,ams-accentor-1941,,USS Ideal,usa,Active,Sold,1942-04-01,1946-01-01
+ams-accentor-1941_industry,ams-accentor-1941,,USS Industry,usa,Active,Sunk,1941-12-01,1945-10-09
+ams-accentor-1941_liberator,ams-accentor-1941,,USS Liberator,usa,Active,Auxiliary,1942-02-01,1944-12-01
+ams-accentor-1941_loyalty,ams-accentor-1941,,USS Loyalty,usa,Active,Sunk,1942-01-01,1945-09-16
+ams-accentor-1941_memorable,ams-accentor-1941,,USS Memorable,usa,Active,Scrapped,1942-03-01,1946-01-01
+ams-accentor-1941_merit,ams-accentor-1941,,USS Merit,usa,Active,Scrapped,1942-03-01,1946-05-01
+ams-accentor-1941_observer,ams-accentor-1941,,USS Observer,usa,Active,Scrapped,1942-04-01,1946-05-01
+ams-accentor-1941_paramount,ams-accentor-1941,,USS Paramount,usa,Active,Scrapped,1941-12-01,1946-02-01
+ams-accentor-1941_peerless,ams-accentor-1941,,USS Peerless,usa,Active,Scrapped,1942-02-01,1946-03-01
+ams-accentor-1941_pluck,ams-accentor-1941,,USS Pluck,usa,Active,Scrapped,1942-10-01,1946-05-01
+ams-accentor-1941_positive,ams-accentor-1941,,USS Positive,usa,Active,Scrapped,1942-08-01,1946-05-01
+ams-accentor-1941_power,ams-accentor-1941,,USS Reaper,usa,Active,Scrapped,1942-11-01,1945-11-01
+ams-accentor-1941_prestige,ams-accentor-1941,,USS Prestige,usa,Active,Scrapped,1941-12-01,1946-07-01
+ams-accentor-1941_progress,ams-accentor-1941,,USS Progress,usa,Active,Scrapped,1942-01-01,1946-07-01
+ams-accentor-1941_radiant,ams-accentor-1941,,USS Radiant,usa,Active,Scrapped,1942-02-01,1946-03-01
+ams-accentor-1941_reliable,ams-accentor-1941,,USS Reliable,usa,Active,Scrapped,1942-03-01,1946-09-01
+ams-accentor-1941_rocket,ams-accentor-1941,,USS Rocket,usa,Active,Scrapped,1942-03-01,1946-01-01
+ams-accentor-1941_royal,ams-accentor-1941,,USS Royal,usa,Active,Scrapped,1942-04-01,1946-01-01
+ams-accentor-1941_security,ams-accentor-1941,,USS Security,usa,Active,Scrapped,1942-03-01,1945-11-01
+ams-accentor-1941_skipper,ams-accentor-1941,,USS Skipper,usa,Active,Scrapped,1942-05-01,1946-02-01
+ams-accentor-1941_stalwart,ams-accentor-1941,,USS Stalwart,usa,Active,Auxiliary,1942-01-01,1945-08-01
+ams-accentor-1941_summit,ams-accentor-1941,,USS Summit,usa,Active,Auxiliary,1942-01-01,1945-08-01
+ams-accentor-1941_trident,ams-accentor-1941,,USS Trident,usa,Active,Scrapped,1942-02-01,1945-11-01
+ams-accentor-1941_valor,ams-accentor-1941,,USS Valor,usa,Active,Sunk,1942-03-01,1944-06-29
+ams-accentor-1941_victor,ams-accentor-1941,,USS Victor,usa,Active,Scrapped,1942-04-01,1945-11-01
+ams-accentor-1941_vigor,ams-accentor-1941,,USS Vigor,usa,Active,Scrapped,1942-05-01,1945-11-01
+ams-rhea-1941_rhea,ams-rhea-1941,,USS Rhea,usa,Active,Scrapped,1941-10-01,1946-02-01
+ams-rhea-1941_speaker,ams-rhea-1941,,USS Ruff,usa,Active,Scrapped,1941-10-01,1946-02-01
+ams-agile-1941_agile,ams-agile-1941,,USS Agile,usa,Active,Auxiliary,1941-12-01,1944-12-01
+ams-agile-1941_affray,ams-agile-1941,,USS Affray,usa,Active,Scrapped,1941-12-01,1946-01-01
+ams-adroit-1942_adroit,ams-adroit-1942,,USS Adroit,usa,Active,Converted,1942-07-01,1944-06-01
+ams-adroit-1942_advent,ams-adroit-1942,,USS Advent,usa,Active,Converted,1942-07-01,1944-06-01
+ams-adroit-1942_annoy,ams-adroit-1942,,USS Annoy,usa,Active,Converted,1942-09-01,1944-06-01
+ams-adroit-1942_conflict,ams-adroit-1942,,USS Conflict,usa,Active,Converted,1942-09-01,1944-06-01
+ams-adroit-1942_constant,ams-adroit-1942,,USS Constant,usa,Active,Converted,1942-09-01,1944-06-01
+ams-adroit-1942_daring,ams-adroit-1942,,USS Daring,usa,Active,Converted,1942-10-01,1944-06-01
+ams-adroit-1942_dash,ams-adroit-1942,,USS Dash,usa,Active,Converted,1942-10-01,1944-06-01
+ams-adroit-1942_despite,ams-adroit-1942,,USS Despite,usa,Active,Converted,1942-08-01,1944-06-01
+ams-adroit-1942_direct,ams-adroit-1942,,USS Direct,usa,Active,Converted,1942-08-01,1944-06-01
+ams-adroit-1942_dynamic,ams-adroit-1942,,USS Dynamic,usa,Active,Converted,1942-09-01,1944-06-01
+ams-adroit-1942_effective,ams-adroit-1942,,USS Effective,usa,Active,Converted,1942-10-01,1944-06-01
+ams-adroit-1942_engage,ams-adroit-1942,,USS Engage,usa,Active,Converted,1942-10-01,1944-06-01
+ams-adroit-1942_excel,ams-adroit-1942,,USS Excel,usa,Active,Converted,1942-12-01,1944-06-01
+ams-adroit-1942_exploit,ams-adroit-1942,,USS Exploit,usa,Active,Converted,1943-02-01,1944-06-01
+ams-adroit-1942_fidelity,ams-adroit-1942,,USS Fidelity,usa,Active,Converted,1942-09-01,1944-06-01
+ams-adroit-1942_fierce,ams-adroit-1942,,USS Fierce,usa,Active,Converted,1942-10-01,1944-06-01
+ams-adroit-1942_firm,ams-adroit-1942,,USS Firm,usa,Active,Converted,1943-04-01,1944-06-01
+ams-adroit-1942_force,ams-adroit-1942,,USS Force,usa,Active,Converted,1943-06-01,1944-06-01
+ams-admirable-1943_admirable,ams-admirable-1943,,USS Admirable,usa,Active,Sold,1943-04-01,1945-07-01
+ams-admirable-1943_adopt,ams-admirable-1943,,USS Adopt,usa,Active,Sold,1943-05-01,1945-07-01
+ams-admirable-1943_astute,ams-admirable-1943,,USS Astute,usa,Active,Sold,1944-01-01,1945-07-01
+ams-admirable-1943_augury,ams-admirable-1943,,USS Augury,usa,Active,Sold,1944-03-01,1945-07-01
+ams-admirable-1943_barrier,ams-admirable-1943,,USS Barrier,usa,Active,Sold,1944-05-01,1945-07-01
+ams-admirable-1943_bombard,ams-admirable-1943,,USS Bombard,usa,Active,Sold,1944-05-01,1945-07-01
+ams-admirable-1943_bond,ams-admirable-1943,,USS Bond,usa,Active,Sold,1943-08-01,1945-08-01
+ams-admirable-1943_buoyant,ams-admirable-1943,,USS Buoyant,usa,Active,Sold,1943-09-01,1946-05-01
+ams-admirable-1943_candid,ams-admirable-1943,,USS Candid,usa,Active,Sold,1943-10-01,1945-08-01
+ams-admirable-1943_capable,ams-admirable-1943,,USS Capable,usa,Active,Sold,1943-12-01,1945-08-01
+ams-admirable-1943_captivate,ams-admirable-1943,,USS Captivate,usa,Active,Sold,1943-12-01,1945-08-01
+ams-admirable-1943_caravan,ams-admirable-1943,,USS Caravan,usa,Active,Sold,1944-01-01,1945-08-01
+ams-admirable-1943_caution,ams-admirable-1943,,USS Caution,usa,Active,Sold,1944-02-01,1945-08-01
+ams-admirable-1943_change,ams-admirable-1943,,USS Change,usa,Active,Scrapped,1944-02-01,1960-01-01
+ams-admirable-1943_clamour,ams-admirable-1943,,USS Clamour,usa,Active,Scrapped,1944-03-01,1959-01-01
+ams-admirable-1943_climax,ams-admirable-1943,,USS Climax,usa,Active,Scrapped,1944-03-01,1959-01-01
+ams-admirable-1943_compel,ams-admirable-1943,,USS Compel,usa,Active,Scrapped,1944-04-01,1959-01-01
+ams-admirable-1943_concise,ams-admirable-1943,,USS Concise,usa,Active,Scrapped,1944-04-01,1959-01-01
+ams-admirable-1943_control,ams-admirable-1943,,USS Control,usa,Active,Scrapped,1944-05-01,1958-01-01
+ams-admirable-1943_counsel,ams-admirable-1943,,USS Counsel,usa,Active,Scrapped,1944-05-01,1972-07-01
+ams-admirable-1943_craig,ams-admirable-1943,,USS Crag,usa,Active,Sold,1944-08-01,1962-05-01
+ams-admirable-1943_cruise,ams-admirable-1943,,USS Cruise,usa,Active,Scrapped,1944-09-01,1972-07-01
+ams-admirable-1943_deft,ams-admirable-1943,,USS Deft,usa,Active,Sold,1944-04-01,1948-08-01
+ams-admirable-1943_delegate,ams-admirable-1943,,USS Delegate,usa,Active,Sold,1944-04-01,1946-05-01
+ams-admirable-1943_density,ams-admirable-1943,,USS Density,usa,Active,Sold,1944-06-01,1955-02-01
+ams-admirable-1943_design,ams-admirable-1943,,USS Design,usa,Active,Scrapped,1944-06-01,1955-01-01
+ams-admirable-1943_device,ams-admirable-1943,,USS Device,usa,Active,Sold,1944-07-01,1962-05-01
+ams-admirable-1943_diploma,ams-admirable-1943,,USS Diploma,usa,Active,Sold,1944-07-01,1962-05-01
+ams-admirable-1943_disdain,ams-admirable-1943,,USS Disdain,usa,Active,Sold,1944-12-01,1945-05-01
+ams-admirable-1943_dour,ams-admirable-1943,,USS Dour,usa,Active,Sold,1944-11-01,1962-05-01
+ams-admirable-1943_eager,ams-admirable-1943,,USS Eager,usa,Active,Sold,1944-11-01,1962-05-01
+ams-admirable-1943_elusive,ams-admirable-1943,,USS Elusive,usa,Active,Sold,1945-02-01,1946-05-01
+ams-admirable-1943_embattle,ams-admirable-1943,,USS Embattle,usa,Active,Sold,1945-04-01,1946-05-01
+ams-admirable-1943_execute,ams-admirable-1943,,USS Execute,usa,Active,Sold,1944-11-01,1962-05-01
+ams-admirable-1943_facility,ams-admirable-1943,,USS Facility,usa,Active,Sold,1944-11-01,1962-05-01
+ams-admirable-1943_fancy,ams-admirable-1943,,USS Fancy,usa,Active,Sold,1944-12-01,1945-05-01
+ams-admirable-1943_fixity,ams-admirable-1943,,USS Fixity,usa,Active,Auxiliary,1944-12-01,1948-01-01
+ams-admirable-1943_garland,ams-admirable-1943,,USS Garland,usa,Active,Scrapped,1944-08-01,1960-04-01
+ams-admirable-1943_gayety,ams-admirable-1943,,USS Gayety,usa,Active,Sold,1944-09-01,1962-04-01
+ams-admirable-1943_hazard,ams-admirable-1943,,USS Hazard,usa,Active,Scrapped,1944-10-01,1968-10-01
+ams-admirable-1943_hilarity,ams-admirable-1943,,USS Hilarity,usa,Active,Sold,1944-11-01,1962-05-01
+ams-admirable-1943_inaugural,ams-admirable-1943,,USS Inaugural,usa,Active,Scrapped,1944-12-01,1967-03-01
+ams-admirable-1943_implicit,ams-admirable-1943,,USS Implicit,usa,Active,Sold,1944-01-01,1948-06-01
+ams-admirable-1943_improve,ams-admirable-1943,,USS Improve,usa,Active,Sold,1944-02-01,1949-02-01
+ams-admirable-1943_incessant,ams-admirable-1943,,USS Incessant,usa,Active,Auxiliary,1944-03-01,1948-11-01
+ams-admirable-1943_incredible,ams-admirable-1943,,USS Incredible,usa,Active,Scrapped,1944-04-01,1959-12-01
+ams-admirable-1943_indicative,ams-admirable-1943,,USS Indicative,usa,Active,Sold,1944-06-01,1945-05-01
+ams-admirable-1943_inflict,ams-admirable-1943,,USS Inflict,usa,Active,Auxiliary,1944-08-01,1948-10-01
+ams-admirable-1943_instill,ams-admirable-1943,,USS Instill,usa,Active,Sold,1944-05-01,1962-05-01
+ams-admirable-1943_intrigue,ams-admirable-1943,,USS Intrigue,usa,Active,Sold,1944-07-01,1962-05-01
+ams-admirable-1943_invade,ams-admirable-1943,,USS Invade,usa,Active,Sold,1944-09-01,1962-05-01
+ams-admirable-1943_jubilant,ams-admirable-1943,,USS Jubilant,usa,Active,Sold,1943-08-01,1962-05-01
+ams-admirable-1943_knave,ams-admirable-1943,,USS Knave,usa,Active,Sold,1943-10-01,1962-05-01
+ams-admirable-1943_lance,ams-admirable-1943,,USS Lance,usa,Active,Sold,1943-11-01,1945-08-01
+ams-admirable-1943_logic,ams-admirable-1943,,USS Logic,usa,Active,Sold,1943-11-01,1945-08-01
+ams-admirable-1943_lucid,ams-admirable-1943,,USS Lucid,usa,Active,Sold,1943-12-01,1945-08-01
+ams-admirable-1943_magnet,ams-admirable-1943,,USS Magnet,usa,Active,Sold,1944-03-01,1945-08-01
+ams-admirable-1943_mainstay,ams-admirable-1943,,USS Mainstay,usa,Active,Scrapped,1944-04-01,1959-12-01
+ams-admirable-1943_marvel,ams-admirable-1943,,USS Marvel,usa,Active,Sold,1944-06-01,1945-05-01
+ams-admirable-1943_measure,ams-admirable-1943,,USS Measure,usa,Active,Sold,1944-05-01,1945-05-01
+ams-admirable-1943_method,ams-admirable-1943,,USS Method,usa,Active,Sold,1944-07-01,1945-05-01
+ams-admirable-1943_mirth,ams-admirable-1943,,USS Mirth,usa,Active,Sold,1944-08-01,1945-05-01
+ams-admirable-1943_nimble,ams-admirable-1943,,USS Nimble,usa,Active,Sold,1944-09-01,1948-06-01
+ams-admirable-1943_notable,ams-admirable-1943,,USS Notable,usa,Active,Sold,1943-12-01,1946-05-01
+ams-admirable-1943_nucleus,ams-admirable-1943,,USS Nucleus,usa,Active,Sold,1943-12-01,1945-05-01
+ams-admirable-1943_opponent,ams-admirable-1943,,USS Opponent,usa,Active,Scrapped,1944-02-01,1960-04-01
+ams-admirable-1943_palisade,ams-admirable-1943,,USS Palisade,usa,Active,Sold,1944-03-01,1945-05-01
+ams-admirable-1943_penetrate,ams-admirable-1943,,USS Penetrate,usa,Active,Sold,1944-03-01,1945-05-01
+ams-admirable-1943_peril,ams-admirable-1943,,USS Peril,usa,Active,Sold,1944-04-01,1945-05-01
+ams-admirable-1943_phantom,ams-admirable-1943,,USS Phantom,usa,Active,Sold,1944-05-01,1948-06-01
+ams-admirable-1943_pinnacle,ams-admirable-1943,,USS Pinnacle,usa,Active,Sold,1944-05-01,1948-06-01
+ams-admirable-1943_pirate,ams-admirable-1943,,USS Pirate,usa,Active,Sunk,1944-06-01,1950-10-12
+ams-admirable-1943_pivot,ams-admirable-1943,,USS Pivot,usa,Active,Sold,1944-07-01,1948-08-01
+ams-admirable-1943_pledge,ams-admirable-1943,,USS Pledge,usa,Active,Sunk,1944-07-01,1950-10-12
+ams-admirable-1943_project,ams-admirable-1943,,USS Project,usa,Active,Sold,1944-08-01,1947-09-01
+ams-admirable-1943_prime,ams-admirable-1943,,USS Prime,usa,Active,Sold,1944-09-01,1946-05-01
+ams-admirable-1943_prowess,ams-admirable-1943,,USS Prowess,usa,Active,Auxiliary,1944-09-01,1966-03-01
+ams-admirable-1943_quest,ams-admirable-1943,,USS Quest,usa,Active,Sold,1944-10-01,1947-09-01
+ams-admirable-1943_rampart,ams-admirable-1943,,USS Rampart,usa,Active,Sold,1944-11-01,1945-05-01
+ams-admirable-1943_ransom,ams-admirable-1943,,USS Ransom,usa,Active,Sold,1944-08-01,1962-05-01
+ams-admirable-1943_rebel,ams-admirable-1943,,USS Rebel,usa,Active,Sold,1944-09-01,1962-05-01
+ams-admirable-1943_recruit,ams-admirable-1943,,USS Recruit,usa,Active,Sold,1944-11-01,1962-05-01
+ams-admirable-1943_reform,ams-admirable-1943,,USS Reform,usa,Active,Sold,1945-02-01,1948-06-01
+ams-admirable-1943_refresh,ams-admirable-1943,,USS Refresh,usa,Active,Sold,1945-04-01,1948-06-01
+ams-admirable-1943_reign,ams-admirable-1943,,USS Reign,usa,Active,Scrapped,1946-10-01,1959-11-01
+ams-admirable-1943_report,ams-admirable-1943,,USS Report,usa,Active,Auxiliary,1946-07-01,1963-04-01
+ams-admirable-1943_salute,ams-admirable-1943,,USS Salute,usa,Active,Sunk,1943-12-01,1945-06-08
+ams-admirable-1943_saunter,ams-admirable-1943,,USS Saunter,usa,Active,Scrapped,1944-01-01,1945-11-01
+ams-admirable-1943_scout,ams-admirable-1943,,USS Scout,usa,Active,Sold,1944-03-01,1962-05-01
+ams-admirable-1943_scrimmage,ams-admirable-1943,,USS Scrimmage,usa,Active,Scrapped,1944-04-01,1960-04-01
+ams-admirable-1943_scuffle,ams-admirable-1943,,USS Scuffle,usa,Active,Sold,1944-05-01,1962-05-01
+ams-admirable-1943_sentry,ams-admirable-1943,,USS Sentry,usa,Active,Sold,1944-05-01,1962-02-01
+ams-admirable-1943_serene,ams-admirable-1943,,USS Serene,usa,Active,Sold,1944-06-01,1964-01-01
+ams-admirable-1943_shelter,ams-admirable-1943,,USS Shelter,usa,Active,Sold,1944-07-01,1964-01-01
+ams-admirable-1943_signet,ams-admirable-1943,,USS Signet,usa,Active,Sold,1944-06-01,1965-01-01
+ams-admirable-1943_skirmish,ams-admirable-1943,,USS Skirmish,usa,Active,Sold,1944-06-01,1965-01-01
+ams-admirable-1943_skurry,ams-admirable-1943,,USS Scurry,usa,Active,Scrapped,1944-07-01,1967-05-01
+ams-admirable-1943_spectacle,ams-admirable-1943,,USS Spectacle,usa,Active,Sunk,1944-06-01,1945-05-24
+ams-admirable-1943_specter,ams-admirable-1943,,USS Specter,usa,Active,Sold,1944-08-01,1962-05-01
+ams-admirable-1943_staunch,ams-admirable-1943,,USS Staunch,usa,Active,Scrapped,1944-09-01,1967-04-01
+ams-admirable-1943_strategy,ams-admirable-1943,,USS Strategy,usa,Active,Scrapped,1944-09-01,1967-10-01
+ams-admirable-1943_strength,ams-admirable-1943,,USS Strength,usa,Active,Scrapped,1944-09-01,1967-04-01
+ams-admirable-1943_success,ams-admirable-1943,,USS Success,usa,Active,Sold,1944-10-01,1962-05-01
+ams-admirable-1943_superior,ams-admirable-1943,,USS Superior,usa,Active,Scrapped,1944-11-01,1972-07-01
+ams-admirable-1943_creddock,ams-admirable-1943,,USS Creddock,usa,Active,Sold,1945-12-01,1967-01-01
+ams-admirable-1943_dipper,ams-admirable-1943,,USS Dipper,usa,Active,Sold,1945-12-01,1961-01-01
+ams-admirable-1943_dunlin,ams-admirable-1943,,USS Dunlin,usa,Active,Sold,1945-02-01,1946-05-01
+ams-admirable-1943_gadwall,ams-admirable-1943,,USS Gadwall,usa,Active,Scrapped,1945-06-01,1967-04-01
+ams-admirable-1943_gavia,ams-admirable-1943,,USS Gavia,usa,Active,Sold,1945-07-01,1946-05-01
+ams-admirable-1943_graylag,ams-admirable-1943,,USS Graylag,usa,Active,Scrapped,1945-08-01,1967-10-01
+ams-admirable-1943_harlequin,ams-admirable-1943,,USS Harlequin,usa,Active,Sold,1945-08-01,1962-05-01
+ams-admirable-1943_harrier,ams-admirable-1943,,USS Harrier,usa,Active,Scrapped,1945-10-01,1959-12-01
+ams-aggressive-1953_agile,ams-aggressive-1953,,USS Agile,usa,Active,Scrapped,1956-06-01,1977-09-01
+ams-aggressive-1953_aggressive,ams-aggressive-1953,,USS Aggressive,usa,Active,Scrapped,1953-11-01,1975-02-01
+ams-aggressive-1953_avenge,ams-aggressive-1953,,USS Avenge,usa,Active,Scrapped,1954-05-01,1970-02-01
+ams-aggressive-1953_bold,ams-aggressive-1953,,USS Bold,usa,Active,Scrapped,1953-09-01,1975-02-01
+ams-aggressive-1953_bulwark,ams-aggressive-1953,,USS Bulwark,usa,Active,Scrapped,1953-11-01,1975-02-01
+ams-aggressive-1953_conflict,ams-aggressive-1953,,USS Conflict,usa,Active,Scrapped,1954-03-01,1972-06-01
+ams-aggressive-1953_constant,ams-aggressive-1953,,USS Constant,usa,Active,Scrapped,1954-09-01,1994-03-01
+ams-aggressive-1953_dash,ams-aggressive-1953,,USS Dash,usa,Active,Sold,1953-08-01,1984-01-01
+ams-aggressive-1953_detector,ams-aggressive-1953,,USS Detector,usa,Active,Scrapped,1953-01-01,1983-12-01
+ams-aggressive-1953_direct,ams-aggressive-1953,,USS Direct,usa,Active,Scrapped,1954-07-01,1982-10-01
+ams-aggressive-1953_dominant,ams-aggressive-1953,,USS Dominant,usa,Active,Sold,1954-11-01,1984-01-01
+ams-aggressive-1953_dynamic,ams-aggressive-1953,,USS Dynamic,usa,Active,Sold,1953-12-01,1971-07-01
+ams-aggressive-1953_engage,ams-aggressive-1953,,USS Engage,usa,Active,Scrapped,1954-06-01,1992-04-01
+ams-aggressive-1953_embattle,ams-aggressive-1953,,USS Embattle,usa,Active,Scrapped,1954-11-01,1976-05-01
+ams-aggressive-1953_endurance,ams-aggressive-1953,,USS Endurance,usa,Active,Scrapped,1954-05-01,1972-07-01
+ams-aggressive-1953_energy,ams-aggressive-1953,,USS Energy,usa,Active,Sold,1954-07-01,1972-07-01
+ams-aggressive-1953_enhance,ams-aggressive-1953,,USS Enhance,usa,Active,Scrapped,1955-04-01,1992-02-01
+ams-aggressive-1953_esteem,ams-aggressive-1953,,USS Esteem,usa,Active,Scrapped,1955-09-01,1991-09-01
+ams-aggressive-1953_excel,ams-aggressive-1953,,USS Excel,usa,Active,Scrapped,1955-02-01,1994-03-01
+ams-aggressive-1953_exploit,ams-aggressive-1953,,USS Exploit,usa,Active,Scrapped,1954-03-01,1994-03-01
+ams-aggressive-1953_exultant,ams-aggressive-1953,,USS Exultant,usa,Active,Scrapped,1954-03-01,1994-03-01
+ams-aggressive-1953_fearless,ams-aggressive-1953,,USS Fearless,usa,Active,Scrapped,1954-09-01,1990-10-01
+ams-aggressive-1953_fidelity,ams-aggressive-1953,,USS Fidelity,usa,Active,Scrapped,1955-01-01,1989-06-01
+ams-aggressive-1953_firm,ams-aggressive-1953,,USS Firm,usa,Active,Sold,1954-10-01,1972-07-01
+ams-aggressive-1953_force,ams-aggressive-1953,,USS Force,usa,Active,Sunk,1955-01-01,1973-04-24
+ams-aggressive-1953_fortify,ams-aggressive-1953,,USS Fortify,usa,Active,Scrapped,1954-07-01,1994-03-01
+ams-aggressive-1953_guide,ams-aggressive-1953,,USS Guide,usa,Active,Scrapped,1955-03-01,1972-07-01
+ams-aggressive-1953_illusive,ams-aggressive-1953,,USS Illusive,usa,Active,Scrapped,1953-11-01,1990-06-01
+ams-aggressive-1953_impervious,ams-aggressive-1953,,USS Impervious,usa,Active,Scrapped,1954-07-01,1992-03-01
+ams-aggressive-1953_implicit,ams-aggressive-1953,,USS Implicit,usa,Active,Sold,1954-03-01,1994-09-01
+ams-aggressive-1953_inflict,ams-aggressive-1953,,USS Inflict,usa,Active,Scrapped,1954-05-01,1990-05-01
+ams-aggressive-1953_loyalty,ams-aggressive-1953,,USS Loyalty,usa,Active,Scrapped,1954-06-01,1972-07-01
+ams-aggressive-1953_lucid,ams-aggressive-1953,,USS Lucid,usa,Active,Scrapped,1955-05-01,1976-05-01
+ams-aggressive-1953_nimble,ams-aggressive-1953,,USS Nimble,usa,Active,Scrapped,1955-05-01,1976-11-01
+ams-aggressive-1953_notable,ams-aggressive-1953,,USS Notable,usa,Active,Scrapped,1955-06-01,1971-02-01
+ams-aggressive-1953_observer,ams-aggressive-1953,,USS Observer,usa,Active,Scrapped,1955-08-01,1977-09-01
+ams-aggressive-1953_pinnacle,ams-aggressive-1953,,USS Pinnacle,usa,Active,Scrapped,1955-10-01,1977-11-01
+ams-aggressive-1953_pivot,ams-aggressive-1953,,USS Pivot,usa,Active,Sold,1954-07-01,1971-07-01
+ams-aggressive-1953_pluck,ams-aggressive-1953,,USS Pluck,usa,Active,Scrapped,1954-08-01,1991-01-01
+ams-aggressive-1953_prestige,ams-aggressive-1953,,USS Prestige,usa,Active,Sunk,1954-09-01,1958-08-23
+ams-aggressive-1953_prime,ams-aggressive-1953,,USS Prime,usa,Active,Scrapped,1954-10-01,1976-10-01
+ams-aggressive-1953_reaper,ams-aggressive-1953,,USS Reaper,usa,Active,Scrapped,1954-11-01,1975-02-01
+ams-aggressive-1953_rival,ams-aggressive-1953,,USS Rival,usa,Active,Scrapped,1954-09-01,1971-02-01
+ams-aggressive-1953_sagacity,ams-aggressive-1953,,USS Sagacity,usa,Active,Scrapped,1955-01-01,1970-10-01
+ams-aggressive-1953_salute,ams-aggressive-1953,,USS Salute,usa,Active,Scrapped,1955-05-01,1971-02-01
+ams-aggressive-1953_skill,ams-aggressive-1953,,USS Skill,usa,Active,Scrapped,1955-11-01,1977-09-01
+ams-aggressive-1953_valor,ams-aggressive-1953,,USS Valor,usa,Active,Scrapped,1954-07-01,1971-02-01
+ams-aggressive-1953_vigor,ams-aggressive-1953,,USS Vigor,usa,Active,Sold,1954-11-01,1972-04-01
+ams-aggressive-1953_vital,ams-aggressive-1953,,USS Vital,usa,Active,Scrapped,1955-06-01,1977-09-01
+ams-aggressive-1953_conquest,ams-aggressive-1953,,USS Conquest,usa,Active,Sold,1955-07-01,1994-06-01
+ams-aggressive-1953_gallant,ams-aggressive-1953,,USS Gallant,usa,Active,Sold,1955-09-01,1994-04-01
+ams-aggressive-1953_leader,ams-aggressive-1953,,USS Leader,usa,Active,Scrapped,1955-11-01,1992-03-01
+ams-aggressive-1953_persistent,ams-aggressive-1953,,USS Persistent,usa,Active,Sold,1956-02-01,1971-07-01
+ams-aggressive-1953_pledge,ams-aggressive-1953,,USS Pledge,usa,Active,Sold,1956-04-01,1994-01-01
+ams-aggressive-1953_stalwart,ams-aggressive-1953,,USS Stalwart,usa,Active,Sunk,1957-04-01,1966-06-25
+ams-aggressive-1953_sturdy,ams-aggressive-1953,,USS Sturdy,usa,Active,Scrapped,1957-10-01,1977-09-01
+ams-aggressive-1953_swerve,ams-aggressive-1953,,USS Swerve,usa,Active,Sold,1957-07-01,1978-02-01
+ams-aggressive-1953_venture,ams-aggressive-1953,,USS Venture,usa,Active,Scrapped,1958-02-01,1977-09-01
+ams-aggressive-1953_acme,ams-aggressive-1953,,USS Acme,usa,Active,Scrapped,1957-03-01,1976-05-01
+ams-aggressive-1953_adroit,ams-aggressive-1953,,USS Adroit,usa,Active,Scrapped,1957-03-01,1992-05-01
+ams-aggressive-1953_advance,ams-aggressive-1953,,USS Advance,usa,Active,Scrapped,1958-06-01,1976-05-01
+ams-aggressive-1953_affray,ams-aggressive-1953,,USS Affray,usa,Active,Scrapped,1958-12-01,1993-06-01
+ams-bluebird-1953_bluebird,ams-bluebird-1953,,USS Bluebird,usa,Active,Scrapped,1953-07-01,1975-01-01
+ams-bluebird-1953_cormorant,ams-bluebird-1953,,USS Cormorant,usa,Active,Scrapped,1953-08-01,1974-03-01
+ams-bluebird-1953_falcon,ams-bluebird-1953,,USS Falcon,usa,Active,Sold,1954-11-01,1971-01-01
+ams-bluebird-1953_frigate-bird,ams-bluebird-1953,,USS Frigate Bird,usa,Active,Sold,1955-01-01,1971-01-01
+ams-bluebird-1953_hummingbird,ams-bluebird-1953,,USS Hummingbird,usa,Active,Sold,1955-02-01,1971-01-01
+ams-bluebird-1953_jacana,ams-bluebird-1953,,USS Jacana,usa,Active,Sold,1955-03-01,1971-01-01
+ams-bluebird-1953_kingbird,ams-bluebird-1953,,USS Kingbird,usa,Active,Scrapped,1955-04-01,1972-07-01
+ams-bluebird-1953_limpkin,ams-bluebird-1953,,USS Limpkin,usa,Active,Sold,1955-03-01,1971-01-01
+ams-bluebird-1953_meadowlark,ams-bluebird-1953,,USS Meadowlark,usa,Active,Sold,1955-05-01,1971-01-01
+ams-bluebird-1953_parrot,ams-bluebird-1953,,USS Parrot,usa,Active,Scrapped,1955-06-01,1972-08-01
+ams-bluebird-1953_peacock,ams-bluebird-1953,,USS Peacock,usa,Active,Scrapped,1955-03-01,1975-07-01
+ams-bluebird-1953_phoebe,ams-bluebird-1953,,USS Phoebe,usa,Active,Scrapped,1955-04-01,1975-07-01
+ams-bluebird-1953_redwing,ams-bluebird-1953,,USS Redwing,usa,Active,Sold,1955-01-01,1959-06-01
+ams-bluebird-1953_shrike,ams-bluebird-1953,,USS Shrike,usa,Active,Scrapped,1955-03-01,1975-07-01
+ams-bluebird-1953_spoonbill,ams-bluebird-1953,,USS Spoonbill,usa,Active,Sold,1955-06-01,1959-06-01
+ams-bluebird-1953_thrasher,ams-bluebird-1953,,USS Thrasher,usa,Active,Sold,1955-08-01,1975-07-01
+ams-bluebird-1953_thrush,ams-bluebird-1953,,USS Thrush,usa,Active,Auxiliary,1955-11-01,1975-07-01
+ams-bluebird-1953_vireo,ams-bluebird-1953,,USS Vireo,usa,Active,Sold,1955-06-01,1975-07-01
+ams-bluebird-1953_warbler,ams-bluebird-1953,,USS Warbler,usa,Active,Sold,1955-07-01,1975-07-01
+ams-bluebird-1953_whippoorwill,ams-bluebird-1953,,USS Whippoorwill,usa,Active,Sold,1955-10-01,1975-07-01
+ams-bluebird-1953_widgeon,ams-bluebird-1953,,USS Widgeon,usa,Active,Scrapped,1955-11-01,1973-07-01
+ams-bluebird-1953_woodpecker,ams-bluebird-1953,,USS Woodpecker,usa,Active,Sold,1956-02-01,1975-07-01
+ams-bluebird-1953_albatross,ams-bluebird-1953,,USS Albatross,usa,Active,Scrapped,1961-04-01,1970-04-01
+ams-bluebird-1953_gannet,ams-bluebird-1953,,USS Gannet,usa,Active,Scrapped,1961-07-01,1970-04-01
+ams-ability-1958_ability,ams-ability-1958,,USS Ability,usa,Active,Scrapped,1958-08-01,1971-02-01
+ams-ability-1958_alacrity,ams-ability-1958,,USS Alacrity,usa,Active,Auxiliary,1958-10-01,1973-06-01
+ams-ability-1958_assurance,ams-ability-1958,,USS Assurance,usa,Active,Auxiliary,1958-11-01,1973-03-01
+ams-cove-1958_cove,ams-cove-1958,,USS Cove,usa,Active,Scrapped,1958-11-01,1971-07-01
+ams-cove-1958_cape,ams-cove-1958,,USS Cape,usa,Active,Scrapped,1959-02-01,1992-06-01
+ams-avenger-1987_avenger,ams-avenger-1987,,USS Avenger,usa,Active,Scrapped,1987-09-12,2014-09-01
+ams-avenger-1987_defender,ams-avenger-1987,,USS Defender,usa,Active,Scrapped,1989-09-30,2014-10-01
+ams-avenger-1987_sentry,ams-avenger-1987,,USS Sentry,usa,Active,,1989-09-02,
+ams-avenger-1987_champion,ams-avenger-1987,,USS Champion,usa,Active,,1991-02-08,
+ams-avenger-1987_guardian,ams-avenger-1987,,USS Guardian,usa,Active,Sunk,1989-12-16,2013-01-17
+ams-avenger-1987_devastator,ams-avenger-1987,,USS Devastator,usa,Active,,1990-10-06,
+ams-avenger-1987_patriot,ams-avenger-1987,,USS Patriot,usa,Active,,1991-10-18,
+ams-avenger-1987_scout,ams-avenger-1987,,USS Scout,usa,Active,,1990-12-15,
+ams-avenger-1987_pioneer,ams-avenger-1987,,USS Pioneer,usa,Active,,1992-12-07,
+ams-avenger-1987_warrior,ams-avenger-1987,,USS Warrior,usa,Active,,1993-04-07,
+ams-avenger-1987_gladiator,ams-avenger-1987,,USS Gladiator,usa,Active,,1993-09-18,
+ams-avenger-1987_ardent,ams-avenger-1987,,USS Ardent,usa,Active,,1994-02-18,
+ams-avenger-1987_dextrous,ams-avenger-1987,,USS Dextrous,usa,Active,,1994-07-09,
+ams-avenger-1987_chief,ams-avenger-1987,,USS Chief,usa,Active,,1994-11-05,
+ams-osprey-1993_osprey,ams-osprey-1993,,USS Osprey,usa,Active,Scrapped,1993-11-20,2006-06-01
+ams-osprey-1993_heron,ams-osprey-1993,,USS Heron,usa,Active,Sold,1994-08-06,2007-03-01
+ams-osprey-1993_pelican,ams-osprey-1993,,USS Pelican,usa,Active,Sold,1995-11-18,2007-03-01
+ams-osprey-1993_robin,ams-osprey-1993,,USS Robin,usa,Active,Scrapped,1996-05-11,2006-06-01
+ams-osprey-1993_oriole,ams-osprey-1993,,USS Oriole,usa,Active,Sold,1995-09-16,2006-06-01
+ams-osprey-1993_kingfisher,ams-osprey-1993,,USS Kingfisher,usa,Active,Scrapped,1996-10-26,2007-12-01
+ams-osprey-1993_cormorant,ams-osprey-1993,,USS Cormorant,usa,Active,Scrapped,1997-04-12,2007-12-01
+ams-osprey-1993_black-hawk,ams-osprey-1993,,USS Black Hawk,usa,Active,Scrapped,1996-05-11,2007-12-01
+ams-osprey-1993_falcon,ams-osprey-1993,,USS Falcon,usa,Active,Sold,1997-02-08,2006-06-01
+ams-osprey-1993_cardinal,ams-osprey-1993,,USS Cardinal,usa,Active,Sold,1997-10-18,2007-01-07
+ams-osprey-1993_raven,ams-osprey-1993,,USS Raven,usa,Active,Sold,1998-09-05,2007-01-07
+ams-osprey-1993_shrike,ams-osprey-1993,,USS Shrike,usa,Active,Scrapped,1999-05-31,2007-01-01
+ams-bird-1918_lapwing,av-lapwing-1936,,USS Lapwing,usa,Active,Scrapped,1936-01-01,1946-01-01
+ams-bird-1918_heron,av-lapwing-1936,,USS Heron,usa,Active,Scrapped,1936-01-01,1946-12-01
+ams-bird-1918_thrush,av-lapwing-1936,,USS Thrush,usa,Active,Scrapped,1936-01-01,1946-01-01
+ams-bird-1918_avocet,av-lapwing-1936,,USS Avocet,usa,Active,Scrapped,1936-01-01,1946-01-01
+ams-bird-1918_teal,av-lapwing-1936,,USS Teal,usa,Active,Scrapped,1936-01-01,1946-12-01
+ams-bird-1918_pelican,av-lapwing-1936,,USS Pelican,usa,Active,Scrapped,1936-01-01,1945-12-01
+ams-bird-1918_swan,av-lapwing-1936,,USS Swan,usa,Active,Scrapped,1936-01-01,1946-01-01
+ams-bird-1918_gannet,av-lapwing-1936,,USS Gannet,usa,Active,Sunk,1936-01-01,1942-06-07
+ams-bird-1918_sandpiper,av-lapwing-1936,,USS Sandpiper,usa,Active,Scrapped,1936-01-01,1946-04-01
+ams-adroit-1942_adroit,pcs-sc-1586-1944,,USS S.C. 1586,usa,Active,Sold,1944-06-01,1946-01-01
+ams-adroit-1942_advent,pcs-sc-1586-1944,,USS S.C. 1587,usa,Active,Sold,1944-06-01,1946-02-01
+ams-adroit-1942_annoy,pcs-sc-1586-1944,,USS S.C. 1588,usa,Active,Sold,1944-06-01,1946-03-01
+ams-adroit-1942_conflict,pcs-sc-1586-1944,,USS S.C. 1589,usa,Active,Sold,1944-06-01,1946-01-01
+ams-adroit-1942_constant,pcs-sc-1586-1944,,USS S.C. 1590,usa,Active,Scrapped,1944-06-01,1954-01-01
+ams-adroit-1942_daring,pcs-sc-1586-1944,,USS S.C. 1591,usa,Active,Sold,1944-06-01,1946-01-01
+ams-adroit-1942_dash,pcs-sc-1586-1944,,USS S.C. 1592,usa,Active,Sold,1944-06-01,1946-01-01
+ams-adroit-1942_despite,pcs-sc-1586-1944,,USS S.C. 1593,usa,Active,Sold,1944-06-01,1946-01-01
+ams-adroit-1942_direct,pcs-sc-1586-1944,,USS S.C. 1594,usa,Active,Sold,1944-06-01,1946-01-01
+ams-adroit-1942_dynamic,pcs-sc-1586-1944,,USS S.C. 1595,usa,Active,Sold,1944-06-01,1946-01-01
+ams-adroit-1942_effective,pcs-sc-1586-1944,,USS S.C. 1596,usa,Active,Sold,1944-06-01,1946-01-01
+ams-adroit-1942_engage,pcs-sc-1586-1944,,USS S.C. 1597,usa,Active,Sold,1944-06-01,1946-12-01
+ams-adroit-1942_excel,pcs-sc-1586-1944,,USS S.C. 1598,usa,Active,Auxiliary,1944-06-01,1947-06-01
+ams-adroit-1942_exploit,pcs-sc-1586-1944,,USS S.C. 1599,usa,Active,Auxiliary,1944-06-01,1949-03-01
+ams-adroit-1942_fidelity,pcs-sc-1586-1944,,USS S.C. 1600,usa,Active,Auxiliary,1944-06-01,1948-06-01
+ams-adroit-1942_fierce,pcs-sc-1586-1944,,USS S.C. 1601,usa,Active,Sold,1944-06-01,1946-01-01
+ams-adroit-1942_firm,pcs-sc-1586-1944,,USS S.C. 1602,usa,Active,Auxiliary,1944-06-01,1948-06-01
+ams-adroit-1942_force,pcs-sc-1586-1944,,USS S.C. 1603,usa,Active,Sunk,1944-06-01,1945-05-21
+ams-auk-1942_seer,aml-strive-1959,,USS Seer,usa,Active,Sold,1958-10-31,1960-09-01
+ams-auk-1942_strive,aml-strive-1959,,USS Strive,usa,Active,Sold,1958-10-31,1959-10-01
+ams-auk-1942_sustain,aml-strive-1959,,USS Sustain,usa,Active,Sold,1958-10-31,1959-10-01
+ams-akbar-1942_espoir,aml-strive-1959,,USS Triumph,usa,Active,Sold,1961-01-08,1961-01-27
+ams-auk-1942_seer,aml-tyr-1959,,Uller,norway,Active,Scrapped,1962-09-01,1948-01-01
+ams-auk-1942_strive,aml-tyr-1959,,Gor,norway,Active,Scrapped,1959-10-01,1975-01-01
+ams-auk-1942_sustain,aml-tyr-1959,,Tyr,norway,Active,Scrapped,1959-10-01,1975-01-01
+ams-akbar-1942_espoir,aml-tyr-1959,,Brage,norway,Active,Training,1961-01-27,1978-01-01
+ams-bird-1918_finch,pc-103-go-1943,,103-go,japan,Active,Sunk,1943-04-01,1945-01-12
+ams-auk-1942_chickadee,pc-comandante-pedro-campbell-1966,,Comandante Pedro Campbell,uruguay,Active,Scrapped,1966-08-01,2002-01-01
+ams-auk-1942_pioneer,pc-leandro-valle-1973,,Leandro Valle,mexico,Active,Scrapped,1973-02-01,2004-01-01
+ams-auk-1942_symbol,pc-leandro-valle-1973,,Guillermo Prieto,mexico,Active,,1973-02-01,
+ams-akbar-1942_akbar,pc-leandro-valle-1973,,Mariano Escobedo,mexico,Active,,1973-02-01,
+ams-akbar-1942_amelie,pc-leandro-valle-1973,,Ponciano Arriaga,mexico,Active,Scrapped,1973-02-01,1988-01-01
+ams-akbar-1942_amity,pc-leandro-valle-1973,,Manuel Doblado,mexico,Active,,1973-02-01,
+ams-akbar-1942_augusta,pc-leandro-valle-1973,,Sebastian Lerdo de Teiada,mexico,Active,Scrapped,1973-02-01,2004-01-01
+ams-akbar-1942_blaze,pc-leandro-valle-1973,,Santos Degollado,mexico,Active,,1973-04-01,
+ams-akbar-1942_errant,pc-leandro-valle-1973,,Ignacio de la Llave,mexico,Active,Scrapped,1973-04-01,2004-01-01
+ams-akbar-1942_buffalo,pc-leandro-valle-1973,,Juan N. Alvarez,mexico,Active,,1973-04-01,
+ams-auk-1942_roselle,pc-leandro-valle-1973,,Melchior Ocampo,mexico,Active,,1973-04-01,
+ams-auk-1942_starling,pc-leandro-valle-1973,,Valentin Gomez Farias,mexico,Active,,1973-09-01,
+ams-auk-1942_sway,pc-leandro-valle-1973,,Ignacio Miguel Altamirano,mexico,Active,Scrapped,1973-09-01,2004-01-01
+ams-auk-1942_threat,pc-leandro-valle-1973,,Francisco Zarco,mexico,Active,,1973-09-01,
+ams-auk-1942_velocity,pc-leandro-valle-1973,,Ignacio L. Vallarta,mexico,Active,,1973-09-01,
+ams-akbar-1942_alice,pc-leandro-valle-1973,,Jesus Gonzalez Ortega,mexico,Active,,1973-09-01,
+ams-auk-1942_scoter,pc-leandro-valle-1973,,Guterrez Zamora,mexico,Active,Scrapped,1973-09-01,2004-01-01
+ams-auk-1942_herald,pc-leandro-valle-1973,,Mariano Matamoros,mexico,Active,Auxiliary,1973-09-01,1973-01-01
+ams-auk-1942_pilot,pc-leandro-valle-1973,,Juan Aldama,mexico,Active,Scrapped,1973-09-01,2004-01-01
+ams-auk-1942_sage,pc-leandro-valle-1973,,Hermenegildo Galeana,mexico,Active,,1973-09-01,
+ams-admirable-1943_jubilant,pc-dm01-1962,,DM01,mexico,Active,Scrapped,1962-10-01,2000-01-01
+ams-admirable-1943_hilarity,pc-dm01-1962,,DM02,mexico,Active,Scrapped,1962-10-01,1986-01-01
+ams-admirable-1943_execute,pc-dm01-1962,,DM03,mexico,Active,Scrapped,1962-10-01,2001-07-01
+ams-admirable-1943_facility,pc-dm01-1962,,DM04,mexico,Active,Scrapped,1962-10-01,1973-04-01
+ams-admirable-1943_specter,pc-dm01-1962,,DM04,mexico,Active,Scrapped,1973-04-01,2001-07-01
+ams-admirable-1943_scuffle,pc-dm01-1962,,DM05,mexico,Active,Sunk,1962-10-01,1999-01-01
+ams-admirable-1943_eager,pc-dm01-1962,,DM06,mexico,Active,Scrapped,1962-10-01,1986-01-01
+ams-admirable-1943_recruit,pc-dm01-1962,,DM07,mexico,Active,Scrapped,1962-10-01,1970-01-01
+ams-admirable-1943_success,pc-dm01-1962,,DM08,mexico,Active,Scrapped,1962-10-01,1970-01-01
+ams-admirable-1943_scout,pc-dm01-1962,,DM09,mexico,Active,Scrapped,1962-10-01,1970-01-01
+ams-admirable-1943_instill,pc-dm01-1962,,DM10,mexico,Active,Scrapped,1962-10-01,1986-01-01
+ams-admirable-1943_device,pc-dm01-1962,,DM11,mexico,Active,Scrapped,1962-10-01,2000-01-01
+ams-admirable-1943_ransom,pc-dm01-1962,,DM12,mexico,Active,Scrapped,1962-10-01,2000-01-01
+ams-admirable-1943_knave,pc-dm01-1962,,DM13,mexico,Active,Scrapped,1962-10-01,2000-01-01
+ams-admirable-1943_rebel,pc-dm01-1962,,DM14,mexico,Active,Scrapped,1962-10-01,2001-07-01
+ams-admirable-1943_craig,pc-dm01-1962,,DM15,mexico,Active,Scrapped,1962-10-01,1994-01-01
+ams-admirable-1943_dour,pc-dm01-1962,,DM16,mexico,Active,Scrapped,1962-10-01,1986-01-01
+ams-admirable-1943_diploma,pc-dm01-1962,,DM17,mexico,Active,Scrapped,1962-10-01,2000-01-01
+ams-admirable-1943_invade,pc-dm01-1962,,DM18,mexico,Active,Scrapped,1962-10-01,2001-07-01
+ams-admirable-1943_intrigue,pc-dm01-1962,,DM19,mexico,Active,Scrapped,1962-10-01,2001-07-01
+ams-admirable-1943_harlequin,pc-dm01-1962,,DM20,mexico,Active,Auxiliary,1962-10-01,1978-01-01
+ams-akbar-1942_catherine,ams-akbar-1942,,HMS Catherine,britain,Active,Sold,1943-07-01,1946-12-01
+ams-akbar-1942_cato,ams-akbar-1942,,HMS Cato,britain,Active,Sunk,1943-07-01,1944-07-06
+ams-akbar-1942_chamois,ams-akbar-1942,,HMS Chamois,britain,Active,Sunk,1943-10-01,1944-07-21
+ams-akbar-1942_chance,ams-akbar-1942,,HMS Chance,britain,Active,Sold,1943-11-01,1946-12-01
+ams-akbar-1942_combatant,ams-akbar-1942,,HMS Combatant,britain,Active,Sold,1943-12-01,1946-12-01
+ams-akbar-1942_cynthia,ams-akbar-1942,,HMS Cynthia,britain,Active,Sold,1943-12-01,1947-01-01
+ams-akbar-1942_elfreda,ams-akbar-1942,,HMS Elfreda,britain,Active,Sold,1943-12-22,1947-06-30
+ams-akbar-1942_fairy,ams-akbar-1942,,HMS Fairy,britain,Active,Sold,1944-03-01,1946-12-01
+ams-akbar-1942_florizel,ams-akbar-1942,,HMS Florizel,britain,Active,Sold,1944-04-01,1946-12-01
+ams-akbar-1942_foam,ams-akbar-1942,,HMS Foam,britain,Active,Sold,1944-04-01,1946-11-01
+ams-akbar-1942_frolic,ams-akbar-1942,,HMS Frolic,britain,Active,Sold,1944-05-01,1947-01-01
+ams-akbar-1942_gazelle,ams-akbar-1942,,HMS Gazelle,britain,Active,Sold,1943-07-01,1946-12-01
+ams-akbar-1942_gorgon,ams-akbar-1942,,HMS Gorgon,britain,Active,Sold,1943-08-01,1946-12-01
+ams-akbar-1942_grecian,ams-akbar-1942,,HMS Grecian,britain,Active,Sold,1943-09-01,1947-01-01
+ams-akbar-1942_jasper,ams-akbar-1942,,HMS Jasper,britain,Active,Sold,1944-08-01,1946-12-01
+ams-akbar-1942_magic,ams-akbar-1942,,HMS Magic,britain,Active,Sunk,1943-10-01,1944-07-06
+ams-akbar-1942_pique,ams-akbar-1942,,HMS Pique,britain,Active,Sold,1943-08-01,1946-12-01
+ams-akbar-1942_pylades,ams-akbar-1942,,HMS Pylades,britain,Active,Sunk,1943-11-01,1944-07-08
+ams-akbar-1942_steadfast,ams-akbar-1942,,HMS Steadfast,britain,Active,Sold,1943-09-01,1946-12-01
+ams-auk-1942_vital,ams-akbar-1942,,HMS Strenuous,britain,Active,Sold,1943-05-01,1946-12-10
+ams-akbar-1942_tattoo,ams-akbar-1942,,HMS Tattoo,britain,Active,Sold,1943-10-01,1947-01-01
+ams-auk-1942_usage,ams-akbar-1942,,HMS Tourmaline,britain,Active,Sold,1943-06-01,1947-01-01
+ams-akbar-1942_elfreda,ams-candarli-1947,,TCG Cesme,turkey,Active,Auxiliary,1947-11-13,1964-01-01
+ams-akbar-1942_tattoo,ams-candarli-1947,,TCG Carsamba,turkey,Active,Auxiliary,1947-03-01,1965-01-01
+ams-auk-1942_usage,ams-candarli-1947,,TCG Cardak,turkey,Active,Scrapped,1947-03-01,1974-01-01
+ams-akbar-1942_frolic,ams-candarli-1947,,TCG Candarli,turkey,Active,Auxiliary,1947-03-01,1965-01-01
+ams-akbar-1942_grecian,ams-candarli-1947,,TCG Edincik,turkey,Active,Scrapped,1947-03-01,1974-01-01
+ams-akbar-1942_catherine,ams-candarli-1947,,TCG Erdemli,turkey,Active,Scrapped,1947-03-01,1963-01-01
+ams-akbar-1942_pique,ams-candarli-1947,,TCG Eregli,turkey,Active,Scrapped,1947-03-01,1973-01-01
+ams-akbar-1942_chance,ams-candarli-1947,,TCG Erdemit,turkey,Active,Scrapped,1947-03-01,1973-01-01
+ams-auk-1942_ptarmigan,pc-sinseong-1963,,Sinseong,south_korea,Active,Scrapped,1963-07-01,1984-01-01
+ams-auk-1942_speed,pc-sinseong-1963,,Suncheon,south_korea,Active,Scrapped,1967-11-01,1984-01-01
+ams-akbar-1942_sepoy,pc-sinseong-1963,,Geoje,south_korea,Active,Scrapped,1967-12-01,1984-01-01
+ams-auk-1942_toucan,fs-chien-men-1964,,Jian Men,taiwan,Active,Sunk,1964-12-01,1965-08-06
+ams-auk-1942_redstart,fs-chien-men-1964,,Wu Sheng,taiwan,Active,Scrapped,1963-07-01,1992-01-01
+ams-auk-1942_waxwing,fs-chien-men-1964,,Ju Yong,taiwan,Active,Scrapped,1965-10-01,1992-01-01
+ams-auk-1942_steady,fs-chien-men-1964,,Ping Jing,taiwan,Active,Scrapped,1968-02-01,1993-01-01
+ams-aggressive-1953_implicit,ams-yung-yang-1995,,Yung Yang,taiwan,Active,,1994-09-01,
+ams-aggressive-1953_conquest,ams-yung-yang-1995,,Yung Tzu,taiwan,Active,,1994-06-01,
+ams-aggressive-1953_gallant,ams-yung-yang-1995,,Yung Ku,taiwan,Active,Scrapped,1994-04-01,2013-06-01
+ams-aggressive-1953_pledge,ams-yung-yang-1995,,Yung Teh,taiwan,Active,,1994-01-01,
+ams-osprey-1993_oriole,ams-yung-jin-2012,,Yung Jin,taiwan,Active,,2012-08-10,
+ams-osprey-1993_falcon,ams-yung-jin-2012,,Yung An,taiwan,Active,,2012-08-10,
+ams-auk-1942_ruddy,fs-galvez-1960,,Galvez,peru,Active,Auxiliary,1960-11-01,1975-01-01
+ams-auk-1942_shoveller,fs-galvez-1960,,Diez Canseco,peru,Active,Auxiliary,1960-11-01,1975-01-01
+ams-akbar-1942_exploit,fs-rizal-1965,,Quezon,philippines,Active,Sold,1966-12-01,
+ams-auk-1942_murrelet,fs-rizal-1965,,Rizal,philippines,Active,Sold,1964-12-01,
+ams-admirable-1943_project,pc-samar-1948,,Samar,philippines,Active,Sold,1948-05-24,
+ams-admirable-1943_quest,pc-samar-1948,,Pagasa,philippines,Active,Unknown,1948-05-24,1949-01-01
+ams-admirable-1943_shelter,pc-samar-1948,,Datu Tupas,philippines,Active,Scrapped,1976-04-05,1977-01-01
+ams-admirable-1943_gayety,pc-samar-1948,,Magat Salamat,philippines,Active,,1976-04-05,
+ams-aggressive-1953_energy,ams-davao-del-norte-1972,,Davao del Norte,philippines,Active,Sold,1972-07-01,1977-07-01
+ams-aggressive-1953_firm,ams-davao-del-norte-1972,,Davao del Sur,philippines,Active,Sold,1972-07-01,1977-07-01
+ams-admirable-1943_buoyant,ams-yung-ning-1945,,I,china,Active,Captured,1946-05-01,1949-07-01
+ams-admirable-1943_deft,ams-yung-ning-1945,,II,china,Active,Captured,1948-08-01,1949-07-01
+ams-admirable-1943_delegate,ams-yung-ning-1945,,Yung Ho,china,Active,Captured,1946-05-01,1949-07-01
+ams-admirable-1943_elusive,ams-yung-ning-1945,,Yung Kang,china,Active,Captured,1946-05-01,1949-07-01
+ams-admirable-1943_embattle,ams-yung-ning-1945,,Yung Hsing,china,Active,Captured,1946-05-01,1949-07-01
+ams-admirable-1943_implicit,ams-yung-ning-1945,,Yung Chia,china,Active,Captured,1948-06-01,1949-07-01
+ams-admirable-1943_lance,ams-yung-ning-1945,,Yung Sheng,china,Active,Captured,1945-08-01,1949-07-01
+ams-admirable-1943_logic,ams-yung-ning-1945,,Yung Shun,china,Active,Captured,1945-08-01,1949-07-01
+ams-admirable-1943_lucid,ams-yung-ning-1945,,Yung Ting,china,Active,Captured,1945-08-01,1949-07-01
+ams-admirable-1943_magnet,ams-yung-ning-1945,,Yung Ning,china,Active,Captured,1945-08-01,1949-07-01
+ams-admirable-1943_nimble,ams-yung-ning-1945,,III,china,Active,Captured,1948-06-01,1949-07-01
+ams-admirable-1943_notable,ams-yung-ning-1945,,IV,china,Active,Captured,1946-05-01,1949-07-01
+ams-admirable-1943_phantom,ams-yung-ning-1945,,Yung Ming,china,Active,Captured,1948-06-01,1949-07-01
+ams-admirable-1943_pinnacle,ams-yung-ning-1945,,Yung Hsiu,china,Active,Captured,1948-06-01,1949-07-01
+ams-admirable-1943_pivot,ams-yung-ning-1945,,Yung Shou,china,Active,Captured,1948-08-01,1949-07-01
+ams-admirable-1943_prime,ams-yung-ning-1945,,Yung Feng,china,Active,Captured,1946-05-01,1949-07-01
+ams-admirable-1943_reform,ams-yung-ning-1945,,V,china,Active,Captured,1948-06-01,1949-07-01
+ams-admirable-1943_refresh,ams-yung-ning-1945,,Yung Chang,china,Active,Captured,1948-06-01,1949-07-01
+ams-admirable-1943_dunlin,ams-yung-ning-1945,,VI,china,Active,Captured,1946-05-01,1949-07-01
+ams-admirable-1943_gavia,ams-yung-ning-1945,,Yung Chun,china,Active,Captured,1946-05-01,1949-07-01
+ams-admirable-1943_lance,ams-zhen-nan-1949,,Yong Sheng,taiwan,Active,Scrapped,1949-10-01,1972-07-01
+ams-admirable-1943_logic,ams-zhen-nan-1949,,Yong Shun,taiwan,Active,Scrapped,1949-10-01,1970-06-01
+ams-admirable-1943_lucid,ams-zhen-nan-1949,,Yong Ding,taiwan,Active,Scrapped,1949-10-01,1963-01-01
+ams-admirable-1943_magnet,ams-zhen-nan-1949,,Yong Ning,taiwan,Active,Sunk,1949-10-01,1958-01-27
+ams-admirable-1943_implicit,ams-zhen-nan-1949,,Yong Jia,taiwan,Active,Scrapped,1949-10-01,1970-08-01
+ams-admirable-1943_pinnacle,ams-zhen-nan-1949,,Yong Xiu,taiwan,Active,Scrapped,1949-10-01,1972-07-01
+ams-admirable-1943_pivot,ams-zhen-nan-1949,,Yong Shou,taiwan,Active,Scrapped,1949-10-01,1970-07-01
+ams-admirable-1943_prime,ams-zhen-nan-1949,,Yong Feng,taiwan,Active,Scrapped,1949-10-01,1973-05-01
+ams-admirable-1943_refresh,ams-zhen-nan-1949,,Yong Chang,taiwan,Active,Sunk,1949-10-01,1965-11-14
+ams-admirable-1943_gavia,ams-zhen-nan-1949,,Yong Chun,taiwan,Active,Scrapped,1949-10-01,1962-06-01
+ams-admirable-1943_delegate,ams-zhen-nan-1949,,Yong He,taiwan,Active,Scrapped,1949-10-01,1962-09-01
+ams-admirable-1943_elusive,ams-zhen-nan-1949,,Yong Kang,taiwan,Active,Scrapped,1949-10-01,1962-01-01
+ams-admirable-1943_gayety,pc-chi-lang-ii-1962,,Chi Lang II,south_vietnam,Active,Captured,1962-04-01,1975-04-01
+ams-admirable-1943_sentry,pc-chi-lang-ii-1962,,Ky Hoa,south_vietnam,Active,Captured,1962-02-01,1975-04-29
+ams-admirable-1943_serene,pc-chi-lang-ii-1962,,Nhut Tao,south_vietnam,Active,Sunk,1964-01-01,1974-01-19
+ams-admirable-1943_shelter,pc-chi-lang-ii-1962,,Chi Linh,south_vietnam,Active,Captured,1964-01-01,1975-04-01
+ams-admirable-1943_prowess,pc-chi-lang-ii-1962,,Ha Hoi,south_vietnam,Active,Captured,1970-06-01,1975-04-29
+ams-admirable-1943_sentry,pc-ky-hoa-1975,,Ky Hoa,vietnam,Active,Scrapped,1975-04-29,1993-01-01
+ams-admirable-1943_prowess,pc-ky-hoa-1975,,Ha Hoi,vietnam,Active,Scrapped,1975-04-29,1998-01-01
+ams-admirable-1943_advocate,ams-t-111-1943,,T-111 Starshiy Leytenant Liekariev,russia,Active,Auxiliary,1943-06-01,1956-07-01
+ams-admirable-1943_agent,ams-t-111-1943,,T-112 Starshiy Leytenant Vladyimirov,russia,Active,Auxiliary,1943-07-01,1955-10-01
+ams-admirable-1943_alarm,ams-t-111-1943,,T-113,russia,Active,Scrapped,1943-08-01,1956-07-01
+ams-admirable-1943_alchemy,ams-t-111-1943,,T-114,russia,Active,Sunk,1943-08-01,1944-08-13
+ams-admirable-1943_apex,ams-t-111-1943,,T-115,russia,Active,Auxiliary,1943-08-01,1955-09-01
+ams-admirable-1943_arcade,ams-t-111-1943,,T-116,russia,Active,Auxiliary,1943-08-01,1956-07-01
+ams-admirable-1943_arch,ams-t-111-1943,,T-117,russia,Active,Auxiliary,1943-09-01,1955-10-01
+ams-admirable-1943_armada,ams-t-111-1943,,T-118,russia,Active,Sunk,1943-09-01,1944-08-13
+ams-admirable-1943_aspire,ams-t-111-1943,,T-119,russia,Active,Auxiliary,1943-09-01,1956-07-01
+ams-admirable-1943_assail,ams-t-111-1943,,T-120,russia,Active,Sunk,1943-10-01,1944-09-24
+ams-admirable-1943_disdain,ams-t-111-1943,,T-271,russia,Active,Scrapped,1945-05-01,1947-07-01
+ams-admirable-1943_fancy,ams-t-111-1943,,T-272,russia,Active,Scrapped,1945-05-01,1947-10-01
+ams-admirable-1943_indicative,ams-t-111-1943,,T-273,russia,Active,Scrapped,1945-05-01,1947-06-01
+ams-admirable-1943_marvel,ams-t-111-1943,,T-274,russia,Active,Scrapped,1945-05-01,1947-07-01
+ams-admirable-1943_measure,ams-t-111-1943,,T-275,russia,Active,Scrapped,1945-05-01,1947-10-01
+ams-admirable-1943_method,ams-t-111-1943,,T-276,russia,Active,Scrapped,1945-05-01,1947-10-01
+ams-admirable-1943_mirth,ams-t-111-1943,,T-277,russia,Active,Scrapped,1945-05-01,1947-06-01
+ams-admirable-1943_nucleus,ams-t-111-1943,,T-278,russia,Active,Scrapped,1945-05-01,1947-10-01
+ams-admirable-1943_palisade,ams-t-111-1943,,T-279,russia,Active,Auxiliary,1945-05-01,1951-09-01
+ams-admirable-1943_penetrate,ams-t-111-1943,,T-280,russia,Active,Scrapped,1945-05-01,1947-06-01
+ams-admirable-1943_peril,ams-t-111-1943,,T-281,russia,Active,Auxiliary,1945-05-01,1956-12-01
+ams-admirable-1943_rampart,ams-t-111-1943,,T-282,russia,Active,Scrapped,1945-05-01,1947-10-01
+ams-admirable-1943_candid,ams-t-111-1943,,T-283,russia,Active,Auxiliary,1945-08-01,1947-06-01
+ams-admirable-1943_caution,ams-t-111-1943,,T-284,russia,Active,Auxiliary,1945-08-01,1956-07-01
+ams-admirable-1943_bond,ams-t-111-1943,,T-285,russia,Active,Auxiliary,1945-08-01,1956-07-01
+ams-admirable-1943_admirable,ams-t-111-1943,,T-331,russia,Active,Auxiliary,1945-07-01,1947-06-01
+ams-admirable-1943_adopt,ams-t-111-1943,,T-332,russia,Active,Auxiliary,1945-07-01,1955-09-01
+ams-admirable-1943_astute,ams-t-111-1943,,T-333,russia,Active,Auxiliary,1945-07-01,1955-09-01
+ams-admirable-1943_augury,ams-t-111-1943,,T-334,russia,Active,Auxiliary,1945-07-01,1954-12-01
+ams-admirable-1943_barrier,ams-t-111-1943,,T-335,russia,Active,Auxiliary,1945-07-01,1955-09-01
+ams-admirable-1943_bombard,ams-t-111-1943,,T-336,russia,Active,Auxiliary,1945-07-01,1953-03-01
+ams-admirable-1943_caravan,ams-t-111-1943,,T-337,russia,Active,Scrapped,1945-08-01,1956-07-01
+ams-admirable-1943_captivate,ams-t-111-1943,,T-338,russia,Active,Scrapped,1945-08-01,1956-07-01
+ams-admirable-1943_capable,ams-t-111-1943,,T-339,russia,Active,Scrapped,1945-08-01,1956-07-01
+ams-admirable-1943_signet,pc-separacion-1965,,Tortuguero,dominican_republic,Active,Scrapped,1965-01-01,1997-01-01
+ams-admirable-1943_skirmish,pc-separacion-1965,,Separacion,dominican_republic,Active,Scrapped,1965-01-01,2005-01-01
+ams-adroit-1942_engage,pc-constitucion-1946,,Cibas,dominican_republic,Active,Scrapped,1946-12-01,1961-01-01
+ams-admirable-1943_creddock,fs-yan-gyi-aung-1967,,Yan Gyi Aung,myanmar,Active,,1967-01-01,
+ams-aggressive-1953_dynamic,ams-guadalete-1971,,Guadalete,spain,Active,Scrapped,1971-07-01,1998-07-01
+ams-aggressive-1953_pivot,ams-guadalete-1971,,Guadalmedina,spain,Active,Scrapped,1971-07-01,2000-04-01
+ams-aggressive-1953_vigor,ams-guadalete-1971,,Guadiana,spain,Active,Scrapped,1972-04-01,1999-01-01
+ams-aggressive-1953_persistent,ams-guadalete-1971,,Guadalquivir,spain,Active,Scrapped,1971-07-01,2000-10-01
+ams-bluebird-1953_falcon,ams-pulau-alor-1971,,Pulau Aru,indonesia,Active,Scrapped,1971-06-24,1976-01-01
+ams-bluebird-1953_frigate-bird,ams-pulau-alor-1971,,Pulau Antang,indonesia,Active,Scrapped,1971-08-11,1976-01-01
+ams-bluebird-1953_hummingbird,ams-pulau-alor-1971,,Pulau Impalasa,indonesia,Active,Scrapped,1971-07-12,1976-01-01
+ams-bluebird-1953_jacana,ams-pulau-alor-1971,,Pulau Aruan,indonesia,Active,Scrapped,1971-07-12,1976-01-01
+ams-bluebird-1953_limpkin,ams-pulau-alor-1971,,Pulau Anjer,indonesia,Active,Scrapped,1971-06-24,1976-01-01
+ams-bluebird-1953_meadowlark,ams-pulau-alor-1971,,Pulau Alor,indonesia,Active,Scrapped,1971-08-11,1976-01-01
+ams-adjutant-1953_ams-60,ams-ponta-delgada-1953,,Ponta Delgada,portugal,Active,Scrapped,1953-06-30,1973-01-01
+ams-adjutant-1953_ams-61,ams-ponta-delgada-1953,,Horta,portugal,Active,Scrapped,1953-06-30,1976-01-01
+ams-adjutant-1953_ams-62,ams-ponta-delgada-1953,,Angra do Hero?smo,portugal,Active,Scrapped,1953-08-12,1973-01-01
+ams-adjutant-1953_ams-91,ams-ponta-delgada-1953,,Vila do Porto,portugal,Active,Scrapped,1953-09-01,1976-01-01
+ams-adjutant-1953_ams-92,ams-ponta-delgada-1953,,Santa Cruz,portugal,Active,Scrapped,1954-02-01,1975-01-01
+ams-adjutant-1953_ams-145,ams-ponta-delgada-1953,,Velas,portugal,Active,Scrapped,1954-04-01,1976-01-01
+ams-adjutant-1953_ams-146,ams-ponta-delgada-1953,,Lajes,portugal,Active,Scrapped,1954-08-01,1975-01-01
+ams-adjutant-1953_ams-147,ams-ponta-delgada-1953,,S. Pedro,portugal,Active,Scrapped,1954-11-17,1975-01-01
+ams-adjutant-1953_ams-77,ams-diest-1953,,Diest,belgium,Active,Sold,1953-05-01,1969-01-01
+ams-adjutant-1953_ams-101,ams-diest-1953,,Eeklo,belgium,Active,Sold,1953-06-01,1969-01-01
+ams-adjutant-1953_ams-63,ams-diest-1953,,Lier,belgium,Active,Sold,1953-08-01,1969-01-01
+ams-adjutant-1953_ams-78,ams-diest-1953,,Maaseik,belgium,Active,Sold,1953-08-01,1969-01-01
+ams-adjutant-1953_ams-103,ams-diest-1953,,Roeselare,belgium,Active,Sold,1953-08-01,1966-03-01
+ams-adjutant-1953_ams-104,ams-diest-1953,,Arlon,belgium,Active,Sold,1953-11-01,1966-05-23
+ams-adjutant-1953_ams-151,ams-diest-1953,,Bastogne,belgium,Active,Sold,1953-12-01,1966-09-16
+ams-adjutant-1953_ams-152,ams-diest-1953,,Charleroi,belgium,Active,Sold,1954-02-01,1969-01-01
+ams-adjutant-1953_ams-64,ams-diest-1953,,Saint-Niklaas,belgium,Active,Sold,1954-02-01,1969-01-01
+ams-adjutant-1953_ams-169,ams-diest-1953,,Saint-Truiden,belgium,Active,Sold,1954-02-01,1969-07-29
+ams-adjutant-1953_ams-65,ams-diest-1953,,Diksmuide,belgium,Active,Sold,1954-03-01,1969-01-01
+ams-adjutant-1953_ams-153,ams-diest-1953,,Herve,belgium,Active,Sold,1954-04-01,1969-07-29
+ams-adjutant-1953_ams-154,ams-diest-1953,,Malmedy,belgium,Active,Sold,1953-06-01,1969-09-26
+ams-adjutant-1953_ams-170,ams-diest-1953,,Blankenberge,belgium,Active,Sold,1954-06-01,1969-09-26
+ams-adjutant-1953_ams-171,ams-diest-1953,,La Roche,belgium,Active,Sold,1954-08-01,1969-09-26
+ams-adjutant-1953_ams-131,ams-diest-1953,,De Panne,belgium,Active,Sold,1954-09-01,1969-01-01
+ams-diest-1953_mechelen,ams-diest-1953,,Mechelen,belgium,Active,Auxiliary,1954-12-01,1963-01-01
+ams-diest-1953_spa,ams-diest-1953,,Spa,belgium,Active,Auxiliary,1955-03-01,1973-01-01
+ams-diest-1953_stavelot,ams-diest-1953,,Stavelot,belgium,Active,Scrapped,1956-02-01,1987-01-01
+ams-diest-1953_heist,ams-diest-1953,,Heist,belgium,Active,Auxiliary,1956-04-01,1978-01-01
+ams-diest-1953_rochefort,ams-diest-1953,,Rochefort,belgium,Active,Scrapped,1955-11-01,1992-01-01
+ams-diest-1953_knokke,ams-diest-1953,,Knokke,belgium,Active,Scrapped,1955-11-01,1976-01-01
+ams-diest-1953_nieuwpoort,ams-diest-1953,,Nieuwpoort,belgium,Active,Scrapped,1955-11-01,1991-01-01
+ams-diest-1953_koksijde,ams-diest-1953,,Koksijde,belgium,Active,Scrapped,1955-11-01,1991-01-01
+ams-adjutant-1953_ams-259,ams-diest-1953,,Verviers,belgium,Active,Scrapped,1956-06-01,1988-01-01
+ams-adjutant-1953_ams-260,ams-diest-1953,,Veurne,belgium,Active,Scrapped,1956-08-01,1987-01-01
+ams-adjutant-1953_ams-124,ams-pavot-1953,,Pavot,france,Active,Sold,1955-10-01,1970-03-01
+ams-adjutant-1953_ams-141,ams-pavot-1953,,Pervenche,france,Active,Scrapped,1954-10-01,1980-01-01
+ams-adjutant-1953_ams-125,ams-pavot-1953,,Pivoine,france,Active,Auxiliary,1955-01-01,1965-01-01
+ams-adjutant-1953_ams-142,ams-pavot-1953,,Renoncule,france,Active,Sold,1955-01-01,1970-03-01
+ams-adjutant-1953_ams-126,ams-pavot-1953,,Reseda,france,Active,Scrapped,1955-01-01,1982-01-01
+ams-adjutant-1953_ams-69,ams-pavot-1953,,Acacia,france,Active,Scrapped,1953-06-01,1982-01-01
+ams-adjutant-1953_ams-70,ams-pavot-1953,,Acanthe,france,Active,Scrapped,1953-10-01,1981-01-01
+ams-adjutant-1953_ams-66,ams-pavot-1953,,Aconit,france,Active,Sold,1953-03-01,1977-01-01
+ams-adjutant-1953_ams-71,ams-pavot-1953,,Ajonc,france,Active,Auxiliary,1954-02-01,1974-01-01
+ams-adjutant-1953_ams-67,ams-pavot-1953,,Azalee,france,Active,Scrapped,1953-10-01,1983-01-01
+ams-adjutant-1953_ams-83,ams-pavot-1953,,Begonia,france,Active,Sold,1954-02-01,1974-01-01
+ams-adjutant-1953_ams-116,ams-pavot-1953,,Bleuet,france,Active,Scrapped,1954-01-01,1976-07-01
+ams-adjutant-1953_ams-68,ams-pavot-1953,,Camelia,france,Active,Scrapped,1954-02-01,1980-12-01
+ams-adjutant-1953_ams-113,ams-pavot-1953,,Chrysantheme,france,Active,Scrapped,1954-06-01,1977-01-01
+ams-adjutant-1953_ams-84,ams-pavot-1953,,Coquelicot,france,Active,Sold,1954-02-01,1973-06-01
+ams-adjutant-1953_ams-119,ams-pavot-1953,,Cyclamen,france,Active,Scrapped,1954-05-01,1983-01-01
+ams-adjutant-1953_ams-117,ams-pavot-1953,,Eglantine,france,Active,Auxiliary,1954-08-01,1965-01-01
+ams-adjutant-1953_ams-114,ams-pavot-1953,,Gardenia,france,Active,Auxiliary,1954-08-01,1974-01-01
+ams-adjutant-1953_ams-85,ams-pavot-1953,,Giroflee,france,Active,Scrapped,1954-06-01,1977-01-01
+ams-adjutant-1953_ams-120,ams-pavot-1953,,Glaieul,france,Active,Sold,1954-06-01,1974-01-01
+ams-adjutant-1953_ams-118,ams-pavot-1953,,Glycine,france,Active,Scrapped,1954-10-01,1983-01-01
+ams-adjutant-1953_ams-115,ams-pavot-1953,,Jacinthe,france,Active,Converted,1954-10-01,1968-01-01
+ams-adjutant-1953_ams-86,ams-pavot-1953,,Laurier,france,Active,Scrapped,1954-06-01,1980-01-01
+ams-adjutant-1953_ams-93,ams-pavot-1953,,Lilas,france,Active,Scrapped,1954-07-01,1981-01-01
+ams-adjutant-1953_ams-98,ams-pavot-1953,,Liseron,france,Active,Auxiliary,1955-01-01,1974-01-01
+ams-adjutant-1953_ams-96,ams-pavot-1953,,Lobelia,france,Active,Auxiliary,1955-01-01,1965-01-01
+ams-adjutant-1953_ams-87,ams-pavot-1953,,Magnolia,france,Active,Auxiliary,1954-10-01,1976-07-01
+ams-adjutant-1953_ams-94,ams-pavot-1953,,Marguerite,france,Active,Sold,1954-09-01,1969-11-10
+ams-adjutant-1953_ams-99,ams-pavot-1953,,Mimosa,france,Active,Scrapped,1955-05-01,1982-01-01
+ams-adjutant-1953_ams-97,ams-pavot-1953,,Miguet,france,Active,Scrapped,1955-01-01,1981-01-01
+ams-adjutant-1953_ams-123,ams-pavot-1953,,Myosotis,france,Active,Sold,1954-12-01,1955-06-01
+ams-adjutant-1953_ams-95,ams-pavot-1953,,Narcisse,france,Active,Sold,1954-10-01,1956-01-01
+ams-adjutant-1953_ams-140,ams-pavot-1953,,Paquerettte,france,Active,Sold,1954-08-01,1955-06-01
+ams-adjutant-1953_ams-72,ams-abete-1953,,Abete,italy,Active,Scrapped,1953-01-13,1977-01-01
+ams-adjutant-1953_ams-79,ams-abete-1953,,Acacia,italy,Active,Scrapped,1953-08-04,1974-01-01
+ams-adjutant-1953_ams-73,ams-abete-1953,,Betulla,italy,Active,Scrapped,1953-07-06,1974-01-01
+ams-adjutant-1953_ams-74,ams-abete-1953,,Castagno,italy,Active,Sold,1955-07-06,1995-10-01
+ams-adjutant-1953_ams-88,ams-abete-1953,,Cedro,italy,Active,Scrapped,1954-10-26,1993-01-01
+ams-adjutant-1953_ams-80,ams-abete-1953,,Cillegio,italy,Active,Scrapped,1953-08-04,1974-01-01
+ams-adjutant-1953_ams-81,ams-abete-1953,,Faggio,italy,Active,Scrapped,1953-09-15,1980-01-01
+ams-adjutant-1953_ams-89,ams-abete-1953,,Frassino,italy,Active,Scrapped,1953-10-23,1992-11-01
+ams-adjutant-1953_ams-75,ams-abete-1953,,Gelso,italy,Active,Sold,1953-12-29,1995-10-01
+ams-adjutant-1953_ams-82,ams-abete-1953,,Larice,italy,Active,Scrapped,1953-12-29,1988-06-01
+ams-adjutant-1953_ams-90,ams-abete-1953,,Noce,italy,Active,Scrapped,1954-05-06,1983-01-01
+ams-adjutant-1953_ams-133,ams-abete-1953,,Olmo,italy,Active,Scrapped,1954-03-30,1983-01-01
+ams-adjutant-1953_ams-76,ams-abete-1953,,Ontano,italy,Active,Scrapped,1954-10-26,1980-01-01
+ams-adjutant-1953_ams-134,ams-abete-1953,,Pino,italy,Active,Scrapped,1954-05-13,1980-01-01
+ams-adjutant-1953_ams-135,ams-abete-1953,,Pioppo,italy,Active,Auxiliary,1954-06-30,1973-01-01
+ams-adjutant-1953_ams-136,ams-abete-1953,,Platano,italy,Active,Scrapped,1954-09-09,1995-09-01
+ams-adjutant-1953_ams-137,ams-abete-1953,,Quercia,italy,Active,Scrapped,1954-11-04,1981-01-01
+ams-adjutant-1953_ams-280,ams-abete-1953,,Mandorlo,italy,Active,Scrapped,1960-12-16,1993-11-01
+ams-adjutant-1953_ams-214,ams-abete-1953,,Bambu,italy,Active,Converted,1956-09-08,1988-01-01
+ams-adjutant-1953_ams-215,ams-abete-1953,,Ebano,italy,Active,Scrapped,1956-11-08,1982-01-01
+ams-adjutant-1953_ams-216,ams-abete-1953,,Mango,italy,Active,Converted,1956-12-05,1988-01-01
+ams-adjutant-1953_ams-217,ams-abete-1953,,Mogano,italy,Active,Converted,1957-01-09,1988-01-01
+ams-adjutant-1953_ams-238,ams-abete-1953,,Palma,italy,Active,Converted,1957-03-01,1988-01-01
+ams-adjutant-1953_ams-239,ams-abete-1953,,Rovere,italy,Active,Scrapped,1957-03-01,1974-01-01
+ams-adjutant-1953_ams-240,ams-abete-1953,,Sandalo,italy,Active,Scrapped,1957-04-17,1988-10-01
+ams-abete-1953_agave,ams-abete-1953,,Agave,italy,Active,Scrapped,1955-12-01,1990-09-01
+ams-abete-1953_alloro,ams-abete-1953,,Alloro,italy,Active,Training,1955-12-01,1986-01-01
+ams-abete-1953_edera,ams-abete-1953,,Edera,italy,Active,Scrapped,1955-12-01,1987-01-01
+ams-abete-1953_gaggia,ams-abete-1953,,Gaggia,italy,Active,Scrapped,1956-06-01,1980-01-01
+ams-abete-1953_gelsomino,ams-abete-1953,,Gelsomino,italy,Active,Scrapped,1955-09-01,1982-01-01
+ams-abete-1953_giaggiolo,ams-abete-1953,,Giaggiolo,italy,Active,Scrapped,1956-08-01,1990-11-01
+ams-abete-1953_glicine,ams-abete-1953,,Glicine,italy,Active,Scrapped,1956-12-01,1980-01-01
+ams-abete-1953_loto,ams-abete-1953,,Loto,italy,Active,Scrapped,1957-06-01,1992-10-01
+ams-abete-1953_mirto,ams-abete-1953,,Mirto,italy,Active,Auxiliary,1955-05-01,1973-01-01
+ams-abete-1953_timo,ams-abete-1953,,Timo,italy,Active,Scrapped,1956-06-01,1991-01-01
+ams-abete-1953_trifoglio,ams-abete-1953,,Trifoglio,italy,Active,Scrapped,1955-12-01,1981-01-01
+ams-abete-1953_vischio,ams-abete-1953,,Vischio,italy,Active,Scrapped,1956-12-01,1991-01-01
+ams-adjutant-1953_ams-105,ams-beemster-1953,,Beemster,netherlands,Active,Scrapped,1953-07-01,1974-08-01
+ams-adjutant-1953_ams-109,ams-beemster-1953,,Bolsward,netherlands,Active,Scrapped,1953-11-01,1972-09-01
+ams-adjutant-1953_ams-106,ams-beemster-1953,,Bedum,netherlands,Active,Scrapped,1953-08-01,1976-07-01
+ams-adjutant-1953_ams-110,ams-beemster-1953,,Beilen,netherlands,Active,Scrapped,1954-04-01,1975-08-01
+ams-adjutant-1953_ams-107,ams-beemster-1953,,Borculo,netherlands,Active,Scrapped,1953-10-01,1974-08-01
+ams-adjutant-1953_ams-108,ams-beemster-1953,,Borne,netherlands,Active,Scrapped,1953-12-01,1975-08-01
+ams-adjutant-1953_ams-111,ams-beemster-1953,,Brummen,netherlands,Active,Scrapped,1954-02-01,1974-08-01
+ams-adjutant-1953_ams-100,ams-beemster-1953,,Breukelen,netherlands,Active,Scrapped,1954-02-01,1972-09-01
+ams-adjutant-1953_ams-112,ams-beemster-1953,,Blaricum,netherlands,Active,Scrapped,1954-05-01,1976-07-01
+ams-adjutant-1953_ams-167,ams-beemster-1953,,Brielle,netherlands,Active,Scrapped,1953-12-01,1975-08-01
+ams-adjutant-1953_ams-148,ams-beemster-1953,,Breskens,netherlands,Active,Scrapped,1954-04-01,1976-07-01
+ams-adjutant-1953_ams-168,ams-beemster-1953,,Bruinisse,netherlands,Active,Scrapped,1954-01-01,1972-09-01
+ams-adjutant-1953_ams-149,ams-beemster-1953,,Boxtel,netherlands,Active,Scrapped,1954-07-01,1976-07-01
+ams-adjutant-1953_ams-150,ams-beemster-1953,,Brouwershaven,netherlands,Active,Scrapped,1954-11-01,1973-07-01
+ams-adjutant-1953_ams-127,ams-aarosund-1955,,Aarosund,denmark,Active,Scrapped,1955-01-24,1982-03-01
+ams-adjutant-1953_ams-128,ams-aarosund-1955,,Alssund,denmark,Active,Scrapped,1955-04-05,1989-11-01
+ams-adjutant-1953_ams-129,ams-aarosund-1955,,Egernsund,denmark,Active,Scrapped,1955-08-03,1989-12-01
+ams-adjutant-1953_ams-256,ams-aarosund-1955,,Gronsund,denmark,Active,Scrapped,1956-09-21,1999-01-01
+ams-adjutant-1953_ams-257,ams-aarosund-1955,,Guldborgsund,denmark,Active,Scrapped,1956-11-19,1993-05-01
+ams-adjutant-1953_ams-221,ams-aarosund-1955,,Omosund,denmark,Active,Scrapped,1956-06-21,1982-03-01
+ams-adjutant-1953_ams-263,ams-aarosund-1955,,Ulvsund,denmark,Active,Scrapped,1956-09-20,1989-12-01
+ams-adjutant-1953_ams-264,ams-aarosund-1955,,Vilsund,denmark,Active,Scrapped,1956-11-15,1995-12-01
+ams-adjutant-1953_ams-139,ams-nalon-1954,,Nalon,spain,Active,Converted,1955-04-01,1980-01-01
+ams-adjutant-1953_ams-143,ams-nalon-1954,,Llobregat,spain,Active,Sunk,1954-11-01,1979-04-24
+ams-adjutant-1953_ams-220,ams-nalon-1954,,Jucar,spain,Active,Scrapped,1956-06-01,2001-12-01
+ams-adjutant-1953_ams-265,ams-nalon-1954,,Ulla,spain,Active,Converted,1956-07-01,1980-01-01
+ams-adjutant-1953_ams-266,ams-nalon-1954,,Mino,spain,Active,Scrapped,1956-10-01,1999-01-01
+ams-adjutant-1953_ams-269,ams-nalon-1954,,Ebro,spain,Active,Scrapped,1958-12-01,2005-02-01
+ams-adjutant-1953_ams-130,ams-nalon-1954,,Turia,spain,Active,Converted,1955-06-01,1980-01-01
+ams-bluebird-1953_spoonbill,ams-nalon-1954,,Duero,spain,Active,Scrapped,1959-06-01,1999-01-01
+ams-bluebird-1953_redwing,ams-nalon-1954,,Sil,spain,Active,Scrapped,1959-06-01,2003-03-01
+ams-adjutant-1953_ams-287,ams-nalon-1954,,Tajo,spain,Active,Scrapped,1959-07-01,2001-12-01
+ams-adjutant-1953_ams-279,ams-nalon-1954,,Genil,spain,Active,Scrapped,1959-09-01,2004-01-01
+ams-adjutant-1953_ams-288,ams-nalon-1954,,Odiel,spain,Active,Scrapped,1959-10-01,2005-02-01
+ams-adjutant-1953_ams-102,ams-sauda-1953,,Sauda,norway,Active,Scrapped,1953-08-25,1981-01-01
+ams-adjutant-1953_ams-132,ams-sauda-1953,,Sira,norway,Active,Scrapped,1955-11-28,1989-01-01
+ams-adjutant-1953_ams-103,ams-sauda-1953,,Tana,norway,Active,Scrapped,1966-03-01,1997-01-01
+ams-adjutant-1953_ams-104,ams-sauda-1953,,Alta,norway,Active,Scrapped,1966-05-23,1996-01-01
+ams-sauda-1953_ogna,ams-sauda-1953,,Ogna,norway,Active,Scrapped,1955-03-05,1979-01-01
+ams-sauda-1953_vosso,ams-sauda-1953,,Vosso,norway,Active,Scrapped,1955-03-15,1987-01-01
+ams-adjutant-1953_ams-151,ams-sauda-1953,,Glomma,norway,Active,Scrapped,1966-09-16,1992-01-01
+ams-sauda-1953_tista,ams-sauda-1953,,Tista,norway,Active,Scrapped,1955-04-27,1994-01-01
+ams-sauda-1953_kvina,ams-sauda-1953,,Kvina,norway,Active,Scrapped,1955-07-12,1997-01-01
+ams-sauda-1953_utla,ams-sauda-1953,,Utla,norway,Active,Scrapped,1955-11-15,1990-01-01
+ams-adjutant-1953_ams-267,ams-mahmood-1956,,Mahmood,pakistan,Active,Scrapped,1957-04-01,1995-01-01
+ams-adjutant-1953_ams-293,ams-mahmood-1956,,Momin,pakistan,Active,Scrapped,1962-07-01,1983-01-01
+ams-adjutant-1953_ams-262,ams-mahmood-1956,,Mubarak,pakistan,Active,Scrapped,1957-01-01,1983-01-01
+ams-adjutant-1953_ams-138,ams-mahmood-1956,,Muhafiz,pakistan,Active,Sunk,1955-02-01,1971-12-04
+ams-adjutant-1953_ams-261,ams-mahmood-1956,,Mujahid,pakistan,Active,Scrapped,1956-10-01,1990-01-01
+ams-adjutant-1953_ams-274,ams-mahmood-1956,,Mukhtar,pakistan,Active,Scrapped,1959-07-01,1995-01-01
+ams-adjutant-1953_ams-273,ams-mahmood-1956,,Munsif,pakistan,Active,Scrapped,1959-04-01,1979-01-01
+ams-adjutant-1953_ams-294,ams-mahmood-1956,,Moshal,pakistan,Active,Scrapped,1963-06-01,1983-01-01
+ams-adjutant-1953_ams-144,ams-yashima-1954,,Yashima,japan,Active,Auxiliary,1954-12-01,1970-03-01
+ams-adjutant-1953_ams-95,ams-yashima-1954,,Hashima,japan,Active,Auxiliary,1956-01-01,1970-03-01
+ams-adjutant-1953_ams-255,ams-yashima-1954,,Tsushima,japan,Active,Auxiliary,1956-07-01,1973-03-01
+ams-adjutant-1953_ams-258,ams-yashima-1954,,Toshima,japan,Active,Auxiliary,1957-01-01,1973-07-01
+ams-adjutant-1953_ams-218,ams-zambales-1956,,Zambales,philippines,Active,Scrapped,1956-03-07,1979-01-01
+ams-adjutant-1953_ams-219,ams-zambales-1956,,Zamboanga del Norte,philippines,Active,Scrapped,1956-04-23,1979-01-01
+ams-adjutant-1953_ams-268,ams-samsun-1958,,Samsun,turkey,Active,Scrapped,1958-10-01,2005-01-01
+ams-adjutant-1953_ams-270,ams-samsun-1958,,Sinop,turkey,Active,Scrapped,1959-02-01,2005-01-01
+ams-adjutant-1953_ams-271,ams-samsun-1958,,Surmene,turkey,Active,Scrapped,1959-03-01,2005-01-01
+ams-adjutant-1953_ams-272,ams-samsun-1958,,Seddulbahir,turkey,Active,Scrapped,1959-05-01,2005-01-01
+ams-adjutant-1953_ams-304,ams-samsun-1958,,Silifke,turkey,Active,Scrapped,1966-03-01,2014-01-01
+ams-adjutant-1953_ams-305,ams-samsun-1958,,Saros,turkey,Active,Scrapped,1966-02-01,2017-01-01
+ams-adjutant-1953_ams-311,ams-samsun-1958,,Sigacik,turkey,Active,Scrapped,1965-06-01,2017-01-01
+ams-adjutant-1953_ams-312,ams-samsun-1958,,Sapanca,turkey,Active,Scrapped,1965-07-26,2017-01-01
+ams-adjutant-1953_ams-315,ams-samsun-1958,,Sariyer,turkey,Active,Scrapped,1967-09-08,2017-01-01
+ams-adjutant-1953_ams-131,ams-seymen-1970,,Seymen,turkey,Active,Scrapped,1970-11-01,1998-01-01
+ams-adjutant-1953_ams-124,ams-seymen-1970,,Selcuk,turkey,Active,Auxiliary,1970-03-01,1998-04-01
+ams-adjutant-1953_ams-142,ams-seymen-1970,,Seyhan,turkey,Active,Scrapped,1970-03-01,1998-01-01
+ams-adjutant-1953_ams-276,ams-shahrokh-1959,,Shahrokh,iran,Active,Training,1959-10-01,1998-01-01
+ams-adjutant-1953_ams-275,ams-shahrokh-1959,,Shahbaz,iran,Active,Sunk,1959-09-01,1975-01-01
+ams-adjutant-1953_ams-291,ams-shahrokh-1959,,Simorgh,iran,Active,Sunk,1961-09-01,1981-01-01
+ams-adjutant-1953_ams-292,ams-shahrokh-1959,,Karkas,iran,Active,Sunk,1962-05-01,1982-01-01
+ams-adjutant-1953_ams-140,ams-yung-ping-1953,,Yung Ping,taiwan,Active,Scrapped,1955-06-01,1982-01-01
+ams-adjutant-1953_ams-123,ams-yung-ping-1953,,Yung An,taiwan,Active,Scrapped,1955-06-01,1993-01-01
+ams-adjutant-1953_ams-277,ams-yung-nien-1959,,Yung Nien,taiwan,Active,Scrapped,1959-05-01,1991-01-01
+ams-adjutant-1953_ams-278,ams-yung-nien-1959,,Yung Chou,taiwan,Active,Scrapped,1959-06-01,2012-01-01
+ams-adjutant-1953_ams-302,ams-yung-nien-1959,,Yung Hsin,taiwan,Active,Scrapped,1965-12-01,1995-01-01
+ams-adjutant-1953_ams-300,ams-yung-nien-1959,,Yung Ju,taiwan,Active,Scrapped,1965-03-01,1992-01-01
+ams-adjutant-1953_ams-306,ams-yung-nien-1959,,Yung Lo,taiwan,Active,Scrapped,1966-04-01,1993-01-01
+ams-adjutant-1953_ams-77,ams-yung-nien-1959,,Yung Fu,taiwan,Active,Scrapped,1969-01-01,2012-01-01
+ams-adjutant-1953_ams-101,ams-yung-nien-1959,,Yung Ching,taiwan,Active,Scrapped,1969-01-01,1995-05-01
+ams-adjutant-1953_ams-63,ams-yung-nien-1959,,Yung Shan,taiwan,Active,Scrapped,1969-01-01,1994-01-01
+ams-adjutant-1953_ams-78,ams-yung-nien-1959,,Yung Cheng,taiwan,Active,Scrapped,1969-01-01,1995-05-01
+ams-adjutant-1953_ams-152,ams-yung-nien-1959,,Yung Ching,taiwan,Active,Scrapped,1969-01-01,1991-01-01
+ams-adjutant-1953_ams-64,ams-yung-nien-1959,,Yung Jen,taiwan,Active,Scrapped,1969-01-01,2012-01-01
+ams-adjutant-1953_ams-65,ams-yung-nien-1959,,Yung Sui,taiwan,Active,Scrapped,1969-01-01,2012-01-01
+ams-adjutant-1953_ams-281,ams-ham-tu-ii-1959,,Ham Tu II,south_vietnam,Active,Scrapped,1959-07-01,1974-01-01
+ams-adjutant-1953_ams-282,ams-ham-tu-ii-1959,,Chuong Duong II,south_vietnam,Active,Scrapped,1959-12-01,1974-01-01
+ams-adjutant-1953_ams-283,ams-ham-tu-ii-1959,,Bach Dang II,south_vietnam,Active,Sunk,1960-02-01,1970-10-09
+ams-adjutant-1953_ams-284,ams-geum-san-1959,,Geums San,south_korea,Active,Scrapped,1959-06-12,2008-01-01
+ams-adjutant-1953_ams-285,ams-geum-san-1959,,Go Heung,south_korea,Active,Scrapped,1959-08-14,2008-01-01
+ams-adjutant-1953_ams-286,ams-geum-san-1959,,Geum Dok,south_korea,Active,Scrapped,1959-08-30,2008-01-01
+ams-adjutant-1953_ams-295,ams-nam-yang-1963,,Nam Yang,south_korea,Active,Scrapped,1963-08-13,2008-01-01
+ams-adjutant-1953_ams-296,ams-nam-yang-1963,,Ha Dong,south_korea,Active,Scrapped,1963-10-14,2008-01-01
+ams-adjutant-1953_ams-316,ams-nam-yang-1963,,Sam Cheok,south_korea,Active,Scrapped,1968-06-20,2008-01-01
+ams-adjutant-1953_ams-320,ams-nam-yang-1963,,Yeong Dong,south_korea,Active,Scrapped,1975-09-01,2008-01-01
+ams-adjutant-1953_ams-321,ams-nam-yang-1963,,Okcheon,south_korea,Active,Scrapped,1975-09-01,2008-01-01
+ams-adjutant-1953_ams-297,ams-bangkeo-1963,,Ladya,thailand,Active,Scrapped,1963-12-01,1995-01-01
+ams-adjutant-1953_ams-303,ams-bangkeo-1963,,Bangkeo,thailand,Active,Scrapped,1965-07-01,2017-01-01
+ams-adjutant-1953_ams-301,ams-bangkeo-1963,,Ta Din Daeng,thailand,Active,Scrapped,1965-08-01,1992-01-01
+ams-adjutant-1953_ams-313,ams-bangkeo-1963,,Don Chedi,thailand,Active,Scrapped,1965-09-01,2017-01-01
+ams-adjutant-1953_ams-74,ams-atalanti-1969,,Erato,greece,Active,Scrapped,1995-10-10,2006-10-01
+ams-adjutant-1953_ams-75,ams-atalanti-1969,,Evniki,greece,Active,Scrapped,1995-10-10,2005-02-01
+ams-adjutant-1953_ams-169,ams-atalanti-1969,,Atalanti,greece,Active,Scrapped,1969-07-29,2000-06-01
+ams-adjutant-1953_ams-153,ams-atalanti-1969,,Antiopi,greece,Active,Scrapped,1969-07-29,1995-01-01
+ams-adjutant-1953_ams-154,ams-atalanti-1969,,Faidra,greece,Active,Scrapped,1969-09-26,2000-06-01
+ams-adjutant-1953_ams-170,ams-atalanti-1969,,Thaleia,greece,Active,Scrapped,1969-09-26,2004-12-01
+ams-adjutant-1953_ams-319,ams-alkyon-1970,,Alkyon,greece,Active,Scrapped,1970-12-07,2014-01-01
+ams-adjutant-1953_ams-317,ams-alkyon-1970,,Kleio,greece,Active,Scrapped,1968-11-21,2008-01-01
+ams-adjutant-1953_ams-318,ams-alkyon-1970,,Avra,greece,Active,Scrapped,1968-11-21,2014-01-01
+ams-adjutant-1953_ams-314,ams-alkyon-1970,,Pleias,greece,Active,Scrapped,1970-12-07,2010-01-01
+ams-adjutant-1953_ams-308,ams-alkyon-1970,,Kichli,greece,Active,Scrapped,1964-10-27,2010-01-01
+ams-adjutant-1953_ams-298,ams-alkyon-1970,,Kissa,greece,Active,Scrapped,1964-10-03,2010-01-01
+ams-adjutant-1953_ams-299,ams-alkyon-1970,,Aigli,greece,Active,Scrapped,1965-01-21,1996-01-01
+ams-adjutant-1953_ams-307,ams-alkyon-1970,,Dafni,greece,Active,Scrapped,1964-07-02,2004-12-01
+ams-adjutant-1953_ams-310,ams-alkyon-1970,,Aidon,greece,Active,Scrapped,1964-11-13,2014-01-01
+ams-adjutant-1953_ams-171,ams-atalanti-1969,,Niovi,greece,Active,Scrapped,1969-09-26,2000-10-01
+ams-adjutant-1953_ams-322,ams-addiriyah-1978,,Addiriyah,saudi_arabia,Active,,1978-07-06,
+ams-adjutant-1953_ams-323,ams-addiriyah-1978,,Al Quysumah,saudi_arabia,Active,,1978-08-15,
+ams-adjutant-1953_ams-324,ams-addiriyah-1978,,Al Wadeeah,saudi_arabia,Active,,1978-09-07,
+ams-adjutant-1953_ams-325,ams-addiriyah-1978,,Safwa,saudi_arabia,Active,,1978-10-20,
+ams-adjutant-1953_ams-94,ams-rio-negro-1969,,Rio Negro,uruguay,Active,Unknown,1969-11-10,1970-01-01
+ams-adjutant-1953_ams-66,pc-hannibal-1973,,Sousse,tunisia,Active,Scrapped,1977-01-01,1988-01-01
+ams-adjutant-1953_ams-84,pc-hannibal-1973,,Hannibal,tunisia,Active,Scrapped,1973-06-01,1988-01-01
+ams-adjutant-1953_ams-115,aml-jacinthe-1968,,Jacinthe,france,Active,Scrapped,1968-01-01,1982-01-01
+ams-adjutant-1953_ams-214,pc-bambu-1988,,Bambu,italy,Active,Scrapped,1988-01-01,2000-01-01
+ams-adjutant-1953_ams-216,pc-bambu-1988,,Mango,italy,Active,Scrapped,1988-01-01,1996-01-01
+ams-adjutant-1953_ams-217,pc-bambu-1988,,Mogano,italy,Active,Scrapped,1988-01-01,1998-01-01
+ams-adjutant-1953_ams-238,pc-bambu-1988,,Palma,italy,Active,Scrapped,1988-01-01,2003-01-01
+ams-adjutant-1953_ams-139,pc-nalon-1980,,Nalon,spain,Active,Scrapped,1980-01-01,1993-01-01
+ams-adjutant-1953_ams-265,pc-nalon-1980,,Ulla,spain,Active,Scrapped,1980-01-01,1993-01-01
+ams-adjutant-1953_ams-130,pc-nalon-1980,,Turia,spain,Active,Scrapped,1980-01-01,1993-01-01
+ams-bluebird-1953_thrasher,ams-jupiter-1975,,Mercury,singapore,Active,Auxiliary,1975-12-05,1992-01-01
+ams-bluebird-1953_whippoorwill,ams-jupiter-1975,,Jupiter,singapore,Active,Scrapped,1975-12-05,1990-01-01
+ams-bluebird-1953_vireo,pc-kikau-1975,,Kula,fiji,Active,Scrapped,1975-10-01,1990-07-01
+ams-bluebird-1953_warbler,pc-kikau-1975,,Kiro,fiji,Active,Training,1976-06-01,1986-01-01
+ams-bluebird-1953_woodpecker,pc-kikau-1975,,Kikau,fiji,Active,Scrapped,1975-10-01,1990-07-01
+ams-osprey-1993_heron,ams-evniki-2008,,Kalypso,greece,Active,,2008-01-16,
+ams-osprey-1993_pelican,ams-evniki-2008,,Evniki,greece,Active,,2008-01-16,
+ams-osprey-1993_cardinal,ams-al-siddiq-2007,,Al Siddiq,egypt,Active,,2007-01-07,
+ams-osprey-1993_raven,ams-al-siddiq-2007,,Al Farouk,egypt,Active,,2007-01-07,
