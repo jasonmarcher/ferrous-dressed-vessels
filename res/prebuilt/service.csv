@@ -236,8 +236,8 @@ bbar-benbow_hms-benbow,bbar-benbow,,HMS Benbow,britain,Reserve,,1904-04-01,1909-
 bbar-collingwood_hms-collingwood,bbar-collingwood,,HMS Collingwood,britain,Active,,1887-07-01,1903-06-01
 bbar-collingwood_hms-collingwood,bbar-collingwood,,HMS Collingwood,britain,Reserve,,1903-06-01,1909-05-01
 bbar-kronprinz-erzherzog-rudolf_sms-kronprinz-erzherzog-rudolf,bbar-kronprinz-erzherzog-rudolf,,SMS Kronprinz Erzherzog Rudolf,ahn,Active,,1889-09-01,1921-03-01
-bbar-kronprinzessin-erzherzogin-stephanie_sms-kronprinzessin-erzherzogin-stephanie,bbar-kronprinzessin-erzherzogin-stephanie,,SMS Kronprinzessin Erzherzogin Stephanie,ahn,Active,,1889-07-01,1905-01-01
-bbar-kronprinzessin-erzherzogin-stephanie_sms-kronprinzessin-erzherzogin-stephanie,bbar-kronprinzessin-erzherzogin-stephanie,,SMS Kronprinzessin Erzherzogin Stephanie,ahn,Reserve,,1905-01-01,1910-01-01
+bbar-kronprinzessin-erzherzogin-stefanie_sms-kronprinzessin-erzherzogin-stephanie,bbar-kronprinzessin-erzherzogin-stefanie,,SMS Kronprinzessin Erzherzogin Stephanie,ahn,Active,Reserve,1889-07-01,1905-01-01
+bbar-kronprinzessin-erzherzogin-stefanie_sms-kronprinzessin-erzherzogin-stephanie,bbar-kronprinzessin-erzherzogin-stefanie,,SMS Kronprinzessin Erzherzogin Stephanie,ahn,Reserve,,1905-01-01,1910-01-01
 bbar-rodney_hms-anson,bbar-rodney,,HMS Anson,britain,Active,,1889-05-01,1904-05-01
 bbar-rodney_hms-anson,bbar-rodney,,HMS Anson,britain,Reserve,,1904-05-01,1909-07-01
 bbar-rodney_hms-camperdown,bbar-rodney,,HMS Camperdown,britain,Active,,1889-08-01,1899-09-01
@@ -21388,11 +21388,11 @@ sol-tonnant_formidable,sol-tonnant,,Formidable,france,Active,Captured,1795-10-01
 sol-tonnant_guilaume-tell,sol-tonnant,,Le Guilaume Tell,france,Active,Captured,1796-07-01,1800-03-31
 sol-tonnant_franklin,sol-tonnant,,Le Franklin,france,Active,Captured,1798-03-01,1798-08-02
 sol-tonnant_sans-pareil,sol-sans-pareil-1794,,HMS Sans Pareil,britain,Active,Scrapped,1794-06-01,1842-10-01
-sol-tonnant_tonnant,sol-sans-pareil-1795,,HMS Tonnant,britain,Active,Scrapped,1798-08-02,1821-01-01
-sol-tonnant_indivisible,sol-sans-pareil-1796,,HMS Alexandre,britain,Active,Auxiliary,1805-02-06,1808-01-01
-sol-tonnant_formidable,sol-sans-pareil-1797,,HMS Brave,britain,Active,Scrapped,1805-11-03,1816-04-01
-sol-tonnant_guilaume-tell,sol-sans-pareil-1798,,HMS Malta,britain,Active,Auxiliary,1800-03-31,1831-01-01
-sol-tonnant_franklin,sol-sans-pareil-1799,,HMS Canopus,britain,Active,Scrapped,1798-08-02,1887-10-01
+sol-tonnant_tonnant,sol-sans-pareil-1794,,HMS Tonnant,britain,Active,Scrapped,1798-08-02,1821-01-01
+sol-tonnant_indivisible,sol-sans-pareil-1794,,HMS Alexandre,britain,Active,Auxiliary,1805-02-06,1808-01-01
+sol-tonnant_formidable,sol-sans-pareil-1794,,HMS Brave,britain,Active,Scrapped,1805-11-03,1816-04-01
+sol-tonnant_guilaume-tell,sol-sans-pareil-1794,,HMS Malta,britain,Active,Auxiliary,1800-03-31,1831-01-01
+sol-tonnant_franklin,sol-sans-pareil-1794,,HMS Canopus,britain,Active,Scrapped,1798-08-02,1887-10-01
 sol-ganges-1782_hms-ganges,sol-ganges-1782,,HMS Ganges,britain,Active,Auxiliary,1782-04-20,1811-10-01
 sol-ganges-1782_hms-culloden,sol-ganges-1782,,HMS Culloden,britain,Active,Scrapped,1783-07-05,1813-02-01
 sol-ganges-1782_hms-tremendous,sol-ganges-1782,,HMS Tremendous,britain,Active,Converted,1785-01-28,1845-01-01
@@ -21786,9 +21786,9 @@ ssow-racer_hms-icarus,ssow-racer,,HMS Icarus,britain,Active,Scrapped,1859-12-28,
 ssow-racer_hms-pantaloon,ssow-racer,,HMS Pantaloon,britain,Active,Scrapped,1861-09-17,1867-09-01
 ssow-victoria_hms-victoria,ssow-victoria,,HMS Victoria,britain,Active,Auxiliary,1855-11-22,1880-01-01
 ssow-swallow-1854_hms-curlew,ssow-swallow-1854,,HMS Curlew,britain,Active,Scrapped,1854-10-18,1865-08-01
-ssow-swallow-1854_hms-swallow,ssow-swallow-1855,,HMS Swallow,britain,Active,Auxiliary,1854-10-23,1861-01-01
-ssow-swallow-1854_hms-ariel,ssow-swallow-1856,,HMS Ariel,britain,Active,Scrapped,1855-04-12,1865-05-01
-ssow-swallow-1854_hms-lyra,ssow-swallow-1857,,HMS Lyra,britain,Active,Scrapped,1857-12-11,1876-01-01
+ssow-swallow-1854_hms-swallow,ssow-swallow-1854,,HMS Swallow,britain,Active,Auxiliary,1854-10-23,1861-01-01
+ssow-swallow-1854_hms-ariel,ssow-swallow-1854,,HMS Ariel,britain,Active,Scrapped,1855-04-12,1865-05-01
+ssow-swallow-1854_hms-lyra,ssow-swallow-1854,,HMS Lyra,britain,Active,Scrapped,1857-12-11,1876-01-01
 ssow-malacca_hms-malacca,ssow-malacca,,HMS Malacca,britain,Active,Sold,1854-08-17,1869-06-01
 ssow-malacca_hms-malacca,ssow-tsukuba,,Tsukuba,japan,Active,Training,1869-06-01,1900-01-01
 ssow-miranda_hms-miranda,ssow-miranda,,HMS Miranda,britain,Active,Scrapped,1854-03-09,1869-12-01
@@ -22024,15 +22024,15 @@ sow-challenger_hms-challenger,sow-challenger,,HMS Challenger,britain,Active,Sunk
 sow-sapphire_hms-sapphire,sow-sapphire,,HMS Sapphire,britain,Active,Scrapped,1827-07-01,1864-11-05
 sow-tyne_hms-tyne,sow-tyne,,HMS Tyne,britain,Active,Scrapped,1827-03-01,1862-02-17
 sow-conway-1814_hms-mersey,sow-conway-1814,,HMS Mersey,britain,Active,Scrapped,1814-04-26,1852-01-01
-sow-conway-1814_hms-eden,sow-conway-1815,,HMS Eden,britain,Active,Scrapped,1814-06-20,1833-01-01
-sow-conway-1814_hms-conway,sow-conway-1816,,HMS Conway,britain,Active,Sold,1814-11-07,1825-01-01
-sow-conway-1814_hms-tamar,sow-conway-1817,,HMS Tamar,britain,Active,Scrapped,1814-11-05,1837-01-01
-sow-conway-1814_hms-dee,sow-conway-1818,,HMS Dee,britain,Active,Sold,1814-10-29,1819-01-01
-sow-conway-1814_hms-towey,sow-conway-1819,,HMS Towey,britain,Active,Scrapped,1814-12-06,1822-01-01
-sow-conway-1814_hms-menai,sow-conway-1820,,HMS Menai,britain,Active,Scrapped,1814-12-08,1853-01-01
-sow-conway-1814_hms-tyne,sow-conway-1821,,HMS Tyne,britain,Active,Sold,1814-11-09,1825-01-01
-sow-conway-1814_hms-wye,sow-conway-1822,,HMS Wye,britain,Active,Scrapped,1815-07-10,1852-01-01
-sow-conway-1814_hms-tees,sow-conway-1823,,HMS Tees,britain,Active,Scrapped,1818-05-30,1872-01-01
+sow-conway-1814_hms-eden,sow-conway-1814,,HMS Eden,britain,Active,Scrapped,1814-06-20,1833-01-01
+sow-conway-1814_hms-conway,sow-conway-1814,,HMS Conway,britain,Active,Sold,1814-11-07,1825-01-01
+sow-conway-1814_hms-tamar,sow-conway-1814,,HMS Tamar,britain,Active,Scrapped,1814-11-05,1837-01-01
+sow-conway-1814_hms-dee,sow-conway-1814,,HMS Dee,britain,Active,Sold,1814-10-29,1819-01-01
+sow-conway-1814_hms-towey,sow-conway-1814,,HMS Towey,britain,Active,Scrapped,1814-12-06,1822-01-01
+sow-conway-1814_hms-menai,sow-conway-1814,,HMS Menai,britain,Active,Scrapped,1814-12-08,1853-01-01
+sow-conway-1814_hms-tyne,sow-conway-1814,,HMS Tyne,britain,Active,Sold,1814-11-09,1825-01-01
+sow-conway-1814_hms-wye,sow-conway-1814,,HMS Wye,britain,Active,Scrapped,1815-07-10,1852-01-01
+sow-conway-1814_hms-tees,sow-conway-1814,,HMS Tees,britain,Active,Scrapped,1818-05-30,1872-01-01
 sow-cyrus_hms-medina,sow-cyrus,,HMS Medina,britain,Active,Scrapped,1813-12-20,1832-01-01
 sow-cyrus_hms-cyrus,sow-cyrus,,HMS Cyrus,britain,Active,Scrapped,1814-03-11,1823-01-01
 sow-cyrus_hms-levant,sow-cyrus,,HMS Levant,britain,Active,Scrapped,1814-04-22,1820-01-01
@@ -22221,8 +22221,8 @@ sf-phoebe-1795_hms-phoebe,sf-phoebe-1795,,HMS Phoebe,britain,Active,Auxiliary,17
 sf-phoebe-1795_hms-dryad,sf-phoebe-1795,,HMS Dryad,britain,Active,Auxiliary,1795-08-15,1832-09-13
 sf-phoebe-1795_hms-caroline,sf-phoebe-1795,,HMS Caroline,britain,Active,Scrapped,1795-09-25,1815-09-01
 sf-phoebe-1795_hms-doris,sf-phoebe-1795,,HMS Doris,britain,Active,Sunk,1795-11-26,1805-01-12
-sf-fortunee_fortunee,sf-fortunee,,Fortunee,france,Active,Captured,1778-03-01,1779-12-22
-sf-fortunee_fortunee,sf-fortunee-1779,,HMS Fortunee,britain,Active,Auxiliary,1781-04-08,1785-01-01
+sf-fortunee-1777_fortunee,sf-fortunee-1777,,Fortunee,france,Active,Captured,1778-03-01,1779-12-22
+sf-fortunee-1777_fortunee,sf-fortunee-1779,,HMS Fortunee,britain,Active,Auxiliary,1781-04-08,1785-01-01
 sf-cerberus_hms-cerberus,sf-cerberus,,HMS Cerberus,britain,Active,Sold,1795-02-20,1814-09-29
 sf-cerberus_hms-alcmene,sf-cerberus,,HMS Alcmene,britain,Active,Sunk,1795-04-14,1809-04-29
 sf-cerberus_hms-galatea,sf-cerberus,,HMS Galatea,britain,Active,Scrapped,1794-08-12,1809-05-01
@@ -24190,23 +24190,23 @@ sow-archer-1801_attack,sow-manly-1805,,HDMS Attack,denmark,Active,Unknown,1812-0
 sow-duc-de-chartres-1782_duc-de-chartres,sow-duc-de-chartres-1782,,Le Duc de Chartres,france,Active,Scrapped,1782-09-01,1798-03-01
 sow-curieux-1801_curieux,sow-curieux-1801,,Le Curieux,france,Active,Captured,1801-02-20,1804-02-04
 sow-curieux-1801_curieux,sow-curieux-1804,,HMS Curieux,britain,Active,Sunk,1804-05-01,1809-11-03
-sow-courser-1801_gb-no-22,sow-courser-1801,,HMS Gunboat No. 22,britain,Active,Sold,1797-07-21,1802-09-01
-sow-courser-1801_gb-no-23,sow-courser-1801,,HMS Gunboat No. 23,britain,Active,Sold,1797-07-21,1802-10-01
-sow-courser-1801_gb-no-31,sow-courser-1801,,HMS Gunboat No. 31,britain,Active,Sold,1797-07-01,1802-05-01
-sow-courser-1801_gb-no-29,sow-courser-1801,,HMS Gunboat No. 29,britain,Active,Sold,1797-07-15,1802-10-01
-sow-courser-1801_gb-no-28,sow-courser-1801,,HMS Gunboat No. 28,britain,Active,Sunk,1797-07-01,1803-12-31
-sow-courser-1801_gb-no-24,sow-courser-1801,,HMS Gunboat No. 24,britain,Active,Sold,1797-07-17,1802-04-01
-sow-courser-1801_gb-no-25,sow-courser-1801,,HMS Gunboat No. 25,britain,Active,Sold,1797-07-01,1802-10-01
-sow-courser-1801_gb-no-27,sow-courser-1801,,HMS Gunboat No. 27,britain,Active,Sold,1797-07-01,1802-10-01
-sow-courser-1801_gb-no-26,sow-courser-1801,,HMS Gunboat No. 26,britain,Active,Captured,1797-07-01,1797-12-21
-sow-courser-1801_gb-no-30,sow-courser-1801,,HMS Gunboat No. 30,britain,Active,Sold,1797-07-01,1802-05-01
-sow-courser-1801_gb-no-19,sow-courser-1801,,HMS Gunboat No. 19,britain,Active,Sold,1797-07-14,1806-01-01
-sow-courser-1801_gb-no-20,sow-courser-1801,,HMS Gunboat No. 20,britain,Active,Sold,1797-07-18,1803-08-01
-sow-courser-1801_gb-no-32,sow-courser-1801,,HMS Gunboat No. 32,britain,Active,Sunk,1797-06-11,1809-08-01
-sow-courser-1801_gb-no-21,sow-courser-1801,,HMS Gunboat No. 21,britain,Active,Sold,1797-07-18,1802-01-01
-sow-courser-1801_gb-no-33,sow-courser-1801,,HMS Gunboat No. 33,britain,Active,Sold,1797-07-25,1802-12-01
-sow-courser-1801_gb-no-45,sow-courser-1801,,HMS Gunboat No. 45,britain,Active,Sold,1798-01-30,1802-01-01
-sow-courser-1801_gb-no-26,sow-growler-1797,,Le Growler,france,Active,Captured,1797-12-21,1809-08-01
+sow-courser-1797_gb-no-22,sow-courser-1797,,HMS Gunboat No. 22,britain,Active,Sold,1797-07-21,1802-09-01
+sow-courser-1797_gb-no-23,sow-courser-1797,,HMS Gunboat No. 23,britain,Active,Sold,1797-07-21,1802-10-01
+sow-courser-1797_gb-no-31,sow-courser-1797,,HMS Gunboat No. 31,britain,Active,Sold,1797-07-01,1802-05-01
+sow-courser-1797_gb-no-29,sow-courser-1797,,HMS Gunboat No. 29,britain,Active,Sold,1797-07-15,1802-10-01
+sow-courser-1797_gb-no-28,sow-courser-1797,,HMS Gunboat No. 28,britain,Active,Sunk,1797-07-01,1803-12-31
+sow-courser-1797_gb-no-24,sow-courser-1797,,HMS Gunboat No. 24,britain,Active,Sold,1797-07-17,1802-04-01
+sow-courser-1797_gb-no-25,sow-courser-1797,,HMS Gunboat No. 25,britain,Active,Sold,1797-07-01,1802-10-01
+sow-courser-1797_gb-no-27,sow-courser-1797,,HMS Gunboat No. 27,britain,Active,Sold,1797-07-01,1802-10-01
+sow-courser-1797_gb-no-26,sow-courser-1797,,HMS Gunboat No. 26,britain,Active,Captured,1797-07-01,1797-12-21
+sow-courser-1797_gb-no-30,sow-courser-1797,,HMS Gunboat No. 30,britain,Active,Sold,1797-07-01,1802-05-01
+sow-courser-1797_gb-no-19,sow-courser-1797,,HMS Gunboat No. 19,britain,Active,Sold,1797-07-14,1806-01-01
+sow-courser-1797_gb-no-20,sow-courser-1797,,HMS Gunboat No. 20,britain,Active,Sold,1797-07-18,1803-08-01
+sow-courser-1797_gb-no-32,sow-courser-1797,,HMS Gunboat No. 32,britain,Active,Sunk,1797-06-11,1809-08-01
+sow-courser-1797_gb-no-21,sow-courser-1797,,HMS Gunboat No. 21,britain,Active,Sold,1797-07-18,1802-01-01
+sow-courser-1797_gb-no-33,sow-courser-1797,,HMS Gunboat No. 33,britain,Active,Sold,1797-07-25,1802-12-01
+sow-courser-1797_gb-no-45,sow-courser-1797,,HMS Gunboat No. 45,britain,Active,Sold,1798-01-30,1802-01-01
+sow-courser-1797_gb-no-26,sow-growler-1797,,Le Growler,france,Active,Captured,1797-12-21,1809-08-01
 sow-requin-1794_requin,sow-requin-1794,,Le Requin,france,Active,Captured,1794-04-01,1795-02-20
 sow-requin-1794_requin,sow-requin-1795,,HMS Requin,britain,Active,Sunk,1795-09-26,1801-01-01
 sow-maria-1807_maria,sow-maria-1807,,HMS Maria,britain,Active,Captured,1808-04-01,1808-09-29
@@ -24306,7 +24306,7 @@ sf-mignonne-1767_mignonne,sf-mignonne-1794,,HMS Mignonne,britain,Active,Sunk,179
 sf-oiseau-1769_oiseau,sf-oiseau-1769,,L'Oiseau,france,Active,Captured,1770-11-01,1779-01-31
 sf-oiseau-1769_oiseau,sf-oiseau-1779,,HMS Oiseau,britain,Active,Sold,1780-03-25,1783-06-19
 sf-flore-1768_flore,sf-flore-1768,,La Flore,france,Active,Scrapped,1769-02-01,1787-01-01
-sow-thetis-1729_thetis,sow-thetis-1729,,La Thetis,france,Active,Scrapped,1722-11-01,1730-01-01
+sow-thetis-1722_thetis,sow-thetis-1722,,La Thetis,france,Active,Scrapped,1722-11-01,1730-01-01
 sow-venus-1723_venus,sow-venus-1723,,La Venus,france,Active,Sunk,1724-01-01,1745-05-01
 sf-flore-1728_flore,sf-flore-1728,,La Flore,france,Active,Sold,1729-01-01,1761-11-01
 sow-gazelle-1733_gazelle,sow-gazelle-1733,,La Gazelle,france,Active,Scrapped,1734-01-01,1748-01-01
@@ -24466,8 +24466,8 @@ sow-pelican-1757_pelican,sow-pelican-1757,,HMS Pelican,britain,Active,Converted,
 sow-pelican-1757_pelican,bv-pelican-1757,,HMS Pelican,britain,Active,Sold,1758-10-01,1763-05-03
 sow-racehorse-1757_racehorse,sow-racehorse-1757,,HMS Racehorse,britain,Active,Converted,1757-06-01,1758-05-01
 sow-racehorse-1757_racehorse,sow-racehorse-1757,,HMS Racehorse,britain,Active,Converted,1760-01-01,1775-10-24
-sow-racehorse-1757_racehorse,bv-racehorse-1757,,HMS Racehorse,britain,Active,Converted,1758-06-01,1760-01-01
-sow-racehorse-1757_racehorse,bv-racehorse-1757,,HMS Thunder,britain,Active,Captured,1775-10-24,1778-08-14
+sow-racehorse-1757_racehorse,bv-racehorse-1758,,HMS Racehorse,britain,Active,Converted,1758-06-01,1760-01-01
+sow-racehorse-1757_racehorse,bv-racehorse-1758,,HMS Thunder,britain,Active,Captured,1775-10-24,1778-08-14
 sow-roman-emperor-1757_roman-emperor,sow-roman-emperor-1757,,HMS Roman Emperor,britain,Active,Converted,1757-07-04,1758-04-01
 sow-ferret-1760_ferret,sow-ferret-1760,,HMS Ferret,britain,Active,Sunk,1761-01-19,1776-08-01
 sow-beaver-1760_senegal,sow-beaver-1760,,HMS Senegal,britain,Active,Captured,1761-04-30,1778-08-14
@@ -25420,9 +25420,9 @@ sf-bodryi-1808_sveaborg,sf-bodryi-1808,,Sveaborg,russia,Active,Scrapped,1808-08-
 sf-bodryi-1808_petergof,sf-bodryi-1808,,Petergof,russia,Active,Scrapped,1808-08-01,1822-01-01
 sf-bodryi-1808_torneo,sf-bodryi-1808,,Torneo,russia,Active,Scrapped,1808-11-01,1824-01-01
 sf-bodryi-1808_mirnyi,sf-bodryi-1808,,Mirnyi,russia,Active,Scrapped,1823-08-01,1834-01-01
-sow-kater-1790_kater-no-1,sow-kater-1790,,Kater No. 1,russia,Active,Scrapped,1779-02-01,1786-01-01
-sow-kater-1790_kater-no-2,sow-kater-1790,,Kater No. 2,russia,Active,Scrapped,1779-02-01,1786-01-01
-sow-kater-1790_kater-no-3,sow-kater-1790,,Kater No. 3,russia,Active,Scrapped,1780-02-01,1787-01-01
+sow-kater-1779_kater-no-1,sow-kater-1779,,Kater No. 1,russia,Active,Scrapped,1779-02-01,1786-01-01
+sow-kater-1779_kater-no-2,sow-kater-1779,,Kater No. 2,russia,Active,Scrapped,1779-02-01,1786-01-01
+sow-kater-1779_kater-no-3,sow-kater-1779,,Kater No. 3,russia,Active,Scrapped,1780-02-01,1787-01-01
 sow-kavkaz-1784_kavkaz,sow-kavkaz-1784,,Kavkaz,russia,Active,Scrapped,1784-02-01,1791-01-01
 sow-kavkaz-1784_astrakhan,sow-kavkaz-1784,,Astrakhan,russia,Active,Scrapped,1784-06-01,1798-01-01
 sow-kavkaz-1784_kizliar,sow-kavkaz-1784,,Kizliar,russia,Active,Unknown,1785-07-01,1790-01-01
@@ -25849,7 +25849,7 @@ sol-san-carlos-1765_san-carlos,sol-san-carlos-1765,,San Carlos,spain,Active,Unkn
 sol-san-pedro-de-alcantara-1788_san-pedro-de-alcantara,sol-san-pedro-de-alcantara-1788,,San Pedro de Alcantara,spain,Active,Sunk,1788-08-01,1815-04-24
 sol-castilla-1780_san-felix-de-cantalicio,sol-castilla-1780,,San Felix de Cantalicio,spain,Active,Auxiliary,1780-05-01,1808-01-01
 sol-san-ramon-1775_san-ramon,sol-san-ramon-1775,,San Ramon,spain,Active,Sunk,1775-05-01,1810-03-12
-sol-san-pedro-de-alcantara-1771_san-pedro-de-alcantara,san-pedro-de-alcantara,,San Pedro de Alcantara,spain,Active,Sunk,1772-01-01,1786-02-02
+sol-san-pedro-de-alcantara-1771_san-pedro-de-alcantara,sol-san-pedro-de-alcantara-1771,,San Pedro de Alcantara,spain,Active,Sunk,1772-01-01,1786-02-02
 sol-san-luis-1767_san-luis,sol-san-luis-1767,,San Luis,spain,Active,Scrapped,1767-11-01,1789-01-01
 sol-tridente-1800_tridente,sol-tridente-1800,,Tridente,spain,Active,Unknown,1800-03-01,1800-04-01
 sol-gustaf-den-store-1832_gustaf-den-store,sol-gustaf-den-store-1832,,Gustaf den Store,sweden,Active,Scrapped,1832-06-01,1870-01-01
@@ -26294,9 +26294,9 @@ fs-flower_hms-stonecrop,fs-flower,,HMS Stonecrop,britain,Active,Sold,1941-07-01,
 fs-flower_hms-vetch,fs-flower,,HMS Vetch,britain,Active,Sold,1941-08-01,1945-08-01
 fs-flower_hms-violet,fs-flower,,HMS Violet,britain,Active,Sold,1941-02-01,1947-05-01
 fs-flower_hms-woodruff,fs-flower,,HMS Woodruff,britain,Active,Sold,1941-04-01,1947-01-01
-fs-la-malouine_la-dieppoise,fs-flower,,HMS Fleur de Lys,britain,Active,Sunk,1940-08-01,1941-10-14
-fs-la-malouine_la-malouine,fs-flower,,HMS La Malouine,britain,Active,Scrapped,1940-07-01,1947-05-01
-fs-la-malouine_la-paimpolaise,fs-flower,,HMS Nasturtium,britain,Active,Sold,1940-09-01,1946-01-01
+fs-la-malouine-1940_la-dieppoise,fs-flower,,HMS Fleur de Lys,britain,Active,Sunk,1940-08-01,1941-10-14
+fs-la-malouine-1940_la-malouine,fs-flower,,HMS La Malouine,britain,Active,Scrapped,1940-07-01,1947-05-01
+fs-la-malouine-1940_la-paimpolaise,fs-flower,,HMS Nasturtium,britain,Active,Sold,1940-09-01,1946-01-01
 fs-flower_hms-abelia,fs-flower,,HMS Abelia,britain,Active,Sold,1941-02-01,1947-01-01
 fs-flower_hms-alisma,fs-flower,,HMS Alisma,britain,Active,Sold,1941-02-01,1947-01-01
 fs-flower_hms-anchusa,fs-flower,,HMS Anchusa,britain,Active,Sold,1941-03-01,1946-01-01
@@ -26433,18 +26433,18 @@ fs-flower_hms-clover,fs-fu-po-1946,,Kaifeng,china,Active,Auxiliary,1949-01-01,19
 fs-flower_hms-candytuft,fs-fu-po-1946,,?,china,Active,Scrapped,1949-01-01,1953-01-01
 fs-flower_hms-heliotrope,fs-fu-po-1946,,Linyi,china,Active,Scrapped,1949-01-01,1979-01-01
 fs-flower_hms-geranium,fs-thetis-1945,,HDMS Thetis,denmark,Active,Scrapped,1945-09-01,1963-05-01
-fs-flower_hms-lobelia,fs-la-malouine,,Lobelia,france,Active,Sold,1941-07-01,1947-04-01
-fs-flower_hms-mimosa,fs-la-malouine,,Mimosa,france,Active,Sunk,1941-05-01,1942-06-09
-fs-flower_hms-aconite,fs-la-malouine,,Aconit,france,Active,Sold,1941-07-01,1947-04-01
-fs-flower_hms-alyssum,fs-la-malouine,,Alysse,france,Active,Sunk,1941-07-01,1942-02-10
-fs-flower_hms-iris,fs-la-malouine,,Commandant Detroyat,france,Active,Sold,1941-07-01,1947-06-01
-fs-flower_hms-lotus,fs-la-malouine,,Commandant d'Estienne d'Orves,france,Active,Sold,1942-05-01,1947-05-01
-fs-flower_hms-ranunculus,fs-la-malouine,,Renoncule,france,Active,Sold,1941-07-01,1947-01-01
-fs-flower_hms-sundew,fs-la-malouine,,Roselys,france,Active,Sold,1941-09-01,1947-01-01
-fs-flower_hms-chrysanthemum,fs-la-malouine,,Commandant Drogou,france,Active,Sold,1942-01-01,1947-05-01
-fs-la-malouine_arquebuse,fs-pa1-1940,,PA1,germany,Active,Sunk,1944-04-01,1944-06-14
-fs-la-malouine_hallebarde,fs-pa1-1940,,PA2,germany,Active,Sunk,1943-11-01,1944-06-15
-fs-la-malouine_sabre,fs-pa1-1940,,PA3,germany,Active,Sunk,1943-11-01,1944-06-19
+fs-flower_hms-lobelia,fs-la-malouine-1940,,Lobelia,france,Active,Sold,1941-07-01,1947-04-01
+fs-flower_hms-mimosa,fs-la-malouine-1940,,Mimosa,france,Active,Sunk,1941-05-01,1942-06-09
+fs-flower_hms-aconite,fs-la-malouine-1940,,Aconit,france,Active,Sold,1941-07-01,1947-04-01
+fs-flower_hms-alyssum,fs-la-malouine-1940,,Alysse,france,Active,Sunk,1941-07-01,1942-02-10
+fs-flower_hms-iris,fs-la-malouine-1940,,Commandant Detroyat,france,Active,Sold,1941-07-01,1947-06-01
+fs-flower_hms-lotus,fs-la-malouine-1940,,Commandant d'Estienne d'Orves,france,Active,Sold,1942-05-01,1947-05-01
+fs-flower_hms-ranunculus,fs-la-malouine-1940,,Renoncule,france,Active,Sold,1941-07-01,1947-01-01
+fs-flower_hms-sundew,fs-la-malouine-1940,,Roselys,france,Active,Sold,1941-09-01,1947-01-01
+fs-flower_hms-chrysanthemum,fs-la-malouine-1940,,Commandant Drogou,france,Active,Sold,1942-01-01,1947-05-01
+fs-la-malouine-1940_arquebuse,fs-pa1-1940,,PA1,germany,Active,Sunk,1944-04-01,1944-06-14
+fs-la-malouine-1940_hallebarde,fs-pa1-1940,,PA2,germany,Active,Sunk,1943-11-01,1944-06-15
+fs-la-malouine-1940_sabre,fs-pa1-1940,,PA3,germany,Active,Sunk,1943-11-01,1944-06-19
 fs-flower_hms-coreopsis,fs-sakhtouris-1942,,Kriezis,greece,Active,Scrapped,1943-11-01,1951-09-01
 fs-flower_hms-hyacinth,fs-sakhtouris-1942,,Apostolis,greece,Active,Scrapped,1943-10-01,1959-01-01
 fs-flower_hms-peony,fs-sakhtouris-1942,,Sakhtouris,greece,Active,Scrapped,1942-06-01,1951-09-01
@@ -26718,7 +26718,7 @@ tb-tb114-1904_tb114,tb-tb114-1904,,TB114,britain,Active,Scrapped,1904-01-01,1919
 tb-tb114-1904_tb115,tb-tb114-1904,,TB115,britain,Active,Scrapped,1904-05-01,1919-01-01
 tb-tb114-1904_tb116,tb-tb114-1904,,TB116,britain,Active,Scrapped,1904-11-01,1921-10-01
 tb-tb114-1904_tb117,tb-tb114-1904,,TB117,britain,Active,Sunk,1905-01-01,1917-06-10
-tb-criket-1906_cricket,tb-tb1-1906,,TB1,britain,Active,Scrapped,1906-12-01,1920-10-01
+tb-criket-1906_cricket,tb-criket-1906,,TB1,britain,Active,Scrapped,1906-12-01,1920-10-01
 tb-criket-1906_dragonfly,tb-criket-1906,,TB2,britain,Active,Scrapped,1907-01-01,1920-10-01
 tb-criket-1906_firefly,tb-criket-1906,,TB3,britain,Active,Scrapped,1907-02-01,1920-10-01
 tb-criket-1906_sandfly,tb-criket-1906,,TB4,britain,Active,Scrapped,1907-04-01,1920-10-01
@@ -32305,8 +32305,8 @@ pc-ml-112-1940_ml-430,pc-ml-112-1940,,HMA ML430,britain,Active,Sunk,1943-04-01,1
 pc-ml-112-1940_ml-431,pc-ml-112-1940,,HMA ML431,britain,Active,Sold,1943-04-01,1947-01-01
 pc-ml-112-1940_ml-432,pc-ml-112-1940,,ML432,britain,Active,Unknown,1942-01-01,1946-01-01
 pc-ml-112-1940_ml-433,pc-ml-112-1940,,ML433,britain,Active,Unknown,1942-01-01,1946-01-01
-pc-ml-112-1940_ml-436,pc-ml-112-1941,,RIN ML436,britain,Active,Sold,1943-04-01,1947-01-01
-pc-ml-112-1940_ml-437,pc-ml-112-1942,,RIN ML437,britain,Active,Sold,1943-04-01,1946-01-01
+pc-ml-112-1940_ml-436,pc-ml-112-1940,,RIN ML436,britain,Active,Sold,1943-04-01,1947-01-01
+pc-ml-112-1940_ml-437,pc-ml-112-1940,,RIN ML437,britain,Active,Sold,1943-04-01,1946-01-01
 pc-ml-112-1940_ml-438,pc-ml-112-1940,,ML438,britain,Active,Sold,1942-03-01,1947-01-01
 pc-ml-112-1940_ml-439,pc-ml-112-1940,,ML439,britain,Active,Sold,1942-03-01,1947-01-01
 pc-ml-112-1940_ml-440,pc-ml-112-1940,,ML440,britain,Active,Sold,1942-03-01,1947-01-01
@@ -34634,9 +34634,9 @@ ams-akbar-1942_grecian,ams-candarli-1947,,TCG Edincik,turkey,Active,Scrapped,194
 ams-akbar-1942_catherine,ams-candarli-1947,,TCG Erdemli,turkey,Active,Scrapped,1947-03-01,1963-01-01
 ams-akbar-1942_pique,ams-candarli-1947,,TCG Eregli,turkey,Active,Scrapped,1947-03-01,1973-01-01
 ams-akbar-1942_chance,ams-candarli-1947,,TCG Erdemit,turkey,Active,Scrapped,1947-03-01,1973-01-01
-ams-auk-1942_ptarmigan,pc-sinseong-1963,,Sinseong,south_korea,Active,Scrapped,1963-07-01,1984-01-01
-ams-auk-1942_speed,pc-sinseong-1963,,Suncheon,south_korea,Active,Scrapped,1967-11-01,1984-01-01
-ams-akbar-1942_sepoy,pc-sinseong-1963,,Geoje,south_korea,Active,Scrapped,1967-12-01,1984-01-01
+ams-auk-1942_ptarmigan,fs-sinseong-1963,,Sinseong,south_korea,Active,Scrapped,1963-07-01,1984-01-01
+ams-auk-1942_speed,fs-sinseong-1963,,Suncheon,south_korea,Active,Scrapped,1967-11-01,1984-01-01
+ams-akbar-1942_sepoy,fs-sinseong-1963,,Geoje,south_korea,Active,Scrapped,1967-12-01,1984-01-01
 ams-auk-1942_toucan,fs-chien-men-1964,,Jian Men,taiwan,Active,Sunk,1964-12-01,1965-08-06
 ams-auk-1942_redstart,fs-chien-men-1964,,Wu Sheng,taiwan,Active,Scrapped,1963-07-01,1992-01-01
 ams-auk-1942_waxwing,fs-chien-men-1964,,Ju Yong,taiwan,Active,Scrapped,1965-10-01,1992-01-01
@@ -38088,7 +38088,7 @@ mml-km1-1941_km31,mtb-ks1-1943,,KS31,germany,Active,Sold,1943-12-01,1944-09-01
 mml-km1-1941_km32,mtb-ks1-1943,,KS32,germany,Active,Sold,1943-12-01,1944-09-01
 mtb-kobra-1944_k1,mtb-kobra-1944,,K1,germany,Active,Unknown,1944-12-01,1945-05-01
 mtb-kobra-1944_k2,mtb-kobra-1944,,K2,germany,Active,Unknown,1944-12-01,1945-05-01
-mtb-schlitten-ii-1944_schlitten-ii,mtb-schlitten-ii-1944,,Schlitten II,germany,Active,Unknown,1944-12-01,1945-05-01
+mtb-schlitten-1944_schlitten-ii,mtb-schlitten-1944,,Schlitten II,germany,Active,Unknown,1944-12-01,1945-05-01
 mtb-wal-1944_wal-i,mtb-wal-1944,,WAL I,germany,Active,Unknown,1944-12-01,1945-05-01
 mtb-wal-1944_wal-ii,mtb-wal-1944,,WAL II,germany,Active,Unknown,1944-12-01,1945-05-01
 mtb-wal-1944_wal-iii,mtb-wal-1944,,WAL III,germany,Active,Unknown,1944-12-01,1945-05-01
