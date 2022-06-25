@@ -3432,7 +3432,7 @@ dd-para_parana,dd-para,,Parana,brazil,Active,Auxiliary,1910-12-01,1933-10-01
 dd-para_santa-catharina,dd-para,,Santa Catharina,brazil,Active,Scrapped,1910-09-01,1944-07-01
 dd-para_mato-grosso,dd-para,,Mato Grosso,brazil,Active,Scrapped,1909-12-01,1946-09-01
 dd-greenhalgh_mariz-e-barros,dd-greenhalgh,,Mariz e Barros,brazil,Active,Scrapped,1943-11-01,1972-08-01
-dd-greenhalgh_marc?lio-dias,dd-greenhalgh,,Marc?lio Dias,brazil,Active,Scrapped,1943-11-01,1966-01-01
+dd-greenhalgh_marcilio-dias,dd-greenhalgh,,Marcilio Dias,brazil,Active,Scrapped,1943-11-01,1966-01-01
 dd-greenhalgh_greenhalgh,dd-greenhalgh,,Greenhalgh,brazil,Active,Scrapped,1943-11-01,1966-01-01
 dd-acre_amazonas,dd-acre,,Amazonas,brazil,Active,Scrapped,1949-11-10,1973-01-01
 dd-acre_araguari,dd-acre,,Araguari,brazil,Active,Scrapped,1951-06-23,1974-01-01
@@ -6563,10 +6563,12 @@ cg-bunker-hill_uss-princeton,cg-bunker-hill,,USS Princeton,usa,Active,,1989-02-1
 cg-bunker-hill_uss-normandy,cg-bunker-hill,,USS Normandy,usa,Active,,1989-12-09,
 cg-bunker-hill_uss-monterey,cg-bunker-hill,,USS Monterey,usa,Active,,1990-06-16,
 cg-bunker-hill_uss-chancellorsville,cg-bunker-hill,,USS Chancellorsville,usa,Active,,1989-11-04,
-cg-bunker-hill_uss-cowpens,cg-bunker-hill,,USS Cowpens,usa,Active,,1991-03-09,
-cg-bunker-hill_uss-gettysburg,cg-bunker-hill,,USS Gettysburg,usa,Active,,1991-06-22,
+cg-bunker-hill_uss-cowpens,cg-bunker-hill,,USS Cowpens,usa,Active,Modernization,1991-03-09,2015-09-25
+cg-bunker-hill_uss-cowpens,cg-bunker-hill,,USS Cowpens,usa,Modernization,,2015-09-25,
+cg-bunker-hill_uss-gettysburg,cg-bunker-hill,,USS Gettysburg,usa,Active,Modernization,1991-06-22,2015-11-01
+cg-bunker-hill_uss-gettysburg,cg-bunker-hill,,USS Gettysburg,usa,Modernization,,2015-11-01,
 cg-bunker-hill_uss-chosin,cg-bunker-hill,,USS Chosin,usa,Active,,1991-01-12,
-cg-bunker-hill_uss-hu?-city,cg-bunker-hill,,USS Hu? City,usa,Active,,1991-09-14,
+cg-bunker-hill_uss-hue-city,cg-bunker-hill,,USS Hue City,usa,Active,,1991-09-14,
 cg-bunker-hill_uss-shiloh,cg-bunker-hill,,USS Shiloh,usa,Active,,1992-07-18,
 cg-bunker-hill_uss-anzio,cg-bunker-hill,,USS Anzio,usa,Active,,1992-05-02,
 cg-bunker-hill_uss-vicksburg,cg-bunker-hill,,USS Vicksburg,usa,Active,,1992-11-14,
@@ -25980,7 +25982,7 @@ sol-pondichery-1769_pondichery,sol-pondichery-1769,,Le Pondichery,france,Active,
 sol-penthievre-1769_penthievre,sol-penthievre-1769,,Le Penthievre,france,Active,Sold,1769-11-01,1771-08-01
 sol-rigeneratore-1811_rigeneratore,sol-rigeneratore-1811,,Rigeneratore,italy,Active,Auxiliary,1811-09-01,1814-01-01
 sol-mont-saint-bernard-1811_mont-saint-bernard,sol-mont-saint-bernard-1811,,Mont Saint-Bernard,italy,Active,Sunk,1811-10-01,1814-09-14
-sol-asuncion-1763_asuncion,sol-asuncion-1763,,Asuncion,italy,Active,Unknown,1764-01-01,1769-01-01
+sol-asuncion-1763_asuncion,sol-asuncion-1763,,Asuncion,sardinia,Active,Unknown,1764-01-01,1769-01-01
 sol-tromp-1850_tromp,sol-tromp-1850,,HNLMS Tromp,netherlands,Active,Unknown,1850-06-01,1856-01-01
 sol-holland-1817_holland,sol-holland-1817,,HNLMS Holland,netherlands,Active,Unknown,1817-06-01,1832-01-01
 sol-jupiter-1833_jupiter,sol-jupiter-1833,,HNLMS Jupiter,netherlands,Active,Unknown,1833-06-01,1857-01-01
@@ -34746,7 +34748,7 @@ ams-bluebird-1953_limpkin,ams-pulau-alor-1971,,Pulau Anjer,indonesia,Active,Scra
 ams-bluebird-1953_meadowlark,ams-pulau-alor-1971,,Pulau Alor,indonesia,Active,Scrapped,1971-08-11,1976-01-01
 ams-adjutant-1953_ams-60,ams-ponta-delgada-1953,,Ponta Delgada,portugal,Active,Scrapped,1953-06-30,1973-01-01
 ams-adjutant-1953_ams-61,ams-ponta-delgada-1953,,Horta,portugal,Active,Scrapped,1953-06-30,1976-01-01
-ams-adjutant-1953_ams-62,ams-ponta-delgada-1953,,Angra do Hero?smo,portugal,Active,Scrapped,1953-08-12,1973-01-01
+ams-adjutant-1953_ams-62,ams-ponta-delgada-1953,,Angra do Heroismo,portugal,Active,Scrapped,1953-08-12,1973-01-01
 ams-adjutant-1953_ams-91,ams-ponta-delgada-1953,,Vila do Porto,portugal,Active,Scrapped,1953-09-01,1976-01-01
 ams-adjutant-1953_ams-92,ams-ponta-delgada-1953,,Santa Cruz,portugal,Active,Scrapped,1954-02-01,1975-01-01
 ams-adjutant-1953_ams-145,ams-ponta-delgada-1953,,Velas,portugal,Active,Scrapped,1954-04-01,1976-01-01
@@ -35346,7 +35348,7 @@ ams-bathurst-1940_bunbury,ams-bathurst-1940,,HMAS Bunbury,britain,Active,Sold,19
 ams-bathurst-1940_bundaberg,ams-bathurst-1940,,HMAS Bundaberg,britain,Active,Sold,1942-09-01,1961-01-01
 ams-bathurst-1940_burnie,ams-bathurst-1940,,HMAS Burnie,britain,Active,Sold,1941-04-01,1946-07-01
 ams-bathurst-1940_cairns,ams-bathurst-1940,,HMAS Cairns,britain,Active,Sold,1942-05-01,1946-01-01
-ams-bathurst-1940_castle-harbour,ams-bathurst-1940,,HMAS Castlemaine,britain,Active,Museum?,1942-07-01,1956-01-01
+ams-bathurst-1940_castle-harbour,ams-bathurst-1940,,HMAS Castlemaine,britain,Active,Museum,1942-07-01,1956-01-01
 ams-bathurst-1940_cessnock,ams-bathurst-1940,,HMAS Cessnock,britain,Active,Sold,1942-01-01,1947-04-01
 ams-bathurst-1940_colac,ams-bathurst-1940,,HMAS Colac,britain,Active,Auxiliary,1942-01-01,1962-01-01
 ams-bathurst-1940_cootamundra,ams-bathurst-1940,,HMAS Cootamundra,britain,Active,Sold,1943-04-01,1961-09-01
