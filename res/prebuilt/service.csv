@@ -10263,7 +10263,8 @@ dd-n_hms-nonpareil,dd-gadjah-mada,,KRI Gadjah Mada,indonesia,Active,Scrapped,195
 dd-project-30bis_volevoy,dd-siliwangi,,KRI Siliwangi,indonesia,Active,Scrapped,1959-02-17,1971-01-01
 dd-project-30bis_vyrazitelnyy,dd-siliwangi,,KRI Singamanga Rajah,indonesia,Active,Scrapped,1962-11-22,1971-01-01
 dd-project-30bis_bespokoynyy,dd-siliwangi,,KRI Sandjaja,indonesia,Active,Scrapped,1959-06-30,1971-01-01
-dd-project-30bis_vnezapnyy,dd-siliwangi,,"KRI Sarwajala, 11/1959- Sawunggaling",indonesia,Active,Scrapped,1959-02-17,1971-01-01
+dd-project-30bis_vnezapnyy,dd-siliwangi,,KRI Sarwajala,indonesia,Active,Renamed,1959-02-17,1959-11-01
+dd-project-30bis_vnezapnyy,dd-siliwangi,,KRI Sawunggaling,indonesia,Active,Scrapped,1959-11-01,1971-01-01
 dd-project-30bis_bezzavetnyy,dd-siliwangi,,KRI Sultan Iskandar Muda,indonesia,Active,Scrapped,1959-06-30,1973-01-01
 dd-project-30bis_boevoy,dd-siliwangi,,KRI Sultan Darmuda,indonesia,Active,Scrapped,1964-11-25,1973-01-01
 dd-project-30bis_pylkiy,dd-siliwangi,,KRI Diponegoro,indonesia,Active,Scrapped,1964-05-09,1973-01-01
@@ -39053,14 +39054,14 @@ ptc-vas-type-3-petrol-1942_vas309,ptc-ra251-1943,,RA258,germany,Active,Unknown,1
 ptc-vas-type-3-petrol-1942_vas310,ptc-ra251-1943,,RA264,germany,Active,Unknown,1944-01-01,1944-02-01
 ptc-vas-type-3-petrol-1942_vas311,ptc-ra251-1943,,RA259,germany,Active,Unknown,1944-06-01,1944-07-01
 ptc-vas-type-3-petrol-1942_vas312,ptc-ra251-1943,,RA260,germany,Active,Unknown,1944-06-01,1944-07-01
-mtb-mas501-1937_mas516,mtb-tk-975-1949,,ТК-975,russia,Active,Scrapped,1949-07-01,1956-01-01
-mtb-mas501-1937_mas519,mtb-tk-975-1949,,ТК-976,russia,Active,Scrapped,1949-07-01,1956-01-01
-mtb-ms-type-2-1943_ms52,mtb-tk-970-1949,,ТК-970,russia,Active,Scrapped,1949-07-01,1956-01-01
-mtb-ms-type-2-1943_ms53,mtb-tk-970-1949,,ТК-971,russia,Active,Scrapped,1949-07-01,1956-01-01
-mtb-ms-type-2-1943_ms61,mtb-tk-970-1949,,ТК-972,russia,Active,Scrapped,1949-07-01,1956-01-01
-mtb-ms-type-2-1943_ms65,mtb-tk-970-1949,,ТК-973,russia,Active,Scrapped,1949-07-01,1956-01-01
-mtb-ms-type-2-1943_ms75,mtb-tk-970-1949,,ТК-974,russia,Active,Scrapped,1949-07-01,1956-01-01
-ptc-mas438-1934_mas440,ptc-tk-979-1949,,ТК-979,russia,Active,Scrapped,1949-07-01,1956-01-01
+mtb-mas501-1937_mas516,mtb-tk-975-1949,,TK-975,russia,Active,Scrapped,1949-07-01,1956-01-01
+mtb-mas501-1937_mas519,mtb-tk-975-1949,,TK-976,russia,Active,Scrapped,1949-07-01,1956-01-01
+mtb-ms-type-2-1943_ms52,mtb-tk-970-1949,,TK-970,russia,Active,Scrapped,1949-07-01,1956-01-01
+mtb-ms-type-2-1943_ms53,mtb-tk-970-1949,,TK-971,russia,Active,Scrapped,1949-07-01,1956-01-01
+mtb-ms-type-2-1943_ms61,mtb-tk-970-1949,,TK-972,russia,Active,Scrapped,1949-07-01,1956-01-01
+mtb-ms-type-2-1943_ms65,mtb-tk-970-1949,,TK-973,russia,Active,Scrapped,1949-07-01,1956-01-01
+mtb-ms-type-2-1943_ms75,mtb-tk-970-1949,,TK-974,russia,Active,Scrapped,1949-07-01,1956-01-01
+ptc-mas438-1934_mas440,ptc-tk-979-1949,,TK-979,russia,Active,Scrapped,1949-07-01,1956-01-01
 ptc-vas-type-2-1942_vas245,ptc-sk-748-1949,,SK-748,russia,Active,Scrapped,1949-06-01,1956-01-01
 ptc-vas-type-2-1942_vas248,ptc-sk-748-1949,,SK-750,russia,Active,Scrapped,1949-06-01,1956-01-01
 mtb-mas501-1937_mas502,mtb-mas503-1943,,MAS-502,rsi,Active,Sunk,1944-01-22,1944-04-12
