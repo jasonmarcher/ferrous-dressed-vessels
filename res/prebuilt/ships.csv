@@ -1483,10 +1483,6 @@ pc-pallada_pallada,pc-pallada,Pallada,Built,Sunk,1897-06-04,1899-08-26,1901-05-0
 pc-pallada_diana,pc-pallada,Diana,Built,Sold,1897-06-04,1899-10-12,1901-12-23,1922-07-01
 pc-pallada_aurora,pc-pallada,Aurora,Built,Museum,1897-06-04,1900-05-24,1903-07-29,1941-09-30
 ac-gromoboy_gromoboy,ac-gromoboy,Gromoboy,Built,Sold,1898-05-20,1899-05-21,1899-11-08,1922-07-01
-ac-bayan_bayan,ac-bayan,Bayan,Built,Sunk,1898-12-01,1900-06-12,1902-10-01,1904-12-08
-ac-bayan_admiral-makarov,ac-bayan,Admiral Makarov,Built,Sold,1905-04-04,1906-05-09,1908-05-29,1922-08-01
-ac-bayan_pallada,ac-bayan,Pallada,Built,Sunk,1905-05-17,1905-11-10,1911-02-21,1914-10-11
-ac-bayan_bayan,ac-bayan,Bayan,Built,Sold,1905-08-15,1907-08-15,1911-12-13,1922-07-01
 pc-variag_variag,pc-variag,Variag,Built,,1899-05-22,1899-10-31,1901-01-15,1917-12-21
 pc-askold_askold,pc-askold,Askold,Built,,1899-07-20,1900-03-15,1901-09-21,1918-07-12
 pc-bogatyr_bogatyr,pc-bogatyr,Bogatyr,Built,Sold,1899-12-21,1901-01-30,1902-08-20,1922-07-01
@@ -1494,15 +1490,15 @@ pc-oleg_vityaz,pc-oleg,Vityaz,Cancelled,Scrapped,1900-11-03,,,1901-06-13
 pc-oleg_oleg,pc-oleg,Oleg,Built,Sunk,1902-07-20,1903-08-27,1904-10-25,1919-06-18
 pc-kagul_kagul,pc-kagul,Kagul,Built,Sunk,1901-09-05,1902-06-02,1905-01-01,1941-06-01
 pc-kagul_pamiat-merkuriya,pc-kagul,Pamiat Merkuriya,Built,Captured,1901-03-12,1902-10-04,1909-06-23,1918-05-01
-ac-admiral-makarov_bayan,ac-admiral-makarov,Bayan,Built,,1898-12-01,1900-06-12,1902-10-01,1904-12-08
-ac-admiral-makarov_admiral-makarov,ac-admiral-makarov,Admiral Makarov,Built,Sold,1905-04-04,1906-05-09,1908-05-29,1922-08-01
-ac-admiral-makarov_pallada,ac-admiral-makarov,Pallada,Built,Sunk,1905-05-17,1905-11-10,1911-02-21,1914-10-11
-ac-admiral-makarov_bayan,ac-admiral-makarov,Bayan,Built,Sold,1905-08-15,1907-08-15,1911-12-13,1922-07-01
+ac-bayan-1902_bayan,ac-bayan-1902,Bayan,Built,Sunk,1898-12-01,1900-06-12,1902-10-01,1904-12-08
+ac-admiral-makarov-1905_admiral-makarov,ac-admiral-makarov-1905,Admiral Makarov,Built,Sold,1905-04-04,1906-05-09,1908-05-29,1922-08-01
+ac-admiral-makarov-1905_pallada,ac-admiral-makarov-1905,Pallada,Built,Sunk,1905-05-17,1905-11-10,1911-02-21,1914-10-11
+ac-admiral-makarov-1905_bayan-ii,ac-admiral-makarov-1905,Bayan,Built,Sold,1905-08-15,1907-08-15,1911-12-13,1922-07-01
 ac-riurik_riurik,ac-riurik,Riurik,Built,,1905-08-22,1906-11-17,1909-07-01,1923-11-01
 cl-muravyov-amurskiy_muravyov-amurskiy,cl-muravyov-amurskiy,Muravyov-Amurskiy,Built,Captured,1913-09-23,1914-04-11,,1914-08-05
 cl-muravyov-amurskiy_admiral-nevelskoy,cl-muravyov-amurskiy,Admiral Nevelskoy,Built,Captured,1913-09-23,,,1914-08-05
 cl-admiral-nakhimov_chervona-ukraina,cl-admiral-nakhimov,Chervona Ukraina,Built,Sunk,1913-10-31,1915-11-07,1927-03-21,1941-11-12
-cl-admiral-nakhimov_admiral-lazarev---------,cl-admiral-nakhimov,Admiral Lazarev---------,Built,Sunk,1913-10-31,1916-05-28,1932-01-25,1952-11-21
+cl-admiral-nakhimov_admiral-lazarev,cl-admiral-nakhimov,Admiral Lazarev,Built,Sunk,1913-10-31,1916-05-28,1932-01-25,1952-11-21
 cl-admiral-nakhimov_admiral-kornilov,cl-admiral-nakhimov,Admiral Kornilov,Cancelled,Scrapped,1914-07-01,1922-10-28,,1922-11-01
 cl-admiral-nakhimov_admiral-istomin,cl-admiral-nakhimov,Admiral Istomin,Cancelled,Scrapped,1914-07-01,,,1922-11-01
 cl-svetlana_krasnyy-krym,cl-svetlana,Krasnyy Krym,Built,,1913-11-24,1915-12-11,1928-07-01,1957-05-01
