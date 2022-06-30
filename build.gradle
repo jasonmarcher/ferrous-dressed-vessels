@@ -66,6 +66,7 @@ task generatePrototypeData(type: Copy) {
 task generateShipData(type: Copy) {
     into 'build'
     from 'res/prebuilt'
+    include 'foo.csv'
     include 'ships.csv'
     include 'service.csv'
 }
@@ -80,44 +81,8 @@ task generateShipHistory {
         def printer = new CSVPrinter(new FileWriter("$buildDir/history.csv"), CSVFormat.EXCEL)
         printer.printRecord('ClassID','ShipName','State','Date')
 
-        // Construction / Fitting
-        def records = CSVParser.parse(file("$buildDir/ships.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
-        records.forEach { record ->
-            if (!record.get("LaidDown")) {throw new GradleException("Ship '${record.get("ShipName")}' is missing a LaidDown date.")}
-            def laidDown = LocalDate.parse(record.get("LaidDown"))
-            def launched = LocalDate.parse(record.get("Launched") ?: record.get("Commissioned") ?: record.get("Stricken") ?: today)
-            def commissioned = LocalDate.parse(record.get("Commissioned") ?: record.get("Stricken") ?: today)
-            def currentDate = laidDown.minusDays(laidDown.getDayOfMonth() - 1)
-            def compareDate = laidDown
-            def state = ""
-
-            // Construction
-            state = "Construction"
-            compareDate = launched.minusDays(launched.getDayOfMonth() -1 )
-            while (currentDate.isBefore(compareDate)) {
-                printer.print(record.get('ClassID'))
-                printer.print(record.get('ShipName'))
-                printer.print(state)
-                printer.print(currentDate)
-                printer.println()
-                currentDate = currentDate.plusMonths(1)
-            }
-
-            // Fitting
-            state = "Fitting"
-            compareDate = commissioned.minusDays(commissioned.getDayOfMonth() - 1)
-            while (currentDate.isBefore(compareDate)) {
-                printer.print(record.get('ClassID'))
-                printer.print(record.get('ShipName'))
-                printer.print(state)
-                printer.print(currentDate)
-                printer.println()
-                currentDate = currentDate.plusMonths(1)
-            }
-        }
-
         // Service
-        records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
+        def records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
         records.forEach { record ->
             if (record.get("ShipName")) {
                 if (!record.get("Start")) {throw new GradleException("Ship '${record.get("ShipName")}' is missing a Start date for service history.")}
