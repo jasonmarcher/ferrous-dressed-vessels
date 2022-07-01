@@ -8,10 +8,6 @@ buildscript {
     }
 }
 
-// plugins {
-//     id 'org.ships.gradle.ShipsPlugin'
-// }
-
 import groovy.json.JsonSlurper
 import java.io.FileWriter
 import java.nio.charset.Charset
@@ -25,33 +21,10 @@ import org.ships.gradle.tasks.GenerateGunDataset
 
 task generateGunData(type: GenerateGunDataset) {}
 
-// task generateClassData(type: GenerateClassDataset) {
-//     dependsOn generateGunData
-// }
-
 task generateClassData(type: Copy) {
     into 'build'
     from 'res/prebuilt/classes.csv'
 }
-
-// task generateShipData {
-//     doLast {
-//         file(buildDir).mkdirs()
-//         def jsonSlurper = new JsonSlurper()
-//         def printer = new CSVPrinter(new FileWriter("$buildDir/ships.csv"), CSVFormat.EXCEL)
-//         printer.printRecord('ClassID','ShipName','Existance','Fate','LaidDown','Launched',
-//             'Commissioned','Stricken')
-
-//         def shipFiles = project.fileTree("res/ships")
-//         shipFiles.forEach { shipFile ->
-//             def ships = jsonSlurper.parseText(shipFile.text)
-//             ships.each { ship ->
-//                 printer.printRecord(ship.values())
-//             }
-//         }
-//         printer.close(true)
-//     }
-// }
 
 task generatePrototypeData(type: Copy) {
     into 'build'
