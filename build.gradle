@@ -16,7 +16,6 @@ import java.time.format.DateTimeFormatter
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVParser
 import org.apache.commons.csv.CSVPrinter
-import org.ships.gradle.tasks.GenerateClassDataset
 import org.ships.gradle.tasks.GenerateGunDataset
 
 task generateGunData(type: GenerateGunDataset) {}
