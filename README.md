@@ -10,6 +10,8 @@ https://threedecks.org/index.php?display_type=ships_search
 
 https://felipe.mbnet.fi/index.html
 
+http://www.navsource.org/
+
 https://en.wikipedia.org/
 
 http://www.gwpda.org/naval/brassey/b1901o04.htm
@@ -47,3 +49,26 @@ http://www.hazegray.org/navhist/
 https://www.pdavis.nl/MidVicShips.php?page=1
 
 https://freepages.rootsweb.com/~pbtyc/genealogy//18-1900/A/A.html
+
+https://www.tandfonline.com/doi/full/10.1080/00253359.2016.1167396
+
+https://uboat.net/
+
+https://ww2db.com/
+
+https://www.navalhistory.dk/English/Naval_Lists/Ships_Classes.htm
+
+https://www.shipbuildinghistory.com/shipyards/yachtsmall/elco.htm
+
+https://www.worldnavalships.com/forums/thread.php?threadid=7429
+
+https://www.german-navy.de/kriegsmarine/ships/index.html
+
+https://shipbuildinghistory.com/merchantships/2t3tankers.htm
+
+https://tcaminesweepers.co.uk/
+
+https://shipbuildinghistory.com/
+
+https://en.wikipedia.org/wiki/List_of_ships_of_the_United_States_Army
+
