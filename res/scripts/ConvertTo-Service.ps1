@@ -227,79 +227,74 @@ $events = foreach ($ship in $ships) {
     }
 
     # Active
-    if ($ship.Commissioned) {
-        switch ($ship.Existance) {
-            "Built" {
-                New-Object PSObject -Property ([ordered]@{
-                    HullID = $ship.HullID
-                    ClassID = $ship.ClassID
-                    FittingID = ""
-                    ShipName = $ship.ShipName
-                    Nation = $ClassTable[$ship.ClassID]
-                    Event = "Completed"
-                    Date = $ship.Commissioned
-                })
-                break
-            }
-        }
-    } else {
-        $End, $Fate = if ($ship.Stricken) {
-                $ship.Stricken
-                $ship.Fate
-            } else {
-                ""
-                ""
-            }
+    if ($ship.Commissioned -and ($ship.LaidDown -ne $ship.Commissioned)) {
+        New-Object PSObject -Property ([ordered]@{
+            HullID = $ship.HullID
+            ClassID = $ship.ClassID
+            FittingID = ""
+            ShipName = $ship.ShipName
+            Nation = $ClassTable[$ship.ClassID]
+            Event = "Completed"
+            Date = $ship.Commissioned
+        })
+    }
 
-        switch ($Fate) {
-            "Captured" {
-                New-Object PSObject -Property ([ordered]@{
-                    HullID = $ship.HullID
-                    ClassID = $ship.ClassID
-                    FittingID = ""
-                    ShipName = $ship.ShipName
-                    Nation = $ClassTable[$ship.ClassID]
-                    Event = "Captured"
-                    Date = $End
-                })
-                break
-            }
-            "Scrapped" {
-                New-Object PSObject -Property ([ordered]@{
-                    HullID = $ship.HullID
-                    ClassID = $ship.ClassID
-                    FittingID = ""
-                    ShipName = $ship.ShipName
-                    Nation = $ClassTable[$ship.ClassID]
-                    Event = "Scrapped"
-                    Date = $End
-                })
-                break
-            }
-            "Sold" {
-                New-Object PSObject -Property ([ordered]@{
-                    HullID = $ship.HullID
-                    ClassID = $ship.ClassID
-                    FittingID = ""
-                    ShipName = $ship.ShipName
-                    Nation = $ClassTable[$ship.ClassID]
-                    Event = "Sold"
-                    Date = $End
-                })
-                break
-            }
-            "Sunk" {
-                New-Object PSObject -Property ([ordered]@{
-                    HullID = $ship.HullID
-                    ClassID = $ship.ClassID
-                    FittingID = ""
-                    ShipName = $ship.ShipName
-                    Nation = $ClassTable[$ship.ClassID]
-                    Event = "Sunk"
-                    Date = $End
-                })
-                break
-            }
+    $End, $Fate = if ($ship.Stricken) {
+            $ship.Stricken
+            $ship.Fate
+        } else {
+            ""
+            ""
+        }
+
+    switch ($Fate) {
+        "Captured" {
+            New-Object PSObject -Property ([ordered]@{
+                HullID = $ship.HullID
+                ClassID = $ship.ClassID
+                FittingID = ""
+                ShipName = $ship.ShipName
+                Nation = $ClassTable[$ship.ClassID]
+                Event = "Captured"
+                Date = $End
+            })
+            break
+        }
+        "Scrapped" {
+            New-Object PSObject -Property ([ordered]@{
+                HullID = $ship.HullID
+                ClassID = $ship.ClassID
+                FittingID = ""
+                ShipName = $ship.ShipName
+                Nation = $ClassTable[$ship.ClassID]
+                Event = "Scrapped"
+                Date = $End
+            })
+            break
+        }
+        "Sold" {
+            New-Object PSObject -Property ([ordered]@{
+                HullID = $ship.HullID
+                ClassID = $ship.ClassID
+                FittingID = ""
+                ShipName = $ship.ShipName
+                Nation = $ClassTable[$ship.ClassID]
+                Event = "Sold"
+                Date = $End
+            })
+            break
+        }
+        "Sunk" {
+            New-Object PSObject -Property ([ordered]@{
+                HullID = $ship.HullID
+                ClassID = $ship.ClassID
+                FittingID = ""
+                ShipName = $ship.ShipName
+                Nation = $ClassTable[$ship.ClassID]
+                Event = "Sunk"
+                Date = $End
+            })
+            break
         }
     }
 }
