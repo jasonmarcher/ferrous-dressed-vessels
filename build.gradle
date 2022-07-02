@@ -49,7 +49,7 @@ task generateShipHistory {
         def today = LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE)
 
         def printer = new CSVPrinter(new FileWriter("$buildDir/history.csv"), CSVFormat.EXCEL)
-        printer.printRecord('ClassID','ShipName','State','Date')
+        printer.printRecord('HullID','ClassID','ShipName','State','Date')
 
         // Service
         def records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
@@ -62,6 +62,7 @@ task generateShipHistory {
                 endDate = endDate.minusDays(endDate.getDayOfMonth() - 1)
                 
                 while (currentDate.isBefore(endDate)) {
+                    printer.print(record.get('HullID'))
                     printer.print(record.get('ClassID'))
                     printer.print(record.get('ShipName'))
                     printer.print(record.get('State'))
