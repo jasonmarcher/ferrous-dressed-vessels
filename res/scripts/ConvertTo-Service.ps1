@@ -1,4 +1,4 @@
-$ships = Import-CSV "~/ships - ships-import.csv"
+$ships = Import-CSV "~/Downloads/ships - ships-import.csv"
 $classes = Import-CSV $PSScriptRoot/../prebuilt/classes.csv
 
 $ClassTable = @{}
