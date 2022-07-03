@@ -13,6 +13,7 @@ import java.io.FileWriter
 import java.nio.charset.Charset
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
+import java.util.Calendar
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVParser
 import org.apache.commons.csv.CSVPrinter
@@ -49,7 +50,7 @@ task generateShipHistory {
         def today = LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE)
 
         def printer = new CSVPrinter(new FileWriter("$buildDir/history.csv"), CSVFormat.EXCEL)
-        printer.printRecord('HullID','ClassID','ShipName','State','Date')
+        printer.printRecord('HullID','ClassID','ShipName','State','Date','WeightedTime')
 
         // Service
         def records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
@@ -57,16 +58,28 @@ task generateShipHistory {
             if (record.get("ShipName")) {
                 if (!record.get("Start")) {throw new GradleException("Ship '${record.get("ShipName")}' is missing a Start date for service history.")}
                 def currentDate = LocalDate.parse(record.get("Start"))
-                currentDate = currentDate.minusDays(currentDate.getDayOfMonth() - 1)
                 def endDate = LocalDate.parse(record.get("End") ?: today)
-                endDate = endDate.minusDays(endDate.getDayOfMonth() - 1)
+                def monthFraction = 0
+                def calendar = Calendar.getInstance()
                 
                 while (currentDate.isBefore(endDate)) {
+                    monthFraction = Duration.between(currentDate.atStartOfDay(), endDate.atStartOfDay()).toDays()
+                    if (monthFraction < 32) {
+                        calendar.set(Calendar.YEAR, currentDate.getYear())
+                        calendar.set(Calendar.MONTH, currentDate.getMonth().getValue())
+                        monthFraction = (monthFraction / calendar.getActualMaximum(Calendar.DAY_OF_MONTH)).round(1)
+                    }
+
+                    if (monthFraction > 1) {
+                        monthFraction = 1
+                    }
+
                     printer.print(record.get('HullID'))
                     printer.print(record.get('ClassID'))
                     printer.print(record.get('ShipName'))
                     printer.print(record.get('State'))
                     printer.print(currentDate)
+                    printer.print(monthFraction)
                     printer.println()
                     currentDate = currentDate.plusMonths(1)
                 }
