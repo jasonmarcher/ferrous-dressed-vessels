@@ -39,6 +39,7 @@ task generatePrototypeData(type: Copy) {
 task generateShipData(type: Copy) {
     into 'build'
     from 'res/prebuilt'
+    include 'events.csv'
     include 'service.csv'
 }
 
