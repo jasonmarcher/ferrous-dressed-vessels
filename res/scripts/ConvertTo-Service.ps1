@@ -96,18 +96,6 @@ $service | Export-Csv $PSScriptRoot/../prebuilt/new-service.csv -NoTypeInformati
 
 $events = foreach ($ship in $ships) {
     switch ($ship.Existance) {
-        "Built" {
-            New-Object PSObject -Property ([ordered]@{
-                HullID = $ship.HullID
-                ClassID = $ship.ClassID
-                FittingID = ""
-                ShipName = $ship.ShipName
-                Nation = $ClassTable[$ship.ClassID]
-                Event = "Laid Down"
-                Date = $ship.LaidDown
-            })
-            break
-        }
         "Bought" {
             New-Object PSObject -Property ([ordered]@{
                 HullID = $ship.HullID
@@ -116,6 +104,18 @@ $events = foreach ($ship in $ships) {
                 ShipName = $ship.ShipName
                 Nation = $ClassTable[$ship.ClassID]
                 Event = "Bought"
+                Date = $ship.LaidDown
+            })
+            break
+        }
+        "Built" {
+            New-Object PSObject -Property ([ordered]@{
+                HullID = $ship.HullID
+                ClassID = $ship.ClassID
+                FittingID = ""
+                ShipName = $ship.ShipName
+                Nation = $ClassTable[$ship.ClassID]
+                Event = "Laid Down"
                 Date = $ship.LaidDown
             })
             break
@@ -164,6 +164,18 @@ $events = foreach ($ship in $ships) {
                 ShipName = $ship.ShipName
                 Nation = $ClassTable[$ship.ClassID]
                 Event = "Modernized"
+                Date = $ship.LaidDown
+            })
+            break
+        }
+        "Planned" {
+            New-Object PSObject -Property ([ordered]@{
+                HullID = $ship.HullID
+                ClassID = $ship.ClassID
+                FittingID = ""
+                ShipName = $ship.ShipName
+                Nation = $ClassTable[$ship.ClassID]
+                Event = "Laid Down"
                 Date = $ship.LaidDown
             })
             break
@@ -222,6 +234,18 @@ $events = foreach ($ship in $ships) {
                     })
                     break
                 }
+                "Planned" {
+                    New-Object PSObject -Property ([ordered]@{
+                        HullID = $ship.HullID
+                        ClassID = $ship.ClassID
+                        FittingID = ""
+                        ShipName = $ship.ShipName
+                        Nation = $ClassTable[$ship.ClassID]
+                        Event = "Launched"
+                        Date = $ship.LaidDown
+                    })
+                    break
+                }
             }
         }
     }
@@ -270,6 +294,17 @@ $events = foreach ($ship in $ships) {
                 Event = "Scrapped"
                 Date = $End
             })
+            if ($ship.Existance -eq "Cancelled") {
+                New-Object PSObject -Property ([ordered]@{
+                    HullID = $ship.HullID
+                    ClassID = $ship.ClassID
+                    FittingID = ""
+                    ShipName = $ship.ShipName
+                    Nation = $ClassTable[$ship.ClassID]
+                    Event = "Cancelled"
+                    Date = $End
+                })
+            }
             break
         }
         "Sold" {
