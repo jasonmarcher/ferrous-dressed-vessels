@@ -72,3 +72,5 @@ https://shipbuildinghistory.com/
 
 https://en.wikipedia.org/wiki/List_of_ships_of_the_United_States_Army
 
+https://www.ww2ships.com/index.shtml
+
