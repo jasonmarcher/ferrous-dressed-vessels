@@ -74,3 +74,4 @@ https://en.wikipedia.org/wiki/List_of_ships_of_the_United_States_Army
 
 https://www.ww2ships.com/index.shtml
 
+https://naval-encyclopedia.com/ww1/France/asw-french-escorts.php
