@@ -30,6 +30,7 @@ http://www.navweaps.com/index_nathan/metalprpsept2009.php
 
 Ship History
 https://www.history.navy.mil/research/histories/ship-histories/danfs.html
+https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs.html
 http://3decks.pbworks.com/w/page/913970/FrontPage
 
 Submarines
@@ -75,3 +76,5 @@ https://en.wikipedia.org/wiki/List_of_ships_of_the_United_States_Army
 https://www.ww2ships.com/index.shtml
 
 https://naval-encyclopedia.com/ww1/France/asw-french-escorts.php
+
+http://pwencycl.kgbudge.com/Table_Of_Contents.htm
