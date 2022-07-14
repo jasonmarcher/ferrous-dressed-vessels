@@ -1,4 +1,5 @@
 $ships = Import-CSV "~/Downloads/ships - ships-import.csv"
+# $ships = Import-CSV $PSScriptRoot/../prebuilt/ships.csv
 $classes = Import-CSV $PSScriptRoot/../prebuilt/classes.csv
 
 $ClassTable = @{}
@@ -234,6 +235,30 @@ $events = foreach ($ship in $ships) {
                     })
                     break
                 }
+                "Converted" {
+                    New-Object PSObject -Property ([ordered]@{
+                        HullID = $ship.HullID
+                        ClassID = $ship.ClassID
+                        FittingID = ""
+                        ShipName = $ship.ShipName
+                        Nation = $ClassTable[$ship.ClassID]
+                        Event = "Launched"
+                        Date = $ship.Launched
+                    })
+                    break
+                }
+                "Modernized" {
+                    New-Object PSObject -Property ([ordered]@{
+                        HullID = $ship.HullID
+                        ClassID = $ship.ClassID
+                        FittingID = ""
+                        ShipName = $ship.ShipName
+                        Nation = $ClassTable[$ship.ClassID]
+                        Event = "Launched"
+                        Date = $ship.Launched
+                    })
+                    break
+                }
                 "Planned" {
                     New-Object PSObject -Property ([ordered]@{
                         HullID = $ship.HullID
@@ -284,6 +309,18 @@ $events = foreach ($ship in $ships) {
             })
             break
         }
+        "Museum" {
+            New-Object PSObject -Property ([ordered]@{
+                HullID = $ship.HullID
+                ClassID = $ship.ClassID
+                FittingID = ""
+                ShipName = $ship.ShipName
+                Nation = $ClassTable[$ship.ClassID]
+                Event = "Museum"
+                Date = $End
+            })
+            break
+        }
         "Scrapped" {
             New-Object PSObject -Property ([ordered]@{
                 HullID = $ship.HullID
@@ -327,6 +364,18 @@ $events = foreach ($ship in $ships) {
                 ShipName = $ship.ShipName
                 Nation = $ClassTable[$ship.ClassID]
                 Event = "Sunk"
+                Date = $End
+            })
+            break
+        }
+        "Target" {
+            New-Object PSObject -Property ([ordered]@{
+                HullID = $ship.HullID
+                ClassID = $ship.ClassID
+                FittingID = ""
+                ShipName = $ship.ShipName
+                Nation = $ClassTable[$ship.ClassID]
+                Event = "Target"
                 Date = $End
             })
             break
