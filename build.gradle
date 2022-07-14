@@ -29,10 +29,12 @@ task generateClassData(type: Copy) {
 task generatePrototypeData(type: Copy) {
     into 'build'
     from 'res/prebuilt'
+    include 'ammo.csv'
     include 'batteries.csv'
     include 'fitting-battery.csv'
-    include 'gun-mounts.csv'
     include 'gun.csv'
+    include 'gun-mounts.csv'
+    include 'guns.csv'
     include 'launcher-mount.csv'
 }
 
@@ -51,7 +53,7 @@ task generateShipHistory {
         def today = LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE)
 
         def printer = new CSVPrinter(new FileWriter("$buildDir/history.csv"), CSVFormat.EXCEL)
-        printer.printRecord('HullID','ClassID','ShipName','State','Date','WeightedTime')
+        printer.printRecord('HullID','ClassID','FittingID','ShipName','State','Date','WeightedTime')
 
         // Service
         def records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
@@ -77,6 +79,7 @@ task generateShipHistory {
 
                     printer.print(record.get('HullID'))
                     printer.print(record.get('ClassID'))
+                    printer.print(record.get('FittingID'))
                     printer.print(record.get('ShipName'))
                     printer.print(record.get('State'))
                     printer.print(currentDate)
