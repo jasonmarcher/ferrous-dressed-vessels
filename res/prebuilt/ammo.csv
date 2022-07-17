@@ -1,58 +1,67 @@
-AmmoID,AmmoName,SurfaceShellWeight,SurfaceShellCharge,SurfaceShellChargeType,AAShellWeight,AAShellCharge,AAShellChargeType,Source
-406-ap-mk8,AP Mark 8 (Super Heavy),1225,18.55,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-50_mk7.php
-406-ap-mk5,AP Mark 5,1016,15.2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-45_mk5.php
-406-ap-mk3,"Navy 16"" AP Mark 3",957,26.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php
-406-ap-mk3-mod2,AP Mark 3 Mod 2,957,26.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-45_mk1.php
-356-ap-mk16,AP Mark 16,680,10.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk11.php
-356-ap-mk20,AP Mark 20,680,10.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php
-356-ap-early,"Early 14"" AP",635,14.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php
-356-ap-mk8-mod3,AP Mark 8 Mod 3,636,15.6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php
-330-ap-mk5,AP Mark 5,513,16.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
-330-ap-mk3,AP Mark 3,513,10,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
-305-ap-mk18,AP Mark 18 (Super Heavy),517,7.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-50_mk8.php
-305-ap-mk15,AP Mark 15,395,11.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-50_mk7.php
-305-ap-mkiii-bp,AP Mark III (BP),395,5.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkiii,AP Mark III,395,5.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkv-bp,AP Mark V (BP),395,12,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkv,AP Mark V,395,12,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkviii-bp,AP Mark VIII (BP),395,11.2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkviii,AP Mark VIII,395,11.2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-870,"AP 12"" 870 lbs",395,8.2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-35_mk1.php
-254-ap-13-bp,"AP 10"" 13 lbs (BP)",231,6,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_10-40_mk3.php
-254-ap-13,"AP 10"" 13 lbs",231,6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_10-40_mk3.php
-254-ap-9.8,"AP 10"" 9.8 lbs",231,4.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_10-30_mk1.php
-203-ap-mk21,AP Mark 21 (Super Heavy),152,2.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-55_mk16.php
-203-ap-mk16,AP Mark 19,118,1.7,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php
-203-ap-naval,"Naval 8"" AP",118,2.8,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php
-203-ap-naval-bp,"Naval 8"" AP (BP)",118,2.3,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php
-178-ap-mk6,AP Mark 6,74.8,2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
-152-com-mk28,Common Mark 28,47.6,2.6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-47_mk17.php
-152-ap-mk35_152-hc-mk39,AP Mark 35 + HC Mark 39,59,0.9,Explosive D,48,6.4,Explosive D,http://www.navweaps.com/Weapons/WNUS_6-47DP_mk16.php
-152-ap-mk35,AP Mark 35,59,0.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-47_mk16.php
-152-com-mk27,SP Common Mark 27,47.6,1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php
-152-ap-4-bp,"AP 6"" 4 lbs (BP)",47.7,1.1,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php
-152-ap-4,"AP 6"" 4 lbs",47.7,1.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php
-152-cpc,"CPC 6""",45.3,0.9,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk5.php
-127-spc-mk42_127-hc-mark41,SP Common Mark 42 + HC Mark 41,31.75,0.97,Explosive D,31.5,3.5,Explosive D,http://www.navweaps.com/Weapons/WNUS_5-54_mk16.php
-127-spc-mk32,SP Common Mark 32,25,0.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
-127-spc-mk32_127-aac-mk34,SP Common Mark 32 + AAC Mark 34,25,0.9,Explosive D,25,3.3,Explosive D,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
-127-hc-mk36_127-aac-mk28,HC Mark 36 + AAC Mark 28,24.4,0.9,Explosive D,24.5,3.3,Explosive D,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php
-127-ap,"AP 5""",22.7,0.77,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-51_mk7.php
-127-ap-50,"AP 5"" 50 lbs",22.7,0.77,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
-127-ap-60,"AP 5"" 60 lbs",27.2,0.77,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
-127-com-mk15,Common Mark 15,22.7,0.78,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
-120-com,"Common 4.7""",20.4,3.1,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_47-50_mk3.php
-102-com-mk6-bp,Common Mark 6 (BP),15,0.5,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
-102-com-mk6,Common Mark 6,15,0.63,Black Powder and TNT,0,0,,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
-102-sp-mk16,SP Common Mark 16,15,0.53,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
-102-ap,"AP 4""",15,0.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_4-40_mk1.php
-76-aa-mk34,AA Mark 34,0,0,,6.8,,,http://www.navweaps.com/Weapons/WNUS_3-70_mk37.php
-76-aa-mk31,AA VT Mark 31,0,0,,5.9,0.24,TNT,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php
-76-hc-mk24_76-aa-mk23,HC Mark 27 + AA Mark 23,5.9,0.34,TNT,5.9,0.34,TNT,http://www.navweaps.com/Weapons/WNUS_3-50_mk10-22.php
-76-com-mk3,Common Mark 3,5.9,0.62,Black Powder and TNT,0,0,,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
-76-com-mk3_76-aa-mk26,Common Mark 3 + AA Mark 26,5.9,0.62,Black Powder and TNT,5.9,0.34,TNT,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
-76-com,"Common 3""",5.9,0.58,Black Powder and TNT,0,0,,http://www.navweaps.com/Weapons/WNUS_3-50_mk2.php
-40-he-mk1,HE Mark 1,0.9,0.07,TNT,0.9,0.07,TNT,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
-28-het-mk1,HE-T Mark 1,0.86,0.02,Explosive D,0.86,0.02,Explosive D,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php
-20-he-mk3,HE Mark 3,0.12,0.01,TNT,0.12,0.01,TNT,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
-12-b-us,"US 0.50""",0.05,0,,0.05,0,,http://navypedia.org/arms/usa/arms_usa_guns.htm
+AmmoID,AmmoName,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,SurfaceShellChargeType,AAShellWeight,AAShellCharge,AAShellChargeType,Source
+406-ap-mk8,AP Mark 8 (Super Heavy),406,1225,18.55,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-50_mk7.php
+406-ap-mk5,AP Mark 5,406,1016,15.2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-45_mk5.php
+406-ap-mk3,"Navy 16"" AP Mark 3",406,957,26.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php
+406-ap-mk3-mod2,AP Mark 3 Mod 2,406,957,26.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-45_mk1.php
+356-ap-mk16,AP Mark 16,356,680,10.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk11.php
+356-ap-mk20,AP Mark 20,356,680,10.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php
+356-ap-mk8-mod3,AP Mark 8 Mod 3,356,636,15.6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php
+356-ap-early,"Early 14"" AP",356,635,14.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php
+330-ap-mk5,AP Mark 5,330,513,16.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
+330-ap-mk5-bp,AP Mark 5 (BP),330,513,16.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
+330-ap-mk3,AP Mark 3,330,513,10,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
+330-ap-mk3-bp,AP Mark 3 (BP),330,513,10,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
+305-ap-mk18,AP Mark 18 (Super Heavy),305,517,7.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-50_mk8.php
+305-ap-mk15,AP Mark 15,305,395,11.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-50_mk7.php
+305-ap-mkiii-bp,AP Mark III (BP),305,395,5.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkiii,AP Mark III,305,395,5.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkv-bp,AP Mark V (BP),305,395,12,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkv,AP Mark V,305,395,12,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkviii-bp,AP Mark VIII (BP),305,395,11.2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkviii,AP Mark VIII,305,395,11.2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-870,"AP 12"" 870 lbs",305,395,11,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-35_mk1.php
+305-ap-870-early,"AP 12"" 870 lbs Early",305,395,8.2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-35_mk1.php
+254-ap-13-bp,"AP 10"" 13 lbs (BP)",254,231,6,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_10-40_mk3.php
+254-ap-13,"AP 10"" 13 lbs",254,231,6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_10-40_mk3.php
+254-ap-9.8,"AP 10"" 9.8 lbs",254,231,4.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_10-30_mk1.php
+203-ap-mk21,AP Mark 21 (Super Heavy),203,152,2.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-55_mk16.php
+203-ap-mk16,AP Mark 19,203,118,1.7,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php
+203-ap-naval,"Naval 8"" AP",203,118,2.8,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php
+203-ap-naval-bp,"Naval 8"" AP (BP)",203,118,2.7,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php
+203-ap-naval-early-bp,"Naval 8"" AP Early (BP)",203,118,2.3,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php
+178-ap-mk6-bp,AP Mark 6 (BP),178,74.8,2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
+178-ap-mk6,AP Mark 6,178,74.8,2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
+152-ap-mk35_152-hc-mk39,AP Mark 35 + HC Mark 39,152,59,0.9,Explosive D,48,6.4,Explosive D,http://www.navweaps.com/Weapons/WNUS_6-47DP_mk16.php
+152-ap-mk35,AP Mark 35,152,59,0.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-47_mk16.php
+152-ap-4-bp,"AP 6"" 2.4 lbs (BP)",152,47.7,1.1,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php
+152-ap-4,"AP 6"" 2.4 lbs",152,47.7,1.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php
+152-com-mk28,Common Mark 28,152,47.6,2.6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-47_mk17.php
+152-com-mk27,SP Common Mark 27,152,47.6,1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php
+152-cpc,"CPC 6""",152,45.3,0.9,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk5.php
+127-spc-mk42_127-hc-mark41,SP Common Mark 42 + HC Mark 41,127,31.75,0.97,Explosive D,31.5,3.5,Explosive D,http://www.navweaps.com/Weapons/WNUS_5-54_mk16.php
+127-ap-60,"AP 5"" 60 lbs",127,27.2,0.77,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
+127-spc-mk32,SP Common Mark 32,127,25,0.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
+127-spc-mk32_127-aac-mk34,SP Common Mark 32 + AAC Mark 34,127,25,0.9,Explosive D,25,3.3,Explosive D,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
+127-hc-mk36_127-aac-mk28,HC Mark 36 + AAC Mark 28,127,24.4,0.9,Explosive D,24.5,3.3,Explosive D,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php
+127-ap,"AP 5""",127,22.7,0.77,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-51_mk7.php
+127-ap-50,"AP 5"" 50 lbs",127,22.7,0.77,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
+127-com-mk15,Common Mark 15,127,22.7,0.78,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
+120-com,"Common 4.7""",120,20.4,3.1,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_47-50_mk3.php
+102-com-mk6-bp,Common Mark 6 (BP),102,15,0.5,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
+102-com-mk6,Common Mark 6,102,15,0.63,Black Powder and TNT,0,0,,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
+102-sp-mk16,SP Common Mark 16,102,15,0.53,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
+102-ap,"AP 4""",102,15,0.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_4-40_mk1.php
+76-hc-mk24_76-aa-mk23,HC Mark 27 + AA Mark 23,76,5.9,0.34,TNT,5.9,0.34,TNT,http://www.navweaps.com/Weapons/WNUS_3-50_mk10-22.php
+76-com-mk3,Common Mark 3,76,5.9,0.62,Black Powder and TNT,0,0,,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
+76-com-mk3_76-aa-mk26,Common Mark 3 + AA Mark 26,76,5.9,0.62,Black Powder and TNT,5.9,0.34,TNT,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
+76-com,"Common 3""",76,5.9,0.58,Black Powder and TNT,0,0,,http://www.navweaps.com/Weapons/WNUS_3-50_mk2.php
+76-aa-mk34,AA Mark 34,76,0,0,,6.8,,,http://www.navweaps.com/Weapons/WNUS_3-70_mk37.php
+76-aa-mk31,AA VT Mark 31,76,0,0,,5.9,0.24,TNT,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php
+57-com-mk3-mod3,Common Mark 3 Mod 3,57,2.72,0.1,Black Powder and TNT,0,0,,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
+47-com-mk4,Common Mark 4,47,1.5,0.06,Black Powder and TNT,0,0,,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php
+40-he-mk1,HE Mark 1,40,0.9,0.07,TNT,0.9,0.07,TNT,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+37-com-mk4,Common Mark 2,37,0.49,0.01,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
+28-het-mk1,HE-T Mark 1,28,0.86,0.02,Explosive D,0.86,0.02,Explosive D,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php
+20-he-mk3,HE Mark 3,20,0.12,0.01,TNT,0.12,0.01,TNT,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
+12-b-us,"US 0.50""",12.7,0.05,0,,0.05,0,,http://navypedia.org/arms/usa/arms_usa_guns.htm
+7-b-us,"US 0.30""",7.6,0.01,0,,0.01,0,,http://navypedia.org/arms/usa/arms_usa_guns.htm

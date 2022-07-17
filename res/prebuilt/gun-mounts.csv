@@ -1,60 +1,81 @@
-GunMountID,GunMountName,GunMountNation,GunMountType,GunID,NumberOfGuns,MaxElevation,Source
-406-ag-3-iowa,"16""/50 3-Gun Turret",usa,Armored Gunhouse,406-bg-mk7,3,45,http://www.navweaps.com/Weapons/WNUS_16-50_mk7.php#Mount%2FTurret_Data
-127-ag-mk28,"5""/38 Mark 28",usa,Gunhouse,127-bg-mk12-hoist,2,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
-40-t-mk4,40 mm/56 Mark 4 Quad,usa,Pedestal,40-bg-mk1,4,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#USA_Mountings
-40-t-mk3,40 mm/56 Mark 3 Single,usa,Pedestal,40-bg-mk1,1,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#USA_Mountings
-40-t-mk2,40 mm/56 Mark 2 Quad,usa,Pedestal,40-bg-mk1,4,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#USA_Mountings
-40-t-mk1,40 mm/56 Mark 1 Twin,usa,Pedestal,40-bg-mk1,2,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#USA_Mountings
-20-p-mk24,20 mm/70 Mark 24 Twin,usa,Pedestal,20-bg-mk2,2,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
-20-p-mk6,20 mm/70 Mark 6 Single,usa,Pedestal,20-bg-mk2,1,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
-406-ag-3,"16""/45 3-Gun Turret",usa,Armored Gunhouse,406-bg-mk6,3,45,http://www.navweaps.com/Weapons/WNUS_16-45_mk6.php#Mount%2FTurret_Data
-406-ag-2-mod,"16""/45 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk5,2,30,http://www.navweaps.com/Weapons/WNUS_16-45_mk5.php#Mount%2FTurret_Data
-406-ag-2,"16""/45 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk1,2,30,http://www.navweaps.com/Weapons/WNUS_16-45_mk1.php#Mount%2FTurret_Data
-406-ag-2-lex,"16""/50 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk2,2,40,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php#Mount%2FTurret_Data
-406-ag-2-sd,"16""/50 3-Gun Turret",usa,Armored Gunhouse,406-bg-mk2,3,40,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php#Mount%2FTurret_Data
-356-ag-3-mod2,"14""/50 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk7,3,30,http://www.navweaps.com/Weapons/WNUS_14-50_mk11.php#Mount%2FTurret_Data
-356-ag-3-mod1,"14""/50 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk4,3,30,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php#Mount%2FTurret_Data
-356-ag-3-nm,"14""/50 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk4,3,15,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php#Mount%2FTurret_Data
-356-ag-2,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk1,2,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php#Mount%2FTurret_Data
-356-ag-3,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk1,3,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php#Mount%2FTurret_Data
-356-ag-2-mod1,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,2,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
-356-ag-2-mod2,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,2,30,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
-356-ag-3-mod3,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,3,30,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
-330-ag-2,"13""/35 2-Gun Turret",usa,Armored Gunhouse,330-bg-mk1,2,15,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php#Mount%2FTurret_Data
-330-ag-2-sp,"13""/35 2-Gun Turret",usa,Armored Gunhouse,330-bg-mk1-sp,2,15,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php#Mount%2FTurret_Data
-305-ag-mk9,"12""/50 2-Gun Turret",usa,Armored Gunhouse,305-bg-mk7,2,15,http://www.navweaps.com/Weapons/WNUS_12-50_mk7.php
-127-p-mk19,"5""/25 Mark 19",usa,Pedestal,127-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
-127-p-mk23,"5""/25 Mark 23",usa,Pedestal,127-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
-127-p-mk40,"5""/25 Mark 40",usa,Pedestal,127-bg-mk10,1,40,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
-127-p-p15,"5""/51 P15",usa,Pedestal,127-bg-mk7,1,20,http://www.navweaps.com/Weapons/WNUS_5-51_mk7.php#Mount%2FTurret_Data
-127-p-p18,"5""/51 P18",usa,Pedestal,127-bg-mk9,1,25,http://www.navweaps.com/Weapons/WNUS_5-51_mk7.php#Mount%2FTurret_Data
-127-p-m9,"5""/50 Mark 9",usa,Pedestal,127-bg-mk5,1,15,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php#Mount%2FTurret_Data
-127-p-mk21,"5""/38 Mark 21",usa,Pedestal,127-bg-mk12,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
-127-p-mk24,"5""/38 Mark 24",usa,Pedestal,127-bg-mk12,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
-127-ag-mk25,"5""/38 Mark 25",usa,Gunhouse,127-bg-mk12-hoist,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
-127-ag-mk30,"5""/38 Mark 30",usa,Gunhouse,127-bg-mk12-hoist,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
-127-ag-mk30-mod80,"5""/38 Mark 30 Mod 80",usa,Gunhouse,127-bg-mk12-hoist,1,27,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
-127-ag-mk22,"5""/38 Mark 22",usa,Gunhouse,127-bg-mk12-hoist,2,35,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
-203-ag-rf,"8""/55 3-Gun Turret",usa,Gunhouse,203-rf-mk16,3,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk16.php#Mount%2FTurret_Data
-203-ag-sh,"8""/55 3-Gun Turret",usa,Gunhouse,203-bg-mk16-sh,3,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php#Mount%2FTurret_Data
-203-ag-mk16,"8""/55 3-Gun Turret",usa,Gunhouse,203-bg-mk16,3,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php#Mount%2FTurret_Data
-203-ag-tripple,"8""/55 3-Gun Turret",usa,Gunhouse,203-bg-mk9,3,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk9.php#Mount%2FTurret_Data
-203-ag-double,"8""/55 2-Gun Turret",usa,Gunhouse,203-bg-mk9,2,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk9.php#Mount%2FTurret_Data
-203-ag-mk12,"8""/45 2-Gun Turret",usa,Gunhouse,203-bg-mk6,2,20,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php#Mount%2FTurret_Data
-203-ag-mk5,"8""/45 2-Gun Turret",usa,Gunhouse,203-bg-mk6,2,20,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php#Mount%2FTurret_Data
-203-ag-mk8,"8""/40 2-Gun Turret",usa,Gunhouse,203-bg-mk5,2,14,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
-203-ag-mk9,"8""/35 2-Gun Turret",usa,Gunhouse,203-bg-mk3,2,14,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
-203-ag-mk4,"8""/40 Single Gun Turret",usa,Pedestal,203-bg-mk5,1,20,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
-203-ag-mk3,"8""/35 Single Gun Turret",usa,Pedestal,203-bg-mk3,1,20,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
-203-ag-mk7,"8""/35 2-Gun Turret",usa,Gunhouse,203-bg-mk3,2,14,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
-203-ag-barbette,"8""/30 Barbette",usa,Barbette,203-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_8-30_mk1.php#Mount%2FTurret_Data
-203-ag-half-turret,"8""/30 Half-Turret",usa,Pedestal,203-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_8-30_mk1.php#Mount%2FTurret_Data
-152-dp,"6""/47DP Turret",usa,Gunhouse,152-dp-mk16,2,78,http://www.navweaps.com/Weapons/WNUS_6-47DP_mk16.php#Mount_%2F_Turret_Data
-152-ag-tripple,"6""/47 Tripple Turret",usa,Gunhouse,152-bg-mk16,3,40,http://www.navweaps.com/Weapons/WNUS_6-47_mk16.php#Mount_%2F_Turret_Data
-152-ag-mk16,"6""/53 Twin Turret",usa,Gunhouse,152-bg-mk12,2,30,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php#Mount%2FTurret_Data
-152-c-mk13,"6""/53 Casement",usa,Casement,152-bg-mk12,1,20,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php#Mount%2FTurret_Data
-152-p-mk17,"6""/53 Wet Mount",usa,Pedestal,152-bg-mk12,1,25,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php#Mount%2FTurret_Data
-152-c-mk10,"6""/53 Casement",usa,Casement,152-bg-mk6,1,15,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php#Mount_%2F_Turret_Data
-28-p-quad,"1.1""/75 Quadruple",usa,Pedestal,28-bg-mk1,4,110,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php#Mount%2FTurret_Data
-12-p-mk3,"0.50""/90 Mark 3",usa,Pedestal,12-mg-mk3,1,80,http://navypedia.org/arms/usa/arms_usa_guns.htm
-76-p-mk11,"3""/50 Mark 11",usa,Pedestal,76-bg-mk10,1,,http://www.navweaps.com/Weapons/WNUS_3-50_mk10-22.php
+GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfGuns,MaxElevation,Source
+406-ag-2,406,"16""/45 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk1,2,30,http://www.navweaps.com/Weapons/WNUS_16-45_mk1.php#Mount%2FTurret_Data
+406-ag-2-lex,406,"16""/50 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk2,2,40,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php#Mount%2FTurret_Data
+406-ag-2-mod,406,"16""/45 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk5,2,30,http://www.navweaps.com/Weapons/WNUS_16-45_mk5.php#Mount%2FTurret_Data
+406-ag-2-sd,406,"16""/50 3-Gun Turret",usa,Armored Gunhouse,406-bg-mk2,3,40,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php#Mount%2FTurret_Data
+406-ag-3,406,"16""/45 3-Gun Turret",usa,Armored Gunhouse,406-bg-mk6,3,45,http://www.navweaps.com/Weapons/WNUS_16-45_mk6.php#Mount%2FTurret_Data
+406-ag-3-iowa,406,"16""/50 3-Gun Turret",usa,Armored Gunhouse,406-bg-mk7,3,45,http://www.navweaps.com/Weapons/WNUS_16-50_mk7.php#Mount%2FTurret_Data
+356-ag-2,356,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk1,2,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php#Mount%2FTurret_Data
+356-ag-2-mod1,356,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,2,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
+356-ag-2-mod2,356,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,2,30,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
+356-ag-3,356,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk1,3,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php#Mount%2FTurret_Data
+356-ag-3-mod1,356,"14""/50 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk4,3,30,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php#Mount%2FTurret_Data
+356-ag-3-mod2,356,"14""/50 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk7,3,30,http://www.navweaps.com/Weapons/WNUS_14-50_mk11.php#Mount%2FTurret_Data
+356-ag-3-mod3,356,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,3,30,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
+356-ag-3-nm,356,"14""/50 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk4,3,15,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php#Mount%2FTurret_Data
+330-ag-2-mk2,330,"13""/35 2-Gun Turret",usa,Armored Gunhouse,330-bg-mk1,2,15,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php#Mount%2FTurret_Data
+330-ag-2-mk3,330,"13""/35 2-Gun Turret",usa,Armored Gunhouse,330-bg-mk1,2,15,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php#Mount%2FTurret_Data
+330-ag-2-mk4,330,"13""/35 2-Gun Turret",usa,Armored Gunhouse,330-bg-mk1,2,15,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php#Mount%2FTurret_Data
+305-ag-mk3,305,"12""/35 2-Gun Turret",usa,Armored Gunhouse,305-bg-mk1,2,14,http://www.navweaps.com/Weapons/WNUS_12-35_mk1.php
+305-ag-mk4,305,"12""/40 2-Gun Turret",usa,Armored Gunhouse,305-bg-mk3,2,15,http://www.navweaps.com/Weapons/WNUS_12-40_mk3.php
+305-ag-mk5,305,Dual-Caliber Mark 5,usa,Armored Gunhouse,305-bg-mk3,2,20,http://www.navweaps.com/Weapons/WNUS_12-40_mk3.php
+305-ag-mk6,305,"12""/45 2-Gun Turret",usa,Armored Gunhouse,305-bg-mk5,2,15,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ag-mk7,305,"12""/45 2-Gun Turret",usa,Armored Gunhouse,305-bg-mk5,2,15,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ag-mk8,305,"12""/45 2-Gun Turret",usa,Armored Gunhouse,305-bg-mk5,2,15,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ag-mk9,305,"12""/50 2-Gun Turret",usa,Armored Gunhouse,305-bg-mk7,2,15,http://www.navweaps.com/Weapons/WNUS_12-50_mk7.php
+203-ag-barbette,203,"8""/30 Barbette",usa,Barbette,203-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_8-30_mk1.php#Mount%2FTurret_Data
+203-ag-double,203,"8""/55 2-Gun Turret",usa,Armored Gunhouse,203-bg-mk9,2,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk9.php#Mount%2FTurret_Data
+203-ag-half-turret,203,"8""/30 Half-Turret",usa,Central Pivot,203-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_8-30_mk1.php#Mount%2FTurret_Data
+203-ag-mk12,203,"8""/45 2-Gun Turret",usa,Armored Gunhouse,203-bg-mk6,2,20,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php#Mount%2FTurret_Data
+203-ag-mk16,203,"8""/55 3-Gun Turret",usa,Armored Gunhouse,203-bg-mk16,3,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php#Mount%2FTurret_Data
+203-ag-mk3,203,"8""/35 Single Gun Turret",usa,Armored Gunhouse,203-bg-mk3,1,20,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
+203-ag-mk4,203,"8""/40 Single Gun Turret",usa,Armored Gunhouse,203-bg-mk5,1,20,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
+203-ag-mk5,203,"8""/45 2-Gun Turret",usa,Armored Gunhouse,203-bg-mk6,2,20,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php#Mount%2FTurret_Data
+203-ag-mk5,203,Dual-Caliber Mark 5,usa,Armored Gunhouse,203-bg-mk6,2,20,http://www.navweaps.com/Weapons/WNUS_12-40_mk3.php
+203-ag-mk7,203,"8""/35 2-Gun Turret",usa,Armored Gunhouse,203-bg-mk3,2,14,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
+203-ag-mk8,203,"8""/40 2-Gun Turret",usa,Armored Gunhouse,203-bg-mk5,2,14,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
+203-ag-mk8,203,"8""/35 2-Gun Turret",usa,Armored Gunhouse,203-bg-mk3,2,14,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
+203-ag-mk9,203,"8""/35 2-Gun Turret",usa,Armored Gunhouse,203-bg-mk3,2,14,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php#Mount%2FTurret_Data
+203-ag-rf,203,"8""/55 3-Gun Turret",usa,Armored Gunhouse,203-rf-mk16,3,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk16.php#Mount%2FTurret_Data
+203-ag-sh,203,"8""/55 3-Gun Turret",usa,Armored Gunhouse,203-bg-mk16-sh,3,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php#Mount%2FTurret_Data
+203-ag-tripple,203,"8""/55 3-Gun Turret",usa,Armored Gunhouse,203-bg-mk9,3,41,http://www.navweaps.com/Weapons/WNUS_8-55_mk9.php#Mount%2FTurret_Data
+178-p-mk1,178,"7""/45 Mark 1",usa,Casement,178-bg-mk1,1,15,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
+178-p-mk2,178,"7""/45 Mark 2",usa,Casement,178-bg-mk2,1,15,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
+152-ag-mk16,152,"6""/53 Twin Turret",usa,Gunhouse,152-bg-mk12,2,30,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php#Mount%2FTurret_Data
+152-ag-tripple,152,"6""/47 Tripple Turret",usa,Gunhouse,152-bg-mk16,3,40,http://www.navweaps.com/Weapons/WNUS_6-47_mk16.php#Mount_%2F_Turret_Data
+152-c-mk10,152,"6""/50 Casement",usa,Casement,152-bg-mk6,1,15,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php#Mount_%2F_Turret_Data
+152-c-mk13,152,"6""/53 Casement",usa,Casement,152-bg-mk12,1,20,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php#Mount%2FTurret_Data
+152-dp,152,"6""/47DP Turret",usa,Gunhouse,152-dp-mk16,2,78,http://www.navweaps.com/Weapons/WNUS_6-47DP_mk16.php#Mount_%2F_Turret_Data
+152-p-mk17,152,"6""/53 Wet Mount",usa,Central Pivot,152-bg-mk12,1,25,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php#Mount%2FTurret_Data
+152-p-mk6,152,"6""/40 Mark 6",usa,Pedestal,152-bg-mk3-mod2,1,12,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php
+127-ag-mk22,127,"5""/38 Mark 22",usa,Gunhouse,127-bg-mk12-hoist,2,35,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
+127-ag-mk25,127,"5""/38 Mark 25",usa,Gunhouse,127-bg-mk12-hoist,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
+127-ag-mk28,127,"5""/38 Mark 28",usa,Gunhouse,127-bg-mk12-hoist,2,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
+127-ag-mk30,127,"5""/38 Mark 30",usa,Gunhouse,127-bg-mk12-hoist,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
+127-ag-mk30-mod80,127,"5""/38 Mark 30 Mod 80",usa,Gunhouse,127-bg-mk12-hoist,1,27,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
+127-p-m9,127,"5""/50 Mark 9",usa,Pedestal,127-bg-mk5,1,15,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php#Mount%2FTurret_Data
+127-p-mk19,127,"5""/25 Mark 19",usa,Central Pivot,127-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
+127-p-mk21,127,"5""/38 Mark 21",usa,Central Pivot,127-bg-mk12,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
+127-p-mk23,127,"5""/25 Mark 23",usa,Central Pivot,127-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
+127-p-mk24,127,"5""/38 Mark 24",usa,Central Pivot,127-bg-mk12,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
+127-p-mk40,127,"5""/25 Mark 40",usa,Central Pivot,127-bg-mk10,1,40,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
+127-p-mk5,127,"5""/40 Mark 5",usa,Pedestal,127-bg-mk2,1,15,http://www.navweaps.com/Weapons/WNUS_5-40_mk2.php
+127-p-p15,127,"5""/51 P15",usa,Pedestal,127-bg-mk7,1,20,http://www.navweaps.com/Weapons/WNUS_5-51_mk7.php#Mount%2FTurret_Data
+127-p-p18,127,"5""/51 P18",usa,Pedestal,127-bg-mk9,1,25,http://www.navweaps.com/Weapons/WNUS_5-51_mk7.php#Mount%2FTurret_Data
+102-p-mk4,102,"4""/40 Mark 4",usa,Pedestal,102-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_4-40_mk1.php
+76-p-mk11,76,"3""/50 Mark 11",usa,Pedestal,76-bg-mk10,1,15,http://www.navweaps.com/Weapons/WNUS_3-50_mk10-22.php
+76-p-mk2,76,"3""/50 Mark 2",usa,Pedestal,76-bg-mk2,1,15,http://www.navweaps.com/Weapons/WNUS_3-50_mk2.php
+76-p-mk7,76,"3""/50 Mark 7",usa,Pedestal,76-bg-mk5,1,15,http://www.navweaps.com/Weapons/WNUS_3-50_mk2.php
+57-p-mk1,57,6-pdr Hotchkiss Mark 1,usa,Pedestal,57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
+47-p-mk1,47,3-pdr Hotchkiss Mark 1,usa,Pedestal,47-bg-mk1,1,50,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php
+40-t-mk1,40,40 mm/56 Mark 1 Twin,usa,Central Pivot,40-bg-mk1,2,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#USA_Mountings
+40-t-mk2,40,40 mm/56 Mark 2 Quad,usa,Central Pivot,40-bg-mk1,4,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#USA_Mountings
+40-t-mk3,40,40 mm/56 Mark 3 Single,usa,Central Pivot,40-bg-mk1,1,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#USA_Mountings
+40-t-mk4,40,40 mm/56 Mark 4 Quad,usa,Central Pivot,40-bg-mk1,4,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#USA_Mountings
+37-p-mk6,37,1-pdr Mark 6,usa,Pedestal,37-bg-mk3,1,40,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
+37-p-revolver,37,1-pdr Hotchkiss Revolving Cannon,usa,Pedestal,37-bg-revolver,1,,https://military-history.fandom.com/wiki/Hotchkiss_gun
+28-p-quad,28,"1.1""/75 Quadruple",usa,Central Pivot,28-bg-mk1,4,110,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php#Mount%2FTurret_Data
+20-p-mk24,20,20 mm/70 Mark 24 Twin,usa,Pedestal,20-bg-mk2,2,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
+20-p-mk6,20,20 mm/70 Mark 6 Single,usa,Pedestal,20-bg-mk2,1,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
+12-p-mk3,12.7,"0.50""/90 Mark 3",usa,Pedestal,12-mg-mk3,1,80,http://navypedia.org/arms/usa/arms_usa_guns.htm
+7-p-m1895,7.6,"0.30""/94 M1895 Colt-Browning Machine Gun",usa,Pedestal,7-mg-m1895,1,50,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
