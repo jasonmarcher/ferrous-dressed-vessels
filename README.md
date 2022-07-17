@@ -24,6 +24,7 @@ Artillery
 http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=35F35FF07458F859FF45772BE15050FF?doi=10.1.1.674.4023&rep=rep1&type=pdf
 https://www.gutenberg.org/files/20483/20483-h/20483-h.htm
 https://grantvillegazette.com/article/publish-557/
+https://civilwarnavy.com/wp-content/uploads/2020/06/Holley_A-Treatise-on-Ordnance-and-Armor.pdf
 
 Armor
 http://www.navweaps.com/index_nathan/metalprpsept2009.php
@@ -78,3 +79,8 @@ https://www.ww2ships.com/index.shtml
 https://naval-encyclopedia.com/ww1/France/asw-french-escorts.php
 
 http://pwencycl.kgbudge.com/Table_Of_Contents.htm
+
+http://www.shipbucket.com/drawings?category=real
+https://www.the-blueprints.com/blueprints/ships/
+
+https://www.militaryfactory.com/ships/navy-warships-and-submarines-by-country.php
