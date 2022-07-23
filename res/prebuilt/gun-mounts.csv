@@ -1,4 +1,4 @@
-GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfGuns,MaxElevation,Source
+GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfGuns,MaxElevation,MountSource
 406-ag-2,406,"16""/45 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk1,2,30,http://www.navweaps.com/Weapons/WNUS_16-45_mk1.php#Mount%2FTurret_Data
 406-ag-2-lex,406,"16""/50 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk2,2,40,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php#Mount%2FTurret_Data
 406-ag-2-mod,406,"16""/45 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk5,2,30,http://www.navweaps.com/Weapons/WNUS_16-45_mk5.php#Mount%2FTurret_Data
@@ -77,5 +77,53 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 28-p-quad,28,"1.1""/75 Quadruple",usa,Central Pivot,28-bg-mk1,4,110,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php#Mount%2FTurret_Data
 20-p-mk24,20,20 mm/70 Mark 24 Twin,usa,Pedestal,20-bg-mk2,2,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
 20-p-mk6,20,20 mm/70 Mark 6 Single,usa,Pedestal,20-bg-mk2,1,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
-12-p-mk3,12.7,"0.50""/90 Mark 3",usa,Pedestal,12-mg-mk3,1,80,http://navypedia.org/arms/usa/arms_usa_guns.htm
-7-p-m1895,7.6,"0.30""/94 M1895 Colt-Browning Machine Gun",usa,Pedestal,7-mg-m1895,1,50,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
+12-p-mk3,12,"0.50""/90 Mark 3",usa,Pedestal,12-mg-mk3,1,80,http://navypedia.org/arms/usa/arms_usa_guns.htm
+7-p-m1895,7,"0.30""/94 M1895 Colt-Browning Machine Gun",usa,Pedestal,7-mg-m1895,1,50,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
+381-ag-marki-n-rp12,381,"15""/42 Mark I/N RP 12",britain,Armored Gunhouse,381-bg-marki,2,30,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
+381-ag-markii,381,"15""/42 Mark II",britain,Armored Gunhouse,381-bg-marki,2,30,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
+381-ag-marki,381,"15""/42 Mark I",britain,Armored Gunhouse,381-bg-marki,2,20,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
+134-ag-rp10-marki*,134,"5.25""/50 RP10 Mark I*",britain,Armored Gunhouse,134-bg-qf-marki-van,2,70,http://www.navweaps.com/Weapons/WNBR_525-50_mk1.php
+40-cp-rp50-markvi,40,40 mm/56 RP50 Mark VI,britain,Central Pivot,40-bg-mark1,6,80,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+40-cp-markvii,40,40 mm/56 Mark VII Single,britain,Central Pivot,40-bg-mark1,1,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+40-cp-marki/iii,40,40 mm/56 Mark I/III Single,britain,Central Pivot,40-bg-mark1,1,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+40-ta-staag-markii,40,40 mm/56 STAAG Mark II,britain,Tri-Axial Turret,40-bg-mark1,2,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+406-ag-markii,406,"16""/45 Mark II",britain,Armored Gunhouse,406-bg-markii,3,40,http://www.navweaps.com/Weapons/WNBR_16-45_mk2.php
+406-ag-marki,406,"16""/45 Mark I",britain,Armored Gunhouse,406-bg-marki,3,40,http://www.navweaps.com/Weapons/WNBR_16-45_mk1.php
+134-ag-marki,134,"5.25""/50 Mark I",britain,Armored Gunhouse,134-bg-qf-marki,2,70,http://www.navweaps.com/Weapons/WNBR_525-50_mk1.php
+40-cp-markv,40,2-pdr/39 Mark V Oct,britain,Central Pivot,40-mg-qf-markviii-hv,8,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
+40-cp-markva,40,2-pdr/39 Mark VA Oct,britain,Central Pivot,40-mg-qf-markviii-hv,8,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
+356-ag-markii,356,"14""/45 Mark II",britain,Armored Gunhouse,356-bg-markvii,2,40,http://www.navweaps.com/Weapons/WNBR_14-45_mk7.php
+356-ag-markiii,356,"14""/45 Mark III",britain,Armored Gunhouse,356-bg-markvii,4,40,http://www.navweaps.com/Weapons/WNBR_14-45_mk7.php
+12-cp-markii,12,"0.50""/62 Mark II",britain,Central Pivot,12-mg-markiii,4,80,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
+20-p-mark1,20,20 mm/70 Mark 1 Single,britain,Pedestal,20-bg-mark1,1,85,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
+152-ag-markxviii,152,"6""/50 Mark XVIII",britain,Armored Gunhouse,152-bg-bl-markxxii,2,60,http://www.navweaps.com/Weapons/WNBR_6-50_mk22.php
+120-cp-ha-markxii,120,"4.7""/40 HA Mark XII",britain,Central Pivot,120-bg-qf-markviii,1,90,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
+47-p-markiv-ha,47,3-pdr Hotchkiss Mark IV HA,britain,Pedestal,47-bg-qf-mark1,1,60,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
+40-p-markii,40,2-pdr/39 Mark II,britain,Pedestal,40-mg-qf-markvii,1,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
+140-cpii,140,"5.5""/50 CPII",britain,Central Pivot,140-bg-bl-markI,1,30,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php
+140-pi*,140,"5.5""/50 PI*",britain,Central Pivot,140-bg-bl-markI,1,25,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php
+102-cp-ha-markiii,102,"4""/45 HA Mark III",britain,Central Pivot,102-bg-qf-markv,1,80,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php
+457-ag-b,457,"18""/40 B",britain,Armored Gunhouse,457-bg-marki,1,30,http://www.navweaps.com/Weapons/WNBR_18-40_mk1.php
+76-cp-ha-markii,76,12-pdr/45 HA Mark II,britain,Central Pivot,76-bg-qf-ha-marki,1,90,http://www.navweaps.com/Weapons/WNBR_3-45_mk1.php
+102-gs-ti-marki,102,"4""/45 T.I. Mark I",britain,Gun Shield,102-bg-bl-markix,3,30,http://www.navweaps.com/Weapons/WNBR_4-45_mk9.php
+102-gs-cpi,102,"4""/45 CPI",britain,Gun Shield,102-bg-bl-markix,1,30,http://www.navweaps.com/Weapons/WNBR_4-45_mk9.php
+152-c-pix,152,"6""/45 PIX",britain,Casement,152-bg-bl-markxii,1,14,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php
+356-ag-marki,356,"14""/45 Mark I",britain,Armored Gunhouse,356-bg-markvii,2,20,http://www.navweaps.com/Weapons/WNBR_14-45_mk1.php
+152-c-pxii,152,"6""/45 PXII",britain,Casement,152-bg-bl-markxvii,1,15,http://www.navweaps.com/Weapons/WNBR_6-50_mk17.php
+343-ag-markii**,343,"13.5""/45 Mark II**",britain,Armored Gunhouse,343-bg-markv-h,2,20,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
+305-ag-special,305,"12""/45 ""Special""",britain,Armored Gunhouse,305-bg-markxiii,2,13.5,http://www.navweaps.com/Weapons/WNBR_12-45_mk13.php
+152-c-pxi,152,"6""/50 PXI",britain,Casement,152-bg-bl-markxIii,1,13,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
+76-gs-pi,76,12-pdr/45 PI,britain,Gun Shield,76-bg-qf-ha-marki,1,30,http://www.navweaps.com/Weapons/WNBR_3-45_mk1.php
+343-ag-special,343,"13.5""/45 ""Special""",britain,Armored Gunhouse,343-bg-bl-markvi,2,20,http://www.navweaps.com/Weapons/WNBR_135-45_mk6.php
+152-c-px,152,"6""/50 PX",britain,Casement,152-bg-bl-markxvi,1,15,http://www.navweaps.com/Weapons/WNBR_6-50_mk16.php
+57-p-markic-ha,57,6-pdr Mark IC HA,britain,Pedestal,57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php
+152-c-pviii,152,"6""/45 PVIII",britain,Casement,152-bg-bl-markxii,1,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php
+343-ag-markii,343,"13.5""/45 Mark II",britain,Armored Gunhouse,343-bg-markv-h,2,20,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
+102-c-pii,102,"4""/50 PII",britain,Casement,102-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
+343-ag-markii-l,343,"13.5""/45 Mark II (L)",britain,Armored Gunhouse,343-bg-markv-l,2,20,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
+305-ag-bxi,305,"12""/50 BXI",britain,Armored Gunhouse,305-bg-markxi,2,15,http://www.navweaps.com/Weapons/WNBR_12-50_mk11.php
+102-cp-pii,102,"4""/50 PII",britain,Central Pivot,102-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
+305-ag-bviii,305,"12""/45 BVIII",britain,Armored Gunhouse,305-bg-markx,2,13.5,http://www.navweaps.com/Weapons/WNBR_12-45_mk10.php
+102-cp-pi,102,"4""/40 PI",britain,Central Pivot,102-bg-qf-marki,1,20,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
+7-mg-maxim-marki,7.7,"0.303""/94 Maxim Pedestal",britain,Pedestal,7-mg-maxim-marki,1,20,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
+76-p-piv,76,12-pdr/50 PIV,britain,Pedestal,76-bg-qf-ha-marki,1,20,http://www.navweaps.com/Weapons/WNBR_3-50_mk1.php

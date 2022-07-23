@@ -1,4 +1,4 @@
-AmmoID,AmmoName,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,SurfaceShellChargeType,AAShellWeight,AAShellCharge,AAShellChargeType,Source
+AmmoID,AmmoName,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,SurfaceShellChargeType,AAShellWeight,AAShellCharge,AAShellChargeType,AmmoSource
 406-ap-mk8,AP Mark 8 (Super Heavy),406,1225,18.55,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-50_mk7.php
 406-ap-mk5,AP Mark 5,406,1016,15.2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-45_mk5.php
 406-ap-mk3,"Navy 16"" AP Mark 3",406,957,26.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php
@@ -65,3 +65,35 @@ AmmoID,AmmoName,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,SurfaceShellCh
 20-he-mk3,HE Mark 3,20,0.12,0.01,TNT,0.12,0.01,TNT,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
 12-b-us,"US 0.50""",12.7,0.05,0,,0.05,0,,http://navypedia.org/arms/usa/arms_usa_guns.htm
 7-b-us,"US 0.30""",7.6,0.01,0,,0.01,0,,http://navypedia.org/arms/usa/arms_usa_guns.htm
+381-apc-markxiia,APC Mark XIIa,381,879,22,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
+134-sap-markic_134-he,SAP Mark IC + HE,134,36.3,1.47,TNT,36.3,2.95,TNT,http://www.navweaps.com/Weapons/WNBR_525-50_mk1.php
+40-he-mark1,40mm HE (UK),40,0.89,0.07,TNT,0.89,0.07,TNT,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+406-apc,"16"" APC",406,1080,27,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_16-45_mk2.php
+406-ap-markib,"16"" AP Mark IB",406,929,23.2,TNT,0,0,,http://www.navweaps.com/Weapons/WNBR_16-45_mk1.php
+40-he-2pdr,2-pdr HE,40,0.82,0.07,TNT,0.82,0.07,TNT,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
+356-apc-markviib,APC Mark VIIB,356,721,18.1,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_14-45_mk7.php
+12-b-uk,"British 0.50""",12.7,0.08,0,,0.08,0,,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
+20-he-uk,20mm HE (UK),20,0.12,0.01,TNT,0.12,0.01,TNT,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
+152-cpbc-markxxvb,CPBC Mark XXVB,152,45.4,3.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-50_mk22.php
+120-he-uk,"4"" HE (UK)",120,34.5,22.7,,34.5,22.7,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
+47-he-uk,3-pdr HE (UK),47,1.5,0.06,,1.5,0.06,,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
+40-he-uk,2-pdr HE (UK),40,0.9,0.1,,0.9,0.1,,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
+381-apc-markxiia,APC Mark Va,381,870,20.5,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
+140-cpc-uk,"CPC 5.5"" (UK)",140,37.2,2.4,,37.2,2.4,,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php
+102-he-uk,"HE 4"" (UK)",102,14.1,0.82,,14.1,0.82,,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php
+457-apc-4crh,"APC 18"" 4crh",457,1506,54,,0,0,,http://www.navweaps.com/Weapons/WNBR_18-40_mk1.php
+76-he-uk-early,12-pdr HE (early),76,5.7,,,5.7,,,http://www.navweaps.com/Weapons/WNBR_3-45_mk1.php
+152-cpbc-2crh,CPBC 2crh,152,45.4,3.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php
+356-apc-markia,APC Mark Ia,356,719,27.9,,0,0,,http://www.navweaps.com/Weapons/WNBR_14-45_mk1.php
+356-apc-markiiia,APC Mark IIIa (Greenboy),356,724,17,,0,0,,http://www.navweaps.com/Weapons/WNBR_14-45_mk1.php
+152-cpc-4crh,CPC 4crh,152,45.4,3.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-50_mk17.php
+381-apc-markia,"15"" APC Mark Ia",381,871,27.4,Lyddite,0,0,,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
+343-apc-markia,"13.5"" APC Mark 1A",343,635,20.2,Lyddite,0,0,,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
+305-apc-markvi-2crh,"12"" APC Mark VI 2crh",305,386,11.9,,0,0,,http://www.navweaps.com/Weapons/WNBR_12-45_mk13.php
+152-cpc-4crh,"6"" CPC 4crh",152,45.3,3.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
+57-he-uk,6-pdr HE,57,2.72,0.1,,2.72,0.1,,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php
+102-he-wwi-uk,"HE 4"" WWI (UK)",102,14.1,4.3,,0,0,,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
+305-apc-markvia-4crh,"12"" APC Mark VIa 4crh",305,390,12.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_12-50_mk11.php
+102-he-small-uk,"4"" HE (Small) (UK)",102,11.3,,,0,0,,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
+7-s-303-british,"0.303"" British",7.7,0.01,0,,0.01,0,,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
+76-he-2crh,12-pdr HE 2crh,76,5.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_3-50_mk1.php
