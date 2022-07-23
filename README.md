@@ -29,6 +29,14 @@ https://civilwarnavy.com/wp-content/uploads/2020/06/Holley_A-Treatise-on-Ordnanc
 Armor
 http://www.navweaps.com/index_nathan/metalprpsept2009.php
 
+Torpedoes
+https://en.wikipedia.org/wiki/American_18-inch_torpedo
+https://en.wikipedia.org/wiki/American_21-inch_torpedo
+http://large.stanford.edu/courses/2015/ph241/hernandez2/docs/TorpDevel-Usn-JolieNusc1978.pdf
+https://maritime.org/doc/jolie/index.htm
+https://www.history.navy.mil/content/history/nhhc/browse-by-topic/exploration-and-innovation/navy-torpedoes.html
+https://en.wikipedia.org/wiki/List_of_torpedoes_by_name
+
 Ship History
 https://www.history.navy.mil/research/histories/ship-histories/danfs.html
 https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs.html
