@@ -394,3 +394,91 @@ bb-dreadnought,305-ag-bviii_apsry,Primary Gun,1
 bb-dreadnought,76-p-piv_x27-turret,Secondary Gun,2
 bb-dreadnought,450-tt-hull_x5-aft,,
 bb-dreadnought,placeholder_torpedo,,
+pred-lord-nelson,305-ag-bviii_ay,Secondary Gun,1
+pred-lord-nelson,234-ag-markviii_x2,Primary Gun,2
+pred-lord-nelson,234-ag-markvii_x4,Primary Gun,2
+pred-lord-nelson,76-p-piv_x24,Tertiary Gun,3
+pred-lord-nelson,47-p-markiv-ha_x2,Security Gun,4
+pred-lord-nelson,450-tt-hull_x5-aft,,
+pred-lord-nelson,placeholder_torpedo,,
+pred-king-edward-vii,305-ag-bvii-s_ay,Secondary Gun,1
+pred-king-edward-vii,234-ag-markv_x4,Primary Gun,2
+pred-king-edward-vii,152-c-piii_x10,Primary Gun,3
+pred-king-edward-vii,76-p-pi_x14,Tertiary Gun,4
+pred-king-edward-vii,47-p-mk1_x14,Tertiary Gun,5
+pred-king-edward-vii,450-tt-hull_x4-side,,
+pred-king-edward-vii,placeholder_torpedo,,
+pred-king-edward-vii_hindustan,305-ag-bvii-s_ay,Secondary Gun,1
+pred-king-edward-vii_hindustan,234-ag-markv_x4,Primary Gun,2
+pred-king-edward-vii_hindustan,152-c-piii_x10,Primary Gun,3
+pred-king-edward-vii_hindustan,76-p-pi_x14,Tertiary Gun,4
+pred-king-edward-vii_hindustan,47-p-marki-la_x14,Tertiary Gun,5
+pred-king-edward-vii_hindustan,450-tt-hull_x4-side,,
+pred-king-edward-vii_hindustan,placeholder_torpedo,,
+pred-king-edward-vii_britannia,305-ag-bvii-s_ay,Secondary Gun,1
+pred-king-edward-vii_britannia,234-ag-markv_x4,Primary Gun,2
+pred-king-edward-vii_britannia,152-c-piii_x10,Primary Gun,3
+pred-king-edward-vii_britannia,76-p-piv_x14,Tertiary Gun,4
+pred-king-edward-vii_britannia,47-p-marki-la_x14,Tertiary Gun,5
+pred-king-edward-vii_britannia,450-tt-hull_x4-side,,
+pred-king-edward-vii_britannia,placeholder_torpedo,,
+pred-constitucion_constitucion,254-ag-biv_ay,Secondary Gun,1
+pred-constitucion_constitucion,190-c-cp-markiii_x14,Primary Gun,2
+pred-constitucion_constitucion,76-p-marki_x14,Tertiary Gun,3
+pred-constitucion_constitucion,57-p-markic-ha_x6-mast,Tertiary Gun,4
+pred-constitucion_constitucion,450-tt-hull_x2-side,,
+pred-constitucion_constitucion,placeholder_torpedo,,
+pred-constitucion_libertad,254-ag-bv_ay,Secondary Gun,1
+pred-constitucion_libertad,190-c-cp-markiv_x14,Primary Gun,2
+pred-constitucion_libertad,76-p-markii_x14,Tertiary Gun,3
+pred-constitucion_libertad,57-p-markic-ha_x6-mast,Tertiary Gun,4
+pred-constitucion_libertad,450-tt-hull_x2-side,,
+pred-constitucion_libertad,placeholder_torpedo,,
+pred-duncan,305-ag-bvi_ay,Secondary Gun,1
+pred-duncan,152-c-piii_x12,Primary Gun,2
+pred-duncan,76-p-pi_x10,Tertiary Gun,3
+pred-duncan,57-p-markic-ha_x6-mast,Tertiary Gun,4
+pred-duncan,450-tt-hull_x4-side,,
+pred-duncan,placeholder_torpedo,,
+pred-london,305-ag-bvi_ay,Secondary Gun,1
+pred-london,152-c-piii_x12,Primary Gun,2
+pred-london,76-p-pi_x16,Tertiary Gun,3
+pred-london,47-p-markiv-ha_x6-mast,Tertiary Gun,4
+pred-london,450-tt-hull_x4-side,,
+pred-london,placeholder_torpedo,,
+pred-formidable,305-ag-bvi_ay,Secondary Gun,1
+pred-formidable,152-c-piii_x12,Primary Gun,2
+pred-formidable,76-p-pi_x16,Tertiary Gun,3
+pred-formidable,47-p-markiv-ha_x6-mast,Tertiary Gun,4
+pred-formidable,450-tt-hull_x4-side,,
+pred-formidable,placeholder_torpedo,,
+pred-canopus,305-ag-biii_ay,Secondary Gun,1
+pred-canopus,152-c-cpi_x12,Primary Gun,2
+pred-canopus,76-p-pi_x10-alt,Tertiary Gun,3
+pred-canopus,47-p-markiv-ha_x6-mast,Tertiary Gun,4
+pred-canopus,450-tt-hull_x4-side,,
+pred-canopus,placeholder_torpedo,,
+pred-renown,254-ag-turret-markii_ay,Secondary Gun,1
+pred-renown,152-c-cpi_x10,Primary Gun,2
+pred-renown,76-p-pi_x12,Tertiary Gun,3
+pred-renown,47-p-markiv-ha_x12-renown,Tertiary Gun,4
+pred-renown,450-tt-hull_x5-aft,,
+pred-renown,placeholder_torpedo,,
+pred-majestic_caesar,305-ag-biii_ay,Secondary Gun,1
+pred-majestic_caesar,152-c-cpi_x12-maj,Primary Gun,2
+pred-majestic_caesar,76-c-pi_x16,Tertiary Gun,3
+pred-majestic_caesar,47-p-markiv-ha_x12-mast,Tertiary Gun,4
+pred-majestic_caesar,450-tt-hull_x5-aft,,
+pred-majestic_caesar,placeholder_torpedo,,
+pred-majestic,305-ag-bii_ay,Secondary Gun,1
+pred-majestic,152-c-cpi_x12-maj,Primary Gun,2
+pred-majestic,76-c-pi_x16,Tertiary Gun,3
+pred-majestic,47-p-markiv-ha_x12-mast,Tertiary Gun,4
+pred-majestic,450-tt-hull_x5-aft,,
+pred-majestic,placeholder_torpedo,,
+pred-centurion,254-ag-turret-markii_ay,Secondary Gun,1
+pred-centurion,120-cp-bdi_x10,Primary Gun,2
+pred-centurion,57-p-markic-ha_x8,Tertiary Gun,3
+pred-centurion,47-p-markiv-ha_x12-mast-alt,Tertiary Gun,4
+pred-centurion,450-tt-hull_x7-aft,,
+pred-centurion,placeholder_torpedo,,
