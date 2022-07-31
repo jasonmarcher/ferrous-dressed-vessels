@@ -19,7 +19,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 305-ag-special,305,"12""/45 ""Special""",britain,Armored Gunhouse,305-bg-markxiii,2,13.5,http://www.navweaps.com/Weapons/WNBR_12-45_mk13.php
 305-ag-bviii,305,"12""/45 BVIII",britain,Armored Gunhouse,305-bg-markx,2,13.5,http://www.navweaps.com/Weapons/WNBR_12-45_mk10.php
 305-ag-bxi,305,"12""/50 BXI",britain,Armored Gunhouse,305-bg-markxi,2,15,http://www.navweaps.com/Weapons/WNBR_12-50_mk11.php
-254-ag-turret-markii,254,"10""/32 Turret Mark II",britain,Armored Gunhouse,254-bg-markii,2,13,http://www.navweaps.com/Weapons/WNBR_10-32_mk1-4.php
+254-fg-turret-markii,254,"10""/32 Turret Mark II",britain,Full Gunshield,254-bg-markii,2,13,http://www.navweaps.com/Weapons/WNBR_10-32_mk1-4.php
 254-ag-biv,254,"10""/45 BIV",britain,Armored Gunhouse,254-bg-markvi-elswick-s,2,13.5,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
 254-ag-bv,254,"10""/45 BV",britain,Armored Gunhouse,254-bg-markvii-vickers-a,2,13.5,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
 234-ag-markv,234,"9.2""/47 Mark V",britain,Armored Gunhouse,234-bg-markx,1,15,http://www.navweaps.com/Weapons/WNBR_92-47_mk10.php
@@ -68,6 +68,39 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 20-p-mark1,20,20 mm/70 Mark 1 Single,britain,Pedestal,20-bg-mark1,1,85,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
 12-cp-markii,12,"0.50""/62 Mark II",britain,Central Pivot,12-mg-markiii,4,80,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
 7-mg-maxim-marki,7.7,"0.303""/94 Maxim Pedestal",britain,Pedestal,7-mg-maxim-marki,1,20,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
+460-ag-type94,460,40cm/45 Type 94,japan,Armored Gunhouse,460-bg-type94,3,45,http://www.navweaps.com/Weapons/WNJAP_18-45_t94.php
+410-ag-3rd-year,410,41cm/45 3rd Year Type,japan,Armored Gunhouse,410-bg-3rd-year,2,30,http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.php
+410-ag-3rd-year-new,410,41cm/45 3rd Year Type New,japan,Armored Gunhouse,410-bg-3rd-year,2,35,http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.php
+356-ag-41st-year-bb,356,36cm/45 41st Year Type (BB),japan,Armored Gunhouse,356-bg-41st-year,2,25,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
+356-ag-41st-year-bc,356,36cm/45 41st Year Type (BC),japan,Armored Gunhouse,356-bg-41st-year,2,25,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
+305-ag-41st-year,305,"12""/40 41st Year Type",japan,Armored Gunhouse,305-bg-41st-year,2,15,http://www.navweaps.com/Weapons/WNJAP_12-40_EOC.php
+305-ag-armstrong,305,"12""/45 Armstrong",japan,Armored Gunhouse,305-bg-armstrong,2,15,http://www.navweaps.com/Weapons/WNJAP_12-45_EA.php
+305-ag-armstrong-vickers,305,"12""/50 Armstrong/Vickers",japan,Armored Gunhouse,305-bg-armstrong-vickers,2,15,http://www.navweaps.com/Weapons/WNJAP_12-50_EA.php
+254-ag-41st-year,254,"10""/45 41st Year Type",japan,Armored Gunhouse,254-bg-41st-year,2,30,http://www.navweaps.com/Weapons/WNJAP_10-45_Vickers.php
+254-ag-41st-year-single,254,"10""/45 41st Year Type",japan,Armored Gunhouse,254-bg-41st-year,1,30,http://www.navweaps.com/Weapons/WNJAP_10-45_Vickers.php
+155-ag-3rd-year,155,15.5cm/60 3rd Year Type,japan,Armored Gunhouse,155-bg-3rd-year,3,55,http://www.navweaps.com/Weapons/WNJAP_61-60_3ns.php
+152-c-41st-year-20,152,15cm/50 41st Year Type,japan,Casement,152-bg-41st-year,1,20,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
+152-c-armstrong-z,152,"6""/40 Armstrong Z",japan,Casement,152-bg-armstrong-z,1,20,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
+152-p-armstrong-z,152,"6""/40 Armstrong Z",japan,Pedestal Gun Shield,152-bg-armstrong-z,1,20,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
+152-c-41st-year-gg,152,"6""/45 41st Year Type",japan,Casement,152-bg-elswick-gg,1,18,http://www.navweaps.com/Weapons/WNJAP_6-45_EOC.php
+152-c-vickers-markm-20,152,"6""/50 Vickers Mark M",japan,Casement,152-bg-vickers-markm,1,20,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
+140-c-3rd-25,140,14cm/50 3rd Year Type,japan,Casement,140-bg-3rd-year-type,1,25,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
+140-c-3rd-20,140,14cm/50 3rd Year Type,japan,Casement,140-bg-3rd-year-type,1,20,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
+140-pgs-3rd-20,140,14cm/50 3rd Year Type,japan,Pedestal Gun Shield,140-bg-3rd-year-type,1,20,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
+127-ag-a1-mod3,127,12.7cm/40 A1 Mod 3,japan,Armored Gunhouse,127-bg-type-89,2,90,http://www.navweaps.com/Weapons/WNJAP_5-40_t89.php
+120-p-10th-year-b,120,12cm/45 10th Year Type B,japan,Pedestal,120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
+120-c-type41,120,"4.7""/40 Type 41",japan,Casement,120-bg-type41,1,20,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
+120-p-type41,120,"4.7""/40 Type 41",japan,Pedestal,120-bg-type41,1,20,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
+76-p-3rd-year,76,8cm/40 3rd Year Type,japan,Pedestal,76-bg-3rd-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_3-40_3ns.php
+76-cp-41st-year,76,8cm/40 41st Year Type,japan,Central Pivot,76-bg-41st-year,1,75,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-p-41st-year,76,8cm/40 41st Year Type,japan,Pedestal,76-bg-41st-year,1,20,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-c-41st-year,76,8cm/40 41st Year Type,japan,Casement,76-bg-41st-year,1,20,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+47-p-yamanouchi-mk1,47,2.5-pdr Yamanouchi Mark 1,japan,Pedestal,47-bg-yamanouchi-mk1,1,20,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Japanese_service
+25-p-type96-single,25,25mm/60 Type 96 (Single),japan,Pedestal,25-mg-type96,1,85,http://www.navweaps.com/Weapons/WNJAP_25mm-60_mg.php
+25-cp-type96-triple,25,25mm/60 Type 96 (Triple),japan,Central Pivot,25-mg-type96,3,85,http://www.navweaps.com/Weapons/WNJAP_25mm-60_mg.php
+25-cp-type96-twin,25,25mm/60 Type 96 (Twin),japan,Central Pivot,25-mg-type96,2,85,http://www.navweaps.com/Weapons/WNJAP_25mm-60_mg.php
+13-p-type93-single,13,13mm/76 Single,japan,Pedestal,13-mg-type93,1,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
+13-p-type93-twin,13,13mm/76 Twin,japan,Pedestal,13-mg-type93,2,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
 406-ag-2,406,"16""/45 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk1,2,30,http://www.navweaps.com/Weapons/WNUS_16-45_mk1.php#Mount%2FTurret_Data
 406-ag-2-mod,406,"16""/45 2-Gun Turret",usa,Armored Gunhouse,406-bg-mk5,2,30,http://www.navweaps.com/Weapons/WNUS_16-45_mk5.php#Mount%2FTurret_Data
 406-ag-3,406,"16""/45 3-Gun Turret",usa,Armored Gunhouse,406-bg-mk6,3,45,http://www.navweaps.com/Weapons/WNUS_16-45_mk6.php#Mount%2FTurret_Data
