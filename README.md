@@ -94,3 +94,5 @@ https://www.the-blueprints.com/blueprints/ships/
 https://www.militaryfactory.com/ships/navy-warships-and-submarines-by-country.php
 
 https://www.battleships-cruisers.co.uk/index.htm
+
+https://laststandonzombieisland.com/tag/warship-wednesday/
