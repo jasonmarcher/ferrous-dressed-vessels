@@ -207,7 +207,7 @@ pred-indiana,203-ag-mk8_x4,Secondary Gun,2
 pred-indiana,152-p-mk6_x4,Secondary Gun,3
 pred-indiana,57-p-mk1_x20-alt,Tertiary Gun,4
 pred-indiana,37-p-mk6_x6-mast,Security Gun,5
-pred-indiana,450-tt-hull_x6,,
+pred-indiana,450-tt-hull_x6-fore-aft,,
 pred-indiana,placeholder_torpedo,,
 bb-vanguard,381-ag-marki-n-rp12_abxy,Primary Gun,1
 bb-vanguard,134-ag-rp10-marki*_x8,Secondary Gun,2
@@ -733,3 +733,140 @@ pred-brandenburg,88-cp-mpl-c89_x4,Tertiary Gun,4
 pred-brandenburg,88-cp-mpl-c89_x12,Security Gun,5
 pred-brandenburg,450-tt-hull_x6-fore,,
 pred-brandenburg,placeholder_torpedo,,
+bb-clemenceau,380-ag-m1935_ab,Primary Gun,1
+bb-clemenceau,152-ag-bb-m1936-dp_x4,Secondary Gun,2
+bb-clemenceau,100-ag-m1937-bb_x6,Secondary Gun,3
+bb-clemenceau,37-cp-cad-m1933_x6,AA Battery,4
+bb-clemenceau,13-cp-caq-m1929_x8,AA Battery,5
+bb-richelieu_design,380-ag-m1935_ab,Primary Gun,1
+bb-richelieu_design,152-ag-bb-m1936-dp-planned_x5,Secondary Gun,2
+bb-richelieu_design,37-ag-cad-m1935_x6,AA Battery,3
+bb-richelieu_design,13-cp-caq-m1929_x8,AA Battery,4
+bb-richelieu,380-ag-m1935_ab,Primary Gun,1
+bb-richelieu,152-ag-bb-m1936-dp_x3,Secondary Gun,2
+bb-richelieu,100-ag-m1931-bb_x6,Secondary Gun,3
+bb-richelieu,37-cp-cad-m1933_x4,AA Battery,4
+bb-richelieu,13-cp-caq-m1929_x4,AA Battery,5
+bb-richelieu,13-cp-cad-m1929_x2,AA Battery,5
+bb-richelieu_jean-bart,380-ag-m1935_ab,Primary Gun,1
+bb-richelieu_jean-bart,152-ag-bb-m1936-dp_x3,Secondary Gun,2
+bb-richelieu_jean-bart,100-ag-cad-m1945_x12,Secondary Gun,3
+bb-richelieu_jean-bart,57-ag-acad-m1948_x14,AA Battery,4
+bb-richelieu_jean-bart,20-he-mk3_x20,AA Battery,5
+bb-dunkerque,330-ag-m1932_ab,Primary Gun,1
+bb-dunkerque,130-ag-m1932-quad_x3,Secondary Gun,2
+bb-dunkerque,130-ag-m1932-double_x2,Secondary Gun,2
+bb-dunkerque,37-cp-cad-m1933_x4,AA Battery,3
+bb-strasbourg,330-ag-m1932_ab,Primary Gun,1
+bb-strasbourg,130-ag-m1932-quad_x3,Secondary Gun,2
+bb-strasbourg,130-ag-m1932-double_x2,Secondary Gun,2
+bb-strasbourg,37-cp-cad-m1933_x4,AA Battery,3
+bb-strasbourg,13-cp-caq-m1929_x5,AA Battery,4
+bb-normandie,340-ag-m1912-quad_ary,Primary Gun,1
+bb-normandie,139-c-m1910_x24,Secondary Gun,2
+bb-normandie,47-p-m1902-ha_x6,Tertiary Gun,3
+bb-normandie,450-tt-hull_x6,,
+bb-normandie,placeholder_torpedo,,
+bb-bretagne,340-apc-m1912_abqxy,Primary Gun,1
+bb-bretagne,139-c-m1910_x22,Secondary Gun,2
+bb-bretagne,47-p-m1902-la_x7,Tertiary Gun,3
+bb-bretagne,450-tt-hull_x4-side,,
+bb-bretagne,placeholder_torpedo,,
+bb-courbet,305-ag-m1906-1910_abpsxy,Primary Gun,1
+bb-courbet,139-c-m1910_x22-alt,Secondary Gun,2
+bb-courbet,47-p-m1902-la_x4-fore,Tertiary Gun,3
+bb-courbet,450-tt-hull_x4-side,,
+bb-courbet,placeholder_torpedo,,
+pred-danton,305-ag-m1906_ay,Primary Gun,1
+pred-danton,240-ag-m1902_x6,Secondary Gun,2
+pred-danton,75-c-m1908_x16,Tertiary Gun,3
+pred-danton,47-p-m1902-la_x8,Tertiary Gun,4
+pred-danton,450-tt-hull_x2-side,,
+pred-danton,placeholder_torpedo,,
+pred-republique,305-ag-m1893-1896_ay,Primary Gun,1
+pred-republique,165-ag-m1893-1896-twin_x6,Secondary Gun,2
+pred-republique,165-c-m1893-1896_x6,Secondary Gun,2
+pred-republique,47-p-m1902-la_x25,Tertiary Gun,3
+pred-republique,450-tt-hull_x2-side,,
+pred-republique,placeholder_torpedo,,
+pred-liberte,305-ag-m1893-1896_ay,Primary Gun,1
+pred-liberte,194-ag-m1904_x6,Secondary Gun,2
+pred-liberte,194-c-m1904_x4,Secondary Gun,2
+pred-liberte,65-p-m1902_x13,Tertiary Gun,3
+pred-liberte,47-p-m1902-la_x10,Tertiary Gun,4
+pred-liberte,450-tt-hull_x2-side,,
+pred-liberte,placeholder_torpedo,,
+pred-suffren,305-ag-m1893-1896_ay,Primary Gun,1
+pred-suffren,165-ag-m1893-1896-single_x6,Secondary Gun,2
+pred-suffren,165-c-m1893-1896_x4,Secondary Gun,2
+pred-suffren,100-c-m1891_x8,Secondary Gun,2
+pred-suffren,47-p-m1885_x22,Tertiary Gun,3
+pred-suffren,37-p-mk6_x2,Tertiary Gun,4
+pred-suffren,450-tt-hull_x4-side,,
+pred-suffren,placeholder_torpedo,,
+pred-iena,305-ag-m1893-1896_ay,Primary Gun,1
+pred-iena,165-c-m1893-1896_x8,Secondary Gun,2
+pred-iena,100-p-m1891_x8,Secondary Gun,3
+pred-iena,47-p-m1885_x20,Tertiary Gun,4
+pred-iena,37-p-mk6_x4,Tertiary Gun,5
+pred-iena,450-tt-hull_x4-side,,
+pred-iena,placeholder_torpedo,,
+pred-henry-iv,274-ag-m1893-1895_ay,Primary Gun,1
+pred-henry-iv,139-ag-model-1893_x,Secondary Gun,2
+pred-henry-iv,139-c-model-1891_x4,Secondary Gun,2
+pred-henry-iv,139-cp-model-1891_x2,Secondary Gun,2
+pred-henry-iv,47-p-m1885_x12,Tertiary Gun,3
+pred-henry-iv,37-p-mk6_x2,Tertiary Gun,4
+pred-henry-iv,450-tt-hull_x2-side,,
+pred-henry-iv,placeholder_torpedo,,
+pred-bouvet,305-ag-m1893-single_ay,Primary Gun,1
+pred-bouvet,274-ag-m1887-1893_x2,Secondary Gun,2
+pred-bouvet,139-ag-model-1893_x8,Secondary Gun,3
+pred-bouvet,100-p-m1891_x8,Secondary Gun,4
+pred-bouvet,47-p-m1885_x12-mast,Tertiary Gun,5
+pred-bouvet,37-p-mk6_x5,Tertiary Gun,6
+pred-bouvet,37-p-revolver_x3,Tertiary Gun,6
+pred-bouvet,450-tt-hull_x4-side,,
+pred-bouvet,placeholder_torpedo,,
+pred-charlemagne,305-ag-m1893-1896_ay,Primary Gun,1
+pred-charlemagne,139-c-model-1891_x8,Secondary Gun,2
+pred-charlemagne,100-p-m1891_x8,Secondary Gun,3
+pred-charlemagne,47-p-m1885_x20-alt,Tertiary Gun,4
+pred-charlemagne,37-p-mk6_x4,Tertiary Gun,5
+pred-charlemagne,450-tt-hull_x4-side,,
+pred-charlemagne,placeholder_torpedo,,
+pred-massena,305-ag-m1893-single,Primary Gun,1
+pred-massena,274-ag-m1887-1893_x2,Secondary Gun,2
+pred-massena,139-ag-model-1893_x8,Secondary Gun,3
+pred-massena,100-p-m1891_x8,Secondary Gun,4
+pred-massena,47-p-m1885_x12-mast,Tertiary Gun,5
+pred-massena,37-p-mk6_x5,Tertiary Gun,6
+pred-massena,37-p-revolver-m1885_x3,Tertiary Gun,6
+pred-massena,450-tt-hull_x4-side,,
+pred-massena,placeholder_torpedo,,
+pred-jaureguiberry,305-ag-m1887-single_ay,Primary Gun,1
+pred-jaureguiberry,274-ag-m1887-1893_x2,Secondary Gun,2
+pred-jaureguiberry,139-ag-model-1887_x4,Secondary Gun,3
+pred-jaureguiberry,65-p-m1888_x4,Tertiary Gun,4
+pred-jaureguiberry,47-p-m1885_x12-alt,Tertiary Gun,5
+pred-jaureguiberry,37-p-mk6_x8,Tertiary Gun,6
+pred-jaureguiberry,37-p-revolver-m1885_x2,Tertiary Gun,6
+pred-jaureguiberry,450-tt-hull_x4-side,,
+pred-jaureguiberry,placeholder_torpedo,,
+pred-charles-martel,305-ag-m1887-single_ay,Primary Gun,1
+pred-charles-martel,274-ag-m1887-1893_x2,Secondary Gun,2
+pred-charles-martel,139-ag-model-1893_x8,Secondary Gun,3
+pred-charles-martel,65-p-m1888_x4,Tertiary Gun,4
+pred-charles-martel,47-p-m1885_x12-cm,Tertiary Gun,5
+pred-charles-martel,37-p-mk6_x8,Tertiary Gun,6
+pred-charles-martel,37-p-revolver-m1885_x2,Tertiary Gun,6
+pred-charles-martel,450-tt-hull_x4-side,,
+pred-charles-martel,placeholder_torpedo,,
+pred-carnot,305-ag-m1887-single_ay,Primary Gun,1
+pred-carnot,274-ag-m1887-1893_x2,Secondary Gun,2
+pred-carnot,139-ag-model-1893_x8,Secondary Gun,3
+pred-carnot,65-p-m1888_x4,Tertiary Gun,4
+pred-carnot,47-p-m1885_x12-c,Tertiary Gun,5
+pred-carnot,37-p-revolver-m1885_x4,Tertiary Gun,6
+pred-carnot,450-tt-hull_x4-side,,
+pred-carnot,placeholder_torpedo,,
