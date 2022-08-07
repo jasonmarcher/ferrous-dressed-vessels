@@ -96,3 +96,5 @@ https://www.militaryfactory.com/ships/navy-warships-and-submarines-by-country.ph
 https://www.battleships-cruisers.co.uk/index.htm
 
 https://laststandonzombieisland.com/tag/warship-wednesday/
+
+http://3dhistory.de/wordpress/warship-drawings-warship-blue-prints-warship-plans/french-battleship-drawingsplan-sets-newest-first/
