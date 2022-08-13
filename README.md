@@ -98,3 +98,7 @@ https://www.battleships-cruisers.co.uk/index.htm
 https://laststandonzombieisland.com/tag/warship-wednesday/
 
 http://3dhistory.de/wordpress/warship-drawings-warship-blue-prints-warship-plans/french-battleship-drawingsplan-sets-newest-first/
+
+https://fdra-naval.blogspot.com/
+
+https://alldrawings.ru/en/pictures/category/ships
