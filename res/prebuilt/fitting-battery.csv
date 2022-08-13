@@ -14,11 +14,11 @@ bb-iowa_wisconsin,20-p-mk24_x2,20-he-mk3,AA Battery,4
 bb-iowa_wisconsin,20-p-mk6_x49,20-he-mk3,AA Battery,4
 bb-north-carolina,406-ag-3_abx,406-ap-mk8,Primary Gun,1
 bb-north-carolina,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
-bb-north-carolina,28-p-quad_x12,28-het-mk1,AA Battery,3
+bb-north-carolina,28-p-quad_x4,28-het-mk1,AA Battery,3
 bb-north-carolina,12-p-mk3_x12,12-b-us,AA Battery,4
 bb-south-dakota_design,406-ag-3_abx,406-ap-mk8,Primary Gun,1
 bb-south-dakota_design,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
-bb-south-dakota_design,28-p-quad_x12,28-het-mk1,AA Battery,3
+bb-south-dakota_design,28-p-quad_x3,28-het-mk1,AA Battery,3
 bb-south-dakota_design,12-p-mk3_x12,12-b-us,AA Battery,4
 bb-south-dakota_south-dakota,406-ag-3_abx,406-ap-mk8,Primary Gun,1
 bb-south-dakota_south-dakota,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
@@ -258,7 +258,7 @@ bb-nelson,47-p-markiv-ha_x6,47-he-uk,AA Battery,4
 bb-nelson,40-p-markii_x8,40-he-uk,AA Battery,5
 bb-nelson,622-tt-hull_x2-side,,,
 bb-nelson,placeholder_torpedo,,,
-bc-admiral,381-ag-markii_abxy,381-apc-markxiia,Primary Gun,1
+bc-admiral,381-ag-markii_abxy,381-apc-markva,Primary Gun,1
 bc-admiral,140-cpii_x12,140-cpc-uk,Secondary Gun,2
 bc-admiral,102-cp-ha-markiii_x4,102-he-uk,AA Battery,3
 bc-admiral,47-p-markiv-ha_x4-side,47-he-uk,AA Battery,4
@@ -269,20 +269,20 @@ bc-furious,140-pi*_x11,140-cpc-uk,Secondary Gun,2
 bc-furious,76-cp-ha-markii_x2-furious,76-he-uk-early,AA Battery,3
 bc-furious,533-tt-hull_x2-side,,,
 bc-furious,placeholder_torpedo,,,
-bc-courageous,381-ag-marki_ay,381-apc-markxiia,Primary Gun,1
+bc-courageous,381-ag-marki_ay,381-apc-markia,Primary Gun,1
 bc-courageous,102-gs-ti-marki_x6,102-he-uk,Secondary Gun,2
 bc-courageous,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,3
 bc-courageous,47-p-markiv-ha_x2,47-he-uk,Security Gun,4
 bc-courageous,533-tt-hull_x2-side,,,
 bc-courageous,placeholder_torpedo,,,
-bc-renown,381-ag-marki_aby,381-apc-markxiia,Primary Gun,1
+bc-renown,381-ag-marki_aby,381-apc-markia,Primary Gun,1
 bc-renown,102-gs-ti-marki_x5,102-he-uk,Secondary Gun,2
 bc-renown,102-gs-ti-marki_x2,102-he-uk,Secondary Gun,3
 bc-renown,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,4
 bc-renown,47-p-markiv-ha_x6,47-he-uk,Security Gun,5
 bc-renown,533-tt-hull_x2-side,,,
 bc-renown,placeholder_torpedo,,,
-bb-revenge,381-ag-markii_abxy,381-apc-markxiia,Primary Gun,1
+bb-revenge,381-ag-markii_abxy,381-apc-markia,Primary Gun,1
 bb-revenge,152-c-pix_x14,152-cpbc-2crh,Secondary Gun,2
 bb-revenge,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,3
 bb-revenge,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,4
@@ -371,7 +371,7 @@ bc-indefatigable,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
 bc-indefatigable,533-tt-hull_x3-aft,,,
 bc-indefatigable,placeholder_torpedo,,,
 bc-invincible,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
-bc-invincible,102-cp-pi_x16-turret,,Secondary Gun,2
+bc-invincible,102-cp-pi_x16-turret,102-he-wwi-uk,Secondary Gun,2
 bc-invincible,7-mg-maxim-marki_x7,7-s-303-british,Security Gun,3
 bc-invincible,450-tt-hull_x5-aft,,,
 bc-invincible,placeholder_torpedo,,,
@@ -870,3 +870,209 @@ pred-carnot,47-p-m1885_x12-c,47-he-fra,Tertiary Gun,5
 pred-carnot,37-p-revolver-m1885_x4,37-com-mk4,Tertiary Gun,6
 pred-carnot,450-tt-hull_x4-side,,,
 pred-carnot,placeholder_torpedo,,,
+bb-littorio,381-ag-m1934_aby,381-apc-ita,Primary Gun,1
+bb-littorio,152-ag-m1934_x4,152-ap-ita,Secondary Gun,2
+bb-littorio,120-cp-m1891_x4-illum,,Tertiary Gun,3
+bb-littorio,90-ag-m1938_x12,90-he-aa-ita,AA Battery,4
+bb-littorio,37-cp-1932_x8,37-he-ita,AA Battery,5
+bb-littorio,37-cp-1939_x4,37-he-ita,AA Battery,5
+bb-littorio,20-sm-m1935_x8,20-he-ita,AA Battery,6
+bb-littorio_littorio-1942,381-ag-m1934_aby,381-apc-ita,Primary Gun,1
+bb-littorio_littorio-1942,152-ag-m1934_x4,152-ap-ita,Secondary Gun,2
+bb-littorio_littorio-1942,120-cp-m1891_x4-illum,,Tertiary Gun,3
+bb-littorio_littorio-1942,90-ag-m1938_x12,90-he-aa-ita,AA Battery,4
+bb-littorio_littorio-1942,37-cp-1932_x8,37-he-ita,AA Battery,5
+bb-littorio_littorio-1942,37-cp-1939_x4,37-he-ita,AA Battery,5
+bb-littorio_littorio-1942,20-sm-m1935_x14,20-he-ita,AA Battery,6
+bb-littorio_vittorio-veneto-1942,381-ag-m1934_aby,381-apc-ita,Primary Gun,1
+bb-littorio_vittorio-veneto-1942,152-ag-m1934_x4,152-ap-ita,Secondary Gun,2
+bb-littorio_vittorio-veneto-1942,120-cp-m1891_x4-illum,,Tertiary Gun,3
+bb-littorio_vittorio-veneto-1942,90-ag-m1938_x12,90-he-aa-ita,AA Battery,4
+bb-littorio_vittorio-veneto-1942,37-cp-1932_x8,37-he-ita,AA Battery,5
+bb-littorio_vittorio-veneto-1942,37-cp-1939_x4,37-he-ita,AA Battery,5
+bb-littorio_vittorio-veneto-1942,20-sm-m1935_x16,20-he-ita,AA Battery,6
+bb-francesco-caracciolo_francesco-caracciolo,381-ag-a1914_abxy,381-ap-ita,Primary Gun,1
+bb-francesco-caracciolo_francesco-caracciolo,152-c-a1918_x12,152-ap-ita,Secondary Gun,2
+bb-francesco-caracciolo_francesco-caracciolo,102-cp-a1917_x8,102-he-ita,Tertiary Gun,3
+bb-francesco-caracciolo_francesco-caracciolo,40-cp-v1917_x12,40-he-ita,Tertiary Gun,4
+bb-francesco-caracciolo_francesco-caracciolo,450-tt-hull_x8-side,,,
+bb-francesco-caracciolo_francesco-caracciolo,placeholder_torpedo,,,
+bb-francesco-caracciolo_marcantonio-colonna,381-ag-v1914_abxy,381-ap-ita,Primary Gun,1
+bb-francesco-caracciolo_marcantonio-colonna,152-c-a1918_x12,152-ap-ita,Secondary Gun,2
+bb-francesco-caracciolo_marcantonio-colonna,102-cp-a1917_x8,102-he-ita,Tertiary Gun,3
+bb-francesco-caracciolo_marcantonio-colonna,40-cp-v1917_x12,40-he-ita,Tertiary Gun,4
+bb-francesco-caracciolo_marcantonio-colonna,450-tt-hull_x8-side,,,
+bb-francesco-caracciolo_marcantonio-colonna,placeholder_torpedo,,,
+bb-francesco-caracciolo_cristoforo-colombo,381-ag-an1914_abxy,381-ap-ita,Primary Gun,1
+bb-francesco-caracciolo_cristoforo-colombo,152-c-a1918_x12,152-ap-ita,Secondary Gun,2
+bb-francesco-caracciolo_cristoforo-colombo,102-cp-a1917_x8,102-he-ita,Tertiary Gun,3
+bb-francesco-caracciolo_cristoforo-colombo,40-cp-v1917_x12,40-he-ita,Tertiary Gun,4
+bb-francesco-caracciolo_cristoforo-colombo,450-tt-hull_x8-side,,,
+bb-francesco-caracciolo_cristoforo-colombo,placeholder_torpedo,,,
+bb-andrea-doria,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
+bb-andrea-doria,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
+bb-andrea-doria,152-c-m1911_x16,152-ap-ita-early,Secondary Gun,2
+bb-andrea-doria,76-p-v1909_x18,76-ap-ita,Tertiary Gun,3
+bb-andrea-doria,450-tt-hull_x3-aft,,,
+bb-andrea-doria,placeholder_torpedo,,,
+bb-conte-di-cavour,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
+bb-conte-di-cavour,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
+bb-conte-di-cavour,120-c-vickers-bl_x18,120-he-ita,Secondary Gun,2
+bb-conte-di-cavour,76-p-v1909_x18,76-ap-ita,Tertiary Gun,3
+bb-conte-di-cavour,450-tt-hull_x3-aft,,,
+bb-conte-di-cavour,placeholder_torpedo,,,
+bb-dante-aligieri,305-bg-e1909-tripple_aqry,305-apc-ita,Primary Gun,1
+bb-dante-aligieri,120-ag-vickers-bl_x4,120-he-ita,Secondary Gun,2
+bb-dante-aligieri,120-c-vickers-bl_x12,120-he-ita,Secondary Gun,2
+bb-dante-aligieri,76-p-a1909_x13,76-ap-ita,Tertiary Gun,3
+bb-dante-aligieri,450-tt-hull_x3-aft,,,
+bb-dante-aligieri,placeholder_torpedo,,,
+pred-regina-elena,305-ag-elswick-i-single_ay,305-apc-ita-early,Primary Gun,1
+pred-regina-elena,203-ag-elswick-w_x6,203-ap-ita,Secondary Gun,2
+pred-regina-elena,76-p-a1909_x16,76-ap-ita,Tertiary Gun,3
+pred-regina-elena,450-tt-hull_x2-side,,,
+pred-regina-elena,placeholder_torpedo,,,
+pred-regina-elena_roma,305-ag-elswick-i-single_ay,305-apc-ita-early,Primary Gun,1
+pred-regina-elena_roma,203-ag-elswick-w-twin_x6,203-ap-ita,Secondary Gun,2
+pred-regina-elena_roma,76-p-a1909_x24,76-ap-ita,Tertiary Gun,3
+pred-regina-elena_roma,450-tt-hull_x2-side,,,
+pred-regina-elena_roma,placeholder_torpedo,,,
+pred-regina-margherita,305-ag-elswick-i-twin_ay,305-apc-ita-early,Primary Gun,1
+pred-regina-margherita,203-c-elswick-w_x4,203-ap-ita,Secondary Gun,2
+pred-regina-margherita,152-c-a91_x12,152-com-mod1,Secondary Gun,3
+pred-regina-margherita,76-p-a1909_x20,76-ap-ita,Tertiary Gun,4
+pred-regina-margherita,47-p-m1886_x2,47-com-mk4,Tertiary Gun,5
+pred-regina-margherita,37-p-m1884_x2,37-he-ita-early,Tertiary Gun,6
+pred-regina-margherita,450-tt-hull_x4-side,,,
+pred-regina-margherita,placeholder_torpedo,,,
+pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,254-ag-elswick-r_ay,254-ap-eoc,Primary Gun,1
+pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,152-c-a91_x8,152-com-mod1,Secondary Gun,2
+pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,120-cp-m1889_x8,120-com-uk,Tertiary Gun,3
+pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,57-p-n1885_x8,57-ap-nord,Tertiary Gun,4
+pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,37-p-m1884_x2,37-he-ita-early,Security Gun,5
+pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,450-tt-hull_x4-side,,,
+pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,placeholder_torpedo,,,
+pred-ammiraglio-di-saint-bon_emanuele-filiberto,254-ag-elswick-r_ay,254-ap-eoc,Primary Gun,1
+pred-ammiraglio-di-saint-bon_emanuele-filiberto,152-c-a91_x8,152-com-mod1,Secondary Gun,2
+pred-ammiraglio-di-saint-bon_emanuele-filiberto,120-cp-m1889_x8,120-com-uk,Tertiary Gun,3
+pred-ammiraglio-di-saint-bon_emanuele-filiberto,76-p-elswick-n_x6,76-he-13-uk,Tertiary Gun,4
+pred-ammiraglio-di-saint-bon_emanuele-filiberto,47-p-m1886_x8,47-com-mk4,Tertiary Gun,5
+pred-ammiraglio-di-saint-bon_emanuele-filiberto,450-tt-hull_x4-side,,,
+pred-ammiraglio-di-saint-bon_emanuele-filiberto,placeholder_torpedo,,,
+bb-sovetsky-soyuz,406-ag-mk-1_aby,406-ap-m1915/28,Primary Gun,1
+bb-sovetsky-soyuz,152-ag-mk-4_x6,152-ap-rus,Secondary Gun,2
+bb-sovetsky-soyuz,100-ag-mz-14_x6,100-he-f56_100-aa,AA Battery,3
+bb-sovetsky-soyuz,37-ag-46k_x8,37-he-frag-rus,AA Battery,4
+bb-imperator-nikolai-i,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-imperator-nikolai-i,130-c-p1913_x20,130-he-m1911,Secondary Gun,2
+bb-imperator-nikolai-i,63-p-p1916_x4,63-he-rus,AA Battery,3
+bb-imperator-nikolai-i,7-p-mg01_x8,7-b-79-mauser,AA Battery,4
+bb-imperator-nikolai-i,450-tt-hull_x4-side,,,
+bb-imperator-nikolai-i,placeholder_torpedo,,,
+bb-imperatritsa-mariya,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-imperatritsa-mariya,130-c-p1913_x20,130-he-m1911,Secondary Gun,2
+bb-imperatritsa-mariya,75-p-osz-m1911_x4,75-he-m1907,Tertiary Gun,3
+bb-imperatritsa-mariya,47-p-1_x4,47-he-rus,Tertiary Gun,4
+bb-imperatritsa-mariya,7-p-mg01_x4,7-b-79-mauser,AA Battery,5
+bb-imperatritsa-mariya,450-tt-hull_x4-side,,,
+bb-imperatritsa-mariya,placeholder_torpedo,,,
+bb-imperatritsa-mariya_imperatritsa-yekaterina-velikaya,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-imperatritsa-mariya_imperatritsa-yekaterina-velikaya,130-c-p1913_x20,130-he-m1911,Secondary Gun,2
+bb-imperatritsa-mariya_imperatritsa-yekaterina-velikaya,75-p-osz-m1911_x3,75-he-m1907,Tertiary Gun,3
+bb-imperatritsa-mariya_imperatritsa-yekaterina-velikaya,47-p-1_x4,47-he-rus,Tertiary Gun,4
+bb-imperatritsa-mariya_imperatritsa-yekaterina-velikaya,7-p-mg01_x4,7-b-79-mauser,AA Battery,5
+bb-imperatritsa-mariya_imperatritsa-yekaterina-velikaya,450-tt-hull_x4-side,,,
+bb-imperatritsa-mariya_imperatritsa-yekaterina-velikaya,placeholder_torpedo,,,
+bb-imperatritsa-mariya_imperator-alexandr-iii,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-imperatritsa-mariya_imperator-alexandr-iii,130-c-p1913_x18,130-he-m1911,Secondary Gun,2
+bb-imperatritsa-mariya_imperator-alexandr-iii,75-p-osz-m1911_x8,75-he-m1907,Tertiary Gun,3
+bb-imperatritsa-mariya_imperator-alexandr-iii,47-p-1_x4,47-he-rus,Tertiary Gun,4
+bb-imperatritsa-mariya_imperator-alexandr-iii,7-p-mg01_x4,7-b-79-mauser,AA Battery,5
+bb-imperatritsa-mariya_imperator-alexandr-iii,450-tt-hull_x4-side,,,
+bb-imperatritsa-mariya_imperator-alexandr-iii,placeholder_torpedo,,,
+bb-gangut,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-gangut,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-gangut,47-p-1_x4,47-he-rus,Tertiary Gun,3
+bb-gangut,450-tt-hull_x4-side,,,
+bb-gangut,placeholder_torpedo,,,
+pred-evstafi,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-evstafi,203-c-p1905-c_x4,203-he-m1907,Secondary Gun,2
+pred-evstafi,152-c-p1892_x12,152-ap-old-model-rus,Secondary Gun,3
+pred-evstafi,75-p-osz-m1911_x14,75-he-m1907,Tertiary Gun,4
+pred-evstafi,7-p-mg01_x4,7-b-79-mauser,Security Gun,5
+pred-evstafi,450-tt-hull_x2-side,,,
+pred-evstafi,placeholder_torpedo,,,
+pred-andrei-pervozvanny,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-andrei-pervozvanny,203-ag-p1905-t_x4,203-he-m1907,Secondary Gun,2
+pred-andrei-pervozvanny,203-c-p1905-c_x6,203-he-m1907,Secondary Gun,3
+pred-andrei-pervozvanny,120-c-p1892_x12,120-he-m1907,Tertiary Gun,4
+pred-andrei-pervozvanny,7-p-mg01_x6,7-b-79-mauser,Security Gun,5
+pred-andrei-pervozvanny,450-tt-hull_x2-side,,,
+pred-andrei-pervozvanny,placeholder_torpedo,,,
+pred-borodino,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-borodino,152-ag-p1892_x6,152-ap-old-model-rus,Secondary Gun,2
+pred-borodino,75-c-m1906_x20,75-he-m1907,Tertiary Gun,3
+pred-borodino,47-p-1_x20,47-he-rus,Tertiary Gun,4
+pred-borodino,7-p-mg01_x8,7-b-79-mauser,Security Gun,5
+pred-borodino,381-tt-hull_x4,,,
+pred-borodino,placeholder_torpedo,,,
+pred-retvizan,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred-retvizan,152-c-p1892_x12-alt,152-ap-old-model-rus,Secondary Gun,2
+pred-retvizan,75-c-m1906_x20,75-he-m1907,Tertiary Gun,3
+pred-retvizan,47-p-1_x24,47-he-rus,Tertiary Gun,4
+pred-retvizan,37-p-m1884_x8,37-he-rus-early,Tertiary Gun,5
+pred-retvizan,7-p-mg01_x2,7-b-79-mauser,Security Gun,6
+pred-retvizan,450-tt-hull_x6-fore-aft,,,
+pred-retvizan,placeholder_torpedo,,,
+pred-tsesarevich,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred-tsesarevich,152-ag-p1892_x6,152-ap-old-model-rus,Secondary Gun,2
+pred-tsesarevich,75-c-m1906_x12,75-he-m1907,Tertiary Gun,3
+pred-tsesarevich,75-p-p1906_x8,75-he-m1907,Tertiary Gun,3
+pred-tsesarevich,47-p-1_x20-mast,47-he-rus,Tertiary Gun,4
+pred-tsesarevich,37-p-m1884_x8,37-he-rus-early,Tertiary Gun,5
+pred-tsesarevich,7-p-mg01_x4,7-b-79-mauser,Security Gun,6
+pred-tsesarevich,381-tt-hull_x4,,,
+pred-tsesarevich,placeholder_torpedo,,,
+pred-potemkin,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred-potemkin,152-c-p1892_x16,152-ap-old-model-rus,Secondary Gun,2
+pred-potemkin,75-c-m1906_x10,75-he-m1907,Tertiary Gun,3
+pred-potemkin,75-p-p1906_x4-fore-aft,75-he-m1907,Tertiary Gun,3
+pred-potemkin,47-p-1_x6-mast,47-he-rus,Tertiary Gun,4
+pred-potemkin,381-tt-hull_x5-bow,,,
+pred-potemkin,placeholder_torpedo,,,
+pred-peresvet,254-ag-p1891-ha_ay,254-ap-rus,Primary Gun,1
+pred-peresvet,152-c-p1892_x11,152-ap-old-model-rus,Secondary Gun,2
+pred-peresvet,75-c-m1906_x16,75-he-m1907,Tertiary Gun,3
+pred-peresvet,75-p-p1906_x4,75-he-m1907,Tertiary Gun,3
+pred-peresvet,47-p-1_x20-mast-alt,47-he-rus,Tertiary Gun,4
+pred-peresvet,37-p-m1884_x8-side,37-he-rus-early,Tertiary Gun,5
+pred-peresvet,381-tt-hull_x5-bow,,,
+pred-peresvet,placeholder_torpedo,,,
+pred-rostislav,254-ag-p1891-la_ay,254-ap-rus,Primary Gun,1
+pred-rostislav,152-ag-p1892_x4,152-ap-old-model-rus,Secondary Gun,2
+pred-rostislav,47-p-1_x12,47-he-rus,Tertiary Gun,3
+pred-rostislav,37-p-m1884_x16-mast,37-he-rus-early,Tertiary Gun,4
+pred-rostislav,381-tt-hull_x6,,,
+pred-rostislav,placeholder_torpedo,,,
+pred-petropavlovsk,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred-petropavlovsk,152-ag-p1892_x4,152-ap-old-model-rus,Secondary Gun,2
+pred-petropavlovsk,152-c-p1892_x4-side,152-ap-old-model-rus,Secondary Gun,2
+pred-petropavlovsk,47-p-1_x12-alt,47-he-rus,Tertiary Gun,3
+pred-petropavlovsk,37-p-m1884_x28,37-he-rus-early,Tertiary Gun,4
+pred-petropavlovsk,450-tt-hull_x2-side,,,
+pred-petropavlovsk,381-tt-hull_x4,,,
+pred-petropavlovsk,placeholder_torpedo,,,
+pred-sissoi-veliky,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred-sissoi-veliky,152-c-p1892_x6-side,152-ap-old-model-rus,Secondary Gun,2
+pred-sissoi-veliky,47-p-1_x12,47-he-rus,Tertiary Gun,3
+pred-sissoi-veliky,37-p-m1884_x8-mast,37-he-rus-early,Tertiary Gun,4
+pred-sissoi-veliky,37-p-revolver_x4,37-he-rus-early,Tertiary Gun,4
+pred-sissoi-veliky,381-tt-hull_x6,,,
+pred-sissoi-veliky,placeholder_torpedo,,,
+pred-tri-sviatitelia,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred-tri-sviatitelia,152-c-p1892_x8-side,152-ap-old-model-rus,Secondary Gun,2
+pred-tri-sviatitelia,120-c-p1892_x4,120-he-m1907,Tertiary Gun,3
+pred-tri-sviatitelia,47-p-1_x10-aft,47-he-rus,Tertiary Gun,4
+pred-tri-sviatitelia,37-p-m1884_x40-mast-2,37-he-rus-early,Tertiary Gun,5
+pred-tri-sviatitelia,381-tt-hull_x6,,,
+pred-tri-sviatitelia,placeholder_torpedo,,,
