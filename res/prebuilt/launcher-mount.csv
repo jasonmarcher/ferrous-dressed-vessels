@@ -1,13 +1,14 @@
 MountID,MountName,MountNation,MountType,NumberOfLaunchers,MagazineSize,LauncherSource
-dct-mk6-mk8,DCT Mark 6 (K-Gun),usa,Fixed,1,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Marks_6_and_9
-dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,8,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_32
 622-tt-hull,Unknown 622mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 610-tt-hull,Unknown 610mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 600-tt-hull,Unknown 600mm Hull Mount Torpedo Tube,_,Fixed,1,1,
-533-tt-mk15-quint,533mm Mark 15 Quintuple Tubes,usa,Mount,5,1,https://en.wikipedia.org/wiki/Mark_15_torpedo
 533-tt-hull,Unknown 533mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 500-tt-hull,Unknown 500mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 450-tt-hull,Unknown 450mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 381-tt-hull,Unknown 381mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 356-tt-hull,Unknown 356mm Hull Mount Torpedo Tube,_,Fixed,1,1,
+533-tt-quad,Unknown 533mm Quad Mount Torpedo Tube,-,Mount,4,1,
 178-up,"7"" UP Launcher",britain,Mount,20,1,https://en.wikipedia.org/wiki/Unrotated_Projectile#7-inch_rocket
+dct-mk6-mk8,DCT Mark 6 (K-Gun),usa,Fixed,1,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Marks_6_and_9
+dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,8,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_32
+533-tt-mk15-quint,533mm Mark 15 Quintuple Tubes,usa,Mount,5,1,https://en.wikipedia.org/wiki/Mark_15_torpedo
