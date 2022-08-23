@@ -26,7 +26,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 343-bg-markv-h,"13.5""/45 Mark V (H)","Vickers 13.5""",britain,1909-01-01,343,45,76102,2,1.5,Breech,759,0,100,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
 343-bg-bl-markvi,"13.5""/45 BL Mark VI","Vickers 13.5""",britain,1909-01-01,343,45,77829,2,1.5,Breech,745,0,80,http://www.navweaps.com/Weapons/WNBR_135-45_mk6.php
 343-bg-marki,"13.5""/30 Mark I","British 13.5""",britain,1880-01-01,343,25,69000,0.5,0.3,Breech,614,0,80,http://www.navweaps.com/Weapons/WNBR_135-30_mk1.php
-318-ml-rml-38ton-marki,"12.5""/16 RML 38-ton Mark I",Royal Gun Factory 36-ton,britain,1874-01-01,317.5,16,38600,,,Muzzle,434,0,,https://en.wikipedia.org/wiki/RML_12.5-inch_38-ton_gun
+318-ml-rml-38ton-marki,"12.5""/16 RML 38-ton Mark I",Royal Gun Factory 36-ton,britain,1874-01-01,317.5,16,38600,0.3,0.3,Muzzle,434,0,,https://en.wikipedia.org/wiki/RML_12.5-inch_38-ton_gun
 305-bg-vsm-markh,30.5cm/50 VSM Mark H,"Vickers 12""",britain,1910-01-01,305,50,66000,1.5,1,Breech,894,0,100,http://www.navweaps.com/Weapons/WNSpain_12-50_vsm.php
 305-bg-markxi,"12""/50 Mark XI","Vickers 12""",britain,1906-01-01,305,50,67770,1.5,1,Breech,869,0,100,http://www.navweaps.com/Weapons/WNBR_12-50_mk11.php
 305-bg-armstrong-vickers,"12""/50 Armstrong/Vickers","Armstrong/Vickers 12""",britain,1905-01-01,305,50,68000,2,1.8,Breech,869,0,100,http://www.navweaps.com/Weapons/WNJAP_12-50_EA.php
@@ -43,10 +43,10 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 305-bg-markviii-maj,"12""/35 BL Mark VIII (Majestic","British 12""",britain,1890-01-01,305,35,47000,0.86,0.6,Breech,716,0,80,http://www.navweaps.com/Weapons/WNBR_12-35_mk8.php
 305-bg-markviii,"12""/35 BL Mark VIII","British 12""",britain,1890-01-01,305,35,47000,1.33,0.9,Breech,716,0,80,http://www.navweaps.com/Weapons/WNBR_12-35_mk8.php
 305-bg-markii,"12""/25 BL Mark II","Woolwich 12""",britain,1882-01-01,305,25,44500,0.5,0.3,Breech,583,0,85,http://www.navweaps.com/Weapons/WNBR_12-25_mk1.php
-305-ml-rml-38ton,"12""/17 RML 38-ton",Royal Gun Factory 36-ton,britain,1874-01-01,304.8,17,38600,,,Muzzle,434,0,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
-305-ml-rml-35ton,"12""/12 RML 35-ton",Royal Gun Factory 35-ton,britain,1871-01-01,304.8,12,36000,,,Muzzle,420,0,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
+305-ml-rml-38ton,"12""/17 RML 38-ton",Royal Gun Factory 36-ton,britain,1874-01-01,304.8,17,38600,0.4,0.3,Muzzle,434,0,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
+305-ml-rml-35ton,"12""/12 RML 35-ton",Royal Gun Factory 35-ton,britain,1871-01-01,304.8,12,36000,0.4,0.3,Muzzle,420,0,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
 305-ml-rml-25ton-marki,"12""/12 RML 25-ton Mark I",Royal Gun Factory 25-ton,britain,1864-01-01,304.8,12,23900,0.4,0.4,Muzzle,400,0,,https://en.wikipedia.org/wiki/RML_12-inch_25-ton_gun
-279-ml-rml-25ton-marki,"11""/12 RML 25-ton Mark I",Woolwich 25-ton,britain,1865-01-01,279.4,12,25000,,,Muzzle,410,0,,https://en.wikipedia.org/wiki/RML_11-inch_25-ton_gun
+279-ml-rml-25ton-marki,"11""/12 RML 25-ton Mark I",Woolwich 25-ton,britain,1865-01-01,279.4,12,25000,0.3,0.3,Muzzle,410,0,,https://en.wikipedia.org/wiki/RML_11-inch_25-ton_gun
 254-bg-41st-year,"10""/45 41st Year Type","Vickers 10""",britain,1905-01-01,254,45,22500,2,1.5,Breech,810,0,,http://www.navweaps.com/Weapons/WNJAP_10-45_Vickers.php
 254-bg-markvii-vickers-a,"10""/45 Mark VII Vickers A","British 10""",britain,1901-01-01,254,45,31500,2,1.5,Breech,810,0,86,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
 254-bg-markvi-elswick-s,"10""/45 Mark VI Elswick S","British 10""",britain,1901-01-01,254,45,40000,3,2,Breech,810,0,86,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
@@ -57,9 +57,9 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 234-bg-markx,"9.2""/47 Mark X","British 9.2""",britain,1901-01-01,234,47,28670,3,2,Breech,847,0,150,http://www.navweaps.com/Weapons/WNBR_92-47_mk10.php
 233-ml-100pdr-somerset,"9.2""/15 100-pdr Somerset",Somerset 100-pdr,britain,,233,15,6500,,,Muzzle,,0,,https://en.wikipedia.org/wiki/Somerset_cannon
 229-ml-rml-12ton-marki,"9""/14 RML 12-ton Mark I",Woolwich 12-ton,britain,1865-01-01,228.6,14,12000,,,Muzzle,430,0,,https://en.wikipedia.org/wiki/RML_9-inch_12-ton_gun
-206-ml-68pdr-95cwt,"8""/15 68-pdr 95 cwt",Dundas 68-pdr,britain,1846-01-01,206.2,14.8,4877,,,Muzzle,481,0,,https://en.wikipedia.org/wiki/68-pounder_gun
-240-ml-8inch-65cwt,204.5mm/13 ML 8-inch 65 cwt Shell Gun,"Millar 8""",britain,1838-01-01,204.5,13,3300,,,Muzzle,446,0,,https://en.wikipedia.org/wiki/ML_8-inch_shell_gun
-203-ml-rml-9ton-marki,"8""/15 RML 9-ton Mark I",Woolwich 9-ton,britain,1866-01-01,203.2,15,9100,,,Muzzle,430,0,,https://en.wikipedia.org/wiki/RML_8-inch_9-ton_gun
+206-ml-68pdr-95cwt,"8""/15 68-pdr 95 cwt",Dundas 68-pdr,britain,1846-01-01,206.2,14.8,4877,0.33,0.33,Muzzle,481,0,,https://en.wikipedia.org/wiki/68-pounder_gun
+240-ml-8inch-65cwt,204.5mm/13 ML 8-inch 65 cwt Shell Gun,"Millar 8""",britain,1838-01-01,204.5,13,3300,0.33,0.33,Muzzle,446,0,,https://en.wikipedia.org/wiki/ML_8-inch_shell_gun
+203-ml-rml-9ton-marki,"8""/15 RML 9-ton Mark I",Woolwich 9-ton,britain,1866-01-01,203.2,15,9100,0.33,0.33,Muzzle,430,0,,https://en.wikipedia.org/wiki/RML_8-inch_9-ton_gun
 203-bg-p1905-t,203mm/50 Pattern 1905,"Vickers 8""",britain,1905-01-01,203,49,14397,3,3,Breech,807,0,200,http://www.navweaps.com/Weapons/WNRussian_8-50_m1905.php
 203-bg-p1905-c,"8""/50 Pattern 1905","Vickers 8""",britain,1905-01-01,203,49,14397,4,4,Breech,807,0,200,http://www.navweaps.com/Weapons/WNRussian_8-50_m1905.php
 203-bg-elswick-w,"8""/45 Elswick W","Elswick 8""",britain,1890-01-01,203,45,19400,2,2,Breech,790,0,,http://www.navweaps.com/Weapons/WNIT_8-45_EOC.php
@@ -69,8 +69,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 178-bg-rbl-110pdr-82cwt,"7""/14 RBL 110-pdr 82 cwt",Armstrong 110-pdr,britain,1861-01-01,177.8,14.2,4165,,,Breech,350,0,,https://en.wikipedia.org/wiki/RBL_7-inch_Armstrong_gun
 178-ml-rml-6ton-armstrong,"7""/16 RML 6.5-ton Armstrong","Royal Gun Factory 7""",britain,1865-01-01,177.8,13.7,6290,,,Muzzle,466,0,,https://en.wikipedia.org/wiki/RML_7-inch_gun
 161-ml-32pdr-42cwt,"6.4""/15 32-pdr 42 cwt",Monk gun C,britain,1838-01-01,161.3,15,2134,0.5,0.33,Muzzle,487,0,,https://en.wikipedia.org/wiki/32-pounder_gun#32-pounder_42_cwt_Medium_Gun_C_by_Monk
-160-ml-rml-64pdr-64cwt-markiii,160mm/15.5 RML 64-pdr 64 cwt Mark III,Woolwich 64-pdr,britain,1971-01-01,160,15.5,3300,,,Muzzle,420,0,,https://en.wikipedia.org/wiki/RML_64-pounder_64_cwt_gun
-160-ml-rml-64pdr-64cwt-marki,160mm/15.5 RML 64-pdr 64 cwt Mark I,Woolwich 64-pdr,britain,1864-01-01,160,15.5,3300,,,Muzzle,382,0,,https://en.wikipedia.org/wiki/RML_64-pounder_64_cwt_gun
+160-ml-rml-64pdr-64cwt-markiii,160mm/15.5 RML 64-pdr 64 cwt Mark III,Woolwich 64-pdr,britain,1971-01-01,160,15.5,3300,0.33,0.33,Muzzle,420,0,,https://en.wikipedia.org/wiki/RML_64-pounder_64_cwt_gun
+160-ml-rml-64pdr-64cwt-marki,160mm/15.5 RML 64-pdr 64 cwt Mark I,Woolwich 64-pdr,britain,1864-01-01,160,15.5,3300,0.33,0.33,Muzzle,382,0,,https://en.wikipedia.org/wiki/RML_64-pounder_64_cwt_gun
 160-ml-rml-64pdr-71cwt,160mm/16.4 RML 64-pdr 71 cwt,"Millar 8""",britain,1870-01-01,159.8,16.4,3300,0.33,0.33,Muzzle,370,0,,https://en.wikipedia.org/wiki/RML_64-pounder_71_cwt_gun
 152-bg-bl-markxxii,"6""/50 BL Mark XXII","British 6""",britain,1921-01-01,152,50,9175,5,4,Breech,898,0,150,http://www.navweaps.com/Weapons/WNBR_6-50_mk22.php
 152-bg-a1918,152mm/50 Armstrong Model 1918,"Armstrong 6""",britain,1918-01-01,152,50,,5,4,Breech,850,0,,https://en.wikipedia.org/wiki/Francesco_Caracciolo-class_battleship
