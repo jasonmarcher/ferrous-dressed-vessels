@@ -25,6 +25,8 @@ http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=35F35FF07458F859FF45772
 https://www.gutenberg.org/files/20483/20483-h/20483-h.htm
 https://grantvillegazette.com/article/publish-557/
 https://civilwarnavy.com/wp-content/uploads/2020/06/Holley_A-Treatise-on-Ordnance-and-Armor.pdf
+http://www.victorianshipmodels.com/antitorpedoboatguns/
+https://archive.org/details/treatiseonconst00offigoog
 
 Armor
 http://www.navweaps.com/index_nathan/metalprpsept2009.php
@@ -102,3 +104,8 @@ http://3dhistory.de/wordpress/warship-drawings-warship-blue-prints-warship-plans
 https://fdra-naval.blogspot.com/
 
 https://alldrawings.ru/en/pictures/category/ships
+
+https://wargamingmiscellanybackup.wordpress.com/2013/12/
+
+Chinese Ships TODO
+https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
