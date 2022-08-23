@@ -21,6 +21,9 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 120-cp-elswick-cc,120,"4.7""/50 BL Elswick CC",brazil,Central Pivot,120-bg-elswick-cc,1,20,http://www.navweaps.com/Weapons/WNBZL_47-50_EOC.php
 120-c-elswick-cc,120,"4.7""/50 BL Elswick CC",brazil,Casement,120-bg-elswick-cc,1,20,http://www.navweaps.com/Weapons/WNBZL_47-50_EOC.php
 457-ag-b,457,"18""/40 B",britain,Armored Gunhouse,457-bg-marki,1,30,http://www.navweaps.com/Weapons/WNBR_18-40_mk1.php
+412-ct-marki,412,"16.25""/30 Mark 1",britain,Coles Turret,412-bg-marki,2,13,http://www.navweaps.com/Weapons/WNBR_162-30_mk1.php
+412-bar-marki,412,"16.25""/30 Mark 1 Barbette",britain,Barbette,412-bg-marki,1,13,http://www.navweaps.com/Weapons/WNBR_162-30_mk1.php
+406-ct-rml-80ton,406,"16""/18 RML 80-ton Twin Turret",britain,Coles Turret,406-ml-rml-80ton,2,,https://en.wikipedia.org/wiki/RML_16-inch_80-ton_gun
 406-ag-markii,406,"16""/45 Mark II",britain,Armored Gunhouse,406-bg-markii,3,40,http://www.navweaps.com/Weapons/WNBR_16-45_mk2.php
 406-ag-marki,406,"16""/45 Mark I",britain,Armored Gunhouse,406-bg-marki,3,40,http://www.navweaps.com/Weapons/WNBR_16-45_mk1.php
 381-ag-markii,381,"15""/42 Mark II",britain,Armored Gunhouse,381-bg-marki,2,30,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
@@ -29,10 +32,19 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 356-ag-markiii,356,"14""/45 Mark III",britain,Armored Gunhouse,356-bg-markvii,4,40,http://www.navweaps.com/Weapons/WNBR_14-45_mk7.php
 356-ag-markii,356,"14""/45 Mark II",britain,Armored Gunhouse,356-bg-markvii,2,40,http://www.navweaps.com/Weapons/WNBR_14-45_mk7.php
 356-ag-marki,356,"14""/45 Mark I",britain,Armored Gunhouse,356-bg-markvii,2,20,http://www.navweaps.com/Weapons/WNBR_14-45_mk1.php
+343-ct-marki,343,"13.5""/30 Mark I Turret",britain,Coles Turret,343-bg-marki,2,13.5,http://www.navweaps.com/Weapons/WNBR_135-30_mk1.php
+343-bar-marki,343,"13.5""/30 Mark I Barbette",britain,Barbette,343-bg-marki,2,13.5,http://www.navweaps.com/Weapons/WNBR_135-30_mk1.php
 343-ag-special,343,"13.5""/45 ""Special""",britain,Armored Gunhouse,343-bg-bl-markvi,2,20,http://www.navweaps.com/Weapons/WNBR_135-45_mk6.php
 343-ag-markii**,343,"13.5""/45 Mark II**",britain,Armored Gunhouse,343-bg-markv-h,2,20,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
 343-ag-markii-l,343,"13.5""/45 Mark II (L)",britain,Armored Gunhouse,343-bg-markv-l,2,20,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
 343-ag-markii,343,"13.5""/45 Mark II",britain,Armored Gunhouse,343-bg-markv-h,2,20,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
+318-ct-rml-38ton-marki,318,"12.5""/ RML 38-ton Mark I",britain,Coles Turret,318-ml-rml-38ton-marki,2,,https://en.wikipedia.org/wiki/RML_12.5-inch_38-ton_gun
+305-ct-rml-38ton,305,"12""/17 RML 38-ton",britain,Coles Turret,305-ml-rml-38ton,2,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
+305-ct-rml-35ton,305,"12""/12 RML 35-ton",britain,Coles Turret,305-ml-rml-35ton,2,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
+305-ct-rml-25ton-marki,305,"12""/12 RML 25-ton Mark I",britain,Coles Turret,305-ml-rml-25ton-marki,2,,https://en.wikipedia.org/wiki/RML_12-inch_25-ton_gun
+305-ct-bl-markii,305,"12""/25 BL Mark II",britain,Coles Turret,305-bg-markii,2,10,http://www.navweaps.com/Weapons/WNBR_12-25_mk1.php
+305-c-rml-25ton-marki,305,"12""/12 RML 25-ton Mark I",britain,Casement (Pivot),305-ml-rml-25ton-marki,1,,https://en.wikipedia.org/wiki/RML_12-inch_25-ton_gun
+305-bar-bl-markii,305,"12""/25 BL Mark II Barbette",britain,Barbette,305-bg-markii,2,10,http://www.navweaps.com/Weapons/WNBR_12-25_mk1.php
 305-ag-special,305,"12""/45 ""Special""",britain,Armored Gunhouse,305-bg-markxiii,2,13.5,http://www.navweaps.com/Weapons/WNBR_12-45_mk13.php
 305-ag-bxi,305,"12""/50 BXI",britain,Armored Gunhouse,305-bg-markxi,2,15,http://www.navweaps.com/Weapons/WNBR_12-50_mk11.php
 305-ag-bviii,305,"12""/45 BVIII",britain,Armored Gunhouse,305-bg-markx,2,13.5,http://www.navweaps.com/Weapons/WNBR_12-45_mk10.php
@@ -40,15 +52,43 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 305-ag-bvi,305,"12""/40 BVI",britain,Armored Gunhouse,305-bg-markix-ki,2,13.5,http://www.navweaps.com/Weapons/WNBR_12-40_mk9.php
 305-ag-biii,305,"12""/35 BIII",britain,Armored Gunhouse,305-bg-markviii,2,13.5,http://www.navweaps.com/Weapons/WNBR_12-35_mk8.php
 305-ag-bii,305,"12""/35 BII",britain,Armored Gunhouse,305-bg-markviii-maj,2,13.5,http://www.navweaps.com/Weapons/WNBR_12-35_mk8.php
-254-fg-turret-markii,254,"10""/32 Turret Mark II",britain,Full Gunshield,254-bg-markii,2,13,http://www.navweaps.com/Weapons/WNBR_10-32_mk1-4.php
+279-c-rml-25ton-marki,279,"11""/12 RML 25-ton Mark I",britain,Casement (Pivot),279-ml-rml-25ton-marki,1,,https://en.wikipedia.org/wiki/RML_11-inch_25-ton_gun
+279-bd-rml-25ton-marki,279,"11""/12 RML 25-ton Mark I",britain,Barbette (Disappearing),279-ml-rml-25ton-marki,1,,https://en.wikipedia.org/wiki/RML_11-inch_25-ton_gun
+254-piv-rml-18ton-marki,254,"10""/15 RML 18-ton Mark I",britain,Pivot,254-ml-rml-18ton-marki,1,,https://en.wikipedia.org/wiki/RML_10-inch_18-ton_gun
+254-fg-turret-markii,254,"10""/32 Turret Mark II",britain,Pedestal Gun Shield,254-bg-markii,2,13,http://www.navweaps.com/Weapons/WNBR_10-32_mk1-4.php
+254-ct-rml-18ton-marki,254,"10""/15 RML 18-ton Mark I",britain,Coles Turret,254-ml-rml-18ton-marki,2,,https://en.wikipedia.org/wiki/RML_10-inch_18-ton_gun
+254-c-rml-18ton-marki,254,"10""/15 RML 18-ton Mark I",britain,Casement (Pivot),254-ml-rml-18ton-marki,1,,https://en.wikipedia.org/wiki/RML_10-inch_18-ton_gun
 254-ag-bv,254,"10""/45 BV",britain,Armored Gunhouse,254-bg-markvii-vickers-a,2,13.5,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
 254-ag-biv,254,"10""/45 BIV",britain,Armored Gunhouse,254-bg-markvi-elswick-s,2,13.5,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
 234-ag-markviii,234,"9.2""/50 Mark VIII (Single)",britain,Armored Gunhouse,234-bg-markxi,1,15,http://www.navweaps.com/Weapons/WNBR_92-50_mk11.php
 234-ag-markvii,234,"9.2""/50 Mark VII (Double)",britain,Armored Gunhouse,234-bg-markxi,2,15,http://www.navweaps.com/Weapons/WNBR_92-50_mk11.php
 234-ag-markv,234,"9.2""/47 Mark V",britain,Armored Gunhouse,234-bg-markx,1,15,http://www.navweaps.com/Weapons/WNBR_92-47_mk10.php
+233-ccar-100pdr-somerset,233,"9.2""/15 100-pdr Somerset",britain,Casement (Carriage),233-ml-100pdr-somerset,1,,https://en.wikipedia.org/wiki/Somerset_cannon
+233-c-100pdr-somerset,233,"9.2""/15 100-pdr Somerset",britain,Casement (Pivot),233-ml-100pdr-somerset,1,,https://en.wikipedia.org/wiki/Somerset_cannon
+229-piv-rml-12ton-marki,229,"9""/14 RML 12-ton Mark I",britain,Pivot,229-ml-rml-12ton-marki,1,,https://en.wikipedia.org/wiki/RML_9-inch_12-ton_gun
+229-ccar-rml-12ton-marki,229,"9""/14 RML 12-ton Mark I",britain,Casement (Carriage),229-ml-rml-12ton-marki,1,,https://en.wikipedia.org/wiki/RML_9-inch_12-ton_gun
+229-c-rml-12ton-marki,229,"9""/14 RML 12-ton Mark I",britain,Casement (Pivot),229-ml-rml-12ton-marki,1,,https://en.wikipedia.org/wiki/RML_9-inch_12-ton_gun
+206-ccar-68pdr-95cwt,206,"8""/15 68-pdr 95 cwt",britain,Casement (Carriage),206-ml-68pdr-95cwt,1,12,https://en.wikipedia.org/wiki/68-pounder_gun
+206-car-68pdr-95cwt,206,"8""/15 68-pdr 95 cwt",britain,Carriage,206-ml-68pdr-95cwt,1,12,https://en.wikipedia.org/wiki/68-pounder_gun
+203-piv-rml-9ton-marki,203,"8""/15 RML 9-ton Mark I",britain,Pivot,203-ml-rml-9ton-marki,1,,https://en.wikipedia.org/wiki/RML_8_inch_gun
+203-c-rml-9ton-marki,203,"8""/15 RML 9-ton Mark I",britain,Casement (Pivot),203-ml-rml-9ton-marki,1,,https://en.wikipedia.org/wiki/RML_8_inch_gun
 190-c-cp-markiv,190,"7.5""/50 CP Mark IV",britain,Casement,190-bg-markiv,1,15,http://www.navweaps.com/Weapons/WNBR_75-50_mk3.php
 190-c-cp-markiii,190,"7.5""/50 CP Mark III",britain,Casement,190-bg-markiii,1,15,http://www.navweaps.com/Weapons/WNBR_75-50_mk3.php
+178-piv-tml-7ton-armstrong,178,"7""/16 RML 7.5-ton Armstrong",britain,Pivot,178-ml-rml-7ton-armstrong,1,,https://en.wikipedia.org/wiki/RML_7-inch_Armstrong_Gun
+178-piv-rml-6ton-armstrong,178,"7""/16 RML 6.5-ton Armstrong",britain,Pivot,178-ml-rml-6ton-armstrong,1,,https://en.wikipedia.org/wiki/RML_7-inch_gun#RML_7_inch_6.C2.BD_ton_gun
+178-piv-rbl-110pdr-82cwt,178,"7""/14 RBL 110-pdr 82 cwt",britain,Pivot,178-bg-rbl-110pdr-82cwt,1,,https://en.wikipedia.org/wiki/RBL_7-inch_Armstrong_gun
+178-ccar-tml-7ton-armstrong,178,178mm/16 RML 7.5-ton Armstrong,britain,Casement (Carriage),178-ml-rml-7ton-armstrong,1,,https://en.wikipedia.org/wiki/RML_7-inch_Armstrong_Gun
+178-ccar-rbl-110pdr-82cwt,178,"7""/14 RBL 110-pdr 82 cwt",britain,Casement (Carriage),178-bg-rbl-110pdr-82cwt,1,,https://en.wikipedia.org/wiki/RBL_7-inch_Armstrong_gun
+178-car-rbl-110pdr-82cwt,178,"7""/14 RBL 110-pdr 82 cwt",britain,Carriage,178-bg-rbl-110pdr-82cwt,1,,https://en.wikipedia.org/wiki/RBL_7-inch_Armstrong_gun
+178-c-tml-7ton-armstrong,178,178mm/16 RML 7.5-ton Armstrong,britain,Casement (Pivot),178-ml-rml-7ton-armstrong,1,,https://en.wikipedia.org/wiki/RML_7-inch_Armstrong_Gun
+178-c-rml-6ton-armstrong,178,"7""/16 RML 6.5-ton Armstrong",britain,Casement (Pivot),178-ml-rml-6ton-armstrong,1,,https://en.wikipedia.org/wiki/RML_7-inch_gun#RML_7_inch_6.C2.BD_ton_gun
+178-c-rbl-110pdr-82cwt,178,"7""/14 RBL 110-pdr 82 cwt",britain,Casement (Pivot),178-bg-rbl-110pdr-82cwt,1,,https://en.wikipedia.org/wiki/RBL_7-inch_Armstrong_gun
+161-car-32pdr-42cwt,161,"6.4""/15 32-pdr 42 cwt",britain,Carriage,161-ml-32pdr-42cwt,1,,https://en.wikipedia.org/wiki/32-pounder_gun#32-pounder_42_cwt_Medium_Gun_C_by_Monk
+160-piv-rml-64pdr-71cwt,160,160mm/16.4 RML 64-pdr 71 cwt,britain,Pivot,160-ml-rml-64pdr-71cwt,1,,https://en.wikipedia.org/wiki/RML_64-pounder_71_cwt_gun
+160-piv-rml-64pdr-64cwt-marki,160,160mm/15.5 RML 64-pdr 64 cwt Mark I,britain,Pivot,160-ml-rml-64pdr-64cwt-marki,1,,https://en.wikipedia.org/wiki/RML_64-pounder_64_cwt_gun
+160-car-rml-64pdr-71cwt,160,160mm/16.4 RML 64-pdr 71 cwt,britain,Carriage,160-ml-rml-64pdr-71cwt,1,,https://en.wikipedia.org/wiki/RML_64-pounder_71_cwt_gun
 152-p-pii,152,"6""/40 PII",britain,Pedestal,152-bg-qf-marki,1,20,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
+152-p-ab-marki,152,"6""/26 AB Mark I",britain,Pedestal,152-bg-markiii,1,12,http://www.navweaps.com/Weapons/WNBR_6-26_mk1.php
 152-c-pxii,152,"6""/45 PXII",britain,Casement,152-bg-bl-markxvii,1,15,http://www.navweaps.com/Weapons/WNBR_6-50_mk17.php
 152-c-pxi,152,"6""/50 PXI",britain,Casement,152-bg-bl-markxiii,1,13,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
 152-c-px,152,"6""/50 PX",britain,Casement,152-bg-bl-markxvi,1,15,http://www.navweaps.com/Weapons/WNBR_6-50_mk16.php
@@ -56,6 +96,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 152-c-pix,152,"6""/45 PIX",britain,Casement,152-bg-bl-markxii,1,14,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php
 152-c-piii,152,"6""/45 PIII",britain,Casement,152-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php
 152-c-cpi,152,"6""/40 CPI",britain,Casement,152-bg-qf-marki,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
+152-c-ab-marki,152,"6""/26 AB Mark I",britain,Casement,152-bg-markiii,1,12,http://www.navweaps.com/Weapons/WNBR_6-26_mk1.php
 152-ag-markxviii,152,"6""/50 Mark XVIII",britain,Armored Gunhouse,152-bg-bl-markxxii,2,60,http://www.navweaps.com/Weapons/WNBR_6-50_mk22.php
 140-pi*,140,"5.5""/50 PI*",britain,Central Pivot,140-bg-bl-markI,1,25,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php
 140-cpii,140,"5.5""/50 CPII",britain,Central Pivot,140-bg-bl-markI,1,30,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php
@@ -63,22 +104,27 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 134-ag-marki,134,"5.25""/50 Mark I",britain,Armored Gunhouse,134-bg-qf-marki,2,70,http://www.navweaps.com/Weapons/WNBR_525-50_mk1.php
 120-cp-ha-markxii,120,"4.7""/40 HA Mark XII",britain,Central Pivot,120-bg-qf-markviii,1,90,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-cp-bdi,120,"4.7""/40 BDI",britain,Central Pivot,120-bg-qf-marki,1,15,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
+120-car-rbl-40pdr-35cwt,120,120mm/20 RBL 40-pdr 35 cwt,britain,Carriage,120-bg-rbl-40pdr-35cwt,1,,https://en.wikipedia.org/wiki/RBL_40-pounder_Armstrong_gun
 102-gs-ti-marki,102,"4""/45 T.I. Mark I",britain,Gun Shield,102-bg-bl-markix,3,30,http://www.navweaps.com/Weapons/WNBR_4-45_mk9.php
 102-gs-cpi,102,"4""/45 CPI",britain,Gun Shield,102-bg-bl-markix,1,30,http://www.navweaps.com/Weapons/WNBR_4-45_mk9.php
 102-cp-pii,102,"4""/50 PII",britain,Central Pivot,102-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
 102-cp-pi,102,"4""/40 PI",britain,Central Pivot,102-bg-qf-marki,1,20,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
 102-cp-ha-markiii,102,"4""/45 HA Mark III",britain,Central Pivot,102-bg-qf-markv,1,80,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php
 102-c-pii,102,"4""/50 PII",britain,Casement,102-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
+95-piv-rbl-20pdr-16cwt,95,95mm/21 RBL 20-pdr 16 cwt,britain,Pivot,95-bg-rbl-20pdr-16cwt,1,16,https://en.wikipedia.org/wiki/RBL_20-pounder_Armstrong_gun
 76-p-piv,76,12-pdr/50 PIV,britain,Pedestal,76-bg-18-qf-marki,1,20,http://www.navweaps.com/Weapons/WNBR_3-50_mk1.php
 76-p-pi,76,12-pdr/40 PI,britain,Pedestal,76-bg-12-qf-marki,1,30,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-p-markii,76,14-pdr/50 Mark II,britain,Pedestal,76-bg-14-qf-markii,1,30,https://en.wikipedia.org/wiki/QF_14-pounder_naval_gun_Mk_I_%26_II
 76-p-marki,76,14-pdr/50 Mark I,britain,Pedestal,76-bg-14-qf-marki,1,30,https://en.wikipedia.org/wiki/QF_14-pounder_naval_gun_Mk_I_%26_II
 76-gs-pi,76,12-pdr/45 PI,britain,Gun Shield,76-bg-23-qf-marki,1,30,http://www.navweaps.com/Weapons/WNBR_3-45_mk1.php
 76-cp-ha-markii,76,12-pdr/45 HA Mark II,britain,Central Pivot,76-bg-20-qf-ha-marki,1,90,http://www.navweaps.com/Weapons/WNBR_3-45_mk1.php
+76-car-rbl-12pdr-8cwt,76,76mm/20 RBL 12-pdr 8 cwt,britain,Carriage,76-bg-rbl-12pdr-8cwt,1,,https://en.wikipedia.org/wiki/RBL_12-pounder_8_cwt_Armstrong_gun#United_Kingdom_service
 76-c-pi,76,12-pdr/40 PI,britain,Casement,76-bg-12-qf-marki,1,30,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 57-p-markic-ha,57,6-pdr Mark IC HA,britain,Pedestal,57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php
+57-p-marki-recoil,57,6-pdr Mark I Recoil,britain,Pedestal,57-bg-mk1,1,25,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php
 47-p-markiv-ha,47,3-pdr Hotchkiss Mark IV HA,britain,Pedestal,47-bg-qf-mark1,1,60,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
 47-p-marki-la,47,3-pdr Vickers Mark I LA,britain,Pedestal,47-bg-vickers-qf-mark1,1,30,http://www.navweaps.com/Weapons/WNBR_3pounder_V_mk1.php
+47-p-marki,47,3-pdr Hotchkiss Mark I,britain,Pedestal,47-bg-qf-mark1,1,25,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
 40-ta-staag-markii,40,40 mm/56 STAAG Mark II,britain,Tri-Axial Turret,40-bg-mark1,2,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-p-markii,40,2-pdr/39 Mark II,britain,Pedestal,40-mg-qf-markvii,1,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 40-cp-rp50-markvi,40,40 mm/56 RP50 Mark VI,britain,Central Pivot,40-bg-mark1,6,80,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
@@ -86,6 +132,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 40-cp-markva,40,2-pdr/39 Mark VA Oct,britain,Central Pivot,40-mg-qf-markviii-hv,8,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
 40-cp-markv,40,2-pdr/39 Mark V Oct,britain,Central Pivot,40-mg-qf-markviii-hv,8,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
 40-cp-marki/iii,40,40 mm/56 Mark I/III Single,britain,Central Pivot,40-bg-mark1,1,90,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+25-p-nordenfelt-markiii,25,"1""/35 Nordenfelt Mark III",britain,Pedestal,25-mg-nordenfelt-markiii,4,15,https://en.wikipedia.org/wiki/1-inch_Nordenfelt_gun
 20-p-mark1,20,20 mm/70 Mark 1 Single,britain,Pedestal,20-bg-mark1,1,85,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
 12-cp-markii,12,"0.50""/62 Mark II",britain,Central Pivot,12-mg-markiii,4,80,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
 7-mg-maxim-marki,7.7,"0.303""/94 Maxim Pedestal",britain,Pedestal,7-mg-maxim-marki,1,20,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php

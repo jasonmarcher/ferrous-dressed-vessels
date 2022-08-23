@@ -1149,3 +1149,228 @@ bc-deutschland,149-ag-mpl28_x8,149-apc-l38,Secondary Gun,2
 bc-deutschland,88-cp-mpl-c13_x3,88-he_88-aa,AA Battery,3
 bc-deutschland,533-tt-quad_x2,,AA Battery,4
 bc-deutschland,placeholder_torpedo,,,
+bt-hood,343-ct-marki_ay,343-ap-early-uk,Primary Gun,1
+bt-hood,152-p-pii_x6,152-cpc-4crh,Secondary Gun,2
+bt-hood,152-c-cpi_x4,152-cpc-4crh,Secondary Gun,2
+bt-hood,57-p-marki-recoil_x10,57-he-uk,Tertiary Gun,3
+bt-hood,47-p-marki_x10,47-he-uk,Tertiary Gun,4
+bt-hood,450-tt-hull_x5-bow,,,
+bt-hood,placeholder_torpedo,,,
+bt-trafalgar,343-ct-marki_ay,343-ap-early-uk,Primary Gun,1
+bt-trafalgar,120-cp-bdi_x6,120-com-uk,Secondary Gun,2
+bt-trafalgar,57-p-marki-recoil_x8,57-he-uk,Tertiary Gun,3
+bt-trafalgar,47-p-marki_x9-mast,47-he-uk,Tertiary Gun,4
+bt-trafalgar,356-tt-hull_x4,,,
+bt-trafalgar,placeholder_torpedo,,,
+bt-victoria,412-ct-marki_a,412-ap-uk,Primary Gun,1
+bt-victoria,254-fg-turret-markii_y,254-ap-uk,Secondary Gun,2
+bt-victoria,152-c-ab-marki_x12,152-cpc-uk-early,Secondary Gun,3
+bt-victoria,57-p-marki-recoil_x12,57-he-uk,Tertiary Gun,4
+bt-victoria,47-p-marki_x9,47-he-uk,Tertiary Gun,5
+bt-victoria,356-tt-hull_x4,,,
+bt-victoria,placeholder_torpedo,,,
+bt-colossus,305-ct-bl-markii_ps,305-ap-uk-early,Primary Gun,1
+bt-colossus,152-p-ab-marki_x6,152-cpc-uk-early,Secondary Gun,2
+bt-colossus,57-p-n1885_x6,57-ap-nord,Tertiary Gun,3
+bt-colossus,356-tt-hull_x2-side,,,
+bt-colossus,placeholder_torpedo,,,
+bt-conqueror,305-ct-bl-markii,305-ap-uk-early,Primary Gun,1
+bt-conqueror,152-c-ab-marki_x4,152-cpc-uk-early,Secondary Gun,2
+bt-conqueror,57-p-marki-recoil_x7,57-he-uk,Tertiary Gun,3
+bt-conqueror,25-p-nordenfelt-markiii_x7,25-b-uk,Tertiary Gun,4
+bt-conqueror,356-tt-hull_x6,,,
+bt-conqueror,placeholder_torpedo,,,
+bt-dreadnought,318-ct-rml-38ton-marki_ay,318-palliser,Primary Gun,1
+bt-dreadnought,356-tt-hull_x2-side,,,
+bt-dreadnought,placeholder_torpedo,,,
+bt-rupert,254-ct-rml-18ton-marki_a,254-palliser,Primary Gun,1
+bt-rupert,160-car-rml-64pdr-71cwt_x2,160-64pdr-com-shell,Secondary Gun,2
+bt-devastation,305-ct-rml-35ton_ay,305-palliser,Primary Gun,1
+bt-devastation_thunderer,305-ct-rml-38ton_a,305-palliser,Primary Gun,1
+bt-devastation_thunderer,305-ct-rml-35ton_y,305-palliser,Primary Gun,1
+bt-royal-sovereign,,,Primary Gun,1
+bt-royal-sovereign,,,Primary Gun,1
+bbar-royal-sovereign,343-bar-marki_ay,343-ap-early-uk,Primary Gun,1
+bbar-royal-sovereign,152-p-pii_x6,152-cpc-4crh,Secondary Gun,2
+bbar-royal-sovereign,152-c-cpi_x4,152-cpc-4crh,Secondary Gun,2
+bbar-royal-sovereign,57-p-marki-recoil_x16,57-he-uk,Tertiary Gun,3
+bbar-royal-sovereign,47-p-marki_x12,47-he-uk,Tertiary Gun,4
+bbar-royal-sovereign,450-tt-hull_x7-aft,,,
+bbar-royal-sovereign,placeholder_torpedo,,,
+bbar-benbow,412-bar-marki_ay,412-ap-uk,Primary Gun,1
+bbar-benbow,152-c-ab-marki_x10-side,152-cpc-uk-early,Secondary Gun,2
+bbar-benbow,57-p-marki-recoil_x12-alt,57-he-uk,Tertiary Gun,3
+bbar-benbow,47-p-marki_x7,47-he-uk,Tertiary Gun,4
+bbar-benbow,356-tt-hull_x5-bow,,,
+bbar-benbow,placeholder_torpedo,,,
+bbar-rodney,343-bar-marki_ay,343-ap-early-uk,Primary Gun,1
+bbar-rodney,152-c-ab-marki_x6-side,152-cpc-uk-early,Secondary Gun,2
+bbar-rodney,57-p-marki-recoil_x12-alt,57-he-uk,Tertiary Gun,3
+bbar-rodney,47-p-marki_x10-alt,47-he-uk,Tertiary Gun,4
+bbar-rodney,356-tt-hull_x5-bow,,,
+bbar-rodney,placeholder_torpedo,,,
+bbar-collingwood,305-bar-bl-markii_ay,305-ap-uk-early,Primary Gun,1
+bbar-collingwood,152-c-ab-marki_x6-side,152-cpc-uk-early,Secondary Gun,2
+bbar-collingwood,57-p-marki-recoil_x12-alt,57-he-uk,Tertiary Gun,3
+bbar-collingwood,47-p-marki_x8,47-he-uk,Tertiary Gun,4
+bbar-collingwood,356-tt-hull_x4-side,,,
+bbar-collingwood,placeholder_torpedo,,,
+cb-peyk-i-sheref,305-c-rml-25ton-marki_x4,305-palliser-light,Primary Gun,1
+cb-peyk-i-sheref,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,2
+cb-peyk-i-sheref,356-tt-hull_x2-side,,,
+cb-peyk-i-sheref,placeholder_torpedo,,,
+cb-mesudiye,254-c-rml-18ton-marki_x12,254-palliser,Primary Gun,1
+cb-mesudiye,254-piv-rml-18ton-marki_x4,254-palliser,Primary Gun,1
+cb-mesudiye,178-piv-tml-7ton-armstrong_x4-side,178-palliser-markiii,Secondary Gun,2
+cb-mesudiye,356-tt-hull_x4-side,,,
+cb-mesudiye,placeholder_torpedo,,,
+cb-superb,254-c-rml-18ton-marki_x12,254-palliser,Primary Gun,1
+cb-superb,254-piv-rml-18ton-marki_x4,254-palliser,Primary Gun,1
+cb-superb,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Tertiary Gun,2
+cb-superb,356-tt-hull_x4-side,,,
+cb-superb,placeholder_torpedo,,,
+cb-temeraire,279-bd-rml-25ton-marki_ay,279-palliser,Primary Gun,1
+cb-temeraire,279-c-rml-25ton-marki_x2,279-palliser,Primary Gun,1
+cb-temeraire,254-c-rml-18ton-marki_x4-side,254-palliser,Primary Gun,2
+cb-temeraire,95-piv-rbl-20pdr-16cwt_x4,95-com-20pdr,Tertiary Gun,2
+cb-temeraire,356-tt-hull_x2-side,,,
+cb-temeraire,placeholder_torpedo,,,
+cb-alexandra,279-c-rml-25ton-marki_x2,279-palliser,Primary Gun,1
+cb-alexandra,254-c-rml-18ton-marki_x10,254-palliser,Primary Gun,2
+cb-alexandra,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Tertiary Gun,2
+cb-alexandra,356-tt-hull_x4-side,,,
+cb-alexandra,placeholder_torpedo,,,
+cb-swiftsure,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
+cb-swiftsure,160-car-rml-64pdr-71cwt_x4,160-64pdr-com-shell,Primary Gun,2
+cb-swiftsure,95-piv-rbl-20pdr-16cwt_x6,95-com-20pdr,Tertiary Gun,3
+cb-sultan,254-c-rml-18ton-marki_x8-side,254-palliser,Primary Gun,1
+cb-sultan,229-c-rml-12ton-marki_x4,229-palliser,Primary Gun,2
+cb-sultan,95-piv-rbl-20pdr-16cwt_x7,95-com-20pdr,Tertiary Gun,2
+cb-audacious,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
+cb-audacious,160-car-rml-64pdr-71cwt_x4-chase,160-64pdr-com-shell,Primary Gun,2
+cb-audacious_iron-duke,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
+cb-audacious_iron-duke,160-car-rml-64pdr-71cwt_x4-chase,160-64pdr-com-shell,Primary Gun,2
+cb-audacious_iron-duke,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Tertiary Gun,3
+cb-hercules,254-c-rml-18ton-marki_x8,254-palliser,Primary Gun,1
+cb-hercules,229-piv-rml-12ton-marki_x2-chase-only,229-palliser,Primary Gun,2
+cb-hercules,178-piv-tml-7ton-armstrong_x4-chase-herc,178-palliser-markiii,Primary Gun,3
+cb-repulse,203-piv-rml-9ton-marki_x4-chase-full,203-palliser,Primary Gun,1
+cb-repulse,203-c-rml-9ton-marki_x8-side,203-palliser,Primary Gun,1
+cb-repulse,95-piv-rbl-20pdr-16cwt_x2,95-com-20pdr,Tertiary Gun,2
+cb-penelope,203-c-rml-9ton-marki_x8,203-palliser,Primary Gun,1
+cb-penelope,120-car-rbl-40pdr-35cwt_x3,120-40pdr-unknown,Secondary Gun,2
+cb-penelope,95-piv-rbl-20pdr-16cwt_x2,95-com-20pdr,Tertiary Gun,3
+unarmed-hulk,,,,
+cb-zealous,178-piv-tml-7ton-armstrong_x4-ends,178-palliser-markiii,Primary Gun,1
+cb-zealous,178-c-tml-7ton-armstrong_x16-side,178-palliser-markiii,Primary Gun,1
+cb-bellerophon,229-c-rml-12ton-marki_x10-side,229-palliser,Primary Gun,1
+cb-bellerophon,178-piv-tml-7ton-armstrong_x3-stern,178-palliser-markiii,Primary Gun,2
+cb-bellerophon,178-c-tml-7ton-armstrong_x2-bow,178-palliser-markiii,Primary Gun,2
+cb-bellerophon,76-car-rbl-12pdr-8cwt_x4,76-com-12pdr,Tertiary Gun,3
+cb-lord-warden_design,203-c-rml-9ton-marki_x12,203-palliser,Primary Gun,1
+cb-lord-warden_design,203-piv-rml-9ton-marki_x2-side,203-palliser,Primary Gun,1
+cb-lord-warden_design,178-c-tml-7ton-armstrong_x2-bow,178-palliser-markiii,Secondary Gun,3
+cb-lord-warden,203-c-rml-9ton-marki_x12,203-palliser,Primary Gun,1
+cb-lord-warden,203-piv-rml-9ton-marki_x2-side,203-palliser,Primary Gun,1
+cb-lord-warden,229-piv-rml-12ton-marki_x2-chase,229-palliser,Primary Gun,2
+cb-lord-warden,178-c-tml-7ton-armstrong_x2-bow,178-palliser-markiii,Secondary Gun,3
+cb-pallas,178-c-tml-7ton-armstrong_x4,178-palliser-markiii,Primary Gun,1
+cb-pallas,178-piv-rbl-110pdr-82cwt_x2-chase,178-s-110pdr,Primary Gun,2
+cb-pallas_1866,203-c-rml-9ton-marki_x4,203-palliser,Primary Gun,1
+cb-pallas_1866,178-piv-rbl-110pdr-82cwt_x2-chase,178-s-110pdr,Primary Gun,2
+cb-pallas_1866,120-car-rbl-40pdr-35cwt_x2,120-40pdr-unknown,Secondary Gun,3
+cb-pallas_1872,203-c-rml-9ton-marki_x4,203-palliser,Primary Gun,1
+cb-pallas_1872,160-piv-rml-64pdr-71cwt_x4-chase,160-64pdr-com-shell,Primary Gun,2
+cb-pallas_1872,120-car-rbl-40pdr-35cwt_x2,120-40pdr-unknown,Secondary Gun,3
+cb-lord-clyde,178-c-tml-7ton-armstrong_x20,178-palliser-markiii,Primary Gun,1
+cb-enterprise,233-c-100pdr-somerset_x2,233-s-100pdr,Primary Gun,1
+cb-enterprise,178-c-rbl-110pdr-82cwt_x2,178-s-110pdr,Primary Gun,2
+cb-research,233-c-100pdr-somerset_x4,233-s-100pdr,Primary Gun,1
+cb-research_1870,178-c-rml-6ton-armstrong_x4,178-palliser-markiii,Primary Gun,1
+cb-favourite,233-c-100pdr-somerset_x8,233-s-100pdr,Primary Gun,1
+cb-favourite_1869,178-c-tml-7ton-armstrong_x8,178-palliser-markiii,Primary Gun,1
+cb-favourite_1869,160-piv-rml-64pdr-64cwt-marki_x2-chase,160-64pdr-com-shell,Primary Gun,2
+ci-hotspur,305-c-rml-25ton-marki_a,305-palliser-light,Primary Gun,1
+ci-hotspur,160-piv-rml-64pdr-71cwt_x2,160-64pdr-com-shell,Primary Gun,2
+bmt-agamemnon_design,318-ct-rml-38ton-marki_ps,318-palliser,Primary Gun,1
+bmt-agamemnon_design,152-p-ab-marki_x2,152-cpc-uk-early,Secondary Gun,2
+bmt-agamemnon_design,356-tt-hull_x2-side,,,
+bmt-agamemnon_design,placeholder_torpedo,,,
+bmt-agamemnon,318-ct-rml-38ton-marki_ps,318-palliser,Primary Gun,1
+bmt-agamemnon,152-p-ab-marki_x2,152-cpc-uk-early,Secondary Gun,2
+bmt-agamemnon,57-p-n1885_x6,57-ap-nord,Tertiary Gun,3
+bmt-agamemnon,25-p-nordenfelt-markiii_x4,25-b-uk,Tertiary Gun,4
+bmt-agamemnon,356-tt-hull_x2-side,,,
+bmt-agamemnon,placeholder_torpedo,,,
+bmt-inflexible_design,406-ct-rml-80ton_ps,406-palliser,Primary Gun,1
+bmt-inflexible_design,356-tt-hull_x4-side,,,
+bmt-inflexible_design,placeholder_torpedo,,,
+bmt-inflexible,406-ct-rml-80ton_ps,406-palliser,Primary Gun,1
+bmt-inflexible,95-piv-rbl-20pdr-16cwt_x6-bow,95-com-20pdr,Tertiary Gun,2
+bmt-inflexible,,,Tertiary Gun,3
+bmt-inflexible,25-p-nordenfelt-markiii_x4,25-b-uk,Tertiary Gun,4
+bmt-inflexible,356-tt-hull_x4-side,,,
+bmt-inflexible,placeholder_torpedo,,,
+bmt-neptune,318-ct-rml-38ton-marki_qr,318-palliser,Primary Gun,1
+bmt-neptune,229-c-rml-12ton-marki_x2-bow,229-palliser,Secondary Gun,2
+bmt-neptune,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Tertiary Gun,3
+bmt-neptune,356-tt-hull_x2-side,,,
+bmt-neptune,placeholder_torpedo,,,
+bmt-captain,305-ct-rml-25ton-marki_qr,305-palliser-light,Primary Gun,1
+bmt-captain,178-piv-rml-6ton-armstrong_x2-chase,178-palliser-markiii,Secondary Gun,2
+bmt-monarch,305-ct-rml-25ton-marki_qr,305-palliser-light,Primary Gun,1
+bmt-monarch,178-c-rml-6ton-armstrong_x3-chase,178-palliser-markiii,Secondary Gun,2
+bi-minotaur_design,178-ccar-rbl-110pdr-82cwt_x40,178-s-110pdr,Primary Gun,1
+bi-minotaur_design,178-piv-rbl-110pdr-82cwt_x10,178-s-110pdr,Secondary Gun,1
+bi-minotaur,178-c-tml-7ton-armstrong_x20-side,178-palliser-markiii,Primary Gun,1
+bi-minotaur,178-piv-tml-7ton-armstrong_x4-chase-alt,178-palliser-markiii,Secondary Gun,1
+bi-minotaur,229-c-rml-12ton-marki_x4-side,229-palliser,Primary Gun,2
+bi-minotaur_northumberland,203-c-rml-9ton-marki_x18,203-palliser,Primary Gun,1
+bi-minotaur_northumberland,203-piv-rml-9ton-marki_x4-chase,203-palliser,Primary Gun,1
+bi-minotaur_northumberland,229-c-rml-12ton-marki_x4-side,229-palliser,Primary Gun,2
+bi-minotaur_northumberland,178-piv-tml-7ton-armstrong_x2-chase-aft,178-palliser-markiii,Secondary Gun,3
+bi-achilles,233-ccar-100pdr-somerset_x16,233-s-100pdr,Primary Gun,1
+bi-achilles,178-piv-rbl-110pdr-82cwt_x4,178-s-110pdr,Primary Gun,2
+bi-royal-alfred,229-ccar-rml-12ton-marki_x10-side,229-palliser,Primary Gun,1
+bi-royal-alfred,178-ccar-tml-7ton-armstrong_x4-side,178-palliser-markiii,Primary Gun,2
+bi-royal-alfred,178-piv-tml-7ton-armstrong_x4-chase-alt,178-palliser-markiii,Primary Gun,2
+bi-royal-alfred,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Tertiary Gun,3
+bi-royal-oak,178-ccar-rbl-110pdr-82cwt_x8-side,178-s-110pdr,Primary Gun,1
+bi-royal-oak,178-piv-rbl-110pdr-82cwt_x3-chase,178-s-110pdr,Primary Gun,1
+bi-royal-oak,206-ccar-68pdr-95cwt_x24-side,206-s-68pdr-uk,Primary Gun,2
+bi-prince-consort,178-ccar-tml-7ton-armstrong_x4-side,178-palliser-markiii,Primary Gun,1
+bi-prince-consort,178-piv-tml-7ton-armstrong_x3-chase,178-palliser-markiii,Primary Gun,1
+bi-prince-consort,233-ccar-100pdr-somerset_x8-side,233-s-100pdr,Primary Gun,2
+bi-prince-consort,206-ccar-68pdr-95cwt_x16-side,206-s-68pdr-uk,Primary Gun,3
+bi-prince-consort_caledonia,178-ccar-tml-7ton-armstrong_x6-side,178-palliser-markiii,Primary Gun,1
+bi-prince-consort_caledonia,178-piv-tml-7ton-armstrong_x4-chase-alt,178-palliser-markiii,Primary Gun,1
+bi-prince-consort_caledonia,233-ccar-100pdr-somerset_x8-side,233-s-100pdr,Primary Gun,2
+bi-prince-consort_caledonia,206-ccar-68pdr-95cwt_x12-side,206-s-68pdr-uk,Primary Gun,3
+bi-prince-consort_ocean,178-ccar-tml-7ton-armstrong_x24-side,178-palliser-markiii,Primary Gun,1
+bi-prince-consort_ocean,178-piv-tml-7ton-armstrong_x4-chase-alt,178-palliser-markiii,Primary Gun,1
+bi-hector_design,206-ccar-68pdr-95cwt_x30-side,206-s-68pdr-uk,Primary Gun,1
+bi-hector_design,206-car-68pdr-95cwt_x2-chase,206-s-68pdr-uk,Primary Gun,1
+bi-hector,178-piv-rbl-110pdr-82cwt_x4-chase,178-s-110pdr,Primary Gun,1
+bi-hector,206-ccar-68pdr-95cwt_x20-side,206-s-68pdr-uk,Primary Gun,2
+bi-hector_valiant,203-piv-rml-9ton-marki_x2-side,203-palliser,Primary Gun,1
+bi-hector_valiant,178-ccar-tml-7ton-armstrong_x12-side,178-palliser-markiii,Primary Gun,2
+bi-hector_valiant,178-piv-tml-7ton-armstrong_x4-chase-alt,178-palliser-markiii,Primary Gun,2
+bi-defense_design,206-ccar-68pdr-95cwt_x16-side,206-s-68pdr-uk,Primary Gun,1
+bi-defense_design,206-car-68pdr-95cwt_x2-chase,206-s-68pdr-uk,Primary Gun,1
+bi-defense_design,120-car-rbl-40pdr-35cwt_x4-side,120-40pdr-unknown,Tertiary Gun,2
+bi-defense,178-car-rbl-110pdr-82cwt_x6-side,178-s-110pdr,Primary Gun,1
+bi-defense,178-piv-rbl-110pdr-82cwt_x2-chase,178-s-110pdr,Primary Gun,1
+bi-defense,206-ccar-68pdr-95cwt_x10-side,206-s-68pdr-uk,Primary Gun,2
+bi-defense,120-car-rbl-40pdr-35cwt_x8-side,120-40pdr-unknown,Tertiary Gun,3
+bi-defense_resistance,178-car-rbl-110pdr-82cwt_x6-side,178-s-110pdr,Primary Gun,1
+bi-defense_resistance,178-piv-rbl-110pdr-82cwt_x2-chase,178-s-110pdr,Primary Gun,1
+bi-defense_resistance,206-ccar-68pdr-95cwt_x10-side,206-s-68pdr-uk,Primary Gun,2
+bi-defense_resistance,161-car-32pdr-42cwt_x2-side,161-s-32pdr-uk,Tertiary Gun,3
+bi-warrior_design,206-ccar-68pdr-95cwt_x26-side,206-s-68pdr-uk,Primary Gun,1
+bi-warrior_design,206-car-68pdr-95cwt_x12-side,206-s-68pdr-uk,Primary Gun,1
+bi-warrior_design,206-car-68pdr-95cwt_x2-chase,206-s-68pdr-uk,Primary Gun,2
+bi-warrior,178-ccar-rbl-110pdr-82cwt_x8-side,178-s-110pdr,Primary Gun,1
+bi-warrior,178-piv-rbl-110pdr-82cwt_x2-chase,178-s-110pdr,Primary Gun,1
+bi-warrior,206-ccar-68pdr-95cwt_x18-side,206-s-68pdr-uk,Primary Gun,2
+bi-warrior,206-car-68pdr-95cwt_x8-side,206-s-68pdr-uk,Primary Gun,2
+bi-warrior,120-car-rbl-40pdr-35cwt_x4-side,120-40pdr-unknown,Tertiary Gun,3
