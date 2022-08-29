@@ -1,5 +1,6 @@
 AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,SurfaceShellChargeType,AAShellWeight,AAShellCharge,AAShellChargeType,AmmoSource
 305-ap-l34-2crh,"30.5cm AP L/3,4 2crh",ahn,305,450,4,TNT,0,0,,http://www.navweaps.com/Weapons/WNAust_12-45.php
+305-ap-ahn,30.5cm AP,ahn,305,450,,,0,0,,https://en.wikipedia.org/wiki/SMS_Kronprinzessin_Erzherzogin_Stephanie#Armament_and_armor
 238-apc-l35,24cm APC L/3.5,ahn,238,229,2.3,,0,0,,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
 238-apc-m08-l35,24cm APC M08 L/3.5,ahn,238,215,2.4,,0,0,,http://www.navweaps.com/Weapons/WNAust_945-45.php
 190-apc-ahn,19cm APC,ahn,190,97,2,,0,0,,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
@@ -72,17 +73,27 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 7-s-303-british,"0.303"" British",britain,7.7,0.01,0,None,0.01,0,None,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
 380-apc-m1936,380mm APC Model 1936,france,380,884,21.9,Mn.F.Dn,0,0,,http://www.navweaps.com/Weapons/WNFR_15-45_m1935.php
 340-apc-m1912,340mm APC M1912,france,340,640,21,,0,0,,http://www.navweaps.com/Weapons/WNFR_134-45_m1912.php
+340-apc-fra,340mm APC,france,340,490,,,0,0,,https://en.wikipedia.org/wiki/Canon_de_340_mm_Mod%C3%A8le_1887_gun
+340-apc-fra-early,340mm APC (Early),france,340,420,,,0,0,,https://en.wikipedia.org/wiki/340mm/28_Mod%C3%A8le_1881_gun
 330-sapc-fra,330mm SAPC (FRA),france,330,560,20.3,Mn.F.Dn,0,0,,http://www.navweaps.com/Weapons/WNFR_13-50_m1931.php
 305-apc-m1906,305mm APC Model 1906,france,305,436,11.3,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
 305-apc-m1910,305mm APC Model 1910,france,305,428,16.5,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
 305-ap-fra,305mm AP,france,305,349,,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
 274-apc-fra,274mm APC,france,274,255,3.7,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNFR_10-40_m1893.php
+274-apc-fra-early,274mm APC (Early),france,274,216,,,0,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
+274-ap-fra-early,274mm AP (Early),france,274,216,,,0,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
 240-ap-fra,240mm AP (FRA),france,240,221,6.59,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_94-50_m1902.php
+240-ap-fra-early,240mm AP (Early),france,240,114,,,0,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
+223-he-paixhans-fra,223mm HE Paixhans Shell,france,223,23,,,0,0,,https://en.wikipedia.org/wiki/Paixhans_gun
 194-apc-fra,194mm APC,france,194,86,1.4,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_76-50_m1902.php
+194-ap-fra-early,194mm AP (Early),france,194,75,,,0,0,,https://en.wikipedia.org/wiki/La_Galissonni%C3%A8re-class_ironclad#Armament
+194-s-50pdr,194mm Solid 50-pdr (FRA),france,194,22.7,0,None,0,0,,
 165-apc-fra-early,165mm APC (Early),france,165,54.9,0.97,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
+165-s-30pdr,165mm Solid 30-pdr (FRA),france,165,13.6,0,None,0,0,,
 152-sapc-m1937_152-he-m1937,152mm SAPC Model 1937 + 152 HE Model 1937,france,152,57.1,1.7,Melinite,49.7,,Melinite,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 139-sap-fra,138.6mm SAP,france,139,36.5,2.66,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
 139-ap-fra,139mm AP,france,139,36.5,,,0,0,,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
+138-he-fra-early,138mm HE (Early),france,138,30,,Melinite,0,0,,https://en.wikipedia.org/wiki/Marceau-class_ironclad
 130-sap_130-he-fra,130mm SAP + 130mm HE,france,130,32.1,1.6,,29.5,3.2,,http://www.navweaps.com/Weapons/WNFR_51-45_m1932.php
 100-sap_100-he-fra,100mm SAP + 100mm HE (FRA),france,100,15,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-ap-fra,100mm AP,france,100,15,,,0,0,,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891#Ammunition
@@ -105,8 +116,9 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 283-ap-l26,"28cm AP L/2,6",germany,283,240,,,0,0,,http://www.navweaps.com/Weapons/WNGER_11-40_skc04.php
 238-ap-l28-c01,24cm AP L/2.8 C/01,germany,238,140,3.48,,0,0,,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php
 173-ap-l3,17cm AP L/3,germany,173,64,3.5,,0,0,,http://www.navweaps.com/Weapons/WNGER_675-40_skc04.php
-150-ap-l37,"15cm AP L/3,7",germany,150,45.3,0.99,,0,0,,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
+149-ap-ger,15cm AP,germany,149,45.6,,,0,0,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
 149-apc-l38,"15cm APC L/3,8",germany,149,45.5,1.32,TNT,0,0,,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php
+149-ap-l37,"15cm AP L/3,7",germany,149,45.3,0.99,,0,0,,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-ap-c01,15cm AP C/01,germany,149,40,,,0,0,,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
 105-ap-1891,10.5cm AP 1891,germany,105,18.2,,,0,0,,http://www.navweaps.com/Weapons/WNGER_41-35_skc91.php
 105-ap_105-he-ger,10.5cm AP + 10.5cm HE,germany,105,15.8,,,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
