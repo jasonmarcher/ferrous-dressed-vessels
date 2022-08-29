@@ -27,6 +27,7 @@ https://grantvillegazette.com/article/publish-557/
 https://civilwarnavy.com/wp-content/uploads/2020/06/Holley_A-Treatise-on-Ordnance-and-Armor.pdf
 http://www.victorianshipmodels.com/antitorpedoboatguns/
 https://archive.org/details/treatiseonconst00offigoog
+http://navalhistory.flixco.info/H/93745x263540/259869/c0.htm
 
 Armor
 http://www.navweaps.com/index_nathan/metalprpsept2009.php
