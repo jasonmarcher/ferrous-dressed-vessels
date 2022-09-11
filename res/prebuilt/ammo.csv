@@ -71,39 +71,56 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 20-he-uk,20mm HE (UK),britain,20,0.12,0.01,TNT,0.12,0.01,TNT,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
 12-b-uk,"British 0.50""",britain,12.7,0.08,0,None,0.08,0,None,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
 7-s-303-british,"0.303"" British",britain,7.7,0.01,0,None,0.01,0,None,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
+420-ap-fra-early,420mm AP (Early),france,420,780,,,0,0,,
 380-apc-m1936,380mm APC Model 1936,france,380,884,21.9,Mn.F.Dn,0,0,,http://www.navweaps.com/Weapons/WNFR_15-45_m1935.php
+370-ap-fra-1875,370mm AP 1875,france,370,560,,,0,0,,
 340-apc-m1912,340mm APC M1912,france,340,640,21,,0,0,,http://www.navweaps.com/Weapons/WNFR_134-45_m1912.php
 340-apc-fra,340mm APC,france,340,490,,,0,0,,https://en.wikipedia.org/wiki/Canon_de_340_mm_Mod%C3%A8le_1887_gun
-340-apc-fra-early,340mm APC (Early),france,340,420,,,0,0,,https://en.wikipedia.org/wiki/340mm/28_Mod%C3%A8le_1881_gun
+340-ap-fra-1887,340mm AP 1887,france,340,490,,,0,0,,https://en.wikipedia.org/wiki/340mm/28_Mod%C3%A8le_1881_gun
+340-ap-fra-1875,340mm AP 1875,france,340,420,,,0,0,,https://en.wikipedia.org/wiki/340mm/28_Mod%C3%A8le_1881_gun
 330-sapc-fra,330mm SAPC (FRA),france,330,560,20.3,Mn.F.Dn,0,0,,http://www.navweaps.com/Weapons/WNFR_13-50_m1931.php
+320-ap-fra-1870,320mm AP 1870,france,320,345,,,0,0,,
 305-apc-m1906,305mm APC Model 1906,france,305,436,11.3,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
 305-apc-m1910,305mm APC Model 1910,france,305,428,16.5,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
-305-ap-fra,305mm AP,france,305,349,,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
-274-apc-fra,274mm APC,france,274,255,3.7,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNFR_10-40_m1893.php
-274-apc-fra-early,274mm APC (Early),france,274,216,,,0,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
-274-ap-fra-early,274mm AP (Early),france,274,216,,,0,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
-240-ap-fra,240mm AP (FRA),france,240,221,6.59,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_94-50_m1902.php
-240-ap-fra-early,240mm AP (Early),france,240,114,,,0,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
+305-ap-fra-1896,305mm AP 1896,france,305,349,,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
+305-ap-fra-1887,305mm AP 1887,france,305,340,,Melinite,0,0,,
+274-apc-fra-1887,274mm APC 1887,france,274,255,3.7,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNFR_10-40_m1893.php
+274-ap-fra-1864,274mm AP 1864,france,274,216,,,0,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
+240-ap-fra-1902,240mm AP 1902,france,240,221,6.59,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_94-50_m1902.php
+240-ap-fra-1893,240mm AP 1893,france,240,170,,,0,0,,
+240-ap-fra-1864,240mm AP 1864,france,240,144,,,0,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
 223-he-paixhans-fra,223mm HE Paixhans Shell,france,223,23,,,0,0,,https://en.wikipedia.org/wiki/Paixhans_gun
-194-apc-fra,194mm APC,france,194,86,1.4,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_76-50_m1902.php
-194-ap-fra-early,194mm AP (Early),france,194,75,,,0,0,,https://en.wikipedia.org/wiki/La_Galissonni%C3%A8re-class_ironclad#Armament
-194-s-50pdr,194mm Solid 50-pdr (FRA),france,194,22.7,0,None,0,0,,
-165-apc-fra-early,165mm APC (Early),france,165,54.9,0.97,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
-165-s-30pdr,165mm Solid 30-pdr (FRA),france,165,13.6,0,None,0,0,,
+194-apc-fra-1902,194mm APC 1902,france,194,86,1.4,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_76-50_m1902.php
+194-ap-fra-1864,194mm AP 1864,france,194,75,,,0,0,,https://en.wikipedia.org/wiki/La_Galissonni%C3%A8re-class_ironclad#Armament
+194-s-50pdr,194mm Solid 50-pdr (FRA),france,194,25.2,0,None,0,0,,
+165-apc-fra-1896,165mm APC 1896,france,165,54.9,0.97,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
+165-ap-fra-1887,165mm AP 1887,france,165,52.6,,Melinite,0,0,,
+165-ap-fra-1881,165mm AP 1881,france,165,52,,,0,0,,
+165-ap-fra-1864,165mm AP 1864,france,165,45,,,0,0,,
+165-s-fra-1858,165mm Solid 1858,france,165,31.5,0,None,0,0,,
 152-sapc-m1937_152-he-m1937,152mm SAPC Model 1937 + 152 HE Model 1937,france,152,57.1,1.7,Melinite,49.7,,Melinite,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
-139-sap-fra,138.6mm SAP,france,139,36.5,2.66,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
-139-ap-fra,139mm AP,france,139,36.5,,,0,0,,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
-138-he-fra-early,138mm HE (Early),france,138,30,,Melinite,0,0,,https://en.wikipedia.org/wiki/Marceau-class_ironclad
+139-sap-fra-1910,138.6mm SAP 1910,france,139,36.5,2.66,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
+139-ap-fra-1888,139mm AP 1888,france,139,36.5,,,0,0,,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
+139-he-fra-1884,139mm HE 1884,france,139,35,,,0,0,,
+139-he-fra-1881,139mm HE 1881,france,139,30,,,0,0,,
+139-he-fra-1870,139mm HE 1870,france,139,23,,,0,0,,
+139-he-fra-1858,139mm HE 1858,france,139,18.7,,,0,0,,
 130-sap_130-he-fra,130mm SAP + 130mm HE,france,130,32.1,1.6,,29.5,3.2,,http://www.navweaps.com/Weapons/WNFR_51-45_m1932.php
+121-he-fra-12pdr,121mm HE 12-pdr,france,121,4.1,,,0,0,,https://en.wikipedia.org/wiki/Canon_obusier_de_12
+100-he-fra-1891,100mm HE 1891,france,100,16,,,0,0,,
 100-sap_100-he-fra,100mm SAP + 100mm HE (FRA),france,100,15,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-ap-fra,100mm AP,france,100,15,,,0,0,,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891#Ammunition
+100-ap-fra-1881,100mm AP 1881,france,100,14,,,0,0,,
 100-he-fra,100mm HE (FRA),france,100,13.5,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-he-m1945,100mm HE Model 1945,france,100,13.3,,,13.3,,,http://www.navweaps.com/Weapons/WNFR_39-55_m1945.php
-75-he-fra-early,75mm HE (Early),france,75,6.4,0.9,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_3-62_m1908.php
-65-he-9pdr-fra,9-pdr HE,france,65,4.2,,,0,0,,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
-65-he-9pdr-fra-early,9-pdr HE,france,65,4.1,,,0,0,,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
+90-he-fra-1881,90mm HE 1881,france,90,8,,,0,0,,
+75-he-fra-1908,75mm HE 1908,france,75,6.4,0.9,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_3-62_m1908.php
+75-he-fra-1922,75mm HE 1922,france,75,5.9,,,5.9,,,http://www.navweaps.com/Weapons/WNFR_3-50_m1922.php
+75-he-fra-1897,75mm HE 1897,france,75,5.4,,,5.4,,,https://en.wikipedia.org/wiki/Canon_de_75_mod%C3%A8le_1897
+65-he-9pdr-fra-1888,9-pdr HE,france,65,4.2,,,0,0,,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
 57-he-fra,57mm HE (FRA),france,57,2.6,0.34,,2.6,0.34,,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
-47-he-fra,47mm HE,france,47,2,,,2,,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
+47-he-fra-1902,47mm HE 1902,france,47,2,,,2,,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
+47-he-fra-1885,47mm HE 1885,france,47,1.5,,,2,,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
 37-he-m1925,37mm HE Model 1925,france,37,0.7,,,0.7,,,http://www.navweaps.com/Weapons/WNFR_37-50_cail_m1933.php
 13-b-fra,13.2mm Ball (FRA),france,13,0.05,0,None,0.05,0,None,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
 380-apc-l44,"38cm APC L/4,4",germany,380,800,18.8,,0,0,,https://docs.google.com/spreadsheets/d/1Ev_IfHD4VCotj63I3VZ110zVyHzT8u_J8Q0KzTlseD4/edit#gid=2102861716
@@ -144,7 +161,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 76-ap-ita,76mm AP,italy,76,6,,,0,0,,http://www.navweaps.com/Weapons/WNIT_3-50_m1909.php
 40-he-ita,40mm HE,italy,40,0.9,0.1,,0.9,0.1,,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 37-he-ita,37mm HE,italy,37,0.82,0.02,TNT,0.82,0.02,TNT,http://www.navweaps.com/Weapons/WNIT_37mm-54_m1932.php
-37-he-ita-early,37mm HE (Early),italy,37,0.51,,,0.51,,,http://navypedia.org/arms/italy/arms_it_guns.htm
+37-he-ita-early,37mm HE (Early),italy,37,0.51,0.01,Black Powder,0.51,,,http://navypedia.org/arms/italy/arms_it_guns.htm
 20-he-ita,20mm HE,italy,20,0.13,,,0.13,,,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
 460-apc-type1,46cm APC Type 1,japan,460,1460,33.85,,0,0,,http://www.navweaps.com/Weapons/WNJAP_18-45_t94.php
 410-apc-type3,41cm APC Type 3,japan,410,1000,14.9,,0,0,,http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.php

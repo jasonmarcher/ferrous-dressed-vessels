@@ -128,62 +128,74 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 420-bg-m1875,420mm/22 Model 1875,French 420mm,france,1875-01-01,420,22,,,,Breech,,0,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 420-bg-m1875-ter,420mm/19 Model 1875 (Terrible),French 420mm,france,1875-01-01,420,19,,,,Breech,,0,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 380-bg-m1935,380mm/45 Model 1935,French 380mm,france,1935-01-01,380,45,94130,1.3,1,Breech,830,0,104,http://www.navweaps.com/Weapons/WNFR_15-45_m1935.php
+370-bg-m1875-79-3,370mm/28 Model 1875-79,French 370mm,france,1903-01-01,370,28,,0.3,0.3,Breech,,0,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
+370-bg-m1875-79-2,370mm/28 Model 1875-79,French 370mm,france,1895-01-01,370,28,,0.13,0.13,Breech,,0,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
 370-bg-m1875-79,370mm/28 Model 1875-79,French 370mm,france,1875-01-01,370,28,,0.1,0.1,Breech,,0,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
 340-bg-m1912,340mm/45 Model 1912,French 340mm,france,1912-01-01,340,45,66950,2,1.7,Breech,794,0,100,http://www.navweaps.com/Weapons/WNFR_134-45_m1912.php
 340-bg-m1887,340mm/42 Model 1887,French 340mm,france,1887-01-01,340,42,61660,0.25,0.25,Breech,740,0,,https://en.wikipedia.org/wiki/Canon_de_340_mm_Mod%C3%A8le_1887_gun
-340-bg-m1881,340mm/29 Model 1881,French 340mm,france,1881-01-01,340,28.5,52200,0.2,0.2,Breech,600,0,,https://en.wikipedia.org/wiki/340mm/28_Mod%C3%A8le_1881_gun
+340-bg-m1884,340mm/29 Model 1884,French 340mm,france,1884-01-01,340,28.5,51244,0.2,0.2,Breech,600,0,,https://en.wikipedia.org/wiki/340mm/28_Mod%C3%A8le_1881_gun
 340-bg-m1881,340mm/21 Model 1881,French 340mm,france,1881-01-01,340,21,,,,Breech,,0,,http://www.navypedia.org/ships/france/fr_bb_courbet82.htm
 340-bg-m1875,340mm/18 Model 1875,French 340mm,france,1875-01-01,340,18,,0.1,0.08,Breech,,0,,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
 340-bg-m1875,340mm/18 Model 1875,French 340mm,france,1875-01-01,340,18,,,,Breech,,0,,http://www.navypedia.org/ships/france/fr_bb_courbet82.htm
 330-bg-m1931,330mm/50 Model 1931,French 330mm,france,1931-01-01,330,50,70535,2,1.5,Breech,870,0,112,http://www.navweaps.com/Weapons/WNFR_13-50_m1931.php
+320-bg-m1870-81,320mm/25 Model 1870-81,French 320mm,france,1881-01-01,320,25,42800,,,Breech,,0,,
 305-bg-m1906-1910,305mm/45 Model 1906-1910,French 305mm,france,1910-01-01,305,45,54700,2,1.5,Breech,783,0,100,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
 305-bg-m1906,305mm/45 Model 1906,French 305mm,france,1906-01-01,305,45,54700,2,1.5,Breech,780,0,80,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
-305-bg-m1887,305mm/45 Model 1887,French 305mm,france,1887-01-01,305,45,46000,1,1,Breech,780,0,45,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
-305-bg-m1893-1896,305mm/40 Model 1893/1896,French 305mm,france,1896-01-01,305,40,48000,1,1,Breech,815,0,45,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
+305-bg-m1887,305mm/45 Model 1887,French 305mm,france,1887-01-01,305,45,46000,0.66,0.33,Breech,780,0,45,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
+305-bg-m1893-1896,305mm/40 Model 1893/1896,French 305mm,france,1896-01-01,305,40,48000,0.66,0.33,Breech,815,0,45,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
 305-bg-p1895-early,"12""/40 Pattern 1895",Canet 305mm,france,1895-01-01,305,40,42834,0.7,0.5,Breech,700,0,70,http://www.navweaps.com/Weapons/WNRussian_12-40_m1895.php
 305-bg-p1895,305mm/40 Pattern 1895,Canet 305mm,france,1895-01-01,305,40,42834,1.5,1.5,Breech,700,0,70,http://www.navweaps.com/Weapons/WNRussian_12-40_m1895.php
 305-bg-m1893,305mm/40 Model 1893,French 305mm,france,1893-01-01,305,40,44000,1,1,Breech,780,0,45,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
-274-bg-m1887-1893,274mm/45 Model 1887/1893,French 274mm,france,1893-01-01,274,45,35658,2,2,Breech,815,0,,http://www.navweaps.com/Weapons/WNFR_10-45_m1893.php
-274-bg-m1893-1895,274mm/40 Model 1893/1895,French 274mm,france,1893-01-01,274,40,38378,2,2,Breech,815,0,,http://www.navweaps.com/Weapons/WNFR_10-40_m1893.php
-274-bg-m1881,274mm/29 Model 1881,French 274mm,france,1881-01-01,274,28.5,,,,Breech,600,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
-274-bg-m1875,274mm/20 Model 1875,French 274mm,france,1875-01-01,274,20,,,,Breech,,0,,http://www.navypedia.org/ships/france/fr_bb_courbet82.htm
-274-bg-m1870,274mm/18 Model 1870,French 274mm,france,1870-01-01,274,18,23210,,,Breech,434,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
-274-ml-m1864,274mm/18 Model 1864-66,French 274mm MLR,france,1864-01-01,274,18,,,,Muzzle,,0,,https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ironclad#Armament
+274-bg-m1887-1893,274mm/45 Model 1887/1893,French 274mm,france,1893-01-01,274.4,45,35658,2,2,Breech,815,0,,http://www.navweaps.com/Weapons/WNFR_10-45_m1893.php
+274-bg-m1893-1895,274mm/40 Model 1893/1895,French 274mm,france,1893-01-01,274.4,40,38378,2,2,Breech,815,0,,http://www.navweaps.com/Weapons/WNFR_10-40_m1893.php
+274-bg-m1881,274mm/29 Model 1881,French 274mm,france,1881-01-01,274.4,28.5,,,,Breech,600,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
+274-bg-m1893,274mm/25 Model 1893,French 274mm,france,1893-01-01,274.4,25,21950,,,Breech,,0,,
+274-bg-m1875,274mm/20 Model 1875,French 274mm,france,1875-01-01,274.4,20,,,,Breech,,0,,http://www.navypedia.org/ships/france/fr_bb_courbet82.htm
+274-bg-m1870,274mm/18 Model 1870,French 274mm,france,1870-01-01,274.4,18,23210,,,Breech,434,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
+274-ml-m1864,274mm/18 Model 1864-66,French 274mm MLR,france,1864-01-01,274.4,18,,,,Muzzle,,0,,https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ironclad#Armament
 240-bg-m1902,240mm/50 Model 1902,French 240mm,france,1902-01-01,240,49,29550,3,3,Breech,800,0,,http://www.navweaps.com/Weapons/WNFR_94-50_m1902.php
-240-bg-m1870,240mm/18 Model 1870,French 240mm,france,1870-01-01,240,18,15660,,,Breech,495,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
-240-ml-m1864,240mm/18 Model 1864-66,French 240mm MLR,france,1864-01-01,240,18,,,,Muzzle,,0,,http://www.navypedia.org/ships/france/fr_bb_ocean.htm
-223-ml-paixhans-fra,223mm/12 Paixhans Guns,Paixhans Gun,france,1823-01-01,223.3,12,3600,,,Muzzle,40,0,,https://en.wikipedia.org/wiki/Paixhans_gun
+240-bg-m1893-96,240mm/40 Model 1893-96,French 240mm,france,1896-01-01,240,40,23987,,,Breech,,0,,
+240-bg-m1884,240mm/30 Model 1884,French 240mm,france,1884-01-01,240,30,18210,,,Breech,495,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
+240-bg-m1870,240mm/19 Model 1870,French 240mm,france,1870-01-01,240,19,15660,,,Breech,495,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
+240-bg-m1864,240mm/18 Model 1864,French 240mm MLR,france,1864-01-01,240,17.5,14500,,,Breech,,0,,http://www.navypedia.org/ships/france/fr_bb_ocean.htm
+223-ml-paixhans-fra,223mm/12 Obusier Model 1858-60,Paixhans Gun,france,1858-01-01,223.3,10.5,3600,,,Muzzle,40,0,,https://en.wikipedia.org/wiki/Paixhans_gun
 194-bg-m1902,194mm/50 Model 1902,French 194mm,france,1902-01-01,194,50,15180,2,2,Breech,950,0,,http://www.navweaps.com/Weapons/WNFR_76-50_m1902.php
-194-bg-m1870,194mm/20 Model 1870,French 194mm,france,1870-01-01,194,20,7960,,,Breech,530,0,,https://en.wikipedia.org/wiki/French_ironclad_Duguesclin#Design
-194-ml-m1864,194mm/19 Model 1864,French 194mm MLR,france,1864-01-01,194,19,,,,Muzzle,,0,,https://en.wikipedia.org/wiki/French_ironclad_Belliqueuse#Armament
-194-bg-m1864,194mm/19 Model 1864,French 194mm,france,1864-01-01,194,19,,,,Breech,,0,,https://en.wikipedia.org/wiki/Alma-class_ironclad#Armament
-194-ml-50pdr,194mm/16 50-pdr,French 50-pdr,france,,194,16,,,,Muzzle,,0,,https://en.wikipedia.org/wiki/French_ironclad_Provence#Armament_and_protection
-194-fra-unknown,194mm/ Unknown Model,French 194mm,france,,194,,,,,,,0,,https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ironclad#Armament
+194-bg-m1870,194mm/20 Model 1870,French 194mm,france,1870-01-01,194,19.8,7960,,,Breech,530,0,,https://en.wikipedia.org/wiki/French_ironclad_Duguesclin#Design
+194-bg-m1864,194mm/18 Model 1864,French 194mm,france,1864-01-01,194,18.1,8000,,,Breech,,0,,https://en.wikipedia.org/wiki/Alma-class_ironclad#Armament
+194-ml-50pdr,194mm/16 50-pdr,French 50-pdr,france,1849-01-01,194,16.4,4624,,,Muzzle,,0,,https://en.wikipedia.org/wiki/French_ironclad_Provence#Armament_and_protection
 165-fra-unknown,165mm/ Unknown Model,French 165mm,france,,165,,,,,,,0,,https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ironclad#Armament
 165-bg-m1893-1896,165mm/45 Model 1893-1896,French 165mm,france,1896-01-01,164.7,45,7040,3,3,Breech,865,0,,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
 165-bg-m1891,165mm/45 Model 1891,French 165mm,france,1891-01-01,164.7,45,7040,3,3,Breech,770,0,,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
-165-bg-m1881,165mm/28 Model 1881,French 165mm,france,1881-01-01,164.7,28,,,,Breech,,0,,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
+165-bg-m1887,165mm/45 Model 1887,French 165mm,france,1887-01-01,164.7,45,6500,3,3,Breech,770,0,,
+165-bg-m1884,165mm/30 Model 1884,French 165mm,france,1884-01-01,164.7,30,,1,1,Breech,,0,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
+165-bg-m1881,165mm/28 Model 1881,French 165mm,france,1881-01-01,164.7,28,5100,1,1,Breech,,0,,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
 165-ml-m1864,165mm/18 Model 1864,French 165mm,france,1864-01-01,164.7,18,,,,Muzzle,,0,,https://en.wikipedia.org/wiki/French_ironclad_Belliqueuse#Armament
-165-ml-30pdr-m1858,165mm/17 30-pdr Model 1858-60,French 30-pdr,france,1858-01-01,164.7,17,,,,Muzzle,,0,,https://en.wikipedia.org/wiki/Provence-class_ironclad#Armament_and_protection
-163-bg-m1884,163mm/30 Model 1884,French 165mm,france,1884-01-01,163,30,,1,1,Breech,,0,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
+165-ml-m1858-60,165mm/17 Model 1858-60,French 30-pdr,france,1858-01-01,164.7,16.7,3640,,,Muzzle,,0,,https://en.wikipedia.org/wiki/Provence-class_ironclad#Armament_and_protection
+165-bg-m1858-60,165mm/16 Model 1858-60,French 30-pdr,france,1858-01-01,164.7,16,3640,,,Breech,,0,,https://en.wikipedia.org/wiki/Provence-class_ironclad#Armament_and_protection
 152-bg-m1930-dp,152mm/55 Model 1930 DP,French 152mm,france,1930-01-01,152,55,7780,6.5,6,Breech,870,870,400,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-bg-p1892,"6""/45 Pattern 1892",Canet 152mm,france,1892-01-01,152,45,6000,7,7,Breech,793,0,200,http://www.navweaps.com/Weapons/WNRussian_6-45_m1892.php
-139-bg-model-1888,139mm/45 Model 1888,French 139mm,france,1888-01-01,138.6,45,4100,4,4,Breech,725,0,,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
-139-bg-m1881,139mm/28 Model 1881,French 138mm,france,1881-01-01,138.6,28,,5,4,Breech,590,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
-139-bg-m1870,139mm/21 Model 1870,French 139mm,france,1870-01-01,138.6,21,2670,5,4,Breech,466,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
+139-bg-model-1888,139mm/45 Model 1888,French 139mm,france,1888-01-01,138.6,45,4100,5,4,Breech,725,0,,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
+139-bg-m1881,139mm/30 Model 1881,French 138mm,france,1881-01-01,138.6,30,3260,1,1,Breech,590,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
+139-bg-m1884,139mm/30 Model 1884,French 138mm,france,1884-01-01,138.6,29.9,3250,5,4,Breech,590,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
+139-bg-m1870,139mm/21 Model 1870,French 139mm,france,1870-01-01,138.6,21,2690,1,1,Breech,466,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
 139-bg-m1910,139mm/55 Model 1910,French 138.6mm,france,1910-01-01,138.6,55,5300,6,5,Breech,830,0,275,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
 130-bg-m1932,130mm/45 Model 1932,French 130mm,france,1932-01-01,130,45,3810,12,10,Breech,800,0,400,http://www.navweaps.com/Weapons/WNFR_51-45_m1932.php
+121-ml-12pdr,121mm/19 12-pdr,French 12-pdr,france,1853-01-01,121,19,626,1,1,Muzzle,439,0,,https://en.wikipedia.org/wiki/Canon_de_12_Gribeauval
 120-bg-p1892,120mm/45 Pattern 1892,Canet 120mm,france,1892-01-01,120,45,2952,15,12,Breech,823,0,200,http://www.navweaps.com/Weapons/WNRussian_47-45_m1892.php
 120-bg-m1870,120mm/25 Model 1870,French 120mm,france,1870-01-01,120,25,,,,Muzzle,,0,,http://www.navypedia.org/ships/france/fr_bb_richelieu75.htm
 100-bg-m1945,100mm/55 Model 1945,French 100mm,france,1945-01-01,100,55,1840,25,20,Breech,855,855,1000,http://www.navweaps.com/Weapons/WNFR_39-55_m1945.php
 100-bg-m1930-bb,100mm/45 Model 1930,French 100mm,france,1930-01-01,100,45,1620,12,10,Breech,780,780,400,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-bg-m1930,100mm/45 Model 1930,French 100mm,france,1930-01-01,100,45,1620,12,10,Breech,765,780,300,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-bg-m1891,100mm/45 Model 1891,Schneider et Cie 100mm,france,1891-01-01,100,45,1700,10,10,Breech,703,0,,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
-100-bg-m1881,100mm/26 Model 1881,French 100mm,france,1881-01-01,100,26,,,,Breech,,0,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
+100-bg-m1881,100mm/26 Model 1881,French 100mm,france,1881-01-01,100,26,1200,,,Breech,,0,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
+90-bg-m1881,90mm/22 Model 1881,French 90mm,france,1881-01-01,90,22.1,540,,,Breech,,0,,
 75-bg-m1908,75mm/62.5 Model 1908,French 75mm,france,1908-01-01,75,62.5,1450,15,7,Breech,850,0,,http://www.navweaps.com/Weapons/WNFR_3-62_m1908.php
+75-bg-m1922,75mm/50 Model 1922,French 75mm,france,1922-01-01,75,50,1070,12,8,Breech,850,850,,http://www.navweaps.com/Weapons/WNFR_3-50_m1922.php
 75-bg-p1892,75mm/50 Pattern 1892,Canet 75mm,france,1892-01-01,75,50,901,15,12,Breech,823,747,,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php
+75-bg-m1918,75mm/36 Model 1918 AA,French 75mm,france,1891-01-01,75,36,1544,6,4,Breech,500,500,,https://en.wikipedia.org/wiki/Canon_de_75_mod%C3%A8le_1897
+75-bg-m1897,75mm/36 Model 1897 G,French 75mm,france,1891-01-01,75,36,1544,6,4,Breech,500,0,,https://en.wikipedia.org/wiki/Canon_de_75_mod%C3%A8le_1897
 65-bg-m1902,65mm/50 Model 1902,Schneider et Cie 9-pdr,france,1902-01-01,65,50,594,20,15,Breech,870,0,,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
-65-bg-m1888,65mm/50 Model 1888,Schneider et Cie 9-pdr,france,1888-01-01,65,50,594,20,15,Breech,715,0,,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
+65-bg-m1888,65mm/50 Model 1888,Schneider et Cie 9-pdr,france,1888-01-01,65,50,540,20,15,Breech,715,0,,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
 57-bg-mk1,6-pdr Hotchkiss Mark 1,Hotchkiss 6-pdr,france,1883-01-01,57,40,385,20,20,Breech,683,0,250,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 47-bg-m1902,47mm/50 Hotchkiss L/50 Model 1902,Hotchkiss 3-pdr,france,1902-01-01,47,50,594,25,20,Breech Semi-Automatic,590,0,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
 47-bg-sfk-l44,47mm/40 SFK L/44,Hotchkiss 3-pdr,france,1890-01-01,47,40,256,25,20,Breech Semi-Automatic,710,0,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Austro-Hungarian_service
@@ -198,11 +210,12 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 37-bg-m1933,37mm/50 CAIL Model 1933,French 37mm,france,1933-01-01,37,50,300,30,20,Breech,810,810,1000,http://www.navweaps.com/Weapons/WNFR_37-50_cail_m1933.php
 37-bg-mk3,"1-pdr Hotchkiss Heavy, Long, Mark 1",Hotchkiss 1-pdr,france,1885-01-01,37,40,,25,20,Breech Semi-Automatic,610,0,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
 37-bg-m1884,1-pdr Hotchkiss M1884,Hotchkiss 1-pdr,france,1884-01-01,37,23,,25,20,Breech Semi-Automatic,442,0,780,http://navypedia.org/arms/italy/arms_it_guns.htm
-37-bg-m1884,1-pdr Hotchkiss M1873,Hotchkiss 1-pdr,france,1873-01-01,37,20,,32,32,Breech Hand-Crank,442,0,780,http://www.navweaps.com/Weapons/WNRussian_37mm_Hotchkiss.php
-37-bg-revolver,1-pdr Hotchkiss Revolving Cannon,Hotchkiss 1-pdr,france,1872-01-01,37,20,,68,68,Breech Hand-Crank,,,,https://military-history.fandom.com/wiki/Hotchkiss_gun
-25-mg-type96,25mm/60 Type 96,Hotchkiss 25mm,france,1935-01-01,25,60,115,200,120,Breech Autoloader,900,900,2000,http://www.navweaps.com/Weapons/WNJAP_25mm-60_mg.php
-13-mg-type93,13mm/76 Type 93,Hotchkiss M1929,france,1933-01-01,13.2,76,42,450,250,Breech Autoloader,805,805,2500,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
-13-mg-m1929,13.2mm/76 Model 1929,Hotchkiss M1929,france,1930-01-01,13.2,76,30,450,250,Breech Autoloader,800,800,3000,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
+37-bg-m1885,1-pdr Hotchkiss M1885,Hotchkiss 1-pdr,france,1885-01-01,37,20,,25,20,Breech Semi-Automatic,,0,780,
+37-bg-revolver,1-pdr Hotchkiss Revolving Cannon,Hotchkiss 1-pdr Revolver,france,1872-01-01,37,20,210,68,32,Breech Hand-Crank,442,0,780,https://military-history.fandom.com/wiki/Hotchkiss_gun
+25-mg-type96,25mm/60 Type 96,Hotchkiss 25mm,france,1935-01-01,25,60,115,200,120,Breech Automatic,900,900,2000,http://www.navweaps.com/Weapons/WNJAP_25mm-60_mg.php
+13-mg-type93,13.2mm/76 Type 93,Hotchkiss M1929,france,1933-01-01,13.2,76,42,450,250,Breech Automatic,805,805,2500,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
+13-mg-m1929,13.2mm/76 Model 1929,Hotchkiss M1929,france,1930-01-01,13.2,76,30,450,250,Breech Automatic,800,800,3000,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
+13-mg-browning-fn,13.2mm/62 Browning F.N.,FN 13.2mm,france,1939-01-01,13.2,61.9,24,1500,1080,Breech Automatic,900,900,,"https://en.wikipedia.org/wiki/Mitrailleuse_d%27Avion_Browning_-_F.N._Calibre_13,2_mm"
 380-bg-sk-c34,38cm/48 SK C/34,Krupp 38cm C/34,germany,1934-01-01,380,48,111000,2.3,1,Breech,820,0,120,http://www.navweaps.com/Weapons/WNGER_15-52_skc34.php
 380-bg-sk-l45,38cm/42.5 SK L/45,Krupp 38cm L/45,germany,1913-01-01,380,42.5,80000,2.5,2,Breech,800,0,90,http://www.navweaps.com/Weapons/WNGER_15-45_skc13.php
 355-bg-sk-l45,35cm/42 SK L/45,German 35cm,germany,1914-01-01,355,42,73500,2.5,2,Breech,815,0,90,http://www.navweaps.com/Weapons/WNGER_14-45_skc14.php
@@ -231,7 +244,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 88-bg-sk-l35,8.8cm/32 SK L/35,Krupp 8.8cm,germany,1900-01-01,88,32,3080,12,12,Breech,690,0,150,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
 88-bg-sk-l30,8.8cm/27 SK L/30,Krupp 8.8cm,germany,1890-01-01,88,27,644,15,15,Breech,616,0,200,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 37-mg-sk-c30,3.7cm/83 SK C/30,Rheinmetall 3.7cm,germany,1930-01-01,37,83,243,30,30,Breech Autoloader,1000,1000,2000,http://www.navweaps.com/Weapons/WNGER_37mm-83_skc30.php
-20-mg-c38-aa-mg,2cm/65 C/38 AA MG,Rheinmetall 2cm,germany,1938-01-01,20,65,57.5,480,220,Breech Autoloader,800,835,2000,http://www.navweaps.com/Weapons/WNGER_20mm-65_c30.php
+20-mg-c38-aa-mg,2cm/65 C/38 AA MG,Rheinmetall 2cm,germany,1938-01-01,20,65,57.5,480,220,Breech Automatic,800,835,2000,http://www.navweaps.com/Weapons/WNGER_20mm-65_c30.php
 381-bg-m1934,381mm/50 Model 1934,Gio. Ansaldo 381mm,italy,1934-01-01,381,50,111664,1.3,1.3,Breech,850,0,74,http://www.navweaps.com/Weapons/WNIT_15-50_m1934.php
 381-bg-an1914,381mm/40 Ansaldo 1914,Gio. Ansaldo 381mm,italy,1914-01-01,381,40,62600,2,1.5,Breech,700,700,,http://www.navweaps.com/Weapons/WNIT_15-40_m1914.php
 152-bg-m1934,152mm/55 Model 1934,Gio. Ansaldo 152mm,italy,1934-01-01,152,55,9689,5,4,Breech,910,0,210,http://www.navweaps.com/Weapons/WNIT_6-55_m1936.php
@@ -257,18 +270,18 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 100-bg-b34-p1940,100mm/54 B-34 Pattern 1940,Bolshevik 100mm,russia,1937-01-01,100,53.5,2463,12,10,Breech,895,900,300,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php
 63-bg-p1916,"2.5""/36 Pattern 1916","Obukhov 2.5""",russia,1914-01-01,63.3,36,,30,30,Breech Semi-Automatic,686,686,200,http://www.navweaps.com/Weapons/WNRussian_25-38_m1916.php
 45-mg-rus,45mm/78,Russian 45mm,russia,,45,78,403,75,75,Breech Autoloader,,,800,https://en.wikipedia.org/wiki/Stalingrad-class_battlecruiser#Armament
-37-mg-70k,37mm/63 70-K,Russian 37mm,russia,1938-01-01,37,62.5,126,170,150,Breech Autoloader,880,880,2000,http://www.navweaps.com/Weapons/WNRussian_37mm-67_70-K.php
-25-mg-bl-120,25mm/79 BL-120,Russian 25mm,russia,1948-01-01,25,79,101,285,240,Breech Autoloader,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
-25-mg-110-pm,25mm/79 110-PM,Russian 25mm,russia,1948-01-01,25,79,101,300,285,Breech Autoloader,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
-12-mg-dshk-1938,12.7mm/79 DShK 1938,Tula Arms Plant 12.7mm,russia,1938-01-01,12.7,79,34,600,600,Breech Autoloader,850,850,,https://en.wikipedia.org/wiki/DShK
+37-mg-70k,37mm/63 70-K,Russian 37mm,russia,1938-01-01,37,62.5,126,170,150,Breech Automatic,880,880,2000,http://www.navweaps.com/Weapons/WNRussian_37mm-67_70-K.php
+25-mg-bl-120,25mm/79 BL-120,Russian 25mm,russia,1948-01-01,25,79,101,285,240,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
+25-mg-110-pm,25mm/79 110-PM,Russian 25mm,russia,1948-01-01,25,79,101,300,285,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
+12-mg-dshk-1938,12.7mm/79 DShK 1938,Tula Arms Plant 12.7mm,russia,1938-01-01,12.7,79,34,600,600,Breech Automatic,850,850,,https://en.wikipedia.org/wiki/DShK
 57-mg-m1951,57mm/60 Model 1951,Bofors 57mm,sweden,1951-01-01,57,60,,120,100,Breech Autoloader,865,865,1580,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
 40-bg-mk1,40mm/56 Mark 1,Bofors 40mm,sweden,1941-01-01,40,56,522,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-bg-mark1,40mm/56 OQF Mark I,Bofors 40mm,sweden,1941-01-01,40,56,515,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
-20-bg-mk4,20mm/70 Mark 4,Oerlikon 20mm,switzerland,1941-01-01,20,70,68,320,285,Breech Autoloader,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
-20-bg-mk2,20mm/70 Mark 2,Oerlikon 20mm,switzerland,1939-01-01,20,70,68,320,285,Breech Autoloader,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
-20-bg-mark1,20mm/70 Mark 1,Oerlikon 20mm,switzerland,1939-01-01,20,70,68,320,285,Breech Autoloader,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
-8-mg-unknown,8mm Unknown Machinegun,Unknown,unknown,,8,80,,,,Breech Autoloader,,,,
-7-mg-unknown,7.7mm Unknown Machinegun,Unknown,unknown,,7.7,,,,,Breech Autoloader,,,,
+20-bg-mk4,20mm/70 Mark 4,Oerlikon 20mm,switzerland,1941-01-01,20,70,68,320,285,Breech Automatic,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
+20-bg-mk2,20mm/70 Mark 2,Oerlikon 20mm,switzerland,1939-01-01,20,70,68,320,285,Breech Automatic,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
+20-bg-mark1,20mm/70 Mark 1,Oerlikon 20mm,switzerland,1939-01-01,20,70,68,320,285,Breech Automatic,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
+8-mg-unknown,8mm Unknown Machinegun,Unknown,unknown,,8,80,,,,Breech Automatic,,,,
+7-mg-unknown,7.7mm Unknown Machinegun,Unknown,unknown,,7.7,,,,,Breech Automatic,,,,
 406-bg-mk7,"16""/50 Mark 7","US 16""",usa,1939-01-01,406,50,121519,2,2,Breech,762,0,130,http://www.navweaps.com/Weapons/WNUS_16-50_mk7.php
 406-bg-mk2,"16""/50 Mark 2","US 16""",usa,1916-01-01,406,50,130200,2,2,Breech,853,0,120,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php
 406-bg-mk6,"16""/45 Mark 6","US 16""",usa,1936-01-01,406,45,97231,2,2,Breech,701,0,148,http://www.navweaps.com/Weapons/WNUS_16-45_mk6.php
