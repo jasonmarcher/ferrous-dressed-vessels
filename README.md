@@ -28,6 +28,8 @@ https://civilwarnavy.com/wp-content/uploads/2020/06/Holley_A-Treatise-on-Ordnanc
 http://www.victorianshipmodels.com/antitorpedoboatguns/
 https://archive.org/details/treatiseonconst00offigoog
 http://navalhistory.flixco.info/H/93745x263540/259869/c0.htm
+https://kronoskaf.com/syw/index.php?title=British_Naval_Artillery#Shot_Types
+https://en.wikipedia.org/wiki/32-pounder_gun
 
 Armor
 http://www.navweaps.com/index_nathan/metalprpsept2009.php
@@ -110,3 +112,5 @@ https://wargamingmiscellanybackup.wordpress.com/2013/12/
 
 Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
+
+http://www.hisutton.com/WW2-Maru-Yu-Class-Submarine.html
