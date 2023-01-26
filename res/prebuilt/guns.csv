@@ -120,6 +120,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 57-bg-n1885,57mm/43 Nordenfelt Model 1887,Nordenfelt 6-pdr,britain,1885-01-01,57,43,289,20,18,Breech,554,0,,https://en.wikipedia.org/wiki/QF_6-pounder_Nordenfelt
 47-bg-vickers-qf-mark1,3-pdr Vickers QF Mark 1,Vickers 3-pdr,britain,1885-01-01,47,50,295,25,25,Breech Semi-Automatic,785,785,300,http://www.navweaps.com/Weapons/WNBR_3pounder_V_mk1.php
 40-mg-qf-markviii-hv,2-pdr/39 QF Mark VIII (High Velocity),Vickers 2-pdr,britain,1923-01-01,40,39,385,98,98,Breech Autoloader,732,732,1800,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
+40-mg-bi-type91,"40mm/39 ""BI"" Type 91",Vickers 2-pdr,britain,1923-01-01,40,39,281,200,100,Breech Autoloader,600,600,5000,http://www.navweaps.com/Weapons/WNJAP_40mm-62_HI.php
 40-mg-v1915,40mm/39 Vickers 1915,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,610,610,1500,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 40-mg-qf-markvii,2-pdr/39 QF Mark VII,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,585,585,,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 37-bg-marki,1.5-pdr/43 Mark I,Vickers 1.5-pdr,britain,1910-01-01,37,43,57,25,20,Breech Semi-Automatic,640,640,,http://www.navweaps.com/Weapons/WNBR_1-5pounder_m1.php
@@ -216,6 +217,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 13-mg-type93,13.2mm/76 Type 93,Hotchkiss M1929,france,1933-01-01,13.2,76,42,450,250,Breech Automatic,805,805,2500,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
 13-mg-m1929,13.2mm/76 Model 1929,Hotchkiss M1929,france,1930-01-01,13.2,76,30,450,250,Breech Automatic,800,800,3000,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
 13-mg-browning-fn,13.2mm/62 Browning F.N.,FN 13.2mm,france,1939-01-01,13.2,61.9,24,1500,1080,Breech Automatic,900,900,,"https://en.wikipedia.org/wiki/Mitrailleuse_d%27Avion_Browning_-_F.N._Calibre_13,2_mm"
+6-mg-3rd-year-type,6.5mm/115 3rd Year Type Kiho,Hotchkiss 6.5mm,france,1914-01-01,6.5,115,28,500,400,Breech Automatic,740,740,,http://www.navweaps.com/Weapons/WNJAP_65mm-115_Kiho.php
 380-bg-sk-c34,38cm/48 SK C/34,Krupp 38cm C/34,germany,1934-01-01,380,48,111000,2.3,1,Breech,820,0,120,http://www.navweaps.com/Weapons/WNGER_15-52_skc34.php
 380-bg-sk-l45,38cm/42.5 SK L/45,Krupp 38cm L/45,germany,1913-01-01,380,42.5,80000,2.5,2,Breech,800,0,90,http://www.navweaps.com/Weapons/WNGER_15-45_skc13.php
 355-bg-sk-l45,35cm/42 SK L/45,German 35cm,germany,1914-01-01,355,42,73500,2.5,2,Breech,815,0,90,http://www.navweaps.com/Weapons/WNGER_14-45_skc14.php
@@ -331,7 +333,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 127-bg-mk5,"5""/50 Mark 5","US 5""",usa,1900-01-01,127,50,,8,7,Breech,914,0,240,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
 127-bg-mk2,"5""/40 Mark 2","US 5""",usa,1890-01-01,127,40,3211,12,12,Breech,701,0,240,http://www.navweaps.com/Weapons/WNUS_5-40_mk2.php
 127-bg-mk12-hoist,"5""/38 Mark 12","US 5""",usa,1932-01-01,127,38,2100,22,18.8,Breech,792,792,450,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
-127-bg-mk12,"5""/38 Mark 12","US 5""",usa,1932-01-01,127,38,2100,15,13.5,Breech,792,0,450,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
+127-bg-mk12,"5""/38 Mark 12","US 5""",usa,1932-01-01,127,38,2100,15,13.5,Breech,792,792,450,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
 127-bg-mk1,"5""/31 Mark 1","US 5""",usa,1885-01-01,127,31,2900,6,6,Breech,701,0,,http://www.navweaps.com/Weapons/WNUS_5-31_mk1.php
 127-bg-mk10,"5""/25 Mark 10","US 5""",usa,1921-01-01,127,25,1937,20,17.5,Breech,657,657,200,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php
 120-bg-mk3,"4.7""/50 Mark 3","US 4.7""",usa,1895-01-01,120,50,2200,6,5.5,Breech,675,0,,http://www.navweaps.com/Weapons/WNUS_47-50_mk3.php

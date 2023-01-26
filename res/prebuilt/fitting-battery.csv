@@ -1,47 +1,225 @@
 FittingID,BatteryID,AmmoID,BatteryRole,BatteryIndex
-bb-iowa_iowa,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
-bb-iowa_iowa,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
-bb-iowa_iowa,40-t-mk4_x15,40-he-mk1,AA Battery,3
-bb-iowa_iowa,20-p-mk6_x60,20-he-mk3,AA Battery,4
 bb-iowa,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
 bb-iowa,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
-bb-iowa,40-t-mk4_x20,40-he-mk1,AA Battery,3
-bb-iowa,20-p-mk6_x49,20-he-mk3,AA Battery,4
+bb-iowa,28-p-quad_x4,28-het-mk1,AA Battery,3
+bb-iowa,12-p-mk3_x12,12-b-us,AA Battery,4
+bb-iowa_iowa-1942,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_iowa-1942,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_iowa-1942,40-t-mk4_x15,40-he-mk1,AA Battery,3
+bb-iowa_iowa-1942,20-p-mk6_x60,20-he-mk3,AA Battery,4
+bb-iowa_iowa-1943-11,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_iowa-1943-11,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_iowa-1943-11,40-t-mk4_x19,40-he-mk1,AA Battery,3
+bb-iowa_iowa-1943-11,20-p-mk6_x52,20-he-mk3,AA Battery,4
+bb-iowa_iowa-1945,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_iowa-1945,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_iowa-1945,40-t-mk4_x19,40-he-mk1,AA Battery,3
+bb-iowa_iowa-1945,20-p-mk24_x8,20-he-mk3,AA Battery,4
+bb-iowa_iowa-1945,20-p-mk6_x52,20-he-mk3,AA Battery,4
+bb-iowa_iowa-1945-11,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_iowa-1945-11,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_iowa-1945-11,40-t-mk4_x19,40-he-mk1,AA Battery,3
+bb-iowa_iowa-1945-11,20-p-mk24_x8,20-he-mk3,AA Battery,4
+bb-iowa_iowa-1945-11,20-p-mk6_x52,20-he-mk3,AA Battery,4
+bb-iowa_iowa-1946,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_iowa-1946,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_iowa-1946,40-t-mk4_x15,40-he-mk1,AA Battery,3
+bb-iowa_iowa-1951,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_iowa-1951,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_iowa-1951,40-t-mk4_x19,40-he-mk1,AA Battery,3
+bb-iowa_iowa-1955,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_iowa-1955,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_iowa-1955,40-t-mk4_x15,40-he-mk1,AA Battery,3
+bb-iowa_1942,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_1942,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_1942,40-t-mk4_x20,40-he-mk1,AA Battery,3
+bb-iowa_1942,20-p-mk6_x49,20-he-mk3,AA Battery,4
 bb-iowa_wisconsin,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
 bb-iowa_wisconsin,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 bb-iowa_wisconsin,40-t-mk4_x20,40-he-mk1,AA Battery,3
 bb-iowa_wisconsin,20-p-mk24_x2,20-he-mk3,AA Battery,4
 bb-iowa_wisconsin,20-p-mk6_x49,20-he-mk3,AA Battery,4
+bb-iowa_1945,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_1945,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_1945,40-t-mk4_x20,40-he-mk1,AA Battery,3
+bb-iowa_1945,20-p-mk24_x8,20-he-mk3,AA Battery,4
+bb-iowa_1945,20-p-mk6_x49,20-he-mk3,AA Battery,4
+bb-iowa_1945-11,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_1945-11,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_1945-11,40-t-mk4_x20,40-he-mk1,AA Battery,3
+bb-iowa_1945-11,20-p-mk24_x8,20-he-mk3,AA Battery,4
+bb-iowa_1945-11,20-p-mk6_x49,20-he-mk3,AA Battery,4
+bb-iowa_1946,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_1946,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_1946,40-t-mk4_x16,40-he-mk1,AA Battery,3
+bb-iowa_1950,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_1950,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_1950,40-t-mk4_x20,40-he-mk1,AA Battery,3
+bb-iowa_1950,20-p-mk24_x16,20-he-mk3,AA Battery,4
+bb-iowa_1951,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_1951,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_1951,40-t-mk4_x20,40-he-mk1,AA Battery,3
+bb-iowa_1953,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_1953,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_1953,40-t-mk4_x18,40-he-mk1,AA Battery,3
+bb-iowa_wisconsin-1956,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_wisconsin-1956,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-iowa_wisconsin-1956,40-t-mk4_x16,40-he-mk1,AA Battery,3
+bb-iowa_wisconsin-1956,20-p-mk24_x16,20-he-mk3,AA Battery,4
+bb-iowa_1967,406-ag-3-iowa_abx,406-ap-mk8,Primary Gun,1
+bb-iowa_1967,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 bb-north-carolina,406-ag-3_abx,406-ap-mk8,Primary Gun,1
 bb-north-carolina,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 bb-north-carolina,28-p-quad_x4,28-het-mk1,AA Battery,3
 bb-north-carolina,12-p-mk3_x12,12-b-us,AA Battery,4
-bb-south-dakota_design,406-ag-3_abx,406-ap-mk8,Primary Gun,1
-bb-south-dakota_design,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
-bb-south-dakota_design,28-p-quad_x3,28-het-mk1,AA Battery,3
-bb-south-dakota_design,12-p-mk3_x12,12-b-us,AA Battery,4
+bb-north-carolina_washington-1942-4,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_washington-1942-4,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_washington-1942-4,28-p-quad_x4,28-het-mk1,AA Battery,3
+bb-north-carolina_washington-1942-4,20-p-mk6_x20,20-he-mk3,AA Battery,4
+bb-north-carolina_washington-1942-4,12-p-mk3_x14,12-b-us,AA Battery,5
+bb-north-carolina_washington-1942-7,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_washington-1942-7,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_washington-1942-7,28-p-quad_x4,28-het-mk1,AA Battery,3
+bb-north-carolina_washington-1942-7,20-p-mk6_x25,20-he-mk3,AA Battery,4
+bb-north-carolina_washington-1942-7,12-p-mk3_x25,12-b-us,AA Battery,5
+bb-north-carolina_washington-1942-9,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_washington-1942-9,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_washington-1942-9,28-p-quad_x4,28-het-mk1,AA Battery,3
+bb-north-carolina_washington-1942-9,20-p-mk6_x40,20-he-mk3,AA Battery,4
+bb-north-carolina_washington-1942-9,12-p-mk3_x25,12-b-us,AA Battery,5
+bb-north-carolina_washington-1942-11,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_washington-1942-11,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_washington-1942-11,28-p-quad_x6,28-het-mk1,AA Battery,3
+bb-north-carolina_washington-1942-11,20-p-mk6_x35,20-he-mk3,AA Battery,4
+bb-north-carolina_washington-1943-4,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_washington-1943-4,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_washington-1943-4,28-p-quad_x6,28-het-mk1,AA Battery,3
+bb-north-carolina_washington-1943-4,20-p-mk6_x64,20-he-mk3,AA Battery,4
+bb-north-carolina_washington-1943-7,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_washington-1943-7,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_washington-1943-7,40-t-mk4_x10,40-he-mk1,AA Battery,3
+bb-north-carolina_washington-1943-7,20-p-mk6_x64,20-he-mk3,AA Battery,4
+bb-north-carolina_washington-1943-8,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_washington-1943-8,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_washington-1943-8,40-t-mk4_x15,40-he-mk1,AA Battery,3
+bb-north-carolina_washington-1943-8,20-p-mk6_x64,20-he-mk3,AA Battery,4
+bb-north-carolina_washington-1945,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_washington-1945,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_washington-1945,40-t-mk4_x15,40-he-mk1,AA Battery,3
+bb-north-carolina_washington-1945,20-p-mk24_x8,20-he-mk3,AA Battery,4
+bb-north-carolina_washington-1945,20-p-mk6_x54,20-he-mk3,AA Battery,4
+bb-north-carolina_1942,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_1942,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_1942,28-p-quad_x5-bridge,28-het-mk1,AA Battery,3
+bb-north-carolina_1942,20-p-mk6_x40,20-he-mk3,AA Battery,4
+bb-north-carolina_1942,12-p-mk3_x12,12-b-us,AA Battery,5
+bb-north-carolina_1942-6,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_1942-6,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_1942-6,28-p-quad_x5-bridge,28-het-mk1,AA Battery,3
+bb-north-carolina_1942-6,20-p-mk6_x40,20-he-mk3,AA Battery,4
+bb-north-carolina_1942-6,12-p-mk3_x25,12-b-us,AA Battery,5
+bb-north-carolina_1942-11,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_1942-11,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_1942-11,40-t-mk4_x10,40-he-mk1,AA Battery,3
+bb-north-carolina_1942-11,20-p-mk6_x46,20-he-mk3,AA Battery,4
+bb-north-carolina_1943-6,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_1943-6,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_1943-6,40-t-mk4_x14,40-he-mk1,AA Battery,3
+bb-north-carolina_1943-6,20-p-mk6_x46,20-he-mk3,AA Battery,4
+bb-north-carolina_1943-11,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_1943-11,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_1943-11,40-t-mk4_x15,40-he-mk1,AA Battery,3
+bb-north-carolina_1943-11,20-p-mk6_x46,20-he-mk3,AA Battery,4
+bb-north-carolina_1944,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_1944,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_1944,40-t-mk4_x15,40-he-mk1,AA Battery,3
+bb-north-carolina_1944,20-p-mk6_x48,20-he-mk3,AA Battery,4
+bb-north-carolina_1945,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_1945,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_1945,40-t-mk4_x15,40-he-mk1,AA Battery,3
+bb-north-carolina_1945,20-p-mk24_x8,20-he-mk3,AA Battery,4
+bb-north-carolina_1945,20-p-mk6_x40,20-he-mk3,AA Battery,4
+bb-north-carolina_1946,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-north-carolina_1946,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-north-carolina_1946,40-t-mk4_x13,40-he-mk1,AA Battery,3
+bb-north-carolina_1946,20-p-mk24_x16,20-he-mk3,AA Battery,4
+bb-south-dakota,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota,28-p-quad_x3,28-het-mk1,AA Battery,3
+bb-south-dakota,12-p-mk3_x12,12-b-us,AA Battery,4
 bb-south-dakota_south-dakota,406-ag-3_abx,406-ap-mk8,Primary Gun,1
-bb-south-dakota_south-dakota,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_south-dakota,127-ag-mk28_x8,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 bb-south-dakota_south-dakota,28-p-quad_x7,28-het-mk1,AA Battery,3
 bb-south-dakota_south-dakota,20-p-mk6_x16,20-he-mk3,AA Battery,4
 bb-south-dakota_south-dakota,12-p-mk3_x8,12-b-us,AA Battery,5
 bb-south-dakota_south-dakota-1942,406-ag-3_abx,406-ap-mk8,Primary Gun,1
-bb-south-dakota_south-dakota-1942,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
-bb-south-dakota_south-dakota-1942,40-t-mk4_x4-sd,40-he-mk1,AA Battery,3
-bb-south-dakota_south-dakota-1942,28-p-quad_x5,28-het-mk1,AA Battery,4
-bb-south-dakota_south-dakota-1942,20-p-mk6_x20,20-he-mk3,AA Battery,5
+bb-south-dakota_south-dakota-1942,127-ag-mk28_x8,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_south-dakota-1942,28-p-quad_x7,28-het-mk1,AA Battery,4
+bb-south-dakota_south-dakota-1942,20-p-mk6_x32,20-he-mk3,AA Battery,5
+bb-south-dakota_south-dakota-1942-8,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_south-dakota-1942-8,127-ag-mk28_x8,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_south-dakota-1942-8,40-t-mk4_x4-sd,40-he-mk1,AA Battery,3
+bb-south-dakota_south-dakota-1942-8,28-p-quad_x5,28-het-mk1,AA Battery,4
+bb-south-dakota_south-dakota-1942-8,20-p-mk6_x32,20-he-mk3,AA Battery,5
+bb-south-dakota_south-dakota-1943,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_south-dakota-1943,127-ag-mk28_x8,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_south-dakota-1943,40-t-mk4_x17-sd,40-he-mk1,AA Battery,3
+bb-south-dakota_south-dakota-1943,20-p-mk6_x77,20-he-mk3,AA Battery,4
+bb-south-dakota_south-dakota-1946,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_south-dakota-1946,127-ag-mk28_x8,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_south-dakota-1946,40-t-mk4_x16-sd,40-he-mk1,AA Battery,3
 bb-south-dakota_indiana,406-ag-3_abx,406-ap-mk8,Primary Gun,1
 bb-south-dakota_indiana,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 bb-south-dakota_indiana,40-t-mk4_x6,40-he-mk1,AA Battery,3
-bb-south-dakota_indiana,20-p-mk6_x16,20-he-mk3,AA Battery,4
+bb-south-dakota_indiana,20-p-mk6_x36,20-he-mk3,AA Battery,4
+bb-south-dakota_indiana-1942,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_indiana-1942,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_indiana-1942,40-t-mk4_x6,40-he-mk1,AA Battery,3
+bb-south-dakota_indiana-1942,20-p-mk6_x52-sd,20-he-mk3,AA Battery,4
+bb-south-dakota_indiana-1943,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_indiana-1943,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_indiana-1943,40-t-mk4_x10-sd,40-he-mk1,AA Battery,3
+bb-south-dakota_indiana-1943,20-p-mk6_x44-sd,20-he-mk3,AA Battery,4
+bb-south-dakota_indiana-1944-4,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_indiana-1944-4,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_indiana-1944-4,40-t-mk4_x12-sd,40-he-mk1,AA Battery,3
+bb-south-dakota_indiana-1944-4,20-p-mk6_x45-sd,20-he-mk3,AA Battery,4
+bb-south-dakota_indiana-1944-11,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_indiana-1944-11,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_indiana-1944-11,40-t-mk4_x12-sd,40-he-mk1,AA Battery,3
+bb-south-dakota_indiana-1944-11,20-p-mk24_x4,20-he-mk3,AA Battery,4
+bb-south-dakota_indiana-1944-11,20-p-mk6_x44-sd,20-he-mk3,AA Battery,4
+bb-south-dakota_indiana-1946,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_indiana-1946,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_indiana-1946,40-t-mk4_x12-sd,40-he-mk1,AA Battery,3
 bb-south-dakota_massachusetts,406-ag-3_abx,406-ap-mk8,Primary Gun,1
 bb-south-dakota_massachusetts,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 bb-south-dakota_massachusetts,40-t-mk4_x6,40-he-mk1,AA Battery,3
 bb-south-dakota_massachusetts,20-p-mk6_x35,20-he-mk3,AA Battery,4
+bb-south-dakota_massachusetts-1943,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_massachusetts-1943,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_massachusetts-1943,40-t-mk4_x12-sd,40-he-mk1,AA Battery,3
+bb-south-dakota_massachusetts-1943,20-p-mk6_x42-sd,20-he-mk3,AA Battery,4
+bb-south-dakota_massachusetts-1944,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_massachusetts-1944,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_massachusetts-1944,40-t-mk4_x16-sd-2,40-he-mk1,AA Battery,3
+bb-south-dakota_massachusetts-1944,20-p-mk6_x32-sd,20-he-mk3,AA Battery,4
+bb-south-dakota_massachusetts-1945,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_massachusetts-1945,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_massachusetts-1945,40-t-mk4_x13-sd,40-he-mk1,AA Battery,3
+bb-south-dakota_massachusetts-1945,20-p-mk6_x32-sd,20-he-mk3,AA Battery,4
 bb-south-dakota_alabama,406-ag-3_abx,406-ap-mk8,Primary Gun,1
 bb-south-dakota_alabama,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 bb-south-dakota_alabama,40-t-mk4_x6,40-he-mk1,AA Battery,3
-bb-south-dakota_alabama,20-p-mk6_x22,20-he-mk3,AA Battery,4
+bb-south-dakota_alabama,20-p-mk6_x39-sd,20-he-mk3,AA Battery,4
+bb-south-dakota_alabama-1943,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_alabama-1943,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_alabama-1943,40-t-mk4_x12-sd,40-he-mk1,AA Battery,3
+bb-south-dakota_alabama-1943,20-p-mk6_x52-sd-2,20-he-mk3,AA Battery,4
+bb-south-dakota_alabama-1945,406-ag-3_abx,406-ap-mk8,Primary Gun,1
+bb-south-dakota_alabama-1945,127-ag-mk28_x10,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-south-dakota_alabama-1945,40-t-mk4_x12-sd,40-he-mk1,AA Battery,3
+bb-south-dakota_alabama-1945,20-p-mk6_x56-sd,20-he-mk3,AA Battery,4
 cl-cleveland,152-ag-tripple_abxy,152-ap-mk35,Primary Gun,1
 cl-cleveland,127-ag-mk28_x6,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 cl-cleveland,40-t-mk1_x4,40-he-mk1,AA Battery,3
@@ -55,69 +233,507 @@ dd-fletcher,dct-mk6-mk8_x6,,,
 dd-fletcher,dcr-mk3-mk8_x2,,,
 bc-lexington,406-ag-2-lex_abxy,406-ap-mk3,Primary Gun,1
 bc-lexington,152-c-mk13_x16,152-com-mk27,Secondary Gun,2
-bc-lexington,76-p-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
+bc-lexington,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
 bc-lexington,533-tt-hull_x8-side,,,
 bc-lexington,placeholder_torpedo,,,
 bb-south-dakota-1920,406-ag-2-sd_abxy,406-ap-mk3,Primary Gun,1
-bb-south-dakota-1920,152-c-mk13_x16,152-com-mk27,Secondary Gun,2
-bb-south-dakota-1920,76-p-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-south-dakota-1920,152-c-mk13_x14,152-com-mk27,Secondary Gun,2
+bb-south-dakota-1920,152-p-mk13_x4,152-com-mk27,Secondary Gun,2
+bb-south-dakota-1920,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
 bb-south-dakota-1920,533-tt-hull_x2-side,,,
 bb-south-dakota-1920,placeholder_torpedo,,,
-bb-colorado_design,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
-bb-colorado_design,127-p-p15_x14,127-ap,Secondary Gun,2
-bb-colorado_design,76-p-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
-bb-colorado_design,533-tt-hull_x2-side,,,
-bb-colorado_design,placeholder_torpedo,,,
 bb-colorado,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
-bb-colorado,127-p-p15_x12,127-ap,Secondary Gun,2
-bb-colorado,76-p-mk11_x8,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-colorado,127-p-p15_x14,127-ap,Secondary Gun,2
+bb-colorado,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
 bb-colorado,533-tt-hull_x2-side,,,
 bb-colorado,placeholder_torpedo,,,
-bb-tennessee,356-ag-3-mod1_abxy,356-ap-early,Primary Gun,1
+bb-colorado_1922,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado_1922,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-colorado_1922,76-cp-mk11_x8,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-colorado_1922,533-tt-hull_x2-side,,,
+bb-colorado_1922,placeholder_torpedo,,,
+bb-colorado_1928,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado_1928,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-colorado_1928,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-colorado_1928,533-tt-hull_x2-side,,,
+bb-colorado_1928,placeholder_torpedo,,,
+bb-colorado_1933,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado_1933,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-colorado_1933,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-colorado_1933,12-p-mk3_x8-standard,12-b-us,AA Battery,4
+bb-colorado_1933,533-tt-hull_x2-side,,,
+bb-colorado_1933,placeholder_torpedo,,,
+bb-colorado_west-virginia-1941,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado_west-virginia-1941,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-colorado_west-virginia-1941,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-colorado_west-virginia-1941,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,4
+bb-colorado_west-virginia-1941,12-p-mk3_x11,12-b-us,AA Battery,5
+bb-colorado_west-virginia-1941,533-tt-hull_x2-side,,,
+bb-colorado_west-virginia-1941,placeholder_torpedo,,,
+bb-colorado-mod1,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado-mod1,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-colorado-mod1,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-colorado-mod1,28-p-quad_x4,28-het-mk1,AA Battery,4
+bb-colorado-mod1,20-p-mk6_x14,20-he-mk3,AA Battery,5
+bb-colorado-mod1,12-p-mk3_x8-standard,12-b-us,AA Battery,6
+bb-colorado-mod1_colorado-1942,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado-mod1_colorado-1942,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-colorado-mod1_colorado-1942,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-colorado-mod1_colorado-1942,40-t-mk4_x6-col,40-he-mk1,AA Battery,4
+bb-colorado-mod1_colorado-1942,20-p-mk6_x42,20-he-mk3,AA Battery,5
+bb-colorado-mod1_colorado-1942,12-p-mk3_x8-standard,12-b-us,AA Battery,6
+bb-colorado-mod1_colorado-1944,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado-mod1_colorado-1944,127-p-p15_x8,127-ap,Secondary Gun,2
+bb-colorado-mod1_colorado-1944,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-colorado-mod1_colorado-1944,40-t-mk4_x8-col,40-he-mk1,AA Battery,4
+bb-colorado-mod1_colorado-1944,40-t-mk1_x2-f-ps,40-he-mk1,AA Battery,4
+bb-colorado-mod1_colorado-1944,20-p-mk6_x41-col,20-he-mk3,AA Battery,5
+bb-colorado-mod1_maryland,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado-mod1_maryland,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-colorado-mod1_maryland,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-colorado-mod1_maryland,28-p-quad_x4,28-het-mk1,AA Battery,4
+bb-colorado-mod1_maryland,12-p-mk3_x10,12-b-us,AA Battery,5
+bb-colorado-mod1_maryland-1942,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado-mod1_maryland-1942,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-colorado-mod1_maryland-1942,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-colorado-mod1_maryland-1942,28-p-quad_x6-col,28-het-mk1,AA Battery,4
+bb-colorado-mod1_maryland-1942,20-p-mk6_x32-col,20-he-mk3,AA Battery,5
+bb-colorado-mod1_maryland-1942,12-p-mk3_x10,12-b-us,AA Battery,6
+bb-colorado-mod1_maryland-1944,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado-mod1_maryland-1944,127-p-p15_x8,127-ap,Secondary Gun,2
+bb-colorado-mod1_maryland-1944,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-colorado-mod1_maryland-1944,40-t-mk4_x8-col,40-he-mk1,AA Battery,4
+bb-colorado-mod1_maryland-1944,40-t-mk1_x2-f-ps,40-he-mk1,AA Battery,4
+bb-colorado-mod1_maryland-1944,20-p-mk6_x38-col,20-he-mk3,AA Battery,5
+bb-colorado-mod1_maryland-1945,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-colorado-mod1_maryland-1945,127-ag-mk28_x8-standard,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-colorado-mod1_maryland-1945,40-t-mk4_x13-col,40-he-mk1,AA Battery,3
+bb-colorado-mod1_maryland-1945,20-p-mk24_x23,20-he-mk3,AA Battery,4
+bb-west-virginia-1942,406-ag-2_abxy,406-ap-mk3,Primary Gun,1
+bb-west-virginia-1942,127-ag-mk28_x8-standard,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-west-virginia-1942,40-t-mk4_x10-col,40-he-mk1,AA Battery,3
+bb-west-virginia-1942,20-p-mk6_x60-col,20-he-mk3,AA Battery,4
+bb-tennessee,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
 bb-tennessee,127-p-p15_x14,127-ap,Secondary Gun,2
-bb-tennessee,76-p-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-tennessee,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
 bb-tennessee,533-tt-hull_x2-side,,,
 bb-tennessee,placeholder_torpedo,,,
-bb-new-mexico_design,356-ag-3-nm_abxy,356-ap-early,Primary Gun,1
-bb-new-mexico_design,127-p-p15_x22,127-ap,Secondary Gun,2
-bb-new-mexico_design,76-p-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
-bb-new-mexico_design,533-tt-hull_x2-side,,,
-bb-new-mexico_design,placeholder_torpedo,,,
-bb-new-mexico,356-ag-3-nm_abxy,356-ap-early,Primary Gun,1
-bb-new-mexico,127-p-p15_x14,127-ap,Secondary Gun,2
-bb-new-mexico,76-p-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-tennessee_1922,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-tennessee_1922,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-tennessee_1922,76-cp-mk11_x8,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-tennessee_1922,533-tt-hull_x2-side,,,
+bb-tennessee_1922,placeholder_torpedo,,,
+bb-tennessee_1928,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-tennessee_1928,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-tennessee_1928,127-p-mk19_x8-tenn,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-tennessee_1928,533-tt-hull_x2-side,,,
+bb-tennessee_1928,placeholder_torpedo,,,
+bb-tennessee_1931,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-tennessee_1931,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-tennessee_1931,127-p-mk19_x8-tenn,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-tennessee_1931,12-p-mk3_x8-standard,12-b-us,AA Battery,4
+bb-tennessee_1931,533-tt-hull_x2-side,,,
+bb-tennessee_1931,placeholder_torpedo,,,
+bb-tennessee_1941,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-tennessee_1941,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-tennessee_1941,127-p-mk19_x8-tenn,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-tennessee_1941,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,4
+bb-tennessee_1941,12-p-mk3_x8-standard,12-b-us,AA Battery,5
+bb-tennessee_1941,533-tt-hull_x2-side,,,
+bb-tennessee_1941,placeholder_torpedo,,,
+bb-tennessee_1941-12,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-tennessee_1941-12,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-tennessee_1941-12,127-p-mk19_x8-tenn,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-tennessee_1941-12,28-p-quad_x4,28-het-mk1,AA Battery,4
+bb-tennessee_1941-12,20-p-mk6_x16,20-he-mk3,AA Battery,5
+bb-tennessee_1941-12,533-tt-hull_x2-side,,,
+bb-tennessee_1941-12,placeholder_torpedo,,,
+bb-tennessee-1942,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-tennessee-1942,127-ag-mk28_x8-standard,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-tennessee-1942,40-t-mk4_x10-ten,40-he-mk1,AA Battery,3
+bb-tennessee-1942,20-p-mk6_x39-ten,20-he-mk3,AA Battery,4
+bb-tennessee-1942_california,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-tennessee-1942_california,127-ag-mk28_x8-standard,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-tennessee-1942_california,40-t-mk4_x10-ten,40-he-mk1,AA Battery,3
+bb-tennessee-1942_california,20-p-mk6_x57-ten,20-he-mk3,AA Battery,4
+bb-tennessee-1942_california-1945,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-tennessee-1942_california-1945,127-ag-mk28_x8-standard,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-tennessee-1942_california-1945,40-t-mk4_x14-ten,40-he-mk1,AA Battery,3
+bb-tennessee-1942_california-1945,20-p-mk24_x41,20-he-mk3,AA Battery,4
+bb-new-mexico,356-ag-3-4_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico,127-p-p15_x22,127-ap,Secondary Gun,2
+bb-new-mexico,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
 bb-new-mexico,533-tt-hull_x2-side,,,
 bb-new-mexico,placeholder_torpedo,,,
+bb-new-mexico_1918,356-ag-3-4_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico_1918,127-p-p15_x14,127-ap,Secondary Gun,2
+bb-new-mexico_1918,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-mexico_1918,533-tt-hull_x2-side,,,
+bb-new-mexico_1918,placeholder_torpedo,,,
+bb-new-mexico_1922,356-ag-3-4_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico_1922,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-new-mexico_1922,76-cp-mk11_x8,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-mexico_1922,533-tt-hull_x2-side,,,
+bb-new-mexico_1922,placeholder_torpedo,,,
+bb-new-mexico-1933,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-new-mexico-1933,127-p-mk19_x8-nm,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-new-mexico-1933_1941-5,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933_1941-5,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-new-mexico-1933_1941-5,127-p-mk19_x8-nm,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-new-mexico-1933_1941-5,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,4
+bb-new-mexico-1933_1941-12,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933_1941-12,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-new-mexico-1933_1941-12,127-p-mk19_x8-nm,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-new-mexico-1933_1941-12,28-p-quad_x4-nm,28-het-mk1,AA Battery,4
+bb-new-mexico-1933_1941-12,20-p-mk6_x16-nm,20-he-mk3,AA Battery,5
+bb-new-mexico-1933_1942,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933_1942,127-p-p15_x6,127-ap,Secondary Gun,2
+bb-new-mexico-1933_1942,127-p-mk19_x8-nm,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-new-mexico-1933_1942,40-t-mk4_x2-a-ps,40-he-mk1,AA Battery,4
+bb-new-mexico-1933_1942,28-p-quad_x4-nm,28-het-mk1,AA Battery,5
+bb-new-mexico-1933_1942,20-p-mk6_x44-nm,20-he-mk3,AA Battery,6
+bb-new-mexico-1933_1943,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933_1943,127-p-p15_x6,127-ap,Secondary Gun,2
+bb-new-mexico-1933_1943,127-p-mk19_x8-nm-2,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-new-mexico-1933_1943,40-t-mk4_x4-a-ps,40-he-mk1,AA Battery,4
+bb-new-mexico-1933_1943,40-t-mk1_x4,40-he-mk1,AA Battery,4
+bb-new-mexico-1933_1943,20-p-mk6_x42-nm-2,20-he-mk3,AA Battery,5
+bb-new-mexico-1933_1944,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933_1944,127-p-p15_x6,127-ap,Secondary Gun,2
+bb-new-mexico-1933_1944,127-p-mk19_x8-nm-2,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-new-mexico-1933_1944,40-t-mk4_x10-nm,40-he-mk1,AA Battery,4
+bb-new-mexico-1933_1944,20-p-mk6_x42-nm-2,20-he-mk3,AA Battery,5
+bb-new-mexico-1933_1946,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933_1945-mississippi,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933_1945-mississippi,127-p-mk19_x16,127-hc-mk36_127-aac-mk28,AA Battery,2
+bb-new-mexico-1933_1945-mississippi,40-t-mk4_x12-nm,40-he-mk1,AA Battery,3
+bb-new-mexico-1933_1945-mississippi,20-p-mk24_x15-nm,20-he-mk3,AA Battery,4
+bb-new-mexico-1933_1942-idaho,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933_1942-idaho,127-p-p15_x6,127-ap,Secondary Gun,2
+bb-new-mexico-1933_1942-idaho,127-p-mk19_x8-nm,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-new-mexico-1933_1942-idaho,40-t-mk4_x10-nm-2,40-he-mk1,AA Battery,4
+bb-new-mexico-1933_1942-idaho,20-p-mk6_x37-nm,20-he-mk3,AA Battery,6
+bb-new-mexico-1933_1944-idaho,356-ag-3-4-mod1_abxy,356-ap-early,Primary Gun,1
+bb-new-mexico-1933_1944-idaho,127-ag-mk30_x10-nm,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-new-mexico-1933_1944-idaho,40-t-mk4_x10-nm-2,40-he-mk1,AA Battery,4
+bb-new-mexico-1933_1944-idaho,20-p-mk6_x40-nm,20-he-mk3,AA Battery,6
 bb-pennsylvania,356-ag-3_abxy,356-ap-early,Primary Gun,1
 bb-pennsylvania,127-p-p15_x22,127-ap,Secondary Gun,2
-bb-pennsylvania,76-p-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
 bb-pennsylvania,533-tt-hull_x2-side,,,
 bb-pennsylvania,placeholder_torpedo,,,
+bb-pennsylvania_arizona,356-ag-3_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania_arizona,127-p-p15_x22,127-ap,Secondary Gun,2
+bb-pennsylvania_arizona,76-cp-mk11_x2,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-pennsylvania_arizona,533-tt-hull_x2-side,,,
+bb-pennsylvania_arizona,placeholder_torpedo,,,
+bb-pennsylvania_1918,356-ag-3_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania_1918,127-p-p15_x14,127-ap,Secondary Gun,2
+bb-pennsylvania_1918,76-cp-mk11_x4-turret-top,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-pennsylvania_1918,533-tt-hull_x2-side,,,
+bb-pennsylvania_1918,placeholder_torpedo,,,
+bb-pennsylvania_1919,356-ag-3_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania_1919,127-p-p15_x14,127-ap,Secondary Gun,2
+bb-pennsylvania_1919,76-cp-mk11_x8-turret-top,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-pennsylvania_1919,533-tt-hull_x2-side,,,
+bb-pennsylvania_1919,placeholder_torpedo,,,
+bb-pennsylvania-1931,356-ag-3-mod1_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania-1931,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-pennsylvania-1931,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-pennsylvania-1931_1941-arizona,356-ag-3-mod1_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania-1931_1941-arizona,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-pennsylvania-1931_1941-arizona,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-pennsylvania-1931_1941-arizona,12-p-mk3_x6-ariz,12-b-us,AA Battery,4
+bb-pennsylvania-1931_1941,356-ag-3-mod1_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania-1931_1941,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-pennsylvania-1931_1941,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-pennsylvania-1931_1941,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,4
+bb-pennsylvania-1931_1941,12-p-mk3_x8-penn,12-b-us,AA Battery,5
+bb-pennsylvania-1931_1942,356-ag-3-mod1_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania-1931_1942,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-pennsylvania-1931_1942,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-pennsylvania-1931_1942,28-p-quad_x4-penn,28-het-mk1,AA Battery,4
+bb-pennsylvania-1931_1942,20-p-mk6_x16,20-he-mk3,AA Battery,5
+bb-pennsylvania-1931_1942,12-p-mk3_x4-penn,12-b-us,AA Battery,6
+bb-pennsylvania-1931_1943,356-ag-3-mod1_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania-1931_1943,127-ag-mk28_x8-penn,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-pennsylvania-1931_1943,40-t-mk4_x10-penn,40-he-mk1,AA Battery,4
+bb-pennsylvania-1931_1943,20-p-mk6_x53-penn,20-he-mk3,AA Battery,5
+bb-pennsylvania-1931_1945,356-ag-3-mod1_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania-1931_1945,127-ag-mk28_x8-penn,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-pennsylvania-1931_1945,40-t-mk4_x10-penn,40-he-mk1,AA Battery,4
+bb-pennsylvania-1931_1945,40-t-mk1_x1-f,40-he-mk1,AA Battery,4
+bb-pennsylvania-1931_1945,20-p-mk24_x28,20-he-mk3,AA Battery,5
+bb-pennsylvania-1931_1945,20-p-mk6_x3-penn,20-he-mk3,AA Battery,5
+bb-pennsylvania-1931_1946,356-ag-3-mod1_abxy,356-ap-early,Primary Gun,1
+bb-pennsylvania-1931_1946,127-ag-mk28_x8-penn,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 bb-nevada,356-ag-3_ay,356-ap-early,Primary Gun,1
-bb-nevada,356-ag-2_bx,356-ap-early,Primary Gun,1
+bb-nevada,356-ag-2-mod1_bx,356-ap-early,Primary Gun,1
 bb-nevada,127-p-p15_x21,127-ap,Secondary Gun,2
 bb-nevada,533-tt-hull_x2-side,,,
 bb-nevada,placeholder_torpedo,,,
+bb-nevada_1916,356-ag-3_ay,356-ap-early,Primary Gun,1
+bb-nevada_1916,356-ag-2-mod1_bx,356-ap-early,Primary Gun,1
+bb-nevada_1916,127-p-p15_x21,127-ap,Secondary Gun,2
+bb-nevada_1916,76-cp-mk11_x2-turret-top,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-nevada_1916,533-tt-hull_x2-side,,,
+bb-nevada_1916,placeholder_torpedo,,,
+bb-nevada_oklahoma-1918,356-ag-3_ay,356-ap-early,Primary Gun,1
+bb-nevada_oklahoma-1918,356-ag-2-mod1_bx,356-ap-early,Primary Gun,1
+bb-nevada_oklahoma-1918,127-p-p15_x21,127-ap,Secondary Gun,2
+bb-nevada_oklahoma-1918,76-cp-mk11_x4-ok,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-nevada_oklahoma-1918,533-tt-hull_x2-side,,,
+bb-nevada_oklahoma-1918,placeholder_torpedo,,,
+bb-nevada_1920,356-ag-3_ay,356-ap-early,Primary Gun,1
+bb-nevada_1920,356-ag-2-mod1_bx,356-ap-early,Primary Gun,1
+bb-nevada_1920,127-p-p15_x12-nev,127-ap,Secondary Gun,2
+bb-nevada_1920,76-cp-mk11_x2-f-ps,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-nevada_1920,533-tt-hull_x2-side,,,
+bb-nevada_1920,placeholder_torpedo,,,
+bb-nevada_1922,356-ag-3_ay,356-ap-early,Primary Gun,1
+bb-nevada_1922,356-ag-2-mod1_bx,356-ap-early,Primary Gun,1
+bb-nevada_1922,127-p-p15_x12-nev,127-ap,Secondary Gun,2
+bb-nevada_1922,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-nevada_1922,533-tt-hull_x2-side,,,
+bb-nevada_1922,placeholder_torpedo,,,
+bb-nevada_1924,356-ag-3_ay,356-ap-early,Primary Gun,1
+bb-nevada_1924,356-ag-2-mod1_bx,356-ap-early,Primary Gun,1
+bb-nevada_1924,127-p-p15_x12-nev,127-ap,Secondary Gun,2
+bb-nevada_1924,76-cp-mk11_x6-nev,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-nevada_1924,533-tt-hull_x2-side,,,
+bb-nevada_1924,placeholder_torpedo,,,
+bb-nevada-1930,356-ag-3-mod1_ay,356-ap-early,Primary Gun,1
+bb-nevada-1930,356-ag-2-mod2_bx,356-ap-early,Primary Gun,1
+bb-nevada-1930,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-nevada-1930,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-nevada-1930_oklahoma-1931,356-ag-3-mod1_ay,356-ap-early,Primary Gun,1
+bb-nevada-1930_oklahoma-1931,356-ag-2-mod2_bx,356-ap-early,Primary Gun,1
+bb-nevada-1930_oklahoma-1931,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-nevada-1930_oklahoma-1931,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-nevada-1930_oklahoma-1931,12-p-mk3_x8-balanced,12-b-us,AA Battery,4
+bb-nevada-1930_1934,356-ag-3-mod1_ay,356-ap-early,Primary Gun,1
+bb-nevada-1930_1934,356-ag-2-mod2_bx,356-ap-early,Primary Gun,1
+bb-nevada-1930_1934,127-p-p15_x12,127-ap,Secondary Gun,2
+bb-nevada-1930_1934,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-nevada-1930_1934,12-p-mk3_x4-nev,12-b-us,AA Battery,4
+bb-nevada-1930_oklahoma-1941,356-ag-3-mod1_ay,356-ap-early,Primary Gun,1
+bb-nevada-1930_oklahoma-1941,356-ag-2-mod2_bx,356-ap-early,Primary Gun,1
+bb-nevada-1930_oklahoma-1941,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-nevada-1930_oklahoma-1941,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-nevada-1930_oklahoma-1941,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,4
+bb-nevada-1930_oklahoma-1941,12-p-mk3_x8-standard,12-b-us,AA Battery,5
+bb-nevada-1930_1941,356-ag-3-mod1_ay,356-ap-early,Primary Gun,1
+bb-nevada-1930_1941,356-ag-2-mod2_bx,356-ap-early,Primary Gun,1
+bb-nevada-1930_1941,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-nevada-1930_1941,127-p-mk19_x8,127-hc-mk36_127-aac-mk28,AA Battery,3
+bb-nevada-1930_1941,76-cp-mk11_x4,76-hc-mk24_76-aa-mk23,AA Battery,4
+bb-nevada-1930_1941,12-p-mk3_x8-nev,12-b-us,AA Battery,5
+bb-nevada-1942,356-ag-3-mod1_ay,356-ap-early,Primary Gun,1
+bb-nevada-1942,356-ag-2-mod2_bx,356-ap-early,Primary Gun,1
+bb-nevada-1942,127-ag-mk28_x8-standard,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-nevada-1942,40-t-mk4_x8-nev,40-he-mk1,AA Battery,3
+bb-nevada-1942,20-p-mk6_x40-nev,20-he-mk3,AA Battery,4
+bb-nevada-1942_1943,356-ag-3-mod1_ay,356-ap-early,Primary Gun,1
+bb-nevada-1942_1943,356-ag-2-mod2_bx,356-ap-early,Primary Gun,1
+bb-nevada-1942_1943,127-ag-mk28_x8-standard,127-spc-mk32_127-aac-mk34,Secondary Gun,2
+bb-nevada-1942_1943,40-t-mk4_x8-nev,40-he-mk1,AA Battery,3
+bb-nevada-1942_1943,20-p-mk6_x40-nev,20-he-mk3,AA Battery,4
 bb-new-york,356-ag-2_abqxy,356-ap-early,Primary Gun,1
-bb-new-york,127-p-p15_x21,127-ap,Secondary Gun,2
+bb-new-york,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-new-york,127-p-p15_x11,127-ap,Secondary Gun,2
 bb-new-york,533-tt-hull_x4-side,,,
 bb-new-york,placeholder_torpedo,,,
+bb-new-york_1916-texas,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york_1916-texas,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-new-york_1916-texas,127-p-p15_x11,127-ap,Secondary Gun,2
+bb-new-york_1916-texas,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york_1916-texas,533-tt-hull_x4-side,,,
+bb-new-york_1916-texas,placeholder_torpedo,,,
+bb-new-york_1917,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york_1917,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-new-york_1917,127-p-p15_x10,127-ap,Secondary Gun,2
+bb-new-york_1917,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york_1917,533-tt-hull_x4-side,,,
+bb-new-york_1917,placeholder_torpedo,,,
+bb-new-york_1918,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york_1918,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-new-york_1918,127-p-p15_x8-ny,127-ap,Secondary Gun,2
+bb-new-york_1918,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york_1918,533-tt-hull_x4-side,,,
+bb-new-york_1918,placeholder_torpedo,,,
+bb-new-york_1919-texas,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york_1919-texas,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-new-york_1919-texas,127-p-p15_x6-ny,127-ap,Secondary Gun,2
+bb-new-york_1919-texas,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york_1919-texas,533-tt-hull_x4-side,,,
+bb-new-york_1919-texas,placeholder_torpedo,,,
+bb-new-york_1921,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york_1921,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-new-york_1921,127-p-p15_x6-ny,127-ap,Secondary Gun,2
+bb-new-york_1921,76-cp-mk11_x6-turret-top,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york_1921,533-tt-hull_x4-side,,,
+bb-new-york_1921,placeholder_torpedo,,,
+bb-new-york-1927,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york-1927,127-p-p15-c_x4,127-ap,Secondary Gun,2
+bb-new-york-1927,127-p-p15_x12-standard,127-ap,Secondary Gun,2
+bb-new-york-1927,76-cp-mk11_x8,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york-1927_1934,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york-1927_1934,127-p-p15-c_x4,127-ap,Secondary Gun,2
+bb-new-york-1927_1934,127-p-p15_x12-standard,127-ap,Secondary Gun,2
+bb-new-york-1927_1934,76-cp-mk11_x8,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york-1927_1934,12-p-mk3_x8-ny,12-b-us,AA Battery,4
+bb-new-york-1927_1935-texas,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york-1927_1935-texas,127-p-p15-c_x4,127-ap,Secondary Gun,2
+bb-new-york-1927_1935-texas,127-p-p15_x12-standard,127-ap,Secondary Gun,2
+bb-new-york-1927_1935-texas,76-cp-mk11_x8,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york-1927_1935-texas,12-p-mk3_x8-texas,12-b-us,AA Battery,4
+bb-new-york-1927_1941,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york-1927_1941,127-p-p15-c_x4,127-ap,Secondary Gun,2
+bb-new-york-1927_1941,127-p-p15_x10-ny,127-ap,Secondary Gun,2
+bb-new-york-1927_1941,76-cp-mk11_x10,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york-1927_1941,28-p-quad_x4-penn,28-het-mk1,AA Battery,4
+bb-new-york-1927_1941,12-p-mk3_x8-ny,12-b-us,AA Battery,5
+bb-new-york-1927_1942-1,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york-1927_1942-1,127-p-p15-c_x4,127-ap,Secondary Gun,2
+bb-new-york-1927_1942-1,127-p-p15_x10-ny,127-ap,Secondary Gun,2
+bb-new-york-1927_1942-1,76-cp-mk11_x10,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york-1927_1942-1,28-p-quad_x4-penn,28-het-mk1,AA Battery,4
+bb-new-york-1927_1942-1,20-p-mk6_x16-ny,20-he-mk3,AA Battery,5
+bb-new-york-1927_1942-8,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york-1927_1942-8,127-p-p15_x6-ny-2,127-ap,Secondary Gun,2
+bb-new-york-1927_1942-8,76-cp-mk11_x10,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york-1927_1942-8,28-p-quad_x8-ny,28-het-mk1,AA Battery,4
+bb-new-york-1927_1942-8,20-p-mk6_x42-ny,20-he-mk3,AA Battery,5
+bb-new-york-1927_1942-8-texas,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york-1927_1942-8-texas,127-p-p15_x6-ny-2,127-ap,Secondary Gun,2
+bb-new-york-1927_1942-8-texas,76-cp-mk11_x10,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york-1927_1942-8-texas,28-p-quad_x8-ny,28-het-mk1,AA Battery,4
+bb-new-york-1927_1942-8-texas,20-p-mk6_x38-texas,20-he-mk3,AA Battery,5
+bb-new-york-1927_1943,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york-1927_1943,127-p-p15_x6-ny-2,127-ap,Secondary Gun,2
+bb-new-york-1927_1943,76-cp-mk11_x10-ny,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york-1927_1943,40-t-mk4_x10-ny,40-he-mk1,AA Battery,4
+bb-new-york-1927_1943,20-p-mk6_x44-ny,20-he-mk3,AA Battery,5
+bb-new-york-1927_1943-texas,356-ag-2_abqxy,356-ap-early,Primary Gun,1
+bb-new-york-1927_1943-texas,127-p-p15_x6-ny-2,127-ap,Secondary Gun,2
+bb-new-york-1927_1943-texas,76-cp-mk11_x10-ny,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-new-york-1927_1943-texas,40-t-mk4_x10-ny,40-he-mk1,AA Battery,4
+bb-new-york-1927_1943-texas,20-p-mk6_x38-texas-2,20-he-mk3,AA Battery,5
 bb-wyoming,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
-bb-wyoming,127-p-p15_x21_a,127-ap,Secondary Gun,2
+bb-wyoming,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-wyoming,127-p-p15_x11,127-ap,Secondary Gun,2
 bb-wyoming,533-tt-hull_x2-side,,,
 bb-wyoming,placeholder_torpedo,,,
+bb-wyoming_1916,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
+bb-wyoming_1916,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-wyoming_1916,127-p-p15_x11,127-ap,Secondary Gun,2
+bb-wyoming_1916,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming_1916,533-tt-hull_x2-side,,,
+bb-wyoming_1916,placeholder_torpedo,,,
+bb-wyoming_1918,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
+bb-wyoming_1918,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-wyoming_1918,127-p-p15_x6-wyo,127-ap,Secondary Gun,2
+bb-wyoming_1918,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming_1918,533-tt-hull_x2-side,,,
+bb-wyoming_1918,placeholder_torpedo,,,
+bb-wyoming_1919,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
+bb-wyoming_1919,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-wyoming_1919,127-p-p15_x6-wyo,127-ap,Secondary Gun,2
+bb-wyoming_1919,76-cp-mk11_x4-wyo,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming_1919,533-tt-hull_x2-side,,,
+bb-wyoming_1919,placeholder_torpedo,,,
+bb-wyoming_1923,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
+bb-wyoming_1923,127-p-p15-c_x10,127-ap,Secondary Gun,2
+bb-wyoming_1923,127-p-p15_x6-wyo,127-ap,Secondary Gun,2
+bb-wyoming_1923,76-cp-mk11_x8-wyo,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming_1923,533-tt-hull_x2-side,,,
+bb-wyoming_1923,placeholder_torpedo,,,
+bb-wyoming-1926,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
+bb-wyoming-1926,127-p-p15-c_x4,127-ap,Secondary Gun,2
+bb-wyoming-1926,127-p-p15_x12-standard,127-ap,Secondary Gun,2
+bb-wyoming-1926,76-cp-mk11_x8-wyo-2,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming-1931,305-ag-mk9_aby,305-ap-mk15,Primary Gun,1
+bb-wyoming-1931,127-p-p15-c_x4,127-ap,Secondary Gun,2
+bb-wyoming-1931,127-p-p15_x12-standard,127-ap,Secondary Gun,2
+bb-wyoming-1931,76-cp-mk11_x8-wyo-2,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming-1926_1941,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
+bb-wyoming-1926_1941,127-p-p15-c_x4,127-ap,Secondary Gun,2
+bb-wyoming-1926_1941,127-p-p15_x10-ny,127-ap,Secondary Gun,2
+bb-wyoming-1926_1941,76-cp-mk11_x10-wyo,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming-1926_1941,28-p-quad_x4-nm,28-het-mk1,AA Battery,4
+bb-wyoming-1926_1941,12-p-mk3_x4-nev,12-b-us,AA Battery,5
+bb-wyoming-1926_1942-6,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
+bb-wyoming-1926_1942-6,127-p-p15_x6-ny-2,127-ap,Secondary Gun,2
+bb-wyoming-1926_1942-6,76-cp-mk11_x10-wyo,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming-1926_1942-6,28-p-quad_x6-wyo,28-het-mk1,AA Battery,4
+bb-wyoming-1926_1942-6,20-p-mk6_x20-wyo,20-he-mk3,AA Battery,5
+bb-wyoming-1926_1942-10,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
+bb-wyoming-1926_1942-10,127-p-p15_x6-ny-2,127-ap,Secondary Gun,2
+bb-wyoming-1926_1942-10,76-cp-mk11_x10-wyo,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming-1926_1942-10,28-p-quad_x8-wyo,28-het-mk1,AA Battery,4
+bb-wyoming-1926_1942-10,20-p-mk6_x24-wyo,20-he-mk3,AA Battery,5
+bb-wyoming-1926_1943,305-ag-mk9_abqrxy,305-ap-mk15,Primary Gun,1
+bb-wyoming-1926_1943,127-p-p15_x6-ny-2,127-ap,Secondary Gun,2
+bb-wyoming-1926_1943,76-cp-mk11_x10-wyo-2,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-wyoming-1926_1943,40-t-mk4_x8-wyo,40-he-mk1,AA Battery,4
+bb-wyoming-1926_1943,20-p-mk6_x28-wyo,20-he-mk3,AA Battery,5
 bb-florida,305-ag-mk8_abqry,305-ap-mkviii-bp,Primary Gun,1
-bb-florida,127-p-p15_x16,127-ap,Secondary Gun,2
+bb-florida,127-p-p15-c_x8-flo,127-ap,Secondary Gun,2
+bb-florida,127-p-p15_x8-ny,127-ap,Secondary Gun,2
 bb-florida,533-tt-hull_x2-side,,,
 bb-florida,placeholder_torpedo,,,
+bb-florida_1917,305-ag-mk8_abqry,305-ap-mkviii-bp,Primary Gun,1
+bb-florida_1917,127-p-p15-c_x8-flo,127-ap,Secondary Gun,2
+bb-florida_1917,127-p-p15_x8-ny,127-ap,Secondary Gun,2
+bb-florida_1917,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-florida_1917,533-tt-hull_x2-side,,,
+bb-florida_1917,placeholder_torpedo,,,
+bb-florida_1918,305-ag-mk8_abqry,305-ap-mkviii-bp,Primary Gun,1
+bb-florida_1918,127-p-p15-c_x4,127-ap,Secondary Gun,2
+bb-florida_1918,127-p-p15_x8-ny,127-ap,Secondary Gun,2
+bb-florida_1918,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-florida_1918,533-tt-hull_x2-side,,,
+bb-florida_1918,placeholder_torpedo,,,
+bb-florida_1920,305-ag-mk8_abqry,305-ap-mkviii-bp,Primary Gun,1
+bb-florida_1920,127-p-p15-c_x8-flo,127-ap,Secondary Gun,2
+bb-florida_1920,127-p-p15_x6-wyo,127-ap,Secondary Gun,2
+bb-florida_1920,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-florida_1920,533-tt-hull_x2-side,,,
+bb-florida_1920,placeholder_torpedo,,,
+bb-florida_1922,305-ag-mk8_abqry,305-ap-mkviii-bp,Primary Gun,1
+bb-florida_1922,127-p-p15-c_x8-flo,127-ap,Secondary Gun,2
+bb-florida_1922,127-p-p15_x8-ny,127-ap,Secondary Gun,2
+bb-florida_1922,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-florida_1922,533-tt-hull_x2-side,,,
+bb-florida_1922,placeholder_torpedo,,,
+bb-florida-1925,305-ag-mk8_abqry,305-ap-mkviii-bp,Primary Gun,1
+bb-florida-1925,127-p-p15_x12-standard,127-ap,Secondary Gun,2
+bb-florida-1925,76-cp-mk11_x8-flo,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-utah-1932_1940,127-p-mk19_x6-utah,127-hc-mk36_127-aac-mk28,AA Battery,1
+bb-utah-1932_1940,28-p-quad_x2,28-het-mk1,AA Battery,2
+bb-utah-1932_1941,127-ag-mk30_ry,127-spc-mk32_127-aac-mk34,AA Battery,1
+bb-utah-1932_1941,127-p-mk19_x6-utah,127-hc-mk36_127-aac-mk28,AA Battery,2
+bb-utah-1932_1941,28-p-quad_x2,28-het-mk1,AA Battery,3
 bb-dalaware,305-ag-mk7_abqry,305-ap-mkviii-bp,Primary Gun,1
-bb-dalaware,127-p-m9_x14,127-ap-50,Secondary Gun,2
+bb-dalaware,127-c-m9_x10,127-ap-50,Secondary Gun,2
+bb-dalaware,127-p-m9_x4,127-ap-50,Secondary Gun,2
 bb-dalaware,533-tt-hull_x2-side,,,
 bb-dalaware,placeholder_torpedo,,,
+bb-dalaware_1917,305-ag-mk7_abqry,305-ap-mkviii-bp,Primary Gun,1
+bb-dalaware_1917,127-c-m9_x10,127-ap-50,Secondary Gun,2
+bb-dalaware_1917,127-p-m9_x4,127-ap-50,Secondary Gun,2
+bb-dalaware_1917,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-dalaware_1917,533-tt-hull_x2-side,,,
+bb-dalaware_1917,placeholder_torpedo,,,
 bb-south-carolina,305-ag-mk7_abxy,305-ap-mkviii-bp,Primary Gun,1
 bb-south-carolina,76-p-mk7_x22,76-com-mk3,Secondary Gun,2
 bb-south-carolina,533-tt-hull_x2-side,,,
 bb-south-carolina,placeholder_torpedo,,,
+bb-south-carolina_1917,305-ag-mk7_abxy,305-ap-mkviii-bp,Primary Gun,1
+bb-south-carolina_1917,76-p-mk7_x12_sc,76-com-mk3,Secondary Gun,2
+bb-south-carolina_1917,76-cp-mk11_x2-crane,76-hc-mk24_76-aa-mk23,AA Battery,3
+bb-south-carolina_1917,533-tt-hull_x2-side,,,
+bb-south-carolina_1917,placeholder_torpedo,,,
 pred-mississippi,305-ag-mk7_ay,305-ap-mkv-bp,Primary Gun,1
 pred-mississippi,203-ag-mk12_x4,203-ap-naval-bp,Secondary Gun,2
 pred-mississippi,178-p-mk2_x8,178-ap-mk6-bp,Secondary Gun,3
@@ -485,13 +1101,37 @@ pred-centurion,placeholder_torpedo,,,
 bb-yamato,460-ag-type94_aby,460-apc-type1,Primary Gun,1
 bb-yamato,155-ag-3rd-year_x4,155-ap-type91,Secondary Gun,2
 bb-yamato,127-ag-a1-mod3_x6,127-he-type0,Secondary Gun,3
-bb-yamato,25-cp-type96-triple_x8,25-com-jpn,AA Battery,4
-bb-yamato,13-p-type93-twin_x4,13-ap-jpn,AA Battery,5
-bb-yamato_musashi,460-ag-type94_aby,460-apc-type1,Primary Gun,1
-bb-yamato_musashi,155-ag-3rd-year_x4,155-ap-type91,Secondary Gun,2
-bb-yamato_musashi,127-ag-a1-mod3_x6,127-he-type0,Secondary Gun,3
-bb-yamato_musashi,25-cp-type96-triple_x4,25-com-jpn,AA Battery,4
-bb-yamato_musashi,13-p-type93-twin_x4,13-ap-jpn,AA Battery,5
+bb-yamato,25-ag-type96-triple_x8,25-com-jpn,AA Battery,4
+bb-yamato,13-p-type93-twin_x2,13-ap-jpn,AA Battery,5
+bb-yamato_1942,460-ag-type94_aby,460-apc-type1,Primary Gun,1
+bb-yamato_1942,155-ag-3rd-year_x4,155-ap-type91,Secondary Gun,2
+bb-yamato_1942,127-ag-a1-mod3_x6,127-he-type0,Secondary Gun,3
+bb-yamato_1942,25-ag-type96-triple_x8,25-com-jpn,AA Battery,4
+bb-yamato_1942,25-cp-type96-triple_x4,25-com-jpn,AA Battery,4
+bb-yamato_1942,13-p-type93-twin_x2,13-ap-jpn,AA Battery,5
+bb-yamato_1944-3,460-ag-type94_aby,460-apc-type1,Primary Gun,1
+bb-yamato_1944-3,155-ag-3rd-year_x2,155-ap-type91,Secondary Gun,2
+bb-yamato_1944-3,127-ag-a1-mod3_x6-alt,127-he-type0,Secondary Gun,3
+bb-yamato_1944-3,127-cp-a1_x6,127-he-type0,Secondary Gun,3
+bb-yamato_1944-3,25-ag-type96-triple_x16,25-com-jpn,AA Battery,4
+bb-yamato_1944-3,25-cp-type96-triple_x15,25-com-jpn,AA Battery,4
+bb-yamato_1944-3,25-p-type96-single_x26,25-com-jpn,AA Battery,4
+bb-yamato_1944-3,13-p-type93-twin_x2,13-ap-jpn,AA Battery,5
+bb-yamato_1944-11,460-ag-type94_aby,460-apc-type1,Primary Gun,1
+bb-yamato_1944-11,155-ag-3rd-year_x2,155-ap-type91,Secondary Gun,2
+bb-yamato_1944-11,127-ag-a1-mod3_x6-alt,127-he-type0,Secondary Gun,3
+bb-yamato_1944-11,127-cp-a1_x6,127-he-type0,Secondary Gun,3
+bb-yamato_1944-11,25-ag-type96-triple_x16,25-com-jpn,AA Battery,4
+bb-yamato_1944-11,25-cp-type96-triple_x16,25-com-jpn,AA Battery,4
+bb-yamato_1944-11,25-p-type96-single_x2,25-com-jpn,AA Battery,4
+bb-yamato_1944-11,13-p-type93-twin_x2,13-ap-jpn,AA Battery,5
+bb-yamato_musashi-1944,460-ag-type94_aby,460-apc-type1,Primary Gun,1
+bb-yamato_musashi-1944,155-ag-3rd-year_x2,155-ap-type91,Secondary Gun,2
+bb-yamato_musashi-1944,127-ag-a1-mod3_x6,127-he-type0,Secondary Gun,3
+bb-yamato_musashi-1944,25-ag-type96-triple_x24,25-com-jpn,AA Battery,4
+bb-yamato_musashi-1944,25-cp-type96-triple_x11,25-com-jpn,AA Battery,4
+bb-yamato_musashi-1944,25-p-type96-single_x25,25-com-jpn,AA Battery,4
+bb-yamato_musashi-1944,13-p-type93-twin_x2,13-ap-jpn,AA Battery,5
 bb-tosa,410-ag-3rd-year-new_abrxy,410-apc-type3,Primary Gun,1
 bb-tosa,140-c-3rd-25_x20,140-cap-com,Secondary Gun,2
 bb-tosa,76-p-3rd-year_x4,76-he-com-type0,AA Battery,3
@@ -507,34 +1147,256 @@ bb-nagato,140-c-3rd-25_x20,140-cap-com,Secondary Gun,2
 bb-nagato,76-p-3rd-year_x4,76-he-com-type0,AA Battery,3
 bb-nagato,533-tt-hull_x4-side,,,
 bb-nagato,placeholder_torpedo,,,
+bb-nagato_1925,410-ag-3rd-year_abxy,410-apc-type3,Primary Gun,1
+bb-nagato_1925,140-c-3rd-25_x20,140-cap-com,Secondary Gun,2
+bb-nagato_1925,76-p-3rd-year_x7,76-he-com-type0,AA Battery,3
+bb-nagato_1925,533-tt-hull_x4-side,,,
+bb-nagato_1925,placeholder_torpedo,,,
+bb-nagato_1932,410-ag-3rd-year_abxy,410-apc-type3,Primary Gun,1
+bb-nagato_1932,140-c-3rd-25_x20,140-cap-com,Secondary Gun,2
+bb-nagato_1932,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-nagato_1932,40-cp-bi-type91-single_x2,40-com-jpn,AA Battery,4
+bb-nagato_1932,533-tt-hull_x4-side,,,
+bb-nagato_1932,placeholder_torpedo,,,
+bb-nagato-mod-1933,410-ag-3rd-year-new_abxy,410-apc-type3,Primary Gun,1
+bb-nagato-mod-1933,140-c-3rd-35_x18,140-cap-com,Secondary Gun,2
+bb-nagato-mod-1933,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-nagato-mod-1933,40-cp-bi-type91-single_x2,40-com-jpn,AA Battery,4
+bb-nagato-mod-1933_1938,410-ag-3rd-year-new_abxy,410-apc-type3,Primary Gun,1
+bb-nagato-mod-1933_1938,140-c-3rd-35_x18,140-cap-com,Secondary Gun,2
+bb-nagato-mod-1933_1938,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-nagato-mod-1933_1938,25-cp-type96-twin_x8,25-com-jpn,AA Battery,4
+bb-nagato-mod-1933_1943,410-ag-3rd-year-new_abxy,410-apc-type3,Primary Gun,1
+bb-nagato-mod-1933_1943,140-c-3rd-35_x18,140-cap-com,Secondary Gun,2
+bb-nagato-mod-1933_1943,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-nagato-mod-1933_1943,25-cp-type96-twin_x9,25-com-jpn,AA Battery,4
+bb-nagato-mod-1933_1944-7,410-ag-3rd-year-new_abxy,410-apc-type3,Primary Gun,1
+bb-nagato-mod-1933_1944-7,140-c-3rd-35_x16,140-cap-com,Secondary Gun,2
+bb-nagato-mod-1933_1944-7,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-nagato-mod-1933_1944-7,25-cp-type96-triple_x16,25-com-jpn,AA Battery,4
+bb-nagato-mod-1933_1944-7,25-cp-type96-twin_x8,25-com-jpn,AA Battery,4
+bb-nagato-mod-1933_1944-7,25-p-type96-single_x28,25-com-jpn,AA Battery,4
+bb-nagato-mod-1933_1944-11,410-ag-3rd-year-new_abxy,410-apc-type3,Primary Gun,1
+bb-nagato-mod-1933_1944-11,140-c-3rd-35_x12,140-cap-com,Secondary Gun,2
+bb-nagato-mod-1933_1944-11,127-cp-a1_x6-alt,127-he-type0,Secondary Gun,3
+bb-nagato-mod-1933_1944-11,25-cp-type96-triple_x25,25-com-jpn,AA Battery,4
+bb-nagato-mod-1933_1944-11,25-cp-type96-twin_x8,25-com-jpn,AA Battery,4
+bb-nagato-mod-1933_1944-11,25-p-type96-single_x24,25-com-jpn,AA Battery,4
+bb-nagato-mod-1933_1945,410-ag-3rd-year-new_abxy,410-apc-type3,Primary Gun,1
+bb-nagato-mod-1933_1945,25-cp-type96-triple_x25,25-com-jpn,AA Battery,2
+bb-nagato-mod-1933_1945,25-cp-type96-twin_x8,25-com-jpn,AA Battery,2
+bb-nagato-mod-1933_1945,25-p-type96-single_x24,25-com-jpn,AA Battery,2
 bb-ise,356-ag-41st-year-bb_abqrxy,356-apc-type3,Primary Gun,1
 bb-ise,140-c-3rd-20_x18,140-cap-com,Secondary Gun,2
 bb-ise,140-pgs-3rd-20_x2,140-cap-com,Secondary Gun,2
 bb-ise,533-tt-hull_x6-side,,,
 bb-ise,placeholder_torpedo,,,
+bb-ise_1921,356-ag-41st-year-bb_abqrxy,356-apc-type3,Primary Gun,1
+bb-ise_1921,140-c-3rd-20_x18,140-cap-com,Secondary Gun,2
+bb-ise_1921,140-pgs-3rd-20_x2,140-cap-com,Secondary Gun,2
+bb-ise_1921,76-p-3rd-year_x4,76-he-com-type0,AA Battery,3
+bb-ise_1921,533-tt-hull_x6-side,,,
+bb-ise_1921,placeholder_torpedo,,,
+bb-ise_1931,356-ag-41st-year-bb-30_abqrxy,356-apc-type3,Primary Gun,1
+bb-ise_1931,140-c-3rd-20_x18,140-cap-com,Secondary Gun,2
+bb-ise_1931,140-pgs-3rd-20_x2,140-cap-com,Secondary Gun,2
+bb-ise_1931,76-p-3rd-year_x4,76-he-com-type0,AA Battery,3
+bb-ise_1931,533-tt-hull_x6-side,,,
+bb-ise_1931,placeholder_torpedo,,,
+bb-ise-mod-1934,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,Primary Gun,1
+bb-ise-mod-1934,140-c-3rd-20_x16,140-cap-com,Secondary Gun,2
+bb-ise-mod-1934,127-cp-a1_x4-alt,127-he-type0,Secondary Gun,3
+bb-ise-mod-1934,40-cp-bi-type91-twin_x2,40-com-jpn,AA Battery,4
+bb-ise-mod-1934_1937,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,Primary Gun,1
+bb-ise-mod-1934_1937,140-c-3rd-20_x16,140-cap-com,Secondary Gun,2
+bb-ise-mod-1934_1937,127-cp-a1_x4-alt,127-he-type0,Secondary Gun,3
+bb-ise-mod-1934_1937,25-cp-type96-twin_x10,25-com-jpn,AA Battery,4
+bb-ise-mod-1934_hyuga-1942,356-ag-41st-year-bb-43_abqry,356-apc-type3,Primary Gun,1
+bb-ise-mod-1934_hyuga-1942,140-c-3rd-20_x16,140-cap-com,Secondary Gun,2
+bb-ise-mod-1934_hyuga-1942,127-cp-a1_x4-alt,127-he-type0,Secondary Gun,3
+bb-ise-mod-1934_hyuga-1942,25-cp-type96-triple_x4-barbette,25-com-jpn,AA Battery,4
+bb-ise-mod-1934_hyuga-1942,25-cp-type96-twin_x10,25-com-jpn,AA Battery,4
+bb-ise-mod-1943_1943,356-ag-41st-year-bb-43_abqr,356-apc-type3,Primary Gun,1
+bb-ise-mod-1943_1943,127-cp-a1_x8,127-he-type0,Secondary Gun,2
+bb-ise-mod-1943_1943,25-cp-type96-triple_x17,25-com-jpn,AA Battery,3
+bb-ise-mod-1943_1944-5,356-ag-41st-year-bb-43_abqr,356-apc-type3,Primary Gun,1
+bb-ise-mod-1943_1944-5,127-cp-a1_x8,127-he-type0,Secondary Gun,2
+bb-ise-mod-1943_1944-5,25-cp-type96-triple_x17,25-com-jpn,AA Battery,3
+bb-ise-mod-1943_1944-5,25-p-type96-single_x11,25-com-jpn,AA Battery,3
+bb-ise-mod-1943_1944-9,356-ag-41st-year-bb-43_abqr,356-apc-type3,Primary Gun,1
+bb-ise-mod-1943_1944-9,127-cp-a1_x8,127-he-type0,Secondary Gun,2
+bb-ise-mod-1943_1944-9,25-cp-type96-triple_x17,25-com-jpn,AA Battery,3
+bb-ise-mod-1943_1944-9,25-p-type96-single_x11,25-com-jpn,AA Battery,3
+bb-ise-mod-1943_1944-9,placeholder_120-rl-jpn,,,
 bb-fuso,356-ag-41st-year-bb_abqrxy,356-apc-type3,Primary Gun,1
 bb-fuso,152-c-41st-year-20_x16,152-he-com-type0,Secondary Gun,2
-bb-fuso,76-cp-41st-year_x6,76-he-jpn,AA Battery,3
 bb-fuso,533-tt-hull_x6-side,,,
 bb-fuso,placeholder_torpedo,,,
+bb-fuso_1918,356-ag-41st-year-bb_abqrxy,356-apc-type3,Primary Gun,1
+bb-fuso_1918,152-c-41st-year-20_x16,152-he-com-type0,Secondary Gun,2
+bb-fuso_1918,76-cp-41st-year_x4,76-he-jpn,AA Battery,3
+bb-fuso_1918,533-tt-hull_x6-side,,,
+bb-fuso_1918,placeholder_torpedo,,,
+bb-fuso_1923,356-ag-41st-year-bb-30_abqrxy,356-apc-type3,Primary Gun,1
+bb-fuso_1923,152-c-41st-year-20_x16,152-he-com-type0,Secondary Gun,2
+bb-fuso_1923,76-cp-41st-year_x6,76-he-jpn,AA Battery,3
+bb-fuso_1923,533-tt-hull_x6-side,,,
+bb-fuso_1923,placeholder_torpedo,,,
+bb-fuso-mod-1930_1930,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,Primary Gun,1
+bb-fuso-mod-1930_1930,152-c-41st-year-30_x14,152-he-com-type0,Secondary Gun,2
+bb-fuso-mod-1930_1930,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-fuso-mod-1930_1938,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,Primary Gun,1
+bb-fuso-mod-1930_1938,152-c-41st-year-30_x14,152-he-com-type0,Secondary Gun,2
+bb-fuso-mod-1930_1938,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-fuso-mod-1930_1938,25-cp-type96-twin_x8-alt,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_1943,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,Primary Gun,1
+bb-fuso-mod-1930_1943,152-c-41st-year-30_x14,152-he-com-type0,Secondary Gun,2
+bb-fuso-mod-1930_1943,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-fuso-mod-1930_1943,25-cp-type96-twin_x10-alt,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_1943,25-p-type96-single_x17,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_1944-8,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,Primary Gun,1
+bb-fuso-mod-1930_1944-8,152-c-41st-year-30_x14,152-he-com-type0,Secondary Gun,2
+bb-fuso-mod-1930_1944-8,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-fuso-mod-1930_1944-8,25-cp-type96-triple_x8-turret-top,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_1944-8,25-cp-type96-twin_x16-alt,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_1944-8,25-p-type96-single_x17,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_1944-8,13-p-type93-single_x10,13-ap-jpn,AA Battery,5
+bb-fuso-mod-1930_1944-10,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,Primary Gun,1
+bb-fuso-mod-1930_1944-10,152-c-41st-year-30_x14,152-he-com-type0,Secondary Gun,2
+bb-fuso-mod-1930_1944-10,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-fuso-mod-1930_1944-10,25-cp-type96-triple_x8-turret-top,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_1944-10,25-cp-type96-twin_x16-alt,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_1944-10,25-p-type96-single_x39,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_1944-10,13-p-type93-single_x10,13-ap-jpn,AA Battery,5
+bb-fuso-mod-1930_yamashiro-1944-8,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,Primary Gun,1
+bb-fuso-mod-1930_yamashiro-1944-8,152-c-41st-year-30_x14,152-he-com-type0,Secondary Gun,2
+bb-fuso-mod-1930_yamashiro-1944-8,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-fuso-mod-1930_yamashiro-1944-8,25-cp-type96-triple_x8-turret-top,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_yamashiro-1944-8,25-cp-type96-twin_x10-alt,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_yamashiro-1944-8,25-p-type96-single_x7,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_yamashiro-1944-8,13-p-type93-single_x24,13-ap-jpn,AA Battery,5
+bb-fuso-mod-1930_yamashiro-1944-10,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,Primary Gun,1
+bb-fuso-mod-1930_yamashiro-1944-10,152-c-41st-year-30_x14,152-he-com-type0,Secondary Gun,2
+bb-fuso-mod-1930_yamashiro-1944-10,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bb-fuso-mod-1930_yamashiro-1944-10,25-cp-type96-triple_x8-turret-top,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_yamashiro-1944-10,25-cp-type96-twin_x18-alt,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_yamashiro-1944-10,25-p-type96-single_x17,25-com-jpn,AA Battery,4
+bb-fuso-mod-1930_yamashiro-1944-10,13-p-type93-twin_x3,13-ap-jpn,AA Battery,5
+bb-fuso-mod-1930_yamashiro-1944-10,13-p-type93-single_x10,13-ap-jpn,AA Battery,5
 bc-kongo,356-ag-41st-year-bc_abxy,356-apc-type3,Primary Gun,1
 bc-kongo,152-c-vickers-markm-20_x16,152-he-com-type0,Secondary Gun,2
-bc-kongo,76-cp-41st-year_x4,76-he-jpn,AA Battery,3
+bc-kongo,76-p-41st-year_x16-alt,76-he-jpn,Tertiary Gun,3
 bc-kongo,533-tt-hull_x8-side,,,
 bc-kongo,placeholder_torpedo,,,
+bc-kongo_1918,356-ag-41st-year-bc_abxy,356-apc-type3,Primary Gun,1
+bc-kongo_1918,152-c-vickers-markm-20_x16,152-he-com-type0,Secondary Gun,2
+bc-kongo_1918,76-cp-41st-year_x4,76-he-jpn,AA Battery,3
+bc-kongo_1918,533-tt-hull_x8-side,,,
+bc-kongo_1918,placeholder_torpedo,,,
+bc-kongo-mod-1928,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1928,152-c-vickers-markm-20_x16,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1928,76-cp-41st-year_x7,76-he-jpn,AA Battery,3
+bc-kongo-mod-1928,533-tt-hull_x4-side,,,
+bc-kongo-mod-1928,placeholder_torpedo,,,
+bc-kongo-mod-1928_1932,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1928_1932,152-c-vickers-markm-20_x16,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1928_1932,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1928_1932,40-cp-bi-type91-single_x4,40-com-jpn,AA Battery,4
+bc-kongo-mod-1928_1932,13-p-type93-single_x8,13-ap-jpn,AA Battery,5
+bc-kongo-mod-1928_1932,533-tt-hull_x4-side,,,
+bc-kongo-mod-1928_1932,placeholder_torpedo,,,
+bc-kongo-mod-1934,356-ag-41st-year-bc-43_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1934,152-c-vickers-markm-30_x14,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1934,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1934,25-cp-type96-twin_x10,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_1943,356-ag-41st-year-bc-43_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1934_1943,152-c-vickers-markm-30_x12,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1934_1943,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1934_1943,25-cp-type96-triple_x2,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_1943,25-cp-type96-twin_x10,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_1944-2,356-ag-41st-year-bc-43_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1934_1944-2,152-c-vickers-markm-30_x8,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1934_1944-2,127-cp-a1_x6,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1934_1944-2,25-cp-type96-triple_x6,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_1944-2,25-cp-type96-twin_x8,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_1944-7,356-ag-41st-year-bc-43_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1934_1944-7,152-c-vickers-markm-30_x8,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1934_1944-7,127-cp-a1_x6,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1934_1944-7,25-cp-type96-triple_x20,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_1944-7,25-cp-type96-twin_x6,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_1944-7,25-p-type96-single_x26-alt,25-com-jpn,AA Battery,4
 bc-kongo_hiei,356-ag-41st-year-bc_abxy,356-apc-type3,Primary Gun,1
 bc-kongo_hiei,152-c-41st-year-20_x16,152-he-com-type0,Secondary Gun,2
-bc-kongo_hiei,76-cp-41st-year_x4,76-he-jpn,AA Battery,3
+bc-kongo_hiei,76-p-41st-year_x8-turret-top,76-he-jpn,Tertiary Gun,3
 bc-kongo_hiei,533-tt-hull_x8-side,,,
 bc-kongo_hiei,placeholder_torpedo,,,
+bc-kongo_hiei-1918,356-ag-41st-year-bc_abxy,356-apc-type3,Primary Gun,1
+bc-kongo_hiei-1918,152-c-41st-year-20_x16,152-he-com-type0,Secondary Gun,2
+bc-kongo_hiei-1918,76-cp-41st-year_x4,76-he-jpn,AA Battery,3
+bc-kongo_hiei-1918,533-tt-hull_x8-side,,,
+bc-kongo_hiei-1918,placeholder_torpedo,,,
+bc-kongo-mod-1928_haruna-1924,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1928_haruna-1924,152-c-41st-year-20_x16,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1928_haruna-1924,76-cp-41st-year_x7,76-he-jpn,AA Battery,3
+bc-kongo-mod-1928_haruna-1924,533-tt-hull_x4-side,,,
+bc-kongo-mod-1928_haruna-1924,placeholder_torpedo,,,
+bc-kongo-mod-1928_haruna-1932,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1928_haruna-1932,152-c-41st-year-20_x16,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1928_haruna-1932,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1928_haruna-1932,40-cp-bi-type91-single_x4,40-com-jpn,AA Battery,4
+bc-kongo-mod-1928_haruna-1932,13-p-type93-single_x8,13-ap-jpn,AA Battery,5
+bc-kongo-mod-1928_haruna-1932,533-tt-hull_x4-side,,,
+bc-kongo-mod-1928_haruna-1932,placeholder_torpedo,,,
+bc-kongo-mod-1934_haruna-1933,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1934_haruna-1933,152-c-41st-year-30_x14,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1934_haruna-1933,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1934_haruna-1933,13-p-type93-twin_x4,13-ap-jpn,AA Battery,4
+bc-kongo-mod-1934_kirishima-1934,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1934_kirishima-1934,152-c-41st-year-30_x14,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1934_kirishima-1934,127-cp-a1_x4,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1934_kirishima-1934,25-cp-type96-twin_x10,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_kirishima-1943,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1934_kirishima-1943,152-c-41st-year-30_x8,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1934_kirishima-1943,127-cp-a1_x6,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1934_kirishima-1943,25-cp-type96-twin_x17,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_haruna-1944,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1934_haruna-1944,152-c-41st-year-30_x8,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1934_haruna-1944,127-cp-a1_x6,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1934_haruna-1944,25-cp-type96-triple_x30,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_haruna-1944,25-cp-type96-twin_x2,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_haruna-1944,25-p-type96-single_x6,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_haruna-1945,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo-mod-1934_haruna-1945,152-c-41st-year-30_x8,152-he-com-type0,Secondary Gun,2
+bc-kongo-mod-1934_haruna-1945,127-cp-a1_x6,127-he-type0,Secondary Gun,3
+bc-kongo-mod-1934_haruna-1945,25-cp-type96-triple_x30,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_haruna-1945,25-cp-type96-twin_x2,25-com-jpn,AA Battery,4
+bc-kongo-mod-1934_haruna-1945,25-p-type96-single_x23,25-com-jpn,AA Battery,4
+bc-kongo_hiei-1925,356-ag-41st-year-bc-33_abxy,356-apc-type3,Primary Gun,1
+bc-kongo_hiei-1925,152-c-41st-year-20_x16,152-he-com-type0,Secondary Gun,2
+bc-kongo_hiei-1925,76-cp-41st-year_x4,76-he-jpn,AA Battery,3
+bc-kongo_hiei-1925,533-tt-hull_x8-side,,,
+bc-kongo_hiei-1925,placeholder_torpedo,,,
+bc-hiei-mod-1932,356-ag-41st-year-bc-33_abx,356-apc-type3,Primary Gun,1
+bc-hiei-mod-1932,152-c-41st-year-20_x16,152-he-com-type0,Secondary Gun,2
+bc-hiei-mod-1932,76-cp-41st-year_x4,76-he-jpn,AA Battery,3
+bc-hiei-mod-1932,533-tt-hull_x4-side,,,
+bc-hiei-mod-1932,placeholder_torpedo,,,
 bb-kawachi,305-ag-armstrong-vickers_ay,305-apc-jpn,Primary Gun,1
 bb-kawachi,305-ag-armstrong_x4,305-apc-jpn,Primary Gun,2
 bb-kawachi,152-c-41st-year-gg_x10,152-ap-jpn,Secondary Gun,3
 bb-kawachi,120-c-type41_x2,120-com-jpn,Secondary Gun,4
 bb-kawachi,120-p-type41_x2,120-com-jpn,Secondary Gun,4
-bb-kawachi,76-p-41st-year_x12,76-he-jpn,Tertiary Gun,5
+bb-kawachi,76-p-41st-year_x12-alt,76-he-jpn,Tertiary Gun,5
 bb-kawachi,450-tt-hull_x5-aft,,,
 bb-kawachi,placeholder_torpedo,,,
+bb-kawachi_1916,305-ag-armstrong-vickers_ay,305-apc-jpn,Primary Gun,1
+bb-kawachi_1916,305-ag-armstrong_x4,305-apc-jpn,Primary Gun,2
+bb-kawachi_1916,152-c-41st-year-gg_x10,152-ap-jpn,Secondary Gun,3
+bb-kawachi_1916,120-c-type41_x2,120-com-jpn,Secondary Gun,4
+bb-kawachi_1916,120-p-type41_x2,120-com-jpn,Secondary Gun,4
+bb-kawachi_1916,76-cp-41st-year_x4,76-he-jpn,AA Battery,5
+bb-kawachi_1916,450-tt-hull_x3-aft,,,
+bb-kawachi_1916,placeholder_torpedo,,,
 pred-aki,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
 pred-aki,254-ag-41st-year_x6,254-ap-jpn,Secondary Gun,2
 pred-aki,152-c-41st-year-gg_x8,152-ap-jpn,Secondary Gun,3
@@ -542,55 +1404,98 @@ pred-aki,76-p-41st-year_x8,76-he-jpn,Tertiary Gun,4
 pred-aki,76-c-41st-year_x4,76-he-jpn,Tertiary Gun,4
 pred-aki,450-tt-hull_x5-bow,,,
 pred-aki,placeholder_torpedo,,,
+pred-aki_1916,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
+pred-aki_1916,254-ag-41st-year_x6,254-ap-jpn,Secondary Gun,2
+pred-aki_1916,152-c-41st-year-gg_x8,152-ap-jpn,Secondary Gun,3
+pred-aki_1916,76-c-41st-year_x4,76-he-jpn,Tertiary Gun,4
+pred-aki_1916,76-cp-41st-year_x2,76-he-jpn,AA Battery,4
+pred-aki_1916,450-tt-hull_x5-bow,,,
+pred-aki_1916,placeholder_torpedo,,,
 pred-satsuma,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
 pred-satsuma,254-ag-41st-year_x6,254-ap-jpn,Secondary Gun,2
 pred-satsuma,120-c-type41_x12,120-com-jpn,Secondary Gun,3
 pred-satsuma,76-p-41st-year_x8,76-he-jpn,Tertiary Gun,4
 pred-satsuma,450-tt-hull_x5-bow,,,
 pred-satsuma,placeholder_torpedo,,,
+pred-satsuma_1916,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
+pred-satsuma_1916,254-ag-41st-year_x6,254-ap-jpn,Secondary Gun,2
+pred-satsuma_1916,120-c-type41_x12,120-com-jpn,Secondary Gun,3
+pred-satsuma_1916,76-p-41st-year_x8,76-he-jpn,Tertiary Gun,4
+pred-satsuma_1916,76-cp-41st-year_x2,76-he-jpn,AA Battery,4
+pred-satsuma_1916,450-tt-hull_x5-bow,,,
+pred-satsuma_1916,placeholder_torpedo,,,
 pred-katori,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
 pred-katori,254-ag-41st-year-single_x4,254-ap-jpn,Secondary Gun,2
 pred-katori,152-c-41st-year-gg_x12,152-ap-jpn,Secondary Gun,3
 pred-katori,76-c-41st-year_x8,76-he-jpn,Tertiary Gun,4
 pred-katori,76-p-41st-year_x4,76-he-jpn,Tertiary Gun,4
-pred-katori,47-p-markiv-ha_x3-mast,47-he-uk,Tertiary Gun,5
+pred-katori,47-p-marki_x3-mast,47-he-uk,Tertiary Gun,5
 pred-katori,450-tt-hull_x5-bow,,,
 pred-katori,placeholder_torpedo,,,
+pred-katori_1916,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
+pred-katori_1916,254-ag-41st-year-single_x4,254-ap-jpn,Secondary Gun,2
+pred-katori_1916,152-c-41st-year-gg_x12,152-ap-jpn,Secondary Gun,3
+pred-katori_1916,76-c-41st-year_x8,76-he-jpn,Tertiary Gun,4
+pred-katori_1916,76-cp-41st-year_x2,76-he-jpn,AA Battery,4
+pred-katori_1916,47-p-marki_x3-mast,47-he-uk,Tertiary Gun,5
+pred-katori_1916,450-tt-hull_x5-bow,,,
+pred-katori_1916,placeholder_torpedo,,,
 pred-mikasa,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-mikasa,152-c-armstrong-z_x14,152-com-mod1,Secondary Gun,2
 pred-mikasa,76-p-41st-year_x20,76-he-jpn,Tertiary Gun,3
-pred-mikasa,47-p-markiv-ha_x8-mast,47-he-uk,Tertiary Gun,4
+pred-mikasa,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,4
 pred-mikasa,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,5
 pred-mikasa,450-tt-hull_x4-side,,,
 pred-mikasa,placeholder_torpedo,,,
+pred-mikasa_1908,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
+pred-mikasa_1908,152-c-41st-year-gg_x14,152-ap-jpn,Secondary Gun,2
+pred-mikasa_1908,76-p-41st-year_x20,76-he-jpn,Tertiary Gun,3
+pred-mikasa_1908,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,4
+pred-mikasa_1908,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,5
+pred-mikasa_1908,450-tt-hull_x4-side,,,
+pred-mikasa_1908,placeholder_torpedo,,,
+pred-mikasa_museum,305-ag-41st-year_ay,no-ammo,Primary Gun,1
+pred-mikasa_museum,152-c-armstrong-z_x14,no-ammo,Secondary Gun,2
+pred-mikasa_museum,76-p-41st-year_x20,no-ammo,Tertiary Gun,3
+pred-mikasa_museum,47-p-marki_x8-mast,no-ammo,Tertiary Gun,4
+pred-mikasa_museum,47-p-yamanouchi-mk1_x4,no-ammo,Tertiary Gun,5
+pred-mikasa_museum,450-tt-hull_x4-side,,,
+pred-mikasa_museum,placeholder_torpedo,,,
 pred-asahi,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-asahi,152-c-armstrong-z_x14-alt,152-com-mod1,Secondary Gun,2
 pred-asahi,76-p-41st-year_x20-alt,76-he-jpn,Tertiary Gun,3
-pred-asahi,47-p-markiv-ha_x8-mast,47-he-uk,Tertiary Gun,4
+pred-asahi,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,4
 pred-asahi,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,5
 pred-asahi,450-tt-hull_x4-side,,,
 pred-asahi,placeholder_torpedo,,,
 pred-shikishima,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-shikishima,152-c-armstrong-z_x14-alt,152-com-mod1,Secondary Gun,2
 pred-shikishima,76-p-41st-year_x20-alt,76-he-jpn,Tertiary Gun,3
-pred-shikishima,47-p-markiv-ha_x6-mast,47-he-uk,Tertiary Gun,4
+pred-shikishima,47-p-marki_x6-mast,47-he-uk,Tertiary Gun,4
 pred-shikishima,47-p-yamanouchi-mk1_x6,47-com-2.5,Tertiary Gun,5
 pred-shikishima,450-tt-hull_x5-bow,,,
 pred-shikishima,placeholder_torpedo,,,
 pred-shikishima_hatsuse,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-shikishima_hatsuse,152-c-armstrong-z_x14-alt,152-com-mod1,Secondary Gun,2
 pred-shikishima_hatsuse,76-p-41st-year_x20-alt,76-he-jpn,Tertiary Gun,3
-pred-shikishima_hatsuse,47-p-markiv-ha_x8-mast,47-he-uk,Tertiary Gun,4
+pred-shikishima_hatsuse,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,4
 pred-shikishima_hatsuse,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,5
 pred-shikishima_hatsuse,450-tt-hull_x4-side,,,
 pred-shikishima_hatsuse,placeholder_torpedo,,,
 pred-fuji,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-fuji,152-c-armstrong-z_x4,152-com-mod1,Secondary Gun,2
 pred-fuji,152-p-armstrong-z_x6,152-com-mod1,Secondary Gun,2
-pred-fuji,47-p-markiv-ha_x20,47-he-uk,Tertiary Gun,3
+pred-fuji,47-p-marki_x20,47-he-uk,Tertiary Gun,3
 pred-fuji,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
 pred-fuji,450-tt-hull_x5-bow,,,
 pred-fuji,placeholder_torpedo,,,
+pred-fuji_1900,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
+pred-fuji_1900,152-c-armstrong-z_x4,152-com-mod1,Secondary Gun,2
+pred-fuji_1900,152-p-armstrong-z_x6,152-com-mod1,Secondary Gun,2
+pred-fuji_1900,47-p-marki_x20,47-he-uk,Tertiary Gun,3
+pred-fuji_1900,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
+pred-fuji_1900,450-tt-hull_x5-bow,,,
+pred-fuji_1900,placeholder_torpedo,,,
 bb-bismarck_design,380-ag-drh-lc34_abxy,380-apc-l44,Primary Gun,1
 bb-bismarck_design,149-ag-drh-lc34_x6,149-apc-l38,Secondary Gun,2
 bb-bismarck_design,105-sm-dop-lc31_x8,105-ap_105-he-ger,Secondary Gun,3
@@ -798,7 +1703,7 @@ bb-richelieu_jean-bart,380-ag-m1935_ab,380-apc-m1936,Primary Gun,1
 bb-richelieu_jean-bart,152-ag-bb-m1936-dp_x3,152-sapc-m1937_152-he-m1937,Secondary Gun,2
 bb-richelieu_jean-bart,100-ag-cad-m1945_x12,100-he-m1945,Secondary Gun,3
 bb-richelieu_jean-bart,57-ag-acad-m1948_x14,57-he-fra,AA Battery,4
-bb-richelieu_jean-bart,20-he-mk3_x20,20-he-mk3,AA Battery,5
+bb-richelieu_jean-bart,20-p-mk6-mk4_x20,20-he-mk3,AA Battery,5
 bb-richelieu_jean-bart,placeholder_searchlight,,,
 bb-dunkerque,330-ag-m1932_ab,330-sapc-fra,Primary Gun,1
 bb-dunkerque,130-ag-m1932-quad_x3,130-sap_130-he-fra,Secondary Gun,2
@@ -907,7 +1812,7 @@ bb-bretagne_lorraine-1932,placeholder_torpedo,,,
 bb-bretagne_lorraine-1932,placeholder_searchlight,,,
 bb-bretagne_lorraine-1934,340-ag-m1912-double-1924_abxy,340-apc-m1912,Primary Gun,1
 bb-bretagne_lorraine-1934,139-c-m1910_x14,139-sap-fra-1910,Secondary Gun,2
-bb-bretagne_lorraine-1934,100-cp-m1931-bb_x4,,AA Battery,3
+bb-bretagne_lorraine-1934,100-cp-m1931-bb_x4,100-he-fra,AA Battery,3
 bb-bretagne_lorraine-1934,47-p-m1902-la_x5-turret-top,47-he-fra-1902,Landing Gun,4
 bb-bretagne_lorraine-1934,placeholder_searchlight,,,
 bb-bretagne_lorraine-1940,340-ag-m1912-double-1924_abxy,340-apc-m1912,Primary Gun,1
@@ -1425,14 +2330,25 @@ pred-borodino,47-p-1_x20,47-he-rus,Tertiary Gun,4
 pred-borodino,7-p-mg01_x8,7-b-79-mauser,Security Gun,5
 pred-borodino,381-tt-hull_x4,,,
 pred-borodino,placeholder_torpedo,,,
+pred-iwami-1905,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-iwami-1905,203-cp-41st-year-type_x6,203-ap-jpn,Secondary Gun,2
+pred-iwami-1905,76-p-41st-year_x16,76-he-jpn,Tertiary Gun,3
+pred-iwami-1905,381-tt-hull_x2-side,,,
+pred-iwami-1905,placeholder_torpedo,,,
 pred-retvizan,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
 pred-retvizan,152-c-p1892_x12-alt,152-ap-old-model-rus,Secondary Gun,2
-pred-retvizan,75-c-m1906_x20,75-he-m1907,Tertiary Gun,3
+pred-retvizan,75-p-p1906_x20,75-he-m1907,Tertiary Gun,3
 pred-retvizan,47-p-1_x24,47-he-rus,Tertiary Gun,4
 pred-retvizan,37-p-m1884_x8,37-he-rus-early,Tertiary Gun,5
 pred-retvizan,7-p-mg01_x2,7-b-79-mauser,Security Gun,6
 pred-retvizan,450-tt-hull_x6-fore-aft,,,
 pred-retvizan,placeholder_torpedo,,,
+pred-hizen-1905,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred-hizen-1905,152-c-p1892_x12-alt,152-ap-old-model-rus,Secondary Gun,2
+pred-hizen-1905,75-p-p1906_x16-alt,75-he-m1907,Tertiary Gun,3
+pred-hizen-1905,47-p-1_x2,47-he-rus,Tertiary Gun,4
+pred-hizen-1905,450-tt-hull_x2-side,,,
+pred-hizen-1905,placeholder_torpedo,,,
 pred-tsesarevich,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
 pred-tsesarevich,152-ag-p1892_x6,152-ap-old-model-rus,Secondary Gun,2
 pred-tsesarevich,75-c-m1906_x12,75-he-m1907,Tertiary Gun,3
@@ -1457,6 +2373,17 @@ pred-peresvet,47-p-1_x20-mast-alt,47-he-rus,Tertiary Gun,4
 pred-peresvet,37-p-m1884_x8-side,37-he-rus-early,Tertiary Gun,5
 pred-peresvet,381-tt-hull_x5-bow,,,
 pred-peresvet,placeholder_torpedo,,,
+pred-sagami-1905,254-ag-p1891-ha_ay,254-ap-rus,Primary Gun,1
+pred-sagami-1905,152-c-p1892_x10,152-ap-old-model-rus,Secondary Gun,2
+pred-sagami-1905,75-c-m1906_x16,75-he-m1907,Tertiary Gun,3
+pred-sagami-1905,381-tt-hull_x2-side,,,
+pred-sagami-1905,placeholder_torpedo,,,
+pred-sagami-1905_1916,254-ag-p1891-ha_ay,254-ap-rus,Primary Gun,1
+pred-sagami-1905_1916,152-c-p1892_x10,152-ap-old-model-rus,Secondary Gun,2
+pred-sagami-1905_1916,75-c-m1906_x16,75-he-m1907,Tertiary Gun,3
+pred-sagami-1905_1916,6-p-3rd-year-type_x4,6-b-jpn,Security Gun,4
+pred-sagami-1905_1916,381-tt-hull_x2-side,,,
+pred-sagami-1905_1916,placeholder_torpedo,,,
 pred-rostislav,254-ag-p1891-la_ay,254-ap-rus,Primary Gun,1
 pred-rostislav,152-ag-p1892_x4,152-ap-old-model-rus,Secondary Gun,2
 pred-rostislav,47-p-1_x12,47-he-rus,Tertiary Gun,3
@@ -1471,6 +2398,13 @@ pred-petropavlovsk,37-p-m1884_x28,37-he-rus-early,Tertiary Gun,4
 pred-petropavlovsk,450-tt-hull_x2-side,,,
 pred-petropavlovsk,381-tt-hull_x4,,,
 pred-petropavlovsk,placeholder_torpedo,,,
+pred-tango-1905,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred-tango-1905,152-ag-p1892_x4,152-ap-old-model-rus,Secondary Gun,2
+pred-tango-1905,152-c-41st-year-20_x4-side,152-he-com-type0,Secondary Gun,3
+pred-tango-1905,76-p-41st-year_x10,76-he-jpn,Tertiary Gun,4
+pred-tango-1905,37-p-m1884_x4,37-he-rus-early,Tertiary Gun,5
+pred-tango-1905,381-tt-hull_x4,,,
+pred-tango-1905,placeholder_torpedo,,,
 pred-sissoi-veliky,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
 pred-sissoi-veliky,152-c-p1892_x6-side,152-ap-old-model-rus,Secondary Gun,2
 pred-sissoi-veliky,47-p-1_x12,47-he-rus,Tertiary Gun,3
@@ -1530,7 +2464,7 @@ pred-habsburg,450-tt-hull_x2-side,,,
 pred-habsburg,placeholder_torpedo,,,
 bb-salamis,356-ag-bethlehem_abxy,356-ap-early,Primary Gun,1
 bb-salamis,152-ag-mk6_x12,152-he-gre,Secondary Gun,2
-bb-salamis,76-p-mk11_x12,76-hc-mk24,Tertiary Gun,3
+bb-salamis,76-cp-mk11_x12,76-hc-mk24,Tertiary Gun,3
 bb-salamis,500-tt-hull_x5-bow,,,
 bb-salamis,placeholder_torpedo,,,
 bb-vasilefs-konstantinos,340-ag-m1912-double_abqxy,340-apc-m1912,Primary Gun,1
