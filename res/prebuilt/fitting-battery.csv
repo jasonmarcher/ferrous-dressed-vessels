@@ -750,46 +750,97 @@ pred-mississippi_1909,533-tt-hull_x2-side,,,
 pred-mississippi_1909,placeholder_torpedo,,,
 pred-connecticut,305-ag-mk6_ay,305-ap-mkv-bp,Primary Gun,1
 pred-connecticut,203-ag-mk12_x4,203-ap-naval-bp,Secondary Gun,2
-pred-connecticut,76-p-mk2_x20,76-com,Tertiary Gun,3
-pred-connecticut,47-p-mk1_x12,47-com-mk4,Tertiary Gun,4
-pred-connecticut,37-p-mk6_x4-mast,37-com-mk4,Security Gun,5
+pred-connecticut,178-p-mk1_x12,178-ap-mk6-bp,Secondary Gun,3
+pred-connecticut,76-p-mk2_x20,76-com,Tertiary Gun,4
+pred-connecticut,47-p-mk1_x12,47-com-mk4,Tertiary Gun,5
+pred-connecticut,37-p-mk6_x4-mast,37-com-mk4,Security Gun,6
 pred-connecticut,533-tt-hull_x4-side,,,
 pred-connecticut,placeholder_torpedo,,,
 pred-vermont_vermont,305-ag-mk6_ay,305-ap-mkv-bp,Primary Gun,1
 pred-vermont_vermont,203-ag-mk12_x4,203-ap-naval-bp,Secondary Gun,2
-pred-vermont_vermont,76-p-mk2_x20,76-com,Tertiary Gun,3
-pred-vermont_vermont,47-p-mk1_x10,47-com-mk4,Tertiary Gun,4
-pred-vermont_vermont,37-p-mk6_x2-mast,37-com-mk4,Security Gun,5
+pred-vermont_vermont,178-p-mk1_x12,178-ap-mk6-bp,Secondary Gun,3
+pred-vermont_vermont,76-p-mk2_x20,76-com,Tertiary Gun,4
+pred-vermont_vermont,47-p-mk1_x10,47-com-mk4,Tertiary Gun,5
+pred-vermont_vermont,37-p-mk6_x2-mast,37-com-mk4,Security Gun,6
 pred-vermont_vermont,533-tt-hull_x4-side,,,
 pred-vermont_vermont,placeholder_torpedo,,,
 pred-vermont,305-ag-mk6_ay,305-ap-mkv-bp,Primary Gun,1
 pred-vermont,203-ag-mk12_x4,203-ap-naval-bp,Secondary Gun,2
-pred-vermont,76-p-mk2_x20,76-com,Tertiary Gun,3
-pred-vermont,47-p-mk1_x12,47-com-mk4,Tertiary Gun,4
-pred-vermont,37-p-mk6_x2-mast,37-com-mk4,Security Gun,5
+pred-vermont,178-p-mk1_x12,178-ap-mk6-bp,Secondary Gun,3
+pred-vermont,76-p-mk2_x20,76-com,Tertiary Gun,4
+pred-vermont,47-p-mk1_x12,47-com-mk4,Tertiary Gun,5
+pred-vermont,37-p-mk6_x2-mast,37-com-mk4,Security Gun,6
 pred-vermont,533-tt-hull_x4-side,,,
 pred-vermont,placeholder_torpedo,,,
 pred-vermont_new-hampshire,305-ag-mk6_ay,305-ap-mkv-bp,Primary Gun,1
 pred-vermont_new-hampshire,203-ag-mk12_x4,203-ap-naval-bp,Secondary Gun,2
-pred-vermont_new-hampshire,76-p-mk2_x20,76-com,Tertiary Gun,3
-pred-vermont_new-hampshire,37-p-mk6_x2-mast,37-com-mk4,Tertiary Gun,4
+pred-vermont_new-hampshire,178-p-mk1_x12,178-ap-mk6-bp,Secondary Gun,3
+pred-vermont_new-hampshire,76-p-mk2_x20,76-com,Tertiary Gun,4
+pred-vermont_new-hampshire,37-p-mk6_x2-mast,37-com-mk4,Tertiary Gun,5
 pred-vermont_new-hampshire,533-tt-hull_x4-side,,,
 pred-vermont_new-hampshire,placeholder_torpedo,,,
+pred-connecticut_1909,305-ag-mk6_ay,305-ap-mkv-bp,Primary Gun,1
+pred-connecticut_1909,203-ag-mk12_x4,203-ap-naval-bp,Secondary Gun,2
+pred-connecticut_1909,178-p-mk1_x12,178-ap-mk6-bp,Secondary Gun,3
+pred-connecticut_1909,76-p-mk2_x20-alt,76-com,Tertiary Gun,4
+pred-connecticut_1909,47-p-mk1_x4,47-com-mk4,Tertiary Gun,5
+pred-connecticut_1909,533-tt-hull_x4-side,,,
+pred-connecticut_1909,placeholder_torpedo,,,
+pred-connecticut_1917,305-ag-mk6_ay,305-ap-mkv-bp,Primary Gun,1
+pred-connecticut_1917,203-ag-mk12_x4,203-ap-naval-bp,Secondary Gun,2
+pred-connecticut_1917,178-p-mk1_x6,178-ap-mk6,Secondary Gun,3
+pred-connecticut_1917,76-p-mk2_x10,76-com,Tertiary Gun,4
+pred-connecticut_1917,533-tt-hull_x4-side,,,
+pred-connecticut_1917,placeholder_torpedo,,,
+pred-connecticut_1919,305-ag-mk6_ay,305-ap-mkv-bp,Primary Gun,1
+pred-connecticut_1919,203-ag-mk12_x4,203-ap-naval-bp,Secondary Gun,2
+pred-connecticut_1919,76-p-mk2_x6-conn,76-com,Tertiary Gun,3
+pred-connecticut_1919,533-tt-hull_x4-side,,,
+pred-connecticut_1919,placeholder_torpedo,,,
 pred-virginia,305-ag-mk5_ay,305-ap-870,Primary Gun,1
 pred-virginia,203-ag-mk5_ay,203-ap-naval-bp,Secondary Gun,2
 pred-virginia,203-ag-mk12_ps,203-ap-naval-bp,Secondary Gun,3
 pred-virginia,152-c-mk10_x12,152-ap-4-bp,Secondary Gun,4
-pred-virginia,47-p-mk1_x12_mast,47-com-mk4,Tertiary Gun,5
+pred-virginia,76-p-mk2_x12-vir,76-com,Tertiary Gun,5
+pred-virginia,47-p-mk1_x12-vir,47-com-mk4,Tertiary Gun,6
 pred-virginia,533-tt-hull_x4-side,,,
 pred-virginia,placeholder_torpedo,,,
 pred-virginia_new-jersey,305-ag-mk5_ay,305-ap-870,Primary Gun,1
 pred-virginia_new-jersey,203-ag-mk5_ay,203-ap-naval-bp,Secondary Gun,2
 pred-virginia_new-jersey,203-ag-mk12_ps,203-ap-naval-bp,Secondary Gun,3
 pred-virginia_new-jersey,152-c-mk10_x12,152-ap-4-bp,Secondary Gun,4
-pred-virginia_new-jersey,47-p-mk1_x12_mast,47-com-mk4,Tertiary Gun,5
-pred-virginia_new-jersey,37-p-mk6_x2-mast,37-com-mk4,Security Gun,6
+pred-virginia_new-jersey,76-p-mk2_x12-vir,76-com,Tertiary Gun,5
+pred-virginia_new-jersey,47-p-mk1_x12-vir,47-com-mk4,Tertiary Gun,6
+pred-virginia_new-jersey,37-p-mk6_x2-mast,37-com-mk4,Security Gun,7
 pred-virginia_new-jersey,533-tt-hull_x4-side,,,
 pred-virginia_new-jersey,placeholder_torpedo,,,
+pred-virginia_1909,305-ag-mk5_ay,305-ap-870,Primary Gun,1
+pred-virginia_1909,203-ag-mk5_ay,203-ap-naval-bp,Secondary Gun,2
+pred-virginia_1909,203-ag-mk12_ps,203-ap-naval-bp,Secondary Gun,3
+pred-virginia_1909,152-c-mk10_x12,152-ap-4-bp,Secondary Gun,4
+pred-virginia_1909,76-p-mk2_x12-vir,76-com,Tertiary Gun,5
+pred-virginia_1909,533-tt-hull_x4-side,,,
+pred-virginia_1909,placeholder_torpedo,,,
+pred-virginia_1911,305-ag-mk5_ay,305-ap-870,Primary Gun,1
+pred-virginia_1911,203-ag-mk5_ay,203-ap-naval-bp,Secondary Gun,2
+pred-virginia_1911,203-ag-mk12_ps,203-ap-naval-bp,Secondary Gun,3
+pred-virginia_1911,152-c-mk10_x12,152-ap-4-bp,Secondary Gun,4
+pred-virginia_1911,76-p-mk2_x12-vir-2,76-com,Tertiary Gun,5
+pred-virginia_1911,533-tt-hull_x4-side,,,
+pred-virginia_1911,placeholder_torpedo,,,
+pred-virginia_1917,305-ag-mk5_ay,305-ap-870,Primary Gun,1
+pred-virginia_1917,203-ag-mk5_ay,203-ap-naval-bp,Secondary Gun,2
+pred-virginia_1917,203-ag-mk12_ps,203-ap-naval-bp,Secondary Gun,3
+pred-virginia_1917,152-c-mk10_x6,152-ap-4-bp,Secondary Gun,4
+pred-virginia_1917,76-p-mk2_x6-vir,76-com,Tertiary Gun,5
+pred-virginia_1917,533-tt-hull_x4-side,,,
+pred-virginia_1917,placeholder_torpedo,,,
+pred-virginia_1919,305-ag-mk5_ay,305-ap-870,Primary Gun,1
+pred-virginia_1919,203-ag-mk5_ay,203-ap-naval-bp,Secondary Gun,2
+pred-virginia_1919,203-ag-mk12_ps,203-ap-naval-bp,Secondary Gun,3
+pred-virginia_1919,76-p-mk2_x6-vir,76-com,Tertiary Gun,4
+pred-virginia_1919,533-tt-hull_x4-side,,,
+pred-virginia_1919,placeholder_torpedo,,,
 pred-maine,305-ag-mk4_ay,305-ap-870,Primary Gun,1
 pred-maine,152-c-mk10_x16,152-ap-4-bp,Secondary Gun,2
 pred-maine,76-p-mk2_x6,76-com,Tertiary Gun,3
@@ -797,34 +848,144 @@ pred-maine,47-p-mk1_x8,47-com-mk4,Tertiary Gun,4
 pred-maine,37-p-mk6_x6-mast,37-com-mk4,Security Gun,5
 pred-maine,450-tt-hull_x2-side,,,
 pred-maine,placeholder_torpedo,,,
+pred-maine_1909,305-ag-mk4_ay,305-ap-870,Primary Gun,1
+pred-maine_1909,152-c-mk10_x16,152-ap-4-bp,Secondary Gun,2
+pred-maine_1909,76-p-mk2_x6,76-com,Tertiary Gun,3
+pred-maine_1909,450-tt-hull_x2-side,,,
+pred-maine_1909,placeholder_torpedo,,,
+pred-maine_1917,305-ag-mk4_ay,305-ap-870,Primary Gun,1
+pred-maine_1917,152-c-mk10_x10,152-ap-4-bp,Secondary Gun,2
+pred-maine_1917,450-tt-hull_x2-side,,,
+pred-maine_1917,placeholder_torpedo,,,
 pred-illinois,330-ag-2-mk4_ay,330-ap-mk5-bp,Primary Gun,1
 pred-illinois,152-p-mk6_x14,152-ap-4-bp,Secondary Gun,2
 pred-illinois,57-p-mk1_x16,57-com-mk3-mod3,Tertiary Gun,3
-pred-illinois,37-p-mk6_x4-mast,37-com-mk4,Security Gun,4
+pred-illinois,37-p-mk6_x4-ill,37-com-mk4,Security Gun,4
 pred-illinois,450-tt-hull_x4-side,,,
 pred-illinois,placeholder_torpedo,,,
+pred-illinois_1905,330-ag-2-mk4_ay,330-ap-mk5-bp,Primary Gun,1
+pred-illinois_1905,152-p-mk6_x14,152-ap-4-bp,Secondary Gun,2
+pred-illinois_1905,57-p-mk1_x10,57-com-mk3-mod3,Tertiary Gun,3
+pred-illinois_1905,37-p-mk6_x4-ill,37-com-mk4,Security Gun,4
+pred-illinois_1905,450-tt-hull_x4-side,,,
+pred-illinois_1905,placeholder_torpedo,,,
+pred-illinois_1909,330-ag-2-mk4_ay,330-ap-mk5-bp,Primary Gun,1
+pred-illinois_1909,152-p-mk6_x14,152-ap-4-bp,Secondary Gun,2
+pred-illinois_1909,76-p-mk7_x4,76-com-mk3,Tertiary Gun,3
+pred-illinois_1909,450-tt-hull_x4-side,,,
+pred-illinois_1909,placeholder_torpedo,,,
+pred-illinois_1917,330-ag-2-mk4_ay,330-ap-mk5-bp,Primary Gun,1
+pred-illinois_1917,152-p-mk6_x8,152-ap-4-bp,Secondary Gun,2
+pred-illinois_1917,76-p-mk7_x2-f-ps,76-com-mk3,Tertiary Gun,3
+pred-illinois_1917,450-tt-hull_x4-side,,,
+pred-illinois_1917,placeholder_torpedo,,,
+pred-illinois_1919,330-ag-2-mk4_ay,330-ap-mk5-bp,Primary Gun,1
+pred-illinois_1919,450-tt-hull_x4-side,,,
+pred-illinois_1919,placeholder_torpedo,,,
 pred-kearsarge,330-ag-2-mk3_ay,330-ap-mk5-bp,Primary Gun,1
 pred-kearsarge,203-ag-mk9_ay,203-ap-naval-early-bp,Secondary Gun,2
 pred-kearsarge,127-p-mk5_x14,127-ap-50,Secondary Gun,3
 pred-kearsarge,57-p-mk1_x20,57-com-mk3-mod3,Tertiary Gun,4
 pred-kearsarge,37-p-revolver_x8,37-com-mk4,Security Gun,5
+pred-kearsarge,7-p-m1895_x4-alt,7-b-us,Security Gun,6
 pred-kearsarge,450-tt-hull_x4-side,,,
 pred-kearsarge,placeholder_torpedo,,,
+pred-kearsarge_1900,330-ag-2-mk3_ay,330-ap-mk5-bp,Primary Gun,1
+pred-kearsarge_1900,203-ag-mk9_ay,203-ap-naval-early-bp,Secondary Gun,2
+pred-kearsarge_1900,127-p-mk5_x14,127-ap-50,Secondary Gun,3
+pred-kearsarge_1900,57-p-mk1_x20,57-com-mk3-mod3,Tertiary Gun,4
+pred-kearsarge_1900,37-p-mk6_x4,37-com-mk4,Security Gun,5
+pred-kearsarge_1900,7-p-m1895_x4-alt,7-b-us,Security Gun,6
+pred-kearsarge_1900,450-tt-hull_x4-side,,,
+pred-kearsarge_1900,placeholder_torpedo,,,
+pred-kearsarge_1909,330-ag-2-mk3_ay,330-ap-mk5-bp,Primary Gun,1
+pred-kearsarge_1909,203-ag-mk9_ay,203-ap-naval-early-bp,Secondary Gun,2
+pred-kearsarge_1909,127-p-mk5_x18,127-ap-50,Secondary Gun,3
+pred-kearsarge_1909,57-p-mk1_x4,57-com-mk3-mod3,Tertiary Gun,4
+pred-kearsarge_1909,450-tt-hull_x4-side,,,
+pred-kearsarge_1909,placeholder_torpedo,,,
+pred-kearsarge_1917,330-ag-2-mk3_ay,330-ap-mk5-bp,Primary Gun,1
+pred-kearsarge_1917,203-ag-mk9_ay,203-ap-naval-early-bp,Secondary Gun,2
+pred-kearsarge_1917,127-p-mk5_x8,127-ap-50,Secondary Gun,3
+pred-kearsarge_1917,450-tt-hull_x4-side,,,
+pred-kearsarge_1917,placeholder_torpedo,,,
 pred-iowa,305-ag-mk3_ay,305-ap-870-early,Primary Gun,1
 pred-iowa,203-ag-mk8_x4,203-ap-naval-early-bp,Secondary Gun,2
 pred-iowa,102-p-mk4_x6,102-ap,Secondary Gun,3
 pred-iowa,57-p-mk1_x20-alt,57-com-mk3-mod3,Tertiary Gun,4
-pred-iowa,37-p-revolver_x4,37-com-mk4,Security Gun,5
-pred-iowa,7-p-m1895_x4,7-b-us,Security Gun,6
-pred-iowa,356-tt-hull_x4,,,
+pred-iowa,37-p-mk6_x2-alt,37-com-mk4,Security Gun,5
+pred-iowa,37-p-revolver_x1-f,37-com-mk4,Security Gun,6
+pred-iowa,356-tt-hull_x6,,,
 pred-iowa,placeholder_torpedo,,,
+pred-iowa_1903,305-ag-mk3_ay,305-ap-870-early,Primary Gun,1
+pred-iowa_1903,203-ag-mk8_x4,203-ap-naval-early-bp,Secondary Gun,2
+pred-iowa_1903,102-p-mk4_x4,102-ap,Secondary Gun,3
+pred-iowa_1903,57-p-mk1_x22,57-com-mk3-mod3,Tertiary Gun,4
+pred-iowa_1903,37-p-mk6_x2-alt,37-com-mk4,Security Gun,5
+pred-iowa_1903,356-tt-hull_x6,,,
+pred-iowa_1903,placeholder_torpedo,,,
+pred-iowa_1908,305-ag-mk3_ay,305-ap-870-early,Primary Gun,1
+pred-iowa_1908,203-ag-mk8_x4,203-ap-naval-early-bp,Secondary Gun,2
+pred-iowa_1908,102-p-mk4_x4,102-ap,Secondary Gun,3
+pred-iowa_1908,356-tt-hull_x2-f-a,,,
+pred-iowa_1908,placeholder_torpedo,,,
+pred-iowa_1917,305-ag-mk3_ay,305-ap-870-early,Primary Gun,1
+pred-iowa_1917,203-ag-mk8_x4,203-ap-naval-early-bp,Secondary Gun,2
+pred-iowa_1917,102-p-mk4_x2-ps,102-ap,Secondary Gun,3
+pred-iowa_1917,356-tt-hull_x2-f-a,,,
+pred-iowa_1917,placeholder_torpedo,,,
 pred-indiana,330-ag-2-mk2_ay,330-ap-mk5-bp,Primary Gun,1
 pred-indiana,203-ag-mk8_x4,203-ap-naval-early-bp,Secondary Gun,2
 pred-indiana,152-p-mk6_x4,152-ap-4-bp,Secondary Gun,3
-pred-indiana,57-p-mk1_x20-alt,57-com-mk3-mod3,Tertiary Gun,4
-pred-indiana,37-p-mk6_x6-mast,37-com-mk4,Security Gun,5
+pred-indiana,57-p-mk1_x20-ind,57-com-mk3-mod3,Tertiary Gun,4
+pred-indiana,37-p-mk6_x6-ind,37-com-mk4,Security Gun,5
 pred-indiana,450-tt-hull_x6-fore-aft,,,
 pred-indiana,placeholder_torpedo,,,
+pred-indiana_1908,330-ag-2-mk2_ay,330-ap-mk5-bp,Primary Gun,1
+pred-indiana_1908,203-ag-mk8_x4,203-ap-naval-early-bp,Secondary Gun,2
+pred-indiana_1908,57-p-mk1_x10-ind,57-com-mk3-mod3,Tertiary Gun,4
+pred-indiana_1909,330-ag-2-mk2_ay,330-ap-mk5-bp,Primary Gun,1
+pred-indiana_1909,203-ag-mk8_x4,203-ap-naval-early-bp,Secondary Gun,2
+pred-indiana_1909,76-p-mk7_x12_ind,76-com-mk3,Tertiary Gun,3
+pred-indiana_1919,330-ag-2-mk2_ay,330-ap-mk5-bp,Primary Gun,1
+pred-indiana_1919,203-ag-mk8_x4,203-ap-naval-early-bp,Secondary Gun,2
+bt-texas,305-ag-mk2_ps,305-ap-870-early,Primary Gun,1
+bt-texas,152-bg-mk4-mod1-early_x2-fa,152-ap-4-bp,Secondary Gun,2
+bt-texas,152-bg-mk4-mod0-early_x4,152-ap-4-bp,Secondary Gun,2
+bt-texas,57-p-d-s_x10,57-com-mk3-mod3,Tertiary Gun,3
+bt-texas,57-p-mk1_x2-s,57-com-mk3-mod3,Tertiary Gun,3
+bt-texas,37-p-mk6_x6-mast,37-com-mk4,Security Gun,4
+bt-texas,37-p-revolver_x4-allround,37-com-mk4,Security Gun,5
+bt-texas,356-tt-hull_x4,,,
+bt-texas,placeholder_torpedo,,,
+bt-texas_1900,305-ag-mk2_ps,305-ap-870-early,Primary Gun,1
+bt-texas_1900,152-bg-mk4-mod1-early_x2-fa,152-ap-4-bp,Secondary Gun,2
+bt-texas_1900,152-bg-mk4-mod0-early_x4,152-ap-4-bp,Secondary Gun,2
+bt-texas_1900,57-p-d-s_x10,57-com-mk3-mod3,Tertiary Gun,3
+bt-texas_1900,57-p-mk1_x2-s,57-com-mk3-mod3,Tertiary Gun,3
+bt-texas_1900,37-p-mk6_x6-mast,37-com-mk4,Security Gun,4
+bt-texas_1900,37-p-revolver_x4-allround,37-com-mk4,Security Gun,5
+bt-texas_1904,305-ag-mk2_ps,305-ap-870-early,Primary Gun,1
+bt-texas_1904,152-bg-mk4-mod1_x6,152-ap-4-bp,Secondary Gun,2
+bt-texas_1904,57-p-d-s_x10,57-com-mk3-mod3,Tertiary Gun,3
+bt-texas_1904,57-p-mk1_x2-s,57-com-mk3-mod3,Tertiary Gun,3
+bt-texas_1904,37-p-mk6_x6-mast,37-com-mk4,Security Gun,4
+bt-texas_1904,37-p-revolver_x4-allround,37-com-mk4,Security Gun,5
+bt-texas_1910,305-ag-mk2_ps,305-ap-870-early,Primary Gun,1
+bt-texas_1910,152-bg-mk4-mod1_x6,152-ap-4-bp,Secondary Gun,2
+bt-texas_1910,57-p-d-s_x12,57-com-mk3-mod3,Tertiary Gun,3
+bt-texas_1910,57-p-mk1_x2-s,57-com-mk3-mod3,Tertiary Gun,3
+bt-texas_1910,37-p-mk6_x4-mast,37-com-mk4,Security Gun,4
+bt-texas_1910,37-p-revolver_x4-allround,37-com-mk4,Security Gun,5
+bt-texas_target,305-ag-mk2_ps,,Primary Gun,1
+bt-texas_target,152-bg-mk4-mod1_x6,,Secondary Gun,2
+bt-maine,254-ag-mk3_x2-ps,254-ap-13-bp,Primary Gun,1
+bt-maine,152-bg-mk4-mod0-early_x6,152-ap-4-bp,Secondary Gun,2
+bt-maine,57-p-d-s_x7,57-com-mk3-mod3,Tertiary Gun,3
+bt-maine,37-p-mk6_x8-maine,37-com-mk4,Security Gun,4
+bt-maine,11-p-colt-1877-10_x4,11-b-45-70-405,Security Gun,5
+bt-maine,450-tt-hull_x4-side,,,
+bt-maine,placeholder_torpedo,,,
 bb-vanguard,381-ag-marki-n-rp12_abxy,381-apc-markxiia,Primary Gun,1
 bb-vanguard,134-ag-rp10-marki*_x8,134-sap-markic_134-he,Secondary Gun,2
 bb-vanguard,40-cp-rp50-markvi_x10,40-he-mark1,AA Battery,3
