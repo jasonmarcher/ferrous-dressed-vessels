@@ -10,47 +10,66 @@ http://www.navsource.org/
 
 https://en.wikipedia.org/
 
+---
+
+## Potential Sources
+
 http://www.gwpda.org/naval/brassey/b1901o04.htm
 
 http://www.dreadnoughtproject.org/tfs/index.php/Warship_(Journal)
 
 https://warshipsresearch.blogspot.com/
 
-Artillery
+### Artillery
 http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=35F35FF07458F859FF45772BE15050FF?doi=10.1.1.674.4023&rep=rep1&type=pdf
+
 https://www.gutenberg.org/files/20483/20483-h/20483-h.htm
+
 https://grantvillegazette.com/article/publish-557/
+
 https://civilwarnavy.com/wp-content/uploads/2020/06/Holley_A-Treatise-on-Ordnance-and-Armor.pdf
+
 http://www.victorianshipmodels.com/antitorpedoboatguns/
+
 https://archive.org/details/treatiseonconst00offigoog
+
 http://navalhistory.flixco.info/H/93745x263540/259869/c0.htm
+
 https://kronoskaf.com/syw/index.php?title=British_Naval_Artillery#Shot_Types
+
 https://en.wikipedia.org/wiki/32-pounder_gun
 
-Armor
+### Armor
 http://www.navweaps.com/index_nathan/metalprpsept2009.php
 
-Torpedoes
+### Torpedoes
 https://en.wikipedia.org/wiki/American_18-inch_torpedo
+
 https://en.wikipedia.org/wiki/American_21-inch_torpedo
+
 http://large.stanford.edu/courses/2015/ph241/hernandez2/docs/TorpDevel-Usn-JolieNusc1978.pdf
+
 https://maritime.org/doc/jolie/index.htm
+
 https://www.history.navy.mil/content/history/nhhc/browse-by-topic/exploration-and-innovation/navy-torpedoes.html
+
 https://en.wikipedia.org/wiki/List_of_torpedoes_by_name
 
-Ship History
+### Ship History
 https://www.history.navy.mil/research/histories/ship-histories/danfs.html
+
 https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs.html
+
 http://3decks.pbworks.com/w/page/913970/FrontPage
 
-Submarines
+### Submarines
 http://www.designed4submariners.com/Welcome_Page.html
 
 http://www.hisutton.com/
 
 https://www.patreon.com/jivturky
 
-Misc.
+### Misc.
 https://dinamicaglobal.wordpress.com/militar/uma-breve-analise-comparativa-dos-grandes-porta-avioes/
 
 http://www.combinedfleet.com/kaigun.htm
@@ -90,6 +109,7 @@ https://naval-encyclopedia.com/ww1/France/asw-french-escorts.php
 http://pwencycl.kgbudge.com/Table_Of_Contents.htm
 
 http://www.shipbucket.com/drawings?category=real
+
 https://www.the-blueprints.com/blueprints/ships/
 
 https://www.militaryfactory.com/ships/navy-warships-and-submarines-by-country.php
@@ -106,7 +126,7 @@ https://alldrawings.ru/en/pictures/category/ships
 
 https://wargamingmiscellanybackup.wordpress.com/2013/12/
 
-Chinese Ships TODO
+### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
 http://www.hisutton.com/WW2-Maru-Yu-Class-Submarine.html
