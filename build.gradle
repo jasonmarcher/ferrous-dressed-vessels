@@ -8,7 +8,6 @@ buildscript {
     }
 }
 
-import groovy.json.JsonSlurper
 import java.io.FileWriter
 import java.nio.charset.Charset
 import java.time.LocalDate
@@ -17,9 +16,6 @@ import java.util.Calendar
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVParser
 import org.apache.commons.csv.CSVPrinter
-import org.ships.gradle.tasks.GenerateGunDataset
-
-task generateGunData(type: GenerateGunDataset) {}
 
 task generateClassData(type: Copy) {
     into 'build'
@@ -32,7 +28,6 @@ task generatePrototypeData(type: Copy) {
     include 'ammo.csv'
     include 'batteries.csv'
     include 'fitting-battery.csv'
-    include 'gun.csv'
     include 'gun-mounts.csv'
     include 'guns.csv'
     include 'launcher-mount.csv'
@@ -99,5 +94,5 @@ task clean(type: Delete) {
 }
 
 task build {
-    dependsOn generateGunData, generateClassData, generateShipHistory, generatePrototypeData
+    dependsOn generateClassData, generateShipHistory, generatePrototypeData
 }
