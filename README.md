@@ -34,6 +34,8 @@ Visualizations and data will be made accesible to all.
 
    1. Errors transcribing data to this project
 
+[Call for more sources on the following topics](docs/V2MOM/Obstacles.md).
+
 ## Measures
 
 ---
