@@ -126,6 +126,10 @@ https://alldrawings.ru/en/pictures/category/ships
 
 https://wargamingmiscellanybackup.wordpress.com/2013/12/
 
+https://history.army.mil/documents/WWII/wwii_Troopships.pdf
+
+http://www.usmm.org/ships.html
+
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
