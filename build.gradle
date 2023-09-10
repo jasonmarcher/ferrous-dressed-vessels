@@ -40,6 +40,12 @@ task generateShipData(type: Copy) {
     include 'service.csv'
 }
 
+task generateWorkbooks(type: Copy) {
+    into 'build'
+    from 'res/workbooks'
+    include 'Ferrous Dressed Vessels.twb'
+}
+
 task generateShipHistory {
     dependsOn generateShipData
 
@@ -94,5 +100,5 @@ task clean(type: Delete) {
 }
 
 task build {
-    dependsOn generateClassData, generateShipHistory, generatePrototypeData
+    dependsOn generateClassData, generateShipHistory, generatePrototypeData, generateWorkbooks
 }
