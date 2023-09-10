@@ -2,9 +2,15 @@
 
 A slowly growing dataset on worships.
 
+---
+
 ## Vision
 
 Help people see and understand warship data.
+
+![Foo](docs/images/main.png)
+
+[Additional Showcase Images](docs/Showcase.md)
 
 ## Values
 
