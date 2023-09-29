@@ -991,56 +991,379 @@ bb-vanguard,134-ag-rp10-marki*_x8,134-sap-markic_134-he,Secondary Gun,2
 bb-vanguard,40-cp-rp50-markvi_x10,40-he-mark1,AA Battery,3
 bb-vanguard,40-cp-markvii_x11,40-he-mark1,AA Battery,3
 bb-vanguard,40-ta-staag-markii_x1,40-he-mark1,AA Battery,3
+bb-vanguard_1951,381-ag-marki-n-rp12_abxy,381-apc-markxiia,Primary Gun,1
+bb-vanguard_1951,134-ag-rp10-marki*_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-vanguard_1951,40-cp-rp50-markvi_x10,40-he-mark1,AA Battery,3
+bb-vanguard_1951,40-cp-markvii_x2,40-he-mark1,AA Battery,3
+bb-vanguard_1951,40-ta-staag-markii_x1,40-he-mark1,AA Battery,3
+bb-vanguard_1954,381-ag-marki-n-rp12_abxy,381-apc-markxiia,Primary Gun,1
+bb-vanguard_1954,134-ag-rp10-marki*_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-vanguard_1954,40-cp-rp50-markvi_x9,40-he-mark1,AA Battery,3
+bb-vanguard_1954,40-cp-markvii_x4,40-he-mark1,AA Battery,3
+bb-vanguard_1954,40-ta-staag-markii_x1,40-he-mark1,AA Battery,3
+bb-vanguard_1956,381-ag-marki-n-rp12_abxy,381-apc-markxiia,Primary Gun,1
+bb-vanguard_1956,134-ag-rp10-marki*_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-vanguard_1956,40-cp-rp50-markvi_x9,40-he-mark1,AA Battery,3
+bb-vanguard_1956,40-ta-staag-markii_x1,40-he-mark1,AA Battery,3
 bb-lion,406-ag-markii_aby,406-apc,Primary Gun,1
 bb-lion,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
 bb-lion,40-cp-markva_x6,40-he-2pdr,AA Battery,3
-bb-king-george-v_design,356-ag-markii_b,356-apc-markviib,Primary Gun,1
-bb-king-george-v_design,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
-bb-king-george-v_design,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
-bb-king-george-v_design,12-cp-markii_x4,12-b-uk,AA Battery,3
-bb-king-george-v_design-ii,356-ag-markii_b,356-apc-markviib,Primary Gun,1
-bb-king-george-v_design-ii,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
-bb-king-george-v_design-ii,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
-bb-king-george-v_design-ii,178-up_x4-kjv,,AA Battery,3
-bb-king-george-v_design-ii,placeholder_unrotated-projectile,,,
 bb-king-george-v,356-ag-markii_b,356-apc-markviib,Primary Gun,1
 bb-king-george-v,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
 bb-king-george-v,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
-bb-king-george-v,40-cp-markva_x4,40-he-2pdr,AA Battery,3
-bb-king-george-v,178-up_x4-kjv,,AA Battery,4
-bb-king-george-v,placeholder_unrotated-projectile,,,
+bb-king-george-v,12-cp-markii_x4,12-b-uk,AA Battery,3
+bb-king-george-v_1939,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1939,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1939,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_1939,178-up_x4-kjv,,AA Battery,3
+bb-king-george-v_1939,placeholder_unrotated-projectile,,,
+bb-king-george-v_1940,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1940,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1940,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_1940,40-cp-markva_x4,40-he-2pdr,AA Battery,3
+bb-king-george-v_1940,178-up_x4-kjv,,AA Battery,4
+bb-king-george-v_1940,placeholder_unrotated-projectile,,,
+bb-king-george-v_1941,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1941,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1941,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_1941,40-cp-markva_x5-kjv,40-he-2pdr,AA Battery,3
+bb-king-george-v_1941,40-cp-markvii_x1,40-he-2pdr,AA Battery,3
+bb-king-george-v_1941,20-p-mark1_x18-kjv,20-he-uk,AA Battery,4
+bb-king-george-v_1943,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1943,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1943,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_1943,40-cp-markva_x5-kjv,40-he-2pdr,AA Battery,3
+bb-king-george-v_1943,40-cp-markvii_x1,40-he-2pdr,AA Battery,3
+bb-king-george-v_1943,20-p-mark1_x38-kjv,20-he-uk,AA Battery,4
+bb-king-george-v_1944,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1944,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1944,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_1944,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_1944,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_1944,20-p-markv_x6-kjv,20-he-uk,AA Battery,5
+bb-king-george-v_1944,20-p-mark1_x26-kjv,20-he-uk,AA Battery,5
+bb-king-george-v_1945,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1945,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1945,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_1945,40-cp-markviii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_1945,40-cp-marki/iii_x2-kjv,40-he-mk1,AA Battery,3
+bb-king-george-v_1945,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_1945,20-p-markv_x4-kjv,20-he-uk,AA Battery,5
+bb-king-george-v_1945,20-p-mark1_x24-kjv,20-he-uk,AA Battery,5
+bb-king-george-v_1946,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1946,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_1946,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_1946,40-cp-markviii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_1946,40-cp-marki/iii_x2-kjv,40-he-mk1,AA Battery,3
+bb-king-george-v_1946,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
 bb-king-george-v_prince-of-wales,356-ag-markii_b,356-apc-markviib,Primary Gun,1
 bb-king-george-v_prince-of-wales,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
 bb-king-george-v_prince-of-wales,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
-bb-king-george-v_prince-of-wales,40-cp-markva_x4,40-he-2pdr,AA Battery,3
 bb-king-george-v_prince-of-wales,40-cp-marki/iii_x1,40-he-mk1,AA Battery,3
-bb-king-george-v_prince-of-wales,178-up_x3-kjv,,AA Battery,4
+bb-king-george-v_prince-of-wales,40-cp-markva_x4,40-he-2pdr,AA Battery,4
+bb-king-george-v_prince-of-wales,178-up_x3-kjv,,AA Battery,5
 bb-king-george-v_prince-of-wales,placeholder_unrotated-projectile,,,
+bb-king-george-v_prince-of-wales-1941-7,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_prince-of-wales-1941-7,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_prince-of-wales-1941-7,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_prince-of-wales-1941-7,40-cp-marki/iii_x1,40-he-mk1,AA Battery,3
+bb-king-george-v_prince-of-wales-1941-7,40-cp-markva_x6-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_prince-of-wales-1941-12,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_prince-of-wales-1941-12,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_prince-of-wales-1941-12,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_prince-of-wales-1941-12,40-cp-marki/iii_x1,40-he-mk1,AA Battery,3
+bb-king-george-v_prince-of-wales-1941-12,40-cp-markva_x6-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_prince-of-wales-1941-12,20-p-mark1_x7,20-he-uk,AA Battery,5
 bb-king-george-v_duke-of-york,356-ag-markii_b,356-apc-markviib,Primary Gun,1
 bb-king-george-v_duke-of-york,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
 bb-king-george-v_duke-of-york,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
 bb-king-george-v_duke-of-york,40-cp-markva_x6-kjv,40-he-2pdr,AA Battery,3
-bb-king-george-v_duke-of-york,20-p-mark1_x6,20-he-uk,AA Battery,4
-bb-king-george-v_duke-of-york,placeholder_unrotated-projectile,,,
+bb-king-george-v_duke-of-york,20-p-mark1_x6-doy,20-he-uk,AA Battery,4
+bb-king-george-v_duke-of-york-1942,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1942,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1942,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_duke-of-york-1942,40-cp-markva_x6-kjv,40-he-2pdr,AA Battery,3
+bb-king-george-v_duke-of-york-1942,20-p-mark1_x14-doy,20-he-uk,AA Battery,4
+bb-king-george-v_duke-of-york-1943,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1943,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1943,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_duke-of-york-1943,40-cp-markva_x6-kjv,40-he-2pdr,AA Battery,3
+bb-king-george-v_duke-of-york-1943,20-p-mark1_x28-doy,20-he-uk,AA Battery,4
+bb-king-george-v_duke-of-york-1944,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1944,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1944,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_duke-of-york-1944,40-cp-markva_x6-kjv,40-he-2pdr,AA Battery,3
+bb-king-george-v_duke-of-york-1944,20-p-markv_x2-doy,20-he-uk,AA Battery,4
+bb-king-george-v_duke-of-york-1944,20-p-mark1_x28-doy,20-he-uk,AA Battery,4
+bb-king-george-v_duke-of-york-1945,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1945,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1945,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_duke-of-york-1945,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_duke-of-york-1945,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_duke-of-york-1945,40-cp-markvii_x6,40-he-2pdr,AA Battery,4
+bb-king-george-v_duke-of-york-1945,20-p-markv_x8-doy,20-he-uk,AA Battery,5
+bb-king-george-v_duke-of-york-1945,20-p-mark1_x16-doy,20-he-uk,AA Battery,5
+bb-king-george-v_duke-of-york-1946,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1946,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1946,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_duke-of-york-1946,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_duke-of-york-1946,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_duke-of-york-1946,40-cp-markvii_x2,40-he-2pdr,AA Battery,4
+bb-king-george-v_duke-of-york-1946,20-p-markv_x8-doy,20-he-uk,AA Battery,5
+bb-king-george-v_duke-of-york-1951,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1951,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_duke-of-york-1951,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_duke-of-york-1951,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_duke-of-york-1951,40-cp-markvii-single_x6-anson,40-he-mk1,AA Battery,3
+bb-king-george-v_duke-of-york-1951,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_duke-of-york-1951,40-cp-markvii_x2,40-he-2pdr,AA Battery,4
 bb-king-george-v_anson,356-ag-markii_b,356-apc-markviib,Primary Gun,1
 bb-king-george-v_anson,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
 bb-king-george-v_anson,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
 bb-king-george-v_anson,40-cp-markva_x6-kjv,40-he-2pdr,AA Battery,3
-bb-king-george-v_anson,20-p-mark1_x18,20-he-uk,AA Battery,4
-bb-king-george-v_anson,placeholder_unrotated-projectile,,,
+bb-king-george-v_anson,20-p-mark1_x17-anson,20-he-uk,AA Battery,4
+bb-king-george-v_anson-1944,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_anson-1944,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_anson-1944,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_anson-1944,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_anson-1944,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_anson-1944,40-cp-markvii_x4-anson,40-he-2pdr,AA Battery,4
+bb-king-george-v_anson-1944,20-p-markv_x8-doy,20-he-uk,AA Battery,5
+bb-king-george-v_anson-1944,20-p-mark1_x5-anson,20-he-uk,AA Battery,5
+bb-king-george-v_anson-1945,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_anson-1945,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_anson-1945,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_anson-1945,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_anson-1945,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_anson-1945,40-cp-markvii_x6,40-he-2pdr,AA Battery,4
+bb-king-george-v_anson-1945,20-p-markv_x6-anson,20-he-uk,AA Battery,5
+bb-king-george-v_anson-1945,20-p-mark1_x5-anson,20-he-uk,AA Battery,5
+bb-king-george-v_anson-1946,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_anson-1946,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_anson-1946,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_anson-1946,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_anson-1946,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_anson-1946,40-cp-markvii_x2,40-he-2pdr,AA Battery,4
+bb-king-george-v_anson-1946,20-p-markv_x4-anson,20-he-uk,AA Battery,5
+bb-king-george-v_anson-1949,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_anson-1949,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_anson-1949,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_anson-1949,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_anson-1949,40-cp-markvii-single_x6-anson,40-he-mk1,AA Battery,3
+bb-king-george-v_anson-1949,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_howe-1943,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_howe-1943,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_howe-1943,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_howe-1943,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_howe-1943,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_howe-1943,20-p-markv_x4-anson,20-he-uk,AA Battery,5
+bb-king-george-v_howe-1943,20-p-mark1_x34-howe,20-he-uk,AA Battery,5
+bb-king-george-v_howe-1945,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_howe-1945,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_howe-1945,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_howe-1945,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_howe-1945,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_howe-1945,40-cp-markvii_x2-howe,40-he-2pdr,AA Battery,4
+bb-king-george-v_howe-1945,20-p-markv_x4-anson,20-he-uk,AA Battery,5
+bb-king-george-v_howe-1945,20-p-mark1_x15-howe,20-he-uk,AA Battery,5
+bb-king-george-v_howe-1946,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_howe-1946,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_howe-1946,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_howe-1946,40-cp-rp-markii_x2,40-he-mk1,AA Battery,3
+bb-king-george-v_howe-1946,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_howe-1946,20-p-markv_x4-anson,20-he-uk,AA Battery,5
+bb-king-george-v_howe-1949,356-ag-markii_b,356-apc-markviib,Primary Gun,1
+bb-king-george-v_howe-1949,356-ag-markiii_ay,356-apc-markviib,Primary Gun,1
+bb-king-george-v_howe-1949,134-ag-marki_x8,134-sap-markic_134-he,Secondary Gun,2
+bb-king-george-v_howe-1949,40-cp-markva_x8-kjv,40-he-2pdr,AA Battery,4
+bb-king-george-v_howe-1949,20-p-markv_x4-anson,20-he-uk,AA Battery,5
 bb-nelson,406-ag-marki_abx,406-ap-markib,Primary Gun,1
 bb-nelson,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
 bb-nelson,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
-bb-nelson,47-p-markiv-ha_x6,47-he-uk,AA Battery,4
+bb-nelson,47-p-markiv-ha_x4-mid,47-he-uk,AA Battery,4
 bb-nelson,40-p-markii_x8,40-he-uk,AA Battery,5
 bb-nelson,622-tt-hull_x2-side,,,
 bb-nelson,placeholder_torpedo,,,
+bb-nelson_1932,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1932,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1932,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1932,47-p-markiv-ha_x4-mid,47-he-uk,AA Battery,4
+bb-nelson_1932,40-cp-markv_x1,40-he-2pdr,AA Battery,5
+bb-nelson_1932,622-tt-hull_x2-side,,,
+bb-nelson_1932,placeholder_torpedo,,,
+bb-nelson_1935-nelson,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1935-nelson,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1935-nelson,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1935-nelson,47-p-markiv-ha_x4-mid,47-he-uk,AA Battery,4
+bb-nelson_1935-nelson,40-cp-markv_x1,40-he-2pdr,AA Battery,5
+bb-nelson_1935-nelson,12-cp-markii_x2-fore,12-b-uk,AA Battery,6
+bb-nelson_1935-nelson,622-tt-hull_x2-side,,,
+bb-nelson_1935-nelson,placeholder_torpedo,,,
+bb-nelson_1935,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1935,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1935,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1935,47-p-markiv-ha_x4-mid,47-he-uk,AA Battery,4
+bb-nelson_1935,40-cp-markv_x2,40-he-2pdr,AA Battery,5
+bb-nelson_1935,12-cp-markii_x2-fore,12-b-uk,AA Battery,6
+bb-nelson_1935,622-tt-hull_x2-side,,,
+bb-nelson_1935,placeholder_torpedo,,,
+bb-nelson_1938-rodney,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1938-rodney,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1938-rodney,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1938-rodney,47-p-markiv-ha_x4-mid,47-he-uk,AA Battery,4
+bb-nelson_1938-rodney,40-cp-markv_x3-nelson,40-he-2pdr,AA Battery,5
+bb-nelson_1938-rodney,12-cp-markii_x2-fore,12-b-uk,AA Battery,6
+bb-nelson_1938-rodney,622-tt-hull_x2-side,,,
+bb-nelson_1938-rodney,placeholder_torpedo,,,
+bb-nelson_1940-rodney,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1940-rodney,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1940-rodney,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1940-rodney,47-p-markiv-ha_x4-mid,47-he-uk,AA Battery,4
+bb-nelson_1940-rodney,40-cp-markv_x3-nelson,40-he-2pdr,AA Battery,5
+bb-nelson_1940-rodney,20-p-mark1_x2-turret,20-he-uk,AA Battery,6
+bb-nelson_1940-rodney,12-cp-markii_x2-fore,12-b-uk,AA Battery,7
+bb-nelson_1940-rodney,622-tt-hull_x2-side,,,
+bb-nelson_1940-rodney,placeholder_torpedo,,,
+bb-nelson_1941-rodney,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1941-rodney,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1941-rodney,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1941-rodney,40-cp-markva_x5-rodney,40-he-2pdr,AA Battery,4
+bb-nelson_1941-rodney,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,4
+bb-nelson_1941-rodney,20-p-mark1_x2-fore,20-he-uk,AA Battery,5
+bb-nelson_1941-rodney,12-cp-markii_x2-fore,12-b-uk,AA Battery,6
+bb-nelson_1941-rodney,622-tt-hull_x2-side,,,
+bb-nelson_1941-rodney,placeholder_torpedo,,,
+bb-nelson_1942-2-rodney,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1942-2-rodney,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1942-2-rodney,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1942-2-rodney,40-cp-markva_x5-rodney,40-he-2pdr,AA Battery,4
+bb-nelson_1942-2-rodney,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,4
+bb-nelson_1942-2-rodney,20-p-mark1_x17-rodney,20-he-uk,AA Battery,5
+bb-nelson_1942-2-rodney,622-tt-hull_x2-side,,,
+bb-nelson_1942-2-rodney,placeholder_torpedo,,,
+bb-nelson_1942-8-rodney,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1942-8-rodney,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1942-8-rodney,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1942-8-rodney,40-cp-markva_x5-rodney,40-he-2pdr,AA Battery,4
+bb-nelson_1942-8-rodney,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,4
+bb-nelson_1942-8-rodney,20-p-mark1_x21-rodney,20-he-uk,AA Battery,5
+bb-nelson_1942-8-rodney,622-tt-hull_x2-side,,,
+bb-nelson_1942-8-rodney,placeholder_torpedo,,,
+bb-nelson_1943-rodney,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1943-rodney,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1943-rodney,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1943-rodney,40-cp-markva_x5-rodney,40-he-2pdr,AA Battery,4
+bb-nelson_1943-rodney,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,4
+bb-nelson_1943-rodney,20-p-markv_x5-rodney,20-he-uk,AA Battery,5
+bb-nelson_1943-rodney,20-p-mark1_x51-rodney,20-he-uk,AA Battery,5
+bb-nelson_1943-rodney,622-tt-hull_x2-side,,,
+bb-nelson_1943-rodney,placeholder_torpedo,,,
+bb-nelson_1944-rodney,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1944-rodney,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1944-rodney,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1944-rodney,40-cp-markva_x5-rodney,40-he-2pdr,AA Battery,4
+bb-nelson_1944-rodney,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,4
+bb-nelson_1944-rodney,20-p-markv_x5-rodney,20-he-uk,AA Battery,5
+bb-nelson_1944-rodney,20-p-mark1_x53-rodney,20-he-uk,AA Battery,5
+bb-nelson_1944-rodney,622-tt-hull_x2-side,,,
+bb-nelson_1944-rodney,placeholder_torpedo,,,
+bb-nelson_1940,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1940,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1940,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1940,47-p-markiv-ha_x4-mid,47-he-uk,AA Battery,4
+bb-nelson_1940,40-cp-markva_x5-rodney,40-he-2pdr,AA Battery,5
+bb-nelson_1940,12-cp-markii_x2-fore,12-b-uk,AA Battery,6
+bb-nelson_1940,178-up_x4-nelson,,AA Battery,7
+bb-nelson_1940,placeholder_unrotated-projectile,,,
+bb-nelson_1940,622-tt-hull_x2-side,,,
+bb-nelson_1940,placeholder_torpedo,,,
+bb-nelson_1941,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1941,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1941,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1941,40-cp-markva_x6-nelson,40-he-2pdr,AA Battery,4
+bb-nelson_1941,20-p-mark1_x13-nelson,20-he-uk,AA Battery,5
+bb-nelson_1941,12-cp-markii_x2-fore,12-b-uk,AA Battery,6
+bb-nelson_1942,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1942,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1942,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1942,40-cp-markva_x6-nelson,40-he-2pdr,AA Battery,4
+bb-nelson_1942,20-p-mark1_x14-nelson,20-he-uk,AA Battery,5
+bb-nelson_1942,12-cp-markii_x2-fore,12-b-uk,AA Battery,6
+bb-nelson_1943,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1943,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1943,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1943,40-cp-markva_x6-nelson,40-he-2pdr,AA Battery,4
+bb-nelson_1943,20-p-mark1_x29-nelson,20-he-uk,AA Battery,5
+bb-nelson_1944,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1944,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1944,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1944,40-cp-rp-markii_x4,40-he-mk1,AA Battery,4
+bb-nelson_1944,40-cp-markva_x6-nelson,40-he-2pdr,AA Battery,5
+bb-nelson_1944,20-p-mark1_x56-nelson,20-he-uk,AA Battery,6
+bb-nelson_1946,406-ag-marki_abx,406-ap-markib,Primary Gun,1
+bb-nelson_1946,152-ag-markxviii_x6,152-cpbc-markxxvb,Secondary Gun,2
+bb-nelson_1946,120-cp-ha-markxii_x6,120-he-uk,AA Battery,3
+bb-nelson_1946,40-cp-rp-markii_x4,40-he-mk1,AA Battery,4
+bb-nelson_1946,40-cp-markva_x6-nelson,40-he-2pdr,AA Battery,5
 bc-admiral,381-ag-markii_abxy,381-apc-markva,Primary Gun,1
 bc-admiral,140-cpii_x12,140-cpc-uk,Secondary Gun,2
-bc-admiral,102-cp-ha-markiii_x4,102-he-uk,AA Battery,3
+bc-admiral,102-cp-ha-markiii_x4-admiral,102-he-uk,AA Battery,3
 bc-admiral,47-p-markiv-ha_x4-side,47-he-uk,AA Battery,4
 bc-admiral,533-tt-hull_x6-side,,,
 bc-admiral,placeholder_torpedo,,,
+bc-admiral_1931,381-ag-markii_abxy,381-apc-markva,Primary Gun,1
+bc-admiral_1931,140-cpii_x12,140-cpc-uk,Secondary Gun,2
+bc-admiral_1931,102-cp-ha-markiii_x4-admiral,102-he-uk,AA Battery,3
+bc-admiral_1931,47-p-markiv-ha_x4-side,47-he-uk,AA Battery,4
+bc-admiral_1931,40-cp-markv_x2,40-he-2pdr,AA Battery,5
+bc-admiral_1931,533-tt-hull_x6-side,,,
+bc-admiral_1931,placeholder_torpedo,,,
+bc-admiral_1932,381-ag-markii_abxy,381-apc-markva,Primary Gun,1
+bc-admiral_1932,140-cpii_x12,140-cpc-uk,Secondary Gun,2
+bc-admiral_1932,102-cp-ha-markiii_x4-admiral,102-he-uk,AA Battery,3
+bc-admiral_1932,47-p-markiv-ha_x4-side,47-he-uk,AA Battery,4
+bc-admiral_1932,40-cp-markv_x2,40-he-2pdr,AA Battery,5
+bc-admiral_1932,12-cp-markii_x2-fore,12-b-uk,AA Battery,6
+bc-admiral_1932,533-tt-hull_x6-side,,,
+bc-admiral_1932,placeholder_torpedo,,,
+bc-admiral_1937,381-ag-markii_abxy,381-apc-markva,Primary Gun,1
+bc-admiral_1937,140-cpii_x12,140-cpc-uk,Secondary Gun,2
+bc-admiral_1937,102-cp-ha-markiii_x4,102-he-uk,AA Battery,3
+bc-admiral_1937,47-p-markiv-ha_x4-side,47-he-uk,AA Battery,4
+bc-admiral_1937,40-cp-markv_x3-nelson,40-he-2pdr,AA Battery,5
+bc-admiral_1937,12-cp-markii_x4,12-b-uk,AA Battery,6
+bc-admiral_1937,533-tt-hull_x4-side,,,
+bc-admiral_1937,placeholder_torpedo,,,
+bc-admiral_1938,381-ag-markii_abxy,381-apc-markva,Primary Gun,1
+bc-admiral_1938,140-cpii_x10,140-cpc-uk,Secondary Gun,2
+bc-admiral_1938,102-cp-ha-markiii_x6,102-he-uk,AA Battery,3
+bc-admiral_1938,40-cp-markv_x3-nelson,40-he-2pdr,AA Battery,4
+bc-admiral_1938,12-cp-markii_x4,12-b-uk,AA Battery,5
+bc-admiral_1938,533-tt-hull_x4-side,,,
+bc-admiral_1938,placeholder_torpedo,,,
+bc-admiral_1939-6,381-ag-markii_abxy,381-apc-markva,Primary Gun,1
+bc-admiral_1939-6,140-cpii_x10,140-cpc-uk,Secondary Gun,2
+bc-admiral_1939-6,102-cp-twin-ha-markxix_x4,102-he-markxix,AA Battery,3
+bc-admiral_1939-6,102-cp-ha-markiii_x6,102-he-uk,AA Battery,3
+bc-admiral_1939-6,40-cp-markv_x3-nelson,40-he-2pdr,AA Battery,4
+bc-admiral_1939-6,12-cp-markii_x4,12-b-uk,AA Battery,5
+bc-admiral_1939-6,533-tt-hull_x4-side,,,
+bc-admiral_1939-6,placeholder_torpedo,,,
+bc-admiral_1939-8,381-ag-markii_abxy,381-apc-markva,Primary Gun,1
+bc-admiral_1939-8,140-cpii_x12,140-cpc-uk,Secondary Gun,2
+bc-admiral_1939-8,102-cp-twin-ha-markxix_x7,102-he-markxix,AA Battery,3
+bc-admiral_1939-8,40-cp-markv_x3-nelson,40-he-2pdr,AA Battery,4
+bc-admiral_1939-8,12-cp-markii_x4,12-b-uk,AA Battery,5
+bc-admiral_1939-8,533-tt-hull_x4-side,,,
+bc-admiral_1939-8,placeholder_torpedo,,,
+bc-admiral_1940,381-ag-markii_abxy,381-apc-markva,Primary Gun,1
+bc-admiral_1940,102-cp-twin-ha-markxix_x7,102-he-markxix,AA Battery,2
+bc-admiral_1940,40-cp-markv_x3-nelson,40-he-2pdr,AA Battery,3
+bc-admiral_1940,12-cp-markii_x4,12-b-uk,AA Battery,4
+bc-admiral_1940,178-up_x5-hood,,AA Battery,5
+bc-admiral_1940,placeholder_unrotated-projectile,,,
+bc-admiral_1940,533-tt-hull_x4-side,,,
+bc-admiral_1940,placeholder_torpedo,,,
 bc-furious,457-ag-b_ay,457-apc-4crh,Primary Gun,1
 bc-furious,140-pi*_x11,140-cpc-uk,Secondary Gun,2
 bc-furious,76-cp-ha-markii_x2-furious,76-he-uk-early,AA Battery,3
@@ -1052,13 +1375,313 @@ bc-courageous,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,3
 bc-courageous,47-p-markiv-ha_x2,47-he-uk,Security Gun,4
 bc-courageous,533-tt-hull_x2-side,,,
 bc-courageous,placeholder_torpedo,,,
+bc-courageous_1917-glorious,381-ag-marki_ay,381-apc-markia,Primary Gun,1
+bc-courageous_1917-glorious,102-gs-ti-marki_x6,102-he-uk,Secondary Gun,2
+bc-courageous_1917-glorious,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,3
+bc-courageous_1917-glorious,47-p-markiv-ha_x2,47-he-uk,Security Gun,4
+bc-courageous_1917-glorious,533-tt-twin_x6,,,
+bc-courageous_1917-glorious,533-tt-hull_x2-side,,,
+bc-courageous_1917-glorious,placeholder_torpedo,,,
+bc-courageous_1917,381-ag-marki_ay,381-apc-markia,Primary Gun,1
+bc-courageous_1917,102-gs-ti-marki_x6,102-he-uk,Secondary Gun,2
+bc-courageous_1917,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,3
+bc-courageous_1917,47-p-markiv-ha_x2,47-he-uk,Security Gun,4
+bc-courageous_1917,533-tt-twin_x2,,,
+bc-courageous_1917,533-tt-hull_x2-side,,,
+bc-courageous_1917,placeholder_torpedo,,,
 bc-renown,381-ag-marki_aby,381-apc-markia,Primary Gun,1
 bc-renown,102-gs-ti-marki_x5,102-he-uk,Secondary Gun,2
-bc-renown,102-gs-ti-marki_x2,102-he-uk,Secondary Gun,3
+bc-renown,102-gs-cpi_x2,102-he-uk,Secondary Gun,3
 bc-renown,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,4
 bc-renown,47-p-markiv-ha_x6,47-he-uk,Security Gun,5
 bc-renown,533-tt-hull_x2-side,,,
 bc-renown,placeholder_torpedo,,,
+bc-renown-1916,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-renown-1916,102-gs-ti-marki_x5,102-he-uk,Secondary Gun,2
+bc-renown-1916,102-gs-cpi_x2,102-he-uk,Secondary Gun,3
+bc-renown-1916,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,4
+bc-renown-1916,47-p-markiv-ha_x6,47-he-uk,Security Gun,5
+bc-renown-1916,533-tt-hull_x2-side,,,
+bc-renown-1916,placeholder_torpedo,,,
+bc-renown-1916_1921,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-renown-1916_1921,102-gs-ti-marki_x4-rr,102-he-uk,Secondary Gun,2
+bc-renown-1916_1921,102-gs-cpi_x2,102-he-uk,Secondary Gun,3
+bc-renown-1916_1921,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,4
+bc-renown-1916_1921,47-p-markiv-ha_x6,47-he-uk,Security Gun,5
+bc-renown-1916_1921,533-tt-hull_x2-side,,,
+bc-renown-1916_1921,placeholder_torpedo,,,
+bc-repulse-1918,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-repulse-1918,102-gs-ti-marki_x5,102-he-uk,Secondary Gun,2
+bc-repulse-1918,102-gs-cpi_x2,102-he-uk,Secondary Gun,3
+bc-repulse-1918,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,4
+bc-repulse-1918,47-p-markiv-ha_x6,47-he-uk,Security Gun,5
+bc-repulse-1918,533-tt-twin_x4,,,
+bc-repulse-1918,533-tt-hull_x2-side,,,
+bc-repulse-1918,placeholder_torpedo,,,
+bc-repulse-1918_1924,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-repulse-1918_1924,102-gs-ti-marki_x5,102-he-uk,Secondary Gun,2
+bc-repulse-1918_1924,102-cp-ha-markiii_x4_rr,102-he-uk,AA Battery,3
+bc-repulse-1918_1924,533-tt-twin_x4,,,
+bc-repulse-1918_1924,533-tt-hull_x2-side,,,
+bc-repulse-1918_1924,placeholder_torpedo,,,
+bc-renown-1923,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-renown-1923,102-gs-ti-marki_x5,102-he-uk,Secondary Gun,2
+bc-renown-1923,102-cp-ha-markiii_x4_rr,102-he-uk,AA Battery,3
+bc-renown-1923,533-tt-hull_x2-side,,,
+bc-renown-1923,placeholder_torpedo,,,
+bc-renown-1923_1932-3,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-renown-1923_1932-3,102-gs-ti-marki_x4-rr,102-he-uk,Secondary Gun,2
+bc-renown-1923_1932-3,102-cp-ha-markiii_x4_rr,102-he-uk,AA Battery,3
+bc-renown-1923_1932-3,533-tt-hull_x2-side,,,
+bc-renown-1923_1932-3,placeholder_torpedo,,,
+bc-renown-1923_1932-5,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-renown-1923_1932-5,102-gs-ti-marki_x4-rr,102-he-uk,Secondary Gun,2
+bc-renown-1923_1932-5,102-cp-ha-markiii_x4_repulse,102-he-uk,AA Battery,3
+bc-renown-1923_1932-5,40-cp-markv_x2-wing,40-he-2pdr,AA Battery,4
+bc-renown-1923_1932-5,12-cp-markii_x2-aft,12-b-uk,AA Battery,5
+bc-renown-1923_1932-5,533-tt-hull_x2-side,,,
+bc-renown-1923_1932-5,placeholder_torpedo,,,
+bc-repulse-1933,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-repulse-1933,102-gs-ti-marki_x4-rr,102-he-uk,Secondary Gun,2
+bc-repulse-1933,102-cp-ha-markiii_x4_repulse,102-he-uk,AA Battery,3
+bc-repulse-1933,40-cp-markv_x2-wing,40-he-2pdr,AA Battery,4
+bc-repulse-1933,12-cp-markii_x4,12-b-uk,AA Battery,5
+bc-repulse-1933,533-tt-twin_x2,,,
+bc-repulse-1933,placeholder_torpedo,,,
+bc-repulse-1933_1936,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-repulse-1933_1936,102-ag-twin-hala-bd-markxviii_x2,102-he-uk,Secondary Gun,2
+bc-repulse-1933_1936,102-gs-ti-marki_x4-rr,102-he-uk,Secondary Gun,2
+bc-repulse-1933_1936,102-cp-ha-markiii_x4_repulse,102-he-uk,AA Battery,3
+bc-repulse-1933_1936,40-cp-markv_x2-wing,40-he-2pdr,AA Battery,4
+bc-repulse-1933_1936,12-cp-markii_x4,12-b-uk,AA Battery,5
+bc-repulse-1933_1936,533-tt-twin_x2,,,
+bc-repulse-1933_1936,placeholder_torpedo,,,
+bc-renown-1936,381-ag-markii_aby,381-apc-markia,Primary Gun,1
+bc-renown-1936,114-ag-markii-bd_x10,114-he-uk,Secondary Gun,2
+bc-renown-1936,40-cp-markv_x3-rr,40-he-2pdr,AA Battery,4
+bc-renown-1936,12-cp-markii_x4,12-b-uk,AA Battery,5
+bc-renown-1936,533-tt-twin_x4,,,
+bc-renown-1936,533-tt-hull_x2-side,,,
+bc-renown-1936,placeholder_torpedo,,,
+bc-repulse-1933_1938-9,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-repulse-1933_1938-9,102-gs-ti-marki_x4-rr,102-he-uk,Secondary Gun,2
+bc-repulse-1933_1938-9,102-cp-ha-markiii_x6_repulse,102-he-uk,AA Battery,3
+bc-repulse-1933_1938-9,40-cp-markv_x2-wing,40-he-2pdr,AA Battery,4
+bc-repulse-1933_1938-9,12-cp-markii_x4,12-b-uk,AA Battery,5
+bc-repulse-1933_1938-9,533-tt-twin_x2,,,
+bc-repulse-1933_1938-9,placeholder_torpedo,,,
+bc-repulse-1933_1940,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-repulse-1933_1940,102-gs-ti-marki_x3-rr,102-he-uk,Secondary Gun,2
+bc-repulse-1933_1940,102-cp-ha-markiii_x6_repulse,102-he-uk,AA Battery,3
+bc-repulse-1933_1940,40-cp-markv_x3-rr,40-he-2pdr,AA Battery,4
+bc-repulse-1933_1940,12-cp-markii_x4,12-b-uk,AA Battery,5
+bc-repulse-1933_1940,533-tt-twin_x2,,,
+bc-repulse-1933_1940,placeholder_torpedo,,,
+bc-repulse-1933_1941,381-ag-marki_aby,381-apc-markia,Primary Gun,1
+bc-repulse-1933_1941,102-gs-ti-marki_x3-rr,102-he-uk,Secondary Gun,2
+bc-repulse-1933_1941,102-cp-ha-markiii_x6_repulse,102-he-uk,AA Battery,3
+bc-repulse-1933_1941,40-cp-markv_x3-rr,40-he-2pdr,AA Battery,4
+bc-repulse-1933_1941,20-p-mark1_x8-repulse,20-he-uk,AA Battery,5
+bc-repulse-1933_1941,12-cp-markii_x4,12-b-uk,AA Battery,6
+bc-repulse-1933_1941,533-tt-twin_x2,,,
+bc-repulse-1933_1941,placeholder_torpedo,,,
+bc-renown-1936_1941,381-ag-markii_aby,381-apc-markia,Primary Gun,1
+bc-renown-1936_1941,114-ag-markii-bd_x10,114-he-uk,Secondary Gun,2
+bc-renown-1936_1941,40-cp-markv_x3-rr,40-he-2pdr,AA Battery,4
+bc-renown-1936_1941,20-p-mark1_x8-renown,20-he-uk,AA Battery,5
+bc-renown-1936_1941,12-cp-markii_x4,12-b-uk,AA Battery,6
+bc-renown-1936_1941,533-tt-twin_x4,,,
+bc-renown-1936_1941,533-tt-hull_x2-side,,,
+bc-renown-1936_1941,placeholder_torpedo,,,
+bc-renown-1936_1942,381-ag-markii_aby,381-apc-markia,Primary Gun,1
+bc-renown-1936_1942,114-ag-markii-bd_x10,114-he-uk,Secondary Gun,2
+bc-renown-1936_1942,40-cp-markv_x3-rr,40-he-2pdr,AA Battery,4
+bc-renown-1936_1942,20-p-mark1_x18-renown,20-he-uk,AA Battery,5
+bc-renown-1936_1942,533-tt-twin_x4,,,
+bc-renown-1936_1942,533-tt-hull_x2-side,,,
+bc-renown-1936_1942,placeholder_torpedo,,,
+bc-renown-1936_1943,381-ag-markii_aby,381-apc-markia,Primary Gun,1
+bc-renown-1936_1943,114-ag-markii-bd_x10,114-he-uk,Secondary Gun,2
+bc-renown-1936_1943,40-cp-markv_x3-rr,40-he-2pdr,AA Battery,4
+bc-renown-1936_1943,20-p-markv_x14-renown,20-he-uk,AA Battery,5
+bc-renown-1936_1943,20-p-mark1_x21-renown,20-he-uk,AA Battery,5
+bc-renown-1936_1943,533-tt-twin_x4,,,
+bc-renown-1936_1943,533-tt-hull_x2-side,,,
+bc-renown-1936_1943,placeholder_torpedo,,,
+bc-renown-1936_1944,381-ag-markii_aby,381-apc-markia,Primary Gun,1
+bc-renown-1936_1944,114-ag-markii-bd_x10,114-he-uk,Secondary Gun,2
+bc-renown-1936_1944,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,4
+bc-renown-1936_1944,40-cp-markv_x3-rr,40-he-2pdr,AA Battery,4
+bc-renown-1936_1944,20-p-markv_x20-renown,20-he-uk,AA Battery,5
+bc-renown-1936_1944,20-p-mark1_x26-renown,20-he-uk,AA Battery,5
+bc-renown-1936_1944,533-tt-twin_x4,,,
+bc-renown-1936_1944,533-tt-hull_x2-side,,,
+bc-renown-1936_1944,placeholder_torpedo,,,
+bc-renown-1936_1945,381-ag-markii_aby,381-apc-markia,Primary Gun,1
+bc-renown-1936_1945,114-ag-markii-bd_x4,114-he-uk,Secondary Gun,2
+bc-renown-1936_1945,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,4
+bc-renown-1936_1945,40-cp-markv_x3-rr,40-he-2pdr,AA Battery,4
+bc-renown-1936_1945,20-p-markv_x20-renown,20-he-uk,AA Battery,5
+bc-renown-1936_1945,20-p-mark1_x26-renown,20-he-uk,AA Battery,5
+bc-renown-1936_1945,533-tt-hull_x2-side,,,
+bc-renown-1936_1945,placeholder_torpedo,,,
+bc-tiger,343-ag-markii**_abxy,343-apc-markia,Primary Gun,1
+bc-tiger,152-c-pviii_x12,152-cpbc-2crh,Secondary Gun,2
+bc-tiger,76-cp-ha-markii_x2-forward,76-he-uk-early,AA Battery,3
+bc-tiger,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,4
+bc-tiger,533-tt-hull_x4-side,,,
+bc-tiger,placeholder_torpedo,,,
+bc-tiger_1922,343-ag-markii**_abxy,343-apc-markia,Primary Gun,1
+bc-tiger_1922,152-c-pviii_x12,152-cpbc-2crh,Secondary Gun,2
+bc-tiger_1922,102-cp-ha-markiii_x4-fore,102-he-uk,AA Battery,3
+bc-tiger_1922,533-tt-hull_x4-side,,,
+bc-tiger_1922,placeholder_torpedo,,,
+bc-queen-marry,343-ag-markii_abry,343-apc-markia,Primary Gun,1
+bc-queen-marry,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-queen-marry,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
+bc-queen-marry,533-tt-hull_x2-side,,,
+bc-queen-marry,placeholder_torpedo,,,
+bc-queen-marry_1914,343-ag-markii_abry,343-apc-markia,Primary Gun,1
+bc-queen-marry_1914,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-queen-marry_1914,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,3
+bc-queen-marry_1914,57-p-markic-ha_x1,57-he-uk,AA Battery,4
+bc-queen-marry_1914,533-tt-hull_x2-side,,,
+bc-queen-marry_1914,placeholder_torpedo,,,
+bc-lion,343-ag-markii-l_abqy,343-apc-markia,Primary Gun,1
+bc-lion,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-lion,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
+bc-lion,533-tt-hull_x2-side,,,
+bc-lion,placeholder_torpedo,,,
+bc-lion_1914,343-ag-markii-l_abqy,343-apc-markia,Primary Gun,1
+bc-lion_1914,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-lion_1914,57-p-markic-ha_x1,57-he-uk,AA Battery,3
+bc-lion_1914,533-tt-hull_x2-side,,,
+bc-lion_1914,placeholder_torpedo,,,
+bc-lion_1915-1,343-ag-markii-l_abqy,343-apc-markia,Primary Gun,1
+bc-lion_1915-1,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-lion_1915-1,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,3
+bc-lion_1915-1,57-p-markic-ha_x1,57-he-uk,AA Battery,4
+bc-lion_1915-1,533-tt-hull_x2-side,,,
+bc-lion_1915-1,placeholder_torpedo,,,
+bc-lion_1915-7,343-ag-markii-l_abqy,343-apc-markia,Primary Gun,1
+bc-lion_1915-7,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-lion_1915-7,76-cp-ha-markii_x2-fantail,76-he-uk-early,AA Battery,3
+bc-lion_1915-7,533-tt-hull_x2-side,,,
+bc-lion_1915-7,placeholder_torpedo,,,
+bc-lion-1916,343-ag-markii-l_abqy,343-apc-markia,Primary Gun,1
+bc-lion-1916,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-lion-1916,76-cp-ha-markii_x2-fore,76-he-uk-early,AA Battery,3
+bc-lion-1916,533-tt-hull_x2-side,,,
+bc-lion-1916,placeholder_torpedo,,,
+bc-lion-1916_1917-pr,343-ag-markii-l_abqy,343-apc-markia,Primary Gun,1
+bc-lion-1916_1917-pr,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-lion-1916_1917-pr,102-cp-ha-markii_x2-fore,102-he-wwi-uk,AA Battery,3
+bc-lion-1916_1917-pr,533-tt-hull_x2-side,,,
+bc-lion-1916_1917-pr,placeholder_torpedo,,,
+bc-lion-1916_1919-pr,343-ag-markii-l_abqy,343-apc-markia,Primary Gun,1
+bc-lion-1916_1919-pr,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-lion-1916_1919-pr,76-cp-ha-markii_x2-fore,76-he-uk-early,AA Battery,3
+bc-lion-1916_1919-pr,40-p-markii_x2-aft,40-he-uk,AA Battery,4
+bc-lion-1916_1919-pr,533-tt-hull_x2-side,,,
+bc-lion-1916_1919-pr,placeholder_torpedo,,,
+bc-lion-1916_1922-pr,343-ag-markii-l_abqy,343-apc-markia,Primary Gun,1
+bc-lion-1916_1922-pr,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-lion-1916_1922-pr,76-cp-ha-markii_x2-fore,76-he-uk-early,AA Battery,3
+bc-lion-1916_1922-pr,533-tt-hull_x2-side,,,
+bc-lion-1916_1922-pr,placeholder_torpedo,,,
+bc-indefatigable,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable,102-cp-pii_x16-ind,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
+bc-indefatigable,533-tt-hull_x3-aft,,,
+bc-indefatigable,placeholder_torpedo,,,
+bc-indefatigable_1914,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable_1914,102-cp-pii_x16-ind,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable_1914,533-tt-hull_x3-aft,,,
+bc-indefatigable_1914,placeholder_torpedo,,,
+bc-indefatigable_1914-nz,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable_1914-nz,102-cp-pii_x16-ind,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable_1914-nz,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,3
+bc-indefatigable_1914-nz,57-p-markic-ha_x1-aft,57-he-uk,AA Battery,4
+bc-indefatigable_1914-nz,533-tt-hull_x3-aft,,,
+bc-indefatigable_1914-nz,placeholder_torpedo,,,
+bc-indefatigable_1915,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable_1915,102-cp-pii_x16-ind,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable_1915,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,3
+bc-indefatigable_1915,533-tt-hull_x2-side,,,
+bc-indefatigable_1915,placeholder_torpedo,,,
+bc-indefatigable_1915-nz,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable_1915-nz,102-cp-pii_x16,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable_1915-nz,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,3
+bc-indefatigable_1915-nz,57-p-markic-ha_x1-aft,57-he-uk,AA Battery,4
+bc-indefatigable_1915-nz,533-tt-hull_x2-side,,,
+bc-indefatigable_1915-nz,placeholder_torpedo,,,
+bc-indefatigable-1916,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable-1916,102-cp-pii_x16-ind,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable-1916,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,3
+bc-indefatigable-1916,533-tt-hull_x2-side,,,
+bc-indefatigable-1916,placeholder_torpedo,,,
+bc-indefatigable-1916_nz,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable-1916_nz,102-cp-pii_x16-ind,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable-1916_nz,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,3
+bc-indefatigable-1916_nz,57-p-markic-ha_x1-aft,57-he-uk,AA Battery,4
+bc-indefatigable-1916_nz,533-tt-hull_x2-side,,,
+bc-indefatigable-1916_nz,placeholder_torpedo,,,
+bc-indefatigable-1917,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable-1917,102-cp-pii_x16-ind,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable-1917,102-cp-ha-markii_x1-fantail,102-he-wwi-uk,AA Battery,3
+bc-indefatigable-1917,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,4
+bc-indefatigable-1917,533-tt-hull_x2-side,,,
+bc-indefatigable-1917,placeholder_torpedo,,,
+bc-indefatigable-1919_nz,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable-1919_nz,102-cp-pii_x12-ind,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable-1919_nz,102-cp-ha-markii_x1-fantail,102-he-wwi-uk,AA Battery,3
+bc-indefatigable-1919_nz,40-p-markii_x2-aft,40-he-uk,AA Battery,4
+bc-indefatigable-1919_nz,533-tt-hull_x2-side,,,
+bc-indefatigable-1919_nz,placeholder_torpedo,,,
+bc-indefatigable-1920_aus,305-ag-bviii_apsy-cf,305-apc-markvia-4crh,Primary Gun,1
+bc-indefatigable-1920_aus,102-cp-pii_x16-ind,102-he-wwi-uk,Secondary Gun,2
+bc-indefatigable-1920_aus,102-cp-ha-markiii_x2,102-he-uk,AA Battery,3
+bc-indefatigable-1920_aus,533-tt-hull_x2-side,,,
+bc-indefatigable-1920_aus,placeholder_torpedo,,,
+bc-invincible,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
+bc-invincible,102-cp-pi_x16-turret,102-he-wwi-uk,Tertiary Gun,2
+bc-invincible,7-mg-maxim-marki_x7,7-s-303-british,Security Gun,3
+bc-invincible,450-tt-hull_x5-aft,,,
+bc-invincible,placeholder_torpedo,,,
+bc-invincible_1914-8,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
+bc-invincible_1914-8,102-cp-pi*_x12,102-he-wwi-uk,Secondary Gun,2
+bc-invincible_1914-8,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,3
+bc-invincible_1914-8,450-tt-hull_x5-aft,,,
+bc-invincible_1914-8,placeholder_torpedo,,,
+bc-invincible_1914-11,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
+bc-invincible_1914-11,102-cp-pi*_x12,102-he-wwi-uk,Secondary Gun,2
+bc-invincible_1914-11,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,3
+bc-invincible_1914-11,57-p-markic-ha_x1-aft,57-he-uk,AA Battery,4
+bc-invincible_1914-11,450-tt-hull_x5-aft,,,
+bc-invincible_1914-11,placeholder_torpedo,,,
+bc-invincible_1914-11-inf,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
+bc-invincible_1914-11-inf,102-cp-pi*_x12,102-he-wwi-uk,Secondary Gun,2
+bc-invincible_1914-11-inf,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,3
+bc-invincible_1914-11-inf,450-tt-hull_x5-aft,,,
+bc-invincible_1914-11-inf,placeholder_torpedo,,,
+bc-invincible_1915-7,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
+bc-invincible_1915-7,102-cp-pi*_x12,102-he-wwi-uk,Secondary Gun,2
+bc-invincible_1915-7,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,3
+bc-invincible_1915-7,57-p-markic-ha_x1-aft,57-he-uk,AA Battery,4
+bc-invincible_1915-7,450-tt-hull_x5-aft,,,
+bc-invincible_1915-7,placeholder_torpedo,,,
+bc-invincible-1916,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
+bc-invincible-1916,102-cp-pi*_x12,102-he-wwi-uk,Secondary Gun,2
+bc-invincible-1916,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,3
+bc-invincible-1916,57-p-markic-ha_x1-aft,57-he-uk,AA Battery,4
+bc-invincible-1916,450-tt-hull_x5-aft,,,
+bc-invincible-1916,placeholder_torpedo,,,
+bc-invincible-1916_1917-4,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
+bc-invincible-1916_1917-4,102-cp-pi*_x12,102-he-wwi-uk,Secondary Gun,2
+bc-invincible-1916_1917-4,102-cp-ha-markii_x1-fantail,102-he-uk,AA Battery,3
+bc-invincible-1916_1917-4,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,4
+bc-invincible-1916_1917-4,450-tt-hull_x5-aft,,,
+bc-invincible-1916_1917-4,placeholder_torpedo,,,
 bb-revenge,381-ag-markii_abxy,381-apc-markia,Primary Gun,1
 bb-revenge,152-c-pix_x14,152-cpbc-2crh,Secondary Gun,2
 bb-revenge,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,3
@@ -1083,12 +1706,6 @@ bb-queen-elizabeth_warspite,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,3
 bb-queen-elizabeth_warspite,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,4
 bb-queen-elizabeth_warspite,533-tt-hull_x4-side,,,
 bb-queen-elizabeth_warspite,placeholder_torpedo,,,
-bc-tiger,343-ag-markii**_abxy,343-apc-markia,Primary Gun,1
-bc-tiger,152-c-pviii_x12,152-cpbc-2crh,Secondary Gun,2
-bc-tiger,76-cp-ha-markii_x2-forward,76-he-uk-early,AA Battery,3
-bc-tiger,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,4
-bc-tiger,533-tt-hull_x4-side,,,
-bc-tiger,placeholder_torpedo,,,
 bb-rio-de-janeiro,305-ag-special_abqrtxy,305-apc-markvi-2crh,Primary Gun,1
 bb-rio-de-janeiro,152-c-pxi_x18,152-cpc-4crh,Secondary Gun,2
 bb-rio-de-janeiro,76-gs-pi_x10,76-he-uk-early,Tertiary Gun,3
@@ -1117,21 +1734,11 @@ bb-iron-duke,76-cp-ha-markii_x2,76-he-uk-early,AA Battery,3
 bb-iron-duke,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,4
 bb-iron-duke,533-tt-hull_x4-side,,,
 bb-iron-duke,placeholder_torpedo,,,
-bc-queen-marry,343-ag-markii_abry,343-apc-markia,Primary Gun,1
-bc-queen-marry,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
-bc-queen-marry,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
-bc-queen-marry,533-tt-hull_x2-side,,,
-bc-queen-marry,placeholder_torpedo,,,
 bb-king-george-v-1911,343-ag-markii**_abrxy,343-apc-markia,Primary Gun,1
 bb-king-george-v-1911,102-c-pii_x12,102-he-wwi-uk,Secondary Gun,2
 bb-king-george-v-1911,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
 bb-king-george-v-1911,533-tt-hull_x3-aft,,,
 bb-king-george-v-1911,placeholder_torpedo,,,
-bc-lion,343-ag-markii-l_abqy,343-apc-markia,Primary Gun,1
-bc-lion,102-c-pii_x16,102-he-wwi-uk,Secondary Gun,2
-bc-lion,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
-bc-lion,533-tt-hull_x2-side,,,
-bc-lion,placeholder_torpedo,,,
 bb-orion,343-ag-markii-l_abrxy,343-apc-markia,Primary Gun,1
 bb-orion,102-c-pii_x16-alt,102-he-wwi-uk,Secondary Gun,2
 bb-orion,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
@@ -1142,16 +1749,6 @@ bb-colossus,102-cp-pii_x14,102-he-wwi-uk,Secondary Gun,2
 bb-colossus,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
 bb-colossus,533-tt-hull_x3-aft,,,
 bb-colossus,placeholder_torpedo,,,
-bc-indefatigable,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
-bc-indefatigable,102-cp-pii_x16,102-he-wwi-uk,Secondary Gun,2
-bc-indefatigable,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
-bc-indefatigable,533-tt-hull_x3-aft,,,
-bc-indefatigable,placeholder_torpedo,,,
-bc-invincible,305-ag-bviii_apsy,305-apc-markvia-4crh,Primary Gun,1
-bc-invincible,102-cp-pi_x16-turret,102-he-wwi-uk,Secondary Gun,2
-bc-invincible,7-mg-maxim-marki_x7,7-s-303-british,Security Gun,3
-bc-invincible,450-tt-hull_x5-aft,,,
-bc-invincible,placeholder_torpedo,,,
 bb-neptune,305-ag-bxi_apsxy,305-apc-markvia-4crh,Primary Gun,1
 bb-neptune,102-cp-pii_x16-alt,102-he-wwi-uk,Secondary Gun,2
 bb-neptune,47-p-markiv-ha_x4-side,47-he-uk,Security Gun,3
