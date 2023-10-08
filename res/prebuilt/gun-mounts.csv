@@ -293,6 +293,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 152-c-px,152,"6""/50 PX",britain,Casement,152-bg-bl-markxvi,1,15,http://www.navweaps.com/Weapons/WNBR_6-50_mk16.php
 152-c-pxi,152,"6""/50 PXI",britain,Casement,152-bg-bl-markxiii,1,13,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
 152-c-pix,152,"6""/45 PIX",britain,Casement,152-bg-bl-markxii,1,14,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php
+152-gs-pix,152,"6""/45 PIX",britain,Gun Shield,152-bg-bl-markxii,1,14,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php
 152-c-pv,152,"6""/50 PV",britain,Casement,152-bg-bl-markxi,1,20,http://www.navweaps.com/Weapons/WNBR_6-50_mk11.php#Mount%2FTurret_Data
 152-c-pviii,152,"6""/45 PVIII",britain,Casement,152-bg-bl-markvii,1,14,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php
 152-c-piii,152,"6""/45 PIII",britain,Casement,152-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php
@@ -501,12 +502,12 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 25-ag-bl-120,25,25mm/79 BL-120,russia,Armored Gunhouse,25-mg-bl-120,4,90,https://en.wikipedia.org/wiki/Stalingrad-class_battlecruiser#Armament
 20-sm-m1935,20,20mm/65 Model 1935 Stabalized Twin,italy,Stabalized Mount,20-mg-m1935,2,100,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
 20-p-c30,20,2cm/65 Pedestal C/30,germany,Pedestal,20-mg-c38-aa-mg,1,85,http://www.navweaps.com/Weapons/WNGER_20mm-65_c30.php
-20-p-mk15,20,20 mm/70 Mark 15 Quad,usa,Pedestal,20-bg-mk4,4,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
-20-p-mk6-mk4,20,20 mm/70 Mark 6 Single,usa,Pedestal,20-bg-mk4,1,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
+20-p-mk15,20,20 mm/70 Mark 15 Quad,usa,Pedestal,20-bg-mk4,4,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
+20-p-mk6-mk4,20,20 mm/70 Mark 6 Single,usa,Pedestal,20-bg-mk4,1,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
 20-p-mk24,20,20 mm/70 Mark 24 Twin,usa,Pedestal,20-bg-mk2,2,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
 20-p-mk6,20,20 mm/70 Mark 6 Single,usa,Pedestal,20-bg-mk2,1,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
-20-p-markv,20,20 mm/70 Mark V Double,britain,Central Pivot,20-bg-mark1,2,85,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
-20-p-mark1,20,20 mm/70 Mark I Single,britain,Pedestal,20-bg-mark1,1,85,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
+20-p-markv,20,20 mm/70 Mark V Double,britain,Central Pivot,20-bg-mark1,2,85,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
+20-p-mark1,20,20 mm/70 Mark I Single,britain,Pedestal,20-bg-mark1,1,85,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
 13-p-type93-twin,13,13mm/76 Twin,japan,Pedestal,13-mg-type93,2,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
 13-p-type93-single,13,13mm/76 Single,japan,Pedestal,13-mg-type93,1,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
 13-cp-caq-m1929,13,13.2mm/76 CAQ Model 1929,france,Central Pivot,13-mg-m1929,4,90,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
