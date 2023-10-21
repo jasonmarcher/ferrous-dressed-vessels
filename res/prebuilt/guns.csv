@@ -78,8 +78,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-bl-markxvi,"6""/50 BL Mark XVI","Vickers 6""",britain,1913-01-01,152,50,8275,5,4,Breech,914,0,150,http://www.navweaps.com/Weapons/WNBR_6-50_mk16.php
 152-bg-bl-markxiii,"6""/50 BL Mark XIII","Elswick 6""",britain,1912-01-01,152,50,8918,5,3,Breech,844,0,150,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
 152-bg-vickers-markm,"6""/50 Vickers Mark M","Vickers 6""",britain,1910-01-01,152,50,8360,6,5,Breech,850,0,150,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
-152-bg-bl-markxii,"6""/45 BL Mark XII","British 6""",britain,1913-01-01,152,45,6998,5,4,Breech,853,0,150,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php
 152-bg-bl-markxi,"6""/50 BL Mark XI",,britain,1905-01-01,152,50,8726,5,3,Breech,895,0,200,http://www.navweaps.com/Weapons/WNBR_6-50_mk11.php
+152-bg-bl-markxii,"6""/45 BL Mark XII","British 6""",britain,1913-01-01,152,45,6998,5,4,Breech,853,0,150,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php
 152-bg-elswick-gg,"6""/45 41st Year Type",Elswick Pattern GG,britain,1904-01-01,152,45,1180,5,4,Breech,825,0,150,http://www.navweaps.com/Weapons/WNJAP_6-45_EOC.php
 152-bg-bl-markvii,"6""/45 BL Mark VII","Vickers 6""",britain,1899-01-01,152,45,7517,5,4,Breech,773,0,130,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php
 152-bg-armstrong-z,"6""/40 Armstrong Z","Elswick 6""",britain,1893-01-01,152,40,6400,5,4,Breech,701,0,,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
@@ -243,6 +243,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 149-bg-sk-l40,15cm/37 SK L/40,Krupp 15cm,germany,1897-01-01,149,37,4460,5,4,Breech,800,0,130,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
 149-bg-sk-l35,15cm/33 SK L/35,Krupp 15cm,germany,1880-01-01,149,33,5800,5,4,Breech,650,0,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
 105-bg-sk-c33,10.5cm/60 SK C/33,Rheinmetall 10.5cm,germany,1933-01-01,105,60,4560,18,15,Breech,890,900,400,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
+105-bg-sk-l45,10.5cm/42 SK L/45,Krupp 10.5cm,germany,1906-01-01,105,45,1450,15,15,Breech,710,0,90,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php
+105-bg-sk-c32,10.5cm/42 SK C/32,Krupp 10.5cm,germany,1932-01-01,105,42,1585,15,15,Breech,780,780,120,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php
 105-bg-sk-l40,10.5cm/32 SK L/40,Krupp 10.5cm,germany,1891-01-01,105,32,1270,7.5,7.5,Breech,620,0,100,http://www.navweaps.com/Weapons/WNGER_41-35_skc91.php
 89-bg-l25-krupp,9cm/24 L/25 Krupp,Krupp 9cm,germany,,89,24,,,,Breech,,0,,http://navalhistory.flixco.info/H/291319x53535/8330/a0.htm
 88-bg-sk-l45,8.8cm/45 SK L/45,Krupp 8.8cm,germany,1905-01-01,88,45,2500,15,15,Breech,650,0,300,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
@@ -283,6 +285,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 57-mg-m1951,57mm/60 Model 1951,Bofors 57mm,sweden,1951-01-01,57,60,,120,100,Breech Autoloader,865,865,1580,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
 40-bg-mk1,40mm/56 Mark 1,Bofors 40mm,sweden,1941-01-01,40,56,522,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-bg-mark1,40mm/56 OQF Mark I,Bofors 40mm,sweden,1941-01-01,40,56,515,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+40-bg-flak-28,4cm/56 FlaK 28,Bofors 40mm,sweden,1941-01-01,40,56,515,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 20-bg-mk4,20mm/70 Mark 4,Oerlikon 20mm,switzerland,1941-01-01,20,70,68,320,285,Breech Automatic,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
 20-bg-mk2,20mm/70 Mark 2,Oerlikon 20mm,switzerland,1939-01-01,20,70,68,320,285,Breech Automatic,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
 20-bg-mark1,20mm/70 Mark 1,Oerlikon 20mm,switzerland,1939-01-01,20,70,68,320,285,Breech Automatic,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php

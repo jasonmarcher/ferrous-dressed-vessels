@@ -3,6 +3,7 @@ MountID,MountName,MountNation,MountType,NumberOfLaunchers,MagazineSize,LauncherS
 610-tt-hull,Unknown 610mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 600-tt-hull,Unknown 600mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 533-tt-quad,Unknown 533mm Quad Mount Torpedo Tube,_,Mount,4,1,
+533-tt-tripple,Unknown 533mm Quad Mount Torpedo Tube,_,Mount,3,1,
 533-tt-twin,Unknown 533mm Quad Mount Torpedo Tube,_,Mount,2,1,
 533-tt-hull,Unknown 533mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 500-tt-hull,Unknown 500mm Hull Mount Torpedo Tube,_,Fixed,1,1,
@@ -16,3 +17,5 @@ MountID,MountName,MountNation,MountType,NumberOfLaunchers,MagazineSize,LauncherS
 dct-mk6-mk8,DCT Mark 6 (K-Gun),usa,Fixed,1,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Marks_6_and_9
 dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,8,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_32
 533-tt-mk15-quint,533mm Mark 15 Quintuple Tubes,usa,Mount,5,1,https://en.wikipedia.org/wiki/Mark_15_torpedo
+500-tt-dual-ger,500mm Dual (Germany),germany,Mount,2,1,
+500-tt-single-ger,500mm Single (Germany),germany,Mount,1,1,

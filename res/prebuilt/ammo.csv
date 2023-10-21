@@ -140,10 +140,14 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 149-ap-l37,"15cm AP L/3,7",germany,149,45.3,0.99,,0,0,,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-ap-c01,15cm AP C/01,germany,149,40,,,0,0,,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
 105-ap-1891,10.5cm AP 1891,germany,105,18.2,,,0,0,,http://www.navweaps.com/Weapons/WNGER_41-35_skc91.php
+105-he-1907,10.5cm HE 1907,germany,105,17.5,,,0,0,,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php#Ammunition
 105-ap_105-he-ger,10.5cm AP + 10.5cm HE,germany,105,15.8,,,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
-88-he_88-aa,8.8cm HE + 8.8cm AA,germany,88,9.8,,,9,,,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
+105-he-l44,"10.5cm HE L/4,4",germany,105,15.1,1.4,FP02,15.1,1.4,FP02,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Ammunition
+88-he_88-aa,8.8cm HE + 8.8cm AA,germany,88,9.8,,,9.6,,,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
+88-he,8.8cm HE,germany,88,9.8,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-sap-l280-c01,8.8cm SAP L/2.80 C/01,germany,88,7,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-he-early,8.8cm HE (Early),germany,88,7,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
+40-he-t,4cm HE-T,germany,40,1,,,1,,,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#Ammunition
 37-he-t,3.7cm HE-T,germany,37,0.74,0.03,FP02,0.74,0.03,FP02,http://www.navweaps.com/Weapons/WNGER_37mm-83_skc30.php
 20-api-i_20-he-i,2cm AP-I + 2cm HE-I,germany,20,0.15,0,None,0.12,0.01,PETN,http://www.navweaps.com/Weapons/WNGER_20mm-65_c30.php
 7-b-79-mauser,7.9mm Mauser,germany,7.9,0.01,0,None,0.01,0,None,https://en.wikipedia.org/wiki/MG_08
