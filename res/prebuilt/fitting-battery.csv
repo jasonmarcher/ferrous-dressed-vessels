@@ -3302,7 +3302,6 @@ pred-torgud-reis-1910,88-cp-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
 pred-torgud-reis-1910,88-cp-mpl-c89_x12,88-sap-l280-c01,Security Gun,5
 pred-torgud-reis-1910,450-tt-hull_x3-aft,,,
 pred-torgud-reis-1910,placeholder_torpedo,,,5
-,,,,
 bb-clemenceau,380-ag-m1935_ab,380-apc-m1936,Primary Gun,1
 bb-clemenceau,152-ag-bb-m1936-dp_x4,152-sapc-m1937_152-he-m1937,Secondary Gun,2
 bb-clemenceau,100-ag-m1937-bb_x6,100-he-fra,Secondary Gun,3
@@ -3974,13 +3973,160 @@ bb-gangut,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
 bb-gangut,47-p-1_x4,47-he-rus,Tertiary Gun,3
 bb-gangut,450-tt-hull_x4-side,,,
 bb-gangut,placeholder_torpedo,,,
+bb-gangut_1916,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-gangut_1916,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-gangut_1916,63-p-p1916_x2-turret,63-he-rus,AA Battery,3
+bb-gangut_1916,47-p-aa_x1-turret,47-he-rus,AA Battery,4
+bb-gangut_1916,450-tt-hull_x4-side,,,
+bb-gangut_1916,placeholder_torpedo,,,
+bb-gangut_sevastopol_1916,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-gangut_sevastopol_1916,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-gangut_sevastopol_1916,75-cp-osz-m1916_x2-turret,75-he-m1907,AA Battery,3
+bb-gangut_sevastopol_1916,40-cp-v1914_x1-turret,40-he-rus,AA Battery,4
+bb-gangut_sevastopol_1916,450-tt-hull_x4-side,,,
+bb-gangut_sevastopol_1916,placeholder_torpedo,,,
+bb-gangut_1920,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-gangut_1920,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-gangut_1920,76-cp-p1914-aa_x6-turret,76-sh-sh354p,AA Battery,3
+bb-gangut_1920,450-tt-hull_x4-side,,,
+bb-gangut_1920,placeholder_torpedo,,,
+bb-parizhskaya-kommuna-1928,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-parizhskaya-kommuna-1928,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-parizhskaya-kommuna-1928,76-cp-p1914-aa_x6-turret,76-sh-sh354p,AA Battery,3
+bb-parizhskaya-kommuna-1928,450-tt-hull_x4-side,,,
+bb-parizhskaya-kommuna-1928,placeholder_torpedo,,,
+bb-marat-1928,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-marat-1928,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-marat-1928,76-cp-p1914-aa_x6-turret,76-sh-sh354p,AA Battery,3
+bb-marat-1928,450-tt-hull_x4-side,,,
+bb-marat-1928,placeholder_torpedo,,,
+bb-oktyabrskaya-revolyutsiya-1931,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931,76-cp-p1914-aa_x6-turret,76-sh-sh354p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931,45-cp-21k_x4-turret,45-he-o-240,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931,450-tt-hull_x4-side,,,
+bb-oktyabrskaya-revolyutsiya-1931,placeholder_torpedo,,,
+bb-oktyabrskaya-revolyutsiya-1931_1937,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_1937,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_1937,76-cp-p1914-aa_x6-turret,76-sh-sh354p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1937,45-cp-21k_x4-turret,45-he-o-240,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1937,450-tt-hull_x4-side,,,
+bb-oktyabrskaya-revolyutsiya-1931_1937,placeholder_torpedo,,,
+bb-oktyabrskaya-revolyutsiya-1931_parizhskaya-kommuna,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_parizhskaya-kommuna,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_parizhskaya-kommuna,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_parizhskaya-kommuna,45-cp-21k_x6-turret,45-he-o-240,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_parizhskaya-kommuna,12-p-dshk-1938-single_x12,12-b-rus,AA Battery,5
+bb-oktyabrskaya-revolyutsiya-1931_1939,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_1939,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_1939,76-cp-p1914-aa_x6-turret,76-sh-sh354p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1939,45-cp-21k_x4-turret,45-he-o-240,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1939,450-tt-hull_x4-side,,,
+bb-oktyabrskaya-revolyutsiya-1931_1939,placeholder_torpedo,,,
+bb-marat-1928_1939,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-marat-1928_1939,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-marat-1928_1939,76-cp-p1914-aa_x6-turret,76-sh-sh354p,AA Battery,3
+bb-marat-1928_1939,450-tt-hull_x4-side,,,
+bb-marat-1928_1939,placeholder_torpedo,,,
+bb-marat-1928_1940,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-marat-1928_1940,120-c-p1905_x14,120-sap-m1911,Secondary Gun,2
+bb-marat-1928_1940,76-gs-81k_x2-aft,76-sh-sh361p,AA Battery,3
+bb-marat-1928_1940,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-marat-1928_1940,37-cp-70k_x6,37-he-frag-rus,AA Battery,4
+bb-marat-1928_1940,12-p-dshk-1938-single_x13,12-b-rus,AA Battery,5
+bb-marat-1928_1940,450-tt-hull_x4-side,,,
+bb-marat-1928_1940,placeholder_torpedo,,,
+bb-oktyabrskaya-revolyutsiya-1931_1940,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_1940,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_1940,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1940,45-cp-21k_x4-turret,45-he-o-240,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1940,450-tt-hull_x4-side,,,
+bb-oktyabrskaya-revolyutsiya-1931_1940,placeholder_torpedo,,,
+bb-parizhskaya-kommuna-1939,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-parizhskaya-kommuna-1939,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-parizhskaya-kommuna-1939,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-parizhskaya-kommuna-1939,37-cp-70k_x12,37-he-frag-rus,AA Battery,4
+bb-parizhskaya-kommuna-1939,12-p-dshk-1938-single_x8,12-b-rus,AA Battery,5
+bb-oktyabrskaya-revolyutsiya-1931_1941-4,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_1941-4,120-c-p1905_x14,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_1941-4,76-gs-81k_x2-aft,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1941-4,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1941-4,37-cp-70k_x12,37-he-frag-rus,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1941-4,12-cp-markii_x2-aft-alt,12-b-uk,AA Battery,5
+bb-oktyabrskaya-revolyutsiya-1931_1941-4,12-p-dshk-1938-single_x8,12-b-rus,AA Battery,6
+bb-oktyabrskaya-revolyutsiya-1931_1941-4,450-tt-hull_x4-side,,,
+bb-oktyabrskaya-revolyutsiya-1931_1941-4,placeholder_torpedo,,,
+bb-oktyabrskaya-revolyutsiya-1931_1941-5,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_1941-5,120-c-p1905_x10,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_1941-5,76-gs-81k_x2-aft,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1941-5,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1941-5,37-cp-70k_x12,37-he-frag-rus,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1941-5,12-cp-markii_x2-aft-alt,12-b-uk,AA Battery,5
+bb-oktyabrskaya-revolyutsiya-1931_1941-5,12-p-dshk-1938-single_x8,12-b-rus,AA Battery,6
+bb-oktyabrskaya-revolyutsiya-1931_1941-5,450-tt-hull_x4-side,,,
+bb-oktyabrskaya-revolyutsiya-1931_1941-5,placeholder_torpedo,,,
+fb-marat-1941,305-ag-mk-3-12-alt_qry,305-apc-m1911,Primary Gun,1
+fb-marat-1941,76-gs-81k_x2-aft,76-sh-sh361p,AA Battery,3
+fb-marat-1941,76-gs-34k_x3-turret,76-sh-sh361p,AA Battery,3
+fb-marat-1941,37-cp-70k_x6,37-he-frag-rus,AA Battery,4
+fb-marat-1941,12-p-dshk-1938-single_x13,12-b-rus,AA Battery,5
+bb-oktyabrskaya-revolyutsiya-1931_1942-3,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_1942-3,120-c-p1905_x10,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_1942-3,76-gs-81k_x2-aft,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1942-3,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1942-3,37-cp-70k_x16,37-he-frag-rus,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1942-3,12-cp-markii_x2-aft-alt,12-b-uk,AA Battery,5
+bb-oktyabrskaya-revolyutsiya-1931_1942-3,12-p-dshk-1938-single_x8,12-b-rus,AA Battery,6
+bb-oktyabrskaya-revolyutsiya-1931_1942-3,450-tt-hull_x4-side,,,
+bb-oktyabrskaya-revolyutsiya-1931_1942-3,placeholder_torpedo,,,
+bb-oktyabrskaya-revolyutsiya-1931_1942-4,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_1942-4,120-c-p1905_x10,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_1942-4,76-gs-81k_x3,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1942-4,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1942-4,37-cp-70k_x16,37-he-frag-rus,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1942-4,12-cp-markii_x2-aft-alt,12-b-uk,AA Battery,5
+bb-oktyabrskaya-revolyutsiya-1931_1942-4,12-p-dshk-1938-single_x8,12-b-rus,AA Battery,6
+bb-oktyabrskaya-revolyutsiya-1931_1942-4,450-tt-hull_x4-side,,,
+bb-oktyabrskaya-revolyutsiya-1931_1942-4,placeholder_torpedo,,,
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,120-c-p1905_x10,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,76-gs-81k_x3,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,37-ag-46k_x1-fore,37-he-frag-rus,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,37-cp-70k_x16,37-he-frag-rus,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,12-cp-markii_x2-aft-alt,12-b-uk,AA Battery,5
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,12-p-dshk-1938-single_x8,12-b-rus,AA Battery,6
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,450-tt-hull_x4-side,,,
+bb-oktyabrskaya-revolyutsiya-1931_1942-9,placeholder_torpedo,,,
+bb-oktyabrskaya-revolyutsiya-1931_1944,305-ag-mk-3-12-alt_aqry,305-apc-m1911,Primary Gun,1
+bb-oktyabrskaya-revolyutsiya-1931_1944,120-c-p1905_x10,120-sap-m1911,Secondary Gun,2
+bb-oktyabrskaya-revolyutsiya-1931_1944,76-gs-81k_x3,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1944,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-oktyabrskaya-revolyutsiya-1931_1944,37-ag-46k_x1-fore,37-he-frag-rus,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1944,37-cp-70k_x16,37-he-frag-rus,AA Battery,4
+bb-oktyabrskaya-revolyutsiya-1931_1944,12-cp-markii_x2-aft-alt,12-b-uk,AA Battery,5
+bb-oktyabrskaya-revolyutsiya-1931_1944,12-p-dshk-1938-single_x8,12-b-rus,AA Battery,6
+bb-parizhskaya-kommuna-1939_1942-4,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
+bb-parizhskaya-kommuna-1939_1942-4,120-c-p1905_x16,120-sap-m1911,Secondary Gun,2
+bb-parizhskaya-kommuna-1939_1942-4,76-gs-34k_x6-turret,76-sh-sh361p,AA Battery,3
+bb-parizhskaya-kommuna-1939_1942-4,37-cp-70k_x16,37-he-frag-rus,AA Battery,4
+bb-parizhskaya-kommuna-1939_1942-4,12-p-dshk-1938-single_x8,12-b-rus,AA Battery,5
 pred-evstafi,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
 pred-evstafi,203-c-p1905-c_x4,203-he-m1907,Secondary Gun,2
 pred-evstafi,152-c-p1892_x12,152-ap-old-model-rus,Secondary Gun,3
-pred-evstafi,75-p-osz-m1911_x14,75-he-m1907,Tertiary Gun,4
+pred-evstafi,75-gs-osz-m1911_x4,75-he-m1907,Tertiary Gun,4
+pred-evstafi,75-p-osz-m1911_x10,75-he-m1907,Tertiary Gun,4
 pred-evstafi,7-p-mg01_x4,7-b-79-mauser,Security Gun,5
 pred-evstafi,450-tt-hull_x2-side,,,
 pred-evstafi,placeholder_torpedo,,,
+pred-evstafi_1916,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-evstafi_1916,203-c-p1905-c_x4,203-he-m1907,Secondary Gun,2
+pred-evstafi_1916,152-c-p1892_x12,152-ap-old-model-rus,Secondary Gun,3
+pred-evstafi_1916,76-cp-p1914-aa_x4,76-sh-sh354p,AA Battery,4
+pred-evstafi_1916,40-cp-v1914_x2-sides,40-he-rus,AA Battery,5
+pred-evstafi_1916,7-p-mg01_x4,7-b-79-mauser,AA Battery,6
+pred-evstafi_1916,450-tt-hull_x2-side,,,
+pred-evstafi_1916,placeholder_torpedo,,,
 pred-andrei-pervozvanny,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
 pred-andrei-pervozvanny,203-ag-p1905-t_x4,203-he-m1907,Secondary Gun,2
 pred-andrei-pervozvanny,203-c-p1905-c_x6,203-he-m1907,Secondary Gun,3
@@ -3995,6 +4141,21 @@ pred-borodino,47-p-1_x20,47-he-rus,Tertiary Gun,4
 pred-borodino,7-p-mg01_x8,7-b-79-mauser,Security Gun,5
 pred-borodino,381-tt-hull_x4,,,
 pred-borodino,placeholder_torpedo,,,
+pred-borodino_slava-1914,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-borodino_slava-1914,152-ag-p1892_x6,152-ap-old-model-rus,Secondary Gun,2
+pred-borodino_slava-1914,75-c-m1906_x12-alt,75-he-m1907,Tertiary Gun,3
+pred-borodino_slava-1914,47-p-1_x20,47-he-rus,Tertiary Gun,4
+pred-borodino_slava-1914,7-p-mg01_x8,7-b-79-mauser,AA Battery,5
+pred-borodino_slava-1914,381-tt-hull_x4,,,
+pred-borodino_slava-1914,placeholder_torpedo,,,
+pred-borodino_slava-1917,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-borodino_slava-1917,152-ag-p1892_x6,152-ap-old-model-rus,Secondary Gun,2
+pred-borodino_slava-1917,75-c-m1906_x12-alt,75-he-m1907,Tertiary Gun,3
+pred-borodino_slava-1917,75-cp-osz-m1916_x4-turret,75-he-m1907,AA Battery,4
+pred-borodino_slava-1917,47-p-1_x20,47-he-rus,Tertiary Gun,5
+pred-borodino_slava-1917,7-p-mg01_x8,7-b-79-mauser,AA Battery,6
+pred-borodino_slava-1917,381-tt-hull_x4,,,
+pred-borodino_slava-1917,placeholder_torpedo,,,
 pred-iwami-1905,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
 pred-iwami-1905,203-cp-41st-year-type_x6,203-ap-jpn,Secondary Gun,2
 pred-iwami-1905,76-p-41st-year_x16,76-he-jpn,Tertiary Gun,3
@@ -4010,7 +4171,7 @@ pred-retvizan,450-tt-hull_x6-fore-aft,,,
 pred-retvizan,placeholder_torpedo,,,
 pred-hizen-1905,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
 pred-hizen-1905,152-c-p1892_x12-alt,152-ap-old-model-rus,Secondary Gun,2
-pred-hizen-1905,75-p-p1906_x16-alt,75-he-m1907,Tertiary Gun,3
+pred-hizen-1905,75-p-p1906_x16,75-he-m1907,Tertiary Gun,3
 pred-hizen-1905,47-p-1_x2,47-he-rus,Tertiary Gun,4
 pred-hizen-1905,450-tt-hull_x2-side,,,
 pred-hizen-1905,placeholder_torpedo,,,
@@ -4023,13 +4184,45 @@ pred-tsesarevich,37-p-m1884_x8,37-he-rus-early,Tertiary Gun,5
 pred-tsesarevich,7-p-mg01_x4,7-b-79-mauser,Security Gun,6
 pred-tsesarevich,381-tt-hull_x4,,,
 pred-tsesarevich,placeholder_torpedo,,,
+pred-tsesarevich_1906,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-tsesarevich_1906,152-ag-p1892_x6,152-ap-old-model-rus,Secondary Gun,2
+pred-tsesarevich_1906,75-c-m1906_x12,75-he-m1907,Tertiary Gun,3
+pred-tsesarevich_1906,75-p-p1906_x8,75-he-m1907,Tertiary Gun,3
+pred-tsesarevich_1906,47-p-1_x4-sides,47-he-rus,Tertiary Gun,4
+pred-tsesarevich_1906,7-p-mg01_x4,7-b-79-mauser,Security Gun,5
+pred-tsesarevich_1906,381-tt-hull_x4,,,
+pred-tsesarevich_1906,placeholder_torpedo,,,
+pred-tsesarevich_1915,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-tsesarevich_1915,152-ag-p1892_x6,152-ap-old-model-rus,Secondary Gun,2
+pred-tsesarevich_1915,75-c-m1906_x4-aft,75-he-m1907,Tertiary Gun,3
+pred-tsesarevich_1915,75-p-p1906_x6,75-he-m1907,Tertiary Gun,3
+pred-tsesarevich_1915,47-p-1_x4-aft,47-he-rus,Tertiary Gun,4
+pred-tsesarevich_1915,37-p-maxim_x2-aft,37-he-iron,AA Battery,5
+pred-tsesarevich_1915,7-p-mg01_x4,7-b-79-mauser,AA Battery,6
+pred-tsesarevich_1915,381-tt-hull_x4,,,
+pred-tsesarevich_1915,placeholder_torpedo,,,
 pred-potemkin,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
 pred-potemkin,152-c-p1892_x16,152-ap-old-model-rus,Secondary Gun,2
-pred-potemkin,75-c-m1906_x10,75-he-m1907,Tertiary Gun,3
-pred-potemkin,75-p-p1906_x4-fore-aft,75-he-m1907,Tertiary Gun,3
+pred-potemkin,75-p-p1906_x16-alt,75-he-m1907,Tertiary Gun,3
 pred-potemkin,47-p-1_x6-mast,47-he-rus,Tertiary Gun,4
 pred-potemkin,381-tt-hull_x5-bow,,,
 pred-potemkin,placeholder_torpedo,,,
+pred-potemkin_1906,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-potemkin_1906,152-c-p1892_x16,152-ap-old-model-rus,Secondary Gun,2
+pred-potemkin_1906,75-p-p1906_x16-alt,75-he-m1907,Tertiary Gun,3
+pred-potemkin_1906,47-p-1_x6-mast,47-he-rus,Tertiary Gun,4
+pred-potemkin_1906,381-tt-hull_x5-bow,,,
+pred-potemkin_1906,placeholder_torpedo,,,
+pred-potemkin_1910,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-potemkin_1910,152-c-p1892_x16,152-ap-old-model-rus,Secondary Gun,2
+pred-potemkin_1910,75-p-p1906_x14-alt,75-he-m1907,Tertiary Gun,3
+pred-potemkin_1910,381-tt-hull_x5-bow,,,
+pred-potemkin_1910,placeholder_torpedo,,,
+pred-potemkin_1916,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-potemkin_1916,152-c-p1892_x16,152-ap-old-model-rus,Secondary Gun,2
+pred-potemkin_1916,57-p-nord-aa_x2-aft,57-he-rus,AA Battery,3
+pred-potemkin_1916,381-tt-hull_x5-bow,,,
+pred-potemkin_1916,placeholder_torpedo,,,
 pred-peresvet,254-ag-p1891-ha_ay,254-ap-rus,Primary Gun,1
 pred-peresvet,152-c-p1892_x11,152-ap-old-model-rus,Secondary Gun,2
 pred-peresvet,75-c-m1906_x16,75-he-m1907,Tertiary Gun,3
@@ -4055,6 +4248,12 @@ pred-rostislav,47-p-1_x12,47-he-rus,Tertiary Gun,3
 pred-rostislav,37-p-m1884_x16-mast,37-he-rus-early,Tertiary Gun,4
 pred-rostislav,381-tt-hull_x6,,,
 pred-rostislav,placeholder_torpedo,,,
+pred-rostislav_1906,254-ag-p1891-la_ay,254-ap-rus,Primary Gun,1
+pred-rostislav_1906,152-ag-p1892_x4,152-ap-old-model-rus,Secondary Gun,2
+pred-rostislav_1906,47-p-1_x12,47-he-rus,Tertiary Gun,3
+pred-rostislav_1906,37-p-m1884_x4,37-he-rus-early,Tertiary Gun,4
+pred-rostislav_1906,381-tt-hull_x6,,,
+pred-rostislav_1906,placeholder_torpedo,,,
 pred-petropavlovsk,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
 pred-petropavlovsk,152-ag-p1892_x4,152-ap-old-model-rus,Secondary Gun,2
 pred-petropavlovsk,152-c-p1892_x4-side,152-ap-old-model-rus,Secondary Gun,2
@@ -4077,6 +4276,14 @@ pred-sissoi-veliky,37-p-m1884_x8-mast,37-he-rus-early,Tertiary Gun,4
 pred-sissoi-veliky,37-p-revolver_x4,37-he-rus-early,Tertiary Gun,4
 pred-sissoi-veliky,381-tt-hull_x6,,,
 pred-sissoi-veliky,placeholder_torpedo,,,
+pred-sissoi-veliky_1904-5,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred-sissoi-veliky_1904-5,152-c-p1892_x6-side,152-ap-old-model-rus,Secondary Gun,2
+pred-sissoi-veliky_1904-5,47-p-1_x12,47-he-rus,Tertiary Gun,3
+pred-sissoi-veliky_1904-5,37-p-m1884_x8-mast,37-he-rus-early,Tertiary Gun,4
+pred-sissoi-veliky_1904-5,37-p-revolver_x4,37-he-rus-early,Tertiary Gun,4
+pred-sissoi-veliky_1904-5,7-mg-maxim_x4,7-b-uknown-30,Security Gun,5
+pred-sissoi-veliky_1904-5,381-tt-hull_x6,,,
+pred-sissoi-veliky_1904-5,placeholder_torpedo,,,
 pred-tri-sviatitelia,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
 pred-tri-sviatitelia,152-c-p1892_x8-side,152-ap-old-model-rus,Secondary Gun,2
 pred-tri-sviatitelia,120-c-p1892_x4,120-he-m1907,Tertiary Gun,3
@@ -4084,6 +4291,22 @@ pred-tri-sviatitelia,47-p-1_x10-aft,47-he-rus,Tertiary Gun,4
 pred-tri-sviatitelia,37-p-m1884_x40-mast-2,37-he-rus-early,Tertiary Gun,5
 pred-tri-sviatitelia,381-tt-hull_x6,,,
 pred-tri-sviatitelia,placeholder_torpedo,,,
+pred-tri-sviatitelia_1906,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-tri-sviatitelia_1906,152-c-p1892_x8-side,152-ap-old-model-rus,Secondary Gun,2
+pred-tri-sviatitelia_1906,120-c-p1892_x4,120-he-m1907,Tertiary Gun,3
+pred-tri-sviatitelia_1906,47-p-1_x10-aft,47-he-rus,Tertiary Gun,4
+pred-tri-sviatitelia_1906,37-p-m1884_x40-mast-2,37-he-rus-early,Tertiary Gun,5
+pred-tri-sviatitelia_1906,381-tt-hull_x6,,,
+pred-tri-sviatitelia_1906,placeholder_torpedo,,,
+pred-tri-sviatitelia_1912,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-tri-sviatitelia_1912,152-c-p1892_x2-side,152-ap-old-model-rus,Secondary Gun,2
+pred-tri-sviatitelia_1912,47-p-1_x2,47-he-rus,Tertiary Gun,3
+pred-tri-sviatitelia_1912,37-p-m1884_x30-mast,37-he-rus-early,Tertiary Gun,4
+pred-tri-sviatitelia_1915,305-ag-p1895_ay,305-ap-old-model-rus,Primary Gun,1
+pred-tri-sviatitelia_1915,152-c-p1892_x2-side,152-ap-old-model-rus,Secondary Gun,2
+pred-tri-sviatitelia_1915,57-p-nord-aa_x2-aft,57-he-rus,AA Battery,3
+pred-tri-sviatitelia_1915,47-p-1_x2,47-he-rus,Tertiary Gun,4
+pred-tri-sviatitelia_1915,37-p-m1884_x30-mast,37-he-rus-early,Tertiary Gun,5
 bb-espana,305-ag-vsm-markh_apsy,305-apc-markvi-2crh,Primary Gun,1
 bb-espana,102-c-vickers-e_x20,102-he-wwi-uk,Secondary Gun,2
 bb-espana,47-p-marki-la_x4,47-he-uk,Tertiary Gun,3
@@ -4139,7 +4362,7 @@ bb-vasilefs-konstantinos,450-tt-hull_x4-side,,,
 bb-vasilefs-konstantinos,placeholder_torpedo,,,
 bc-stalingrad,305-ag-cm-31_aby,305-ap-hv-rus,Primary Gun,1
 bc-stalingrad,130-sm-bl-109a_x6,130-sap-pb42_130-aa-zs42,Secondary Gun,2
-bc-stalingrad,45-ag-sm-20-zif_x6,45-he-o-240,AA Battery,3
+bc-stalingrad,45-ag-sm-20-zif_x6,45-he-f-73,AA Battery,3
 bc-stalingrad,25-ag-bl-120_x10,25-frag-ozr-85,AA Battery,4
 bc-kronshtadt,305-ag-mk-15_aby,305-ap-rus,Primary Gun,1
 bc-kronshtadt,152-ag-mk-17_x4,152-ap-b35,Secondary Gun,2
