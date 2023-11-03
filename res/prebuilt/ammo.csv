@@ -1,8 +1,8 @@
 AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,SurfaceShellChargeType,AAShellWeight,AAShellCharge,AAShellChargeType,AmmoSource
 305-ap-l34-2crh,"30.5cm AP L/3,4 2crh",ahn,305,450,4,TNT,0,0,,http://www.navweaps.com/Weapons/WNAust_12-45.php
 305-ap-ahn,30.5cm AP,ahn,305,450,,,0,0,,https://en.wikipedia.org/wiki/SMS_Kronprinzessin_Erzherzogin_Stephanie#Armament_and_armor
-238-apc-m08-l35,24cm APC M08 L/3.5,ahn,238,215,2.4,,0,0,,http://www.navweaps.com/Weapons/WNAust_945-45.php
 238-apc-l35,24cm APC L/3.5,ahn,238,229,2.3,,0,0,,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
+238-apc-m08-l35,24cm APC M08 L/3.5,ahn,238,215,2.4,,0,0,,http://www.navweaps.com/Weapons/WNAust_945-45.php
 190-apc-ahn,19cm APC,ahn,190,97,2,,0,0,,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
 150-ap-ahn,15cm AP,ahn,150,45.5,,,0,0,,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
 100-ap-ahn,10cm AP,ahn,100,13.8,,,0,0,,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
@@ -12,57 +12,57 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 120-he-bra,"4"" HE (BRA)",brazil,120,20.4,,,0,0,,http://www.navweaps.com/Weapons/WNBZL_47-50_EOC.php
 457-apc-4crh,"APC 18"" 4crh",britain,457,1506,54,,0,0,,http://www.navweaps.com/Weapons/WNBR_18-40_mk1.php
 412-ap-uk,"16.25"" AP",britain,412,816,,,0,0,,http://www.navweaps.com/Weapons/WNBR_162-30_mk1.php
-406-palliser,"16"" Palliser",britain,406,763.8,,,0,0,,https://en.wikipedia.org/wiki/RML_16-inch_80-ton_gun
 406-apc,"16"" APC",britain,406,1080,27,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_16-45_mk2.php
 406-ap-markib,"16"" AP Mark IB",britain,406,929,23.2,TNT,0,0,,http://www.navweaps.com/Weapons/WNBR_16-45_mk1.php
+406-palliser,"16"" Palliser",britain,406,763.8,,,0,0,,https://en.wikipedia.org/wiki/RML_16-inch_80-ton_gun
 381-apc-markxiia,"15"" APC Mark XIIa",britain,381,879,22,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
-381-apc-markva,"15"" APC Mark Va",britain,381,870,20.5,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
 381-apc-markia,"15"" APC Mark Ia",britain,381,871,27.4,Lyddite,0,0,,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
-356-apc-markviib,APC Mark VIIB,britain,356,721,18.1,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_14-45_mk7.php
+381-apc-markva,"15"" APC Mark Va",britain,381,870,20.5,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_15-42_mk1.php
 356-apc-markiiia,APC Mark IIIa (Greenboy),britain,356,724,17,,0,0,,http://www.navweaps.com/Weapons/WNBR_14-45_mk1.php
+356-apc-markviib,APC Mark VIIB,britain,356,721,18.1,Shellite,0,0,,http://www.navweaps.com/Weapons/WNBR_14-45_mk7.php
 356-apc-markia,APC Mark Ia,britain,356,719,27.9,,0,0,,http://www.navweaps.com/Weapons/WNBR_14-45_mk1.php
 343-apc-markia,"13.5"" APC Mark 1A",britain,343,635,20.2,Lyddite,0,0,,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
 343-ap-early-uk,"13.5"" AP (Early)",britain,343,600,38.3,,0,0,,http://www.navweaps.com/Weapons/WNBR_135-30_mk1.php
 318-palliser,"12.5"" Palliser",britain,318,367,,,0,0,,https://en.wikipedia.org/wiki/RML_12.5-inch_38-ton_gun
-305-palliser-light,"12"" Palliser (Light)",britain,305,276,3,,0,0,,https://en.wikipedia.org/wiki/RML_12-inch_25-ton_gun
-305-palliser,"12"" Palliser",britain,305,321,4.5,,0,0,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
 305-apc-markvia-4crh,"12"" APC Mark VIa 4crh",britain,305,390,12.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_12-50_mk11.php
 305-apc-markvi-2crh,"12"" APC Mark VI 2crh",britain,305,386,11.9,,0,0,,http://www.navweaps.com/Weapons/WNBR_12-45_mk13.php
-305-ap-uk-early,"12"" AP (Early)",britain,305,324,,,0,0,,http://www.navweaps.com/Weapons/WNBR_12-25_mk1.php
 305-ap-2crh,"12"" AP 2crh",britain,305,386,0,None,0,0,,http://www.navweaps.com/Weapons/WNBR_12-35_mk8.php
+305-ap-uk-early,"12"" AP (Early)",britain,305,324,,,0,0,,http://www.navweaps.com/Weapons/WNBR_12-25_mk1.php
+305-palliser,"12"" Palliser",britain,305,321,4.5,,0,0,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
+305-palliser-light,"12"" Palliser (Light)",britain,305,276,3,,0,0,,https://en.wikipedia.org/wiki/RML_12-inch_25-ton_gun
 279-palliser,"11"" Palliser",britain,279,246,7,,0,0,,https://en.wikipedia.org/wiki/RML_11-inch_25-ton_gun
-254-palliser,"10"" Palliser",britain,254,186,1.56,,0,0,,https://en.wikipedia.org/wiki/RML_10-inch_18-ton_gun
 254-apc-uk,"10"" APC (UK)",britain,254,227,,,0,0,,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
 254-ap-uk,"10"" AP (UK)",britain,254,227,,,0,0,,http://www.navweaps.com/Weapons/WNBR_10-32_mk1-4.php
 254-ap-eoc,254mm AP (Elswick),britain,254,227,,,0,0,,http://www.navweaps.com/Weapons/WNJAP_10-40_EOC.php
+254-palliser,"10"" Palliser",britain,254,186,1.56,,0,0,,https://en.wikipedia.org/wiki/RML_10-inch_18-ton_gun
 234-apc-2crh,"9.2"" APC 2crh",britain,234,172,5.9,,0,0,,http://www.navweaps.com/Weapons/WNBR_92-50_mk11.php
 233-s-100pdr,100-pdr Solid,britain,233,45.3,0,None,0,0,,https://en.wikipedia.org/wiki/Somerset_cannon
 229-palliser,"9"" Palliser",britain,229,116,2.8,,0,0,,https://en.wikipedia.org/wiki/RML_9-inch_12-ton_gun
 206-s-68pdr-uk,68-pdr Solid,britain,206,30.8,0,None,0,0,,https://en.wikipedia.org/wiki/68-pounder_gun
 203-palliser,"8"" Palliser",britain,203,79.3,,,0,0,,https://en.wikipedia.org/wiki/RML_8-inch_9-ton_gun
 190-apc-uk,"7.5"" APC (UK)",britain,190,90.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_75-50_mk3.php
-178-s-110pdr,110-pdr Solid,britain,178,49.9,0,None,0,0,,https://en.wikipedia.org/wiki/RBL_7-inch_Armstrong_gun
 178-palliser-markiii,"7"" Palliser Mark III",britain,178,52,1.13,,0,0,,https://en.wikipedia.org/wiki/RML_7-inch_gun
+178-s-110pdr,110-pdr Solid,britain,178,49.9,0,None,0,0,,https://en.wikipedia.org/wiki/RBL_7-inch_Armstrong_gun
 161-s-32pdr-uk,32-pdr Solid,britain,161,14.5,0,None,0,0,,https://en.wikipedia.org/wiki/32-pounder_gun
 160-64pdr-com-shell,64-pdr Common Shell,britain,160,29,3.2,,0,0,,https://en.wikipedia.org/wiki/RML_64-pounder_71_cwt_gun
-152-cpc-uk-early,"6"" CPC (Early)",britain,152,45.3,,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-26_mk1.php
-152-cpc-4crh,"6"" CPC 4crh",britain,152,45.3,3.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
 152-cpbc-markxxvb,CPBC Mark XXVB,britain,152,45.4,3.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-50_mk22.php
 152-cpbc-2crh,CPBC 2crh,britain,152,45.4,3.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php
+152-cpc-uk-early,"6"" CPC (Early)",britain,152,45.3,,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-26_mk1.php
+152-cpc-4crh,"6"" CPC 4crh",britain,152,45.3,3.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
 140-cpc-uk,"CPC 5.5"" (UK)",britain,140,37.2,2.4,,37.2,2.4,,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php
 134-sap-markic_134-he,SAP Mark IC + HE,britain,134,36.3,1.47,TNT,36.3,2.95,TNT,http://www.navweaps.com/Weapons/WNBR_525-50_mk1.php
 120-he-uk,"4"" HE (UK)",britain,120,34.5,22.7,,34.5,22.7,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-com-uk,"4"" Common (UK)",britain,120,20.4,3.1,,0,0,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-40pdr-unknown,40-pdr Solid,britain,120,18.2,0,None,0,0,,https://en.wikipedia.org/wiki/RBL_40-pounder_Armstrong_gun
 114-he-uk,"4.5"" HE (UK)",britain,114,25,,,25,,,http://www.navweaps.com/Weapons/WNBR_45-45_mk1.php#Ammunition
+102-he-markxix,HE Mark XIX,britain,102,17.4,,,15.9,,,http://www.navweaps.com/Weapons/WNBR_4-45_mk16.php#Ammunition
 102-he-wwi-uk,"HE 4"" WWI (UK)",britain,102,14.1,4.3,,0,0,,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
 102-he-uk,"HE 4"" (UK)",britain,102,14.1,0.82,,14.1,0.82,,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php
 102-he-small-uk,"4"" HE (Small) (UK)",britain,102,11.3,,,0,0,,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
-102-he-markxix,HE Mark XIX,britain,102,17.4,,,15.9,,,http://www.navweaps.com/Weapons/WNBR_4-45_mk16.php#Ammunition
 95-com-20pdr,20-pdr Common,britain,95,9.9,0.59,,0,0,,https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=35F35FF07458F859FF45772BE15050FF?doi=10.1.1.674.4023&rep=rep1&type=pdf
+76-he-13-uk,12-pdr HE,britain,76,5.9,,,0,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-he-uk-early,12-pdr HE (early),britain,76,5.7,,,5.7,,,http://www.navweaps.com/Weapons/WNBR_3-45_mk1.php
 76-he-2crh,12-pdr HE 2crh,britain,76,5.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_3-50_mk1.php
-76-he-13-uk,12-pdr HE,britain,76,5.9,,,0,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-com-12pdr,12-pdr Common,britain,76,5.1,,,0,0,,https://www.google.com/search?q=11+lb+4+oz+in+kg&sxsrf=ALiCzsa-IOE146oBHt7ff2QsEYg07K1aHQ%3A1661033472025&ei=AFwBY_OVAfyI0PEPntGEoAE&ved=0ahUKEwjzlb3wt9b5AhV8BDQIHZ4oARQQ4dUDCA4&uact=5&oq=11+lb+4+oz+in+kg&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAEB4QDxAWMgYIABAeEBYyCAgAEB4QDxAWMggIABAeEA8QFjIGCAAQHhAWMggIABAeEA8QFjIICAAQHhAPEBYyBggAEB4QFjIICAAQHhAPEBYyBQgAEIYDOgcIABBHELADOgQIABBDOgUIABCRAjoFCAAQgARKBAhBGABKBAhGGABQ8wRYghpgyxtoAnABeAGAAd8BiAGFBZIBBTYuMC4xmAEAoAEByAEIwAEB&sclient=gws-wiz
 57-he-uk,6-pdr HE,britain,57,2.7,0.1,,2.72,0.1,,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php
 47-he-uk,3-pdr HE (UK),britain,47,1.5,0.06,,1.5,0.06,,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
@@ -82,8 +82,8 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 340-ap-fra-1875,340mm AP 1875,france,340,420,,,0,0,,https://en.wikipedia.org/wiki/340mm/28_Mod%C3%A8le_1881_gun
 330-sapc-fra,330mm SAPC (FRA),france,330,560,20.3,Mn.F.Dn,0,0,,http://www.navweaps.com/Weapons/WNFR_13-50_m1931.php
 320-ap-fra-1870,320mm AP 1870,france,320,345,,,0,0,,
-305-apc-m1910,305mm APC Model 1910,france,305,428,16.5,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
 305-apc-m1906,305mm APC Model 1906,france,305,436,11.3,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
+305-apc-m1910,305mm APC Model 1910,france,305,428,16.5,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
 305-ap-fra-1896,305mm AP 1896,france,305,349,,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
 305-ap-fra-1887,305mm AP 1887,france,305,340,,Melinite,0,0,,
 274-apc-fra-1887,274mm APC 1887,france,274,255,3.7,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNFR_10-40_m1893.php
@@ -92,32 +92,32 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 240-ap-fra-1893,240mm AP 1893,france,240,170,,,0,0,,
 240-ap-fra-1864,240mm AP 1864,france,240,144,,,0,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
 223-he-paixhans-fra,223mm HE Paixhans Shell,france,223,23,,,0,0,,https://en.wikipedia.org/wiki/Paixhans_gun
-194-s-50pdr,194mm Solid 50-pdr (FRA),france,194,25.2,0,None,0,0,,
 194-apc-fra-1902,194mm APC 1902,france,194,86,1.4,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_76-50_m1902.php
 194-ap-fra-1864,194mm AP 1864,france,194,75,,,0,0,,https://en.wikipedia.org/wiki/La_Galissonni%C3%A8re-class_ironclad#Armament
-165-s-fra-1858,165mm Solid 1858,france,165,31.5,0,None,0,0,,
+194-s-50pdr,194mm Solid 50-pdr (FRA),france,194,25.2,0,None,0,0,,
 165-apc-fra-1896,165mm APC 1896,france,165,54.9,0.97,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
 165-ap-fra-1887,165mm AP 1887,france,165,52.6,,Melinite,0,0,,
 165-ap-fra-1881,165mm AP 1881,france,165,52,,,0,0,,
 165-ap-fra-1864,165mm AP 1864,france,165,45,,,0,0,,
+165-s-fra-1858,165mm Solid 1858,france,165,31.5,0,None,0,0,,
 152-sapc-m1937_152-he-m1937,152mm SAPC Model 1937 + 152 HE Model 1937,france,152,57.1,1.7,Melinite,49.7,,Melinite,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 139-sap-fra-1910,138.6mm SAP 1910,france,139,36.5,2.66,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
+139-ap-fra-1888,139mm AP 1888,france,139,36.5,,,0,0,,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-he-fra-1884,139mm HE 1884,france,139,35,,,0,0,,
 139-he-fra-1881,139mm HE 1881,france,139,30,,,0,0,,
 139-he-fra-1870,139mm HE 1870,france,139,23,,,0,0,,
 139-he-fra-1858,139mm HE 1858,france,139,18.7,,,0,0,,
-139-ap-fra-1888,139mm AP 1888,france,139,36.5,,,0,0,,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 130-sap_130-he-fra,130mm SAP + 130mm HE,france,130,32.1,1.6,,29.5,3.2,,http://www.navweaps.com/Weapons/WNFR_51-45_m1932.php
 121-he-fra-12pdr,121mm HE 12-pdr,france,121,4.1,,,0,0,,https://en.wikipedia.org/wiki/Canon_obusier_de_12
-100-sap_100-he-fra,100mm SAP + 100mm HE (FRA),france,100,15,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
-100-he-m1945,100mm HE Model 1945,france,100,13.3,,,13.3,,,http://www.navweaps.com/Weapons/WNFR_39-55_m1945.php
 100-he-fra-1891,100mm HE 1891,france,100,16,,,0,0,,
-100-he-fra,100mm HE (FRA),france,100,13.5,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
-100-ap-fra-1881,100mm AP 1881,france,100,14,,,0,0,,
+100-sap_100-he-fra,100mm SAP + 100mm HE (FRA),france,100,15,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-ap-fra,100mm AP,france,100,15,,,0,0,,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891#Ammunition
+100-ap-fra-1881,100mm AP 1881,france,100,14,,,0,0,,
+100-he-fra,100mm HE (FRA),france,100,13.5,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
+100-he-m1945,100mm HE Model 1945,france,100,13.3,,,13.3,,,http://www.navweaps.com/Weapons/WNFR_39-55_m1945.php
 90-he-fra-1881,90mm HE 1881,france,90,8,,,0,0,,
-75-he-fra-1922,75mm HE 1922,france,75,5.9,,,5.9,,,http://www.navweaps.com/Weapons/WNFR_3-50_m1922.php
 75-he-fra-1908,75mm HE 1908,france,75,6.4,0.9,Melinite,0,0,,http://www.navweaps.com/Weapons/WNFR_3-62_m1908.php
+75-he-fra-1922,75mm HE 1922,france,75,5.9,,,5.9,,,http://www.navweaps.com/Weapons/WNFR_3-50_m1922.php
 75-he-fra-1897,75mm HE 1897,france,75,5.4,,,5.4,,,https://en.wikipedia.org/wiki/Canon_de_75_mod%C3%A8le_1897
 65-he-9pdr-fra-1888,9-pdr HE,france,65,4.2,,,0,0,,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
 57-he-fra,57mm HE (FRA),france,57,2.6,0.34,,2.6,0.34,,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
@@ -135,39 +135,39 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 283-ap-l26,"28cm AP L/2,6",germany,283,240,,,0,0,,http://www.navweaps.com/Weapons/WNGER_11-40_skc04.php
 238-ap-l28-c01,24cm AP L/2.8 C/01,germany,238,140,3.48,,0,0,,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php
 173-ap-l3,17cm AP L/3,germany,173,64,3.5,,0,0,,http://www.navweaps.com/Weapons/WNGER_675-40_skc04.php
+149-ap-ger,15cm AP,germany,149,45.6,,,0,0,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
 149-apc-l38,"15cm APC L/3,8",germany,149,45.5,1.32,TNT,0,0,,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php
 149-ap-l37,"15cm AP L/3,7",germany,149,45.3,0.99,,0,0,,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
-149-ap-ger,15cm AP,germany,149,45.6,,,0,0,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
 149-ap-c01,15cm AP C/01,germany,149,40,,,0,0,,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
-105-he-l44,"10.5cm HE L/4,4",germany,105,15.1,1.4,FP02,15.1,1.4,FP02,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Ammunition
-105-he-1907,10.5cm HE 1907,germany,105,17.5,,,0,0,,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php#Ammunition
 105-ap-1891,10.5cm AP 1891,germany,105,18.2,,,0,0,,http://www.navweaps.com/Weapons/WNGER_41-35_skc91.php
+105-he-1907,10.5cm HE 1907,germany,105,17.5,,,0,0,,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php#Ammunition
 105-ap_105-he-ger,10.5cm AP + 10.5cm HE,germany,105,15.8,,,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
-88-sap-l280-c01,8.8cm SAP L/2.80 C/01,germany,88,7,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
-88-he-early,8.8cm HE (Early),germany,88,7,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
+105-he-l44,"10.5cm HE L/4,4",germany,105,15.1,1.4,FP02,15.1,1.4,FP02,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Ammunition
 88-he_88-aa,8.8cm HE + 8.8cm AA,germany,88,9.8,,,9.6,,,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-he,8.8cm HE,germany,88,9.8,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
+88-sap-l280-c01,8.8cm SAP L/2.80 C/01,germany,88,7,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
+88-he-early,8.8cm HE (Early),germany,88,7,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
 40-he-t,4cm HE-T,germany,40,1,,,1,,,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#Ammunition
 37-he-t,3.7cm HE-T,germany,37,0.74,0.03,FP02,0.74,0.03,FP02,http://www.navweaps.com/Weapons/WNGER_37mm-83_skc30.php
 20-api-i_20-he-i,2cm AP-I + 2cm HE-I,germany,20,0.15,0,None,0.12,0.01,PETN,http://www.navweaps.com/Weapons/WNGER_20mm-65_c30.php
 7-b-79-mauser,7.9mm Mauser,germany,7.9,0.01,0,None,0.01,0,None,https://en.wikipedia.org/wiki/MG_08
 381-apc-ita,381mm APC,italy,381,885,10.16,TNT,0,0,,http://www.navweaps.com/Weapons/WNIT_15-50_m1934.php
 381-ap-ita,381mm AP,italy,381,884,,,0,0,,http://www.navweaps.com/Weapons/WNIT_15-40_m1914.php
-305-apc-ita-early-light,305mm APC (Early),italy,305,390,,,0,0,,http://www.navweaps.com/Weapons/WNIT_12-40.php
-305-apc-ita-early,305mm APC (Early),italy,305,417,,,0,0,,http://www.navweaps.com/Weapons/WNIT_12-40.php
 305-apc-ita,305mm APC,italy,305,452,,,0,0,,http://www.navweaps.com/Weapons/WNIT_12-46_m1909.php
+305-apc-ita-early,305mm APC (Early),italy,305,417,,,0,0,,http://www.navweaps.com/Weapons/WNIT_12-40.php
+305-apc-ita-early-light,305mm APC (Early),italy,305,390,,,0,0,,http://www.navweaps.com/Weapons/WNIT_12-40.php
 203-ap-ita,203mm AP,italy,203,116,,,0,0,,http://www.navweaps.com/Weapons/WNIT_8-45_EOC.php
-152-ap-ita-early,152mm AP (Early),italy,152,47,,,0,0,,https://en.wikipedia.org/wiki/Cannone_da_152/45
 152-ap-ita,152mm AP,italy,152,50,1,,0,0,,http://www.navweaps.com/Weapons/WNIT_6-55_m1936.php
 152-ap-ita,152mm AP,italy,152,50,,,0,0,,https://en.wikipedia.org/wiki/Francesco_Caracciolo-class_battleship
+152-ap-ita-early,152mm AP (Early),italy,152,47,,,0,0,,https://en.wikipedia.org/wiki/Cannone_da_152/45
 120-he-ita,120mm HE,italy,120,22.1,,,0,0,,https://en.wikipedia.org/wiki/Conte_di_Cavour-class_battleship#cite_note-c12-15
 102-he-ita,102mm HE,italy,102,13.7,,,13.7,,,http://www.navweaps.com/Weapons/WNIT_4-45_m1917.php
 90-he-aa-ita,90mm HE AA,italy,90,10.1,,,10.1,,,http://www.navweaps.com/Weapons/WNIT_35-50_m1939.php
 76-he-ita,76mm HE,italy,76,6,,,6,,,http://www.navweaps.com/Weapons/WNIT_3-50_m1909.php
 76-ap-ita,76mm AP,italy,76,6,,,0,0,,http://www.navweaps.com/Weapons/WNIT_3-50_m1909.php
 40-he-ita,40mm HE,italy,40,0.9,0.1,,0.9,0.1,,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
-37-he-ita-early,37mm HE (Early),italy,37,0.51,0.01,Black Powder,0.51,,,http://navypedia.org/arms/italy/arms_it_guns.htm
 37-he-ita,37mm HE,italy,37,0.82,0.02,TNT,0.82,0.02,TNT,http://www.navweaps.com/Weapons/WNIT_37mm-54_m1932.php
+37-he-ita-early,37mm HE (Early),italy,37,0.51,0.01,Black Powder,0.51,,,http://navypedia.org/arms/italy/arms_it_guns.htm
 20-he-ita,20mm HE,italy,20,0.13,,,0.13,,,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
 460-apc-type1,46cm APC Type 1,japan,460,1460,33.85,,0,0,,http://www.navweaps.com/Weapons/WNJAP_18-45_t94.php
 410-apc-type3,41cm APC Type 3,japan,410,1000,14.9,,0,0,,http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.php
@@ -182,10 +182,10 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 152-ap-jpn,"6"" AP (JPN)",japan,152,45.4,,,0,0,,http://www.navweaps.com/Weapons/WNJAP_6-45_EOC.php
 140-cap-com,140 Capped Common,japan,140,38,2,,0,0,,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 127-he-type0,12.7cm Common Type 0 HE,japan,127,23.5,1.88,Shimose,23.5,1.88,Shimose,http://www.navweaps.com/Weapons/WNJAP_5-40_t89.php
-120-he-com-type0,12cm Common Type 0 HE,japan,120,20.3,1.7,,20.3,1.7,,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
 120-com-jpn,"4"" Common (JPN)",japan,120,20.4,3.1,,0,0,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
-76-he-jpn,8cm HE (JPN),japan,76,5.7,,,5.7,,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+120-he-com-type0,12cm Common Type 0 HE,japan,120,20.3,1.7,,20.3,1.7,,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
 76-he-com-type0,8cm Common Type 0 HE,japan,76,6,0.45,,6,0.45,,http://www.navweaps.com/Weapons/WNJAP_3-40_3ns.php
+76-he-jpn,8cm HE (JPN),japan,76,5.7,,,5.7,,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 47-com-2.5,2.5-lbr (JPN),japan,47,1.1,,,0,0,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Japanese_service
 40-com-jpn,40mm Common (JPN),japan,40,0.9,0.07,,0.9,0.07,,http://www.navweaps.com/Weapons/WNJAP_40mm-62_HI.php
 25-com-jpn,25mm Common,japan,25,0.3,0.01,,0.3,0.01,,http://www.navweaps.com/Weapons/WNJAP_25mm-60_mg.php
@@ -195,15 +195,15 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 356-ap-m1911,356mm AP mod 1911,russia,356,719,27.9,,0,0,,http://www.navweaps.com/Weapons/WNRussian_14-52_mk6.php
 305-apc-m1911,305mm APC mod 1911,russia,305,471,13,,0,0,,http://www.navweaps.com/Weapons/WNRussian_12-52_m1907.php
 305-ap-rus,305mm AP,russia,305,471,,,0,0,,http://www.navweaps.com/Weapons/WNRussian_12-55_B-50.php
-305-ap-old-model-rus,305mm AP old model,russia,305,332,5.3,,0,0,,http://www.navweaps.com/Weapons/WNRussian_12-40_m1895.php
 305-ap-hv-rus,305mm AP (HV),russia,305,467,,,0,0,,http://www.navweaps.com/Weapons/WNRussian_12-62_m1948.php
+305-ap-old-model-rus,305mm AP old model,russia,305,332,5.3,,0,0,,http://www.navweaps.com/Weapons/WNRussian_12-40_m1895.php
 254-ap-rus,254mm AP,russia,254,225,,,0,0,,http://www.navweaps.com/Weapons/WNRussian_10-45_m1891.php
 203-he-m1907,203mm HE mod 1907,russia,203,112,14.1,,0,0,,http://www.navweaps.com/Weapons/WNRussian_8-50_m1905.php
 152-ap-rus,152mm AP,russia,152,55,1.1,,0,0,,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
-152-ap-old-model-rus,152mm AP old model,russia,152,41.4,1.23,,0,0,,http://www.navweaps.com/Weapons/WNRussian_6-45_m1892.php
 152-ap-b35,152mm AP B-35,russia,152,55,1.1,,0,0,,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
-130-sap-pb42_130-aa-zs42,130mm SAP PB-42 + 130mm AA ZS42,russia,130,33.4,1.4,,32.7,2.5,,http://www.navweaps.com/Weapons/WNRussian_51-58_m1957.php
+152-ap-old-model-rus,152mm AP old model,russia,152,41.4,1.23,,0,0,,http://www.navweaps.com/Weapons/WNRussian_6-45_m1892.php
 130-he-m1911,130mm HE mod 1911,russia,130,36.9,4.71,,36.9,4.71,,http://www.navweaps.com/Weapons/WNRussian_51-55_m1913.php
+130-sap-pb42_130-aa-zs42,130mm SAP PB-42 + 130mm AA ZS42,russia,130,33.4,1.4,,32.7,2.5,,http://www.navweaps.com/Weapons/WNRussian_51-58_m1957.php
 120-sap-m1911,120mm SAP mod 1911,russia,120,29,3.73,,0,0,,http://www.navweaps.com/Weapons/WNRussian_47-50_m1905.php
 120-he-m1907,120mm HE mod 1907,russia,120,20.5,2.56,,0,0,,http://www.navweaps.com/Weapons/WNRussian_47-45_m1892.php
 100-he-f56_100-aa,100mm HE F-56 + 100mm AA,russia,100,15.8,1.25,,15.6,1.21,,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php
@@ -216,9 +216,9 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 45-he-o-240,45mm HE 0-240,russia,45,2.14,0.12,,2.14,0.12,,http://www.navweaps.com/Weapons/WNRussian_45mm-68_21KM.php#Ammunition
 45-he-f-73,45mm HE (F-73),russia,45,1.4,0.07,,1.4,0.07,,http://www.navweaps.com/Weapons/WNRussian_45mm-68_21KM.php#Ammunition
 40-he-rus,40mm HE,russia,40,0.9,0.1,,0.9,0.1,,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php#Ammunition
+37-he-frag-rus,37mm HE-FRAG,russia,37,0.73,0.04,,0.73,0.04,,http://www.navweaps.com/Weapons/WNRussian_37mm-67_70-K.php
 37-he-rus-early,37mm HE (Early),russia,37,0.51,0.02,,0.51,0.02,,http://www.navweaps.com/Weapons/WNRussian_37mm_Hotchkiss.php
 37-he-iron,37mm Iron HE,russia,37,0.45,0.017,,0.45,0.017,,http://www.navweaps.com/Weapons/WNRussian_37mm-30_maxim.php#Ammunition
-37-he-frag-rus,37mm HE-FRAG,russia,37,0.73,0.04,,0.73,0.04,,http://www.navweaps.com/Weapons/WNRussian_37mm-67_70-K.php
 25-frag-ozr-85,25mm FRAG OZR-85,russia,25,0.28,0.01,,0.28,0.01,,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
 12-b-rus,12.7mm Russian,russia,12,0.05,0,,0.05,0,,https://en.wikipedia.org/wiki/12.7%C3%97108mm
 57-ap-nord,57mm AP Nordenfelt,sweden,57,2.9,0,,0,0,,https://en.wikipedia.org/wiki/QF_6-pounder_Nordenfelt
@@ -229,48 +229,50 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 406-ap-mk5,AP Mark 5,usa,406,1016,15.2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-45_mk5.php
 406-ap-mk3-mod2,AP Mark 3 Mod 2,usa,406,957,26.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-45_mk1.php
 406-ap-mk3,"Navy 16"" AP Mark 3",usa,406,957,26.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_16-50_mk2.php
-356-ap-mk8-mod3,AP Mark 8 Mod 3,usa,356,636,15.6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php
 356-ap-mk20,AP Mark 20,usa,356,680,10.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php
 356-ap-mk16,AP Mark 16,usa,356,680,10.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk11.php
+356-ap-mk8-mod3,AP Mark 8 Mod 3,usa,356,636,15.6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php
 356-ap-early,"Early 14"" AP",usa,356,635,14.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php
 330-ap-mk5-bp,AP Mark 5 (BP),usa,330,513,16.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
 330-ap-mk5,AP Mark 5,usa,330,513,16.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
 330-ap-mk3-bp,AP Mark 3 (BP),usa,330,513,10,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
 330-ap-mk3,AP Mark 3,usa,330,513,10,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_13-35_mk1.php
-305-ap-mkviii-bp,AP Mark VIII (BP),usa,305,395,11.2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkviii,AP Mark VIII,usa,305,395,11.2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkv-bp,AP Mark V (BP),usa,305,395,12,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkv,AP Mark V,usa,305,395,12,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkiii-bp,AP Mark III (BP),usa,305,395,5.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
-305-ap-mkiii,AP Mark III,usa,305,395,5.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mk18,AP Mark 18,usa,305,517,7.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-50_mk8.php#Ammunition
 305-ap-mk18,AP Mark 18 (Super Heavy),usa,305,517,7.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-50_mk8.php
 305-ap-mk15,AP Mark 15,usa,305,395,11.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-50_mk7.php
-305-ap-870-early,"AP 12"" 870 lbs Early",usa,305,395,8.2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-35_mk1.php
-305-ap-870,"AP 12"" 870 lbs",usa,305,395,11,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-35_mk1.php
+305-ap-mkviii-bp,AP Mark VIII (BP),usa,305,394.6,11.2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkviii,AP Mark VIII,usa,305,394.6,11.2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkv-bp,AP Mark V (BP),usa,305,394.6,12,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkv,AP Mark V,usa,305,394.6,12,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkiii-bp,AP Mark III (BP),usa,305,394.6,5.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-mkiii,AP Mark III,usa,305,394.6,5.4,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_12-45_mk5.php
+305-ap-870-early,"AP 12"" 870 lbs Early",usa,305,394.6,8.2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-35_mk1.php
+305-ap-870,"AP 12"" 870 lbs",usa,305,394.6,11,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_12-35_mk1.php
 254-ap-9.8,"AP 10"" 9.8 lbs",usa,254,231,4.4,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_10-30_mk1.php
 254-ap-13-bp,"AP 10"" 13 lbs (BP)",usa,254,231,6,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_10-40_mk3.php
 254-ap-13,"AP 10"" 13 lbs",usa,254,231,6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_10-40_mk3.php
+203-ap-mk21_hc-mk24,AP Mark 21 + HC Mark 24,usa,203,152,2.3,Explosive D,118,9.7,Explosive D,http://www.navweaps.com/Weapons/WNUS_8-55_mk16.php
+203-ap-mk21,AP Mark 21,usa,203,152,2.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-55_mk16.php
 203-ap-naval-early-bp,"Naval 8"" AP Early (BP)",usa,203,118,2.3,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_8-35_mk3.php
 203-ap-naval-bp,"Naval 8"" AP (BP)",usa,203,118,2.7,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php
 203-ap-naval,"Naval 8"" AP",usa,203,118,2.8,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-45_mk6.php
-203-ap-mk21,AP Mark 21 (Super Heavy),usa,203,152,2.3,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-55_mk16.php
-203-ap-mk16,AP Mark 19,usa,203,118,1.7,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php
+203-ap-mk19,AP Mark 19,usa,203,118,1.7,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_8-55_mk12-15.php
 178-ap-mk6-bp,AP Mark 6 (BP),usa,178,74.8,2,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
 178-ap-mk6,AP Mark 6,usa,178,74.8,2,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
-152-he-gre,"6"" HE",usa,152,47.6,9.1,,0,0,,http://www.navweaps.com/Weapons/WNUS_6-44_mk9.php
-152-cpc,"6""  CPC",usa,152,45.3,0.9,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk5.php
-152-com-mk28,"6""  Common Mark 28",usa,152,47.6,2.6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-47_mk17.php
-152-com-mk27,"6""  SP Common Mark 27",usa,152,47.6,1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php
 152-ap-mk35_152-hc-mk39,"6""  AP Mark 35 + 6""  HC Mark 39",usa,152,59,0.9,Explosive D,48,6.4,Explosive D,http://www.navweaps.com/Weapons/WNUS_6-47DP_mk16.php
 152-ap-mk35,"6""  AP Mark 35",usa,152,59,0.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-47_mk16.php
 152-ap-4-bp,"6""  AP 2.4 lbs (BP)",usa,152,47.7,1.1,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php
 152-ap-4,"6""  AP 2.4 lbs",usa,152,47.7,1.1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php
+152-he-gre,"6"" HE",usa,152,47.6,9.1,,0,0,,http://www.navweaps.com/Weapons/WNUS_6-44_mk9.php
+152-com-mk28,"6""  Common Mark 28",usa,152,47.6,2.6,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-47_mk17.php
+152-com-mk27,"6""  SP Common Mark 27",usa,152,47.6,1,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_6-53_mk12.php
+152-cpc,"6""  CPC",usa,152,45.3,0.9,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk5.php
 127-spc-mk42_127-hc-mark41,SP Common Mark 42 + HC Mark 41,usa,127,31.75,0.97,Explosive D,31.5,3.5,Explosive D,http://www.navweaps.com/Weapons/WNUS_5-54_mk16.php
+127-ap-60,"AP 5"" 60 lbs",usa,127,27.2,0.77,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
 127-spc-mk32_127-aac-mk34,SP Common Mark 32 + AAC Mark 34,usa,127,25,0.9,Explosive D,25,3.3,Explosive D,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
 127-spc-mk32,SP Common Mark 32,usa,127,25,0.9,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php
 127-hc-mk36_127-aac-mk28,HC Mark 36 + AAC Mark 28,usa,127,24.4,0.9,Explosive D,24.5,3.3,Explosive D,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php
 127-com-mk15,Common Mark 15,usa,127,22.7,0.78,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
-127-ap-60,"AP 5"" 60 lbs",usa,127,27.2,0.77,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
 127-ap-50,"AP 5"" 50 lbs",usa,127,22.7,0.77,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_5-50_mk5.php
 127-ap,"AP 5""",usa,127,22.7,0.77,Explosive D,0,0,,http://www.navweaps.com/Weapons/WNUS_5-51_mk7.php
 120-com,"Common 4.7""",usa,120,20.4,3.1,Black Powder,0,0,,http://www.navweaps.com/Weapons/WNUS_47-50_mk3.php
