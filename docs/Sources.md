@@ -74,6 +74,8 @@ https://dinamicaglobal.wordpress.com/militar/uma-breve-analise-comparativa-dos-g
 
 http://www.combinedfleet.com/kaigun.htm
 
+http://ww6.enjoy.ne.jp/~iwashige/modellist.htm
+
 http://www.hazegray.org/navhist/
 
 https://www.pdavis.nl/MidVicShips.php?page=1
