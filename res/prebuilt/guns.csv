@@ -80,6 +80,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-bl-markxiii,"6""/50 BL Mark XIII","Elswick 6""",britain,1912-01-01,152,50,8918,5,3,Breech,844,0,150,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
 152-bg-vickers-markm,"6""/50 Vickers Mark M","Vickers 6""",britain,1910-01-01,152,50,8360,6,5,Breech,850,0,150,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
 152-bg-bl-markxi,"6""/50 BL Mark XI",,britain,1905-01-01,152,50,8726,5,3,Breech,895,0,200,http://www.navweaps.com/Weapons/WNBR_6-50_mk11.php
+152-bg-mk5,"6""/50 Mark 5 (EOC DD)","Elswick 6""",britain,1895-01-01,152,50,,6,5,Breech,701,0,,http://www.navweaps.com/Weapons/WNUS_6-50_mk5.php
 152-bg-bl-markxii,"6""/45 BL Mark XII","British 6""",britain,1913-01-01,152,45,6998,5,4,Breech,853,0,150,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php
 152-bg-elswick-gg,"6""/45 41st Year Type",Elswick Pattern GG,britain,1904-01-01,152,45,1180,5,4,Breech,825,0,150,http://www.navweaps.com/Weapons/WNJAP_6-45_EOC.php
 152-bg-bl-markvii,"6""/45 BL Mark VII","Vickers 6""",britain,1899-01-01,152,45,7517,5,4,Breech,773,0,130,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php
@@ -93,6 +94,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 120-bg-rbl-40pdr-35cwt,120mm/20 RBL 40-pdr 35 cwt,Armstrong 40-pdr,britain,1859-01-01,120.6,20,1780,,,Breech,360,0,,https://en.wikipedia.org/wiki/RBL_40-pounder_Armstrong_gun
 120-bg-vickers-bl,120mm/50 Vickers BL,"Vickers 4.7""",britain,1909-01-01,120,50,3420,6,5,Breech,850,0,,https://en.wikipedia.org/wiki/Conte_di_Cavour-class_battleship
 120-bg-elswick-cc,"4.7""/50 BL Elswick CC","Elswick 4.7""",britain,1908-01-01,120,50,3369,7,6,Breech,914,0,,http://www.navweaps.com/Weapons/WNBZL_47-50_EOC.php
+120-bg-mk3,"4.7""/50 Mark 3 (EOC AA)","Elswick 4.7""",britain,1895-01-01,120,50,2200,6,5,Breech,675,0,150,http://www.navweaps.com/Weapons/WNUS_47-50_mk3.php
 120-bg-p1905,120mm/50 Pattern 1905,"Vickers 4.7""",britain,1905-01-01,120,49,3145,7,7,Breech,793,0,250,http://www.navweaps.com/Weapons/WNRussian_47-50_m1905.php
 120-bg-10th-year-type,12cm/45 10th Year Type,"Elswick 4.7""",britain,1921-01-01,120,45,2950,10,7,Breech,825,825,250,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
 120-bg-qf-markviii,"4.7""/40 QF Mark VIII","British 4.7""",britain,1925-01-01,120,40,3010,12,8,Breech,749,749,175,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
@@ -210,6 +212,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 47-bg-sfk-l44,47mm/40 SFK L/44,Hotchkiss 3-pdr,france,1890-01-01,47,40,256,25,20,Breech Semi-Automatic,710,0,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Austro-Hungarian_service
 47-bg-m1886,3-pdr Hotchkiss M1886,Hotchkiss 3-pdr,france,1886-01-01,47,40,,25,20,Breech Semi-Automatic,574,0,,http://navypedia.org/arms/italy/arms_it_guns.htm
 47-bg-qf-mark1,3-pdr Hotchkiss QF Mark 1,Hotchkiss 3-pdr,france,1885-01-01,47,40,240,20,20,Breech Semi-Automatic,574,574,300,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
+47-bg-mk1-gatling,3-pdr Hotchkiss Mark 1 Gatling,Hotchkiss 3-pdr,france,1885-01-01,47,40,1300,60,30,Breech Semi-Automatic,618,0,,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php
 47-bg-mk1,3-pdr Hotchkiss Mark 1,Hotchkiss 3-pdr,france,1885-01-01,47,40,240,25,20,Breech Semi-Automatic,618,0,,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php
 47-bg-m1885,47mm/40 Hotchkiss L/40 Model 1885,Hotchkiss 3-pdr,france,1885-01-01,47,40,240,15,7,Breech Semi-Automatic,571,0,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss
 47-bg-hotchkiss,47mm/40 Hotchkiss,Hotchkiss 3-pdr,france,1883-01-01,47,40,236,25,20,Breech Semi-Automatic,701,0,,http://www.navweaps.com/Weapons/WNRussian_47mm_Hotchkiss.php
@@ -289,6 +292,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 25-mg-bl-120,25mm/79 BL-120,Russian 25mm,russia,1948-01-01,25,79,101,285,240,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
 25-mg-110-pm,25mm/79 110-PM,Russian 25mm,russia,1948-01-01,25,79,101,300,285,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
 12-mg-dshk-1938,12.7mm/79 DShK 1938,Tula Arms Plant 12.7mm,russia,1938-01-01,12.7,79,34,600,600,Breech Automatic,850,850,,https://en.wikipedia.org/wiki/DShK
+120-bg-hontoria-m1883,120mm/35 Hontoria M1883,Hontoria 12 cm,spain,1883-01-01,120,35,,,,Breech,612,0,,https://en.wikipedia.org/wiki/Gonzalez_Hontoria_de_12_cm_mod_1883
 57-mg-m1951,57mm/60 Model 1951,Bofors 57mm,sweden,1951-01-01,57,60,,120,100,Breech Autoloader,865,865,1580,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
 40-bg-mk1,40mm/56 Mark 1,Bofors 40mm,sweden,1941-01-01,40,56,522,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-bg-mark1,40mm/56 OQF Mark I,Bofors 40mm,sweden,1941-01-01,40,56,515,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
@@ -339,6 +343,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-mk17,"6""/47 Mark 17","Armstrong 6""",usa,1933-01-01,152,47,5320,8,6.5,Breech,853,0,,http://www.navweaps.com/Weapons/WNUS_6-47_mk17.php
 152-bg-mk16,"6""/47 Mark 16","Armstrong 6""",usa,1932-01-01,152,47,6600,10,9,Breech,762,0,200,http://www.navweaps.com/Weapons/WNUS_6-47_mk16.php
 152-bg-mk6,"6""/44 Mark 9","Bethlehem 6""",usa,1906-01-01,152,44,6958,6,6,Breech,686,0,,http://www.navweaps.com/Weapons/WNUS_6-44_mk9.php
+152-bg-mk3-mod2-early,"6""/40 Mark 3 Mod 2","Armstrong 6""",usa,1883-01-01,152,40,5500,0.66,0.66,Breech,655,0,100,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php
 152-bg-mk3-mod2,"6""/40 Mark 3 Mod 2","Armstrong 6""",usa,1883-01-01,152,40,5500,7.3,7.3,Breech,655,0,100,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php
 152-bg-mk3-mod1-early,"6""/35 Mark 3 Mod 1","Armstrong 6""",usa,1883-01-01,152,35,5500,0.66,0.66,Breech,610,0,100,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php
 152-bg-mk3-mod1,"6""/35 Mark 3 Mod 1","Armstrong 6""",usa,1883-01-01,152,35,5500,7.3,7.3,Breech,610,0,100,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php
@@ -367,7 +372,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 76-bg-mk7,"3""/23 Mark 7","Erhardt 3""",usa,1900-01-01,76,23,,9,8.5,Breech,503,0,,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
 57-bg-d-s,6-pdr/45 Driggs-Schroeder,Driggs-Schroeder 6-pdr,usa,1885-01-01,57,45,,20,20,Breech,,0,,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 47-bg-d-s,3-pdr/45 Mark 2,Driggs-Schroeder 3-pdr,usa,1885-01-01,47,45,240,25,20,Breech,646,0,,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php
-37-bg-d-s,1-pdr/40 Mark 2 Mod 1,Driggs-Schroeder 1-pdr,usa,1885-01-01,47,45,,25,25,Breech Semi-Automatic,610,0,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
+37-bg-d-s,1-pdr/40 Mark 2 Mod 1,Driggs-Schroeder 1-pdr,usa,1885-01-01,37,40,,25,25,Breech Semi-Automatic,610,0,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
 37-mg-maxim,37mm/30 Maxim gun,Maxim 37mm,usa,1883-01-01,37,30,246,250,90,Breech Automatic,610,610,,http://www.navweaps.com/Weapons/WNRussian_37mm-30_maxim.php
 28-bg-mk1,"1.1""/75 Mark 1","US 1.1""",usa,1929-01-01,28,75,260,150,100,Breech Autoloader,823,823,,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php
 12-mg-mk3,"0.50""/90 Browning M2 MG","Browning 0.50""",usa,1930-01-01,12.7,90,,600,500,Breech Autoloader,893,893,,http://navypedia.org/arms/usa/arms_usa_guns.htm

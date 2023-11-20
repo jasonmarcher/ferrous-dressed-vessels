@@ -15,8 +15,10 @@ MountID,MountName,MountNation,MountType,NumberOfLaunchers,MagazineSize,LauncherS
 356-tt-hull,Unknown 356mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 350-tt-hull,Unknown 350mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 178-up,"7"" UP Launcher",britain,Mount,20,1,https://en.wikipedia.org/wiki/Unrotated_Projectile#7-inch_rocket
+dcr-unknown,DCR (Unknown),,Fixed,1,,
 dct-mk6-mk8,DCT Mark 6 (K-Gun),usa,Fixed,1,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Marks_6_and_9
-dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,8,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_32
+dcr-mk6-mk8,DCR Mark 6,usa,Fixed,1,6,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_62
+dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,9,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_32
 533-tt-mk15-quint,533mm Mark 15 Quintuple Tubes,usa,Mount,5,1,https://en.wikipedia.org/wiki/Mark_15_torpedo
 500-tt-dual-ger,500mm Dual (Germany),germany,Mount,2,1,
 500-tt-single-ger,500mm Single (Germany),germany,Mount,1,1,
