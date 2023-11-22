@@ -3869,42 +3869,110 @@ bb-littorio_vittorio-veneto-1942,90-ag-m1938_x12,90-he-aa-ita,AA Battery,4
 bb-littorio_vittorio-veneto-1942,37-cp-1932_x8,37-he-ita,AA Battery,5
 bb-littorio_vittorio-veneto-1942,37-cp-1939_x4,37-he-ita,AA Battery,5
 bb-littorio_vittorio-veneto-1942,20-sm-m1935_x16,20-he-ita,AA Battery,6
-bb-francesco-caracciolo_francesco-caracciolo,381-ag-a1914_abxy,381-ap-ita,Primary Gun,1
-bb-francesco-caracciolo_francesco-caracciolo,152-c-a1918_x12,152-ap-ita,Secondary Gun,2
-bb-francesco-caracciolo_francesco-caracciolo,102-cp-a1917_x8,102-he-ita,Tertiary Gun,3
-bb-francesco-caracciolo_francesco-caracciolo,40-cp-v1917_x12,40-he-ita,Tertiary Gun,4
-bb-francesco-caracciolo_francesco-caracciolo,450-tt-hull_x8-side,,,
-bb-francesco-caracciolo_francesco-caracciolo,placeholder_torpedo,,,
+bb-francesco-caracciolo,381-ag-a1914_abxy,381-ap-ita,Primary Gun,1
+bb-francesco-caracciolo,152-c-a1918_x12,152-ap-ita,Secondary Gun,2
+bb-francesco-caracciolo,102-cp-a1917_x8,102-he-ita,AA Battery,3
+bb-francesco-caracciolo,40-cp-v1917_x12,40-he-ita,Tertiary Gun,4
+bb-francesco-caracciolo,450-tt-hull_x8-side,,,
+bb-francesco-caracciolo,placeholder_torpedo,,,
 bb-francesco-caracciolo_marcantonio-colonna,381-ag-v1914_abxy,381-ap-ita,Primary Gun,1
 bb-francesco-caracciolo_marcantonio-colonna,152-c-a1918_x12,152-ap-ita,Secondary Gun,2
-bb-francesco-caracciolo_marcantonio-colonna,102-cp-a1917_x8,102-he-ita,Tertiary Gun,3
+bb-francesco-caracciolo_marcantonio-colonna,102-cp-a1917_x8,102-he-ita,AA Battery,3
 bb-francesco-caracciolo_marcantonio-colonna,40-cp-v1917_x12,40-he-ita,Tertiary Gun,4
 bb-francesco-caracciolo_marcantonio-colonna,450-tt-hull_x8-side,,,
 bb-francesco-caracciolo_marcantonio-colonna,placeholder_torpedo,,,
 bb-francesco-caracciolo_cristoforo-colombo,381-ag-an1914_abxy,381-ap-ita,Primary Gun,1
 bb-francesco-caracciolo_cristoforo-colombo,152-c-a1918_x12,152-ap-ita,Secondary Gun,2
-bb-francesco-caracciolo_cristoforo-colombo,102-cp-a1917_x8,102-he-ita,Tertiary Gun,3
+bb-francesco-caracciolo_cristoforo-colombo,102-cp-a1917_x8,102-he-ita,AA Battery,3
 bb-francesco-caracciolo_cristoforo-colombo,40-cp-v1917_x12,40-he-ita,Tertiary Gun,4
 bb-francesco-caracciolo_cristoforo-colombo,450-tt-hull_x8-side,,,
 bb-francesco-caracciolo_cristoforo-colombo,placeholder_torpedo,,,
 bb-andrea-doria,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
 bb-andrea-doria,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
 bb-andrea-doria,152-c-m1911_x16,152-ap-ita-early,Secondary Gun,2
-bb-andrea-doria,76-p-v1909_x18,76-ap-ita,Tertiary Gun,3
+bb-andrea-doria,76-p-v1909_x13-turret,76-ap-ita,Tertiary Gun,3
 bb-andrea-doria,450-tt-hull_x3-aft,,,
 bb-andrea-doria,placeholder_torpedo,,,
+bb-andrea-doria_1916,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
+bb-andrea-doria_1916,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
+bb-andrea-doria_1916,152-c-m1911_x16,152-ap-ita-early,Secondary Gun,2
+bb-andrea-doria_1916,76-p-rm-m1916_x6,76-ap-ita,AA Battery,3
+bb-andrea-doria_1916,76-p-v1909_x13-turret,76-ap-ita,Tertiary Gun,3
+bb-andrea-doria_1916,450-tt-hull_x3-aft,,,
+bb-andrea-doria_1916,placeholder_torpedo,,,
+bb-andrea-doria-1937,320-ag-m1934-tripple_ay,320-ap-ita,Primary Gun,1
+bb-andrea-doria-1937,320-ag-m1934-twin_bx,320-ap-ita,Primary Gun,1
+bb-andrea-doria-1937,135-ag-m1937-tripple_x4,135-apc_135-he-ita,Secondary Gun,2
+bb-andrea-doria-1937,90-ag-m1938_x10,90-he-aa-ita,AA Battery,3
+bb-andrea-doria-1937,37-cp-1932_x6,37-he-ita,AA Battery,4
+bb-andrea-doria-1937,37-cp-1939_x3,37-he-ita,AA Battery,4
+bb-andrea-doria-1937,20-sm-m1935_x8-ad,20-he-ita,AA Battery,5
 bb-conte-di-cavour,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
 bb-conte-di-cavour,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
 bb-conte-di-cavour,120-c-vickers-bl_x18,120-he-ita,Secondary Gun,2
-bb-conte-di-cavour,76-p-v1909_x18,76-ap-ita,Tertiary Gun,3
+bb-conte-di-cavour,76-p-v1909_x13-turret,76-ap-ita,Tertiary Gun,3
 bb-conte-di-cavour,450-tt-hull_x3-aft,,,
 bb-conte-di-cavour,placeholder_torpedo,,,
+bb-conte-di-cavour_1920,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
+bb-conte-di-cavour_1920,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
+bb-conte-di-cavour_1920,120-c-vickers-bl_x18,120-he-ita,Secondary Gun,2
+bb-conte-di-cavour_1920,76-p-rm-m1916_x6,76-ap-ita,AA Battery,3
+bb-conte-di-cavour_1920,76-p-v1909_x13-turret,76-ap-ita,Tertiary Gun,3
+bb-conte-di-cavour_1920,450-tt-hull_x3-aft,,,
+bb-conte-di-cavour_1920,placeholder_torpedo,,,
+bb-conte-di-cavour_1925,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
+bb-conte-di-cavour_1925,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
+bb-conte-di-cavour_1925,120-c-vickers-bl_x18,120-he-ita,Secondary Gun,2
+bb-conte-di-cavour_1925,76-p-rm-m1916_x6,76-ap-ita,AA Battery,3
+bb-conte-di-cavour_1925,76-p-v1909_x13-turret,76-ap-ita,Tertiary Gun,3
+bb-conte-di-cavour_1925,40-cp-vt-1915_x2,40-he-ita,AA Battery,4
+bb-conte-di-cavour_1925,450-tt-hull_x3-aft,,,
+bb-conte-di-cavour_1925,placeholder_torpedo,,,
+bb-conte-di-cavour-1933,320-ag-m1934-tripple_ay,320-ap-ita,Primary Gun,1
+bb-conte-di-cavour-1933,320-ag-m1934-twin_bx,320-ap-ita,Primary Gun,1
+bb-conte-di-cavour-1933,120-ag-oto-m1933_x6,120-he-ita-late,Secondary Gun,2
+bb-conte-di-cavour-1933,100-gs-m1924_x4,100-he-ita,Secondary Gun,3
+bb-conte-di-cavour-1933,37-cp-1932_x6-alt,37-he-ita,AA Battery,4
+bb-conte-di-cavour-1933,13-p-m1931-twin_x6,13-b-ita,AA Battery,5
+bb-conte-di-cavour-1933_1940,320-ag-m1934-tripple_ay,320-ap-ita,Primary Gun,1
+bb-conte-di-cavour-1933_1940,320-ag-m1934-twin_bx,320-ap-ita,Primary Gun,1
+bb-conte-di-cavour-1933_1940,120-ag-oto-m1933_x6,120-he-ita-late,Secondary Gun,2
+bb-conte-di-cavour-1933_1940,100-gs-m1924_x4,100-he-ita,Secondary Gun,3
+bb-conte-di-cavour-1933_1940,37-cp-1932_x6-alt,37-he-ita,AA Battery,4
+bb-conte-di-cavour-1933_1940,20-sm-m1935_x6,20-he-ita,AA Battery,5
+bb-conte-di-cavour-1933_1941,320-ag-m1934-tripple_ay,320-ap-ita,Primary Gun,1
+bb-conte-di-cavour-1933_1941,320-ag-m1934-twin_bx,320-ap-ita,Primary Gun,1
+bb-conte-di-cavour-1933_1941,120-ag-oto-m1933_x6,120-he-ita-late,Secondary Gun,2
+bb-conte-di-cavour-1933_1941,100-gs-m1924_x4,100-he-ita,Secondary Gun,3
+bb-conte-di-cavour-1933_1941,37-cp-1932_x8-alt,37-he-ita,AA Battery,4
+bb-conte-di-cavour-1933_1941,20-sm-m1935_x8-cc,20-he-ita,AA Battery,5
+bb-novorossiysk,320-ag-m1934-tripple_ay,320-ap-ita,Primary Gun,1
+bb-novorossiysk,320-ag-m1934-twin_bx,320-ap-ita,Primary Gun,1
+bb-novorossiysk,120-ag-oto-m1933_x6,120-he-ita-late,Secondary Gun,2
+bb-novorossiysk,100-gs-m1924_x4,100-he-ita,Secondary Gun,3
+bb-novorossiysk,37-cp-1932_x8-alt,37-he-ita,AA Battery,4
+bb-novorossiysk,20-sm-m1935_x8-cc,20-he-ita,AA Battery,5
 bb-dante-aligieri,305-bg-e1909-tripple_aqry,305-apc-ita,Primary Gun,1
 bb-dante-aligieri,120-ag-vickers-bl_x4,120-he-ita,Secondary Gun,2
 bb-dante-aligieri,120-c-vickers-bl_x12,120-he-ita,Secondary Gun,2
 bb-dante-aligieri,76-p-a1909_x13,76-ap-ita,Tertiary Gun,3
 bb-dante-aligieri,450-tt-hull_x3-aft,,,
 bb-dante-aligieri,placeholder_torpedo,,,
+bb-dante-aligieri_1915,305-bg-e1909-tripple_aqry,305-apc-ita,Primary Gun,1
+bb-dante-aligieri_1915,120-ag-vickers-bl_x4,120-he-ita,Secondary Gun,2
+bb-dante-aligieri_1915,120-c-vickers-bl_x12,120-he-ita,Secondary Gun,2
+bb-dante-aligieri_1915,76-p-v1909-aa_x4-turret,76-he-ita,AA Battery,3
+bb-dante-aligieri_1915,76-p-v1909_x12-turret,76-ap-ita,Tertiary Gun,3
+bb-dante-aligieri_1915,450-tt-hull_x3-aft,,,
+bb-dante-aligieri_1915,placeholder_torpedo,,,
+bb-dante-aligieri_1923,305-bg-e1909-tripple_aqry,305-apc-ita,Primary Gun,1
+bb-dante-aligieri_1923,120-ag-vickers-bl_x4,120-he-ita,Secondary Gun,2
+bb-dante-aligieri_1923,120-c-vickers-bl_x12,120-he-ita,Secondary Gun,2
+bb-dante-aligieri_1923,76-p-v1909-aa_x4-turret,76-he-ita,AA Battery,3
+bb-dante-aligieri_1923,76-p-v1909_x4-turret,76-ap-ita,Tertiary Gun,3
+bb-dante-aligieri_1923,40-cp-vt-1915_x2,40-he-ita,AA Battery,4
+bb-dante-aligieri_1923,450-tt-hull_x3-aft,,,
+bb-dante-aligieri_1923,placeholder_torpedo,,,
 pred-regina-elena,305-ag-elswick-i-single_ay,305-apc-ita-early,Primary Gun,1
 pred-regina-elena,203-ag-elswick-w_x6,203-ap-ita,Secondary Gun,2
 pred-regina-elena,76-p-a1909_x16,76-ap-ita,Tertiary Gun,3
@@ -3923,13 +3991,13 @@ pred-regina-margherita,47-p-m1886_x2,47-com-mk4,Tertiary Gun,5
 pred-regina-margherita,37-p-m1884_x2,37-he-ita-early,Tertiary Gun,6
 pred-regina-margherita,450-tt-hull_x4-side,,,
 pred-regina-margherita,placeholder_torpedo,,,
-pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,254-ag-elswick-r_ay,254-ap-eoc,Primary Gun,1
-pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,152-c-a91_x8,152-com-mod1,Secondary Gun,2
-pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,120-cp-m1889_x8,120-com-uk,Tertiary Gun,3
-pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,57-p-n1885_x8,57-ap-nord,Tertiary Gun,4
-pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,37-p-m1884_x2,37-he-ita-early,Security Gun,5
-pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,450-tt-hull_x4-side,,,
-pred-ammiraglio-di-saint-bon_ammiraglio-di-saint-bon,placeholder_torpedo,,,
+pred-ammiraglio-di-saint-bon,254-ag-elswick-r_ay,254-ap-eoc,Primary Gun,1
+pred-ammiraglio-di-saint-bon,152-c-a91_x8,152-com-mod1,Secondary Gun,2
+pred-ammiraglio-di-saint-bon,120-cp-m1889_x8,120-com-uk,Tertiary Gun,3
+pred-ammiraglio-di-saint-bon,57-p-n1885_x8,57-ap-nord,Tertiary Gun,4
+pred-ammiraglio-di-saint-bon,37-p-m1884_x2,37-he-ita-early,Security Gun,5
+pred-ammiraglio-di-saint-bon,450-tt-hull_x4-side,,,
+pred-ammiraglio-di-saint-bon,placeholder_torpedo,,,
 pred-ammiraglio-di-saint-bon_emanuele-filiberto,254-ag-elswick-r_ay,254-ap-eoc,Primary Gun,1
 pred-ammiraglio-di-saint-bon_emanuele-filiberto,152-c-a91_x8,152-com-mod1,Secondary Gun,2
 pred-ammiraglio-di-saint-bon_emanuele-filiberto,120-cp-m1889_x8,120-com-uk,Tertiary Gun,3

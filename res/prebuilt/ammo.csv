@@ -153,6 +153,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 7-b-79-mauser,7.9mm Mauser,germany,7.9,0.01,0,None,0.01,0,None,https://en.wikipedia.org/wiki/MG_08
 381-apc-ita,381mm APC,italy,381,885,10.16,TNT,0,0,,http://www.navweaps.com/Weapons/WNIT_15-50_m1934.php
 381-ap-ita,381mm AP,italy,381,884,,,0,0,,http://www.navweaps.com/Weapons/WNIT_15-40_m1914.php
+320-ap-ita,320mm AP,italy,320,525,,,0,0,,http://www.navweaps.com/Weapons/WNIT_126-44_m1934.php#Ammunition
 305-apc-ita,305mm APC,italy,305,452,,,0,0,,http://www.navweaps.com/Weapons/WNIT_12-46_m1909.php
 305-apc-ita-early,305mm APC (Early),italy,305,417,,,0,0,,http://www.navweaps.com/Weapons/WNIT_12-40.php
 305-apc-ita-early-light,305mm APC (Early),italy,305,390,,,0,0,,http://www.navweaps.com/Weapons/WNIT_12-40.php
@@ -160,8 +161,11 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 152-ap-ita,152mm AP,italy,152,50,1,,0,0,,http://www.navweaps.com/Weapons/WNIT_6-55_m1936.php
 152-ap-ita,152mm AP,italy,152,50,,,0,0,,https://en.wikipedia.org/wiki/Francesco_Caracciolo-class_battleship
 152-ap-ita-early,152mm AP (Early),italy,152,47,,,0,0,,https://en.wikipedia.org/wiki/Cannone_da_152/45
+135-apc_135-he-ita,135mm APC + 135mm HE,italy,135,32.7,,,32.7,,,http://www.navweaps.com/Weapons/WNIT_53-45_m1938.php#Ammunition
+120-he-ita-late,120mm HE,italy,120,23.2,,,0,0,,http://www.navweaps.com/Weapons/WNIT_47-50_m1926.php#Ammunition
 120-he-ita,120mm HE,italy,120,22.1,,,0,0,,https://en.wikipedia.org/wiki/Conte_di_Cavour-class_battleship#cite_note-c12-15
 102-he-ita,102mm HE,italy,102,13.7,,,13.7,,,http://www.navweaps.com/Weapons/WNIT_4-45_m1917.php
+100-he-ita,100mm HE,italy,100,13.8,,,13.8,,,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Ammunition
 90-he-aa-ita,90mm HE AA,italy,90,10.1,,,10.1,,,http://www.navweaps.com/Weapons/WNIT_35-50_m1939.php
 76-he-ita,76mm HE,italy,76,6,,,6,,,http://www.navweaps.com/Weapons/WNIT_3-50_m1909.php
 76-ap-ita,76mm AP,italy,76,6,,,0,0,,http://www.navweaps.com/Weapons/WNIT_3-50_m1909.php
@@ -169,6 +173,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 37-he-ita,37mm HE,italy,37,0.82,0.02,TNT,0.82,0.02,TNT,http://www.navweaps.com/Weapons/WNIT_37mm-54_m1932.php
 37-he-ita-early,37mm HE (Early),italy,37,0.51,0.01,Black Powder,0.51,,,http://navypedia.org/arms/italy/arms_it_guns.htm
 20-he-ita,20mm HE,italy,20,0.13,,,0.13,,,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
+13-b-ita,13.2mm Ball,italy,13.2,0.05,0,None,0.05,0,None,http://www.navweaps.com/Weapons/WNIT_132-757_m1931.php#Ammunition
 460-apc-type1,46cm APC Type 1,japan,460,1460,33.85,,0,0,,http://www.navweaps.com/Weapons/WNJAP_18-45_t94.php
 410-apc-type3,41cm APC Type 3,japan,410,1000,14.9,,0,0,,http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.php
 356-apc-type3,36cm APC Type 3,japan,356,635,11,,0,0,,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
