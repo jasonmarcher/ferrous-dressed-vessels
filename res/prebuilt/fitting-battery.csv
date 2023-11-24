@@ -4406,36 +4406,83 @@ bb-rivadavia,152-c-mk10_x12-alt,152-ap-4-bp,Secondary Gun,2
 bb-rivadavia,102-p-mk12_x16,102-com-mk6,Tertiary Gun,3
 bb-tegetthoff,305-ag-k10_abxy,305-ap-l34-2crh,Primary Gun,1
 bb-tegetthoff,150-c-k10_x12,150-ap-ahn,Secondary Gun,2
-bb-tegetthoff,66-p-k10_x18,66-he-ahn,Tertiary Gun,3
-bb-tegetthoff,66-p-l18-aa_x3,66-he-ahn,AA Battery,3
+bb-tegetthoff,66-p-k10_x12,66-he-ahn,Tertiary Gun,3
+bb-tegetthoff,66-p-k16_x3-turret,66-he-ahn,AA Battery,3
+bb-tegetthoff,47-p-sfk-l44_x2-sides,47-he-ahn,Tertiary Gun,4
+bb-tegetthoff,8-p-m07-12_x2-finder,8-b-mannlicher,AA Battery,5
 bb-tegetthoff,533-tt-hull_x4,,,
 bb-tegetthoff,placeholder_torpedo,,,
+bb-tegetthoff_1915,305-ag-k10_abxy,305-ap-l34-2crh,Primary Gun,1
+bb-tegetthoff_1915,150-c-k10_x12,150-ap-ahn,Secondary Gun,2
+bb-tegetthoff_1915,66-p-k10_x12,66-he-ahn,Tertiary Gun,3
+bb-tegetthoff_1915,66-p-k16_x6-turret,66-he-ahn,AA Battery,3
+bb-tegetthoff_1915,47-p-sfk-l44_x2-sides,47-he-ahn,Tertiary Gun,4
+bb-tegetthoff_1915,8-p-m07-12_x2-finder,8-b-mannlicher,AA Battery,5
+bb-tegetthoff_1915,533-tt-hull_x4,,,
+bb-tegetthoff_1915,placeholder_torpedo,,,
 pred-radetzky,305-ag-l45_ay,305-ap-l34-2crh,Primary Gun,1
 pred-radetzky,238-ag-l45_x4,238-apc-m08-l35,Secondary Gun,2
 pred-radetzky,100-c-k10_x20,100-ap-ahn,Secondary Gun,3
-pred-radetzky,66-p-l18_x2,66-he-ahn,Tertiary Gun,4
-pred-radetzky,47-p-sfk-l44_x4,47-he-ahn,Tertiary Gun,5
+pred-radetzky,47-p-sfk-l44_x4,47-he-ahn,Tertiary Gun,4
 pred-radetzky,450-tt-hull_x3-aft,,,
 pred-radetzky,placeholder_torpedo,,,
+pred-radetzky_1916,305-ag-l45_ay,305-ap-l34-2crh,Primary Gun,1
+pred-radetzky_1916,238-ag-l45_x4,238-apc-m08-l35,Secondary Gun,2
+pred-radetzky_1916,100-c-k10_x20,100-ap-ahn,Secondary Gun,3
+pred-radetzky_1916,66-p-k16_x4-turret,66-he-ahn,AA Battery,4
+pred-radetzky_1916,47-p-sfk-l44_x4,47-he-ahn,Tertiary Gun,5
+pred-radetzky_1916,450-tt-hull_x3-aft,,,
+pred-radetzky_1916,placeholder_torpedo,,,
 pred-erzherzog-karl,238-ag-l40-k01_ay,238-apc-l35,Primary Gun,1
 pred-erzherzog-karl,190-ag-l42_x4,190-apc-ahn,Secondary Gun,2
 pred-erzherzog-karl,190-c-l42_x8,190-apc-ahn,Secondary Gun,3
 pred-erzherzog-karl,66-p-sfk-l45_x12,66-he-ahn,Tertiary Gun,4
-pred-erzherzog-karl,47-p-sfk-l44_x4,47-he-ahn,Tertiary Gun,5
-pred-erzherzog-karl,47-p-sfk-l33_x2,47-he-ahn,Tertiary Gun,5
-pred-erzherzog-karl,37-p-marki_x4,37-he-ahn,Tertiary Gun,6
-pred-erzherzog-karl,8-p-unknown_x4,8-b-uknown,Security Gun,7
+pred-erzherzog-karl,47-p-sfk-l33_x2-mast,47-he-ahn,Tertiary Gun,5
 pred-erzherzog-karl,450-tt-hull_x2-side,,,
 pred-erzherzog-karl,placeholder_torpedo,,,
+pred-erzherzog-karl_1910,238-ag-l40-k01_ay,238-apc-l35,Primary Gun,1
+pred-erzherzog-karl_1910,190-ag-l42_x4,190-apc-ahn,Secondary Gun,2
+pred-erzherzog-karl_1910,190-c-l42_x8,190-apc-ahn,Secondary Gun,3
+pred-erzherzog-karl_1910,66-p-sfk-l45_x12,66-he-ahn,Tertiary Gun,4
+pred-erzherzog-karl_1910,47-p-sfk-l33_x2-mast,47-he-ahn,Tertiary Gun,5
+pred-erzherzog-karl_1910,37-p-marki-aa_x4,37-he-ahn,AA Battery,6
+pred-erzherzog-karl_1910,450-tt-hull_x2-side,,,
+pred-erzherzog-karl_1910,placeholder_torpedo,,,
+pred-erzherzog-karl_1916,238-ag-l40-k01_ay,238-apc-l35,Primary Gun,1
+pred-erzherzog-karl_1916,190-ag-l42_x4,190-apc-ahn,Secondary Gun,2
+pred-erzherzog-karl_1916,190-c-l42_x8,190-apc-ahn,Secondary Gun,3
+pred-erzherzog-karl_1916,66-p-sfk-l45_x12,66-he-ahn,Tertiary Gun,4
+pred-erzherzog-karl_1916,66-p-g-bag_x2-aft,66-he-ahn,AA Battery,4
+pred-erzherzog-karl_1916,47-p-sfk-l33_x2-mast,47-he-ahn,Tertiary Gun,5
+pred-erzherzog-karl_1916,37-p-marki-aa_x4,37-he-ahn,AA Battery,6
+pred-erzherzog-karl_1916,450-tt-hull_x2-side,,,
+pred-erzherzog-karl_1916,placeholder_torpedo,,,
+pred-erzherzog-karl_erzherzog-friedrich-1916,238-ag-l40-k01_ay,238-apc-l35,Primary Gun,1
+pred-erzherzog-karl_erzherzog-friedrich-1916,190-ag-l42_x4,190-apc-ahn,Secondary Gun,2
+pred-erzherzog-karl_erzherzog-friedrich-1916,190-c-l42_x8,190-apc-ahn,Secondary Gun,3
+pred-erzherzog-karl_erzherzog-friedrich-1916,66-p-sfk-l45_x12,66-he-ahn,Tertiary Gun,4
+pred-erzherzog-karl_erzherzog-friedrich-1916,66-p-g-bag_x4,66-he-ahn,AA Battery,4
+pred-erzherzog-karl_erzherzog-friedrich-1916,47-p-sfk-l33_x2-mast,47-he-ahn,Tertiary Gun,5
+pred-erzherzog-karl_erzherzog-friedrich-1916,37-p-marki-aa_x4,37-he-ahn,AA Battery,6
+pred-erzherzog-karl_erzherzog-friedrich-1916,450-tt-hull_x2-side,,,
+pred-erzherzog-karl_erzherzog-friedrich-1916,placeholder_torpedo,,,
 pred-habsburg,238-ag-l40-k97-twin_a,238-apc-l35,Primary Gun,1
 pred-habsburg,238-ag-l40-k97-single_y,238-apc-l35,Primary Gun,1
 pred-habsburg,149-c-mpl_x12-stack,149-ap-c01,Secondary Gun,2
 pred-habsburg,66-p-sfk-l45_x10,66-he-ahn,Tertiary Gun,3
 pred-habsburg,47-p-sfk-l44_x6,47-he-ahn,Tertiary Gun,4
-pred-habsburg,47-p-sfk-l33_x2-fore,47-he-ahn,Tertiary Gun,5
-pred-habsburg,8-p-unknown_x4,8-b-uknown,Security Gun,5
+pred-habsburg,47-p-sfk-l33_x4-mast,47-he-ahn,Tertiary Gun,5
 pred-habsburg,450-tt-hull_x2-side,,,
 pred-habsburg,placeholder_torpedo,,,
+pred-habsburg_1916,238-ag-l40-k97-twin_a,238-apc-l35,Primary Gun,1
+pred-habsburg_1916,238-ag-l40-k97-single_y,238-apc-l35,Primary Gun,1
+pred-habsburg_1916,149-c-mpl_x12-stack,149-ap-c01,Secondary Gun,2
+pred-habsburg_1916,66-p-sfk-l45_x10,66-he-ahn,Tertiary Gun,3
+pred-habsburg_1916,66-p-g-bag_x2-aft,66-he-ahn,AA Battery,4
+pred-habsburg_1916,47-p-sfk-l44_x6,47-he-ahn,Tertiary Gun,4
+pred-habsburg_1916,47-p-sfk-l33_x4-mast,47-he-ahn,Tertiary Gun,5
+pred-habsburg_1916,450-tt-hull_x2-side,,,
+pred-habsburg_1916,placeholder_torpedo,,,
 bb-salamis,356-ag-bethlehem_abxy,356-ap-early,Primary Gun,1
 bb-salamis,152-ag-mk6_x12,152-he-gre,Secondary Gun,2
 bb-salamis,76-p-mk2_x12-alt2,76-hc-mk24,Tertiary Gun,3

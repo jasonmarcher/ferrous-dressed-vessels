@@ -1131,7 +1131,12 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 66-p-l18-aa_x3,66,66-p-l18-aa,,1,2,1,3
 66-p-l18_x2-side,66,66-p-l18,,0,1,0,2
 66-p-l18_x2,66,66-p-l18,,1,2,1,2
-66-p-k10_x18,66,66-p-k10,,7,8,5,18
+66-p-k16_x6-turret,66,66-p-k16,,3,6,3,6
+66-p-k16_x4-turret,66,66-p-k16,,2,4,2,4
+66-p-k16_x3-turret,66,66-p-k16,,1,3,2,3
+66-p-k10_x12,66,66-p-k10,,3,4,1,12
+66-p-g-bag_x4,66,66-p-g-bag,,1,2,2,4
+66-p-g-bag_x2-aft,66,66-p-g-bag,,0,1,2,2
 65-p-m1902_x13,65,65-p-m1902,,2,6,3,13
 65-p-m1902_x10,65,65-p-m1902,,2,5,2,10
 65-p-m1902_x8,65,65-p-m1902,,2,4,2,8
@@ -1200,11 +1205,13 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 47-p-yamanouchi-mk1_x4,47,47-p-yamanouchi-mk1,,0,2,0,4
 47-p-yamanouchi-mk1_x4,47,47-p-yamanouchi-mk1,,0,2,0,4
 47-p-sfk-l44_x7,47,47-p-sfk-l44,,2,4,1,7
-47-p-sfk-l44_x6,47,47-p-sfk-l44,,2,3,1,6
+47-p-sfk-l44_x6,47,47-p-sfk-l44,,2,3,2,6
 47-p-sfk-l44_x4,47,47-p-sfk-l44,,1,2,1,4
+47-p-sfk-l44_x2-sides,47,47-p-sfk-l44,,0,1,0,2
+47-p-sfk-l33_x4-mast,47,47-p-sfk-l33,,1,2,1,2
+47-p-sfk-l33_x2-mast,47,47-p-sfk-l33,,1,1,1,2
 47-p-sfk-l33_x2-fore,47,47-p-sfk-l33,,1,1,0,2
 47-p-sfk-l33_x2-aft,47,47-p-sfk-l33,,0,1,2,2
-47-p-sfk-l33_x2,47,47-p-sfk-l33,,1,1,1,2
 47-p-revolver-m1885_x14,47,47-p-revolver-m1885,,1,7,1,14
 47-p-revolver-m1885_x4,47,47-p-revolver-m1885,,1,2,1,4
 47-p-m1885_x6-turret-top,47,47-p-revolver-m1885,,2,4,2,4
@@ -1505,6 +1512,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 37-p-mk6_x2,37,37-p-mk6,,1,1,0,2
 37-p-mk1-gatling_x2,37,37-p-mk1-gatling,,1,1,1,2
 37-p-maxim_x2-aft,37,37-p-maxim,,0,1,1,2
+37-p-marki-aa_x4,37,37-p-marki-aa,,2,2,2,4
 37-p-marki_x4,37,37-p-marki,,1,2,1,4
 37-p-m1885_x16,37,37-p-m1885,,,,,16
 37-p-m1885_x9,37,37-p-m1885,,2,2,3,9
@@ -1921,6 +1929,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 11-p-colt-1877-10_x4,11,11-p-colt-1877-10,,1,2,1,4
 11-p-colt-1877-10_x2,11,11-p-colt-1877-10,,1,0,1,2
 8-p-unknown_x4,8,8-p-unknown,,2,2,2,4
+8-p-m07-12_x2-finder,8,8-p-m07-12,,1,2,1,2
 7-mg-maxim-marki_x7,7.7,7-mg-maxim-marki,,2,3,1,7
 7-p-m1895_x4-alt,7.6,7-p-m1895,,2,1,2,4
 7-p-m1895_x4,7.6,7-p-m1895,,1,2,1,4

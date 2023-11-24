@@ -7,8 +7,9 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 150-bg-k10,15cm/50 L/50 K.10,Skoda 15cm,ahn,1910-01-01,149,47,,6,6,Breech,880,0,,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
 100-bg-m1924,100mm/47 OTO Model 1924,Skoda 10cm,ahn,1924-01-01,100,47,2177,10,8,Breech,850,0,500,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
 100-bg-k10,10cm/47 L/50 K.10,Skoda 10cm,ahn,1910-01-01,100,47,2020,10,8,Breech,880,0,500,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
-66-bg-k10,7cm/47 L/50 K.10,Skoda 7cm,ahn,1910-01-01,66,47,520,15,12,Breech,880,0,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
+66-bg-k10,7cm/50 L/50 K.10,Skoda 7cm,ahn,1910-01-01,66,47,520,15,12,Breech,880,880,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
 66-bg-sfk-l45,7cm/42 SFK L/45,Skoda 7cm,ahn,1892-01-01,66,42,630,15,12,Breech,700,0,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
+66-bg-g-bag,7cm/45 G. L/45 BAG,Skoda 7cm,ahn,1910-01-01,66,33,520,15,12,Breech,725,725,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
 66-bg-l18,7cm/16 L/18,Skoda 7cm,ahn,1895-01-01,66,16,98,20,20,Breech,320,320,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
 457-bg-marki,"18""/40 Mark I","British 18""",britain,1915-01-01,457,40,148000,1,1,Breech,683,0,60,http://www.navweaps.com/Weapons/WNBR_18-40_mk1.php
 412-bg-marki,"16.25""/30 Mark 1",Elswick 110-ton,britain,1885-01-01,412,30,112000,0.33,0.29,Breech,636,0,43,http://www.navweaps.com/Weapons/WNBR_162-30_mk1.php
@@ -221,7 +222,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 47-bg-hotchkiss,47mm/40 Hotchkiss,Hotchkiss 3-pdr,france,1883-01-01,47,40,236,25,20,Breech Semi-Automatic,701,0,,http://www.navweaps.com/Weapons/WNRussian_47mm_Hotchkiss.php
 47-bg-yamanouchi-mk1,2.5-pdr Yamanouchi Mark 1,Hotchkiss/Elswick 2.5-pdr,france,1894-01-01,47,30,127,25,20,Breech Semi-Automatic,432,0,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Japanese_service
 47-bg-sfk-l33,47mm/30 SFK L/33,Hotchkiss 3-pdr,france,1890-01-01,47,30,133,25,20,Breech Semi-Automatic,560,0,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Austro-Hungarian_service
-47-bg-revolver-m1885,47mm/20 Hotchkiss Revolving Cannon Model 1885,Hotchkiss 3-pdr Revolver,france,1885-01-01,47,20,,,,Breech Semi-Automatic,,0,,https://en.wikipedia.org/wiki/Hotchkiss_gun
+47-bg-revolver-m1885,47mm/20 Hotchkiss Revolving Cannon Model 1885,Hotchkiss 3-pdr Revolver,france,1885-01-01,47,20,,,,Breech Hand-Crank,,0,,https://en.wikipedia.org/wiki/Hotchkiss_gun
 37-bg-m1933,37mm/50 CAIL Model 1933,French 37mm,france,1933-01-01,37,50,300,30,20,Breech,810,810,1000,http://www.navweaps.com/Weapons/WNFR_37-50_cail_m1933.php
 37-bg-mk3,"1-pdr Hotchkiss Heavy, Long, Mark 1",Hotchkiss 1-pdr,france,1885-01-01,37,40,,25,20,Breech Semi-Automatic,610,0,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
 37-bg-m1884,1-pdr Hotchkiss M1884,Hotchkiss 1-pdr,france,1884-01-01,37,23,,25,20,Breech Semi-Automatic,442,0,780,http://navypedia.org/arms/italy/arms_it_guns.htm
@@ -264,6 +265,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 76-bg-34k-p1935,76.2mm/55 34-K Pattern 1935,,germany,1930-01-01,76.2,55,1263,18,15,Breech,813,813,300,http://www.navweaps.com/Weapons/WNRussian_3-55_m1935.php
 37-mg-sk-c30,3.7cm/83 SK C/30,Rheinmetall 3.7cm,germany,1930-01-01,37,83,243,30,30,Breech Autoloader,1000,1000,2000,http://www.navweaps.com/Weapons/WNGER_37mm-83_skc30.php
 20-mg-c38-aa-mg,2cm/65 C/38 AA MG,Rheinmetall 2cm,germany,1938-01-01,20,65,57.5,480,220,Breech Automatic,800,835,2000,http://www.navweaps.com/Weapons/WNGER_20mm-65_c30.php
+8-mg-m07-12,8mm/ Schwarzlose M.07/12,Schwarzlose M.07,germany,1904-01-01,8,,41,580,,Breech Automatic,594,594,,https://en.wikipedia.org/wiki/Schwarzlose_machine_gun
 381-bg-m1934,381mm/50 Model 1934,Gio. Ansaldo 381mm,italy,1934-01-01,381,50,111664,1.3,1.3,Breech,850,0,74,http://www.navweaps.com/Weapons/WNIT_15-50_m1934.php
 381-bg-an1914,381mm/40 Ansaldo 1914,Gio. Ansaldo 381mm,italy,1914-01-01,381,40,62600,2,1.5,Breech,700,700,,http://www.navweaps.com/Weapons/WNIT_15-40_m1914.php
 320-bg-m1934,320mm/44 Model 1934,Gio. Ansaldo 320mm,italy,1934-01-01,320,44,69972,2,2,Breech,830,0,100,http://www.navweaps.com/Weapons/WNIT_126-44_m1934.php
@@ -273,7 +275,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 120-bg-m1926,120mm/50 Model 1926,Gio. Ansaldo 120mm,italy,1926-01-01,120,50,5552,7,6,Breech,950,0,200,http://www.navweaps.com/Weapons/WNIT_47-50_m1926.php
 90-bg-m1938,90mm/50 Model 1938,Gio. Ansaldo 90mm,italy,1938-01-01,90,50,1960,16,12,Breech,860,860,490,http://www.navweaps.com/Weapons/WNIT_35-50_m1939.php
 37-mg-m1932,37mm/54 Model 1932,Breda 37mm,italy,1932-01-01,37,54,277,120,120,Breech Autoloader,800,800,1500,http://www.navweaps.com/Weapons/WNIT_37mm-54_m1932.php
-20-mg-m1935,20mm/65 Model 1935,Breda 20mm,italy,1935-01-01,20,65,72,240,120,Breech Autoloader,840,840,1500,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
+20-mg-m1935,20mm/65 Model 1935,Breda 20mm,italy,1935-01-01,20,65,72,240,120,Breech Automatic,840,840,1500,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
 13-mg-m1931,13.2 mm/75.7 AA MG Model 1931,Breda 13mm,italy,1931-01-01,13,75.7,47.5,500,,Breech Automatic,,,1500,http://www.navweaps.com/Weapons/WNIT_132-757_m1931.php
 460-bg-type94,40cm/45 Type 94,Japanese 460mm,japan,1939-01-01,460,45,164654,2,1.7,Breech,780,0,100,http://www.navweaps.com/Weapons/WNJAP_18-45_t94.php
 410-bg-3rd-year,41cm/45 3rd Year Type,Japanse 410mm,japan,1914-01-01,410,45,101600,2.5,1.5,Breech,790,0,90,http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.php
@@ -382,10 +384,10 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 37-bg-d-s,1-pdr/40 Mark 2 Mod 1,Driggs-Schroeder 1-pdr,usa,1885-01-01,37,40,,25,25,Breech Semi-Automatic,610,0,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
 37-mg-maxim,37mm/30 Maxim gun,Maxim 37mm,usa,1883-01-01,37,30,246,250,90,Breech Automatic,610,610,,http://www.navweaps.com/Weapons/WNRussian_37mm-30_maxim.php
 28-bg-mk1,"1.1""/75 Mark 1","US 1.1""",usa,1929-01-01,28,75,260,150,100,Breech Autoloader,823,823,,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php
-12-mg-mk3,"0.50""/90 Browning M2 MG","Browning 0.50""",usa,1930-01-01,12.7,90,,600,500,Breech Autoloader,893,893,,http://navypedia.org/arms/usa/arms_usa_guns.htm
-11-mg-colt-1877-10,"0.45""/40.5 1877 Gatling Gun 10 Barrel",Colt 1877 Gatling Gun,usa,1877-01-01,11.4,40.5,77,1200,600,Breech Hand-Crank,425,425,,https://usarmamentcorp.com/1877-gatling-gun/
-7-mg-mg08,7.9mm/91 MG 08,Maxim Gun,usa,1908-01-01,7.9,91,69,500,450,Breech Autoloader,878,878,,https://en.wikipedia.org/wiki/MG_08
-7-mg-mg01,7.9mm/91 MG 01,Maxim Gun,usa,1901-01-01,7.9,91,69,500,450,Breech Autoloader,878,878,,https://en.wikipedia.org/wiki/MG_08
-7-mg-maxim-marki,"0.303""/94 Maxim Machine Gun Mark I",Maxim Gun,usa,1884-01-01,7.7,94,26.5,500,400,Breech Autoloader,610,610,7000,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
-7-mg-m1895,"0.30""/94 M1895 Colt-Browning Machine Gun","Browning 0.30""",usa,1895-01-01,7.6,94,15.8,450,400,Breech Autoloader,853,853,,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
-7-mg-maxim,7.62mm/94 Maxim MG,Maxim Gun,usa,1884-01-01,7.6,94,26.5,580,520,Breech Autoloader,610,610,7000,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
+12-mg-mk3,"0.50""/90 Browning M2 MG","Browning 0.50""",usa,1930-01-01,12.7,90,,600,500,Breech Automatic,893,893,,http://navypedia.org/arms/usa/arms_usa_guns.htm
+11-mg-colt-1877-10,"0.45""/40.5 1877 Gatling Gun 10 Barrel",Colt 1877 Gatling Gun,usa,1877-01-01,11.4,40.5,77,1200,600,Breech Automatic,425,425,,https://usarmamentcorp.com/1877-gatling-gun/
+7-mg-mg08,7.9mm/91 MG 08,Maxim Gun,usa,1908-01-01,7.9,91,69,500,450,Breech Automatic,878,878,,https://en.wikipedia.org/wiki/MG_08
+7-mg-mg01,7.9mm/91 MG 01,Maxim Gun,usa,1901-01-01,7.9,91,69,500,450,Breech Automatic,878,878,,https://en.wikipedia.org/wiki/MG_08
+7-mg-maxim-marki,"0.303""/94 Maxim Machine Gun Mark I",Maxim Gun,usa,1884-01-01,7.7,94,26.5,500,400,Breech Automatic,610,610,7000,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
+7-mg-m1895,"0.30""/94 M1895 Colt-Browning Machine Gun","Browning 0.30""",usa,1895-01-01,7.6,94,15.8,450,400,Breech Automatic,853,853,,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
+7-mg-maxim,7.62mm/94 Maxim MG,Maxim Gun,usa,1884-01-01,7.6,94,26.5,580,520,Breech Automatic,610,610,7000,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
