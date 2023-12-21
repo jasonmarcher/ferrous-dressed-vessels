@@ -36,12 +36,15 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 254-ap-uk,"10"" AP (UK)",britain,254,227,,,0,0,,http://www.navweaps.com/Weapons/WNBR_10-32_mk1-4.php
 254-ap-eoc,254mm AP (Elswick),britain,254,227,,,0,0,,http://www.navweaps.com/Weapons/WNJAP_10-40_EOC.php
 254-palliser,"10"" Palliser",britain,254,186,1.56,,0,0,,https://en.wikipedia.org/wiki/RML_10-inch_18-ton_gun
-234-apc-2crh,"9.2"" APC 2crh",britain,234,172,5.9,,0,0,,http://www.navweaps.com/Weapons/WNBR_92-50_mk11.php
+234-apc-2crh,"9.2"" APC 2crh",britain,234,172.4,5.9,,0,0,,http://www.navweaps.com/Weapons/WNBR_92-50_mk11.php#Ammunition
 233-s-100pdr,100-pdr Solid,britain,233,45.3,0,None,0,0,,https://en.wikipedia.org/wiki/Somerset_cannon
 229-palliser,"9"" Palliser",britain,229,116,2.8,,0,0,,https://en.wikipedia.org/wiki/RML_9-inch_12-ton_gun
 206-s-68pdr-uk,68-pdr Solid,britain,206,30.8,0,None,0,0,,https://en.wikipedia.org/wiki/68-pounder_gun
+203-sapc-uk,"8"" SAPC",britain,203,116.1,5.2,,0,0,,http://www.navweaps.com/Weapons/WNBR_8-50_mk8.php#Ammunition
 203-palliser,"8"" Palliser",britain,203,79.3,,,0,0,,https://en.wikipedia.org/wiki/RML_8-inch_9-ton_gun
+190-sapc-uk,"7.5"" SAPC (UK)",britain,190,90.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_75-45_mk6.php#Ammunition
 190-apc-uk,"7.5"" APC (UK)",britain,190,90.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_75-50_mk3.php
+190-ap-uk,"7.5"" AP (UK)",britain,190,90.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_75-50_mk2.php#Ammunition
 178-palliser-markiii,"7"" Palliser Mark III",britain,178,52,1.13,,0,0,,https://en.wikipedia.org/wiki/RML_7-inch_gun
 178-s-110pdr,110-pdr Solid,britain,178,49.9,0,None,0,0,,https://en.wikipedia.org/wiki/RBL_7-inch_Armstrong_gun
 161-s-32pdr-uk,32-pdr Solid,britain,161,14.5,0,None,0,0,,https://en.wikipedia.org/wiki/32-pounder_gun
@@ -65,8 +68,10 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 76-he-uk-early,12-pdr HE (early),britain,76,5.7,,,5.7,,,http://www.navweaps.com/Weapons/WNBR_3-45_mk1.php
 76-he-2crh,12-pdr HE 2crh,britain,76,5.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_3-50_mk1.php
 76-com-12pdr,12-pdr Common,britain,76,5.1,,,0,0,,https://www.google.com/search?q=11+lb+4+oz+in+kg&sxsrf=ALiCzsa-IOE146oBHt7ff2QsEYg07K1aHQ%3A1661033472025&ei=AFwBY_OVAfyI0PEPntGEoAE&ved=0ahUKEwjzlb3wt9b5AhV8BDQIHZ4oARQQ4dUDCA4&uact=5&oq=11+lb+4+oz+in+kg&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAEB4QDxAWMgYIABAeEBYyCAgAEB4QDxAWMggIABAeEA8QFjIGCAAQHhAWMggIABAeEA8QFjIICAAQHhAPEBYyBggAEB4QFjIICAAQHhAPEBYyBQgAEIYDOgcIABBHELADOgQIABBDOgUIABCRAjoFCAAQgARKBAhBGABKBAhGGABQ8wRYghpgyxtoAnABeAGAAd8BiAGFBZIBBTYuMC4xmAEAoAEByAEIwAEB&sclient=gws-wiz
-57-he-uk,6-pdr HE,britain,57,2.7,0.1,,2.72,0.1,,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php
-47-he-uk,3-pdr HE (UK),britain,47,1.5,0.06,,1.5,0.06,,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
+57-he-aa-uk,6-pdr HE,britain,57,2.7,0.1,,2.72,0.1,,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php
+57-he-uk,6-pdr HE,britain,57,2.7,0.1,,0,0,,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php
+47-he-aa-uk,3-pdr HE (UK),britain,47,1.5,0.06,,1.5,0.06,,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
+47-he-uk,3-pdr HE (UK),britain,47,1.5,0.06,,0,0,,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
 40-he-uk,2-pdr HE (UK),britain,40,0.9,0.1,,0.9,0.1,,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 40-he-mark1,40mm HE (UK),britain,40,0.89,0.07,TNT,0.89,0.07,TNT,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-he-2pdr,2-pdr HE,britain,40,0.82,0.07,TNT,0.82,0.07,TNT,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
