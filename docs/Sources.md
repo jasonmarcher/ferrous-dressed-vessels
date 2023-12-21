@@ -10,6 +10,8 @@ http://www.navsource.org/
 
 https://en.wikipedia.org/
 
+https://www.world-war.co.uk/index.php
+
 ---
 
 ## Potential Sources
@@ -62,6 +64,10 @@ https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histor
 
 http://3decks.pbworks.com/w/page/913970/FrontPage
 
+https://www.naval-history.net/
+
+https://uboat.net/
+
 ### Submarines
 http://www.designed4submariners.com/Welcome_Page.html
 
@@ -83,8 +89,6 @@ https://www.pdavis.nl/MidVicShips.php?page=1
 https://freepages.rootsweb.com/~pbtyc/genealogy//18-1900/A/A.html
 
 https://www.tandfonline.com/doi/full/10.1080/00253359.2016.1167396
-
-https://uboat.net/
 
 https://ww2db.com/
 
@@ -131,8 +135,6 @@ https://wargamingmiscellanybackup.wordpress.com/2013/12/
 https://history.army.mil/documents/WWII/wwii_Troopships.pdf
 
 http://www.usmm.org/ships.html
-
-https://www.naval-history.net/
 
 https://www.bulletpicker.com/index.html
 
