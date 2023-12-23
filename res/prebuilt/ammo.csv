@@ -41,6 +41,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 229-palliser,"9"" Palliser",britain,229,116,2.8,,0,0,,https://en.wikipedia.org/wiki/RML_9-inch_12-ton_gun
 206-s-68pdr-uk,68-pdr Solid,britain,206,30.8,0,None,0,0,,https://en.wikipedia.org/wiki/68-pounder_gun
 203-sapc-uk,"8"" SAPC",britain,203,116.1,5.2,,0,0,,http://www.navweaps.com/Weapons/WNBR_8-50_mk8.php#Ammunition
+203-95kg-uk,"8"" Unknown (UK)",britain,203,95,,,0,0,,http://www.navweaps.com/Weapons/WNBR_8-26_mk1.php#8%22%2F26_%2820.3_cm%29_Mark_III
 203-palliser,"8"" Palliser",britain,203,79.3,,,0,0,,https://en.wikipedia.org/wiki/RML_8-inch_9-ton_gun
 190-sapc-uk,"7.5"" SAPC (UK)",britain,190,90.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_75-45_mk6.php#Ammunition
 190-apc-uk,"7.5"" APC (UK)",britain,190,90.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_75-50_mk3.php
@@ -55,6 +56,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 152-cpc-4crh,"6"" CPC 4crh",britain,152,45.3,3.4,,0,0,,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
 140-cpc-uk,"CPC 5.5"" (UK)",britain,140,37.2,2.4,,37.2,2.4,,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php
 134-sap-markic_134-he,SAP Mark IC + HE,britain,134,36.3,1.47,TNT,36.3,2.95,TNT,http://www.navweaps.com/Weapons/WNBR_525-50_mk1.php
+127-he-uk,"5"" HE (UK)",britain,127,22.7,,,0,0,,http://www.navweaps.com/Weapons/WNBR_5-25_mk1.php#Ammunition
 120-he-uk,"4"" HE (UK)",britain,120,34.5,22.7,,34.5,22.7,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-com-uk,"4"" Common (UK)",britain,120,20.4,3.1,,0,0,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-40pdr-unknown,40-pdr Solid,britain,120,18.2,0,None,0,0,,https://en.wikipedia.org/wiki/RBL_40-pounder_Armstrong_gun
