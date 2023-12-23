@@ -138,6 +138,8 @@ http://www.usmm.org/ships.html
 
 https://www.bulletpicker.com/index.html
 
+https://wargamingmiscellanybackup.wordpress.com/2013/12/
+
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
