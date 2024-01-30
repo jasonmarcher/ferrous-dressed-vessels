@@ -17,9 +17,17 @@ MountID,MountName,MountNation,MountType,NumberOfLaunchers,MagazineSize,LauncherS
 350-tt-hull,Unknown 350mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 178-up,"7"" UP Launcher",britain,Mount,20,1,https://en.wikipedia.org/wiki/Unrotated_Projectile#7-inch_rocket
 dcr-unknown,DCR (Unknown),,Fixed,1,,
+dct-mkiv,DCT Mark IV,britain,Fixed,1,1,http://www.navweaps.com/Weapons/WAMBR_ASW.php#Mark_IV
+dct-mki,DCT Mark I,britain,Fixed,1,1,http://www.navweaps.com/Weapons/WAMBR_ASW.php#Mark_I_and_Mark_II_Thornycroft
 dct-mk6-mk8,DCT Mark 6 (K-Gun),usa,Fixed,1,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Marks_6_and_9
 dcr-mk6-mk8,DCR Mark 6,usa,Fixed,1,6,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_62
 dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,9,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_32
+533-tt-quad-uk,533mm Quad (Britain),britain,Mount,4,1,
+533-tt-tripple-uk,533mm Tripple (Britain),britain,Mount,3,1,
+533-tt-dual-uk,533mm Dual (Britain),britain,Mount,2,1,
+533-tt-single-uk,533mm Single (Britain),britain,Mount,1,1,
 533-tt-mk15-quint,533mm Mark 15 Quintuple Tubes,usa,Mount,5,1,https://en.wikipedia.org/wiki/Mark_15_torpedo
 500-tt-dual-ger,500mm Dual (Germany),germany,Mount,2,1,
 500-tt-single-ger,500mm Single (Germany),germany,Mount,1,1,
+450-tt-single-uk,450mm Single (Britain),britain,Mount,1,1,
+356-tt-single-uk,356mm Single (Britain),britain,Mount,1,1,

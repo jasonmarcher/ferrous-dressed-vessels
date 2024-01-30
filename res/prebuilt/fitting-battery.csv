@@ -1861,7 +1861,7 @@ bb-barham-1930_1940,152-c-pix_x12-qe,152-cpbc-2crh,Secondary Gun,2
 bb-barham-1930_1940,102-cp-twin-ha-markxix_x4,102-he-markxix,Secondary Gun,3
 bb-barham-1930_1940,40-cp-markv_x2-side,40-he-2pdr,AA Battery,4
 bb-barham-1930_1940,12-cp-markii_x2-fore,12-b-uk,AA Battery,5
-bb-barham-1930_1940,178-up_x1,,AA Battery,6
+bb-barham-1930_1940,178-up_x1-fore,,AA Battery,6
 bb-barham-1930_1940,placeholder_unrotated-projectile,,,
 bb-warspite-1934_1941,381-ag-markii_abxy,381-apc-markia,Primary Gun,1
 bb-warspite-1934_1941,152-c-pix_x8-war,152-cpbc-2crh,Secondary Gun,2
@@ -1923,12 +1923,12 @@ bb-queen-elizabeth-1937_valiant-1944,20-p-markv_x6-turret,20-he-uk,AA Battery,4
 bb-queen-elizabeth-1937_valiant-1944,20-p-mark1_x35-valiant,20-he-uk,AA Battery,4
 bb-rio-de-janeiro,305-ag-special_abqrtxy,305-apc-markvi-2crh,Primary Gun,1
 bb-rio-de-janeiro,152-c-pxi_x18,152-cpc-4crh,Secondary Gun,2
-bb-rio-de-janeiro,76-gs-pi_x10,76-he-uk-early,Tertiary Gun,3
+bb-rio-de-janeiro,76-gs-45-pi_x10,76-he-uk-early,Tertiary Gun,3
 bb-rio-de-janeiro,533-tt-hull_x3-aft,,,
 bb-rio-de-janeiro,placeholder_torpedo,,,
 bb-agincourt,305-ag-special_abqrtxy,305-apc-markvi-2crh,Primary Gun,1
 bb-agincourt,152-c-pxi_x20,152-cpc-4crh,Secondary Gun,2
-bb-agincourt,76-gs-pi_x10,76-he-uk-early,Tertiary Gun,3
+bb-agincourt,76-gs-45-pi_x10,76-he-uk-early,Tertiary Gun,3
 bb-agincourt,76-cp-ha-markii_x2-fantail,76-he-uk-early,AA Battery,4
 bb-agincourt,533-tt-hull_x3-aft,,,
 bb-agincourt,placeholder_torpedo,,,
@@ -2245,7 +2245,7 @@ pred-duncan_1915-corn,450-tt-hull_x4-side,,,
 pred-duncan_1915-corn,placeholder_torpedo,,,
 pred-duncan_1916-alb,305-ag-bvi_ay,305-apc-markvi-2crh,Primary Gun,1
 pred-duncan_1916-alb,152-c-piii_x4,152-cpbc-2crh,Secondary Gun,2
-pred-duncan_1916-alb,152-gs-piii_x4,152-cpbc-2crh,Secondary Gun,2
+pred-duncan_1916-alb,152-gs-piii_x4-side,152-cpbc-2crh,Secondary Gun,2
 pred-duncan_1916-alb,76-p-pi_x6,76-he-13-uk,Tertiary Gun,3
 pred-duncan_1916-alb,76-cp-ha-markii_x2-aft-super,76-he-uk-early,AA Battery,4
 pred-duncan_1916-alb,57-p-marki-recoil_x6-mast,57-he-uk,Tertiary Gun,5
@@ -2253,7 +2253,7 @@ pred-duncan_1916-alb,450-tt-hull_x4-side,,,
 pred-duncan_1916-alb,placeholder_torpedo,,,
 pred-duncan_1917-alb,305-ag-bvi_ay,305-apc-markvi-2crh,Primary Gun,1
 pred-duncan_1917-alb,152-c-piii_x4,152-cpbc-2crh,Secondary Gun,2
-pred-duncan_1917-alb,152-gs-piii_x4,152-cpbc-2crh,Secondary Gun,2
+pred-duncan_1917-alb,152-gs-piii_x4-side,152-cpbc-2crh,Secondary Gun,2
 pred-duncan_1917-alb,76-cp-ha-markii_x2-aft-super,76-he-uk-early,AA Battery,4
 pred-duncan_1917-alb,57-p-marki-recoil_x6-mast,57-he-uk,Tertiary Gun,5
 pred-duncan_1917-alb,450-tt-hull_x4-side,,,
@@ -4461,19 +4461,19 @@ bc-deutschland,placeholder_torpedo,,,
 bt-hood,343-ct-marki_ay,343-ap-early-uk,Primary Gun,1
 bt-hood,152-p-pii_x6,152-cpc-4crh,Secondary Gun,2
 bt-hood,152-c-cpi_x4-side,152-cpc-4crh,Secondary Gun,2
-bt-hood,57-p-marki-recoil_x10,57-he-uk,Tertiary Gun,3
+bt-hood,57-p-marki-recoil_x10-hull,57-he-uk,Tertiary Gun,3
 bt-hood,47-p-marki_x10,47-he-uk,Tertiary Gun,4
 bt-hood,450-tt-hull_x5-bow,,,
 bt-hood,placeholder_torpedo,,,
 bt-hood_1903,343-ct-marki_ay,343-ap-early-uk,Primary Gun,1
 bt-hood_1903,152-p-pii_x6,152-cpc-4crh,Secondary Gun,2
 bt-hood_1903,152-c-cpi_x4-side,152-cpc-4crh,Secondary Gun,2
-bt-hood_1903,57-p-marki-recoil_x10,57-he-uk,Tertiary Gun,3
+bt-hood_1903,57-p-marki-recoil_x10-hull,57-he-uk,Tertiary Gun,3
 bt-hood_1903,47-p-marki_x10,47-he-uk,Tertiary Gun,4
 bt-hood_1903,450-tt-hull_x1-bow,,,
 bt-hood_1903,placeholder_torpedo,,,
 bt-hood_1910,343-ct-marki_ay,343-ap-early-uk,Primary Gun,1
-bt-hood_1910,57-p-marki-recoil_x10,57-he-uk,Tertiary Gun,2
+bt-hood_1910,57-p-marki-recoil_x10-hull,57-he-uk,Tertiary Gun,2
 bt-hood_1910,47-p-marki_x10,47-he-uk,Tertiary Gun,3
 bt-hood_1910,450-tt-hull_x1-bow,,,
 bt-hood_1910,placeholder_torpedo,,,
@@ -4681,28 +4681,28 @@ cb-alexandra_1897,57-p-marki-recoil_x6-side,57-he-uk,Tertiary Gun,4
 cb-alexandra_1897,47-p-marki_x12-mast-alt-2,47-he-uk,Tertiary Gun,5
 cb-alexandra_1897,356-tt-hull_x4-side,,,
 cb-alexandra_1897,placeholder_torpedo,,,
-cb-swiftsure,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
-cb-swiftsure,160-car-rml-64pdr-71cwt_x4,160-64pdr-com-shell,Primary Gun,2
-cb-swiftsure,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,3
-cb-swiftsure_1879,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
-cb-swiftsure_1879,102-piv-vbii_x8-side,102-he-small-uk,Secondary Gun,2
-cb-swiftsure_1879,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,3
-cb-swiftsure_1879,356-tt-hull_x4-side,,,
-cb-swiftsure_1879,placeholder_torpedo,,,
-cb-swiftsure_triumph,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
-cb-swiftsure_triumph,127-piv-vbi_x4,127-he-uk,Secondary Gun,2
-cb-swiftsure_triumph,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,3
-cb-swiftsure_triumph,57-p-marki-recoil_x8-side,57-he-uk,Tertiary Gun,4
-cb-swiftsure_triumph,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,5
-cb-swiftsure_triumph,356-tt-hull_x4-side,,,
-cb-swiftsure_triumph,placeholder_torpedo,,,
-cb-swiftsure_1886,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
-cb-swiftsure_1886,102-piv-vbii_x8-side,102-he-small-uk,Secondary Gun,2
-cb-swiftsure_1886,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,3
-cb-swiftsure_1886,57-p-marki-recoil_x4-alt,57-he-uk,Tertiary Gun,4
-cb-swiftsure_1886,47-p-marki_x4-mast,47-he-uk,Tertiary Gun,5
-cb-swiftsure_1886,356-tt-hull_x4-side,,,
-cb-swiftsure_1886,placeholder_torpedo,,,
+cb-minotaur,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
+cb-minotaur,160-car-rml-64pdr-71cwt_x4,160-64pdr-com-shell,Primary Gun,2
+cb-minotaur,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,3
+cb-minotaur_1879,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
+cb-minotaur_1879,102-piv-vbii_x8-side,102-he-small-uk,Secondary Gun,2
+cb-minotaur_1879,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,3
+cb-minotaur_1879,356-tt-hull_x4-side,,,
+cb-minotaur_1879,placeholder_torpedo,,,
+cb-minotaur_triumph,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
+cb-minotaur_triumph,127-piv-vbi_x4,127-he-uk,Secondary Gun,2
+cb-minotaur_triumph,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,3
+cb-minotaur_triumph,57-p-marki-recoil_x8-side,57-he-uk,Tertiary Gun,4
+cb-minotaur_triumph,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,5
+cb-minotaur_triumph,356-tt-hull_x4-side,,,
+cb-minotaur_triumph,placeholder_torpedo,,,
+cb-minotaur_1886,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
+cb-minotaur_1886,102-piv-vbii_x8-side,102-he-small-uk,Secondary Gun,2
+cb-minotaur_1886,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,3
+cb-minotaur_1886,57-p-marki-recoil_x4-alt,57-he-uk,Tertiary Gun,4
+cb-minotaur_1886,47-p-marki_x4-mast,47-he-uk,Tertiary Gun,5
+cb-minotaur_1886,356-tt-hull_x4-side,,,
+cb-minotaur_1886,placeholder_torpedo,,,
 cb-sultan,254-c-rml-18ton-marki_x8-side,254-palliser,Primary Gun,1
 cb-sultan,229-c-rml-12ton-marki_x4,229-palliser,Primary Gun,2
 cb-sultan,95-piv-rbl-20pdr-16cwt_x7,95-com-20pdr,Secondary Gun,3
@@ -4742,19 +4742,19 @@ cb-audacious_iron-duke-1878,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondar
 cb-audacious_iron-duke-1878,356-tt-hull_x4-side,,,
 cb-audacious_iron-duke-1878,placeholder_torpedo,,,
 cb-invincible_1883,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
-cb-invincible_1883,160-car-rml-64pdr-71cwt_x2-chase,160-64pdr-com-shell,Primary Gun,2
+cb-invincible_1883,160-car-rml-64pdr-71cwt_x2-chase-aft,160-64pdr-com-shell,Primary Gun,2
 cb-invincible_1883,102-piv-vbii_x6-side,102-he-small-uk,Secondary Gun,3
 cb-invincible_1883,356-tt-hull_x4-side,,,
 cb-invincible_1883,placeholder_torpedo,,,
 cb-audacious_1883,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
-cb-audacious_1883,160-car-rml-64pdr-71cwt_x2-chase,160-64pdr-com-shell,Primary Gun,2
+cb-audacious_1883,160-car-rml-64pdr-71cwt_x2-chase-aft,160-64pdr-com-shell,Primary Gun,2
 cb-audacious_1883,102-piv-vbii_x8-side,102-he-small-uk,Secondary Gun,3
 cb-audacious_1883,57-gs-marki-recoil_x4,57-he-uk,Tertiary Gun,4
 cb-audacious_1883,47-gs-marki_x6-f-a,47-he-uk,Tertiary Gun,5
 cb-audacious_1883,356-tt-hull_x4-side,,,
 cb-audacious_1883,placeholder_torpedo,,,
 cb-iron-duke-1883,229-c-rml-12ton-marki_x10,229-palliser,Primary Gun,1
-cb-iron-duke-1883,160-car-rml-64pdr-71cwt_x2-chase,160-64pdr-com-shell,Primary Gun,2
+cb-iron-duke-1883,160-car-rml-64pdr-71cwt_x2-chase-aft,160-64pdr-com-shell,Primary Gun,2
 cb-iron-duke-1883,127-piv-vbi_x4,127-he-uk,Secondary Gun,3
 cb-iron-duke-1883,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,4
 cb-iron-duke-1883,356-tt-hull_x4-side,,,
@@ -5741,6 +5741,7 @@ bi-gloire_normandie-1868,194-piv-m1864_x6-side,194-ap-fra-1864,Primary Gun,2
 bi-gloire_1869,240-c-m1864_x6-side,240-ap-fra-1864,Primary Gun,1
 bi-gloire_1869,194-piv-m1864_x4-side,194-ap-fra-1864,Primary Gun,2
 unarmed-hulk,,,,
+unarmed,,,,
 ca-des-moines,203-ag-rf_aby,203-ap-mk21_hc-mk24,Primary Gun,1
 ca-des-moines,127-ag-mk32_x6,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 ca-des-moines,76-cp-mk27_x12,76-aa-mk31,AA Battery,3
@@ -7216,17 +7217,17 @@ ca-london_sussex-1944,dcr-unknown_x1,,,
 ca-london_shropshire-1945-1,203-bg-marki_abxy,203-sapc-uk,Primary Gun,1
 ca-london_shropshire-1945-1,102-cp-twin-ha-markxix_x4,102-he-uk,Secondary Gun,2
 ca-london_shropshire-1945-1,40-cp-markvii_x2-howe,40-he-2pdr,AA Battery,3
-ca-london_shropshire-1945-1,40-cp-marki/iii_x11,40-he-mk1,AA Battery,4
-ca-london_shropshire-1945-1,20-p-markv_x2-london,20-he-uk,AA Battery,5
+ca-london_shropshire-1945-1,40-cp-markvii-single_x11,40-he-mk1,AA Battery,4
+ca-london_shropshire-1945-1,20-p-markv_x2-midship,20-he-uk,AA Battery,5
 ca-london_shropshire-1945-5,203-bg-marki_abxy,203-sapc-uk,Primary Gun,1
 ca-london_shropshire-1945-5,102-cp-twin-ha-markxix_x4,102-he-uk,Secondary Gun,2
 ca-london_shropshire-1945-5,40-cp-markvii_x2-howe,40-he-2pdr,AA Battery,3
-ca-london_shropshire-1945-5,40-cp-marki/iii_x15,40-he-mk1,AA Battery,4
-ca-london_shropshire-1945-5,20-p-markv_x2-london,20-he-uk,AA Battery,5
+ca-london_shropshire-1945-5,40-cp-markvii-single_x15,40-he-mk1,AA Battery,4
+ca-london_shropshire-1945-5,20-p-markv_x2-midship,20-he-uk,AA Battery,5
 ca-london-1939_1945,203-bg-marki_abxy,203-sapc-uk,Primary Gun,1
 ca-london-1939_1945,102-cp-twin-ha-markxix_x4-london,102-he-uk,Secondary Gun,2
 ca-london-1939_1945,40-cp-markv_x2-side,40-he-2pdr,AA Battery,3
-ca-london-1939_1945,40-cp-marki/iii_x4-london,40-he-mk1,AA Battery,4
+ca-london-1939_1945,40-cp-markvii-single_x4-midship,40-he-mk1,AA Battery,4
 ca-london-1939_1945,20-p-markv_x8-london,20-he-uk,AA Battery,5
 ca-london-1939_1945,20-p-mark1_x8-london,20-he-uk,AA Battery,5
 ca-london-1939_1945,533-tt-quad_x2,,,
@@ -7234,8 +7235,8 @@ ca-london-1939_1945,placeholder_torpedo,,,
 ca-london_shropshire-1946-2,203-bg-marki_abxy,203-sapc-uk,Primary Gun,1
 ca-london_shropshire-1946-2,102-cp-twin-ha-markxix_x4,102-he-uk,Secondary Gun,2
 ca-london_shropshire-1946-2,40-cp-markvii_x2-howe,40-he-2pdr,AA Battery,3
-ca-london_shropshire-1946-2,40-cp-marki/iii_x9,40-he-mk1,AA Battery,4
-ca-london_shropshire-1946-2,20-p-markv_x2-london,20-he-uk,AA Battery,5
+ca-london_shropshire-1946-2,40-cp-markvii-single_x9,40-he-mk1,AA Battery,4
+ca-london_shropshire-1946-2,20-p-markv_x2-midship,20-he-uk,AA Battery,5
 ca-london_devonshire-1947,203-bg-marki_a,203-sapc-uk,Primary Gun,1
 ca-london_devonshire-1947,102-cp-twin-ha-markxix_x2-fore,102-he-uk,Secondary Gun,2
 ca-norfolk,203-bg-marki_abxy,203-sapc-uk,Primary Gun,1
@@ -7464,7 +7465,7 @@ ac-duke-of-edinburgh_1916-3,47-p-marki_x22,47-he-uk,Tertiary Gun,3
 ac-duke-of-edinburgh_1916-3,450-tt-hull_x3-bow,,,
 ac-duke-of-edinburgh_1916-3,placeholder_torpedo,,,
 ac-duke-of-edinburgh_1917-5,234-ag-markv_x6,234-apc-2crh,Primary Gun,1
-ac-duke-of-edinburgh_1917-5,152-gs-pv_x8,152-cpc-4crh,Primary Gun,2
+ac-duke-of-edinburgh_1917-5,152-gs-pv_x8-alt,152-cpc-4crh,Primary Gun,2
 ac-duke-of-edinburgh_1917-5,47-p-marki_x22,47-he-uk,Tertiary Gun,3
 ac-duke-of-edinburgh_1917-5,450-tt-hull_x3-bow,,,
 ac-duke-of-edinburgh_1917-5,placeholder_torpedo,,,
@@ -7476,7 +7477,7 @@ ac-devonshire,450-tt-hull_x2-side,,,
 ac-devonshire,placeholder_torpedo,,,
 ac-devonshire_1915,190-ag-cp-marki_apsy,190-ap-uk,Primary Gun,1
 ac-devonshire_1915,152-c-piii_x2,152-cpbc-2crh,Primary Gun,2
-ac-devonshire_1915,152-gs-piii_x4,152-cpbc-2crh,Primary Gun,2
+ac-devonshire_1915,152-gs-piii_x4-side,152-cpbc-2crh,Primary Gun,2
 ac-devonshire_1915,76-p-pi_x2,76-he-2crh,Tertiary Gun,3
 ac-devonshire_1915,47-p-marki_x14-alt,47-he-uk,Tertiary Gun,4
 ac-devonshire_1915,450-tt-hull_x2-side,,,
@@ -7598,3 +7599,2124 @@ ac-shannon_1881,229-piv-rml-12ton-marki_x7,229-palliser,Primary Gun,2
 ac-shannon_1881,95-piv-rbl-20pdr-16cwt_x6,95-com-20pdr,Secondary Gun,3
 ac-shannon_1881,356-tt-hull_x4-side,,,
 ac-shannon_1881,placeholder_torpedo,,,
+ssow-comus,178-piv-rml-7ton-armstrong_x2-chase,178-palliser-markiii,Primary Gun,1
+ssow-comus,160-piv-rml-64pdr-71cwt_x8-sides,160-64pdr-com-shell,Primary Gun,2
+ssow-comus,152-gs-ab-marki_x4-sponsons,152-cpc-uk-early,Primary Gun,3
+ssow-comus,,,Secondary Gun,4
+ssow-comus,25-p-nordenfelt-markiii_x8,25-b-uk,Tertiary Gun,5
+ssow-comus,356-tt-hull_x2-side,,,
+ssow-comus,placeholder_torpedo,,,
+ssow-comus_curacoa,178-piv-rml-7ton-armstrong_x2-chase,178-palliser-markiii,Primary Gun,1
+ssow-comus_curacoa,160-piv-rml-64pdr-71cwt_x12-sides,160-64pdr-com-shell,Primary Gun,2
+ssow-comus_curacoa,,,Secondary Gun,3
+ssow-comus_curacoa,25-p-nordenfelt-markiii_x8,25-b-uk,Tertiary Gun,4
+ssow-comus_curacoa,356-tt-hull_x2-side,,,
+ssow-comus_curacoa,placeholder_torpedo,,,
+ssow-comus_canada,152-piv-ab-marki_x10,152-cpc-uk-early,Primary Gun,1
+ssow-comus_canada,,,Secondary Gun,2
+ssow-comus_canada,25-p-nordenfelt-markiii_x8,25-b-uk,Tertiary Gun,3
+ssow-comus_canada,356-tt-hull_x2-side,,,
+ssow-comus_canada,placeholder_torpedo,,,
+ssow-satellite,152-gs-ab-marki_x2,152-cpc-uk-early,Primary Gun,1
+ssow-satellite,127-piv-vbi_x10,127-he-uk,Primary Gun,2
+ssow-satellite,placeholder_11.4/87-machinegun,,Tertiary Gun,3
+ssow-satellite_heroine,152-gs-ab-marki_x8,152-cpc-uk-early,Primary Gun,1
+ssow-satellite_heroine,placeholder_11.4/87-machinegun,,Tertiary Gun,3
+ssow-satellite_caroline,127-piv-vbi_x14,127-he-uk,Primary Gun,1
+ssow-satellite_caroline,placeholder_11.4/87-machinegun,,Tertiary Gun,3
+ssow-calypso,152-gs-ab-marki_x4-sponsons,152-cpc-uk-early,Primary Gun,1
+ssow-calypso,127-piv-vbi_x12,127-he-uk,Primary Gun,2
+ssow-calypso,,,Secondary Gun,3
+ssow-calypso,placeholder_11.4/87-machinegun,,Tertiary Gun,4
+ssow-calypso,356-tt-hull_x2-side,,,
+ssow-calypso,placeholder_torpedo,,,
+pc-leander,152-gs-ab-marki_x4-sponsons,152-cpc-uk-early,Primary Gun,1
+pc-leander,152-piv-ab-marki_x6-side,152-cpc-uk-early,Primary Gun,1
+pc-leander,25-p-nordenfelt-markiii_x8,25-b-uk,Tertiary Gun,2
+pc-leander,placeholder_11.4/59-machinegun,,Tertiary Gun,3
+pc-leander,placeholder_11.4/59-machinegun,,Tertiary Gun,4
+pc-leander,356-tt-hull_x4-side,,,
+pc-leander,placeholder_torpedo,,,
+pc-leander,placeholder_torpedoboat,,,
+pc-leander_1883,152-gs-ab-marki_x4-sponsons,152-cpc-uk-early,Primary Gun,1
+pc-leander_1883,152-piv-ab-marki_x6-side,152-cpc-uk-early,Primary Gun,1
+pc-leander_1883,47-p-marki_x4,47-he-uk,Tertiary Gun,2
+pc-leander_1883,25-p-nordenfelt-markiii_x4-side,25-b-uk,Tertiary Gun,3
+pc-leander_1883,placeholder_11.4/59-machinegun,,Tertiary Gun,4
+pc-leander_1883,placeholder_11.4/59-machinegun,,Tertiary Gun,5
+pc-leander_1883,356-tt-hull_x4-side,,,
+pc-leander_1883,placeholder_torpedo,,,
+pc-leander_1883,placeholder_torpedoboat,,,
+pc-leander_arethusa,152-gs-ab-marki_x4-sponsons,152-cpc-uk-early,Primary Gun,1
+pc-leander_arethusa,152-piv-ab-marki_x6-side,152-cpc-uk-early,Primary Gun,1
+pc-leander_arethusa,47-p-marki_x8-alt,47-he-uk,Tertiary Gun,2
+pc-leander_arethusa,placeholder_11.4/87-machinegun,,Tertiary Gun,4
+pc-leander_arethusa,placeholder_11.4/59-machinegun,,Tertiary Gun,5
+pc-leander_arethusa,356-tt-hull_x4-side,,,
+pc-leander_arethusa,placeholder_torpedo,,,
+pc-leander_arethusa,placeholder_torpedoboat,,,
+pc-mersey,203-gs-vcp1_ay,203-95kg-uk,Primary Gun,1
+pc-mersey,152-gs-ab-marki_x10,152-cpc-uk-early,Primary Gun,2
+pc-mersey,57-p-marki-recoil_x3-hull,57-he-uk,Tertiary Gun,3
+pc-mersey,47-p-marki_x3-hull,47-he-uk,Tertiary Gun,4
+pc-mersey,placeholder_11.4/87-machinegun,,,5
+pc-mersey,356-tt-hull_x4,,,
+pc-mersey,placeholder_torpedo,,,
+pc-medea,152-gs-ab-marki_x6-medea,152-cpc-uk-early,Primary Gun,1
+pc-medea,57-p-marki-recoil_x9-hull,57-he-uk,Tertiary Gun,2
+pc-medea,47-p-marki_x1-aft,47-he-uk,Tertiary Gun,3
+pc-medea,placeholder_11.4/87-machinegun,,Tertiary Gun,4
+pc-medea,356-tt-hull_x4,,,
+pc-medea,placeholder_torpedo,,,
+pc-medea_1893,152-gs-qfc-markiii_x6-medea,152-cpc-4crh,Primary Gun,1
+pc-medea_1893,57-p-marki-recoil_x9-hull,57-he-uk,Tertiary Gun,2
+pc-medea_1893,47-p-marki_x1-aft,47-he-uk,Tertiary Gun,3
+pc-medea_1893,placeholder_11.4/87-machinegun,,Tertiary Gun,4
+pc-medea_1893,356-tt-hull_x4,,,
+pc-medea_1893,placeholder_torpedo,,,
+pc-apollo,152-gs-cpi_ay,152-cpc-4crh,Primary Gun,1
+pc-apollo,102-gs-pi_x6-side,102-he-wwi-uk,Primary Gun,2
+pc-apollo,57-p-marki-recoil_x8-side,57-he-uk,Tertiary Gun,3
+pc-apollo,47-p-marki_x1-aft,47-he-uk,Tertiary Gun,4
+pc-apollo,placeholder_11.4/87-machinegun,,Tertiary Gun,5
+pc-apollo,356-tt-hull_x4,,,
+pc-apollo,placeholder_torpedo,,,
+aml-thetis-1906,102-gs-pi_x4-side,102-he-wwi-uk,Primary Gun,1
+aml-thetis-1906,placeholder_mines,,,
+pc-barracouta,102-gs-pi_x6,102-he-wwi-uk,Primary Gun,1
+pc-barracouta,47-p-marki_x4-hull,47-he-uk,Tertiary Gun,2
+pc-barracouta,placeholder_11.4/87-machinegun,,Tertiary Gun,3
+pc-barracouta,356-tt-hull_x2-side,,,
+pc-barracouta,placeholder_torpedo,,,
+pc-beagle,127-gs-vbi_x8,127-he-uk,Primary Gun,1
+pc-beagle,25-p-nordenfelt-markiii_x4-side,25-b-uk,Tertiary Gun,2
+pc-beagle,placeholder_11.4/87-machinegun,,Tertiary Gun,3
+up-iris,160-piv-rml-64pdr-71cwt_x2-chase,160-64pdr-com-shell,Primary Gun,1
+up-iris,160-car-rml-64pdr-71cwt_x8-side,160-64pdr-com-shell,Primary Gun,1
+up-iris_1880,160-piv-rml-64pdr-71cwt_x2-chase,160-64pdr-com-shell,Primary Gun,1
+up-iris_1880,152-piv-ab-marki_x4-side,152-cpc-uk-early,Primary Gun,2
+up-iris_1880,127-piv-vbi_x4,127-he-uk,Primary Gun,3
+up-iris_1886,127-piv-vbi_x13,127-he-uk,Primary Gun,1
+up-iris_1886,47-p-marki_x4-hull,47-he-uk,Tertiary Gun,2
+up-iris_1886,356-tt-hull_x4-side,,,
+up-iris_1886,placeholder_torpedo,,,
+pc-blake,234-gs-vcpi_ay,234-apc-2crh,Primary Gun,1
+pc-blake,152-gs-cpi_x10-sponsons,152-cpc-4crh,Primary Gun,2
+pc-blake,47-p-marki_x16-blake,47-he-uk,Tertiary Gun,3
+pc-blake,356-tt-hull_x4,,,
+pc-blake,placeholder_torpedo,,,
+pc-blake_1906,,,Primary Gun,1
+pc-blake_1906,,,Primary Gun,2
+pc-blake_1906,,,Secondary Gun,3
+pc-pearl,120-gs-bdi_x8,120-com-uk,Primary Gun,1
+pc-pearl,47-p-marki_x8-hull,47-he-uk,Tertiary Gun,2
+pc-pearl,placeholder_11.4/87-machinegun,,Tertiary Gun,3
+pc-pearl,356-tt-hull_x4,,,
+pc-pearl,placeholder_torpedo,,,
+pc-barham,120-gs-bdi_x6-alt,120-com-uk,Primary Gun,1
+pc-barham,47-p-marki_x4-hull,47-he-uk,Tertiary Gun,2
+pc-barham,placeholder_11.4/87-machinegun,,Tertiary Gun,3
+pc-barham,356-tt-hull_x2-side,,,
+pc-barham,placeholder_torpedo,,,
+pc-edgar,234-gs-vcpi_ay,234-apc-2crh,Primary Gun,1
+pc-edgar,152-gs-cpi_x10-sponsons,152-cpc-4crh,Primary Gun,2
+pc-edgar,57-p-marki-recoil_x12-edgar,57-he-uk,Tertiary Gun,3
+pc-edgar,47-p-marki_x5-edgar,47-he-uk,Tertiary Gun,4
+pc-edgar,450-tt-hull_x4-side,,,
+pc-edgar,placeholder_torpedo,,,
+pc-edgar_1914,152-gs-cpi_x12-edgar,152-cpc-4crh,Primary Gun,1
+pc-edgar_1914,57-p-marki-recoil_x12-edgar,57-he-uk,Tertiary Gun,2
+pc-edgar_1914,47-p-marki_x5-edgar,47-he-uk,Tertiary Gun,3
+pc-edgar_1914,450-tt-hull_x4-side,,,
+pc-edgar_1914,placeholder_torpedo,,,
+pc-royal-arthur,234-gs-vcpi_y,234-apc-2crh,Primary Gun,1
+pc-royal-arthur,152-gs-cpi_x12-royal-arthur,152-cpc-4crh,Primary Gun,2
+pc-royal-arthur,57-p-marki-recoil_x12-royal-arthur,57-he-uk,Tertiary Gun,3
+pc-royal-arthur,47-p-marki_x5-edgar,47-he-uk,Tertiary Gun,4
+pc-royal-arthur,450-tt-hull_x4-side,,,
+pc-royal-arthur,placeholder_torpedo,,,
+pc-royal-arthur_1914,152-gs-cpi_x12-royal-arthur,152-cpc-4crh,Primary Gun,1
+pc-royal-arthur_1914,57-p-marki-recoil_x12-royal-arthur,57-he-uk,Tertiary Gun,2
+pc-royal-arthur_1914,47-p-marki_x5-edgar,47-he-uk,Tertiary Gun,3
+pc-royal-arthur_1914,450-tt-hull_x4-side,,,
+pc-royal-arthur_1914,placeholder_torpedo,,,
+pc-alert,120-gs-bdi_x6-alt,120-com-uk,Primary Gun,1
+pc-alert,47-p-marki_x4-hull,47-he-uk,Tertiary Gun,2
+pc-alert,placeholder_11.4/87-machinegun,,Tertiary Gun,3
+pc-powerful,234-ag-cpiv_ay,234-cpc-2crh,Primary Gun,1
+pc-powerful,152-c-cpi_x12,152-cpc-4crh,Primary Gun,2
+pc-powerful,76-p-pi_x16-hull,76-he-2crh,Tertiary Gun,3
+pc-powerful,47-p-marki_x16-mast,47-he-uk,Tertiary Gun,4
+pc-powerful,450-tt-hull_x4-side,,,
+pc-powerful,placeholder_torpedo,,,
+pc-powerful_1902,234-ag-cpiv_ay,234-cpc-2crh,Primary Gun,1
+pc-powerful_1902,152-c-cpi_x16,152-cpc-4crh,Primary Gun,2
+pc-powerful_1902,76-p-pi_x12-hull,76-he-2crh,Tertiary Gun,3
+pc-powerful_1902,47-p-marki_x16-mast,47-he-uk,Tertiary Gun,4
+pc-powerful_1902,450-tt-hull_x4-side,,,
+pc-powerful_1902,placeholder_torpedo,,,
+pc-powerful_1904,234-ag-cpiv_ay,234-cpc-2crh,Primary Gun,1
+pc-powerful_1904,152-c-cpi_x16,152-cpc-4crh,Primary Gun,2
+pc-powerful_1904,76-p-pi_x12-hull,76-he-2crh,Tertiary Gun,3
+pc-powerful_1904,450-tt-hull_x4-side,,,
+pc-powerful_1904,placeholder_torpedo,,,
+pc-powerful_terrible,152-c-cpi_x16,152-cpc-4crh,Primary Gun,1
+pc-powerful_terrible,76-p-pi_x12-hull,76-he-2crh,Tertiary Gun,2
+pc-powerful_terrible,450-tt-hull_x4-side,,,
+pc-powerful_terrible,placeholder_torpedo,,,
+pc-diadem,152-gs-cpi_x4-f-a,152-cpc-4crh,Primary Gun,1
+pc-diadem,152-c-cpi_x12,152-cpc-4crh,Primary Gun,1
+pc-diadem,76-p-pi_x12-hull-alt,76-he-2crh,Tertiary Gun,2
+pc-diadem,47-p-marki_x3-hull-alt,47-he-uk,Tertiary Gun,3
+pc-diadem,450-tt-hull_x3-aft,,,
+pc-diadem,placeholder_torpedo,,,
+aml-ariadne-1917,152-gs-cpi_x4-f-a,152-cpc-4crh,Primary Gun,1
+aml-ariadne-1917,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,2
+aml-ariadne-1917,placeholder_mines,,,
+pc-astraea,152-gs-cpi_ay,152-cpc-4crh,Primary Gun,1
+pc-astraea,120-gs-bdi_x8,120-com-uk,Primary Gun,2
+pc-astraea,57-p-marki-recoil_x10-hull,57-he-uk,Tertiary Gun,3
+pc-astraea,47-p-marki_x1-aft,47-he-uk,Tertiary Gun,4
+pc-astraea,450-tt-hull_x4-fore-aft,,,
+pc-astraea,placeholder_torpedo,,,
+pc-eclipse,152-gs-cpi_x5,152-cpc-4crh,Primary Gun,1
+pc-eclipse,120-gs-bdi_x6-alt-2,120-com-uk,Primary Gun,2
+pc-eclipse,76-gs-pi_x6-sides,76-he-2crh,Tertiary Gun,3
+pc-eclipse,47-p-marki_x6-hull-alt,47-he-uk,Tertiary Gun,4
+pc-eclipse,placeholder_11.4/87-machinegun,,Tertiary Gun,5
+pc-eclipse,450-tt-hull_x3-aft,,,
+pc-eclipse,placeholder_torpedo,,,
+pc-eclipse_1903,152-gs-piii_x11,152-cpbc-2crh,Primary Gun,1
+pc-eclipse_1903,76-gs-pi_x6-sides,76-he-2crh,Tertiary Gun,2
+pc-eclipse_1903,47-p-marki_x6-hull-alt,47-he-uk,Tertiary Gun,3
+pc-eclipse_1903,450-tt-hull_x3-aft,,,
+pc-eclipse_1903,placeholder_torpedo,,,
+pc-arrogant,152-gs-cpi_x4,152-cpc-4crh,Primary Gun,1
+pc-arrogant,120-gs-bdi_x6-alt-2,120-com-uk,Primary Gun,2
+pc-arrogant,76-gs-pi_x8-hull,76-he-2crh,Tertiary Gun,3
+pc-arrogant,47-p-marki_x3-mast,47-he-uk,Tertiary Gun,4
+pc-arrogant,placeholder_11.4/87-machinegun,,Tertiary Gun,5
+pc-arrogant,450-tt-hull_x3-aft,,,
+pc-arrogant,placeholder_torpedo,,,
+pc-arrogant_1903,152-gs-piii_x10,152-cpbc-2crh,Primary Gun,1
+pc-arrogant_1903,76-gs-pi_x8-hull,76-he-2crh,Tertiary Gun,2
+pc-arrogant_1903,47-p-marki_x3-mast,47-he-uk,Tertiary Gun,3
+pc-arrogant_1903,450-tt-hull_x3-aft,,,
+pc-arrogant_1903,placeholder_torpedo,,,
+lsi-vindictive-1923,,,Mortar Gun,1
+lsi-vindictive-1923,,,Mortar Gun,2
+lsi-vindictive-1923,152-gs-piii_x4,152-cpbc-2crh,Primary Gun,3
+lsi-vindictive-1923,,,Mortar Gun,4
+lsi-vindictive-1923,,,Tertiary Gun,5
+lsi-vindictive-1923,,,Tertiary Gun,6
+lsi-vindictive-1923,,,Tertiary Gun,7
+pc-phoenix,120-gs-bdi_x6-alt,120-com-uk,Primary Gun,1
+pc-phoenix,47-p-marki_x4-hull,47-he-uk,Tertiary Gun,2
+pc-phoenix,placeholder_11.4/87-machinegun,,Tertiary Gun,3
+pc-pelorus,102-gs-pi_x8,102-he-wwi-uk,Primary Gun,1
+pc-pelorus,47-p-marki_x8-hull,47-he-uk,Tertiary Gun,2
+pc-pelorus,7-mg-maxim-marki_x3,7-s-303-british,Tertiary Gun,3
+pc-pelorus,450-tt-hull_x2-side,,,
+pc-pelorus,placeholder_torpedo,,,
+pc-highflyer,152-gs-piii_x11,152-cpbc-2crh,Primary Gun,1
+pc-highflyer,76-gs-pi_x8-hull,76-he-2crh,Tertiary Gun,2
+pc-highflyer,47-p-marki_x6-mast,47-he-uk,Tertiary Gun,3
+pc-highflyer,450-tt-hull_x2-side,,,
+pc-highflyer,placeholder_torpedo,,,
+av-hermes-1913,152-gs-piii_x8,152-cpbc-2crh,Primary Gun,1
+av-hermes-1913,76-gs-pi_x8-hull,76-he-2crh,Tertiary Gun,2
+av-hermes-1913,47-p-marki_x6-mast,47-he-uk,Tertiary Gun,3
+av-hermes-1913,450-tt-hull_x2-side,,,
+av-hermes-1913,placeholder_torpedo,,,
+pc-condor,102-gs-pi_x6,102-he-wwi-uk,Primary Gun,1
+pc-condor,47-p-marki_x4-hull,47-he-uk,Tertiary Gun,2
+pc-cadmus,102-gs-pi_x6,102-he-wwi-uk,Primary Gun,1
+pc-cadmus,47-p-marki_x4-hull,47-he-uk,Tertiary Gun,2
+pc-cadmus,,,Tertiary Gun,3
+pc-challenger,152-gs-piii_x11,152-cpbc-2crh,Primary Gun,1
+pc-challenger,76-gs-pi_x8-hull,76-he-2crh,Tertiary Gun,2
+pc-challenger,47-p-marki_x6-mast,47-he-uk,Tertiary Gun,3
+pc-challenger,450-tt-hull_x2-side,,,
+pc-challenger,placeholder_torpedo,,,
+pc-topaze,102-gs-pi_x12,102-he-wwi-uk,Primary Gun,1
+pc-topaze,47-p-marki_x8-hull-alt,47-he-uk,Tertiary Gun,2
+pc-topaze,7-mg-maxim-marki_x4,7-s-303-british,Tertiary Gun,3
+pc-topaze,450-tt-hull_x2-side,,,
+pc-topaze,placeholder_torpedo,,,
+cs-sentinel,76-p-piv_x10-sent,76-he-2crh,Primary Gun,1
+cs-sentinel,47-p-marki_x8-alt,47-he-uk,Tertiary Gun,2
+cs-sentinel,450-tt-single-uk_x2,,,
+cs-sentinel,placeholder_torpedo,,,
+cs-sentinel_1906,76-p-piv_x12-sent,76-he-2crh,Primary Gun,1
+cs-sentinel_1906,57-p-marki-recoil_x6-alt,57-he-uk,Tertiary Gun,2
+cs-sentinel_1906,450-tt-single-uk_x2,,,
+cs-sentinel_1906,placeholder_torpedo,,,
+cs-sentinel_1912,102-p-pix_x9,102-he-wwi-uk,Primary Gun,1
+cs-sentinel_1912,450-tt-single-uk_x2,,,
+cs-sentinel_1912,placeholder_torpedo,,,
+cs-sentinel_1918,102-p-pix_x9,102-he-wwi-uk,Primary Gun,1
+cs-sentinel_1918,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-sentinel_1918,57-p-markic-ha_x1,57-he-aa-uk,AA Battery,3
+cs-sentinel_1918,47-p-markiv-ha_x1-fantail,47-he-aa-uk,AA Battery,4
+cs-sentinel_1918,450-tt-single-uk_x2,,,
+cs-sentinel_1918,placeholder_torpedo,,,
+cs-sentinel_sentinel-1918,102-p-pix_x9,102-he-wwi-uk,Primary Gun,1
+cs-sentinel_sentinel-1918,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-sentinel_sentinel-1918,57-p-markic-ha_x1,57-he-aa-uk,AA Battery,3
+cs-sentinel_sentinel-1918,450-tt-single-uk_x2,,,
+cs-sentinel_sentinel-1918,placeholder_torpedo,,,
+cs-pathfinder,76-p-piv_x10-sent,76-he-2crh,Primary Gun,1
+cs-pathfinder,47-p-marki_x8-alt,47-he-uk,Tertiary Gun,2
+cs-pathfinder,450-tt-single-uk_x2,,,
+cs-pathfinder,placeholder_torpedo,,,
+cs-pathfinder_1906,76-p-piv_x12-sent,76-he-2crh,Primary Gun,1
+cs-pathfinder_1906,57-p-marki-recoil_x6-alt,57-he-uk,Tertiary Gun,2
+cs-pathfinder_1906,450-tt-single-uk_x2,,,
+cs-pathfinder_1906,placeholder_torpedo,,,
+cs-pathfinder_1912,102-p-pix_x9,102-he-wwi-uk,Primary Gun,1
+cs-pathfinder_1912,450-tt-single-uk_x2,,,
+cs-pathfinder_1912,placeholder_torpedo,,,
+cs-pathfinder_1918,102-p-pix_x9,102-he-wwi-uk,Primary Gun,1
+cs-pathfinder_1918,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-pathfinder_1918,450-tt-single-uk_x2,,,
+cs-pathfinder_1918,placeholder_torpedo,,,
+cs-forward,76-p-piv_x10-sent,76-he-2crh,Primary Gun,1
+cs-forward,47-p-marki_x8-alt,47-he-uk,Tertiary Gun,2
+cs-forward,450-tt-single-uk_x2,,,
+cs-forward,placeholder_torpedo,,,
+cs-forward_1906,76-p-piv_x12-sent,76-he-2crh,Primary Gun,1
+cs-forward_1906,57-p-marki-recoil_x6-alt,57-he-uk,Tertiary Gun,2
+cs-forward_1906,450-tt-single-uk_x2,,,
+cs-forward_1906,placeholder_torpedo,,,
+cs-forward_1912,102-p-pix_x9,102-he-wwi-uk,Primary Gun,1
+cs-forward_1912,450-tt-single-uk_x2,,,
+cs-forward_1912,placeholder_torpedo,,,
+cs-forward_1918,102-p-pix_x9,102-he-wwi-uk,Primary Gun,1
+cs-forward_1918,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-forward_1918,450-tt-single-uk_x2,,,
+cs-forward_1918,placeholder_torpedo,,,
+cs-adventure,76-p-piv_x10-sent,76-he-2crh,Primary Gun,1
+cs-adventure,47-p-marki_x8-alt,47-he-uk,Tertiary Gun,2
+cs-adventure,450-tt-single-uk_x2,,,
+cs-adventure,placeholder_torpedo,,,
+cs-adventure_1906,76-p-piv_x12-sent,76-he-2crh,Primary Gun,1
+cs-adventure_1906,57-p-marki-recoil_x6-alt,57-he-uk,Tertiary Gun,2
+cs-adventure_1906,450-tt-single-uk_x2,,,
+cs-adventure_1906,placeholder_torpedo,,,
+cs-adventure_1912,102-p-pix_x9,102-he-wwi-uk,Primary Gun,1
+cs-adventure_1912,450-tt-single-uk_x2,,,
+cs-adventure_1912,placeholder_torpedo,,,
+cs-adventure_attentive-1918,152-gs-piii_ay,152-cpbc-2crh,Primary Gun,1
+cs-adventure_attentive-1918,102-p-pix_x6,102-he-wwi-uk,Primary Gun,2
+cs-adventure_attentive-1918,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,3
+cs-adventure_attentive-1918,57-p-markic-ha_x1,57-he-aa-uk,AA Battery,4
+cs-adventure_attentive-1918,40-p-markii_x2-aft,40-he-uk,AA Battery,
+cs-adventure_attentive-1918,356-tt-single-uk_x2,,,
+cs-adventure_attentive-1918,placeholder_torpedo,,,
+cs-boadicea,102-cp-pii_x6-boadicea,102-he-small-uk,Primary Gun,1
+cs-boadicea,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,2
+cs-boadicea,450-tt-single-uk_x2,,,
+cs-boadicea,placeholder_torpedo,,,
+cs-boadicea_1916,102-cp-pii_x10-boadicea,102-he-small-uk,Primary Gun,1
+cs-boadicea_1916,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-boadicea_1916,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,3
+cs-boadicea_1916,450-tt-single-uk_x2,,,
+cs-boadicea_1916,placeholder_torpedo,,,
+cs-boadicea_1917,102-cp-pii_x10-boadicea,102-he-small-uk,Primary Gun,1
+cs-boadicea_1917,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-boadicea_1917,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,3
+cs-boadicea_1917,450-tt-single-uk_x2,,,
+cs-boadicea_1917,placeholder_torpedo,,,
+cs-boadicea_1917,placeholder_mines,,,
+cs-boadicea_1918,102-cp-pii_x10-boadicea,102-he-small-uk,Primary Gun,1
+cs-boadicea_1918,102-cp-ha-markii_x1-fantail,102-he-uk,AA Battery,1
+cs-boadicea_1918,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,2
+cs-boadicea_1918,450-tt-single-uk_x2,,,
+cs-boadicea_1918,placeholder_torpedo,,,
+cs-boadicea_1918,placeholder_mines,,,
+cs-blonde,102-cp-pii_x10-boadicea,102-he-small-uk,Primary Gun,1
+cs-blonde,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,2
+cs-blonde,533-tt-single-uk_x2,,,
+cs-blonde,placeholder_torpedo,,,
+cs-blonde_1916,102-cp-pii_x10-boadicea,102-he-small-uk,Primary Gun,1
+cs-blonde_1916,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-blonde_1916,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,3
+cs-blonde_1916,533-tt-single-uk_x2,,,
+cs-blonde_1916,placeholder_torpedo,,,
+cs-blonde_1917,102-cp-pii_x10-boadicea,102-he-small-uk,Primary Gun,1
+cs-blonde_1917,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-blonde_1917,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,3
+cs-blonde_1917,533-tt-single-uk_x2,,,
+cs-blonde_1917,placeholder_torpedo,,,
+cs-blonde_1917,placeholder_mines,,,
+cs-blonde_1918,102-cp-pii_x10-boadicea,102-he-small-uk,Primary Gun,1
+cs-blonde_1918,102-cp-ha-markii_x1-fantail,102-he-uk,AA Battery,1
+cs-blonde_1918,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,2
+cs-blonde_1918,533-tt-single-uk_x2,,,
+cs-blonde_1918,placeholder_torpedo,,,
+cs-blonde_1918,placeholder_mines,,,
+cs-active,102-cp-pii_x10-boadicea,102-he-small-uk,Primary Gun,1
+cs-active,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,2
+cs-active,450-tt-single-uk_x2,,,
+cs-active,placeholder_torpedo,,,
+cs-active_1916,102-cp-pii_x10-boadicea,102-he-small-uk,Primary Gun,1
+cs-active_1916,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-active_1916,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,3
+cs-active_1916,450-tt-single-uk_x2,,,
+cs-active_1916,placeholder_torpedo,,,
+cs-active_1918,102-cp-pii_x8-active,102-he-small-uk,Primary Gun,1
+cs-active_1918,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cs-active_1918,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,3
+cs-active_1918,450-tt-single-uk_x2,,,
+cs-active_1918,placeholder_torpedo,,,
+cl-bristol,152-gs-pv_ay,152-cpc-4crh,Primary Gun,1
+cl-bristol,102-gs-pii_x10,102-he-small-uk,Primary Gun,2
+cl-bristol,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,3
+cl-bristol,450-tt-hull_x2-side,,,
+cl-bristol,placeholder_torpedo,,,
+cl-bristol_1915,152-gs-pv_ay,152-cpc-4crh,Primary Gun,1
+cl-bristol_1915,102-gs-pii_x10,102-he-small-uk,Primary Gun,2
+cl-bristol_1915,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,3
+cl-bristol_1915,47-p-marki-la_x4-boadicea,47-he-uk,Tertiary Gun,4
+cl-bristol_1915,450-tt-hull_x2-side,,,
+cl-bristol_1915,placeholder_torpedo,,,
+cl-weymouth,152-gs-pv_x8-wey,152-cpc-4crh,Primary Gun,1
+cl-weymouth,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,2
+cl-weymouth,533-tt-hull_x2-side,,,
+cl-weymouth,placeholder_torpedo,,,
+cl-weymouth_1915,152-gs-pv_x8-wey,152-cpc-4crh,Primary Gun,1
+cl-weymouth_1915,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,2
+cl-weymouth_1915,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-weymouth_1915,533-tt-hull_x2-side,,,
+cl-weymouth_1915,placeholder_torpedo,,,
+cl-weymouth_1918,152-gs-pv_x8-wey,152-cpc-4crh,Primary Gun,1
+cl-weymouth_1918,76-cp-ha-markii_x2-midship,76-he-uk-early,AA Battery,2
+cl-weymouth_1918,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-weymouth_1918,533-tt-hull_x2-side,,,
+cl-weymouth_1918,placeholder_torpedo,,,
+cl-chatham,152-gs-pv_x8-wey,152-cpc-4crh,Primary Gun,1
+cl-chatham,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,2
+cl-chatham,533-tt-hull_x2-side,,,
+cl-chatham,placeholder_torpedo,,,
+cl-chatham_1915,152-gs-pv_x8-wey,152-cpc-4crh,Primary Gun,1
+cl-chatham_1915,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,2
+cl-chatham_1915,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-chatham_1915,533-tt-hull_x2-side,,,
+cl-chatham_1915,placeholder_torpedo,,,
+cl-birmingham,152-gs-pvii_x9,152-cpbc-2crh,Primary Gun,1
+cl-birmingham,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,2
+cl-birmingham,533-tt-hull_x2-side,,,
+cl-birmingham,placeholder_torpedo,,,
+cl-birmingham_1915,152-gs-pvii_x9,152-cpbc-2crh,Primary Gun,1
+cl-birmingham_1915,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,2
+cl-birmingham_1915,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-birmingham_1915,533-tt-hull_x2-side,,,
+cl-birmingham_1915,placeholder_torpedo,,,
+cl-adelaide-1915,152-gs-pvii_x9,152-cpbc-2crh,Primary Gun,1
+cl-adelaide-1915,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,2
+cl-adelaide-1915,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-adelaide-1915,,,AA Battery,4
+cl-adelaide-1915,533-tt-hull_x2-side,,,
+cl-adelaide-1915,placeholder_torpedo,,,
+cl-adelaide-1938,152-gs-pvii_x8,152-cpbc-2crh,Primary Gun,1
+cl-adelaide-1938,102-cp-ha-markiii_x3-adelaide,102-he-uk,AA Battery,2
+cl-adelaide-1938,,,AA Battery,3
+cl-adelaide-1938_1942,152-gs-pvii_x8,152-cpbc-2crh,Primary Gun,1
+cl-adelaide-1938_1942,102-cp-ha-markiii_x3-adelaide,102-he-uk,AA Battery,2
+cl-adelaide-1938_1942,20-p-mark1_x6-adelaide,20-he-uk,AA Battery,3
+cl-adelaide-1938_1943,152-gs-pvii_x7,152-cpbc-2crh,Primary Gun,1
+cl-adelaide-1938_1943,102-cp-ha-markiii_x2-aft-alt,102-he-uk,AA Battery,2
+cl-adelaide-1938_1943,20-p-mark1_x6-adelaide,20-he-uk,AA Battery,3
+cl-adelaide-1938_1943,dct-mkiv_x4,,,
+cl-antinavarchos-kountouriotis,140-gs-pi_x10,140-cpc-uk,Primary Gun,1
+cl-antinavarchos-kountouriotis,47-p-markiii-ha_x2-aft,47-he-uk,AA Battery,2
+cl-antinavarchos-kountouriotis,533-tt-hull_x2-side,,,
+cl-antinavarchos-kountouriotis,placeholder_torpedo,,,
+cl-antinavarchos-kountouriotis_birkenhead,140-gs-pi_x10,140-cpc-uk,Primary Gun,1
+cl-antinavarchos-kountouriotis_birkenhead,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,2
+cl-antinavarchos-kountouriotis_birkenhead,533-tt-hull_x2-side,,,
+cl-antinavarchos-kountouriotis_birkenhead,placeholder_torpedo,,,
+cl-arethusa-1913,152-gs-pvii_ay,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913,102-gs-pxi_x6,102-he-uk,Primary Gun,2
+cl-arethusa-1913,47-p-markiii-ha_x1-aft,47-he-uk,AA Battery,3
+cl-arethusa-1913,533-tt-dual-uk_x2,,,
+cl-arethusa-1913,placeholder_torpedo,,,
+cl-arethusa-1913_1915,152-gs-pvii_ay,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913_1915,102-gs-pxi_x6,102-he-uk,Primary Gun,2
+cl-arethusa-1913_1915,76-cp-ha-markii_x1-aft,76-he-uk-early,AA Battery,3
+cl-arethusa-1913_1915,533-tt-dual-uk_x2,,,
+cl-arethusa-1913_1915,placeholder_torpedo,,,
+cl-arethusa-1913_aurora-1917,152-gs-pvii_ay,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913_aurora-1917,102-gs-pxi_x6,102-he-uk,Primary Gun,2
+cl-arethusa-1913_aurora-1917,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,3
+cl-arethusa-1913_aurora-1917,533-tt-dual-uk_x4,,,
+cl-arethusa-1913_aurora-1917,placeholder_torpedo,,,
+cl-arethusa-1913_aurora-1917,placeholder_mines,,,
+cl-arethusa-1913_galatea-1917,152-gs-pvii_ay,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913_galatea-1917,102-gs-pxi_x6,102-he-uk,Primary Gun,2
+cl-arethusa-1913_galatea-1917,47-p-markiii-ha_x1-aft,47-he-uk,AA Battery,3
+cl-arethusa-1913_galatea-1917,533-tt-dual-uk_x4,,,
+cl-arethusa-1913_galatea-1917,placeholder_torpedo,,,
+cl-arethusa-1913_galatea-1917,placeholder_mines,,,
+cl-arethusa-1913_penelope-1917,152-gs-pvii_ay,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913_penelope-1917,102-gs-pxi_x6,102-he-uk,Primary Gun,2
+cl-arethusa-1913_penelope-1917,102-cp-ha-markiii_x1-fantail,102-he-uk,AA Battery,2
+cl-arethusa-1913_penelope-1917,533-tt-dual-uk_x4,,,
+cl-arethusa-1913_penelope-1917,placeholder_torpedo,,,
+cl-arethusa-1913_penelope-1917,placeholder_mines,,,
+cl-arethusa-1913_undaunted-1917,152-gs-pvii_ay,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913_undaunted-1917,102-gs-pxi_x6,102-he-uk,Primary Gun,2
+cl-arethusa-1913_undaunted-1917,102-cp-ha-markiii_x1-fantail,102-he-uk,AA Battery,2
+cl-arethusa-1913_undaunted-1917,533-tt-dual-uk_x4,,,
+cl-arethusa-1913_undaunted-1917,placeholder_torpedo,,,
+cl-arethusa-1913_inconstant-1918,152-gs-pvii_aqy,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913_inconstant-1918,102-gs-pxi_x4-arethusa,102-he-uk,Primary Gun,2
+cl-arethusa-1913_inconstant-1918,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,3
+cl-arethusa-1913_inconstant-1918,533-tt-dual-uk_x4,,,
+cl-arethusa-1913_inconstant-1918,placeholder_torpedo,,,
+cl-arethusa-1913_inconstant-1918,placeholder_mines,,,
+cl-arethusa-1913_galatea-1918,152-gs-pvii_aqy,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913_galatea-1918,102-gs-pxi_x6,102-he-uk,Primary Gun,2
+cl-arethusa-1913_galatea-1918,76-cp-ha-markii_x1,76-he-uk-early,AA Battery,3
+cl-arethusa-1913_galatea-1918,47-p-markiii-ha_x1-aft,47-he-uk,AA Battery,4
+cl-arethusa-1913_galatea-1918,533-tt-dual-uk_x4,,,
+cl-arethusa-1913_galatea-1918,placeholder_torpedo,,,
+cl-arethusa-1913_galatea-1918,placeholder_mines,,,
+cl-arethusa-1913_penelope-1918,152-gs-pvii_aqy,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913_penelope-1918,102-gs-pxi_x6,102-he-uk,Primary Gun,2
+cl-arethusa-1913_penelope-1918,102-cp-ha-markiii_x1-fantail,102-he-uk,AA Battery,2
+cl-arethusa-1913_penelope-1918,533-tt-dual-uk_x4,,,
+cl-arethusa-1913_penelope-1918,placeholder_torpedo,,,
+cl-arethusa-1913_penelope-1918,placeholder_mines,,,
+cl-arethusa-1913_undaunted-1918,152-gs-pvii_aqy,152-cpbc-2crh,Primary Gun,1
+cl-arethusa-1913_undaunted-1918,102-gs-pxi_x6,102-he-uk,Primary Gun,2
+cl-arethusa-1913_undaunted-1918,102-cp-ha-markiii_x1-fantail,102-he-uk,AA Battery,2
+cl-arethusa-1913_undaunted-1918,533-tt-dual-uk_x4,,,
+cl-arethusa-1913_undaunted-1918,placeholder_torpedo,,,
+cl-calliope,152-gs-pvii_xy,152-cpbc-2crh,Primary Gun,1
+cl-calliope,102-gs-pxi_x8,102-he-uk,Primary Gun,2
+cl-calliope,76-p-6-marki_x1,76-he-uk-early,AA Battery,3
+cl-calliope,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,4
+cl-calliope,533-tt-hull_x2-side,,,
+cl-calliope,placeholder_torpedo,,,
+cl-calliope_1916,152-gs-pvii_axy,152-cpbc-2crh,Primary Gun,1
+cl-calliope_1916,102-gs-pxi_x6-alt,102-he-uk,Primary Gun,2
+cl-calliope_1916,76-p-6-marki_x1,76-he-uk-early,AA Battery,3
+cl-calliope_1916,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,4
+cl-calliope_1916,533-tt-hull_x2-side,,,
+cl-calliope_1916,placeholder_torpedo,,,
+cl-calliope_1917,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-calliope_1917,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,2
+cl-calliope_1917,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-calliope_1917,533-tt-hull_x2-side,,,
+cl-calliope_1917,533-tt-dual-uk_x4,,,
+cl-calliope_1917,placeholder_torpedo,,,
+cl-calliope_champion-1917,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-calliope_champion-1917,102-cp-ha-markiii_x1-fantail,102-he-uk,AA Battery,2
+cl-calliope_champion-1917,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-calliope_champion-1917,533-tt-hull_x2-side,,,
+cl-calliope_champion-1917,533-tt-dual-uk_x2,,,
+cl-calliope_champion-1917,placeholder_torpedo,,,
+cl-calliope_1920,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-calliope_1920,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,2
+cl-calliope_1920,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-calliope_1920,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-calliope_1920,533-tt-hull_x2-side,,,
+cl-calliope_1920,placeholder_torpedo,,,
+cl-calliope_champion-1924,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-calliope_champion-1924,102-cp-ha-markiii_x1-fantail,102-he-uk,AA Battery,2
+cl-calliope_champion-1924,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-calliope_champion-1924,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-calliope_champion-1924,533-tt-hull_x2-side,,,
+cl-calliope_champion-1924,533-tt-dual-uk_x2,,,
+cl-calliope_champion-1924,placeholder_torpedo,,,
+cl-calliope_champion-1927,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-calliope_champion-1927,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,2
+cl-calliope_champion-1927,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-calliope_champion-1927,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-calliope_champion-1927,533-tt-hull_x2-side,,,
+cl-calliope_champion-1927,533-tt-dual-uk_x2,,,
+cl-calliope_champion-1927,placeholder_torpedo,,,
+cl-caroline,152-gs-pvii_xy,152-cpbc-2crh,Primary Gun,1
+cl-caroline,102-gs-pxi_x8,102-he-uk,Primary Gun,2
+cl-caroline,76-p-6-marki_x1,76-he-uk-early,AA Battery,3
+cl-caroline,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,4
+cl-caroline,533-tt-dual-uk_x2,,,
+cl-caroline,placeholder_torpedo,,,
+cl-caroline_1916,152-gs-pvii_axy,152-cpbc-2crh,Primary Gun,1
+cl-caroline_1916,102-gs-pxi_x6-alt,102-he-uk,Primary Gun,2
+cl-caroline_1916,76-p-6-marki_x1,76-he-uk-early,AA Battery,3
+cl-caroline_1916,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,4
+cl-caroline_1916,533-tt-dual-uk_x2,,,
+cl-caroline_1916,placeholder_torpedo,,,
+cl-caroline_1917,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-caroline_1917,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,2
+cl-caroline_1917,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-caroline_1917,533-tt-dual-uk_x4,,,
+cl-caroline_1917,placeholder_torpedo,,,
+cl-caroline_cleopatra-1917,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-caroline_cleopatra-1917,102-cp-ha-markiii_x2-caroline,102-he-uk,AA Battery,2
+cl-caroline_cleopatra-1917,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-caroline_cleopatra-1917,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-caroline_cleopatra-1917,533-tt-dual-uk_x4,,,
+cl-caroline_cleopatra-1917,placeholder_torpedo,,,
+cl-caroline_conquest-1917,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-caroline_conquest-1917,102-cp-ha-markiii_x1,102-he-uk,AA Battery,2
+cl-caroline_conquest-1917,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-caroline_conquest-1917,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-caroline_conquest-1917,533-tt-dual-uk_x4,,,
+cl-caroline_conquest-1917,placeholder_torpedo,,,
+cl-caroline_cordelia-1917,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-caroline_cordelia-1917,102-cp-ha-markiii_x1,102-he-uk,AA Battery,2
+cl-caroline_cordelia-1917,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-caroline_cordelia-1917,533-tt-dual-uk_x4,,,
+cl-caroline_cordelia-1917,placeholder_torpedo,,,
+cl-caroline_conquest-1920,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-caroline_conquest-1920,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,2
+cl-caroline_conquest-1920,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-caroline_conquest-1920,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-caroline_conquest-1920,533-tt-dual-uk_x4,,,
+cl-caroline_conquest-1920,placeholder_torpedo,,,
+cl-caroline_conquest-1924,152-gs-pvii_ary,152-cpbc-2crh,Primary Gun,1
+cl-caroline_conquest-1924,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,2
+cl-caroline_conquest-1924,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-caroline_conquest-1924,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-caroline_conquest-1924,533-tt-dual-uk_x4,,,
+cl-caroline_conquest-1924,placeholder_torpedo,,,
+cl-caroline_1924,152-gs-pvii_y,152-cpbc-2crh,Primary Gun,1
+cl-caroline_1924,,,,2
+cl-caroline_1924,,,,3
+cl-cambrian,152-gs-pvii_xy,152-cpbc-2crh,Primary Gun,1
+cl-cambrian,102-gs-pxi_x8,102-he-uk,Primary Gun,2
+cl-cambrian,76-p-6-marki_x1,76-he-uk-early,AA Battery,3
+cl-cambrian,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,4
+cl-cambrian,533-tt-hull_x2-side,,,
+cl-cambrian,placeholder_torpedo,,,
+cl-cambrian_cambrian,152-gs-pvii_axy,152-cpbc-2crh,Primary Gun,1
+cl-cambrian_cambrian,102-gs-pxi_x6-alt,102-he-uk,Primary Gun,2
+cl-cambrian_cambrian,76-p-6-marki_x1,76-he-uk-early,AA Battery,3
+cl-cambrian_cambrian,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,4
+cl-cambrian_cambrian,533-tt-hull_x2-side,,,
+cl-cambrian_cambrian,placeholder_torpedo,,,
+cl-cambrian_1917,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-cambrian_1917,102-cp-ha-markiii_x1,102-he-uk,AA Battery,2
+cl-cambrian_1917,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-cambrian_1917,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-cambrian_1917,533-tt-hull_x2-side,,,
+cl-cambrian_1917,placeholder_torpedo,,,
+cl-cambrian_canterbury-1917,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-cambrian_canterbury-1917,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,2
+cl-cambrian_canterbury-1917,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-cambrian_canterbury-1917,533-tt-hull_x2-side,,,
+cl-cambrian_canterbury-1917,533-tt-dual-uk_x4,,,
+cl-cambrian_canterbury-1917,placeholder_torpedo,,,
+cl-cambrian_castor-1917,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-cambrian_castor-1917,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,2
+cl-cambrian_castor-1917,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-cambrian_castor-1917,533-tt-hull_x2-side,,,
+cl-cambrian_castor-1917,placeholder_torpedo,,,
+cl-cambrian_castor-1920,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-cambrian_castor-1920,76-cp-ha-markii_x2-centerline,76-he-uk-early,AA Battery,2
+cl-cambrian_castor-1920,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-cambrian_castor-1920,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-cambrian_castor-1920,533-tt-hull_x2-side,,,
+cl-cambrian_castor-1920,placeholder_torpedo,,,
+cl-centaur,152-gs-pvii_aqrxy,152-cpbc-2crh,Primary Gun,1
+cl-centaur,76-cp-ha-markii_x2-midship,76-he-uk-early,AA Battery,2
+cl-centaur,76-p-6-marki_x1-aft,76-he-uk-early,AA Battery,3
+cl-centaur,533-tt-hull_x2-side,,,
+cl-centaur,placeholder_torpedo,,,
+cl-centaur_1917,152-gs-pvii_aqrxy,152-cpbc-2crh,Primary Gun,1
+cl-centaur_1917,76-cp-ha-markii_x2-midship,76-he-uk-early,AA Battery,2
+cl-centaur_1917,40-p-markii_x2-fantail,40-he-uk,AA Battery,3
+cl-centaur_1917,533-tt-hull_x2-side,,,
+cl-centaur_1917,placeholder_torpedo,,,
+cl-centaur_1925,152-gs-pvii_arxy,152-cpbc-2crh,Primary Gun,1
+cl-centaur_1925,76-cp-ha-markii_x2-midship,76-he-uk-early,AA Battery,2
+cl-centaur_1925,40-p-markii_x2-fantail,40-he-uk,AA Battery,3
+cl-centaur_1925,533-tt-hull_x2-side,,,
+cl-centaur_1925,placeholder_torpedo,,,
+cl-centaur_concord-1929,152-gs-pvii_axy,152-cpbc-2crh,Primary Gun,1
+cl-centaur_concord-1929,76-cp-ha-markii_x2-midship,76-he-uk-early,AA Battery,2
+cl-centaur_concord-1929,40-p-markii_x2-fantail,40-he-uk,AA Battery,3
+cl-centaur_concord-1929,533-tt-hull_x2-side,,,
+cl-centaur_concord-1929,placeholder_torpedo,,,
+cl-centaur_concord-1932,152-gs-pvii_axy,152-cpbc-2crh,Primary Gun,1
+cl-centaur_concord-1932,40-p-markii_x2-fantail,40-he-uk,AA Battery,3
+cl-centaur_concord-1932,533-tt-hull_x2-side,,,
+cl-centaur_concord-1932,placeholder_torpedo,,,
+cl-caledon,152-gs-pvii_aqrxy,152-cpbc-2crh,Primary Gun,1
+cl-caledon,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,2
+cl-caledon,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-caledon,533-tt-dual-uk_x4,,,
+cl-caledon,placeholder_torpedo,,,
+cl-caledon_1920,152-gs-pvii_aqrxy,152-cpbc-2crh,Primary Gun,1
+cl-caledon_1920,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,2
+cl-caledon_1920,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-caledon_1920,533-tt-dual-uk_x4,,,
+cl-caledon_1920,placeholder_torpedo,,,
+claa-caledon-1942,102-cp-twin-ha-markxix_aby,102-he-uk,Primary Gun,1
+claa-caledon-1942,40-cp-markv-dual_x2-aft,40-he-mark1,AA Battery,2
+cl-caledon_cardoc-1942,152-gs-pvii_aqrxy,152-cpbc-2crh,Primary Gun,1
+cl-caledon_cardoc-1942,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,2
+cl-caledon_cardoc-1942,20-p-mark1_x5-caradoc,20-he-uk,AA Battery,3
+cl-caledon_cardoc-1942,533-tt-dual-uk_x4,,,
+cl-caledon_cardoc-1942,placeholder_torpedo,,,
+claa-caledon-1942_1944,102-cp-twin-ha-markxix_aby,102-he-uk,Primary Gun,1
+claa-caledon-1942_1944,40-cp-markv-dual_x2-aft,40-he-mark1,AA Battery,2
+claa-caledon-1942_1944,40-cp-marki/iii_x6-caledon,40-he-mark1,AA Battery,2
+claa-caledon-1942_1944,20-p-mark1_x1-aft,20-he-uk,AA Battery,3
+cl-ceres,152-gs-pvii_abrxy,152-cpbc-2crh,Primary Gun,1
+cl-ceres,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,2
+cl-ceres,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-ceres,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-ceres,533-tt-dual-uk_x4,,,
+cl-ceres,placeholder_torpedo,,,
+claa-coventry-1935,102-cp-ha-markiii_x10-coventry,102-he-uk,Primary Gun,1
+claa-coventry-1935,40-cp-markv_x2-coventry,40-he-2pdr,AA Battery,2
+claa-coventry-1935_curlew,102-cp-ha-markiii_x10-coventry,102-he-uk,Primary Gun,1
+claa-coventry-1935_curlew,40-cp-markv_x1-fore,40-he-2pdr,AA Battery,2
+claa-coventry-1935_1938,102-cp-ha-markiii_x10-coventry,102-he-uk,Primary Gun,1
+claa-coventry-1935_1938,40-cp-markv_x1-fore,40-he-2pdr,AA Battery,2
+claa-coventry-1935_1938,12-cp-markii_x2-coventry,12-b-uk,AA Battery,3
+claa-coventry-1935_1939,102-cp-ha-markiii_x8-coventry,102-he-uk,Primary Gun,1
+claa-coventry-1935_1939,40-cp-markv_x1-fore,40-he-2pdr,AA Battery,2
+claa-coventry-1935_1939,12-cp-markii_x2-coventry,12-b-uk,AA Battery,3
+claa-coventry-1935_1942,102-cp-ha-markiii_x8-coventry,102-he-uk,Primary Gun,1
+claa-coventry-1935_1942,40-cp-markv_x1-fore,40-he-2pdr,AA Battery,2
+claa-coventry-1935_1942,20-p-mark1_x5-coventry,20-he-uk,AA Battery,3
+claa-coventry-1935_1942,12-cp-markii_x2-coventry,12-b-uk,AA Battery,4
+cl-ceres_1942,152-gs-pvii_abrxy,152-cpbc-2crh,Primary Gun,1
+cl-ceres_1942,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,2
+cl-ceres_1942,40-p-markii_x2-fantail,40-he-uk,AA Battery,3
+cl-ceres_1942,20-p-mark1_x6-cardiff,20-he-uk,AA Battery,4
+cl-ceres_1942,533-tt-dual-uk_x4,,,
+cl-ceres_1942,placeholder_torpedo,,,
+cl-ceres_1943,152-gs-pvii_abrxy,152-cpbc-2crh,Primary Gun,1
+cl-ceres_1943,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,2
+cl-ceres_1943,20-p-mark1_x6-cardiff,20-he-uk,AA Battery,3
+cl-ceres_1943,533-tt-dual-uk_x4,,,
+cl-ceres_1943,placeholder_torpedo,,,
+cl-ceres_1944,152-gs-pvii_abrxy,152-cpbc-2crh,Primary Gun,1
+cl-ceres_1944,20-p-mark1_x14-cardiff,20-he-uk,AA Battery,2
+cl-ceres_1944,533-tt-dual-uk_x4,,,
+cl-ceres_1944,placeholder_torpedo,,,
+claa-curacoa-1939,102-cp-twin-ha-markxix_arxy,102-he-uk,Primary Gun,1
+claa-curacoa-1939,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,2
+claa-curacoa-1939,40-p-markii_x2-fantail,40-he-uk,AA Battery,2
+claa-curacoa-1939,12-cp-markii_x2-coventry,12-b-uk,AA Battery,3
+claa-curacoa-1939_1940,102-cp-twin-ha-markxix_arxy,102-he-uk,Primary Gun,1
+claa-curacoa-1939_1940,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,2
+claa-curacoa-1939_1940,40-p-markii_x2-fantail,40-he-uk,AA Battery,2
+claa-curacoa-1939_1940,12-cp-markii_x2-coventry,12-b-uk,AA Battery,3
+claa-curacoa-1939_1940,178-up_x1,,AA Battery,
+claa-curacoa-1939_1940,cl-arethusa-1935_1941-7,,,
+claa-curacoa-1939_1941,102-cp-twin-ha-markxix_arxy,102-he-uk,Primary Gun,1
+claa-curacoa-1939_1941,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,2
+claa-curacoa-1939_1941,40-p-markii_x4-ceres,40-he-uk,AA Battery,2
+claa-curacoa-1939_1941,12-cp-markii_x2-coventry,12-b-uk,AA Battery,3
+claa-curacoa-1939_1942,102-cp-twin-ha-markxix_arxy,102-he-uk,Primary Gun,1
+claa-curacoa-1939_1942,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,2
+claa-curacoa-1939_1942,40-p-markii_x4-ceres,40-he-uk,AA Battery,2
+claa-curacoa-1939_1942,20-p-mark1_x5-caradoc,20-he-uk,AA Battery,3
+claa-curacoa-1939_1942,12-cp-markii_x2-coventry,12-b-uk,AA Battery,4
+cl-carlisle,152-gs-pvii_abrxy,152-cpbc-2crh,Primary Gun,1
+cl-carlisle,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,2
+cl-carlisle,47-p-marki-la_x4-wey,47-he-uk,Tertiary Gun,3
+cl-carlisle,40-p-markii_x2-fantail,40-he-uk,AA Battery,4
+cl-carlisle,533-tt-dual-uk_x4,,,
+cl-carlisle,placeholder_torpedo,,,
+claa-cairo-1938,102-cp-twin-ha-markxix_arxy,102-he-uk,Primary Gun,1
+claa-cairo-1938,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,2
+claa-cairo-1938,12-cp-markii_x2,12-b-uk,AA Battery,3
+claa-cairo-1938_1941,102-cp-twin-ha-markxix_arxy,102-he-uk,Primary Gun,1
+claa-cairo-1938_1941,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,2
+claa-cairo-1938_1941,20-p-mark1_x5-caradoc,20-he-uk,AA Battery,3
+claa-cairo-1938_1941,12-cp-markii_x2,12-b-uk,AA Battery,4
+claa-cairo-1938_carlisle-1941,102-cp-twin-ha-markxix_arxy,102-he-uk,Primary Gun,1
+claa-cairo-1938_carlisle-1941,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,2
+claa-cairo-1938_carlisle-1941,40-p-markii_x2-fantail,40-he-uk,AA Battery,2
+claa-cairo-1938_carlisle-1941,12-cp-markii_x2,12-b-uk,AA Battery,3
+claa-cairo-1938_carlisle-1942,102-cp-twin-ha-markxix_arxy,102-he-uk,Primary Gun,1
+claa-cairo-1938_carlisle-1942,40-cp-markvii_x1-turret,40-he-2pdr,AA Battery,2
+claa-cairo-1938_carlisle-1942,40-p-markii_x2-fantail,40-he-uk,AA Battery,2
+claa-cairo-1938_carlisle-1942,20-p-mark1_x7,20-he-uk,AA Battery,3
+claa-cairo-1938_carlisle-1942,12-cp-markii_x2,12-b-uk,AA Battery,4
+claa-cairo-1938_colombo,102-cp-twin-ha-markxix_aby,102-he-uk,Primary Gun,1
+claa-cairo-1938_colombo,40-cp-markv-dual_x2-aft,40-he-mark1,AA Battery,2
+claa-cairo-1938_colombo,20-p-markv_x3-kent,20-he-uk,AA Battery,3
+claa-cairo-1938_colombo,20-p-mark1_x2,20-he-uk,AA Battery,3
+claa-cairo-1938_colombo-1945,102-cp-twin-ha-markxix_aby,102-he-uk,Primary Gun,1
+claa-cairo-1938_colombo-1945,40-cp-markv-dual_x2-aft,40-he-mark1,AA Battery,2
+claa-cairo-1938_colombo-1945,40-cp-marki/iii_x4-colombo,40-he-mark1,AA Battery,2
+claa-cairo-1938_colombo-1945,20-p-markv_x3-kent,20-he-uk,AA Battery,3
+claa-cairo-1938_colombo-1945,20-p-mark1_x6-cardiff,20-he-uk,AA Battery,3
+cl-danae,152-gs-pvii_abqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae,76-cp-ha-markii_x2-revenge,76-he-uk-early,AA Battery,2
+cl-danae,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-danae,533-tt-tripple-uk_x4,,,
+cl-danae,placeholder_torpedo,,,
+cl-danae_diomede,152-ag-pvii_a,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede,152-gs-pvii_bqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede,102-cp-ha-markiii_x2-sides,102-he-uk,Secondary Gun,2
+cl-danae_diomede,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-danae_diomede,533-tt-tripple-uk_x4,,,
+cl-danae_diomede,placeholder_torpedo,,,
+cl-danae_dauntless,152-gs-pvii_abqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_dauntless,102-cp-ha-markiii_x2-sides,102-he-uk,Secondary Gun,2
+cl-danae_dauntless,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-danae_dauntless,533-tt-tripple-uk_x4,,,
+cl-danae_dauntless,placeholder_torpedo,,,
+cl-danae_1922,152-gs-pvii_abqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_1922,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-danae_1922,40-p-markii_x2-aft,40-he-uk,AA Battery,3
+cl-danae_1922,533-tt-tripple-uk_x4,,,
+cl-danae_1922,placeholder_torpedo,,,
+cl-danae_diomede-1922,152-ag-pvii_a,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede-1922,152-gs-pvii_bqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede-1922,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-danae_diomede-1922,40-p-markii_x2-aft,40-he-uk,AA Battery,3
+cl-danae_diomede-1922,533-tt-tripple-uk_x4,,,
+cl-danae_diomede-1922,placeholder_torpedo,,,
+cl-danae_dispatch-1938,152-gs-pvii_abqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_dispatch-1938,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-danae_dispatch-1938,12-cp-markii_x2,12-b-uk,AA Battery,3
+cl-danae_dispatch-1938,533-tt-tripple-uk_x4,,,
+cl-danae_dispatch-1938,placeholder_torpedo,,,
+cl-danae_dunedin-1938,152-gs-pvii_abqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_dunedin-1938,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-danae_dunedin-1938,12-cp-markii_x2,12-b-uk,AA Battery,3
+cl-danae_dunedin-1938,533-tt-tripple-uk_x4,,,
+cl-danae_dunedin-1938,placeholder_torpedo,,,
+cl-danae_1939,152-gs-pvii_abqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_1939,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-danae_1939,40-p-markii_x4,40-he-uk,AA Battery,3
+cl-danae_1939,533-tt-tripple-uk_x4,,,
+cl-danae_1939,placeholder_torpedo,,,
+claa-delhi-1941,127-ag-mk30_abrxy,127-spc-mk32_127-aac-mk34,Primary Gun,1
+claa-delhi-1941,40-cp-markvii_x2-danae,40-he-uk,AA Battery,2
+claa-delhi-1941,20-p-mark1_x8-delhi,20-he-uk,AA Battery,3
+cl-danae_dauntless-1942,152-gs-pvii_abqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_dauntless-1942,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-danae_dauntless-1942,40-p-markii_x2-aft,40-he-uk,AA Battery,3
+cl-danae_dauntless-1942,20-p-mark1_x8-danae,20-he-uk,AA Battery,4
+cl-danae_dauntless-1942,533-tt-tripple-uk_x4,,,
+cl-danae_dauntless-1942,placeholder_torpedo,,,
+claa-delhi-1941_1943,127-ag-mk30_abrxy,127-spc-mk32_127-aac-mk34,Primary Gun,1
+claa-delhi-1941_1943,40-cp-markvii_x2-danae,40-he-uk,AA Battery,2
+claa-delhi-1941_1943,20-p-markv_x2-aft,20-he-uk,AA Battery,3
+claa-delhi-1941_1943,20-p-mark1_x6-delhi,20-he-uk,AA Battery,3
+claa-delhi-1941_1944,127-ag-mk30_abrxy,127-spc-mk32_127-aac-mk34,Primary Gun,1
+claa-delhi-1941_1944,40-cp-markvii_x2-danae,40-he-uk,AA Battery,2
+claa-delhi-1941_1944,20-p-markv_x2-aft,20-he-uk,AA Battery,3
+claa-delhi-1941_1944,20-p-mark1_x6-delhi,20-he-uk,AA Battery,3
+cl-danae_1943,152-gs-pvii_abqrxy-alt,152-cpbc-2crh,Primary Gun,1
+cl-danae_1943,102-cp-twin-ha-markxix_x1-aft,102-he-uk,Secondary Gun,2
+cl-danae_1943,40-cp-markvii_x2-danae,40-he-uk,AA Battery,3
+cl-danae_1943,20-p-markv_x4-danae,20-he-uk,AA Battery,4
+cl-danae_1943,dcr-unknown_x1,,,
+cl-danae_dauntless-1943,152-gs-pvii_abqrxy-alt,152-cpbc-2crh,Primary Gun,1
+cl-danae_dauntless-1943,102-cp-ha-markii_x1-fantail,102-he-uk,Secondary Gun,2
+cl-danae_dauntless-1943,40-cp-markvii_x2-danae,40-he-uk,AA Battery,3
+cl-danae_dauntless-1943,40-p-markii_x2-aft,40-he-uk,AA Battery,3
+cl-danae_dauntless-1943,20-p-mark1_x8-danae,20-he-uk,AA Battery,4
+cl-danae_dauntless-1943,533-tt-tripple-uk_x4,,,
+cl-danae_dauntless-1943,placeholder_torpedo,,,
+cl-danae_dauntless-1944,152-gs-pvii_abqrxy-alt,152-cpbc-2crh,Primary Gun,1
+cl-danae_dauntless-1944,102-cp-ha-markii_x1-fantail,102-he-uk,Secondary Gun,2
+cl-danae_dauntless-1944,40-cp-markvii_x2-danae,40-he-uk,AA Battery,3
+cl-danae_dauntless-1944,40-p-markii_x2-aft,40-he-uk,AA Battery,3
+cl-danae_dauntless-1944,20-p-mark1_x8-danae,20-he-uk,AA Battery,4
+cl-danae_diomede-1943-6,152-ag-pvii_a,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede-1943-6,152-gs-pvii_bqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede-1943-6,102-cp-ha-markiii_x2-sides,102-he-uk,Secondary Gun,2
+cl-danae_diomede-1943-6,40-cp-markvii_x1,40-he-uk,AA Battery,3
+cl-danae_diomede-1943-6,20-p-mark1_x8-danae,20-he-uk,AA Battery,4
+cl-danae_diomede-1943-6,533-tt-tripple-uk_x4,,,
+cl-danae_diomede-1943-6,placeholder_torpedo,,,
+cl-danae_diomede-1943-9,152-ag-pvii_a,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede-1943-9,152-gs-pvii_bqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede-1943-9,102-cp-ha-markiii_x2-sides,102-he-uk,Secondary Gun,2
+cl-danae_diomede-1943-9,40-cp-markvii_x1,40-he-uk,AA Battery,3
+cl-danae_diomede-1943-9,20-p-markv_x2-aft,20-he-uk,AA Battery,4
+cl-danae_diomede-1943-9,20-p-mark1_x6-danae,20-he-uk,AA Battery,4
+cl-danae_diomede-1943-9,533-tt-tripple-uk_x4,,,
+cl-danae_diomede-1943-9,placeholder_torpedo,,,
+cl-danae_diomede-1944,152-ag-pvii_a,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede-1944,152-gs-pvii_bqrxy,152-cpbc-2crh,Primary Gun,1
+cl-danae_diomede-1944,102-cp-ha-markiii_x2-sides,102-he-uk,Secondary Gun,2
+cl-danae_diomede-1944,40-cp-markvii_x1,40-he-uk,AA Battery,3
+cl-danae_diomede-1944,20-p-markv_x2-aft,20-he-uk,AA Battery,4
+cl-danae_diomede-1944,20-p-mark1_x6-danae,20-he-uk,AA Battery,4
+despatch-1943,102-cp-ha-markii_x1-fantail,102-he-uk,AA Battery,1
+despatch-1943,40-cp-marki/iii_x16,40-he-mark1,AA Battery,2
+despatch-1943,,20-he-uk,AA Battery,3
+despatch-1943,,12-b-uk,AA Battery,4
+cl-emerald,152-gs-pvii_abpsrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald,533-tt-tripple-uk_x4,,,
+cl-emerald,placeholder_torpedo,,,
+cl-emerald_enterprise,152-ag-markxviii_a,152-cpbc-markxxvb,Primary Gun,1
+cl-emerald_enterprise,152-gs-pvii_psrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald_enterprise,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_enterprise,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_enterprise,533-tt-tripple-uk_x4,,,
+cl-emerald_enterprise,placeholder_torpedo,,,
+cl-emerald_1929,152-gs-pvii_abpsrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald_1929,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_1929,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_1929,533-tt-quad-uk_x4,,,
+cl-emerald_1929,placeholder_torpedo,,,
+cl-emerald_enterprise-1929,152-ag-markxviii_a,152-cpbc-markxxvb,Primary Gun,1
+cl-emerald_enterprise-1929,152-gs-pvii_psrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald_enterprise-1929,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_enterprise-1929,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_enterprise-1929,533-tt-quad-uk_x4,,,
+cl-emerald_enterprise-1929,placeholder_torpedo,,,
+cl-emerald_1939,152-gs-pvii_abpsrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald_1939,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_1939,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_1939,12-cp-markii_x4,12-b-uk,AA Battery,4
+cl-emerald_1939,533-tt-quad-uk_x4,,,
+cl-emerald_1939,placeholder_torpedo,,,
+cl-emerald_1941,152-gs-pvii_abpsrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald_1941,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_1941,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_1941,12-cp-markii_x4,12-b-uk,AA Battery,4
+cl-emerald_1941,533-tt-quad-uk_x2,,,
+cl-emerald_1941,placeholder_torpedo,,,
+cl-emerald_1943,152-gs-pvii_abpsrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald_1943,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_1943,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_1943,20-p-markv_x6-emerald,20-he-uk,AA Battery,4
+cl-emerald_1943,533-tt-quad-uk_x2,,,
+cl-emerald_1943,placeholder_torpedo,,,
+cl-emerald_1944,152-gs-pvii_abpsrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald_1944,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_1944,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_1944,20-p-markv_x6-emerald,20-he-uk,AA Battery,4
+cl-emerald_1944,20-p-mark1_x6-emerald,20-he-uk,AA Battery,4
+cl-emerald_1944,533-tt-quad-uk_x2,,,
+cl-emerald_1944,placeholder_torpedo,,,
+cl-emerald_enterprise-1941,152-ag-markxviii_a,152-cpbc-markxxvb,Primary Gun,1
+cl-emerald_enterprise-1941,152-gs-pvii_psr,152-cpbc-2crh,Primary Gun,1
+cl-emerald_enterprise-1941,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_enterprise-1941,40-p-markii_x3-enterprise,40-he-uk,AA Battery,3
+cl-emerald_enterprise-1941,533-tt-quad-uk_x2,,,
+cl-emerald_enterprise-1941,placeholder_torpedo,,,
+cl-emerald_enterprise-1942,152-ag-markxviii_a,152-cpbc-markxxvb,Primary Gun,1
+cl-emerald_enterprise-1942,152-gs-pvii_psr,152-cpbc-2crh,Primary Gun,1
+cl-emerald_enterprise-1942,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_enterprise-1942,40-cp-markvii_x1,40-he-uk,AA Battery,3
+cl-emerald_enterprise-1942,40-p-markii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_enterprise-1942,20-p-mark1_x4-london,20-he-uk,AA Battery,4
+cl-emerald_enterprise-1942,533-tt-quad-uk_x2,,,
+cl-emerald_enterprise-1942,placeholder_torpedo,,,
+cl-emerald_enterprise-1943,152-ag-markxviii_a,152-cpbc-markxxvb,Primary Gun,1
+cl-emerald_enterprise-1943,152-gs-pvii_psrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald_enterprise-1943,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_enterprise-1943,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_enterprise-1943,20-p-markv_x6-enterprise,20-he-uk,AA Battery,4
+cl-emerald_enterprise-1943,533-tt-quad-uk_x2,,,
+cl-emerald_enterprise-1943,placeholder_torpedo,,,
+cl-emerald_enterprise-1944,152-ag-markxviii_a,152-cpbc-markxxvb,Primary Gun,1
+cl-emerald_enterprise-1944,152-gs-pvii_psrxy,152-cpbc-2crh,Primary Gun,1
+cl-emerald_enterprise-1944,102-cp-ha-markiii_x3-diomede,102-he-uk,Secondary Gun,2
+cl-emerald_enterprise-1944,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-emerald_enterprise-1944,20-p-markv_x6-enterprise,20-he-uk,AA Battery,4
+cl-emerald_enterprise-1944,20-p-mark1_x4-london,20-he-uk,AA Battery,4
+cl-emerald_enterprise-1944,533-tt-quad-uk_x2,,,
+cl-emerald_enterprise-1944,placeholder_torpedo,,,
+cl-leander,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander,102-cp-ha-markiii_x4,102-he-uk,Secondary Gun,2
+cl-leander,47-p-marki-la_x4-leander,47-he-uk,Tertiary Gun,3
+cl-leander,12-cp-markii_x3,12-b-uk,AA Battery,4
+cl-leander,533-tt-quad-uk_x2,,,
+cl-leander,placeholder_torpedo,,,
+cl-leander_1936,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_1936,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_1936,47-p-marki-la_x4-leander,47-he-uk,Tertiary Gun,3
+cl-leander_1936,12-cp-markii_x3,12-b-uk,AA Battery,4
+cl-leander_1936,533-tt-quad-uk_x2,,,
+cl-leander_1936,placeholder_torpedo,,,
+cl-leander_1939,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_1939,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_1939,12-cp-markii_x3,12-b-uk,AA Battery,3
+cl-leander_1939,533-tt-quad-uk_x2,,,
+cl-leander_1939,placeholder_torpedo,,,
+cl-leander_achilles-1939,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_achilles-1939,102-cp-ha-markiii_x4,102-he-uk,Secondary Gun,2
+cl-leander_achilles-1939,12-cp-markii_x3,12-b-uk,AA Battery,4
+cl-leander_achilles-1939,533-tt-quad-uk_x2,,,
+cl-leander_achilles-1939,placeholder_torpedo,,,
+cl-leander_neptune-1941,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_neptune-1941,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_neptune-1941,40-p-markii_x3-enterprise,40-he-uk,AA Battery,3
+cl-leander_neptune-1941,12-cp-markii_x6,12-b-uk,AA Battery,4
+cl-leander_neptune-1941,533-tt-quad-uk_x2,,,
+cl-leander_neptune-1941,placeholder_torpedo,,,
+cl-leander_1941-5,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_1941-5,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_1941-5,40-cp-markvii_x1-midship,40-he-uk,AA Battery,3
+cl-leander_1941-5,12-cp-markii_x3,12-b-uk,AA Battery,4
+cl-leander_1941-5,533-tt-quad-uk_x2,,,
+cl-leander_1941-5,placeholder_torpedo,,,
+cl-leander_1941-11,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_1941-11,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_1941-11,40-cp-markvii_x2-county,40-he-uk,AA Battery,3
+cl-leander_1941-11,20-p-mark1_x5-leander,20-he-uk,AA Battery,4
+cl-leander_1941-11,12-cp-markii_x1-aft,12-b-uk,AA Battery,5
+cl-leander_1941-11,533-tt-quad-uk_x2,,,
+cl-leander_1941-11,placeholder_torpedo,,,
+cl-leander_1943,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_1943,40-cp-markvii_x2-county,40-he-uk,AA Battery,3
+cl-leander_1943,20-p-mark1_x9-leander,20-he-uk,AA Battery,4
+cl-leander_1943,533-tt-quad-uk_x2,,,
+cl-leander_1943,placeholder_torpedo,,,
+cl-leander_1945,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-leander_1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_1945,40-cp-markviii_x2-aft,40-he-mk1,AA Battery,3
+cl-leander_1945,40-cp-markvii_x2-county,40-he-uk,AA Battery,4
+cl-leander_1945,20-p-markv_x3-kent,20-he-uk,AA Battery,5
+cl-leander_1945,20-p-mark1_x4-kent-alt,20-he-uk,AA Battery,5
+cl-leander_1945,533-tt-quad-uk_x2,,,
+cl-leander_1945,placeholder_torpedo,,,
+cl-leander_orion-1942-2,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_orion-1942-2,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_orion-1942-2,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-leander_orion-1942-2,20-p-mark1_x7-leander,20-he-uk,AA Battery,4
+cl-leander_orion-1942-2,533-tt-quad-uk_x2,,,
+cl-leander_orion-1942-2,placeholder_torpedo,,,
+cl-leander_orion-1942-10,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_orion-1942-10,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_orion-1942-10,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-leander_orion-1942-10,20-p-mark1_x9-leander-alt,20-he-uk,AA Battery,4
+cl-leander_orion-1942-10,533-tt-quad-uk_x2,,,
+cl-leander_orion-1942-10,placeholder_torpedo,,,
+cl-leander_orion-1943,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_orion-1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_orion-1943,40-cp-markviii_x2,40-he-mk1,AA Battery,3
+cl-leander_orion-1943,20-p-markv_x4-leander,20-he-uk,AA Battery,4
+cl-leander_orion-1943,20-p-mark1_x5-leander,20-he-uk,AA Battery,4
+cl-leander_orion-1943,533-tt-quad-uk_x2,,,
+cl-leander_orion-1943,placeholder_torpedo,,,
+cl-leander_ajax-1942-2,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_ajax-1942-2,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_ajax-1942-2,40-cp-markvii_x1-midship,40-he-uk,AA Battery,3
+cl-leander_ajax-1942-2,20-p-mark1_x6-emerald,20-he-uk,AA Battery,4
+cl-leander_ajax-1942-2,12-cp-markii_x3,12-b-uk,AA Battery,5
+cl-leander_ajax-1942-2,533-tt-quad-uk_x2,,,
+cl-leander_ajax-1942-2,placeholder_torpedo,,,
+cl-leander_ajax-1944,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_ajax-1944,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_ajax-1944,40-cp-markviii_x2,40-he-mk1,AA Battery,3
+cl-leander_ajax-1944,20-p-markv_x5-kent-alt,20-he-uk,AA Battery,4
+cl-leander_ajax-1944,20-p-mark1_x5-leander,20-he-uk,AA Battery,4
+cl-leander_ajax-1944,533-tt-quad-uk_x2,,,
+cl-leander_ajax-1944,placeholder_torpedo,,,
+cl-leander_achilles-1942,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-leander_achilles-1942,20-p-mark1_x7-leander,20-he-uk,AA Battery,3
+cl-leander_achilles-1942,12-cp-markii_x3,12-b-uk,AA Battery,4
+cl-leander_achilles-1942,533-tt-quad-uk_x2,,,
+cl-leander_achilles-1942,placeholder_torpedo,,,
+cl-leander_achilles-1942,dcr-unknown_x1,,,
+cl-leander_achilles-1944,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-leander_achilles-1944,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_achilles-1944,40-cp-markvii_x4-leander,40-he-uk,AA Battery,3
+cl-leander_achilles-1944,20-p-markv_x7-norfolk,20-he-uk,AA Battery,4
+cl-leander_achilles-1944,20-p-mark1_x4-leander,20-he-uk,AA Battery,4
+cl-leander_achilles-1944,533-tt-quad-uk_x2,,,
+cl-leander_achilles-1944,placeholder_torpedo,,,
+cl-leander_achilles-1944,dcr-unknown_x1,,,
+cl-leander_achilles-1945,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-leander_achilles-1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-leander_achilles-1945,40-cp-markv-dual_x4-leander,40-he-mk1,AA Battery,3
+cl-leander_achilles-1945,20-p-markv_x5-kent-alt,20-he-uk,AA Battery,4
+cl-leander_achilles-1945,20-p-mark1_x5-leander-alt,20-he-uk,AA Battery,4
+cl-leander_achilles-1945,533-tt-quad-uk_x2,,,
+cl-leander_achilles-1945,placeholder_torpedo,,,
+cl-leander_achilles-1945,dcr-unknown_x1,,,
+cl-delhi,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-delhi,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-delhi,40-cp-markv-dual_x4-leander,40-he-mk1,AA Battery,3
+cl-delhi,40-cp-markvii-single_x6-delhi,40-he-mk1,AA Battery,3
+cl-delhi,533-tt-quad-uk_x2,,,
+cl-delhi,placeholder_torpedo,,,
+cl-delhi,dcr-unknown_x1,,,
+cl-delhi_1957,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-delhi_1957,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-delhi_1957,40-cp-markv-dual_x4-leander,40-he-mk1,AA Battery,3
+cl-delhi_1957,40-cp-markvii-single_x6-delhi,40-he-mk1,AA Battery,3
+cl-delhi_1957,dcr-unknown_x1,,,
+cl-amphion,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-amphion,102-cp-ha-markiii_x4,102-he-uk,Secondary Gun,2
+cl-amphion,47-p-marki-la_x4-leander,47-he-uk,Tertiary Gun,3
+cl-amphion,12-cp-markii_x3,12-b-uk,AA Battery,4
+cl-amphion,533-tt-quad-uk_x2,,,
+cl-amphion,placeholder_torpedo,,,
+cl-amphion_1938,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-amphion_1938,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-amphion_1938,47-p-marki-la_x4-leander,47-he-uk,Tertiary Gun,3
+cl-amphion_1938,12-cp-markii_x3,12-b-uk,AA Battery,4
+cl-amphion_1938,533-tt-quad-uk_x2,,,
+cl-amphion_1938,placeholder_torpedo,,,
+cl-amphion_1939,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-amphion_1939,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-amphion_1939,12-cp-markii_x3,12-b-uk,AA Battery,3
+cl-amphion_1939,533-tt-quad-uk_x2,,,
+cl-amphion_1939,placeholder_torpedo,,,
+cl-amphion_1939,dcr-unknown_x1,,,
+cl-amphion_sydney-1939,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-amphion_sydney-1939,102-cp-ha-markiii_x4,102-he-uk,Secondary Gun,2
+cl-amphion_sydney-1939,12-cp-markii_x3,12-b-uk,AA Battery,3
+cl-amphion_sydney-1939,533-tt-quad-uk_x2,,,
+cl-amphion_sydney-1939,placeholder_torpedo,,,
+cl-amphion_sydney-1939,dcr-unknown_x1,,,
+cl-amphion_1941-2,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-amphion_1941-2,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-amphion_1941-2,40-cp-markvii_x1-midship,40-he-uk,AA Battery,3
+cl-amphion_1941-2,12-cp-markii_x3,12-b-uk,AA Battery,4
+cl-amphion_1941-2,533-tt-quad-uk_x2,,,
+cl-amphion_1941-2,placeholder_torpedo,,,
+cl-amphion_1941-2,dcr-unknown_x1,,,
+cl-amphion_1941-7,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-amphion_1941-7,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-amphion_1941-7,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-amphion_1941-7,20-p-mark1_x5-amphion,20-he-uk,AA Battery,4
+cl-amphion_1941-7,12-cp-markii_x3,12-b-uk,AA Battery,5
+cl-amphion_1941-7,533-tt-quad-uk_x2,,,
+cl-amphion_1941-7,placeholder_torpedo,,,
+cl-amphion_1941-7,dcr-unknown_x1,,,
+cl-amphion_hobart-1942,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-amphion_hobart-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-amphion_hobart-1942,40-cp-markvii_x2-howe,40-he-uk,AA Battery,3
+cl-amphion_hobart-1942,20-p-mark1_x6-amphion,20-he-uk,AA Battery,4
+cl-amphion_hobart-1942,533-tt-quad-uk_x2,,,
+cl-amphion_hobart-1942,placeholder_torpedo,,,
+cl-amphion_hobart-1942,dcr-unknown_x1,,,
+cl-amphion_hobart-1944,152-ag-markxxi_abxy,152-cpbc-uk,Primary Gun,1
+cl-amphion_hobart-1944,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-amphion_hobart-1944,40-cp-markv-dual_x1-fantail,40-he-mk1,AA Battery,3
+cl-amphion_hobart-1944,40-cp-marki/iii_x4-amphion,40-he-mk1,AA Battery,3
+cl-amphion_hobart-1944,40-cp-markvii_x2-sides,40-he-uk,AA Battery,4
+cl-amphion_hobart-1944,20-p-markv_x1-aft,20-he-uk,AA Battery,5
+cl-amphion_hobart-1944,533-tt-quad-uk_x2,,,
+cl-amphion_hobart-1944,placeholder_torpedo,,,
+cl-amphion_hobart-1944,dcr-unknown_x1,,,
+cl-amphion_hobart-1946,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-amphion_hobart-1946,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-amphion_hobart-1946,40-cp-markv-dual_x3-fantail,40-he-mk1,AA Battery,3
+cl-amphion_hobart-1946,40-cp-marki/iii_x4-amphion,40-he-mk1,AA Battery,3
+cl-amphion_hobart-1946,40-cp-markvii_x2-sides,40-he-uk,AA Battery,4
+cl-amphion_hobart-1946,20-p-markv_x1-aft,20-he-uk,AA Battery,5
+cl-amphion_hobart-1946,533-tt-quad-uk_x2,,,
+cl-amphion_hobart-1946,placeholder_torpedo,,,
+cl-amphion_hobart-1946,dcr-unknown_x1,,,
+cl-amphion_hobart-1953,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-amphion_hobart-1953,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935,102-cp-ha-markiii_x4,102-he-uk,Secondary Gun,2
+cl-arethusa-1935,47-p-marki-la_x2-aft,47-he-uk,Tertiary Gun,3
+cl-arethusa-1935,12-cp-markii_x2-side,12-b-uk,AA Battery,4
+cl-arethusa-1935,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935,placeholder_torpedo,,,
+cl-arethusa-1935_penelope,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_penelope,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_penelope,12-cp-markii_x2-side,12-b-uk,AA Battery,3
+cl-arethusa-1935_penelope,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_penelope,placeholder_torpedo,,,
+cl-arethusa-1935_aurora,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_aurora,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_aurora,47-p-marki-la_x2-aft,47-he-uk,Tertiary Gun,3
+cl-arethusa-1935_aurora,12-cp-markii_x2-side,12-b-uk,AA Battery,4
+cl-arethusa-1935_aurora,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_aurora,placeholder_torpedo,,,
+cl-arethusa-1935_1939,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_1939,102-cp-ha-markiii_x4,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_1939,12-cp-markii_x2-side,12-b-uk,AA Battery,3
+cl-arethusa-1935_1939,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_1939,placeholder_torpedo,,,
+cl-arethusa-1935_1941-4,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_1941-4,102-cp-ha-markiii_x4,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_1941-4,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_1941-4,12-cp-markii_x2-side,12-b-uk,AA Battery,4
+cl-arethusa-1935_1941-4,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_1941-4,placeholder_torpedo,,,
+cl-arethusa-1935_1941-7,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_1941-7,102-cp-ha-markiii_x4,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_1941-7,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_1941-7,20-p-mark1_x4-arethusa,20-he-uk,AA Battery,4
+cl-arethusa-1935_1941-7,12-cp-markii_x2-side,12-b-uk,AA Battery,5
+cl-arethusa-1935_1941-7,178-up_x2-sides,,AA Battery,
+cl-arethusa-1935_1941-7,placeholder_unrotated-projectile,,,
+cl-arethusa-1935_1941-7,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_1941-7,placeholder_torpedo,,,
+cl-arethusa-1935_1942-3,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_1942-3,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_1942-3,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_1942-3,20-p-mark1_x8-arethusa,20-he-uk,AA Battery,4
+cl-arethusa-1935_1942-3,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_1942-3,placeholder_torpedo,,,
+cl-arethusa-1935_1942-10,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_1942-10,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_1942-10,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_1942-10,20-p-mark1_x11-arethusa,20-he-uk,AA Battery,4
+cl-arethusa-1935_1942-10,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_1942-10,placeholder_torpedo,,,
+cl-arethusa-1935_1943,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_1943,40-cp-markviii_x2-midship,40-he-mk1,AA Battery,3
+cl-arethusa-1935_1943,20-p-markv_x4-arethusa,20-he-uk,AA Battery,4
+cl-arethusa-1935_1943,20-p-mark1_x4-arethusa-alt,20-he-uk,AA Battery,4
+cl-arethusa-1935_1943,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_1943,placeholder_torpedo,,,
+cl-arethusa-1935_aurora-1940,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_aurora-1940,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_aurora-1940,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_aurora-1940,12-cp-markii_x2-side,12-b-uk,AA Battery,4
+cl-arethusa-1935_aurora-1940,178-up_x1-fantail,,AA Battery,
+cl-arethusa-1935_aurora-1940,placeholder_unrotated-projectile,,,
+cl-arethusa-1935_aurora-1940,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_aurora-1940,placeholder_torpedo,,,
+cl-arethusa-1935_aurora-1941,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_aurora-1941,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_aurora-1941,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_aurora-1941,20-p-mark1_x6-arethusa,20-he-uk,AA Battery,4
+cl-arethusa-1935_aurora-1941,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_aurora-1941,placeholder_torpedo,,,
+cl-arethusa-1935_aurora-1942,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_aurora-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_aurora-1942,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_aurora-1942,20-p-mark1_x8-arethusa-alt,20-he-uk,AA Battery,4
+cl-arethusa-1935_aurora-1942,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_aurora-1942,placeholder_torpedo,,,
+cl-arethusa-1935_aurora-1944,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_aurora-1944,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_aurora-1944,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_aurora-1944,20-p-markv_x2,20-he-uk,AA Battery,4
+cl-arethusa-1935_aurora-1944,20-p-mark1_x4-aurora,20-he-uk,AA Battery,4
+cl-arethusa-1935_aurora-1944,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_aurora-1944,placeholder_torpedo,,,
+cl-arethusa-1935_aurora-1945,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_aurora-1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_aurora-1945,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_aurora-1945,20-p-markv_x3-kent,20-he-uk,AA Battery,4
+cl-arethusa-1935_aurora-1945,20-p-mark1_x2-midship,20-he-uk,AA Battery,4
+cl-arethusa-1935_aurora-1945,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_aurora-1945,placeholder_torpedo,,,
+cl-chung-king,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-chung-king,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-chung-king,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-chung-king,20-p-markv_x3-kent,20-he-uk,AA Battery,4
+cl-chung-king,533-tt-tripple-uk_x2,,,
+cl-chung-king,placeholder_torpedo,,,
+cl-arethusa-1935_galatea-1941,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_galatea-1941,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_galatea-1941,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_galatea-1941,12-cp-markii_x2-side,12-b-uk,AA Battery,4
+cl-arethusa-1935_galatea-1941,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_galatea-1941,placeholder_torpedo,,,
+cl-arethusa-1935_penelope-1942,152-ag-markxxi_aby,152-cpbc-uk,Primary Gun,1
+cl-arethusa-1935_penelope-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-arethusa-1935_penelope-1942,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-arethusa-1935_penelope-1942,20-p-mark1_x4-arethusa,20-he-uk,AA Battery,4
+cl-arethusa-1935_penelope-1942,12-cp-markii_x2-side,12-b-uk,AA Battery,5
+cl-arethusa-1935_penelope-1942,533-tt-tripple-uk_x2,,,
+cl-arethusa-1935_penelope-1942,placeholder_torpedo,,,
+cl-southampton,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton,47-p-marki-la_x4-leander,47-he-uk,Tertiary Gun,3
+cl-southampton,40-cp-markvii_x2-sides,40-he-uk,AA Battery,4
+cl-southampton,12-cp-markii_x2-aft,12-b-uk,AA Battery,5
+cl-southampton,533-tt-tripple-uk_x2,,,
+cl-southampton,placeholder_torpedo,,,
+cl-southampton_1939,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_1939,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_1939,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_1939,12-cp-markii_x2-aft,12-b-uk,AA Battery,4
+cl-southampton_1939,533-tt-tripple-uk_x2,,,
+cl-southampton_1939,placeholder_torpedo,,,
+cl-southampton_1939,dcr-unknown_x1,,,
+cl-southampton_newcastle-1940,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_newcastle-1940,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_newcastle-1940,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_newcastle-1940,12-cp-markii_x2-aft,12-b-uk,AA Battery,4
+cl-southampton_newcastle-1940,178-up_x2-turret,,AA Battery,5
+cl-southampton_newcastle-1940,placeholder_unrotated-projectile,,,
+cl-southampton_newcastle-1940,533-tt-tripple-uk_x2,,,
+cl-southampton_newcastle-1940,placeholder_torpedo,,,
+cl-southampton_newcastle-1940,dcr-unknown_x1,,,
+cl-southampton_newcastle-1941,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_newcastle-1941,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_newcastle-1941,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_newcastle-1941,20-p-mark1_x9-southampton,20-he-uk,AA Battery,4
+cl-southampton_newcastle-1941,12-cp-markii_x2-aft,12-b-uk,AA Battery,5
+cl-southampton_newcastle-1941,533-tt-tripple-uk_x2,,,
+cl-southampton_newcastle-1941,placeholder_torpedo,,,
+cl-southampton_newcastle-1941,dcr-unknown_x1,,,
+cl-southampton_newcastle-1942,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_newcastle-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_newcastle-1942,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_newcastle-1942,20-p-mark1_x19-southampton,20-he-uk,AA Battery,4
+cl-southampton_newcastle-1942,533-tt-tripple-uk_x2,,,
+cl-southampton_newcastle-1942,placeholder_torpedo,,,
+cl-southampton_newcastle-1942,dcr-unknown_x1,,,
+cl-southampton_newcastle-1943,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_newcastle-1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_newcastle-1943,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_newcastle-1943,20-p-mark1_x19-southampton,20-he-uk,AA Battery,4
+cl-southampton_newcastle-1943,533-tt-tripple-uk_x2,,,
+cl-southampton_newcastle-1943,placeholder_torpedo,,,
+cl-southampton_newcastle-1943,dcr-unknown_x1,,,
+cl-southampton_newcastle-1945,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-southampton_newcastle-1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_newcastle-1945,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_newcastle-1945,20-p-mark1_x19-southampton,20-he-uk,AA Battery,4
+cl-southampton_newcastle-1945,533-tt-tripple-uk_x2,,,
+cl-southampton_newcastle-1945,placeholder_torpedo,,,
+cl-southampton_newcastle-1945,dcr-unknown_x1,,,
+cl-southampton_newcastle-1950,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-southampton_newcastle-1950,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_newcastle-1950,40-cp-markv-dual_x6-southampton,40-he-mk1,AA Battery,3
+cl-southampton_newcastle-1950,40-cp-markvii-single_x6,40-he-mk1,AA Battery,3
+cl-southampton_newcastle-1950,533-tt-tripple-uk_x2,,,
+cl-southampton_newcastle-1950,placeholder_torpedo,,,
+cl-southampton_sheffield-1941,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_sheffield-1941,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_sheffield-1941,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_sheffield-1941,20-p-mark1_x9-southampton,20-he-uk,AA Battery,4
+cl-southampton_sheffield-1941,533-tt-tripple-uk_x2,,,
+cl-southampton_sheffield-1941,placeholder_torpedo,,,
+cl-southampton_sheffield-1941,dcr-unknown_x1,,,
+cl-southampton_sheffield-1942,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_sheffield-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_sheffield-1942,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_sheffield-1942,20-p-mark1_x12-southampton,20-he-uk,AA Battery,4
+cl-southampton_sheffield-1942,533-tt-tripple-uk_x2,,,
+cl-southampton_sheffield-1942,placeholder_torpedo,,,
+cl-southampton_sheffield-1942,dcr-unknown_x1,,,
+cl-southampton_sheffield-1944,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_sheffield-1944,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_sheffield-1944,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_sheffield-1944,20-p-mark1_x20-southampton,20-he-uk,AA Battery,4
+cl-southampton_sheffield-1944,533-tt-tripple-uk_x2,,,
+cl-southampton_sheffield-1944,placeholder_torpedo,,,
+cl-southampton_sheffield-1944,dcr-unknown_x1,,,
+cl-southampton_sheffield-1945,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-southampton_sheffield-1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_sheffield-1945,40-cp-markviii_x4-aft,40-he-mk1,AA Battery,3
+cl-southampton_sheffield-1945,40-cp-markvii_x2-sides,40-he-uk,AA Battery,4
+cl-southampton_sheffield-1945,20-p-markv_x10-southampton,20-he-uk,AA Battery,5
+cl-southampton_sheffield-1945,20-p-mark1_x7-southampton,20-he-uk,AA Battery,5
+cl-southampton_sheffield-1945,533-tt-tripple-uk_x2,,,
+cl-southampton_sheffield-1945,placeholder_torpedo,,,
+cl-southampton_sheffield-1946,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-southampton_sheffield-1946,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_sheffield-1946,40-cp-markviii_x4-aft,40-he-mk1,AA Battery,3
+cl-southampton_sheffield-1946,40-cp-markvii-single_x10-southampton,40-he-mk1,AA Battery,3
+cl-southampton_sheffield-1946,40-cp-markvii_x2-sides,40-he-uk,AA Battery,4
+cl-southampton_sheffield-1946,533-tt-tripple-uk_x2,,,
+cl-southampton_sheffield-1946,placeholder_torpedo,,,
+cl-southampton_sheffield-1954,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-southampton_sheffield-1954,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_sheffield-1954,40-cp-markv-dual_x6-southampton-alt,40-he-mk1,AA Battery,3
+cl-southampton_sheffield-1954,40-cp-markvii-single_x6-alt,40-he-mk1,AA Battery,3
+cl-southampton_sheffield-1954,533-tt-tripple-uk_x2,,,
+cl-southampton_sheffield-1954,placeholder_torpedo,,,
+cl-southampton_glasgow-1942,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_glasgow-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_glasgow-1942,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_glasgow-1942,20-p-markv_x8-southampton,20-he-uk,AA Battery,4
+cl-southampton_glasgow-1942,20-p-mark1_x4-southampton,20-he-uk,AA Battery,4
+cl-southampton_glasgow-1942,533-tt-tripple-uk_x2,,,
+cl-southampton_glasgow-1942,placeholder_torpedo,,,
+cl-southampton_glasgow-1942,dcr-unknown_x1,,,
+cl-southampton_glasgow-1944,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_glasgow-1944,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_glasgow-1944,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_glasgow-1944,20-p-markv_x8-southampton,20-he-uk,AA Battery,4
+cl-southampton_glasgow-1944,20-p-mark1_x8-southampton,20-he-uk,AA Battery,4
+cl-southampton_glasgow-1944,533-tt-tripple-uk_x2,,,
+cl-southampton_glasgow-1944,placeholder_torpedo,,,
+cl-southampton_glasgow-1944,dcr-unknown_x1,,,
+cl-southampton_glasgow-1945,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-southampton_glasgow-1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_glasgow-1945,40-cp-markvii_x6-london,40-he-uk,AA Battery,3
+cl-southampton_glasgow-1945,20-p-markv_x6-southampton,20-he-uk,AA Battery,4
+cl-southampton_glasgow-1945,20-p-mark1_x6-southampton,20-he-uk,AA Battery,4
+cl-southampton_glasgow-1945,533-tt-tripple-uk_x2,,,
+cl-southampton_glasgow-1945,placeholder_torpedo,,,
+cl-southampton_glasgow-1951,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-southampton_glasgow-1951,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_glasgow-1951,40-cp-markvii_x6-london,40-he-uk,AA Battery,3
+cl-southampton_glasgow-1951,40-cp-markvii-single_x8,40-he-mk1,AA Battery,4
+cl-southampton_glasgow-1951,533-tt-tripple-uk_x2,,,
+cl-southampton_glasgow-1951,placeholder_torpedo,,,
+cl-southampton_birmingham-1940,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_birmingham-1940,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_birmingham-1940,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_birmingham-1940,12-cp-markii_x2-aft,12-b-uk,AA Battery,4
+cl-southampton_birmingham-1940,178-up_x1-fantail,,AA Battery,5
+cl-southampton_birmingham-1940,placeholder_unrotated-projectile,,,
+cl-southampton_birmingham-1940,533-tt-tripple-uk_x2,,,
+cl-southampton_birmingham-1940,placeholder_torpedo,,,
+cl-southampton_birmingham-1940,dcr-unknown_x1,,,
+cl-southampton_birmingham-1942,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_birmingham-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_birmingham-1942,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_birmingham-1942,20-p-mark1_x7-southampton,20-he-uk,AA Battery,4
+cl-southampton_birmingham-1942,533-tt-tripple-uk_x2,,,
+cl-southampton_birmingham-1942,placeholder_torpedo,,,
+cl-southampton_birmingham-1942,dcr-unknown_x1,,,
+cl-southampton_birmingham-1943,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-southampton_birmingham-1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_birmingham-1943,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-southampton_birmingham-1943,20-p-markv_x8-southampton,20-he-uk,AA Battery,4
+cl-southampton_birmingham-1943,20-p-mark1_x2-turret-alt,20-he-uk,AA Battery,4
+cl-southampton_birmingham-1943,533-tt-tripple-uk_x2,,,
+cl-southampton_birmingham-1943,placeholder_torpedo,,,
+cl-southampton_birmingham-1943,dcr-unknown_x1,,,
+cl-southampton_birmingham-1945,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-southampton_birmingham-1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-southampton_birmingham-1945,40-cp-markviii_x4-aft,40-he-mk1,AA Battery,3
+cl-southampton_birmingham-1945,40-cp-markvii_x2-sides,40-he-uk,AA Battery,4
+cl-southampton_birmingham-1945,20-p-markv_x8-southampton,20-he-uk,AA Battery,5
+cl-southampton_birmingham-1945,20-p-mark1_x9-southampton,20-he-uk,AA Battery,5
+cl-southampton_birmingham-1945,533-tt-tripple-uk_x2,,,
+cl-southampton_birmingham-1945,placeholder_torpedo,,,
+cl-gloucester,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-gloucester,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-gloucester,47-p-marki-la_x4-leander,47-he-uk,Tertiary Gun,3
+cl-gloucester,40-cp-markvii_x2-sides,40-he-uk,AA Battery,4
+cl-gloucester,12-cp-markii_x2-aft,12-b-uk,AA Battery,5
+cl-gloucester,533-tt-tripple-uk_x2,,,
+cl-gloucester,placeholder_torpedo,,,
+cl-gloucester_1939,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-gloucester_1939,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-gloucester_1939,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-gloucester_1939,12-cp-markii_x2-aft,12-b-uk,AA Battery,4
+cl-gloucester_1939,533-tt-tripple-uk_x2,,,
+cl-gloucester_1939,placeholder_torpedo,,,
+cl-gloucester_1939,dcr-unknown_x1,,,
+cl-gloucester_1942,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-gloucester_1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-gloucester_1942,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-gloucester_1942,20-p-mark1_x9-southampton,20-he-uk,AA Battery,4
+cl-gloucester_1942,533-tt-tripple-uk_x2,,,
+cl-gloucester_1942,placeholder_torpedo,,,
+cl-gloucester_1942,dcr-unknown_x1,,,
+cl-gloucester_1945,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-gloucester_1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-gloucester_1945,40-cp-markvii_x6-london,40-he-uk,AA Battery,3
+cl-gloucester_1945,40-p-markii_x4-hawkins,40-he-uk,AA Battery,3
+cl-gloucester_1945,20-p-mark1_x7-southampton,20-he-uk,AA Battery,4
+cl-gloucester_1945,533-tt-tripple-uk_x2,,,
+cl-gloucester_1945,placeholder_torpedo,,,
+cl-gloucester_1950,152-ag-markxxii_aby,152-cpbc-uk,Primary Gun,1
+cl-gloucester_1950,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-gloucester_1950,40-cp-markv-dual_x6-southampton,40-he-mk1,AA Battery,3
+cl-gloucester_1950,40-cp-markvii-single_x8-alt,40-he-mk1,AA Battery,3
+cl-gloucester_1950,533-tt-tripple-uk_x2,,,
+cl-gloucester_1950,placeholder_torpedo,,,
+cl-gloucester_manchester-1941,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-gloucester_manchester-1941,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-gloucester_manchester-1941,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-gloucester_manchester-1941,40-cp-marki/iii_x1-fore,40-he-mk1,AA Battery,4
+cl-gloucester_manchester-1941,20-p-mark1_x6-southampton-alt,20-he-uk,AA Battery,5
+cl-gloucester_manchester-1941,12-cp-markii_x2-aft,12-b-uk,AA Battery,6
+cl-gloucester_manchester-1941,533-tt-tripple-uk_x2,,,
+cl-gloucester_manchester-1941,placeholder_torpedo,,,
+cl-gloucester_manchester-1941,dcr-unknown_x1,,,
+cl-gloucester_manchester-1942,152-ag-markxxii_abxy,152-cpbc-uk,Primary Gun,1
+cl-gloucester_manchester-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-gloucester_manchester-1942,40-cp-markvii_x2-sides,40-he-uk,AA Battery,3
+cl-gloucester_manchester-1942,40-cp-marki/iii_x1-fore,40-he-mk1,AA Battery,4
+cl-gloucester_manchester-1942,40-cp-markii_x2,40-he-mk1,AA Battery,4
+cl-gloucester_manchester-1942,20-p-mark1_x8-southampton-alt,20-he-uk,AA Battery,5
+cl-gloucester_manchester-1942,533-tt-tripple-uk_x2,,,
+cl-gloucester_manchester-1942,placeholder_torpedo,,,
+cl-gloucester_manchester-1942,dcr-unknown_x1,,,
+cl-edinburgh,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-edinburgh,102-cp-twin-ha-markxix_x6-edinburgh,102-he-uk,Secondary Gun,2
+cl-edinburgh,47-p-marki-la_x4-edinburgh,47-he-uk,Tertiary Gun,3
+cl-edinburgh,40-cp-markv_x2-midship,40-he-uk,AA Battery,4
+cl-edinburgh,12-cp-markii_x2-aft,12-b-uk,AA Battery,5
+cl-edinburgh,533-tt-tripple-uk_x2,,,
+cl-edinburgh,placeholder_torpedo,,,
+cl-edinburgh_1939,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-edinburgh_1939,102-cp-twin-ha-markxix_x6-edinburgh,102-he-uk,Secondary Gun,2
+cl-edinburgh_1939,40-cp-markv_x2-midship,40-he-uk,AA Battery,4
+cl-edinburgh_1939,12-cp-markii_x2-aft,12-b-uk,AA Battery,5
+cl-edinburgh_1939,533-tt-tripple-uk_x2,,,
+cl-edinburgh_1939,placeholder_torpedo,,,
+cl-edinburgh_1939,dcr-unknown_x1,,,
+cl-edinburgh_1942,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-edinburgh_1942,102-cp-twin-ha-markxix_x6-edinburgh,102-he-uk,Secondary Gun,2
+cl-edinburgh_1942,40-cp-markv_x2-midship,40-he-uk,AA Battery,4
+cl-edinburgh_1942,20-p-mark1_x6-edinburgh,20-he-uk,AA Battery,5
+cl-edinburgh_1942,12-cp-markii_x2-aft,12-b-uk,AA Battery,6
+cl-edinburgh_1942,533-tt-tripple-uk_x2,,,
+cl-edinburgh_1942,placeholder_torpedo,,,
+cl-edinburgh_1942,dcr-unknown_x1,,,
+cl-belfast-1940,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-belfast-1940,102-cp-twin-ha-markxix_x6-edinburgh,102-he-uk,Secondary Gun,2
+cl-belfast-1940,40-cp-markv_x2-midship,40-he-uk,AA Battery,3
+cl-belfast-1940,20-p-markv_x5-belfast,20-he-uk,AA Battery,4
+cl-belfast-1940,20-p-mark1_x4-midship,20-he-uk,AA Battery,4
+cl-belfast-1940,533-tt-tripple-uk_x2,,,
+cl-belfast-1940,placeholder_torpedo,,,
+cl-belfast-1940,dcr-unknown_x1,,,
+cl-belfast-1940_1943,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-belfast-1940_1943,102-cp-twin-ha-markxix_x6-edinburgh,102-he-uk,Secondary Gun,2
+cl-belfast-1940_1943,40-cp-markv_x2-midship,40-he-uk,AA Battery,3
+cl-belfast-1940_1943,20-p-markv_x5-belfast,20-he-uk,AA Battery,4
+cl-belfast-1940_1943,20-p-mark1_x8-midship,20-he-uk,AA Battery,4
+cl-belfast-1940_1943,533-tt-tripple-uk_x2,,,
+cl-belfast-1940_1943,placeholder_torpedo,,,
+cl-belfast-1940_1943,dcr-unknown_x1,,,
+cl-belfast-1940_1944,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-belfast-1940_1944,102-cp-twin-ha-markxix_x6-edinburgh,102-he-uk,Secondary Gun,2
+cl-belfast-1940_1944,40-cp-markv_x2-midship,40-he-uk,AA Battery,3
+cl-belfast-1940_1944,20-p-markv_x4-leander,20-he-uk,AA Battery,4
+cl-belfast-1940_1944,20-p-mark1_x14-belfast,20-he-uk,AA Battery,4
+cl-belfast-1940_1944,533-tt-tripple-uk_x2,,,
+cl-belfast-1940_1944,placeholder_torpedo,,,
+cl-belfast-1940_1944,dcr-unknown_x1,,,
+cl-belfast-1940_1945-5,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-belfast-1940_1945-5,102-cp-twin-ha-markxix_x4-belfast,102-he-uk,Secondary Gun,2
+cl-belfast-1940_1945-5,40-cp-markv_x2-midship,40-he-uk,AA Battery,3
+cl-belfast-1940_1945-5,40-cp-markvii_x4-belfast,40-he-uk,AA Battery,3
+cl-belfast-1940_1945-5,40-p-markii_x4-belfast,40-he-uk,AA Battery,3
+cl-belfast-1940_1945-5,20-p-markv_x4-leander,20-he-uk,AA Battery,4
+cl-belfast-1940_1945-5,20-p-mark1_x6-belfast,20-he-uk,AA Battery,4
+cl-belfast-1940_1945-5,533-tt-tripple-uk_x2,,,
+cl-belfast-1940_1945-5,placeholder_torpedo,,,
+cl-belfast-1940_1945-8,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-belfast-1940_1945-8,102-cp-twin-ha-markxix_x4-belfast,102-he-uk,Secondary Gun,2
+cl-belfast-1940_1945-8,40-cp-markvii-single_x5-belfast,40-he-mk1,AA Battery,3
+cl-belfast-1940_1945-8,40-cp-markv_x2-midship,40-he-uk,AA Battery,4
+cl-belfast-1940_1945-8,40-cp-markvii_x4-belfast,40-he-uk,AA Battery,4
+cl-belfast-1940_1945-8,40-p-markii_x4-belfast,40-he-uk,AA Battery,4
+cl-belfast-1940_1945-8,20-p-markv_x2-aft,20-he-uk,AA Battery,5
+cl-belfast-1940_1945-8,20-p-mark1_x4-midship,20-he-uk,AA Battery,5
+cl-belfast-1940_1945-8,533-tt-tripple-uk_x2,,,
+cl-belfast-1940_1945-8,placeholder_torpedo,,,
+cl-belfast-1940_1950,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-belfast-1940_1950,102-cp-twin-ha-markxix_x4-belfast,102-he-uk,Secondary Gun,2
+cl-belfast-1940_1950,40-cp-markvii-single_x5-belfast,40-he-mk1,AA Battery,3
+cl-belfast-1940_1950,40-cp-markv_x2-midship,40-he-uk,AA Battery,4
+cl-belfast-1940_1950,40-cp-markvii_x4-belfast,40-he-uk,AA Battery,4
+cl-belfast-1940_1950,533-tt-tripple-uk_x2,,,
+cl-belfast-1940_1950,placeholder_torpedo,,,
+cl-belfast-1940_1955,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-belfast-1940_1955,102-cp-twin-ha-markxix_x4-belfast,102-he-uk,Secondary Gun,2
+cl-belfast-1940_1955,40-cp-markv-dual_x6-belfast,40-he-mk1,AA Battery,3
+cl-belfast-1940_1963,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-belfast-1940_1963,102-cp-twin-ha-markxix_x4-belfast,102-he-uk,Secondary Gun,2
+cl-belfast-1940_1963,40-cp-markv-dual_x2-fore,40-he-mk1,AA Battery,3
+cl-fiji,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji,12-cp-markii_x2-aft,12-b-uk,AA Battery,4
+cl-fiji,533-tt-tripple-uk_x2,,,
+cl-fiji,placeholder_torpedo,,,
+cl-fiji,dcr-unknown_x1,,,
+cl-fiji_1940,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_1940,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_1940,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_1940,12-cp-markii_x4-fiji,12-b-uk,AA Battery,4
+cl-fiji_1940,533-tt-tripple-uk_x2,,,
+cl-fiji_1940,placeholder_torpedo,,,
+cl-fiji_1940,dcr-unknown_x1,,,
+cl-fiji_1941,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_1941,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_1941,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_1941,20-p-mark1_x4-fiji,20-he-uk,AA Battery,4
+cl-fiji_1941,12-cp-markii_x2-aft,12-b-uk,AA Battery,5
+cl-fiji_1941,533-tt-tripple-uk_x2,,,
+cl-fiji_1941,placeholder_torpedo,,,
+cl-fiji_1941,dcr-unknown_x1,,,
+cl-fiji_1943,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_1943,20-p-markv_x8-fiji,20-he-uk,AA Battery,4
+cl-fiji_1943,533-tt-tripple-uk_x2,,,
+cl-fiji_1943,placeholder_torpedo,,,
+cl-fiji_1943,dcr-unknown_x1,,,
+cl-fiji_1945,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_1945,40-cp-markvii-single_x4-midship,40-he-mk1,AA Battery,3
+cl-fiji_1945,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,4
+cl-fiji_1945,20-p-markv_x8-fiji,20-he-uk,AA Battery,5
+cl-fiji_1945,533-tt-tripple-uk_x2,,,
+cl-fiji_1945,placeholder_torpedo,,,
+cl-mysore,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-mysore,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-mysore,40-cp-markv-dual_x5-mysore,40-he-mk1,AA Battery,3
+cl-mysore,40-cp-markvii-single_x2-mysore,40-he-mk1,AA Battery,3
+cl-mysore,533-tt-tripple-uk_x2,,,
+cl-mysore,placeholder_torpedo,,,
+cl-fiji_mauritius-1943,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_mauritius-1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_mauritius-1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_mauritius-1943,20-p-mark1_x24-mauritius,20-he-uk,AA Battery,4
+cl-fiji_mauritius-1943,533-tt-tripple-uk_x2,,,
+cl-fiji_mauritius-1943,placeholder_torpedo,,,
+cl-fiji_mauritius-1943,dcr-unknown_x1,,,
+cl-fiji_mauritius-1945,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_mauritius-1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_mauritius-1945,40-cp-markvii_x5-fiji,40-he-uk,AA Battery,3
+cl-fiji_mauritius-1945,20-p-mark1_x24-mauritius,20-he-uk,AA Battery,4
+cl-fiji_mauritius-1945,533-tt-tripple-uk_x2,,,
+cl-fiji_mauritius-1945,placeholder_torpedo,,,
+cl-fiji_mauritius-1945,dcr-unknown_x1,,,
+cl-fiji_kenya-1941,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_kenya-1941,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_kenya-1941,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_kenya-1941,20-p-mark1_x2-fantail,20-he-uk,AA Battery,4
+cl-fiji_kenya-1941,12-cp-markii_x2-aft,12-b-uk,AA Battery,5
+cl-fiji_kenya-1941,533-tt-tripple-uk_x2,,,
+cl-fiji_kenya-1941,placeholder_torpedo,,,
+cl-fiji_kenya-1941,dcr-unknown_x1,,,
+cl-fiji_kenya-1942,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_kenya-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_kenya-1942,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_kenya-1942,20-p-markv_x6-southampton,20-he-uk,AA Battery,4
+cl-fiji_kenya-1942,533-tt-tripple-uk_x2,,,
+cl-fiji_kenya-1942,placeholder_torpedo,,,
+cl-fiji_kenya-1942,dcr-unknown_x1,,,
+cl-fiji_kenya-1943,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_kenya-1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_kenya-1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_kenya-1943,20-p-markv_x8-southampton,20-he-uk,AA Battery,4
+cl-fiji_kenya-1943,533-tt-tripple-uk_x2,,,
+cl-fiji_kenya-1943,placeholder_torpedo,,,
+cl-fiji_kenya-1943,dcr-unknown_x1,,,
+cl-fiji_kenya-1945-4,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_kenya-1945-4,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_kenya-1945-4,40-cp-markv-dual_x2-aft,40-he-mk1,AA Battery,3
+cl-fiji_kenya-1945-4,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,4
+cl-fiji_kenya-1945-4,20-p-markv_x8-southampton,20-he-uk,AA Battery,5
+cl-fiji_kenya-1945-4,533-tt-tripple-uk_x2,,,
+cl-fiji_kenya-1945-4,placeholder_torpedo,,,
+cl-fiji_kenya-1945-4,dcr-unknown_x1,,,
+cl-fiji_kenya-1945-8,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_kenya-1945-8,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_kenya-1945-8,40-cp-markv-dual_x5-mysore,40-he-mk1,AA Battery,3
+cl-fiji_kenya-1945-8,40-cp-markvii-single_x8-alt,40-he-mk1,AA Battery,3
+cl-fiji_kenya-1945-8,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,4
+cl-fiji_kenya-1945-8,533-tt-tripple-uk_x2,,,
+cl-fiji_kenya-1945-8,placeholder_torpedo,,,
+cl-fiji_kenya-1945-8,dcr-unknown_x1,,,
+cl-fiji_trinidad-1942,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_trinidad-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_trinidad-1942,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_trinidad-1942,20-p-mark1_x4-fiji,20-he-uk,AA Battery,4
+cl-fiji_trinidad-1942,12-cp-markii_x4-fiji,12-b-uk,AA Battery,5
+cl-fiji_trinidad-1942,533-tt-tripple-uk_x2,,,
+cl-fiji_trinidad-1942,placeholder_torpedo,,,
+cl-fiji_trinidad-1942,dcr-unknown_x1,,,
+cl-fiji_jamaica,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_jamaica,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_jamaica,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_jamaica,20-p-mark1_x4-fiji-alt,20-he-uk,AA Battery,4
+cl-fiji_jamaica,533-tt-tripple-uk_x2,,,
+cl-fiji_jamaica,placeholder_torpedo,,,
+cl-fiji_jamaica,dcr-unknown_x1,,,
+cl-fiji_jamaica-1943,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_jamaica-1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_jamaica-1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_jamaica-1943,20-p-markv_x8,20-he-uk,AA Battery,4
+cl-fiji_jamaica-1943,20-p-mark1_x4-fiji-alt,20-he-uk,AA Battery,4
+cl-fiji_jamaica-1943,533-tt-tripple-uk_x2,,,
+cl-fiji_jamaica-1943,placeholder_torpedo,,,
+cl-fiji_jamaica-1943,dcr-unknown_x1,,,
+cl-fiji_jamaica-1945-6,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_jamaica-1945-6,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_jamaica-1945-6,40-cp-markvii-single_x2-fiji,40-he-mk1,AA Battery,3
+cl-fiji_jamaica-1945-6,40-cp-markvii_x5-fiji,40-he-uk,AA Battery,4
+cl-fiji_jamaica-1945-6,20-p-markv_x6-fiji,20-he-uk,AA Battery,5
+cl-fiji_jamaica-1945-6,20-p-mark1_x2-turret,20-he-uk,AA Battery,5
+cl-fiji_jamaica-1945-6,533-tt-tripple-uk_x2,,,
+cl-fiji_jamaica-1945-6,placeholder_torpedo,,,
+cl-fiji_jamaica-1945-6,dcr-unknown_x1,,,
+cl-fiji_jamaica-1945-11,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_jamaica-1945-11,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_jamaica-1945-11,40-cp-markvii-single_x4-fiji,40-he-mk1,AA Battery,3
+cl-fiji_jamaica-1945-11,40-cp-markvii_x5-fiji,40-he-uk,AA Battery,4
+cl-fiji_jamaica-1945-11,40-p-markii_x4-fiji,40-he-uk,AA Battery,4
+cl-fiji_jamaica-1945-11,20-p-markv_x2-midship,20-he-uk,AA Battery,5
+cl-fiji_jamaica-1945-11,533-tt-tripple-uk_x2,,,
+cl-fiji_jamaica-1945-11,placeholder_torpedo,,,
+cl-fiji_jamaica-1945-11,dcr-unknown_x1,,,
+cl-fiji_jamaica-1950,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_jamaica-1950,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_jamaica-1950,40-cp-markvii-single_x8-fiji,40-he-mk1,AA Battery,3
+cl-fiji_jamaica-1950,40-cp-markvii_x5-fiji,40-he-uk,AA Battery,4
+cl-fiji_jamaica-1950,533-tt-tripple-uk_x2,,,
+cl-fiji_jamaica-1950,placeholder_torpedo,,,
+cl-fiji_jamaica-1950,dcr-unknown_x1,,,
+cl-fiji_jamaica-1954,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_jamaica-1954,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_jamaica-1954,40-cp-markv-dual_x5-fiji,40-he-mk1,AA Battery,3
+cl-fiji_jamaica-1954,40-cp-markvii-single_x8-fiji,40-he-mk1,AA Battery,3
+cl-fiji_jamaica-1954,533-tt-tripple-uk_x2,,,
+cl-fiji_jamaica-1954,placeholder_torpedo,,,
+cl-fiji_jamaica-1954,dcr-unknown_x1,,,
+cl-fiji_gambia,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_gambia,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_gambia,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_gambia,40-p-markii_x2-aft,40-he-uk,AA Battery,3
+cl-fiji_gambia,533-tt-tripple-uk_x2,,,
+cl-fiji_gambia,placeholder_torpedo,,,
+cl-fiji_gambia,dcr-unknown_x1,,,
+cl-fiji_gambia-1942,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_gambia-1942,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_gambia-1942,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_gambia-1942,40-p-markii_x2-aft,40-he-uk,AA Battery,3
+cl-fiji_gambia-1942,20-p-mark1_x6-southampton-alt,20-he-uk,AA Battery,4
+cl-fiji_gambia-1942,533-tt-tripple-uk_x2,,,
+cl-fiji_gambia-1942,placeholder_torpedo,,,
+cl-fiji_gambia-1942,dcr-unknown_x1,,,
+cl-fiji_gambia-1943,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_gambia-1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_gambia-1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_gambia-1943,20-p-mark1_x10-fiji-alt,20-he-uk,AA Battery,4
+cl-fiji_gambia-1943,533-tt-tripple-uk_x2,,,
+cl-fiji_gambia-1943,placeholder_torpedo,,,
+cl-fiji_gambia-1943,dcr-unknown_x1,,,
+cl-fiji_gambia-1949,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_gambia-1949,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_gambia-1949,40-cp-markv-dual_x5-fiji-alt,40-he-mk1,AA Battery,3
+cl-fiji_gambia-1949,40-cp-markvii-single_x2-fiji,40-he-mk1,AA Battery,3
+cl-fiji_gambia-1949,533-tt-tripple-uk_x2,,,
+cl-fiji_gambia-1949,placeholder_torpedo,,,
+cl-fiji_gambia-1954,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_gambia-1954,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_gambia-1954,40-cp-markv-dual_x7-fiji,40-he-mk1,AA Battery,3
+cl-fiji_gambia-1954,533-tt-tripple-uk_x2,,,
+cl-fiji_gambia-1954,placeholder_torpedo,,,
+cl-fiji_bermuda-1943,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_bermuda-1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_bermuda-1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_bermuda-1943,20-p-mark1_x16-fiji,20-he-uk,AA Battery,4
+cl-fiji_bermuda-1943,533-tt-tripple-uk_x2,,,
+cl-fiji_bermuda-1943,placeholder_torpedo,,,
+cl-fiji_bermuda-1943,dcr-unknown_x1,,,
+cl-fiji_bermuda-1944,152-ag-markxxiii_abxy,152-cpbc-uk,Primary Gun,1
+cl-fiji_bermuda-1944,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_bermuda-1944,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+cl-fiji_bermuda-1944,20-p-markv_x8-fiji-alt,20-he-uk,AA Battery,4
+cl-fiji_bermuda-1944,20-p-mark1_x4-fiji,20-he-uk,AA Battery,4
+cl-fiji_bermuda-1944,533-tt-tripple-uk_x2,,,
+cl-fiji_bermuda-1944,placeholder_torpedo,,,
+cl-fiji_bermuda-1944,dcr-unknown_x1,,,
+cl-fiji_bermuda-1945-3,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_bermuda-1945-3,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_bermuda-1945-3,40-cp-markvii_x5-fiji,40-he-uk,AA Battery,3
+cl-fiji_bermuda-1945-3,40-p-markii_x4-belfast,40-he-uk,AA Battery,3
+cl-fiji_bermuda-1945-3,20-p-markv_x4-fiji,20-he-uk,AA Battery,4
+cl-fiji_bermuda-1945-3,20-p-mark1_x4-fiji,20-he-uk,AA Battery,4
+cl-fiji_bermuda-1945-3,533-tt-tripple-uk_x2,,,
+cl-fiji_bermuda-1945-3,placeholder_torpedo,,,
+cl-fiji_bermuda-1945-3,dcr-unknown_x1,,,
+cl-fiji_bermuda-1945-8,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_bermuda-1945-8,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_bermuda-1945-8,40-cp-markvii-single_x4-fore,40-he-mk1,AA Battery,3
+cl-fiji_bermuda-1945-8,40-cp-markvii_x5-fiji,40-he-uk,AA Battery,4
+cl-fiji_bermuda-1945-8,40-p-markii_x4-belfast,40-he-uk,AA Battery,4
+cl-fiji_bermuda-1945-8,20-p-markv_x2-midship,20-he-uk,AA Battery,5
+cl-fiji_bermuda-1945-8,20-p-mark1_x2-fantail,20-he-uk,AA Battery,5
+cl-fiji_bermuda-1945-8,533-tt-tripple-uk_x2,,,
+cl-fiji_bermuda-1945-8,placeholder_torpedo,,,
+cl-fiji_bermuda-1945-8,dcr-unknown_x1,,,
+cl-fiji_bermuda-1948,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_bermuda-1948,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_bermuda-1948,40-cp-markvii-single_x4-fore,40-he-mk1,AA Battery,3
+cl-fiji_bermuda-1948,40-cp-markvii_x5-fiji,40-he-uk,AA Battery,4
+cl-fiji_bermuda-1948,533-tt-tripple-uk_x2,,,
+cl-fiji_bermuda-1948,placeholder_torpedo,,,
+cl-fiji_bermuda-1948,dcr-unknown_x1,,,
+cl-fiji_bermuda-1956,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-fiji_bermuda-1956,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-fiji_bermuda-1956,40-cp-markv-dual_x7-fiji,40-he-mk1,AA Battery,3
+cl-fiji_bermuda-1956,533-tt-tripple-uk_x2,,,
+cl-fiji_bermuda-1956,placeholder_torpedo,,,
+cl-ceylon,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon,40-cp-markvii_x3-ceylon,40-he-uk,AA Battery,3
+cl-ceylon,20-p-markv_x8-ceylon,20-he-uk,AA Battery,4
+cl-ceylon,533-tt-tripple-uk_x2,,,
+cl-ceylon,placeholder_torpedo,,,
+cl-ceylon,dcr-unknown_x1,,,
+cl-ceylon_1944,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon_1944,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon_1944,40-cp-markvii_x3-ceylon,40-he-uk,AA Battery,3
+cl-ceylon_1944,20-p-markv_x10-ceylon,20-he-uk,AA Battery,4
+cl-ceylon_1944,20-p-mark1_x8-ceylon,20-he-uk,AA Battery,4
+cl-ceylon_1944,533-tt-tripple-uk_x2,,,
+cl-ceylon_1944,placeholder_torpedo,,,
+cl-ceylon_1944,dcr-unknown_x1,,,
+cl-ceylon_1945,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon_1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon_1945,40-cp-markvii-single_x4-ceylon,40-he-mk1,AA Battery,3
+cl-ceylon_1945,40-cp-markvii_x3-ceylon,40-he-uk,AA Battery,4
+cl-ceylon_1945,20-p-markv_x6-ceylon,20-he-uk,AA Battery,5
+cl-ceylon_1945,20-p-mark1_x2-fantail,20-he-uk,AA Battery,5
+cl-ceylon_1945,533-tt-tripple-uk_x2,,,
+cl-ceylon_1945,placeholder_torpedo,,,
+cl-ceylon_1945,dcr-unknown_x1,,,
+cl-ceylon_1950,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon_1950,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon_1950,40-cp-markv-dual_x5-mysore,40-he-mk1,AA Battery,3
+cl-ceylon_1950,40-cp-markvii-single_x8-ceylon,40-he-mk1,AA Battery,3
+cl-ceylon_1950,533-tt-tripple-uk_x2,,,
+cl-ceylon_1950,placeholder_torpedo,,,
+cl-ceylon_1955,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon_1955,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon_1955,40-cp-markv-dual_x5-mysore,40-he-mk1,AA Battery,3
+cl-ceylon_1955,40-cp-markvii-single_x2-aft,40-he-mk1,AA Battery,3
+cl-almirante-grau-1959,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-almirante-grau-1959,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-almirante-grau-1959,40-cp-markv-dual_x5-mysore,40-he-mk1,AA Battery,3
+cl-almirante-grau-1959,40-cp-markvii-single_x2-aft,40-he-mk1,AA Battery,3
+cl-ceylon_newfoundland-1943,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon_newfoundland-1943,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon_newfoundland-1943,40-cp-markviii_x2-midship,40-he-mk1,AA Battery,3
+cl-ceylon_newfoundland-1943,40-cp-markvii_x3-ceylon,40-he-uk,AA Battery,4
+cl-ceylon_newfoundland-1943,20-p-markv_x10-ceylon,20-he-uk,AA Battery,5
+cl-ceylon_newfoundland-1943,20-p-mark1_x2-fantail,20-he-uk,AA Battery,5
+cl-ceylon_newfoundland-1943,533-tt-tripple-uk_x2,,,
+cl-ceylon_newfoundland-1943,placeholder_torpedo,,,
+cl-ceylon_newfoundland-1943,dcr-unknown_x1,,,
+cl-ceylon_uganda,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon_uganda,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon_uganda,40-cp-markvii_x3-ceylon,40-he-uk,AA Battery,3
+cl-ceylon_uganda,20-p-markv_x10-ceylon,20-he-uk,AA Battery,4
+cl-ceylon_uganda,533-tt-tripple-uk_x2,,,
+cl-ceylon_uganda,placeholder_torpedo,,,
+cl-ceylon_uganda,dcr-unknown_x1,,,
+cl-ceylon_uganda-1944,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon_uganda-1944,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon_uganda-1944,40-cp-markviii_x2-midship,40-he-mk1,AA Battery,3
+cl-ceylon_uganda-1944,40-cp-markvii_x3-ceylon,40-he-uk,AA Battery,4
+cl-ceylon_uganda-1944,20-p-markv_x4-leander,20-he-uk,AA Battery,5
+cl-ceylon_uganda-1944,20-p-mark1_x8-ceylon,20-he-uk,AA Battery,5
+cl-ceylon_uganda-1944,533-tt-tripple-uk_x2,,,
+cl-ceylon_uganda-1944,placeholder_torpedo,,,
+cl-ceylon_uganda-1944,dcr-unknown_x1,,,
+cl-ceylon_uganda-1945,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon_uganda-1945,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon_uganda-1945,40-cp-markviii_x2-midship,40-he-mk1,AA Battery,3
+cl-ceylon_uganda-1945,40-cp-markvii_x3-ceylon,40-he-uk,AA Battery,4
+cl-ceylon_uganda-1945,20-p-mark1_x12-ceylon,20-he-uk,AA Battery,5
+cl-ceylon_uganda-1945,533-tt-tripple-uk_x2,,,
+cl-ceylon_uganda-1945,placeholder_torpedo,,,
+cl-ceylon_uganda-1945,dcr-unknown_x1,,,
+cl-ceylon_uganda-1951,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-ceylon_uganda-1951,102-cp-twin-ha-markxix_x4-leander,102-he-uk,Secondary Gun,2
+cl-ceylon_uganda-1951,40-cp-markviii_x2-midship,40-he-mk1,AA Battery,3
+cl-ceylon_uganda-1951,40-cp-markv-dual_x1-fantail,40-he-mk1,AA Battery,3
+cl-ceylon_uganda-1951,40-cp-markvii-single_x4,40-he-mk1,AA Battery,3
+cl-ceylon_uganda-1951,533-tt-tripple-uk_x2,,,
+cl-ceylon_uganda-1951,placeholder_torpedo,,,
+cl-ceylon_uganda-1951,dcr-unknown_x1,,,
+cl-minotaur,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-minotaur,102-cp-twin-ha-markxix_x5-minotaur,102-he-uk,Secondary Gun,2
+cl-minotaur,40-cp-markvii_x4-minotaur,40-he-uk,AA Battery,3
+cl-minotaur,20-p-markv_x8-minotaur,20-he-uk,AA Battery,4
+cl-minotaur,20-p-mark1_x6-minotaur,20-he-uk,AA Battery,4
+cl-minotaur,533-tt-tripple-uk_x2,,,
+cl-minotaur,placeholder_torpedo,,,
+cl-minotaur,dcr-unknown_x1,,,
+cl-minotaur_1945,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-minotaur_1945,102-cp-twin-ha-markxix_x5-minotaur,102-he-uk,Secondary Gun,2
+cl-minotaur_1945,40-cp-markvii-single_x13-minotaur,40-he-mk1,AA Battery,3
+cl-minotaur_1945,40-cp-markvii_x4-minotaur,40-he-uk,AA Battery,4
+cl-minotaur_1945,533-tt-tripple-uk_x2,,,
+cl-minotaur_1945,placeholder_torpedo,,,
+cl-minotaur_1945,dcr-unknown_x1,,,
+cl-minotaur_1951,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-minotaur_1951,102-cp-twin-ha-markxix_x5-minotaur,102-he-uk,Secondary Gun,2
+cl-minotaur_1951,40-cp-boffin_x9-minotaur,40-he-mk1,AA Battery,3
+cl-minotaur_1951,40-cp-markvii_x4-minotaur,40-he-uk,AA Battery,4
+cl-minotaur_1951,533-tt-tripple-uk_x2,,,
+cl-minotaur_1951,placeholder_torpedo,,,
+cl-minotaur_1951,dcr-unknown_x1,,,
+cl-minotaur_1957,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-minotaur_1957,102-cp-twin-ha-markxix_x5-minotaur,102-he-uk,Secondary Gun,2
+cl-minotaur_1957,placeholder_40/70-x6-minotaur,40-he-mk1,AA Battery,3
+cl-minotaur_ontario-1945,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-minotaur_ontario-1945,102-cp-twin-ha-markxix_x5-minotaur,102-he-uk,Secondary Gun,2
+cl-minotaur_ontario-1945,40-cp-markvii-single_x4-minotaur,40-he-mk1,AA Battery,3
+cl-minotaur_ontario-1945,40-cp-markvii_x4-minotaur,40-he-uk,AA Battery,4
+cl-minotaur_ontario-1945,20-p-markv_x8-minotaur,20-he-uk,AA Battery,5
+cl-minotaur_ontario-1945,20-p-mark1_x4-minotaur,20-he-uk,AA Battery,5
+cl-minotaur_ontario-1945,533-tt-tripple-uk_x2,,,
+cl-minotaur_ontario-1945,placeholder_torpedo,,,
+cl-minotaur_ontario-1945,dcr-unknown_x1,,,
+cl-minotaur_ontario-1951,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-minotaur_ontario-1951,102-cp-twin-ha-markxix_x5-minotaur,102-he-uk,Secondary Gun,2
+cl-minotaur_ontario-1951,40-cp-rp-markii_x4-ontario,40-he-mk1,AA Battery,3
+cl-minotaur_ontario-1951,40-cp-markvii-single_x4-minotaur,40-he-mk1,AA Battery,3
+cl-minotaur_ontario-1951,533-tt-tripple-uk_x2,,,
+cl-minotaur_ontario-1951,placeholder_torpedo,,,
+cl-minotaur_ontario-1955,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-minotaur_ontario-1955,40-cp-rp-markii_x3,40-he-mk1,AA Battery,3
+cl-minotaur_ontario-1955,40-cp-markvii-single_x1-fore,40-he-mk1,AA Battery,3
+cl-superb,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-superb,102-cp-twin-ha-markxix_x5-minotaur,102-he-uk,Secondary Gun,2
+cl-superb,40-cp-markvii-single_x4-minotaur,40-he-mk1,AA Battery,3
+cl-superb,40-cp-markvii_x4-minotaur,40-he-uk,AA Battery,4
+cl-superb,40-p-markii_x2-aft-alt,40-he-uk,AA Battery,4
+cl-superb,20-p-markv_x2-midship,20-he-uk,AA Battery,5
+cl-superb,20-p-mark1_x2-fore,20-he-uk,AA Battery,5
+cl-superb,533-tt-tripple-uk_x2,,,
+cl-superb,placeholder_torpedo,,,
+cl-superb,dcr-unknown_x1,,,
+cl-superb_1953,152-ag-markxxiii_aby,152-cpbc-uk,Primary Gun,1
+cl-superb_1953,102-cp-twin-ha-markxix_x5-minotaur,102-he-uk,Secondary Gun,2
+cl-superb_1953,40-cp-markvii-single_x4-superb,40-he-mk1,AA Battery,3
+cl-superb_1953,40-cp-markvii_x4-minotaur,40-he-uk,AA Battery,4
+cl-superb_1953,20-p-mark1_x2-fore,20-he-uk,AA Battery,5
+cl-superb_1953,533-tt-tripple-uk_x2,,,
+cl-superb_1953,placeholder_torpedo,,,
+cl-bellerophon,152-ag-rp10-markxxiv_aby,152-cpbc-uk,Primary Gun,1
+cl-bellerophon,102-cp-twin-ha-markxix_x5-minotaur,102-he-uk,Secondary Gun,2
+cl-bellerophon,40-cp-markvii-single_x4-minotaur,40-he-mk1,AA Battery,3
+cl-bellerophon,40-cp-markvii_x4-minotaur,40-he-uk,AA Battery,4
+cl-bellerophon,40-p-markii_x2-aft-alt,40-he-uk,AA Battery,4
+cl-bellerophon,20-p-markv_x2-midship,20-he-uk,AA Battery,5
+cl-bellerophon,20-p-mark1_x2-fore,20-he-uk,AA Battery,5
+cl-bellerophon,533-tt-tripple-uk_x2,,,
+cl-bellerophon,placeholder_torpedo,,,
+cl-bellerophon,dcr-unknown_x1,,,
+cl-tiger-1954,152-ag-markxxvi_ay,152-ap_152-he-uk,Primary Gun,1
+cl-tiger-1954,76-sg-mark-6_aps,76-he-fuze-nc101,AA Battery,2
+claa-dido,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido,12-cp-markii_x2-dido,12-b-uk,AA Battery,3
+claa-dido,533-tt-tripple-uk_x2,,,
+claa-dido,placeholder_torpedo,,,
+claa-dido,dcr-unknown_x1,,,
+claa-dido,dct-mki_x2,,,
+claa-dido_1939,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_1939,102-cp-ha-markiii_x1-fore,102-he-uk,Primary Gun,2
+claa-dido_1939,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+claa-dido_1939,12-cp-markii_x2-dido,12-b-uk,AA Battery,4
+claa-dido_1939,533-tt-tripple-uk_x2,,,
+claa-dido_1939,placeholder_torpedo,,,
+claa-dido_1939,dcr-unknown_x1,,,
+claa-dido_1939,dct-mki_x2,,,
+claa-dido_1941,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_1941,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_1941,20-p-mark1_x5-dido,20-he-uk,AA Battery,3
+claa-dido_1941,533-tt-tripple-uk_x2,,,
+claa-dido_1941,placeholder_torpedo,,,
+claa-dido_1941,dcr-unknown_x1,,,
+claa-dido_1941,dct-mki_x2,,,
+claa-dido_1943,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_1943,20-p-markv_x4-leander,20-he-uk,AA Battery,3
+claa-dido_1943,20-p-mark1_x2-midship,20-he-uk,AA Battery,3
+claa-dido_1943,533-tt-tripple-uk_x2,,,
+claa-dido_1943,placeholder_torpedo,,,
+claa-dido_1943,dcr-unknown_x1,,,
+claa-dido_1943,dct-mki_x2,,,
+claa-dido_argonaut,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_argonaut,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_argonaut,20-p-mark1_x4-dido,20-he-uk,AA Battery,3
+claa-dido_argonaut,533-tt-tripple-uk_x2,,,
+claa-dido_argonaut,placeholder_torpedo,,,
+claa-dido_argonaut,dcr-unknown_x1,,,
+claa-dido_argonaut,dct-mki_x2,,,
+claa-dido_argonaut-1943,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_argonaut-1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_argonaut-1943,20-p-markv_x7-dido,20-he-uk,AA Battery,3
+claa-dido_argonaut-1943,533-tt-tripple-uk_x2,,,
+claa-dido_argonaut-1943,placeholder_torpedo,,,
+claa-dido_argonaut-1943,dcr-unknown_x1,,,
+claa-dido_argonaut-1944,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_argonaut-1944,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_argonaut-1944,20-p-markv_x7-dido,20-he-uk,AA Battery,3
+claa-dido_argonaut-1944,20-p-mark1_x6-dido,20-he-uk,AA Battery,3
+claa-dido_argonaut-1944,533-tt-tripple-uk_x2,,,
+claa-dido_argonaut-1944,placeholder_torpedo,,,
+claa-dido_argonaut-1944,dcr-unknown_x1,,,
+claa-dido_argonaut-1945,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_argonaut-1945,40-cp-markvii-single_x7-dido,40-he-mk1,AA Battery,2
+claa-dido_argonaut-1945,40-cp-markvii_x3-dido,40-he-uk,AA Battery,3
+claa-dido_argonaut-1945,20-p-mark1_x6-dido,20-he-uk,AA Battery,4
+claa-dido_argonaut-1945,533-tt-tripple-uk_x2,,,
+claa-dido_argonaut-1945,placeholder_torpedo,,,
+claa-dido_argonaut-1945,dcr-unknown_x1,,,
+claa-dido_charybdis,114-gs-markiii-ud_abxy,114-he-uk,Primary Gun,1
+claa-dido_charybdis,102-cp-ha-markiii_x1-fore,102-he-uk,Primary Gun,2
+claa-dido_charybdis,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+claa-dido_charybdis,40-p-markii_x2-aft,40-he-uk,AA Battery,3
+claa-dido_charybdis,20-p-mark1_x4-dido-alt,20-he-uk,AA Battery,4
+claa-dido_charybdis,533-tt-tripple-uk_x2,,,
+claa-dido_charybdis,placeholder_torpedo,,,
+claa-dido_charybdis,dcr-unknown_x1,,,
+claa-dido_charybdis,dct-mki_x2,,,
+claa-dido_charybdis-1943,114-gs-markiii-ud_abxy,114-he-uk,Primary Gun,1
+claa-dido_charybdis-1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_charybdis-1943,20-p-markv_x2-aft,20-he-uk,AA Battery,3
+claa-dido_charybdis-1943,20-p-mark1_x6-dido-alt,20-he-uk,AA Battery,3
+claa-dido_charybdis-1943,533-tt-tripple-uk_x2,,,
+claa-dido_charybdis-1943,placeholder_torpedo,,,
+claa-dido_charybdis-1943,dcr-unknown_x1,,,
+claa-dido_charybdis-1943,dct-mki_x2,,,
+claa-dido_phoebe-1942,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_phoebe-1942,40-cp-markvii_x3-dido,40-he-uk,AA Battery,2
+claa-dido_phoebe-1942,20-p-mark1_x11-dido,20-he-uk,AA Battery,3
+claa-dido_phoebe-1942,533-tt-tripple-uk_x2,,,
+claa-dido_phoebe-1942,placeholder_torpedo,,,
+claa-dido_phoebe-1942,dcr-unknown_x1,,,
+claa-dido_phoebe-1943,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_phoebe-1943,40-cp-markviii_x3-dido,40-he-mk1,AA Battery,2
+claa-dido_phoebe-1943,20-p-markv_x6-dido,20-he-uk,AA Battery,3
+claa-dido_phoebe-1943,20-p-mark1_x4-dido,20-he-uk,AA Battery,3
+claa-dido_phoebe-1943,533-tt-tripple-uk_x2,,,
+claa-dido_phoebe-1943,placeholder_torpedo,,,
+claa-dido_phoebe-1943,dcr-unknown_x1,,,
+claa-dido_scylla,114-gs-markiii-ud_abxy,114-he-uk,Primary Gun,1
+claa-dido_scylla,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_scylla,20-p-mark1_x8-dido,20-he-uk,AA Battery,3
+claa-dido_scylla,533-tt-tripple-uk_x2,,,
+claa-dido_scylla,placeholder_torpedo,,,
+claa-dido_scylla,dcr-unknown_x1,,,
+claa-dido_scylla-1944,114-gs-markiii-ud_abxy,114-he-uk,Primary Gun,1
+claa-dido_scylla-1944,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_scylla-1944,20-p-markv_x6-dido-alt,20-he-uk,AA Battery,3
+claa-dido_scylla-1944,20-p-mark1_x8-dido,20-he-uk,AA Battery,3
+claa-dido_scylla-1944,533-tt-tripple-uk_x2,,,
+claa-dido_scylla-1944,placeholder_torpedo,,,
+claa-dido_scylla-1944,dcr-unknown_x1,,,
+claa-dido_cleopatra,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_cleopatra,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_cleopatra,40-p-markii_x2-aft,40-he-uk,AA Battery,2
+claa-dido_cleopatra,533-tt-tripple-uk_x2,,,
+claa-dido_cleopatra,placeholder_torpedo,,,
+claa-dido_cleopatra,dcr-unknown_x1,,,
+claa-dido_cleopatra,dct-mki_x2,,,
+claa-dido_cleopatra-1942,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_cleopatra-1942,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_cleopatra-1942,20-p-mark1_x5-dido-alt,20-he-uk,AA Battery,3
+claa-dido_cleopatra-1942,533-tt-tripple-uk_x2,,,
+claa-dido_cleopatra-1942,placeholder_torpedo,,,
+claa-dido_cleopatra-1942,dcr-unknown_x1,,,
+claa-dido_cleopatra-1942,dct-mki_x2,,,
+claa-dido_cleopatra-1944,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_cleopatra-1944,40-cp-markviii_x3-dido,40-he-mk1,AA Battery,2
+claa-dido_cleopatra-1944,20-p-markv_x6-dido,20-he-uk,AA Battery,3
+claa-dido_cleopatra-1944,533-tt-tripple-uk_x2,,,
+claa-dido_cleopatra-1944,placeholder_torpedo,,,
+claa-dido_cleopatra-1944,dcr-unknown_x1,,,
+claa-dido_cleopatra-1951,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_cleopatra-1951,40-cp-markv-dual_x3-dido,40-he-mk1,AA Battery,2
+claa-dido_cleopatra-1951,20-p-markv_x6-dido,20-he-uk,AA Battery,3
+claa-dido_cleopatra-1951,533-tt-tripple-uk_x2,,,
+claa-dido_cleopatra-1951,placeholder_torpedo,,,
+claa-dido_cleopatra-1951,dcr-unknown_x1,,,
+claa-dido_sirius-1943,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_sirius-1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_sirius-1943,20-p-mark1_x7-dido,20-he-uk,AA Battery,3
+claa-dido_sirius-1943,533-tt-tripple-uk_x2,,,
+claa-dido_sirius-1943,placeholder_torpedo,,,
+claa-dido_sirius-1943,dcr-unknown_x1,,,
+claa-dido_sirius-1943,dct-mki_x2,,,
+claa-dido_sirius-1944,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_sirius-1944,40-cp-markvii-single_x2-aft,40-he-mk1,AA Battery,2
+claa-dido_sirius-1944,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+claa-dido_sirius-1944,20-p-mark1_x6-dido-alt-2,20-he-uk,AA Battery,4
+claa-dido_sirius-1944,533-tt-tripple-uk_x2,,,
+claa-dido_sirius-1944,placeholder_torpedo,,,
+claa-dido_sirius-1944,dcr-unknown_x1,,,
+claa-dido_sirius-1944,dct-mki_x2,,,
+claa-dido_sirius-1945,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_sirius-1945,40-cp-markvii-single_x4-dido,40-he-mk1,AA Battery,2
+claa-dido_sirius-1945,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,3
+claa-dido_sirius-1945,20-p-mark1_x4-dido,20-he-uk,AA Battery,4
+claa-dido_sirius-1945,533-tt-tripple-uk_x2,,,
+claa-dido_sirius-1945,placeholder_torpedo,,,
+claa-dido_euryalus-1943,134-ag-markii_abcxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_euryalus-1943,40-cp-markvii_x2-fiji,40-he-uk,AA Battery,2
+claa-dido_euryalus-1943,20-p-markv_x4-dido,20-he-uk,AA Battery,3
+claa-dido_euryalus-1943,20-p-mark1_x5-dido-alt,20-he-uk,AA Battery,3
+claa-dido_euryalus-1943,533-tt-tripple-uk_x2,,,
+claa-dido_euryalus-1943,placeholder_torpedo,,,
+claa-dido_euryalus-1943,dcr-unknown_x1,,,
+claa-dido_euryalus-1943,dct-mki_x2,,,
+claa-dido_euryalus-1944,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_euryalus-1944,40-cp-markviii_x3-dido,40-he-uk,AA Battery,2
+claa-dido_euryalus-1944,20-p-markv_x6-dido-alt-2,20-he-uk,AA Battery,3
+claa-dido_euryalus-1944,20-p-mark1_x5-dido-alt,20-he-uk,AA Battery,3
+claa-dido_euryalus-1944,533-tt-tripple-uk_x2,,,
+claa-dido_euryalus-1944,placeholder_torpedo,,,
+claa-dido_euryalus-1944,dcr-unknown_x1,,,
+claa-dido_euryalus-1944,dct-mki_x2,,,
+claa-dido_euryalus-1946,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-dido_euryalus-1946,40-cp-markviii_x3-dido,40-he-uk,AA Battery,2
+claa-dido_euryalus-1946,20-p-markv_x6-dido-alt-2,20-he-uk,AA Battery,3
+claa-dido_euryalus-1946,533-tt-tripple-uk_x2,,,
+claa-dido_euryalus-1946,placeholder_torpedo,,,
+claa-bellona,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-bellona,40-cp-markviii_x3-dido,40-he-uk,AA Battery,2
+claa-bellona,20-p-markv_x6-bellona,20-he-uk,AA Battery,3
+claa-bellona,533-tt-tripple-uk_x2,,,
+claa-bellona,placeholder_torpedo,,,
+claa-bellona,dcr-unknown_x1,,,
+claa-bellona_1945,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-bellona_1945,40-cp-markviii_x3-dido,40-he-uk,AA Battery,2
+claa-bellona_1945,20-p-markv_x6-bellona,20-he-uk,AA Battery,3
+claa-bellona_1945,20-p-mark1_x8-bellona,20-he-uk,AA Battery,3
+claa-bellona_1945,533-tt-tripple-uk_x2,,,
+claa-bellona_1945,placeholder_torpedo,,,
+claa-bellona_1945,dcr-unknown_x1,,,
+claa-bellona_1947,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-bellona_1947,40-cp-markviii_x3-dido,40-he-uk,AA Battery,2
+claa-bellona_1947,20-p-markv_x6-bellona,20-he-uk,AA Battery,3
+claa-bellona_1947,20-p-mark1_x4-aft,20-he-uk,AA Battery,3
+claa-bellona_1947,533-tt-tripple-uk_x2,,,
+claa-bellona_1947,placeholder_torpedo,,,
+claa-bellona_1954,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-bellona_1954,40-cp-markiii_x6,40-he-mk1,AA Battery,2
+claa-bellona_1954,533-tt-tripple-uk_x2,,,
+claa-bellona_1954,placeholder_torpedo,,,
+claa-bellona_black-prince-1944,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-bellona_black-prince-1944,40-cp-markvii-single_x2-midship,40-he-mk1,AA Battery,2
+claa-bellona_black-prince-1944,40-cp-markviii_x3-dido,40-he-uk,AA Battery,3
+claa-bellona_black-prince-1944,20-p-markv_x6-bellona,20-he-uk,AA Battery,4
+claa-bellona_black-prince-1944,20-p-mark1_x6,20-he-uk,AA Battery,4
+claa-bellona_black-prince-1944,533-tt-tripple-uk_x2,,,
+claa-bellona_black-prince-1944,placeholder_torpedo,,,
+claa-bellona_black-prince-1944,dcr-unknown_x1,,,
+claa-bellona_black-prince-1952,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-bellona_black-prince-1952,40-cp-toadstool_x10,40-he-mk1,AA Battery,2
+claa-bellona_black-prince-1952,533-tt-tripple-uk_x2,,,
+claa-bellona_black-prince-1952,placeholder_torpedo,,,
+claa-bellona_diadem-1945,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-bellona_diadem-1945,40-cp-markviii_x3-dido,40-he-uk,AA Battery,2
+claa-bellona_diadem-1945,20-p-markv_x6-bellona,20-he-uk,AA Battery,3
+claa-bellona_diadem-1945,20-p-mark1_x6-dido-alt-2,20-he-uk,AA Battery,3
+claa-bellona_diadem-1945,533-tt-tripple-uk_x2,,,
+claa-bellona_diadem-1945,placeholder_torpedo,,,
+claa-bellona_diadem-1945,dcr-unknown_x1,,,
+claa-babur-1956,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-babur-1956,40-cp-markv-dual_x3-dido,40-he-mk1,AA Battery,2
+claa-babur-1956,40-cp-markvii-single_x8-ceylon,40-he-mk1,AA Battery,2
+claa-babur-1956,533-tt-tripple-uk_x2,,,
+claa-babur-1956,placeholder_torpedo,,,
+claa-bellona_royalist,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-bellona_royalist,40-cp-markviii_x3-dido,40-he-uk,AA Battery,2
+claa-bellona_royalist,20-p-markv_x4-leander,20-he-uk,AA Battery,3
+claa-bellona_royalist,20-p-mark1_x2-aft,20-he-uk,AA Battery,3
+claa-bellona_royalist,533-tt-tripple-uk_x2,,,
+claa-bellona_royalist,placeholder_torpedo,,,
+claa-bellona_royalist,dcr-unknown_x1,,,
+claa-bellona_royalist-1953,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
+claa-bellona_royalist-1953,40-ta-staag-markii_x3,40-he-mk1,AA Battery,2
+claa-bellona_royalist-1953,40-cp-markvii-single_x2,40-he-mk1,AA Battery,2
