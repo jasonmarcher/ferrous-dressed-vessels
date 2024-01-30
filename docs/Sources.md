@@ -68,6 +68,8 @@ https://www.naval-history.net/
 
 https://uboat.net/
 
+https://digital.nls.uk/british-military-lists/archive/93506066
+
 ### Submarines
 http://www.designed4submariners.com/Welcome_Page.html
 
@@ -140,7 +142,28 @@ https://www.bulletpicker.com/index.html
 
 https://wargamingmiscellanybackup.wordpress.com/2013/12/
 
+Vindictive fit
+https://www.iwm.org.uk/collections/item/object/205133253
+
+https://www.combinedops.com/HEADQUARTERS%20SHIPS.htm
+
+https://thedockyard.co.uk/wp-content/uploads/2020/05/Crawshaw-Chapters-1-8-1.pdf
+
+https://visit-saint-petersburg.ru/data/documents/THE-IMPERIAL-RUSSIAN-NAVY.-ITS-PAST-PRESENT-AND-FUTURE-BY-FRED.-T.-JANE.pdf
+
+https://www.navy.gov.au/fleet/ships-boats-craft
+
+https://en.wikipedia.org/wiki/HMCS_Prince_Robert
+
+https://cmano-db.com/
+
+https://cmano-db.com/cw/ship/
+
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
 http://www.hisutton.com/WW2-Maru-Yu-Class-Submarine.html
+
+https://en.wikipedia.org/wiki/Imperial_Chinese_Navy
+
+https://en.wikipedia.org/wiki/Dingyuan-class_ironclad
