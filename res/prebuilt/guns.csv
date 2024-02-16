@@ -70,6 +70,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 203-bg-p1905-t,203mm/50 Pattern 1905,"Vickers 8""",britain,1905-01-01,203,49,14397,3,3,Breech,807,0,200,http://www.navweaps.com/Weapons/WNRussian_8-50_m1905.php
 203-bg-p1905-c,"8""/50 Pattern 1905","Vickers 8""",britain,1905-01-01,203,49,14397,4,4,Breech,807,0,200,http://www.navweaps.com/Weapons/WNRussian_8-50_m1905.php
 203-bg-elswick-w,"8""/45 Elswick W","Elswick 8""",britain,1890-01-01,203,45,19400,2,2,Breech,790,0,,http://www.navweaps.com/Weapons/WNIT_8-45_EOC.php
+203-bg-armstrong-u,"8""/45 Armstrong U","Elswick 8""",britain,1890-01-01,203,45,19400,2,1.5,Breech,790,0,,http://www.navweaps.com/Weapons/WNJAP_8-45_EOC.php
 203-bg-bl-markiv,"8""/30 BL Mark IV (EOC F)","Elswick 8""",britain,1880-01-01,203,29.6,,,,Breech,655,0,,http://www.navweaps.com/Weapons/WNBR_8-26_mk1.php#8%22%2F30_%2820.3_cm%29_Mark_IV
 203-bg-bl-markiii,"8""/26 BL Mark III (EOC E)","Elswick 8""",britain,1880-01-01,203,25.6,,,,Breech,595,0,,http://www.navweaps.com/Weapons/WNBR_8-26_mk1.php#8%22%2F26_%2820.3_cm%29_Mark_III
 190-bg-markii,"7.5""/50 Mark II","British 7.5""",britain,1905-01-01,190,50,14800,6,5,Breech,862,0,100,http://www.navweaps.com/Weapons/WNBR_75-50_mk3.php
@@ -117,6 +118,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 120-bg-type41,"4.7""/40 Type 41","Elswick 4.7""",britain,1885-01-01,120,40,2100,6,5,Breech,660,660,150,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-bg-qf-marki,"4.7""/40 QF Mark I","Elswick 4.7""",britain,1885-01-01,120,40,2100,6,5,Breech,645,645,,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-bg-m1889,120mm/40 Model 1889,"Elswick 4.7""",britain,1885-01-01,120,40,2100,6,5,Breech,645,645,,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
+120-bg-armstrong-p,"4.7""/40 Armstrong P","Elswick 4.7""",britain,1885-01-01,120,40,2100,6,5,Breech,660,660,150,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 114-bg-qf-marki,"4.5""/45 QF Mark I","British 4.5""",britain,1935-01-01,114,45,2859,12,12,Breech,746,746,400,http://www.navweaps.com/Weapons/WNBR_45-45_mk1.php
 102-bg-vickers-e,"4""/50 Vickers E","Vickers 4""",britain,1904-01-01,102,50,2126,8,6,Breech,873,873,150,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
 102-bg-bl-markvii,"4""/50 BL Mark VII","British 4""",britain,1904-01-01,102,50,2126,8,6,Breech,873,873,150,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
@@ -300,6 +302,10 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 13-mg-m1931,13.2 mm/75.7 AA MG Model 1931,Breda 13mm,italy,1931-01-01,13,75.7,47.5,500,,Breech Automatic,,,1500,http://www.navweaps.com/Weapons/WNIT_132-757_m1931.php
 460-bg-type94,40cm/45 Type 94,Japanese 460mm,japan,1939-01-01,460,45,164654,2,1.7,Breech,780,0,100,http://www.navweaps.com/Weapons/WNJAP_18-45_t94.php
 410-bg-3rd-year,41cm/45 3rd Year Type,Japanse 410mm,japan,1914-01-01,410,45,101600,2.5,1.5,Breech,790,0,90,http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.php
+203-bg-3rd-year-no2b,20cm/50 3rd Year Type No. 2,Japanese 200mm,japan,1930-01-01,203,50,19000,4,3,Breech,840,0,120,http://www.navweaps.com/Weapons/WNJAP_8-50_3ns.php
+203-bg-3rd-year-no2a,20cm/50 3rd Year Type No. 2,Japanese 200mm,japan,1930-01-01,203,50,19000,3,2.5,Breech,840,0,120,http://www.navweaps.com/Weapons/WNJAP_8-50_3ns.php
+200-bg-3rd-year-no1b,20cm/50 3rd Year Type No. 1,Japanese 200mm,japan,1920-01-01,200,50,17900,4,3,Breech,870,0,120,http://www.navweaps.com/Weapons/WNJAP_79-50_3ns.php
+200-bg-3rd-year-no1a,20cm/50 3rd Year Type No. 1,Japanese 200mm,japan,1920-01-01,200,50,17900,1.8,1.3,Breech,870,0,120,http://www.navweaps.com/Weapons/WNJAP_79-50_3ns.php
 155-bg-3rd-year,15.5cm/60 3rd Year Type,Japanese 155mm,japan,1930-01-01,155,60,12700,5,4,Breech,920,0,150,http://www.navweaps.com/Weapons/WNJAP_61-60_3ns.php
 152-bg-41st-year,15cm/50 41st Year Type,Japanse 15cm,japan,1910-01-01,152,50,8360,6,5,Breech,850,0,,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
 140-bg-3rd-year-type,14cm/50 3rd Year Type,Japanse 140mm,japan,1914-01-01,140,50,5700,10,7,Breech,850,0,,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php

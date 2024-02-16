@@ -1,6 +1,9 @@
 MountID,MountName,MountNation,MountType,NumberOfLaunchers,MagazineSize,LauncherSource
 622-tt-hull,Unknown 622mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 610-tt-hull,Unknown 610mm Hull Mount Torpedo Tube,_,Fixed,1,1,
+610-tt-quad-jpn,610mm Quad (Japan),japan,Mount,4,1,
+610-tt-tripple-jpn,610mm Tripple (Japan),japan,Mount,3,1,
+610-tt-dual-jpn,610mm Dual (Japan),japan,Mount,2,1,
 600-tt-hull,Unknown 600mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 533-tt-quad,Unknown 533mm Quad Mount Torpedo Tube,_,Mount,4,1,
 533-tt-tripple,Unknown 533mm Quad Mount Torpedo Tube,_,Mount,3,1,
@@ -17,6 +20,7 @@ MountID,MountName,MountNation,MountType,NumberOfLaunchers,MagazineSize,LauncherS
 350-tt-hull,Unknown 350mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 178-up,"7"" UP Launcher",britain,Mount,20,1,https://en.wikipedia.org/wiki/Unrotated_Projectile#7-inch_rocket
 dcr-unknown,DCR (Unknown),,Fixed,1,,
+dct-unknown,DCT (Unknown),,Fixed,1,1,
 dct-mkiv,DCT Mark IV,britain,Fixed,1,1,http://www.navweaps.com/Weapons/WAMBR_ASW.php#Mark_IV
 dct-mki,DCT Mark I,britain,Fixed,1,1,http://www.navweaps.com/Weapons/WAMBR_ASW.php#Mark_I_and_Mark_II_Thornycroft
 dct-mk6-mk8,DCT Mark 6 (K-Gun),usa,Fixed,1,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Marks_6_and_9

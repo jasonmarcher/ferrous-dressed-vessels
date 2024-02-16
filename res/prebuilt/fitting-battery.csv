@@ -2750,14 +2750,14 @@ pred-shikishima_hatsuse,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,5
 pred-shikishima_hatsuse,450-tt-hull_x4-side,,,
 pred-shikishima_hatsuse,placeholder_torpedo,,,
 pred-fuji,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
-pred-fuji,152-c-armstrong-z_x4,152-com-mod1,Secondary Gun,2
+pred-fuji,152-c-armstrong-z_x4-sides,152-com-mod1,Secondary Gun,2
 pred-fuji,152-p-armstrong-z_x6,152-com-mod1,Secondary Gun,2
 pred-fuji,47-p-marki_x20,47-he-uk,Tertiary Gun,3
 pred-fuji,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
 pred-fuji,450-tt-hull_x5-bow,,,
 pred-fuji,placeholder_torpedo,,,
 pred-fuji_1900,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
-pred-fuji_1900,152-c-armstrong-z_x4,152-com-mod1,Secondary Gun,2
+pred-fuji_1900,152-c-armstrong-z_x4-sides,152-com-mod1,Secondary Gun,2
 pred-fuji_1900,152-p-armstrong-z_x6,152-com-mod1,Secondary Gun,2
 pred-fuji_1900,47-p-marki_x20,47-he-uk,Tertiary Gun,3
 pred-fuji_1900,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
@@ -9720,3 +9720,429 @@ claa-bellona_royalist,dcr-unknown_x1,,,
 claa-bellona_royalist-1953,134-ag-markii_abxy,134-sap-markic_134-he,Primary Gun,1
 claa-bellona_royalist-1953,40-ta-staag-markii_x3,40-he-mk1,AA Battery,2
 claa-bellona_royalist-1953,40-cp-markvii-single_x2,40-he-mk1,AA Battery,2
+ac-chiyoda,120-gs-armstrong-p_x10,120-ap-jpn,Primary Gun,1
+ac-chiyoda,47-gs-marki_x14-hull,47-he-uk,Tertiary Gun,2
+ac-chiyoda,placeholder_11.4/94-machinegun,,Tertiary Gun,3
+ac-chiyoda,350-tt-hull_x3-fore,,,
+ac-chiyoda,placeholder_torpedo,,,
+ac-chiyoda_1897,120-gs-armstrong-p_x10,120-ap-jpn,Primary Gun,1
+ac-chiyoda_1897,47-gs-marki_x14-hull-alt,47-he-uk,Tertiary Gun,2
+ac-chiyoda_1897,placeholder_11.4/94-machinegun,,Tertiary Gun,3
+ac-chiyoda_1897,350-tt-hull_x3-fore,,,
+ac-chiyoda_1897,placeholder_torpedo,,,
+ac-asama,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-asama,152-c-armstrong-z_x10,152-com-mod1,Primary Gun,2
+ac-asama,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-asama,76-gs-41st-year_x12-alt,76-he-jpn,Tertiary Gun,3
+ac-asama,47-p-yamanouchi-mk1_x8,47-com-2.5,Tertiary Gun,4
+ac-asama,450-tt-hull_x5-bow,,,
+ac-asama,placeholder_torpedo,,,
+ac-asama-1921_1922,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-asama-1921_1922,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,2
+ac-asama-1921_1922,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-asama-1921_1922,76-gs-41st-year_x8-alt,76-he-jpn,Tertiary Gun,3
+ac-asama-1921_1922,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-asama-1921_1922,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
+ac-asama-1921_1922,450-tt-hull_x2-side,,,
+ac-asama-1921_1922,placeholder_torpedo,,,
+ac-asama-1933,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-asama-1933,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,2
+ac-asama-1933,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-asama-1933,76-gs-41st-year_x4-fore-aft,76-he-jpn,Tertiary Gun,3
+ac-asama-1933,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-asama-1933_1944,76-p-3rd-year_ay,76-he-com-type0,AA Battery,1
+cm-tokiwa,203-ag-armstrong-u_a,203-ap-jpn,Primary Gun,1
+cm-tokiwa,152-c-armstrong-z_x8,152-com-mod1,Primary Gun,2
+cm-tokiwa,76-gs-41st-year_x2-fore,76-he-jpn,Tertiary Gun,3
+cm-tokiwa,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+cm-tokiwa,450-tt-hull_x5-bow,,,
+cm-tokiwa,placeholder_torpedo,,,
+cm-tokiwa_1937,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,1
+cm-tokiwa_1937,76-gs-41st-year_x2-fore,76-he-jpn,Tertiary Gun,2
+cm-tokiwa_1937,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,2
+cm-tokiwa_1937,40-cp-bi-type91-single_x2-fore,40-com-jpn,AA Battery,3
+cm-tokiwa_1937,450-tt-hull_x5-bow,,,
+cm-tokiwa_1937,placeholder_torpedo,,,
+cm-tokiwa_1944,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,1
+cm-tokiwa_1944,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,2
+cm-tokiwa_1944,40-cp-bi-type91-single_x2-fore,40-com-jpn,AA Battery,3
+cm-tokiwa_1944,25-cp-type96-twin_x10-tokiwa,25-com-jpn,AA Battery,4
+cm-tokiwa_1944,450-tt-hull_x5-bow,,,
+cm-tokiwa_1944,placeholder_torpedo,,,
+cm-tokiwa_1944,dcr-unknown_x2,,,
+cm-tokiwa_1944,dct-unknown_x4,,,
+ac-izumo,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-izumo,152-c-armstrong-z_x10,152-com-mod1,Primary Gun,2
+ac-izumo,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-izumo,76-gs-41st-year_x12,76-he-jpn,Tertiary Gun,3
+ac-izumo,47-p-yamanouchi-mk1_x8,47-com-2.5,Tertiary Gun,4
+ac-izumo,450-tt-hull_x4-side,,,
+ac-izumo,placeholder_torpedo,,,
+ac-izumo-1921_1924,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-izumo-1921_1924,152-c-armstrong-z_x10,152-com-mod1,Primary Gun,2
+ac-izumo-1921_1924,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-izumo-1921_1924,76-gs-41st-year_x8-alt,76-he-jpn,Tertiary Gun,3
+ac-izumo-1921_1924,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-izumo-1921_1924,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
+ac-izumo-1921_1924,450-tt-hull_x2-side,,,
+ac-izumo-1921_1924,placeholder_torpedo,,,
+ac-izumo-1931,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-izumo-1931,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,2
+ac-izumo-1931,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-izumo-1931,76-gs-41st-year_x4-fore-aft,76-he-jpn,Tertiary Gun,3
+ac-izumo-1931,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-izumo-1931_1937,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-izumo-1931_1937,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,2
+ac-izumo-1931_1937,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-izumo-1931_1937,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-izumo-1931_1937,25-cp-type96-triple_x2-aft,25-com-jpn,AA Battery,4
+ac-izumo-1931_1937,25-cp-type96-twin_x2-fore,25-com-jpn,AA Battery,4
+ac-izumo-1931_1937,13-p-type93-single_x2-fore,13-ap-jpn,AA Battery,5
+ac-izumo-1931_1945,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,1
+ac-izumo-1931_1945,127-cp-a1_ay,127-he-type0,Secondary Gun,2
+ac-izumo-1931_1945,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-izumo-1931_1945,25-cp-type96-triple_x2-aft,25-com-jpn,AA Battery,4
+ac-izumo-1931_1945,25-cp-type96-twin_x2-fore,25-com-jpn,AA Battery,4
+ac-izumo-1931_1945,25-p-type96-single_x4,25-com-jpn,AA Battery,4
+ac-izumo-1931_1945,13-p-type93-single_x2-fore,13-ap-jpn,AA Battery,5
+ac-izumo-1931_iwate-1937,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-izumo-1931_iwate-1937,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,2
+ac-izumo-1931_iwate-1937,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-izumo-1931_iwate-1937,76-p-3rd-year_x3,76-he-com-type0,AA Battery,3
+ac-izumo-1931_iwate-1945,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,1
+ac-izumo-1931_iwate-1945,127-cp-a1_ay,127-he-type0,Secondary Gun,2
+ac-izumo-1931_iwate-1945,76-p-3rd-year_x3,76-he-com-type0,AA Battery,3
+ac-izumo-1931_iwate-1945,25-cp-type96-triple_x1-aft,25-com-jpn,AA Battery,4
+ac-izumo-1931_iwate-1945,25-cp-type96-twin_x2-fore,25-com-jpn,AA Battery,4
+ac-izumo-1931_iwate-1945,25-p-type96-single_x2-aft,25-com-jpn,AA Battery,4
+ac-izumo-1931_iwate-1945,13-p-type93-single_x2-fore,13-ap-jpn,AA Battery,5
+ac-yakumo,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-yakumo,152-c-armstrong-z_x8-alt,152-com-mod1,Primary Gun,2
+ac-yakumo,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-yakumo,76-gs-41st-year_x12,76-he-jpn,Tertiary Gun,3
+ac-yakumo,47-p-yamanouchi-mk1_x8,47-com-2.5,Tertiary Gun,4
+ac-yakumo,450-tt-hull_x5-bow,,,
+ac-yakumo,placeholder_torpedo,,,
+ac-yakumo-1921_1924,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-yakumo-1921_1924,152-c-armstrong-z_x8-alt,152-com-mod1,Primary Gun,2
+ac-yakumo-1921_1924,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-yakumo-1921_1924,76-gs-41st-year_x8,76-he-jpn,Tertiary Gun,3
+ac-yakumo-1921_1924,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-yakumo-1921_1924,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
+ac-yakumo-1921_1924,450-tt-hull_x2-side,,,
+ac-yakumo-1921_1924,placeholder_torpedo,,,
+ac-yakumo-1927,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-yakumo-1927,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,2
+ac-yakumo-1927,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-yakumo-1927,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-yakumo-1927_1945,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,1
+ac-yakumo-1927_1945,127-cp-a1_ay,127-he-type0,Secondary Gun,2
+ac-yakumo-1927_1945,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-yakumo-1927_1945,25-cp-type96-triple_x2-aft,25-com-jpn,AA Battery,4
+ac-yakumo-1927_1945,25-cp-type96-twin_x2-fore,25-com-jpn,AA Battery,4
+ac-yakumo-1927_1945,25-p-type96-single_x2-fore,25-com-jpn,AA Battery,4
+ac-azuma,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-azuma,152-c-armstrong-z_x8-alt,152-com-mod1,Primary Gun,2
+ac-azuma,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-azuma,76-gs-41st-year_x12-azuma,76-he-jpn,Tertiary Gun,3
+ac-azuma,47-p-yamanouchi-mk1_x8-azuma,47-com-2.5,Tertiary Gun,4
+ac-azuma,450-tt-hull_x5-bow,,,
+ac-azuma,placeholder_torpedo,,,
+ac-azuma-1921_1924,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-azuma-1921_1924,152-c-armstrong-z_x8-alt,152-com-mod1,Primary Gun,2
+ac-azuma-1921_1924,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-azuma-1921_1924,76-gs-41st-year_x8-azuma,76-he-jpn,Tertiary Gun,3
+ac-azuma-1921_1924,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-azuma-1921_1924,47-p-yamanouchi-mk1_x4-azuma,47-com-2.5,Tertiary Gun,4
+ac-azuma-1921_1924,450-tt-hull_x2-side,,,
+ac-azuma-1921_1924,placeholder_torpedo,,,
+ac-azuma-1930,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+ac-azuma-1930,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,2
+ac-azuma-1930,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
+ac-azuma-1930,76-gs-41st-year_x4,76-he-jpn,Tertiary Gun,3
+ac-azuma-1930,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
+ac-tsukuba,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
+ac-tsukuba,152-c-41st-year-gg_x12-alt,152-ap-jpn,Primary Gun,2
+ac-tsukuba,120-gs-armstrong-p_x12,120-ap-jpn,Tertiary Gun,3
+ac-tsukuba,76-gs-41st-year_x4-alt,76-he-jpn,Tertiary Gun,4
+ac-tsukuba,450-tt-hull_x3-bow,,,
+ac-tsukuba,placeholder_torpedo,,,
+ac-tsukuba_ikoma-1919,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
+ac-tsukuba_ikoma-1919,152-c-41st-year-gg_x10-alt,152-ap-jpn,Primary Gun,2
+ac-tsukuba_ikoma-1919,120-gs-armstrong-p_x8,120-ap-jpn,Tertiary Gun,3
+ac-tsukuba_ikoma-1919,76-gs-41st-year_x4-alt,76-he-jpn,Tertiary Gun,4
+ac-tsukuba_ikoma-1919,450-tt-hull_x3-bow,,,
+ac-tsukuba_ikoma-1919,placeholder_torpedo,,,
+ac-kurama,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
+ac-kurama,203-cp-41st-year-type_x4,203-ap-jpn,Primary Gun,2
+ac-kurama,120-gs-armstrong-p_x10,120-ap-jpn,Tertiary Gun,3
+ac-kurama,120-c-armstrong-p_x4-sides,120-ap-jpn,Tertiary Gun,3
+ac-kurama,76-gs-41st-year_x4-alt,76-he-jpn,Tertiary Gun,4
+ac-kurama,450-tt-hull_x3-bow,,,
+ac-kurama,placeholder_torpedo,,,
+ca-furutaka,200-ag-model-a_abcxyz,200-apc-type-5,Primary Gun,1
+ca-furutaka,76-p-3rd-year_x4,76-he-com-type0,Secondary Gun,2
+ca-furutaka,7-p-unknown_x2,,AA Battery,3
+ca-furutaka,610-tt-hull_x12-sides,,,
+ca-furutaka,placeholder_torpedo,,,
+ca-furutaka_1932,200-ag-model-a_abcxyz,200-apc-type-5,Primary Gun,1
+ca-furutaka_1932,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-furutaka_1932,13-p-type93-twin_x2-fore,13-ap-jpn,AA Battery,3
+ca-furutaka_1932,610-tt-hull_x12-sides,,,
+ca-furutaka_1932,placeholder_torpedo,,,
+ca-furutaka-1936,203-ag-model-e2_aby,203-ap-type91,Primary Gun,1
+ca-furutaka-1936,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-furutaka-1936,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
+ca-furutaka-1936,13-p-type93-twin_x2-fore,13-ap-jpn,AA Battery,4
+ca-furutaka-1936,610-tt-quad-jpn_x2,,,
+ca-furutaka-1936,placeholder_torpedo,,,
+ca-aoba,200-ag-model-c_aby,200-apc-type-5,Primary Gun,1
+ca-aoba,120-p-10th-year-b_x4,120-he-com-type0,Secondary Gun,2
+ca-aoba,7-p-unknown_x2,,AA Battery,3
+ca-aoba,610-tt-hull_x12-sides,,,
+ca-aoba,placeholder_torpedo,,,
+ca-aoba_1933,200-ag-model-c_aby,200-apc-type-5,Primary Gun,1
+ca-aoba_1933,120-p-10th-year-b_x4,120-he-com-type0,Secondary Gun,2
+ca-aoba_1933,13-p-type93-quad_x2-fore,13-ap-jpn,AA Battery,3
+ca-aoba_1933,610-tt-hull_x12-sides,,,
+ca-aoba_1933,placeholder_torpedo,,,
+ca-aoba-1938,203-ag-model-c_aby,203-ap-type91,Primary Gun,1
+ca-aoba-1938,120-gs-10th-year-b_x4,120-he-com-type0,Secondary Gun,2
+ca-aoba-1938,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
+ca-aoba-1938,13-p-type93-twin_x2-fore,13-ap-jpn,AA Battery,4
+ca-aoba-1938,610-tt-quad-jpn_x2,,,
+ca-aoba-1938,placeholder_torpedo,,,
+ca-aoba-1938_1943-2,203-ag-model-c_ab,203-ap-type91,Primary Gun,1
+ca-aoba-1938_1943-2,120-gs-10th-year-b_x4,120-he-com-type0,Secondary Gun,2
+ca-aoba-1938_1943-2,25-cp-type96-triple_x2-fore-aft,25-com-jpn,AA Battery,3
+ca-aoba-1938_1943-2,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
+ca-aoba-1938_1943-2,610-tt-quad-jpn_x2,,,
+ca-aoba-1938_1943-2,placeholder_torpedo,,,
+ca-aoba-1938_1943-2,dcr-unknown_x1,,,
+ca-aoba-1938_1943-11,203-ag-model-c_aby,203-ap-type91,Primary Gun,1
+ca-aoba-1938_1943-11,120-gs-10th-year-b_x4,120-he-com-type0,Secondary Gun,2
+ca-aoba-1938_1943-11,25-cp-type96-triple_x1-fore,25-com-jpn,AA Battery,3
+ca-aoba-1938_1943-11,25-cp-type96-twin_x6-alt,25-com-jpn,AA Battery,3
+ca-aoba-1938_1943-11,610-tt-quad-jpn_x2,,,
+ca-aoba-1938_1943-11,placeholder_torpedo,,,
+ca-aoba-1938_1943-11,dcr-unknown_x1,,,
+ca-aoba-1938_1944,203-ag-model-c_aby,203-ap-type91,Primary Gun,1
+ca-aoba-1938_1944,120-gs-10th-year-b_x4,120-he-com-type0,Secondary Gun,2
+ca-aoba-1938_1944,25-cp-type96-triple_x5,25-com-jpn,AA Battery,3
+ca-aoba-1938_1944,25-cp-type96-twin_x6-alt,25-com-jpn,AA Battery,3
+ca-aoba-1938_1944,25-p-type96-single_x15-aoba,25-com-jpn,AA Battery,3
+ca-aoba-1938_1944,610-tt-quad-jpn_x2,,,
+ca-aoba-1938_1944,placeholder_torpedo,,,
+ca-aoba-1938_1944,dcr-unknown_x1,,,
+ca-aoba-1938_1945,203-ag-model-c_aby,203-ap-type91,Primary Gun,1
+ca-aoba-1938_1945,120-gs-10th-year-b_x4,120-he-com-type0,Secondary Gun,2
+ca-aoba-1938_1945,25-cp-type96-triple_x5,25-com-jpn,AA Battery,3
+ca-aoba-1938_1945,25-cp-type96-twin_x12-aoba,25-com-jpn,AA Battery,3
+ca-aoba-1938_1945,25-p-type96-single_x15-aoba,25-com-jpn,AA Battery,3
+ca-aoba-1938_1945,610-tt-quad-jpn_x2,,,
+ca-aoba-1938_1945,placeholder_torpedo,,,
+ca-aoba-1938_1945,dcr-unknown_x1,,,
+ca-myoko,200-ag-model-c_abcxy,200-apc-type-5,Primary Gun,1
+ca-myoko,120-p-10th-year-b_x6,120-he-com-type0,Secondary Gun,2
+ca-myoko,7-p-unknown_x2,,AA Battery,3
+ca-myoko,610-tt-hull_x12-sides,,,
+ca-myoko,placeholder_torpedo,,,
+ca-myoko_1932,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
+ca-myoko_1932,120-p-10th-year-b_x6,120-he-com-type0,Secondary Gun,2
+ca-myoko_1932,7-p-unknown_x2,,AA Battery,3
+ca-myoko_1932,610-tt-hull_x12-sides,,,
+ca-myoko_1932,placeholder_torpedo,,,
+ca-myoko-1935,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
+ca-myoko-1935,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-myoko-1935,7-p-unknown_x2,,AA Battery,3
+ca-myoko-1935,610-tt-quad-jpn_x2,,,
+ca-myoko-1935,placeholder_torpedo,,,
+ca-myoko-1935_1935-10,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
+ca-myoko-1935_1935-10,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-myoko-1935_1935-10,13-p-type93-quad_x2-fore,13-ap-jpn,AA Battery,3
+ca-myoko-1935_1935-10,7-p-unknown_x2,,AA Battery,4
+ca-myoko-1935_1935-10,610-tt-quad-jpn_x2,,,
+ca-myoko-1935_1935-10,placeholder_torpedo,,,
+ca-myoko-1939,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
+ca-myoko-1939,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-myoko-1939,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
+ca-myoko-1939,13-p-type93-twin_x2-fore,13-ap-jpn,AA Battery,4
+ca-myoko-1939,610-tt-quad-jpn_x4,,,
+ca-myoko-1939,placeholder_torpedo,,,
+ca-myoko-1939_1942,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
+ca-myoko-1939_1942,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-myoko-1939_1942,25-cp-type96-twin_x8-myoko,25-com-jpn,AA Battery,3
+ca-myoko-1939_1942,610-tt-quad-jpn_x4,,,
+ca-myoko-1939_1942,placeholder_torpedo,,,
+ca-myoko-1939_1942,dcr-unknown_x1,,,
+ca-myoko-1939_1943,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
+ca-myoko-1939_1943,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-myoko-1939_1943,25-cp-type96-twin_x8-myoko,25-com-jpn,AA Battery,3
+ca-myoko-1939_1943,25-p-type96-single_x8-myoko,25-com-jpn,AA Battery,3
+ca-myoko-1939_1943,610-tt-quad-jpn_x4,,,
+ca-myoko-1939_1943,placeholder_torpedo,,,
+ca-myoko-1939_1943,dcr-unknown_x1,,,
+ca-myoko-1939_nachi-1943,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
+ca-myoko-1939_nachi-1943,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-myoko-1939_nachi-1943,25-cp-type96-twin_x8-myoko,25-com-jpn,AA Battery,3
+ca-myoko-1939_nachi-1943,25-p-type96-single_x8-myoko,25-com-jpn,AA Battery,3
+ca-myoko-1939_nachi-1943,610-tt-quad-jpn_x4,,,
+ca-myoko-1939_nachi-1943,placeholder_torpedo,,,
+ca-myoko-1939_nachi-1943,dcr-unknown_x1,,,
+ca-myoko-1939_1944,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
+ca-myoko-1939_1944,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-myoko-1939_1944,25-cp-type96-triple_x4-alt,25-com-jpn,AA Battery,3
+ca-myoko-1939_1944,25-cp-type96-twin_x8-myoko,25-com-jpn,AA Battery,3
+ca-myoko-1939_1944,25-p-type96-single_x24-myoko,25-com-jpn,AA Battery,3
+ca-myoko-1939_1944,610-tt-quad-jpn_x2,,,
+ca-myoko-1939_1944,placeholder_torpedo,,,
+ca-myoko-1939_1944,dcr-unknown_x1,,,
+ca-myoko-1939_nachi-1944,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
+ca-myoko-1939_nachi-1944,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-myoko-1939_nachi-1944,25-cp-type96-twin_x8-myoko,25-com-jpn,AA Battery,3
+ca-myoko-1939_nachi-1944,25-p-type96-single_x28-myoko,25-com-jpn,AA Battery,3
+ca-myoko-1939_nachi-1944,610-tt-quad-jpn_x2,,,
+ca-myoko-1939_nachi-1944,placeholder_torpedo,,,
+ca-myoko-1939_nachi-1944,dcr-unknown_x1,,,
+ca-takao,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao,120-p-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-takao,40-cp-bi-type91-single_x2,40-com-jpn,AA Battery,3
+ca-takao,7-p-unknown_x2,,AA Battery,4
+ca-takao,610-tt-dual-jpn_x4,,,
+ca-takao,placeholder_torpedo,,,
+ca-takao_chokai-1936,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao_chokai-1936,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-takao_chokai-1936,13-p-type93-quad_x2,13-ap-jpn,AA Battery,3
+ca-takao_chokai-1936,610-tt-dual-jpn_x4,,,
+ca-takao_chokai-1936,placeholder_torpedo,,,
+ca-takao-1938,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao-1938,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-takao-1938,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
+ca-takao-1938,13-p-type93-twin_x2-fore,13-ap-jpn,AA Battery,4
+ca-takao-1938,610-tt-quad-jpn_x4,,,
+ca-takao-1938,placeholder_torpedo,,,
+ca-takao-1938,dcr-unknown_x1,,,
+ca-takao_chokai-1941,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao_chokai-1941,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-takao_chokai-1941,25-cp-type96-twin_x2,25-com-jpn,AA Battery,3
+ca-takao_chokai-1941,13-p-type93-twin_x2-fore,13-ap-jpn,AA Battery,4
+ca-takao_chokai-1941,610-tt-dual-jpn_x4,,,
+ca-takao_chokai-1941,placeholder_torpedo,,,
+ca-takao-1938_1941,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao-1938_1941,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-takao-1938_1941,25-cp-type96-twin_x6-takao,25-com-jpn,AA Battery,3
+ca-takao-1938_1941,610-tt-quad-jpn_x4,,,
+ca-takao-1938_1941,placeholder_torpedo,,,
+ca-takao-1938_1941,dcr-unknown_x1,,,
+ca-takao-1938_1942-3,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao-1938_1942-3,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-takao-1938_1942-3,25-cp-type96-twin_x6-takao,25-com-jpn,AA Battery,3
+ca-takao-1938_1942-3,610-tt-quad-jpn_x4,,,
+ca-takao-1938_1942-3,placeholder_torpedo,,,
+ca-takao-1938_1942-3,dcr-unknown_x1,,,
+ca-takao_chokai-1942-3,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao_chokai-1942-3,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-takao_chokai-1942-3,25-cp-type96-twin_x6-takao,25-com-jpn,AA Battery,3
+ca-takao_chokai-1942-3,610-tt-dual-jpn_x4,,,
+ca-takao_chokai-1942-3,placeholder_torpedo,,,
+ca-takao-1938_1942-7,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao-1938_1942-7,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-takao-1938_1942-7,25-cp-type96-triple_x2-aft,25-com-jpn,AA Battery,3
+ca-takao-1938_1942-7,25-cp-type96-twin_x6-takao,25-com-jpn,AA Battery,3
+ca-takao-1938_1942-7,610-tt-quad-jpn_x4,,,
+ca-takao-1938_1942-7,placeholder_torpedo,,,
+ca-takao-1938_1942-7,dcr-unknown_x1,,,
+ca-takao_chokai-1942-8,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao_chokai-1942-8,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-takao_chokai-1942-8,25-cp-type96-twin_x8,25-com-jpn,AA Battery,3
+ca-takao_chokai-1942-8,610-tt-dual-jpn_x4,,,
+ca-takao_chokai-1942-8,placeholder_torpedo,,,
+ca-takao-1938_1943,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao-1938_1943,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-takao-1938_1943,25-cp-type96-triple_x2-aft,25-com-jpn,AA Battery,3
+ca-takao-1938_1943,25-cp-type96-twin_x6-takao,25-com-jpn,AA Battery,3
+ca-takao-1938_1943,25-p-type96-single_x8-myoko,25-com-jpn,AA Battery,3
+ca-takao-1938_1943,610-tt-quad-jpn_x4,,,
+ca-takao-1938_1943,placeholder_torpedo,,,
+ca-takao-1938_1943,dcr-unknown_x1,,,
+ca-takao_chokai-1943,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao_chokai-1943,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-takao_chokai-1943,25-cp-type96-twin_x8,25-com-jpn,AA Battery,3
+ca-takao_chokai-1943,25-p-type96-single_x10-takao,25-com-jpn,AA Battery,3
+ca-takao_chokai-1943,610-tt-dual-jpn_x4,,,
+ca-takao_chokai-1943,placeholder_torpedo,,,
+ca-takao-1938_maya-1943,203-ag-model-e_abxy,203-ap-type91,Primary Gun,1
+ca-takao-1938_maya-1943,127-cp-a1_x6-alt,127-he-type0,Secondary Gun,2
+ca-takao-1938_maya-1943,25-cp-type96-triple_x13,25-com-jpn,AA Battery,3
+ca-takao-1938_maya-1943,25-p-type96-single_x9-takao,25-com-jpn,AA Battery,3
+ca-takao-1938_maya-1943,13-p-type93-twin_x18,13-ap-jpn,AA Battery,4
+ca-takao-1938_maya-1943,7-p-unknown_x2,,AA Battery,5
+ca-takao-1938_maya-1943,610-tt-quad-jpn_x4,,,
+ca-takao-1938_maya-1943,placeholder_torpedo,,,
+ca-takao-1938_maya-1943,dcr-unknown_x1,,,
+ca-takao-1938_1944,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao-1938_1944,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-takao-1938_1944,25-cp-type96-triple_x6-takao,25-com-jpn,AA Battery,3
+ca-takao-1938_1944,25-cp-type96-twin_x6-takao,25-com-jpn,AA Battery,3
+ca-takao-1938_1944,25-p-type96-single_x30-takao,25-com-jpn,AA Battery,3
+ca-takao-1938_1944,610-tt-quad-jpn_x4,,,
+ca-takao-1938_1944,placeholder_torpedo,,,
+ca-takao-1938_1944,dcr-unknown_x1,,,
+ca-takao-1938_maya-1944,203-ag-model-e_abxy,203-ap-type91,Primary Gun,1
+ca-takao-1938_maya-1944,127-cp-a1_x6-alt,127-he-type0,Secondary Gun,2
+ca-takao-1938_maya-1944,25-cp-type96-triple_x13,25-com-jpn,AA Battery,3
+ca-takao-1938_maya-1944,25-p-type96-single_x27-takao,25-com-jpn,AA Battery,3
+ca-takao-1938_maya-1944,13-p-type93-twin_x18,13-ap-jpn,AA Battery,4
+ca-takao-1938_maya-1944,7-p-unknown_x2,,AA Battery,5
+ca-takao-1938_maya-1944,610-tt-quad-jpn_x4,,,
+ca-takao-1938_maya-1944,placeholder_torpedo,,,
+ca-takao-1938_maya-1944,dcr-unknown_x1,,,
+ca-takao_chokai-1944,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
+ca-takao_chokai-1944,120-gs-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
+ca-takao_chokai-1944,25-cp-type96-twin_x8,25-com-jpn,AA Battery,3
+ca-takao_chokai-1944,25-p-type96-single_x22-takao,25-com-jpn,AA Battery,3
+ca-takao_chokai-1944,610-tt-dual-jpn_x4,,,
+ca-takao_chokai-1944,placeholder_torpedo,,,
+cl-tone-1934,155-ag-3rd-year_abcd,155-ap-type91,Primary Gun,1
+cl-tone-1934,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+cl-tone-1934,25-cp-type96-twin_x6-tone,25-com-jpn,AA Battery,3
+cl-tone-1934,610-tt-tripple-jpn_x4,,,
+cl-tone-1934,placeholder_torpedo,,,
+ca-tone-1937,203-ag-model-e2_abcd,203-ap-type91,Primary Gun,1
+ca-tone-1937,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-tone-1937,25-cp-type96-twin_x6-tone,25-com-jpn,AA Battery,3
+ca-tone-1937,610-tt-tripple-jpn_x4,,,
+ca-tone-1937,placeholder_torpedo,,,
+ca-tone-1937_1943,203-ag-model-e2_abcd,203-ap-type91,Primary Gun,1
+ca-tone-1937_1943,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-tone-1937_1943,25-cp-type96-twin_x8-myoko,25-com-jpn,AA Battery,3
+ca-tone-1937_1943,610-tt-tripple-jpn_x4,,,
+ca-tone-1937_1943,placeholder_torpedo,,,
+ca-tone-1937_1944-1,203-ag-model-e2_abcd,203-ap-type91,Primary Gun,1
+ca-tone-1937_1944-1,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-tone-1937_1944-1,25-cp-type96-triple_x4-tone,25-com-jpn,AA Battery,3
+ca-tone-1937_1944-1,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
+ca-tone-1937_1944-1,13-p-type93-single_x4,13-ap-jpn,AA Battery,4
+ca-tone-1937_1944-1,610-tt-tripple-jpn_x4,,,
+ca-tone-1937_1944-1,placeholder_torpedo,,,
+ca-tone-1937_1944-6,203-ag-model-e2_abcd,203-ap-type91,Primary Gun,1
+ca-tone-1937_1944-6,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-tone-1937_1944-6,25-cp-type96-triple_x8-tone,25-com-jpn,AA Battery,3
+ca-tone-1937_1944-6,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
+ca-tone-1937_1944-6,25-p-type96-single_x25-tone,25-com-jpn,AA Battery,3
+ca-tone-1937_1944-6,610-tt-tripple-jpn_x4,,,
+ca-tone-1937_1944-6,placeholder_torpedo,,,
+ca-tone-1937_chikuma-1944-6,203-ag-model-e2_abcd,203-ap-type91,Primary Gun,1
+ca-tone-1937_chikuma-1944-6,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-tone-1937_chikuma-1944-6,25-cp-type96-triple_x8-tone,25-com-jpn,AA Battery,3
+ca-tone-1937_chikuma-1944-6,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
+ca-tone-1937_chikuma-1944-6,25-p-type96-single_x23-tone,25-com-jpn,AA Battery,3
+ca-tone-1937_chikuma-1944-6,610-tt-tripple-jpn_x4,,,
+ca-tone-1937_chikuma-1944-6,placeholder_torpedo,,,
+ca-tone-1937_1945,203-ag-model-e2_abcd,203-ap-type91,Primary Gun,1
+ca-tone-1937_1945,127-cp-a1_x4-alt-2,127-he-type0,Secondary Gun,2
+ca-tone-1937_1945,25-cp-type96-triple_x12-tone,25-com-jpn,AA Battery,3
+ca-tone-1937_1945,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
+ca-tone-1937_1945,25-p-type96-single_x18-tone,25-com-jpn,AA Battery,3
+ca-tone-1937_1945,610-tt-tripple-jpn_x4,,,
+ca-tone-1937_1945,placeholder_torpedo,,,

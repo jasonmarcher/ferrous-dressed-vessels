@@ -192,13 +192,16 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 305-apc-jpn,"12"" APC (JPN)",japan,305,386,19,,0,0,,http://www.navweaps.com/Weapons/WNJAP_12-45_EA.php
 305-ap-jpn,"12"" AP (JPN)",japan,305,386,19.3,Shimose,0,0,,http://www.navweaps.com/Weapons/WNJAP_12-40_EOC.php
 254-ap-jpn,"10"" AP (JPN)",japan,254,235,,,0,0,,http://www.navweaps.com/Weapons/WNJAP_10-45_Vickers.php
+203-ap-type91,"8"" AP Type 91",japan,203,125.9,3.11,,0,0,,http://www.navweaps.com/Weapons/WNJAP_8-50_3ns.php#Ammunition
 203-ap-jpn,"8"" AP (JPN)",japan,203,113,,,0,0,,http://www.navweaps.com/Weapons/WNJAP_8-45_EOC.php
+200-apc-type-5,"8"" APC Type 5",japan,200,110,2.6,,0,0,,http://www.navweaps.com/Weapons/WNJAP_79-50_3ns.php#Ammunition
 155-ap-type91,15.5cm AP Type 91,japan,155,55.9,1.15,,0,0,,http://www.navweaps.com/Weapons/WNJAP_61-60_3ns.php
 152-he-com-type0,15cm Common Type 0 HE,japan,152,45.4,2.9,,0,0,,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
 152-com-mod1,"6"" Common Mod 1",japan,152,45.4,5.2,,0,0,,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
 152-ap-jpn,"6"" AP (JPN)",japan,152,45.4,,,0,0,,http://www.navweaps.com/Weapons/WNJAP_6-45_EOC.php
 140-cap-com,140 Capped Common,japan,140,38,2,,0,0,,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 127-he-type0,12.7cm Common Type 0 HE,japan,127,23.5,1.88,Shimose,23.5,1.88,Shimose,http://www.navweaps.com/Weapons/WNJAP_5-40_t89.php
+120-ap-jpn,"4"" AP (JPN)",japan,120,20.4,1.07,,0,0,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-com-jpn,"4"" Common (JPN)",japan,120,20.4,3.1,,0,0,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-he-com-type0,12cm Common Type 0 HE,japan,120,20.3,1.7,,20.3,1.7,,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
 76-he-com-type0,8cm Common Type 0 HE,japan,76,6,0.45,,6,0.45,,http://www.navweaps.com/Weapons/WNJAP_3-40_3ns.php
