@@ -160,6 +160,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 37-bg-marki,1.5-pdr/43 Mark I,Vickers 1.5-pdr,britain,1910-01-01,37,43,57,25,20,Breech Semi-Automatic,640,640,,http://www.navweaps.com/Weapons/WNBR_1-5pounder_m1.php
 25-mg-nordenfelt-markiii,"1""/35 Nordenfelt Mark III","Nordenfelt 1""",britain,1878-01-01,25.4,35,203,20,20,Breech Semi-Automatic,446,0,,https://en.wikipedia.org/wiki/1-inch_Nordenfelt_gun
 12-mg-markiii,"0.50""/62 MG Mark III","Vickers 0.50""",britain,1926-01-01,12.7,62,28,600,200,Breech Autoloader,768,768,2500,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
+12-mg-bi-type,"12 mm/62 ""BI"" Type","Vickers 0.50""",britain,1926-01-01,12.7,62,28,600,200,Breech Autoloader,768,768,2500,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
+7-mg-type92,7.7 mm/80 Type 92,Lewis Gun,britain,,7.7,80,13,600,600,Breech Autoloader,760,760,600,http://www.navweaps.com/Weapons/WNJAP_77mm-87_RU.php
 420-bg-m1875,420mm/22 Model 1875,French 420mm,france,1875-01-01,420,22,,,,Breech,,0,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 420-bg-m1875-ter,420mm/19 Model 1875 (Terrible),French 420mm,france,1875-01-01,420,19,,,,Breech,,0,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 380-bg-m1935,380mm/45 Model 1935,French 380mm,france,1935-01-01,380,45,94130,1.3,1,Breech,830,0,104,http://www.navweaps.com/Weapons/WNFR_15-45_m1935.php
@@ -308,8 +310,11 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 200-bg-3rd-year-no1a,20cm/50 3rd Year Type No. 1,Japanese 200mm,japan,1920-01-01,200,50,17900,1.8,1.3,Breech,870,0,120,http://www.navweaps.com/Weapons/WNJAP_79-50_3ns.php
 155-bg-3rd-year,15.5cm/60 3rd Year Type,Japanese 155mm,japan,1930-01-01,155,60,12700,5,4,Breech,920,0,150,http://www.navweaps.com/Weapons/WNJAP_61-60_3ns.php
 152-bg-41st-year,15cm/50 41st Year Type,Japanse 15cm,japan,1910-01-01,152,50,8360,6,5,Breech,850,0,,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
-140-bg-3rd-year-type,14cm/50 3rd Year Type,Japanse 140mm,japan,1914-01-01,140,50,5700,10,7,Breech,850,0,,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
+140-bg-3rd-year-type-b,14cm/50 3rd Year Type,Japanse 140mm,japan,1914-01-01,140,50,5700,10,8,Breech,850,0,,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
+140-bg-3rd-year-type,14cm/50 3rd Year Type,Japanse 140mm,japan,1914-01-01,140,50,5700,8,6,Breech,850,0,,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 127-bg-type-89,12.7cm/40 Type 89,Japanese 127mm,japan,1929-01-01,127,40,3100,14,8,Breech,700,700,250,http://www.navweaps.com/Weapons/WNJAP_5-40_t89.php
+100-bg-type-98,10cm/65 Type 98,Japanese 100mm,japan,1937-01-01,100,65,3053,19,15,Breech,1000,1000,300,http://www.navweaps.com/Weapons/WNJAP_39-65_t98.php
+76-bg-type-98,8cm/60 Type 98,Japanese 76mm,japan,1938-01-01,76,60,1320,25,12,Breech,910,910,250,http://www.navweaps.com/Weapons/WNJAP_3-60_t98.php
 406-bg-b37-p1937,406mm/50 B-37 Pattern 1937,Bolshevik 406mm,russia,1937-01-01,406,50,136690,2.6,2,Breech,830,0,100,http://www.navweaps.com/Weapons/WNRussian_16-50_m1937.php
 305-bg-sm33-p1948,305mm/62 SM-33 Pattern 1948,"Russian 12""",russia,1948-01-01,305,62,101580,3.26,2.8,Breech,950,0,80,http://www.navweaps.com/Weapons/WNRussian_12-62_m1948.php
 305-bg-b50-p1940,305mm/55 B-50 Pattern 1940,Russian 305mm,russia,1938-01-01,305,55,74800,3.24,2.8,Breech,900,0,100,http://www.navweaps.com/Weapons/WNRussian_12-55_B-50.php
