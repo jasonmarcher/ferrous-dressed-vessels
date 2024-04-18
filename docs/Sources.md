@@ -59,6 +59,9 @@ https://en.wikipedia.org/wiki/List_of_torpedoes_by_name
 
 ### Ship History
 https://www.history.navy.mil/research/histories/ship-histories/danfs.html
+https://www.hazegray.org/danfs/
+
+https://www.hazegray.org/navhist/pt/
 
 https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs.html
 
@@ -69,6 +72,10 @@ https://www.naval-history.net/
 https://uboat.net/
 
 https://digital.nls.uk/british-military-lists/archive/93506066
+
+https://www.hazegray.org/navhist/preserve.htm
+
+https://www.hazegray.org/navhist/gun_ship.htm
 
 ### Submarines
 http://www.designed4submariners.com/Welcome_Page.html
