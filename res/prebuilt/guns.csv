@@ -55,6 +55,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 254-bg-elswick-r,"10""/40 Elswick R","Elswick 10""",britain,1898-01-01,254,40,31400,2,1.5,Breech,700,0,,http://www.navweaps.com/Weapons/WNJAP_10-40_EOC.php
 254-bg-markiii,"10""/40 BL Mark III/IV","British 13.5""",britain,1880-01-01,254,40,69000,0.5,0.3,Breech,614,0,80,http://www.navweaps.com/Weapons/WNBR_135-30_mk1.php
 254-bg-markii,"10""/32 Mark II","Woolwich 10""",britain,1885-01-01,254,32,30000,0.5,0.5,Breech,622,0,105,http://www.navweaps.com/Weapons/WNBR_10-32_mk1-4.php
+254-bg-armstrong-25ton-blr,"10""/26 Armstrong 25-ton BLR","Armstrong 10""",britain,,254,26,,,,Breech,579,0,,Identification of the Parameters
 254-ml-rml-18ton-marki,"10""/15 RML 18-ton Mark I",Royal Gun Factory 18-ton,britain,1868-01-01,254,15,18000,0.65,0.65,Muzzle,416,0,,https://en.wikipedia.org/wiki/RML_10-inch_18-ton_gun
 234-bg-markxi,"9.2""/50 Mark XI","British 9.2""",britain,1901-01-01,234,50,28000,3,2,Breech,881,0,,http://www.navweaps.com/Weapons/WNBR_92-50_mk11.php
 234-bg-markx,"9.2""/47 Mark X","British 9.2""",britain,1901-01-01,234,47,28670,3,2,Breech,847,0,150,http://www.navweaps.com/Weapons/WNBR_92-47_mk10.php
@@ -119,6 +120,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 120-bg-qf-marki,"4.7""/40 QF Mark I","Elswick 4.7""",britain,1885-01-01,120,40,2100,6,5,Breech,645,645,,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-bg-m1889,120mm/40 Model 1889,"Elswick 4.7""",britain,1885-01-01,120,40,2100,6,5,Breech,645,645,,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-bg-armstrong-p,"4.7""/40 Armstrong P","Elswick 4.7""",britain,1885-01-01,120,40,2100,6,5,Breech,660,660,150,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
+120-bg-armstrong-m,"4.7""/32 Armstrong M","Elswick 4.7""",britain,1885-01-01,120,32,,,,Breech,,,,Identification of the Parameters of Naval Artillery
 114-bg-qf-marki,"4.5""/45 QF Mark I","British 4.5""",britain,1935-01-01,114,45,2859,12,12,Breech,746,746,400,http://www.navweaps.com/Weapons/WNBR_45-45_mk1.php
 102-bg-vickers-e,"4""/50 Vickers E","Vickers 4""",britain,1904-01-01,102,50,2126,8,6,Breech,873,873,150,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
 102-bg-bl-markvii,"4""/50 BL Mark VII","British 4""",britain,1904-01-01,102,50,2126,8,6,Breech,873,873,150,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
@@ -148,9 +150,11 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 76-bg-m1916,76mm/40 Model 1916,British 12-pdr,britain,1893-01-01,76,40,510,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-bg-elswick-n,12-pdr/40 Elswick N,British 12-pdr,britain,1893-01-01,76,40,510,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-bg-12-qf-marki,12-pdr/40 12cwt QF Mark I,British 12-pdr,britain,1893-01-01,76,40,510,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-bg-9pdr-armstrong,9-pdr/19 Armstrong,Armstrong 9-pdr,britain,,76,19,,,,Breech,,,,Identification of the Parameters of Naval Artillery
 57-bg-nord-aa,57mm/43 Nordenfelt AA,Nordenfelt 6-pdr,britain,1885-01-01,57,43,289,15,12,Breech,740,740,,http://www.navweaps.com/Weapons/WNRussian_57mm_Hotchkiss.php
 57-bg-n1885,57mm/43 Nordenfelt Model 1887,Nordenfelt 6-pdr,britain,1885-01-01,57,43,289,20,18,Breech,554,0,,https://en.wikipedia.org/wiki/QF_6-pounder_Nordenfelt
 47-bg-vickers-qf-mark1,3-pdr Vickers QF Mark 1,Vickers 3-pdr,britain,1885-01-01,47,50,295,25,25,Breech Semi-Automatic,785,785,300,http://www.navweaps.com/Weapons/WNBR_3pounder_V_mk1.php
+40-mg-qf-markviii-lv,2-pdr/39 QF Mark VIII (Low Velocity),Vickers 2-pdr,britain,1923-01-01,40,39,385,98,98,Breech Autoloader,585,585,2000,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
 40-mg-qf-markviii-hv,2-pdr/39 QF Mark VIII (High Velocity),Vickers 2-pdr,britain,1923-01-01,40,39,385,98,98,Breech Autoloader,732,732,2000,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
 40-mg-bi-type91,"40mm/39 ""BI"" Type 91",Vickers 2-pdr,britain,1923-01-01,40,39,281,200,100,Breech Autoloader,600,600,5000,http://www.navweaps.com/Weapons/WNJAP_40mm-62_HI.php
 40-mg-vt-1915,40mm/39 Vickers-Terni 1915/1917,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,610,610,1500,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
@@ -175,6 +179,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 340-bg-m1875,340mm/18 Model 1875,French 340mm,france,1875-01-01,340,18,,0.1,0.08,Breech,,0,,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
 340-bg-m1875,340mm/18 Model 1875,French 340mm,france,1875-01-01,340,18,,,,Breech,,0,,http://www.navypedia.org/ships/france/fr_bb_courbet82.htm
 330-bg-m1931,330mm/50 Model 1931,French 330mm,france,1931-01-01,330,50,70535,2,1.5,Breech,870,0,112,http://www.navweaps.com/Weapons/WNFR_13-50_m1931.php
+320-bg-m1887,"12.6""/38 Canet Model 1887",Canet 320mm,france,1887-01-01,320,38,67000,0.2,0.2,Breech,703,0,60,http://www.navweaps.com/Weapons/WNSpain_126-35_m1884.php
 320-bg-m1870-81,320mm/25 Model 1870-81,French 320mm,france,1881-01-01,320,25,42800,,,Breech,,0,,
 305-bg-m1906-1910,305mm/45 Model 1906-1910,French 305mm,france,1910-01-01,305,45,54700,2,1.5,Breech,783,0,100,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
 305-bg-m1906,305mm/45 Model 1906,French 305mm,france,1906-01-01,305,45,54700,2,1.5,Breech,780,0,80,http://www.navweaps.com/Weapons/WNFR_12-45_m1906.php
@@ -273,11 +278,15 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 283-bg-l18-krupp-bl,28cm/18 L/18 Krupp BL,Krupp 28cm,germany,1881-01-01,283,18,,,,Breech,,0,,http://www.navweaps.com/Weapons/WNGER_11-35_skc92.php
 238-bg-sk-l40,24cm/38 SK L/40,Krupp 24cm,germany,1894-01-01,238,38,24040,4,3,Breech,690,0,80,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php
 238-bg-l40-k97,24cm/37 L/40 K97,Krupp 24cm,germany,1897-01-01,238,37,29000,2,2,Breech,705,0,80,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
-173-bg-sk-l40,17cm/37 SK L/40,German 17cm,germany,1904-01-01,173,37,10750,6.7,6,Breech,850,0,130,http://www.navweaps.com/Weapons/WNGER_675-40_skc04.php
-149-bg-sk-c28,15cm/52 SK C/28,Rheinmetall 15cm,germany,1928-01-01,149,52,9080,7,5,Breech,875,0,140,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php
-149-bg-sk-l45,15cm/42.5 SK L/45,Krupp 15cm,germany,1906-01-01,149,42.5,5730,7,5,Breech,835,0,150,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
-149-bg-sk-l40,15cm/37 SK L/40,Krupp 15cm,germany,1897-01-01,149,37,4460,5,4,Breech,800,0,130,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
-149-bg-sk-l35,15cm/33 SK L/35,Krupp 15cm,germany,1880-01-01,149,33,5800,5,4,Breech,650,0,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
+209-bg-rk-l30-c84,20.9cm/27 RK L/30 C/84,Krupp 20.9cm,germany,1884-01-01,209,27,,,,Breech,,0,,
+173-bg-sk-l40,17cm/37 SK L/40,Krupp 17cm,germany,1904-01-01,172.6,37,10750,6.7,6,Breech,850,0,130,http://www.navweaps.com/Weapons/WNGER_675-40_skc04.php
+173-bg-rk-l25-c72,17cm/22 RK L/25 C/72,Krupp 17cm,germany,1872-01-01,172.6,22,5838,,,Breech,,0,,https://en.wikipedia.org/wiki/17_cm_RK_L/25
+173-bg-rk-l20-c67,17cm/20 RK L/20 C/67,Krupp 17cm,germany,1876-01-01,172.6,20,3475,,,Breech,410,0,,https://en.wikipedia.org/wiki/17_cm_RK_L/25
+149-bg-sk-c28,15cm/52 SK C/28,Rheinmetall 15cm,germany,1928-01-01,149.1,52,9080,7,5,Breech,875,0,140,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php
+149-bg-sk-l45,15cm/42.5 SK L/45,Krupp 15cm,germany,1906-01-01,149.1,42.5,5730,7,5,Breech,835,0,150,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
+149-bg-sk-l40,15cm/37 SK L/40,Krupp 15cm,germany,1897-01-01,149.1,37,4460,5,4,Breech,800,0,130,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
+149-bg-sk-l35,15cm/33 SK L/35,Krupp 15cm,germany,1880-01-01,149.1,33,5800,5,4,Breech,650,0,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
+149-bg-rk-l25-c74,15cm/25 RK L/25 C/74,Krupp 15cm,germany,,149.1,22,,,,Breech,495,0,,Identification of the Parameters of Naval Artillery
 105-bg-sk-c33,10.5cm/60 SK C/33,Rheinmetall 10.5cm,germany,1933-01-01,105,60,4560,18,15,Breech,890,900,400,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
 105-bg-sk-l45,10.5cm/42 SK L/45,Krupp 10.5cm,germany,1906-01-01,105,45,1450,15,15,Breech,710,0,90,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php
 105-bg-sk-c32,10.5cm/42 SK C/32,Krupp 10.5cm,germany,1932-01-01,105,42,1585,15,15,Breech,780,780,120,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php

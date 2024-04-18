@@ -2711,56 +2711,56 @@ pred-mikasa,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-mikasa,152-c-armstrong-z_x14,152-com-mod1,Secondary Gun,2
 pred-mikasa,76-p-41st-year_x20,76-he-jpn,Tertiary Gun,3
 pred-mikasa,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,4
-pred-mikasa,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,5
+pred-mikasa,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,5
 pred-mikasa,450-tt-hull_x4-side,,,
 pred-mikasa,placeholder_torpedo,,,
 pred-mikasa_1908,305-ag-armstrong_ay,305-apc-jpn,Primary Gun,1
 pred-mikasa_1908,152-c-41st-year-gg_x14,152-ap-jpn,Secondary Gun,2
 pred-mikasa_1908,76-p-41st-year_x20,76-he-jpn,Tertiary Gun,3
 pred-mikasa_1908,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,4
-pred-mikasa_1908,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,5
+pred-mikasa_1908,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,5
 pred-mikasa_1908,450-tt-hull_x4-side,,,
 pred-mikasa_1908,placeholder_torpedo,,,
 pred-mikasa_museum,305-ag-41st-year_ay,no-ammo,Primary Gun,1
 pred-mikasa_museum,152-c-armstrong-z_x14,no-ammo,Secondary Gun,2
 pred-mikasa_museum,76-p-41st-year_x20,no-ammo,Tertiary Gun,3
 pred-mikasa_museum,47-p-marki_x8-mast,no-ammo,Tertiary Gun,4
-pred-mikasa_museum,47-p-yamanouchi-mk1_x4,no-ammo,Tertiary Gun,5
+pred-mikasa_museum,47-p-yamanouchi-mk1_x4-sides,no-ammo,Tertiary Gun,5
 pred-mikasa_museum,450-tt-hull_x4-side,,,
 pred-mikasa_museum,placeholder_torpedo,,,
 pred-asahi,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-asahi,152-c-armstrong-z_x14-alt,152-com-mod1,Secondary Gun,2
 pred-asahi,76-p-41st-year_x20-alt,76-he-jpn,Tertiary Gun,3
 pred-asahi,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,4
-pred-asahi,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,5
+pred-asahi,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,5
 pred-asahi,450-tt-hull_x4-side,,,
 pred-asahi,placeholder_torpedo,,,
 pred-shikishima,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-shikishima,152-c-armstrong-z_x14-alt,152-com-mod1,Secondary Gun,2
 pred-shikishima,76-p-41st-year_x20-alt,76-he-jpn,Tertiary Gun,3
 pred-shikishima,47-p-marki_x6-mast,47-he-uk,Tertiary Gun,4
-pred-shikishima,47-p-yamanouchi-mk1_x6,47-com-2.5,Tertiary Gun,5
+pred-shikishima,47-p-yamanouchi-mk1_x6-sides,47-com-2.5,Tertiary Gun,5
 pred-shikishima,450-tt-hull_x5-bow,,,
 pred-shikishima,placeholder_torpedo,,,
 pred-shikishima_hatsuse,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-shikishima_hatsuse,152-c-armstrong-z_x14-alt,152-com-mod1,Secondary Gun,2
 pred-shikishima_hatsuse,76-p-41st-year_x20-alt,76-he-jpn,Tertiary Gun,3
 pred-shikishima_hatsuse,47-p-marki_x8-mast,47-he-uk,Tertiary Gun,4
-pred-shikishima_hatsuse,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,5
+pred-shikishima_hatsuse,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,5
 pred-shikishima_hatsuse,450-tt-hull_x4-side,,,
 pred-shikishima_hatsuse,placeholder_torpedo,,,
 pred-fuji,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-fuji,152-c-armstrong-z_x4-sides,152-com-mod1,Secondary Gun,2
 pred-fuji,152-p-armstrong-z_x6,152-com-mod1,Secondary Gun,2
 pred-fuji,47-p-marki_x20,47-he-uk,Tertiary Gun,3
-pred-fuji,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
+pred-fuji,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,4
 pred-fuji,450-tt-hull_x5-bow,,,
 pred-fuji,placeholder_torpedo,,,
 pred-fuji_1900,305-ag-41st-year_ay,305-ap-jpn,Primary Gun,1
 pred-fuji_1900,152-c-armstrong-z_x4-sides,152-com-mod1,Secondary Gun,2
 pred-fuji_1900,152-p-armstrong-z_x6,152-com-mod1,Secondary Gun,2
 pred-fuji_1900,47-p-marki_x20,47-he-uk,Tertiary Gun,3
-pred-fuji_1900,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
+pred-fuji_1900,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,4
 pred-fuji_1900,450-tt-hull_x5-bow,,,
 pred-fuji_1900,placeholder_torpedo,,,
 bb-bismarck,380-ag-drh-lc34_abxy,380-apc-l44,Primary Gun,1
@@ -5241,7 +5241,7 @@ bbar-vauban_1898,47-p-m1885_x6-turret-top,47-he-fra-1885,Tertiary Gun,4
 bbar-vauban_1898,37-p-revolver_x12-vauban,37-he-ita-early,Tertiary Gun,5
 bbar-vauban_1898,356-tt-hull_x2-side,,,
 bbar-vauban_1898,placeholder_torpedo,,,
-bbar-terrible,420-bar-m1875_ay,420-ap-fra-early,Primary Gun,1
+3,420-bar-m1875_ay,420-ap-fra-early,Primary Gun,1
 bbar-terrible,100-p-m1881_x4,100-ap-fra-1881,Secondary Gun,2
 bbar-terrible,47-p-m1885_x2,47-he-fra-1885,Tertiary Gun,3
 bbar-terrible,37-p-revolver_x16,37-he-ita-early,Tertiary Gun,4
@@ -9742,7 +9742,7 @@ ac-asama-1921_1922,152-c-armstrong-z_x4,152-com-mod1,Primary Gun,2
 ac-asama-1921_1922,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
 ac-asama-1921_1922,76-gs-41st-year_x8-alt,76-he-jpn,Tertiary Gun,3
 ac-asama-1921_1922,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
-ac-asama-1921_1922,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
+ac-asama-1921_1922,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,4
 ac-asama-1921_1922,450-tt-hull_x2-side,,,
 ac-asama-1921_1922,placeholder_torpedo,,,
 ac-asama-1933,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
@@ -9783,7 +9783,7 @@ ac-izumo-1921_1924,152-c-armstrong-z_x10,152-com-mod1,Primary Gun,2
 ac-izumo-1921_1924,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
 ac-izumo-1921_1924,76-gs-41st-year_x8-alt,76-he-jpn,Tertiary Gun,3
 ac-izumo-1921_1924,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
-ac-izumo-1921_1924,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
+ac-izumo-1921_1924,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,4
 ac-izumo-1921_1924,450-tt-hull_x2-side,,,
 ac-izumo-1921_1924,placeholder_torpedo,,,
 ac-izumo-1931,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
@@ -9828,7 +9828,7 @@ ac-yakumo-1921_1924,152-c-armstrong-z_x8-alt,152-com-mod1,Primary Gun,2
 ac-yakumo-1921_1924,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
 ac-yakumo-1921_1924,76-gs-41st-year_x8,76-he-jpn,Tertiary Gun,3
 ac-yakumo-1921_1924,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
-ac-yakumo-1921_1924,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,4
+ac-yakumo-1921_1924,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,4
 ac-yakumo-1921_1924,450-tt-hull_x2-side,,,
 ac-yakumo-1921_1924,placeholder_torpedo,,,
 ac-yakumo-1927,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
@@ -9853,7 +9853,7 @@ ac-azuma-1921_1924,152-c-armstrong-z_x8-alt,152-com-mod1,Primary Gun,2
 ac-azuma-1921_1924,152-p-armstrong-z_x4-sides,152-com-mod1,Primary Gun,2
 ac-azuma-1921_1924,76-gs-41st-year_x8-azuma,76-he-jpn,Tertiary Gun,3
 ac-azuma-1921_1924,76-p-3rd-year_x1-aft,76-he-com-type0,AA Battery,3
-ac-azuma-1921_1924,47-p-yamanouchi-mk1_x4-azuma,47-com-2.5,Tertiary Gun,4
+ac-azuma-1921_1924,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,4
 ac-azuma-1921_1924,450-tt-hull_x2-side,,,
 ac-azuma-1921_1924,placeholder_torpedo,,,
 ac-azuma-1930,203-ag-armstrong-u_ay,203-ap-jpn,Primary Gun,1
@@ -10703,3 +10703,280 @@ ca-mogami-1939_kumano-1944-6,25-cp-type96-twin_x4-alt,25-com-jpn,AA Battery,3
 ca-mogami-1939_kumano-1944-6,25-p-type96-single_x24-mogami,25-com-jpn,AA Battery,3
 ca-mogami-1939_kumano-1944-6,610-tt-tripple-jpn_x4,,,
 ca-mogami-1939_kumano-1944-6,placeholder_torpedo,,,
+ac-kongo,173-piv-rk-l20-c67_x3-kongo,173-ap-jpn,Primary Gun,1
+ac-kongo,149-piv-rk-l25-c74_x6,149-ap-jpn,Primary Gun,2
+ac-kongo_1885,173-piv-rk-l20-c67_x3-kongo,173-ap-jpn,Primary Gun,1
+ac-kongo_1885,149-piv-rk-l25-c74_x6,149-ap-jpn,Primary Gun,2
+ac-kongo_1885,25-p-nordenfelt-markiii_x4,25-b-uk,Tertiary Gun,3
+ac-kongo_1885,placeholder_11.4/94-machinegun,,Tertiary Gun,4
+ac-kongo_1885,350-tt-hull_x2-bow,,,
+ac-kongo_1885,placeholder_torpedo,,,
+ac-kongo_1897,173-piv-rk-l20-c67_x3-kongo,173-ap-jpn,Primary Gun,1
+ac-kongo_1897,149-piv-rk-l25-c74_x6,149-ap-jpn,Primary Gun,2
+ac-kongo_1897,47-p-marki_x2-kongo,47-he-uk,Tertiary Gun,3
+ac-kongo_1897,25-p-nordenfelt-markiii_x4,25-b-uk,Tertiary Gun,4
+ac-kongo_1897,placeholder_11.4/94-machinegun,,Tertiary Gun,5
+ac-kongo_1897,350-tt-hull_x2-bow,,,
+ac-kongo_1897,placeholder_torpedo,,,
+ssow-kaimon,,,Primary Gun,1
+ssow-kaimon,,,Primary Gun,2
+ssow-kaimon,,,Primary Gun,3
+ssow-kaimon,25-p-nordenfelt-markiii_x4,25-b-uk,Tertiary Gun,4
+ssow-kaimon,placeholder_11.4/94-machinegun,,Tertiary Gun,5
+ssow-tenryu,,,Primary Gun,1
+ssow-tenryu,,,Primary Gun,2
+ssow-tenryu,,,Primary Gun,3
+ssow-tenryu,,,Primary Gun,4
+ssow-tenryu,25-p-nordenfelt-markiii_x4,25-b-uk,Tertiary Gun,5
+pc-naniwa,,,Primary Gun,1
+pc-naniwa,,,Primary Gun,2
+pc-naniwa,57-gs-marki-recoil_x2,57-he-uk,Tertiary Gun,3
+pc-naniwa,25-gs-nordenfelt-markiii_x10,25-b-uk,Tertiary Gun,4
+pc-naniwa,placeholder_11.4/94-machinegun,,Tertiary Gun,5
+pc-naniwa,350-tt-hull_x4-side,,,
+pc-naniwa,placeholder_torpedo,,,
+pc-naniwa_takachiho,,,Primary Gun,1
+pc-naniwa_takachiho,,,Primary Gun,2
+pc-naniwa_takachiho,47-gs-marki_x2,47-he-uk,Tertiary Gun,3
+pc-naniwa_takachiho,25-gs-nordenfelt-markiii_x10,25-b-uk,Tertiary Gun,4
+pc-naniwa_takachiho,placeholder_11.4/94-machinegun,,Tertiary Gun,5
+pc-naniwa_takachiho,350-tt-hull_x4-side,,,
+pc-naniwa_takachiho,placeholder_torpedo,,,
+pc-naniwa_1895,,,Primary Gun,1
+pc-naniwa_1895,152-gs-cpi_x6-naniwa,152-cpc-4crh,Primary Gun,2
+pc-naniwa_1895,47-gs-marki_x6,47-he-uk,Tertiary Gun,3
+pc-naniwa_1895,350-tt-hull_x4-side,,,
+pc-naniwa_1895,placeholder_torpedo,,,
+pc-naniwa_1900,152-bar-cpi_ay,152-cpc-4crh,Primary Gun,1
+pc-naniwa_1900,152-gs-cpi_x6-naniwa,152-cpc-4crh,Primary Gun,1
+pc-naniwa_1900,47-gs-marki_x6,47-he-uk,Tertiary Gun,2
+pc-naniwa_1900,350-tt-hull_x4-side,,,
+pc-naniwa_1900,placeholder_torpedo,,,
+pc-naniwa_takachiho-1907,152-bar-cpi_ay,152-cpc-4crh,Primary Gun,1
+pc-naniwa_takachiho-1907,152-gs-cpi_x6-naniwa,152-cpc-4crh,Primary Gun,1
+pc-naniwa_takachiho-1907,47-gs-marki_x6,47-he-uk,Tertiary Gun,2
+pc-naniwa_takachiho-1907,350-tt-hull_x4-side,,,
+pc-naniwa_takachiho-1907,placeholder_torpedo,,,
+pc-naniwa_takachiho-1907,placeholder_mines,,,
+gb-arturo-prat,254-cp-armstrong-25ton-blr_ay,,Primary Gun,1
+gb-arturo-prat,120-piv-armstrong-m_x4,,Primary Gun,2
+gb-arturo-prat,76-p-9pdr-armstrong_x2,,Tertiary Gun,3
+gb-arturo-prat,37-p-revolver_x4,37-he-ita-early,Tertiary Gun,4
+gb-arturo-prat,350-tt-hull_x2-side,,,
+gb-arturo-prat,placeholder_torpedo,,,
+gb-tsukushi_1898,254-cp-armstrong-25ton-blr_ay,,Primary Gun,1
+gb-tsukushi_1898,120-piv-armstrong-m_x4,,Primary Gun,2
+gb-tsukushi_1898,76-p-elswick-n_x1-fore,76-he-13-uk,Tertiary Gun,3
+gb-tsukushi_1898,47-gs-marki_x2-aft,47-he-uk,Tertiary Gun,4
+gb-tsukushi_1898,350-tt-hull_x2-side,,,
+gb-tsukushi_1898,placeholder_torpedo,,,
+gb-chaoyong,254-cp-armstrong-25ton-blr_ay,,Primary Gun,1
+gb-chaoyong,120-piv-armstrong-m_x4,,Primary Gun,2
+gb-chaoyong,76-p-9pdr-armstrong_x2,,Tertiary Gun,3
+gb-chaoyong,37-p-revolver_x4,37-he-ita-early,Tertiary Gun,4
+gb-chaoyong,,,Tertiary Gun,5
+gb-chaoyong,,,Tertiary Gun,6
+gb-chaoyong,350-tt-hull_x2-side,,,
+gb-chaoyong,placeholder_torpedo,,,
+up-takao,149-gs-sk-l35_x4,149-ap-ger,Primary Gun,1
+up-takao,,,Secondary Gun,2
+up-takao,,,Secondary Gun,3
+up-takao,25-p-nordenfelt-markiii_x6,25-b-uk,Tertiary Gun,4
+up-takao,25-p-nordenfelt-marki-dual_x2,25-b-uk,Tertiary Gun,4
+up-takao,350-tt-hull_x2-side,,,
+up-takao,placeholder_torpedo,,,2
+up-takao_1901,152-p-armstrong-z_x4,152-com-mod1,Primary Gun,1
+up-takao_1901,47-gs-marki_x2-f-a,47-he-uk,Tertiary Gun,2
+up-takao_1901,450-tt-hull_x2-side,,,
+up-takao_1901,placeholder_torpedo,,,2
+pc-yaeyama,,,Primary Gun,1
+pc-yaeyama,47-gs-marki_x2-f-a,47-he-uk,Tertiary Gun,2
+pc-yaeyama,350-tt-hull_x2-side,,,
+pc-yaeyama,placeholder_torpedo,,,
+pc-matsushima,320-bar-m1887_y,320-ap-jpn,Primary Gun,1
+pc-matsushima,120-p-armstrong-p_x12,120-ap-jpn,Primary Gun,2
+pc-matsushima,57-gs-marki-recoil_x6-matsu,57-he-uk,Tertiary Gun,3
+pc-matsushima,37-p-m1885_x11,,Tertiary Gun,4
+pc-matsushima,350-tt-hull_x4,,,
+pc-matsushima,placeholder_torpedo,,,
+pc-matsushima_itsukushima,320-bar-m1887_a,320-ap-jpn,Primary Gun,1
+pc-matsushima_itsukushima,120-p-armstrong-p_x11,120-ap-jpn,Primary Gun,2
+pc-matsushima_itsukushima,57-gs-marki-recoil_x6-itsu,57-he-uk,Tertiary Gun,3
+pc-matsushima_itsukushima,37-p-m1885_x12,,Tertiary Gun,4
+pc-matsushima_itsukushima,350-tt-hull_x4,,,
+pc-matsushima_itsukushima,placeholder_torpedo,,,
+pc-matsushima_hashidate,320-bar-m1887_a,320-ap-jpn,Primary Gun,1
+pc-matsushima_hashidate,120-p-armstrong-p_x11,120-ap-jpn,Primary Gun,2
+pc-matsushima_hashidate,57-gs-marki-recoil_x6-itsu,57-he-uk,Tertiary Gun,3
+pc-matsushima_hashidate,37-p-m1885_x11-hash,,Tertiary Gun,4
+pc-matsushima_hashidate,350-tt-hull_x4,,,
+pc-matsushima_hashidate,placeholder_torpedo,,,
+ssow-katsuragi,173-piv-rk-l25-c72_x2,,Primary Gun,1
+ssow-katsuragi,,,Primary Gun,2
+ssow-katsuragi,,,Secondary Gun,3
+ssow-katsuragi,25-p-nordenfelt-markiii_x4,25-b-uk,Tertiary Gun,4
+ssow-katsuragi,380-tt-hull_x2-sides,,,
+ssow-katsuragi,placeholder_torpedo,,,
+ssow-katsuragi-1900,173-piv-rk-l25-c72_x2,,Primary Gun,1
+ssow-katsuragi-1900,,,Primary Gun,2
+ssow-katsuragi-1900,,,Secondary Gun,3
+ssow-katsuragi-1900,47-p-yamanouchi-mk1_x8,47-com-2.5,Tertiary Gun,4
+ssow-katsuragi-1900,25-p-nordenfelt-markiii_x4,25-b-uk,Tertiary Gun,5
+ssow-katsuragi-1900,450-tt-hull_x2-side,,,
+ssow-katsuragi-1900,placeholder_torpedo,,,
+ssow-katsuragi-1900_1907,76-gs-41st-year_x4-sides,76-he-jpn,Primary Gun,1
+ssow-katsuragi-1900_1907,47-p-yamanouchi-mk1_x4,47-com-2.5,Tertiary Gun,2
+ssow-katsuragi-1900_1907,450-tt-hull_x2-side,,,
+ssow-katsuragi-1900_1907,placeholder_torpedo,,,
+ssow-katsuragi-1900_1910,76-gs-41st-year_x2-sides,76-he-jpn,Primary Gun,1
+ssow-katsuragi-1900_1910,450-tt-hull_x2-side,,,
+ssow-katsuragi-1900_1910,placeholder_torpedo,,,
+pc-yoshino,152-p-armstrong-z_x4-allround,152-com-mod1,Primary Gun,1
+pc-yoshino,120-gs-armstrong-p_x8-yosh,120-ap-jpn,Primary Gun,2
+pc-yoshino,47-gs-marki_x22,47-he-uk,Tertiary Gun,3
+pc-yoshino,350-tt-hull_x5,,,
+pc-yoshino,placeholder_torpedo,,,
+pc-akitsushima,152-p-armstrong-z_x4,152-com-mod1,Primary Gun,1
+pc-akitsushima,120-gs-armstrong-p_x6,120-ap-jpn,Primary Gun,2
+pc-akitsushima,47-gs-marki_x8,47-he-uk,Tertiary Gun,3
+pc-akitsushima,350-tt-hull_x4-side,,,
+pc-akitsushima,placeholder_torpedo,,,
+pc-esmeralda,,,Primary Gun,1
+pc-esmeralda,,,Primary Gun,2
+pc-esmeralda,47-p-yamanouchi-mk1_x5,47-com-2.5,Tertiary Gun,3
+pc-esmeralda,,,Tertiary Gun,4
+pc-esmeralda,350-tt-hull_x3-fore,,,
+pc-esmeralda,placeholder_torpedo,,,
+pc-izumi_1899,,,Primary Gun,1
+pc-izumi_1899,120-gs-armstrong-p_x6-sides,120-ap-jpn,Primary Gun,2
+pc-izumi_1899,57-gs-marki-recoil_x2-f-a,57-he-uk,Tertiary Gun,3
+pc-izumi_1899,47-gs-marki_x6,47-he-uk,Tertiary Gun,4
+pc-izumi_1899,350-tt-hull_x3-fore,,,
+pc-izumi_1899,placeholder_torpedo,,,
+pc-izumi_1902,120-gs-armstrong-p_x8-izumi,120-ap-jpn,Primary Gun,1
+pc-izumi_1902,57-gs-marki-recoil_x2-f-a,57-he-uk,Tertiary Gun,2
+pc-izumi_1902,47-gs-marki_x6,47-he-uk,Tertiary Gun,3
+pc-izumi_1902,350-tt-hull_x3-fore,,,
+pc-izumi_1902,placeholder_torpedo,,,
+pc-jiyuan,209-bar-rk-l30-c84_a,,Primary Gun,1
+pc-jiyuan,149-gs-sk-l35_y,149-ap-ger,Primary Gun,2
+pc-jiyuan,,,Secondary Gun,3
+pc-jiyuan,350-tt-hull_x4,,,
+pc-jiyuan,placeholder_torpedo,,,
+pc-jiyuan,placeholder_torpedoboat,,,
+pc-saien,209-bar-rk-l30-c84_a,,Primary Gun,1
+pc-saien,149-gs-sk-l35_y,149-ap-ger,Primary Gun,2
+pc-saien,57-gs-marki-recoil_x4,57-he-uk,Tertiary Gun,3
+pc-saien,,,Tertiary Gun,4
+pc-saien,350-tt-hull_x4,,,
+pc-saien,placeholder_torpedo,,,
+pc-saien,placeholder_torpedoboat,,,
+pc-saien_1898,209-bar-rk-l30-c84_a,,Primary Gun,1
+pc-saien_1898,149-gs-sk-l35_y,149-ap-ger,Primary Gun,2
+pc-saien_1898,47-gs-marki_x8-saien,47-he-uk,Tertiary Gun,3
+pc-saien_1898,350-tt-hull_x4,,,
+pc-saien_1898,placeholder_torpedo,,,
+pc-saien_1898,placeholder_torpedoboat,,,
+pc-suma,152-p-armstrong-z_ay,152-com-mod1,Primary Gun,1
+pc-suma,120-gs-armstrong-p_x6-suma,120-ap-jpn,Primary Gun,2
+pc-suma,47-gs-marki_x10-suma,47-he-uk,Tertiary Gun,3
+pc-suma,47-p-yamanouchi-mk1_x4-allround,47-com-2.5,Tertiary Gun,4
+pc-suma,381-tt-hull_x2-side,,,
+pc-suma,placeholder_torpedo,,,
+up-tatsuta,120-gs-armstrong-p_ay,120-ap-jpn,Primary Gun,1
+up-tatsuta,47-gs-marki_x4-tatsuta,47-he-uk,Tertiary Gun,2
+up-tatsuta,450-tt-dual-jpn_x2,,,
+up-tatsuta,450-tt-hull_x1-bow,,,
+up-tatsuta,placeholder_torpedo,,,
+up-miyako,120-gs-armstrong-p_ay,120-ap-jpn,Primary Gun,1
+up-miyako,47-gs-marki_x8-miyako,47-he-uk,Tertiary Gun,2
+up-miyako,450-tt-hull_x2-side,,,
+up-miyako,placeholder_torpedo,,,
+up-chishima,,,Primary Gun,1
+up-chishima,,,Tertiary Gun,2
+up-chishima,381-tt-hull_x3-bow,,,
+up-chishima,placeholder_torpedo,,,
+pc-takasago,203-gs-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+pc-takasago,120-gs-armstrong-p_x10,120-ap-jpn,Primary Gun,2
+pc-takasago,76-gs-41st-year_x12-takasago,76-he-jpn,Secondary Gun,3
+pc-takasago,47-p-yamanouchi-mk1_x6,47-com-2.5,Tertiary Gun,4
+pc-takasago,450-tt-hull_x5-bow,,,
+pc-takasago,placeholder_torpedo,,,
+pc-chitose,203-gs-armstrong-u_ay,203-ap-jpn,Primary Gun,1
+pc-chitose,120-gs-armstrong-p_x10,120-ap-jpn,Primary Gun,2
+pc-chitose,76-gs-41st-year_x12-takasago,76-he-jpn,Secondary Gun,3
+pc-chitose,47-p-yamanouchi-mk1_x6,47-com-2.5,Tertiary Gun,4
+pc-chitose,450-tt-hull_x5-bow,,,
+pc-chitose,placeholder_torpedo,,,
+pc-niitaka,152-p-armstrong-z_x6-niitaka,152-com-mod1,Primary Gun,1
+pc-niitaka,76-gs-41st-year_x10,76-he-jpn,Secondary Gun,2
+pc-niitaka,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,3
+pc-niitaka_tsushima-1922,152-p-armstrong-z_x6-niitaka,152-com-mod1,Primary Gun,1
+pc-niitaka_tsushima-1922,76-gs-41st-year_x8-tsushima,76-he-jpn,Secondary Gun,2
+pc-niitaka_tsushima-1922,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,3
+pc-niitaka_tsushima-1924,152-p-armstrong-z_x6-niitaka,152-com-mod1,Primary Gun,1
+pc-niitaka_tsushima-1924,76-gs-41st-year_x8-tsushima,76-he-jpn,Secondary Gun,2
+pc-niitaka_tsushima-1924,76-p-3rd-year_x1-midship,76-he-com-type0,AA Battery,2
+pc-niitaka_tsushima-1924,47-p-yamanouchi-mk1_x4-sides,47-com-2.5,Tertiary Gun,3
+up-chihaya,120-gs-armstrong-p_ay,120-ap-jpn,Primary Gun,1
+up-chihaya,76-gs-41st-year_x4,76-he-jpn,Secondary Gun,2
+up-chihaya,450-tt-single-jpn_x2,,,
+up-chihaya,450-tt-hull_x1-bow,,,
+up-chihaya,placeholder_torpedo,,,
+up-chihaya_1903,120-gs-armstrong-p_ay,120-ap-jpn,Primary Gun,1
+up-chihaya_1903,76-gs-41st-year_x4,76-he-jpn,Secondary Gun,2
+up-chihaya_1903,450-tt-single-jpn_x2,,,
+up-chihaya_1903,placeholder_torpedo,,,
+pc-otowa,152-p-armstrong-z_ay,152-com-mod1,Primary Gun,1
+pc-otowa,120-gs-armstrong-p_x6-suma,120-ap-jpn,Primary Gun,2
+pc-otowa,76-gs-41st-year_x4-sides,76-he-jpn,Secondary Gun,3
+pc-otowa,450-tt-hull_x2-side,,,
+pc-otowa,placeholder_torpedo,,,
+pc-tsugaru,152-gs-41st-year-gg_x8,152-ap-jpn,Primary Gun,1
+pc-tsugaru,76-gs-41st-year_x12-tsugaru,76-he-jpn,Secondary Gun,3
+pc-tsugaru,,,Tertiary Gun,3
+pc-tsugaru_1913,152-gs-41st-year-gg_x10,152-ap-jpn,Primary Gun,1
+pc-tsugaru_1913,76-gs-41st-year_x12-tsugaru,76-he-jpn,Secondary Gun,3
+pc-tsugaru_1913,,,Tertiary Gun,3
+pc-tsugaru_1920,152-gs-41st-year-gg_x7,152-ap-jpn,Primary Gun,1
+pc-tsugaru_1920,placeholder_mines,,,
+pc-suzuya,120-gs-armstrong-p_ay,120-ap-jpn,Primary Gun,1
+pc-suzuya,76-gs-41st-year_x4,76-he-jpn,Secondary Gun,2
+pc-suzuya,47-gs-marki_x6,47-he-uk,Tertiary Gun,3
+pc-suzuya,37-p-revolver_x2-sides,37-he-ita-early,Tertiary Gun,4
+pc-yodo,120-gs-armstrong-p_ay,120-ap-jpn,Primary Gun,1
+pc-yodo,76-gs-41st-year_x4,76-he-jpn,Secondary Gun,2
+pc-yodo,,,Tertiary Gun,3
+pc-yodo,450-tt-hull_x2-side,,,
+pc-yodo,placeholder_torpedo,,,
+pc-mogami,120-gs-armstrong-p_ay,120-ap-jpn,Primary Gun,1
+pc-mogami,76-gs-41st-year_x4,76-he-jpn,Secondary Gun,2
+pc-mogami,,,Tertiary Gun,3
+pc-mogami,450-tt-hull_x2-side,,,
+pc-mogami,placeholder_torpedo,,,
+claa-yasoshima,120-gs-10th-year-b2_ay,120-he-com-type0,Primary Gun,1
+claa-yasoshima,25-cp-type96-triple_x5,25-com-jpn,AA Battery,2
+claa-yasoshima,dct-unknown_x2,,,
+claa-yasoshima,dcr-unknown_x2,,,
+claa-yasoshima_1944,120-gs-10th-year-b2_ay,120-he-com-type0,Primary Gun,1
+claa-yasoshima_1944,25-cp-type96-triple_x5-yasoshima,25-com-jpn,AA Battery,2
+claa-yasoshima_1944,25-cp-type96-twin_x4-yasoshima,25-com-jpn,AA Battery,2
+claa-yasoshima_1944,25-p-type96-single_x8-yasoshima,25-com-jpn,AA Battery,2
+claa-yasoshima_1944,13-p-type93-single_x3-yasoshima,13-ap-jpn,AA Battery,3
+claa-yasoshima_1944,dct-unknown_x2,,,
+claa-yasoshima_1944,dcr-unknown_x2,,,
+cl-tone,152-gs-41st-year-gg_ay,152-ap-jpn,Primary Gun,1
+cl-tone,120-gs-type41_x10-tone,120-com-jpn,Primary Gun,2
+cl-tone,76-gs-41st-year_x4-sides,76-he-jpn,Secondary Gun,3
+cl-tone,450-tt-hull_x3-bow,,,
+cl-tone,placeholder_torpedo,,,
+cl-tone_1910,152-gs-41st-year-gg_ay,152-ap-jpn,Primary Gun,1
+cl-tone_1910,120-gs-type41_x8-tone,120-com-jpn,Primary Gun,2
+cl-tone_1910,76-gs-41st-year_x4-sides,76-he-jpn,Secondary Gun,3
+cl-tone_1910,450-tt-hull_x3-bow,,,
+cl-tone_1910,placeholder_torpedo,,,
+cl-tone_1924,152-gs-41st-year-gg_ay,152-ap-jpn,Primary Gun,1
+cl-tone_1924,120-gs-type41_x8-tone,120-com-jpn,Primary Gun,2
+cl-tone_1924,76-gs-41st-year_x2-sides,76-he-jpn,Secondary Gun,3
+cl-tone_1924,450-tt-hull_x3-bow,,,
+cl-tone_1924,placeholder_torpedo,,,
