@@ -10956,7 +10956,7 @@ pc-mogami,450-tt-hull_x2-side,,,
 pc-mogami,placeholder_torpedo,,,
 claa-yasoshima,120-gs-10th-year-b2_ay,120-he-com-type0,Primary Gun,1
 claa-yasoshima,25-cp-type96-triple_x5,25-com-jpn,AA Battery,2
-claa-yasoshima,dct-unknown_x2,,,
+claa-yasoshima,dct-unknown_x4,,,
 claa-yasoshima,dcr-unknown_x2,,,
 claa-yasoshima_1944,120-gs-10th-year-b2_ay,120-he-com-type0,Primary Gun,1
 claa-yasoshima_1944,25-cp-type96-triple_x5-yasoshima,25-com-jpn,AA Battery,2
@@ -10980,3 +10980,30 @@ cl-tone_1924,120-gs-type41_x8-tone,120-com-jpn,Primary Gun,2
 cl-tone_1924,76-gs-41st-year_x2-sides,76-he-jpn,Secondary Gun,3
 cl-tone_1924,450-tt-hull_x3-bow,,,
 cl-tone_1924,placeholder_torpedo,,,
+tc-katori-1938,140-ag-3rd-35_ay,140-cap-com,Primary Gun,1
+tc-katori-1938,127-gs-a1_x,127-he-type0,Secondary Gun,2
+tc-katori-1938,25-cp-type96-twin_x2-fore,25-com-jpn,AA Battery,3
+tc-katori-1938,13-p-type93-single_x8-katori,13-ap-jpn,AA Battery,4
+tc-katori-1938,533-tt-dual-jpn_x2,,,
+tc-katori-1938,placeholder_torpedo,,,
+tc-katori-1938_kashii,140-ag-3rd-35_ay,140-cap-com,Primary Gun,1
+tc-katori-1938_kashii,127-gs-a1_x,127-he-type0,Secondary Gun,2
+tc-katori-1938_kashii,25-cp-type96-twin_x4-fore,25-com-jpn,AA Battery,3
+tc-katori-1938_kashii,13-p-type93-single_x8-katori,13-ap-jpn,AA Battery,4
+tc-katori-1938_kashii,533-tt-dual-jpn_x2,,,
+tc-katori-1938_kashii,placeholder_torpedo,,,
+tc-katori-1938_kashii-1945,140-ag-3rd-35_ay,140-cap-com,Primary Gun,1
+tc-katori-1938_kashii-1945,127-gs-a1_x3,127-he-type0,Secondary Gun,2
+tc-katori-1938_kashii-1945,25-cp-type96-triple_x4-katori,25-com-jpn,AA Battery,3
+tc-katori-1938_kashii-1945,25-cp-type96-twin_x4-fore,25-com-jpn,AA Battery,3
+tc-katori-1938_kashii-1945,13-p-type93-single_x8-katori,13-ap-jpn,AA Battery,4
+tc-katori-1938_kashii-1945,dct-unknown_x4,,,
+tc-katori-1938_kashii-1945,dcr-unknown_x2,,,
+tc-katori-1938_kashima-1945,140-ag-3rd-35_ay,140-cap-com,Primary Gun,1
+tc-katori-1938_kashima-1945,127-gs-a1_x3,127-he-type0,Secondary Gun,2
+tc-katori-1938_kashima-1945,25-cp-type96-triple_x4-katori,25-com-jpn,AA Battery,3
+tc-katori-1938_kashima-1945,25-cp-type96-twin_x4-fore,25-com-jpn,AA Battery,3
+tc-katori-1938_kashima-1945,25-p-type96-single_x10-katori,25-com-jpn,AA Battery,3
+tc-katori-1938_kashima-1945,13-p-type93-single_x8-katori,13-ap-jpn,AA Battery,4
+tc-katori-1938_kashima-1945,dct-unknown_x4,,,
+tc-katori-1938_kashima-1945,dcr-unknown_x2,,,
