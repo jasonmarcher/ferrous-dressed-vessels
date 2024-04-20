@@ -546,6 +546,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 178-up_x1-fantail,178,,178-up,0,1,1,1
 178-up_x1,178,,178-up,0,1,0,1
 173-piv-rk-l25-c72_x2,173,173-piv-rk-l25-c72,,1,1,0,2
+173-piv-rk-l25-c72_x1-fore,173,173-piv-rk-l25-c72,,1,1,0,1
 173-piv-rk-l20-c67_x3-kongo,173,173-piv-rk-l20-c67,,1,2,1,3
 173-c-mpl-c02_x14,173,173-c-mpl-c02,,2,7,2,14
 173-c-mpl-c02_x10,173,173-c-mpl-c02,,1,5,1,10
@@ -817,6 +818,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 152-ag-bb-m1936-dp_x3,152,152-ag-bb-m1936-dp,,0,2,3,3
 152-ag-41st-year_aby,152,152-ag-41st-year,,2,3,1,3
 150-c-k10_x12,150,150-c-k10,,1,6,1,12
+149-piv-sk-l35_x7,149,149-piv-sk-l35,,1,3,0,6
 149-piv-rk-l25-c74_x6,149,149-piv-rk-l25-c74,,0,3,0,6
 149-gs-sk-l35_x4,149,149-gs-sk-l35,,1,2,1,4
 149-gs-sk-l35_y,149,149-gs-sk-l35,,0,1,1,1
@@ -1045,6 +1047,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 120-gs-armstrong-p_x6-suma,120,120-gs-armstrong-p,,1,3,1,6
 120-gs-armstrong-p_x6-sides,120,120-gs-armstrong-p,,0,3,0,6
 120-gs-armstrong-p_x6,120,120-gs-armstrong-p,,1,4,1,6
+120-gs-armstrong-p_x4-diamond,120,120-gs-armstrong-p,,2,3,2,4
 120-gs-armstrong-p_ay,120,120-gs-armstrong-p,,1,2,1,2
 120-gs-10th-year-b2_x4,120,120-gs-10th-year-b2,,0,2,1,4
 120-gs-10th-year-b2_ay,120,120-gs-10th-year-b2,,1,2,1,2
@@ -1771,9 +1774,12 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 47-gs-marki_x8-saien,47,47-gs-marki,,2,4,2,8
 47-gs-marki_x8-miyako,47,47-gs-marki,,2,4,1,8
 47-gs-marki_x8,47,47-gs-marki,,3,4,3,8
+47-gs-marki_x6-sides-alt,47,47-gs-marki,,1,3,1,6
 47-gs-marki_x6-f-a,47,47-gs-marki,,3,2,3,6
 47-gs-marki_x6,47,47-gs-marki,,1,3,1,6
+47-gs-marki_x5-oshima,47,47-gs-marki,,2,3,2,5
 47-gs-marki_x4-tatsuta,47,47-gs-marki,,1,2,0,4
+47-gs-marki_x2-fore,47,47-gs-marki,,0.5,1,0,2
 47-gs-marki_x2-f-a,47,47-gs-marki,,1,2,1,2
 47-gs-marki_x2-aft,47,47-gs-marki,,0,1,1,2
 47-gs-marki_x2,47,47-gs-marki,,0,1,0,2
@@ -2185,6 +2191,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 25-p-nordenfelt-markiii_x4,25,25-p-nordenfelt-markiii,,1,2,2,4
 25-p-nordenfelt-marki-dual_x2,25,25-p-nordenfelt-marki-dual,,0,1,0,2
 25-gs-nordenfelt-markiii_x10,25,25-gs-nordenfelt-markiii,,2,5,2,10
+25-gs-nordenfelt-markiii_x2,25,25-gs-nordenfelt-markiii,,1,1,1,2
 25-cp-type96-twin_x18-alt,25,25-cp-type96-twin,,4,9,7,18
 25-cp-type96-twin_x17,25,25-cp-type96-twin,,6,9,5,17
 25-cp-type96-twin_x16-alt,25,25-cp-type96-twin,,4,8,6,16
