@@ -170,6 +170,10 @@ https://en.wikipedia.org/wiki/Flat-iron_gunboat
 
 https://stefsap.wordpress.com/2015/10/20/hswms-gotland-history-and-1943-plans/
 
+https://www.rmg.co.uk/collections/our-collections-ship-plans-collection
+
+https://prints.rmg.co.uk/collections/ship-plans
+
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
