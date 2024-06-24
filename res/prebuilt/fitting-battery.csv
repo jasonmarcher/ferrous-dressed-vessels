@@ -3206,30 +3206,30 @@ cds-braunschweig-1921_1931,500-tt-single-ger_x2,,,
 cds-braunschweig-1921_1931,placeholder_torpedo,,,
 pred-wittelsbach,238-ag-drh-lc98-pusher_ay,238-ap-c80,Primary Gun,1
 pred-wittelsbach,149-c-mpl_x14,149-ap-c01,Secondary Gun,2
-pred-wittelsbach,149-c-mpl-turret_x4,149-ap-c01,Secondary Gun,2
+pred-wittelsbach,149-ag-mpl-turret_x4,149-ap-c01,Secondary Gun,2
 pred-wittelsbach,88-c-mpl-c89_x4-fore,88-sap-l280-c01,Tertiary Gun,3
-pred-wittelsbach,88-cp-mpl-c89_x8,88-sap-l280-c01,Tertiary Gun,3
+pred-wittelsbach,88-gs-mpl-c89_x8,88-sap-l280-c01,Tertiary Gun,3
 pred-wittelsbach,7-p-mg01_x12,7-b-79-mauser,Security Gun,4
 pred-wittelsbach,450-tt-hull_x6-fore-aft,,,
 pred-wittelsbach,placeholder_torpedo,,,
 pred-kaiser-friedrich-iii,238-ag-drh-lc97_ay,238-ap-c80,Primary Gun,1
-pred-kaiser-friedrich-iii,149-c-mpl-turret_x6,149-ap-c01,Secondary Gun,2
+pred-kaiser-friedrich-iii,149-ag-mpl-turret_x6,149-ap-c01,Secondary Gun,2
 pred-kaiser-friedrich-iii,149-c-mpl_x12,149-ap-c01,Secondary Gun,2
-pred-kaiser-friedrich-iii,88-cp-mpl-c89_x12,88-sap-l280-c01,Tertiary Gun,3
+pred-kaiser-friedrich-iii,88-gs-mpl-c89_x12,88-sap-l280-c01,Tertiary Gun,3
 pred-kaiser-friedrich-iii,7-p-mg01_x12,7-b-79-mauser,Security Gun,4
 pred-kaiser-friedrich-iii,450-tt-hull_x6-fore-aft,,,
 pred-kaiser-friedrich-iii,placeholder_torpedo,,,
 pred-kaiser-friedrich-iii_1909,238-ag-drh-lc97_ay,238-ap-l28-c01,Primary Gun,1
-pred-kaiser-friedrich-iii_1909,149-c-mpl-turret_x6,149-ap-c01,Secondary Gun,2
+pred-kaiser-friedrich-iii_1909,149-ag-mpl-turret_x6,149-ap-c01,Secondary Gun,2
 pred-kaiser-friedrich-iii_1909,149-c-mpl_x8,149-ap-c01,Secondary Gun,2
-pred-kaiser-friedrich-iii_1909,88-cp-mpl-c89_x14,88-sap-l280-c01,Tertiary Gun,3
+pred-kaiser-friedrich-iii_1909,88-gs-mpl-c89_x14,88-sap-l280-c01,Tertiary Gun,3
 pred-kaiser-friedrich-iii_1909,450-tt-hull_x5-bow,,,
 pred-kaiser-friedrich-iii_1909,placeholder_torpedo,,,
 pred-brandenburg,283-ag-drh-lc92-40_ay,283-ap-l26,Primary Gun,1
 pred-brandenburg,283-ag-drh-lc92_r,283-ap-l26,Primary Gun,2
 pred-brandenburg,105-c-mpl-c91_x6,105-ap-1891,Secondary Gun,3
 pred-brandenburg,88-c-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
-pred-brandenburg,88-cp-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
+pred-brandenburg,88-gs-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
 pred-brandenburg,8-p-unknown_x12,8-b-uknown,Tertiary Gun,5
 pred-brandenburg,450-tt-hull_x6-fore,,,
 pred-brandenburg,placeholder_torpedo,,,
@@ -3237,7 +3237,7 @@ pred-brandenburg-1902,283-ag-drh-lc92-40_ay,283-ap-l26,Primary Gun,1
 pred-brandenburg-1902,283-ag-drh-lc92_r,283-ap-l26,Primary Gun,2
 pred-brandenburg-1902,105-c-mpl-c91_x8,105-ap-1891,Secondary Gun,3
 pred-brandenburg-1902,88-c-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
-pred-brandenburg-1902,88-cp-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
+pred-brandenburg-1902,88-gs-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
 pred-brandenburg-1902,8-p-unknown_x12,8-b-uknown,Tertiary Gun,5
 pred-brandenburg-1902,450-tt-hull_x3-aft,,,
 pred-brandenburg-1902,placeholder_torpedo,,,5
@@ -3245,7 +3245,7 @@ pred-torgud-reis-1910,283-ag-drh-lc92-40_ay,283-ap-l26,Primary Gun,1
 pred-torgud-reis-1910,283-ag-drh-lc92_r,283-ap-l26,Primary Gun,2
 pred-torgud-reis-1910,105-c-mpl-c91_x8,105-ap-1891,Secondary Gun,3
 pred-torgud-reis-1910,88-c-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
-pred-torgud-reis-1910,88-cp-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
+pred-torgud-reis-1910,88-gs-mpl-c89_x4,88-sap-l280-c01,Tertiary Gun,4
 pred-torgud-reis-1910,8-p-unknown_x12,8-b-uknown,Tertiary Gun,5
 pred-torgud-reis-1910,450-tt-hull_x3-aft,,,
 pred-torgud-reis-1910,placeholder_torpedo,,,5
@@ -3843,7 +3843,7 @@ bb-andrea-doria,placeholder_torpedo,,,
 bb-andrea-doria_1916,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
 bb-andrea-doria_1916,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
 bb-andrea-doria_1916,152-c-m1911_x16,152-ap-ita-early,Secondary Gun,2
-bb-andrea-doria_1916,76-p-rm-m1916_x6,76-ap-ita,AA Battery,3
+bb-andrea-doria_1916,76-p-rm-m1916_x6,76-he-ita,AA Battery,3
 bb-andrea-doria_1916,76-p-v1909_x13-turret,76-ap-ita,Tertiary Gun,3
 bb-andrea-doria_1916,450-tt-hull_x3-aft,,,
 bb-andrea-doria_1916,placeholder_torpedo,,,
@@ -3863,14 +3863,14 @@ bb-conte-di-cavour,placeholder_torpedo,,,
 bb-conte-di-cavour_1920,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
 bb-conte-di-cavour_1920,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
 bb-conte-di-cavour_1920,120-c-vickers-bl_x18,120-he-ita,Secondary Gun,2
-bb-conte-di-cavour_1920,76-p-rm-m1916_x6,76-ap-ita,AA Battery,3
+bb-conte-di-cavour_1920,76-p-rm-m1916_x6,76-he-ita,AA Battery,3
 bb-conte-di-cavour_1920,76-p-v1909_x13-turret,76-ap-ita,Tertiary Gun,3
 bb-conte-di-cavour_1920,450-tt-hull_x3-aft,,,
 bb-conte-di-cavour_1920,placeholder_torpedo,,,
 bb-conte-di-cavour_1925,305-ag-v1909-tripple_ary,305-apc-ita,Primary Gun,1
 bb-conte-di-cavour_1925,305-ag-v1909-twin_bx,305-apc-ita,Primary Gun,1
 bb-conte-di-cavour_1925,120-c-vickers-bl_x18,120-he-ita,Secondary Gun,2
-bb-conte-di-cavour_1925,76-p-rm-m1916_x6,76-ap-ita,AA Battery,3
+bb-conte-di-cavour_1925,76-p-rm-m1916_x6,76-he-ita,AA Battery,3
 bb-conte-di-cavour_1925,76-p-v1909_x13-turret,76-ap-ita,Tertiary Gun,3
 bb-conte-di-cavour_1925,40-cp-vt-1915_x2,40-he-ita,AA Battery,4
 bb-conte-di-cavour_1925,450-tt-hull_x3-aft,,,
@@ -7589,9 +7589,9 @@ ac-nelson_1889,57-p-marki-recoil_x6-side,57-he-uk,Tertiary Gun,4
 ac-nelson_1889,47-p-marki_x14-nelson,47-he-uk,Tertiary Gun,5
 ac-nelson_1889,356-tt-hull_x2-side,,,
 ac-nelson_1889,placeholder_torpedo,,,
-ac-shannon,254-piv-rml-18ton-marki_x2-cb,254-palliser,Primary Gun,1
+ac-shannon,254-c-rml-18ton-marki_x2-cb,254-palliser,Primary Gun,1
 ac-shannon,229-piv-rml-12ton-marki_x7,229-palliser,Primary Gun,2
-ac-shannon_1881,254-piv-rml-18ton-marki_x2-cb,254-palliser,Primary Gun,1
+ac-shannon_1881,254-c-rml-18ton-marki_x2-cb,254-palliser,Primary Gun,1
 ac-shannon_1881,229-piv-rml-12ton-marki_x7,229-palliser,Primary Gun,2
 ac-shannon_1881,95-piv-rbl-20pdr-16cwt_x6,95-com-20pdr,Secondary Gun,3
 ac-shannon_1881,356-tt-hull_x4-side,,,
@@ -11043,43 +11043,43 @@ gb-oshima-1889_1894,120-gs-armstrong-p_x4-diamond,120-ap-jpn,Primary Gun,1
 gb-oshima-1889_1894,47-gs-marki_x5-oshima,47-he-uk,Tertiary Gun,2
 gb-oshima-1889_1894,placeholder_11.4/94-machinegun,,Tertiary Gun,3
 ac-furst-bismarck,238-ag-drh-lc97_ay,238-ap-c80,Primary Gun,1
-ac-furst-bismarck,149-c-mpl-turret_x6-alt,149-ap-c01,Primary Gun,2
+ac-furst-bismarck,149-ag-mpl-turret_x6-alt,149-ap-c01,Primary Gun,2
 ac-furst-bismarck,149-c-mpl_x6,149-ap-c01,Primary Gun,2
-ac-furst-bismarck,88-cp-mpl-c89_x10,88-sap-l280-c01,Tertiary Gun,3
+ac-furst-bismarck,88-gs-mpl-c89_x10,88-sap-l280-c01,Tertiary Gun,3
 ac-furst-bismarck,8-p-unknown_x4,8-b-uknown,Tertiary Gun,4
 ac-furst-bismarck,450-tt-hull_x6-fore-aft,,,
 ac-furst-bismarck,placeholder_torpedo,,,
 ac-furst-bismarck_1910,238-ag-drh-lc97_ay,238-ap-c80,Primary Gun,1
-ac-furst-bismarck_1910,149-c-mpl-turret_x4-alt,149-ap-c01,Primary Gun,2
+ac-furst-bismarck_1910,149-ag-mpl-turret_x4-alt,149-ap-c01,Primary Gun,2
 ac-furst-bismarck_1910,149-c-mpl_x6,149-ap-c01,Primary Gun,2
-ac-furst-bismarck_1910,88-cp-mpl-c89_x10,88-sap-l280-c01,Tertiary Gun,3
+ac-furst-bismarck_1910,88-gs-mpl-c89_x10,88-sap-l280-c01,Tertiary Gun,3
 ac-furst-bismarck_1910,450-tt-hull_x6-fore-aft,,,
 ac-furst-bismarck_1910,placeholder_torpedo,,,
 ac-prinz-heinrich,238-ag-drh-lc99_ay,238-ap-c80,Primary Gun,1
-ac-prinz-heinrich,149-c-mpl-turret_x4,149-ap-c01,Primary Gun,2
+ac-prinz-heinrich,149-ag-mpl-turret_x4,149-ap-c01,Primary Gun,2
 ac-prinz-heinrich,149-c-mpl_x6-alt,149-ap-c01,Primary Gun,2
-ac-prinz-heinrich,88-cp-mpl-c89_x10-alt,88-sap-l280-c01,Tertiary Gun,3
+ac-prinz-heinrich,88-gs-mpl-c89_x10-alt,88-sap-l280-c01,Tertiary Gun,3
 ac-prinz-heinrich,8-p-unknown_x4,8-b-uknown,Tertiary Gun,4
 ac-prinz-heinrich,450-tt-hull_x4-fore-aft,,,
 ac-prinz-heinrich,placeholder_torpedo,,,
 ac-prinz-adalbert,209-ag-dr-lc01_ay,209-ap-l29,Primary Gun,1
-ac-prinz-adalbert,149-c-mpl-turret_x4,149-ap-c01,Primary Gun,2
+ac-prinz-adalbert,149-ag-mpl-turret_x4,149-ap-c01,Primary Gun,2
 ac-prinz-adalbert,149-c-mpl_x6-alt,149-ap-c01,Primary Gun,2
-ac-prinz-adalbert,88-cp-mpl-c89_x12,88-sap-l280-c01,Tertiary Gun,3
+ac-prinz-adalbert,88-gs-mpl-c89_x12,88-sap-l280-c01,Tertiary Gun,3
 ac-prinz-adalbert,8-p-unknown_x4,8-b-uknown,Tertiary Gun,4
 ac-prinz-adalbert,450-tt-hull_x4-fore-aft,,,
 ac-prinz-adalbert,placeholder_torpedo,,,
 ac-roon,209-ag-dr-lc01_ay,209-ap-l29,Primary Gun,1
-ac-roon,149-c-mpl-turret_x4,149-ap-c01,Primary Gun,2
+ac-roon,149-ag-mpl-turret_x4,149-ap-c01,Primary Gun,2
 ac-roon,149-c-mpl_x6-alt,149-ap-c01,Primary Gun,2
-ac-roon,88-cp-mpl-c89_x14-alt,88-sap-l280-c01,Tertiary Gun,3
+ac-roon,88-gs-mpl-c89_x14-alt,88-sap-l280-c01,Tertiary Gun,3
 ac-roon,8-p-unknown_x4,8-b-uknown,Tertiary Gun,4
 ac-roon,450-tt-hull_x4-fore-aft,,,
 ac-roon,placeholder_torpedo,,,
 ac-scharnhorst,209-ag-dr-lc01_ay,209-ap-l29,Primary Gun,1
 ac-scharnhorst,209-c-mpl-c04_x4,209-ap-l29,Primary Gun,1
 ac-scharnhorst,149-c-mpl_x6-alt,149-ap-c01,Primary Gun,2
-ac-scharnhorst,88-cp-mpl-c89_x18,88-sap-l280-c01,Tertiary Gun,3
+ac-scharnhorst,88-gs-mpl-c89_x18,88-sap-l280-c01,Tertiary Gun,3
 ac-scharnhorst,8-p-unknown_x4,8-b-uknown,Tertiary Gun,4
 ac-scharnhorst,450-tt-hull_x4-fore-aft,,,
 ac-scharnhorst,placeholder_torpedo,,,
@@ -11123,7 +11123,7 @@ bc-deutschland_1939-1,533-tt-quad_x2,,,
 bc-deutschland_1939-1,placeholder_torpedo,,,
 bc-admiral-scheer_1939,283-ag-drh-lc28_ay,283-apc-l37,Primary Gun,1
 bc-admiral-scheer_1939,149-ag-mpl28_x8,149-apc-l38,Secondary Gun,2
-bc-admiral-scheer_1939,88-cp-doppl-c31_x3,105-he-aa-ger,AA Battery,3
+bc-admiral-scheer_1939,105-sm-dop-lc31_x3,105-he-aa-ger,AA Battery,3
 bc-admiral-scheer_1939,37-sm-dop-lc30_x4,37-he-t,AA Battery,4
 bc-admiral-scheer_1939,20-p-c30_x10-alt,20-api-i_20-he-i,AA Battery,5
 bc-admiral-scheer_1939,533-tt-quad_x2,,,
@@ -11293,3 +11293,629 @@ ca-prinz-eugen_1945,533-tt-tripple_x4,,,
 ca-prinz-eugen_1945,placeholder_torpedo,,,
 ca-petropavlovsk,203-ag-l-c34_ay,203-apc-l44,Primary Gun,1
 ca-petropavlovsk,20-p-c38_x8-tirp,20-api-i_20-he-i,AA Battery,2
+ssow-bismarck,149-piv-rk-l22-c72_x16,,Primary Gun,1
+ssow-bismarck,87-piv-rk-l24-c82_x2,,Secondary Gun,2
+ssow-bismarck,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-bismarck_1881,149-piv-sk-l35_x16,149-ap-ger,Primary Gun,1
+ssow-bismarck_1881,88-gs-mpl-c89_x2-aft,88-sap-l280-c01,Secondary Gun,2
+ssow-bismarck_1881,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-bismarck_1881,350-tt-hull_x2-bow,,,
+ssow-bismarck_1881,placeholder_torpedo,,,
+ssow-bismarck_blucher,88-gs-mpl-c89_x4-alt,88-sap-l280-c01,Primary Gun,1
+ssow-bismarck_blucher,37-p-rv-l30_x13,37-he-ita-early,Tertiary Gun,2
+ssow-bismarck_blucher,350-tt-hull_x7,,,
+ssow-bismarck_blucher,placeholder_torpedo,,,
+ssow-bismarck_stosch,149-piv-rk-l22-c72_x10,,Primary Gun,1
+ssow-bismarck_stosch,87-piv-rk-l24-c82_x2,,Secondary Gun,2
+ssow-bismarck_stosch,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-bismarck_stosch-1881,149-piv-sk-l35_x10,149-ap-ger,Primary Gun,1
+ssow-bismarck_stosch-1881,88-gs-mpl-c89_x2-aft,88-sap-l280-c01,Secondary Gun,2
+ssow-bismarck_stosch-1881,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-bismarck_gneisenau,149-piv-rk-l22-c72_x14,,Primary Gun,1
+ssow-bismarck_gneisenau,87-piv-rk-l24-c82_x2,,Secondary Gun,2
+ssow-bismarck_gneisenau,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-bismarck_stein,149-piv-rk-l22-c72_x12,,Primary Gun,1
+ssow-bismarck_stein,87-piv-rk-l24-c82_x2,,Secondary Gun,2
+ssow-bismarck_stein,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-bismarck_stein-1888,149-piv-sk-l35_x12,149-ap-ger,Primary Gun,1
+ssow-bismarck_stein-1888,88-gs-mpl-c89_x2-aft,88-sap-l280-c01,Secondary Gun,2
+ssow-bismarck_stein-1888,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-carola,149-piv-rk-l22-c72_x10,,Primary Gun,1
+ssow-carola,87-piv-rk-l24-c82_x2,,Secondary Gun,2
+ssow-carola,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-carola_1886,149-piv-rk-l22-c72_x10,,Primary Gun,1
+ssow-carola_1886,87-piv-rk-l24-c82_x2,,Secondary Gun,2
+ssow-carola_1886,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-carola_1886,,,,
+ssow-carola_1886,placeholder_torpedo,,,
+ssow-carola_1891,149-piv-rk-l22-c72_x10,,Primary Gun,1
+ssow-carola_1891,105-c-mpl-c91_x2-sides,105-ap-1891,Primary Gun,2
+ssow-carola_1891,88-gs-mpl-c89_x8,88-sap-l280-c01,Secondary Gun,3
+ssow-carola_1891,,,Secondary Gun,4
+ssow-olga-1889,88-gs-mpl-c89_x4-alt,88-sap-l280-c01,Primary Gun,1
+ssow-olga-1889,,,Tertiary Gun,2
+ssow-olga-1889_1899,88-gs-mpl-c89_x2-fore,88-sap-l280-c01,Primary Gun,1
+ssow-olga-1889_1899,37-p-rv-l30_x8,37-he-ita-early,Tertiary Gun,2
+ssow-carola_marie-1893,149-piv-rk-l22-c72_x10,,Primary Gun,1
+ssow-carola_marie-1893,88-gs-mpl-c89_x2-aft,88-sap-l280-c01,Secondary Gun,2
+ssow-carola_marie-1893,37-p-rv-l30_x10,37-he-ita-early,Tertiary Gun,3
+ssow-alexandrine,149-piv-rk-l22-c72_x10-alt,,Primary Gun,1
+ssow-alexandrine,87-cp-rk-l24-c82_x2,,Secondary Gun,2
+ssow-alexandrine,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-alexandrine_1889,149-piv-sk-l35_x10-alt,149-ap-ger,Primary Gun,1
+ssow-alexandrine_1889,105-cp-mpl-c91_x2,105-ap-1891,Primary Gun,2
+ssow-alexandrine_1889,105-c-mpl-c91_x2-sides,105-ap-1891,Primary Gun,2
+ssow-alexandrine_1889,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+fb-alexandrine,149-piv-sk-l35_x10-alt,149-ap-ger,Primary Gun,1
+fb-alexandrine,105-cp-mpl-c91_x2,105-ap-1891,Primary Gun,2
+fb-alexandrine,105-c-mpl-c91_x2-sides,105-ap-1891,Primary Gun,2
+fb-alexandrine,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-nixe,,,Primary Gun,1
+ssow-nixe,87-cp-rk-l24-c82_x2,,Secondary Gun,2
+ssow-nixe,37-p-rv-l30_x4,37-he-ita-early,Tertiary Gun,3
+ssow-charlotte,149-cp-rk-l22-c72_x4,,Primary Gun,1
+ssow-charlotte,149-piv-rk-l22-c72_x14-alt,,Primary Gun,1
+ssow-charlotte,87-cp-rk-l24-c82_x2,,Secondary Gun,2
+ssow-charlotte,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-charlotte_1890,149-cp-rk-l22-c72_x4,,Primary Gun,1
+ssow-charlotte_1890,149-piv-rk-l22-c72_x8,,Primary Gun,1
+ssow-charlotte_1890,87-cp-rk-l24-c82_x2,,Secondary Gun,2
+ssow-charlotte_1890,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+ssow-charlotte_1899,149-cp-rk-l22-c72_x4,,Primary Gun,1
+ssow-charlotte_1899,105-c-mpl-c91_x2-sides,105-ap-1891,Primary Gun,2
+ssow-charlotte_1899,88-gs-mpl-c89_x14,88-sap-l280-c01,Secondary Gun,3
+ssow-charlotte_1899,37-p-rv-l30_x4,37-he-ita-early,Tertiary Gun,4
+ssow-charlotte-1903,105-c-mpl-c91_x2-sides,105-ap-1891,Primary Gun,1
+ssow-charlotte-1903,88-gs-mpl-c89_x14,88-sap-l280-c01,Secondary Gun,2
+ssow-charlotte-1903,37-p-rv-l30_x4,37-he-ita-early,Tertiary Gun,3
+pc-irene,,,Primary Gun,1
+pc-irene,149-cp-rk-l22-c72_x2-fore,,Primary Gun,2
+pc-irene,149-piv-rk-l22-c72_x8,,Primary Gun,2
+pc-irene,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+pc-irene,350-tt-hull_x3-fore,,,
+pc-irene,placeholder_torpedo,,,
+pc-irene_1893,149-gs-sk-l35_x4,149-ap-ger,Primary Gun,1
+pc-irene_1893,105-gs-mpl-c91_x8,105-ap-1891,Primary Gun,2
+pc-irene_1893,50-gs-sk-l40-c92_x8,50-he-ger,Tertiary Gun,3
+pc-irene_1893,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,4
+pc-irene_1893,350-tt-hull_x3-fore,,,
+pc-irene_1893,placeholder_torpedo,,,
+pc-kaiserin-augusta,,,Primary Gun,1
+pc-kaiserin-augusta,105-gs-mpl-c91_x8,105-ap-1891,Primary Gun,2
+pc-kaiserin-augusta,88-gs-mpl-c89_x8-alt,88-sap-l280-c01,Secondary Gun,3
+pc-kaiserin-augusta,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,4
+pc-kaiserin-augusta,350-tt-dual_x2,,,
+pc-kaiserin-augusta,350-tt-hull_x1-bow,,,
+pc-kaiserin-augusta,placeholder_torpedo,,,
+pc-kaiserin-augusta_1896,149-gs-sk-l35_x12,149-ap-ger,Primary Gun,1
+pc-kaiserin-augusta_1896,88-gs-mpl-c89_x8-alt,88-sap-l280-c01,Secondary Gun,2
+pc-kaiserin-augusta_1896,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+pc-kaiserin-augusta_1896,350-tt-dual_x2,,,
+pc-kaiserin-augusta_1896,350-tt-hull_x1-bow,,,
+pc-kaiserin-augusta_1896,placeholder_torpedo,,,
+pc-kaiserin-augusta_1903,149-gs-sk-l35_x12,149-ap-ger,Primary Gun,1
+pc-kaiserin-augusta_1903,88-gs-mpl-c89_x8-alt,88-sap-l280-c01,Secondary Gun,2
+pc-kaiserin-augusta_1903,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,3
+pc-kaiserin-augusta_1903,350-tt-hull_x1-bow,,,
+pc-kaiserin-augusta_1903,placeholder_torpedo,,,
+pc-kaiserin-augusta_1914,88-gs-mpl-c89_x8-alt,88-sap-l280-c01,Primary Gun,1
+pc-kaiserin-augusta_1914,37-p-rv-l30_x6,37-he-ita-early,Tertiary Gun,2
+pc-kaiserin-augusta_1914,350-tt-hull_x1-bow,,,
+pc-kaiserin-augusta_1914,placeholder_torpedo,,,
+pc-kaiserin-augusta_1916,149-gs-mpl-c13_x1,149-ap-l37,Primary Gun,1
+pc-kaiserin-augusta_1916,105-gs-sk-c11_x4,105-he-1907,Primary Gun,2
+pc-kaiserin-augusta_1916,88-cp-mpl-c06_x4,88-he,Tertiary Gun,3
+pc-kaiserin-augusta_1916,88-gs_x4-side,88-he-early,Tertiary Gun,4
+pc-kaiserin-augusta_1916,88-gs-mpl-c89_x5,88-sap-l280-c01,Tertiary Gun,5
+pc-kaiserin-augusta_1916,88-p-ubts-l_x1-center,88-he-l380-c07,Tertiary Gun,5
+pc-gefion,105-gs-mpl-c91_x10,105-ap-1891,Primary Gun,1
+pc-gefion,50-p-sk-l40-c92_x4,50-he-ger,Tertiary Gun,2
+pc-gefion,50-gs-sk-l40-c92_x2-sides,50-he-ger,Tertiary Gun,2
+pc-gefion,450-tt-single_x2,,,
+pc-gefion,placeholder_torpedo,,,
+pc-victoria-louise,209-ag-tl-c97_ay,209-ap-l29,Primary Gun,1
+pc-victoria-louise,149-ag-mpl-turret_x4,149-ap-c01,Primary Gun,2
+pc-victoria-louise,149-c-mpl_x4,149-ap-c01,Primary Gun,2
+pc-victoria-louise,88-gs-mpl-c89_x10-alt,88-sap-l280-c01,Tertiary Gun,3
+pc-victoria-louise,7-p-unknown_x10,,Tertiary Gun,4
+pc-victoria-louise,450-tt-hull_x3-bow,,,
+pc-victoria-louise,placeholder_torpedo,,,
+pc-victoria-louise_1906,209-ag-tl-c97_ay,209-ap-l29,Primary Gun,1
+pc-victoria-louise_1906,149-ag-mpl-turret_x4,149-ap-c01,Primary Gun,2
+pc-victoria-louise_1906,149-c-mpl_x2-fore,149-ap-c01,Primary Gun,2
+pc-victoria-louise_1906,88-gs-mpl-c89_x14-alt-2,88-sap-l280-c01,Tertiary Gun,3
+pc-victoria-louise_1906,450-tt-hull_x3-bow,,,
+pc-victoria-louise_1906,placeholder_torpedo,,,
+pc-gazelle,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-gazelle,7-p-unknown_x10,,Tertiary Gun,2
+pc-gazelle,450-tt-single_x2,,,
+pc-gazelle,450-tt-hull_x1-bow,,,
+pc-gazelle,placeholder_torpedo,,,
+pc-niobe,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-niobe,7-p-unknown_x10,,Tertiary Gun,2
+pc-niobe,450-tt-hull_x2-side,,,
+pc-niobe,placeholder_torpedo,,,
+pc-nymphe_nymphe,105-gs-sk-l40_x6-training,105-ap-early,Primary Gun,1
+pc-nymphe_nymphe,88-cp_x4-training,88-he-early,Tertiary Gun,2
+pc-nymphe_nymphe,52-p-sk-l55_x2-training,52-he-ger,Tertiary Gun,3
+pc-nymphe_nymphe,7-p-unknown_x10,,Tertiary Gun,4
+pc-nymphe_nymphe,450-tt-hull_x2-side,,,
+pc-nymphe_nymphe,placeholder_torpedo,,,
+pc-frauenlob_arcona-1912,105-gs-sk-l40_x8,105-ap-early,Primary Gun,1
+pc-frauenlob_arcona-1912,7-p-unknown_x10,,Tertiary Gun,2
+pc-frauenlob_arcona-1912,500-tt-single_x2,,,
+pc-frauenlob_arcona-1912,placeholder_torpedo,,,
+pc-frauenlob_arcona-1912,placeholder_mines,,,
+pc-frauenlob_1912,105-gs-sk-l40_x6,105-ap-early,Primary Gun,1
+pc-frauenlob_1912,,,Tertiary Gun,2
+pc-frauenlob_1912,450-tt-hull_x2-side,,,
+pc-frauenlob_1912,placeholder_torpedo,,,
+pc-frauenlob_arcona-1914,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-frauenlob_arcona-1914,7-p-unknown_x10,,Tertiary Gun,2
+pc-frauenlob_arcona-1914,500-tt-single_x2,,,
+pc-frauenlob_arcona-1914,placeholder_torpedo,,,
+pc-frauenlob_arcona-1914,placeholder_mines,,,
+pc-nymphe_medusa-1916,105-gs-sk-l40_x6,105-ap-early,Primary Gun,1
+pc-nymphe_medusa-1916,7-p-unknown_x10,,Tertiary Gun,2
+pc-nymphe_medusa-1916,450-tt-hull_x2-side,,,
+pc-nymphe_medusa-1916,placeholder_torpedo,,,
+pc-nymphe_amazone-1916-3,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-nymphe_amazone-1916-3,88-cp-mpl-c06_x6,88-he,Tertiary Gun,2
+pc-nymphe_amazone-1916-3,450-tt-single_x2,,,
+pc-nymphe_amazone-1916-3,450-tt-hull_x2-side,,,
+pc-nymphe_amazone-1916-3,placeholder_torpedo,,,
+pc-nymphe_amazone-1916-7,88-cp-mpl-c06_x6,88-he,Primary Gun,1
+pc-nymphe_amazone-1916-7,450-tt-single_x2,,,
+pc-nymphe_amazone-1916-7,450-tt-hull_x2-side,,,
+pc-nymphe_amazone-1916-7,placeholder_torpedo,,,
+pc-nymphe_thetis-1917,105-gs-sk-c11_x10,105-he-1907,Primary Gun,1
+pc-nymphe_thetis-1917,7-p-unknown_x10,,Tertiary Gun,2
+pc-nymphe_thetis-1917,450-tt-hull_x2-side,,,
+pc-nymphe_thetis-1917,placeholder_torpedo,,,
+pc-nymphe_thetis-1922,105-gs-sk-c11_x10,105-he-1907,Primary Gun,1
+pc-nymphe-1923,105-gs-sk-c11_x10,105-he-1907,Primary Gun,1
+pc-nymphe-1923,500-tt-single_x2,,,
+pc-nymphe-1923,placeholder_torpedo,,,
+pc-niobe_1922,105-gs-sk-c11_x10,105-he-1907,Primary Gun,1
+pc-niobe_1922,500-tt-single_x2,,,
+pc-niobe_1922,placeholder_torpedo,,,
+claa-dalmacija-1925,,,AA Battery,1
+claa-dalmacija-1925,,,AA Battery,2
+claa-dalmacija-1925,,,AA Battery,3
+claa-cattaro-1941,,,AA Battery,1
+claa-cattaro-1941,20-p-sif-1939_x6,20-he-ita,AA Battery,2
+fb-arcona,105-p-mpl-c30_x4,105-he-l44,AA Battery,1
+fb-arcona,37-sm-ein-lc34_x2-arcona,37-he-t,AA Battery,2
+fb-arcona,20-p-c38_x4-arcona,20-api-i_20-he-i,AA Battery,3
+fb-arcona_1944,105-gs-mpl-c30_x6,105-he-l44,AA Battery,1
+fb-arcona_1944,40-cp-flak-28_x2-arcona,40-he-t,AA Battery,2
+fb-arcona_1944,20-cp-vierling-c38_x1-aft,20-api-i_20-he-i,AA Battery,3
+fb-arcona_1944,20-p-c38_x4-arcona-alt,20-api-i_20-he-i,AA Battery,3
+pc-bremen,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-bremen,,,Tertiary Gun,2
+pc-bremen,450-tt-hull_x2-side,,,
+pc-bremen,placeholder_torpedo,,,
+pc-bremen_lubeck,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-bremen_lubeck,,,Tertiary Gun,2
+pc-bremen_lubeck,450-tt-hull_x2-side,,,
+pc-bremen_lubeck,placeholder_torpedo,,,
+pc-bremen_lubeck,placeholder_mines,,,
+pc-bremen_1915,149-gs-mpl-c13_ay,149-ap-l37,Primary Gun,1
+pc-bremen_1915,105-gs-sk-l40_x6-sides,105-ap-early,Primary Gun,2
+pc-bremen_1915,,,Tertiary Gun,3
+pc-bremen_1915,450-tt-hull_x2-side,,,
+pc-bremen_1915,placeholder_torpedo,,,
+pc-bremen_berlin-1915,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-bremen_berlin-1915,,,Tertiary Gun,2
+pc-bremen_berlin-1915,450-tt-hull_x2-side,,,
+pc-bremen_berlin-1915,placeholder_torpedo,,,
+pc-bremen_berlin-1915,placeholder_mines,,,
+pc-bremen_lubeck-1916,149-gs-mpl-c13_ay,149-ap-l37,Primary Gun,1
+pc-bremen_lubeck-1916,105-gs-sk-l40_x6-sides,105-ap-early,Primary Gun,2
+pc-bremen_lubeck-1916,500-tt-single_x2,,,
+pc-bremen_lubeck-1916,placeholder_torpedo,,,4
+pc-bremen_lubeck-1916,placeholder_mines,,,
+pc-bremen_hamburg-1916,105-gs-sk-l40_x6,105-ap-early,Primary Gun,1
+pc-bremen_hamburg-1916,,,Tertiary Gun,2
+pc-bremen_hamburg-1916,450-tt-hull_x2-side,,,
+pc-bremen_hamburg-1916,placeholder_torpedo,,,
+pc-bremen_hamburg-1920,105-gs-sk-c11_x10,105-he-1907,Primary Gun,1
+pc-bremen_hamburg-1920,500-tt-single_x2,,,
+pc-bremen_hamburg-1920,placeholder_torpedo,,,
+pc-berlin-1921,105-gs-sk-c11_x8,105-he-1907,Primary Gun,1
+pc-berlin-1921,500-tt-single_x2,,,
+pc-berlin-1921,placeholder_torpedo,,,
+pc-konigsberg-1905,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-konigsberg-1905,88-cp-mpl-c06_x2-aft,88-he,Tertiary Gun,2
+pc-konigsberg-1905,7-p-unknown_x10,,Tertiary Gun,3
+pc-konigsberg-1905,450-tt-hull_x2-side,,,
+pc-konigsberg-1905,placeholder_torpedo,,,
+pc-stuttgart-1905,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-stuttgart-1905,52-p-sk-l55_x8,52-he-ger,Tertiary Gun,2
+pc-stuttgart-1905,450-tt-hull_x2-side,,,
+pc-stuttgart-1905,placeholder_torpedo,,,
+av-stuttgart-1918,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+av-stuttgart-1918,88-cp-mpl-c13_x2-fore,88-he,Secondary Gun,2
+av-stuttgart-1918,450-tt-hull_x2-side,,,
+av-stuttgart-1918,placeholder_torpedo,,,
+pc-dresden,105-gs-sk-l40_x10,105-ap-early,Primary Gun,1
+pc-dresden,52-p-sk-l55_x8,52-he-ger,Tertiary Gun,2
+pc-dresden,450-tt-hull_x2-side,,,
+pc-dresden,placeholder_torpedo,,,
+pc-kolberg,105-gs-sk-c11_x12,105-he-1907,Primary Gun,1
+pc-kolberg,52-p-sk-l55_x4,52-he-ger,Tertiary Gun,2
+pc-kolberg,450-tt-hull_x2-side,,,
+pc-kolberg,placeholder_torpedo,,,
+pc-kolberg,placeholder_mines,,,
+pc-kolberg_1917,149-gs-mpl-c13_x6,149-ap-l37,Primary Gun,1
+pc-kolberg_1917,500-tt-single_x2,,,
+pc-kolberg_1917,450-tt-hull_x2-side,,,
+pc-kolberg_1917,placeholder_torpedo,,,
+pc-kolberg_1917,placeholder_mines,,,
+pc-kolberg_1918,149-gs-mpl-c13_x6,149-ap-l37,Primary Gun,1
+pc-kolberg_1918,88-cp-mpl-c13_x2-sides,88-he,Secondary Gun,2
+pc-kolberg_1918,500-tt-single_x2,,,
+pc-kolberg_1918,450-tt-hull_x2-side,,,
+pc-kolberg_1918,placeholder_torpedo,,,
+pc-kolberg_1918,placeholder_mines,,,
+pc-colmar,149-gs-mpl-c13_x6,149-ap-l37,Primary Gun,1
+pc-colmar,88-cp-mpl-c13_x2-sides,88-he,Secondary Gun,2
+pc-colmar,500-tt-single_x2,,,
+pc-colmar,450-tt-hull_x2-side,,,
+pc-colmar,placeholder_torpedo,,,
+pc-colmar,placeholder_mines,,,
+pc-colmar_1922,149-gs-mpl-c13_x6,149-ap-l37,Primary Gun,1
+pc-colmar_1922,75-cp-m1922_x2-sides,75-he-fra-1922,Secondary Gun,2
+pc-colmar_1922,500-tt-single_x2,,,
+pc-colmar_1922,450-tt-hull_x2-side,,,
+pc-colmar_1922,placeholder_torpedo,,,
+pc-colmar_1922,placeholder_mines,,,
+cl-magdeburg,105-gs-sk-c11_x12,105-he-1907,Primary Gun,1
+cl-magdeburg,500-tt-hull_x2-side,,,
+cl-magdeburg,placeholder_torpedo,,,
+cl-magdeburg,placeholder_mines,,,
+cl-midilli_1916,149-gs-mpl-c13_ay,149-ap-l37,Primary Gun,1
+cl-midilli_1916,105-gs-sk-c11_x8-alt,105-he-1907,Primary Gun,1
+cl-midilli_1916,500-tt-hull_x2-side,,,
+cl-midilli_1916,placeholder_torpedo,,,
+cl-midilli_1916,placeholder_mines,,,
+cl-midilli_1917,149-gs-mpl-c13_x8,149-ap-l37,Primary Gun,1
+cl-midilli_1917,500-tt-hull_x2-side,,,
+cl-midilli_1917,placeholder_torpedo,,,
+cl-midilli_1917,placeholder_mines,,,
+cl-magdeburg_strassburg-1915,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-magdeburg_strassburg-1915,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-magdeburg_strassburg-1915,500-tt-single_x2,,,
+cl-magdeburg_strassburg-1915,500-tt-hull_x2-side,,,
+cl-magdeburg_strassburg-1915,placeholder_torpedo,,,
+cl-magdeburg_strassburg-1915,placeholder_mines,,,
+cl-magdeburg_stralsund-1916,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-magdeburg_stralsund-1916,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-magdeburg_stralsund-1916,500-tt-single_x2,,,
+cl-magdeburg_stralsund-1916,placeholder_torpedo,,,
+cl-magdeburg_stralsund-1916,placeholder_mines,,,
+cl-mulhouse,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-mulhouse,75-cp-m1918_x2-center,75-he-fra-1897,Secondary Gun,2
+cl-mulhouse,500-tt-single_x2,,,
+cl-mulhouse,placeholder_torpedo,,,
+cl-mulhouse,placeholder_mines,,,
+cl-taranto,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-taranto,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-taranto,500-tt-single_x2,,,
+cl-taranto,500-tt-hull_x2-side,,,
+cl-taranto,placeholder_torpedo,,,
+cl-taranto,placeholder_mines,,,
+cl-taranto_1924,149-gs-mpl-c13_x7-alt,149-ap-l37,Primary Gun,1
+cl-taranto_1924,76-p-rm-m1916_x2,76-he-ita,AA Battery,2
+cl-taranto_1924,500-tt-single_x2,,,
+cl-taranto_1924,500-tt-hull_x2-side,,,
+cl-taranto_1924,placeholder_torpedo,,,
+cl-taranto_1924,placeholder_mines,,,
+cl-taranto_1926,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-taranto_1926,76-p-rm-m1916_x2,76-he-ita,AA Battery,2
+cl-taranto_1926,500-tt-single_x2,,,
+cl-taranto_1926,500-tt-hull_x2-side,,,
+cl-taranto_1926,placeholder_torpedo,,,
+cl-taranto_1926,placeholder_mines,,,
+cl-taranto-1936,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-taranto-1936,76-p-rm-m1916_x2,76-he-ita,AA Battery,2
+cl-taranto-1936,13-p-m1931-twin_x2,13-b-ita,AA Battery,3
+cl-taranto-1936,placeholder_mines,,,
+cl-taranto-1936_1940,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-taranto-1936_1940,76-p-rm-m1916_x2,76-he-ita,AA Battery,2
+cl-taranto-1936_1940,20-sm-m1935_x4,20-he-ita,AA Battery,3
+cl-taranto-1936_1940,13-p-m1931-twin_x5,13-b-ita,AA Battery,4
+cl-taranto-1936_1940,placeholder_mines,,,
+cl-karlsruhe,105-gs-sk-c11_x12,105-he-1907,Primary Gun,1
+cl-karlsruhe,500-tt-hull_x2-side,,,
+cl-karlsruhe,placeholder_torpedo,,,
+cl-karlsruhe,placeholder_mines,,,
+cl-graudenz,105-gs-sk-c11_x12,105-he-1907,Primary Gun,1
+cl-graudenz,500-tt-hull_x2-side,,,
+cl-graudenz,placeholder_torpedo,,,
+cl-graudenz,placeholder_mines,,,
+cl-graudenz_1915,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-graudenz_1915,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-graudenz_1915,500-tt-single_x2,,,
+cl-graudenz_1915,500-tt-hull_x2-side,,,
+cl-graudenz_1915,placeholder_torpedo,,,
+cl-graudenz_1915,placeholder_mines,,,
+cl-graudenz_regensburg-1917,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-graudenz_regensburg-1917,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-graudenz_regensburg-1917,500-tt-single_x4,,,
+cl-graudenz_regensburg-1917,placeholder_torpedo,,,
+cl-graudenz_regensburg-1917,placeholder_mines,,,
+cl-ancona,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-ancona,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-ancona,500-tt-single_x2,,,
+cl-ancona,500-tt-hull_x2-side,,,
+cl-ancona,placeholder_torpedo,,,
+cl-ancona,placeholder_mines,,,
+cl-ancona_1924,149-gs-mpl-c13_x7-alt,149-ap-l37,Primary Gun,1
+cl-ancona_1924,76-p-rm-m1916_x3,76-he-ita,AA Battery,2
+cl-ancona_1924,500-tt-single_x4,,,
+cl-ancona_1924,placeholder_torpedo,,,
+cl-ancona_1924,placeholder_mines,,,
+cl-ancona_1926,149-gs-mpl-c13_x7,149-ap-l37,Primary Gun,1
+cl-ancona_1926,76-p-rm-m1916_x3,76-he-ita,AA Battery,2
+cl-ancona_1926,500-tt-single_x4,,,
+cl-ancona_1926,placeholder_torpedo,,,
+cl-ancona_1926,placeholder_mines,,,
+cl-strasbourg,149-gs-mpl-c13_x7-alt,149-ap-l37,Primary Gun,1
+cl-strasbourg,75-cp-m1918_x2-aft,75-he-fra-1897,Secondary Gun,2
+cl-strasbourg,500-tt-single_x4,,,
+cl-strasbourg,placeholder_torpedo,,,
+cl-strasbourg,placeholder_mines,,,
+cl-muravyov-amurskiy,130-gs-p1913_x8,130-he-m1911,Primary Gun,1
+cl-muravyov-amurskiy,63-p-p1916_x4,63-he-rus,AA Battery,2
+cl-muravyov-amurskiy,450-tt-hull_x5-bow,,,
+cl-muravyov-amurskiy,placeholder_torpedo,,,
+cl-muravyov-amurskiy,placeholder_mines,,,
+cl-pillau,149-gs-mpl-c13_x8-alt,149-ap-l37,Primary Gun,1
+cl-pillau,52-p-sk-l55_x4-center,52-he-ger,AA Battery,2
+cl-pillau,500-tt-single_x2,,,
+cl-pillau,placeholder_torpedo,,,
+cl-pillau,placeholder_mines,,,
+cl-pillau_1915,149-gs-mpl-c13_x8-alt,149-ap-l37,Primary Gun,1
+cl-pillau_1915,88-cp-mpl-c13_x2-aft,88-he_88-aa,Secondary Gun,2
+cl-pillau_1915,500-tt-hull_x2-side,,,
+cl-pillau_1915,placeholder_torpedo,,,
+cl-pillau_1915,placeholder_mines,,,
+cl-bari,149-gs-mpl-c13_x8-alt,149-ap-l37,Primary Gun,1
+cl-bari,88-cp-mpl-c13_x2-aft,88-he_88-aa,Secondary Gun,2
+cl-bari,500-tt-hull_x2-side,,,
+cl-bari,placeholder_torpedo,,,
+cl-bari,placeholder_mines,,,
+cl-bari_1924,149-gs-mpl-c13_x8-alt,149-ap-l37,Primary Gun,1
+cl-bari_1924,76-p-rm-m1916_x3-alt,76-he-ita,AA Battery,2
+cl-bari_1924,500-tt-hull_x2-side,,,
+cl-bari_1924,placeholder_torpedo,,,
+cl-bari_1924,placeholder_mines,,,
+cl-bari-1934,149-gs-mpl-c13_x8-alt,149-ap-l37,Primary Gun,1
+cl-bari-1934,76-p-rm-m1916_x3-alt,76-he-ita,AA Battery,2
+cl-bari-1934,20-sm-m1935_x4-alt,20-he-ita,AA Battery,3
+cl-bari-1934,13-p-m1931-twin_x4-sides,13-b-ita,AA Battery,4
+cl-bari-1934,placeholder_mines,,,
+cl-bari-1934_1941,149-gs-mpl-c13_x8-alt,149-ap-l37,Primary Gun,1
+cl-bari-1934_1941,76-p-rm-m1916_x3-alt,76-he-ita,AA Battery,2
+cl-bari-1934_1941,20-sm-m1935_x4-alt,20-he-ita,AA Battery,3
+cl-bari-1934_1941,20-sm-m1940_x6,20-he-ita,AA Battery,4
+cl-bari-1934_1941,placeholder_mines,,,
+cl-wiesbaden,149-gs-mpl-c13_x8-wiesbaden,149-ap-l37,Primary Gun,1
+cl-wiesbaden,52-p-sk-l55_x4-center,52-he-ger,AA Battery,2
+cl-wiesbaden,500-tt-single_x2,,,
+cl-wiesbaden,500-tt-hull_x2-side,,,
+cl-wiesbaden,placeholder_torpedo,,,
+cl-wiesbaden,placeholder_mines,,,
+cl-wiesbaden_1915,149-gs-mpl-c13_x8-wiesbaden,149-ap-l37,Primary Gun,1
+cl-wiesbaden_1915,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-wiesbaden_1915,500-tt-single_x2,,,
+cl-wiesbaden_1915,500-tt-hull_x2-side,,,
+cl-wiesbaden_1915,placeholder_torpedo,,,
+cl-wiesbaden_1915,placeholder_mines,,,
+cl-konigsberg-1914,149-gs-mpl-c13_x8-wiesbaden,149-ap-l37,Primary Gun,1
+cl-konigsberg-1914,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-konigsberg-1914,500-tt-single_x2,,,
+cl-konigsberg-1914,500-tt-hull_x2-side,,,
+cl-konigsberg-1914,placeholder_torpedo,,,
+cl-konigsberg-1914,placeholder_mines,,,
+cl-metz,149-gs-mpl-c13_x8-wiesbaden,149-ap-l37,Primary Gun,1
+cl-metz,75-cp-m1918_x2-center,75-he-fra-1897,Secondary Gun,2
+cl-metz,600-tt-single_x2,,,
+cl-metz,placeholder_torpedo,,,
+cl-metz,placeholder_mines,,,
+cl-coln,149-gs-mpl-c13_x8-wiesbaden,149-ap-l37,Primary Gun,1
+cl-coln,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-coln,500-tt-single_x4,,,
+cl-coln,placeholder_torpedo,,,
+cl-coln,placeholder_mines,,,
+clm-brummer,149-gs-mpl-c13_x4,149-ap-l37,Primary Gun,1
+clm-brummer,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+clm-brummer,500-tt-single_x2,,,
+clm-brummer,placeholder_torpedo,,,
+clm-brummer,placeholder_mines,,,
+cl-emden,149-gs-mpl-c13_x8-emden,149-ap-l37,Primary Gun,1
+cl-emden,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-emden,500-tt-dual-ger_x2,,,
+cl-emden,placeholder_torpedo,,,
+cl-emden,placeholder_mines,,,
+cl-emden_1931,149-gs-mpl-c13_x8-emden,149-ap-l37,Primary Gun,1
+cl-emden_1931,88-cp-mpl-c13_x3-center,88-he_88-aa,Secondary Gun,2
+cl-emden_1931,533-tt-dual_x2,,,
+cl-emden_1931,placeholder_torpedo,,,
+cl-emden_1931,placeholder_mines,,,
+cl-emden-1934,149-gs-mpl-c13_x8-emden,149-ap-l37,Primary Gun,1
+cl-emden-1934,88-cp-mpl-c13_x3-center,88-he_88-aa,Secondary Gun,2
+cl-emden-1934,533-tt-dual_x2,,,
+cl-emden-1934,placeholder_torpedo,,,
+cl-emden-1934,placeholder_mines,,,
+cl-emden-1934_1939,149-gs-mpl-c13_x8-emden,149-ap-l37,Primary Gun,1
+cl-emden-1934_1939,88-cp-mpl-c13_x3-center,88-he_88-aa,Secondary Gun,2
+cl-emden-1934_1939,20-p-c38_x6,20-api-i_20-he-i,AA Battery,3
+cl-emden-1934_1939,533-tt-dual_x2,,,
+cl-emden-1934_1939,placeholder_torpedo,,,
+cl-emden-1934_1939,placeholder_mines,,,
+cl-emden-1934_1942,149-gs-tbs-kc36_x8,149-he-l44,Primary Gun,1
+cl-emden-1934_1942,88-cp-mpl-c13_x3-center,88-he_88-aa,Secondary Gun,2
+cl-emden-1934_1942,20-cp-vierling-c38_x2-f-a,20-api-i_20-he-i,AA Battery,3
+cl-emden-1934_1942,20-p-c38_x6,20-api-i_20-he-i,AA Battery,3
+cl-emden-1934_1942,533-tt-dual_x2,,,
+cl-emden-1934_1942,placeholder_torpedo,,,
+cl-emden-1934_1942,placeholder_mines,,,
+cl-emden-1934_1944,149-gs-tbs-kc36_x8,149-he-l44,Primary Gun,1
+cl-emden-1934_1944,105-cp-mpl-c32ge_x3-center,105-he-l44,Secondary Gun,2
+cl-emden-1934_1944,40-cp-flak-28_x2-fore-alt,40-he-t,AA Battery,2
+cl-emden-1934_1944,37-sm-ein-lc34_x2-aft,37-he-t,AA Battery,3
+cl-emden-1934_1944,20-cp-vierling-c38_x2-f-a,20-api-i_20-he-i,AA Battery,4
+cl-emden-1934_1944,20-p-flakzwilling-C38_x6-alt,20-api-i_20-he-i,AA Battery,4
+cl-emden-1934_1944,533-tt-dual_x2,,,
+cl-emden-1934_1944,placeholder_torpedo,,,
+cl-emden-1934_1944,placeholder_mines,,,
+cl-konigsberg,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-konigsberg,500-tt-tripple_x4,,,
+cl-konigsberg,placeholder_torpedo,,,
+cl-konigsberg,placeholder_mines,,,
+cl-konigsberg_karlsruhe,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-konigsberg_karlsruhe,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-konigsberg_karlsruhe,500-tt-tripple_x4,,,
+cl-konigsberg_karlsruhe,placeholder_torpedo,,,
+cl-konigsberg_karlsruhe,placeholder_mines,,,
+cl-konigsberg_koln,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-konigsberg_koln,88-cp-mpl-c13_x4-center,88-he_88-aa,Secondary Gun,2
+cl-konigsberg_koln,500-tt-tripple_x4,,,
+cl-konigsberg_koln,placeholder_torpedo,,,
+cl-konigsberg_koln,placeholder_mines,,,
+cl-konigsberg_1929,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-konigsberg_1929,88-cp-doppl-c25_x1,88-he_88-aa,Secondary Gun,2
+cl-konigsberg_1929,500-tt-tripple_x4,,,
+cl-konigsberg_1929,placeholder_torpedo,,,
+cl-konigsberg_1929,placeholder_mines,,,
+cl-konigsberg_1934,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-konigsberg_1934,88-cp-mpl-c13_x4-aft-alt,88-he_88-aa,Secondary Gun,2
+cl-konigsberg_1934,37-sm-dop-lc30_x4-alt,37-he-t,AA Battery,3
+cl-konigsberg_1934,20-p-c30_x4,20-api-i_20-he-i,AA Battery,4
+cl-konigsberg_1934,533-tt-tripple_x4,,,
+cl-konigsberg_1934,placeholder_torpedo,,,
+cl-konigsberg_1934,placeholder_mines,,,
+cl-konigsberg_1934-12,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-konigsberg_1934-12,88-cp-doppl-c31_x3,88-he_88-aa,Secondary Gun,2
+cl-konigsberg_1934-12,37-sm-dop-lc30_x4-alt,37-he-t,AA Battery,3
+cl-konigsberg_1934-12,20-p-c30_x4,20-api-i_20-he-i,AA Battery,4
+cl-konigsberg_1934-12,533-tt-tripple_x4,,,
+cl-konigsberg_1934-12,placeholder_torpedo,,,
+cl-konigsberg_1934-12,placeholder_mines,,,
+cl-karlsruhe-1938,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-karlsruhe-1938,88-cp-doppl-c31_x3,88-he_88-aa,Secondary Gun,2
+cl-karlsruhe-1938,37-sm-dop-lc30_x4-alt,37-he-t,AA Battery,3
+cl-karlsruhe-1938,20-p-c30_x4,20-api-i_20-he-i,AA Battery,4
+cl-karlsruhe-1938,533-tt-tripple_x4,,,
+cl-karlsruhe-1938,placeholder_torpedo,,,
+cl-karlsruhe-1938,placeholder_mines,,,
+cl-konigsberg_koln-1940,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-konigsberg_koln-1940,88-cp-doppl-c31_x3,88-he_88-aa,Secondary Gun,2
+cl-konigsberg_koln-1940,37-sm-dop-lc30_x4-alt,37-he-t,AA Battery,3
+cl-konigsberg_koln-1940,20-p-c30_x4,20-api-i_20-he-i,AA Battery,4
+cl-konigsberg_koln-1940,533-tt-tripple_x2,,,
+cl-konigsberg_koln-1940,placeholder_torpedo,,,
+cl-konigsberg_koln-1940,placeholder_mines,,,
+cl-konigsberg_koln-1942,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-konigsberg_koln-1942,88-cp-doppl-c31_x3,88-he_88-aa,Secondary Gun,2
+cl-konigsberg_koln-1942,37-sm-dop-lc30_x4-alt,37-he-t,AA Battery,3
+cl-konigsberg_koln-1942,20-cp-vierling-c38_x2-aft,20-api-i_20-he-i,AA Battery,4
+cl-konigsberg_koln-1942,20-p-c38_x2-fore,20-api-i_20-he-i,AA Battery,4
+cl-konigsberg_koln-1942,533-tt-tripple_x2,,,
+cl-konigsberg_koln-1942,placeholder_torpedo,,,
+cl-konigsberg_koln-1942,placeholder_mines,,,
+cl-leipzig,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-leipzig,88-cp-mpl-c13_x2-center,88-he_88-aa,Secondary Gun,2
+cl-leipzig,500-tt-tripple_x4,,,
+cl-leipzig,placeholder_torpedo,,,
+cl-leipzig,placeholder_mines,,,
+cl-leipzig_1934,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-leipzig_1934,88-cp-mpl-c13_x4-aft-alt,88-he_88-aa,Secondary Gun,2
+cl-leipzig_1934,37-sm-dop-lc30_x4-alt,37-he-t,AA Battery,3
+cl-leipzig_1934,20-p-c30_x4,20-api-i_20-he-i,AA Battery,4
+cl-leipzig_1934,533-tt-tripple_x4,,,
+cl-leipzig_1934,placeholder_torpedo,,,
+cl-leipzig_1934,placeholder_mines,,,
+cl-leipzig_1936,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-leipzig_1936,88-cp-doppl-c31_x3,88-he_88-aa,Secondary Gun,2
+cl-leipzig_1936,37-sm-dop-lc30_x4-alt,37-he-t,AA Battery,3
+cl-leipzig_1936,20-p-c30_x4,20-api-i_20-he-i,AA Battery,4
+cl-leipzig_1936,533-tt-tripple_x4,,,
+cl-leipzig_1936,placeholder_torpedo,,,
+cl-leipzig_1936,placeholder_mines,,,
+cl-leipzig-1940,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-leipzig-1940,88-cp-doppl-c31_x3,88-he_88-aa,Secondary Gun,2
+cl-leipzig-1940,37-sm-dop-lc30_x4-alt,37-he-t,AA Battery,3
+cl-leipzig-1940,20-cp-vierling-c38_x2-f-a,20-api-i_20-he-i,AA Battery,4
+cl-leipzig-1940,20-p-c38_x4,20-api-i_20-he-i,AA Battery,4
+cl-leipzig-1940,533-tt-tripple_x2,,,
+cl-leipzig-1940,placeholder_torpedo,,,
+cl-leipzig-1940,placeholder_mines,,,
+cl-leipzig-1940_1944-2,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-leipzig-1940_1944-2,88-cp-doppl-c31_x3,88-he_88-aa,Secondary Gun,2
+cl-leipzig-1940_1944-2,37-sm-dop-lc30_x4-alt,37-he-t,AA Battery,3
+cl-leipzig-1940_1944-2,20-cp-vierling-c38_x2-f-a,20-api-i_20-he-i,AA Battery,4
+cl-leipzig-1940_1944-2,20-p-c38_x4-leipzig,20-api-i_20-he-i,AA Battery,4
+cl-leipzig-1940_1944-2,placeholder_mines,,,
+cl-nurnberg,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-nurnberg,88-cp-doppl-c31_x4,88-he_88-aa,Secondary Gun,2
+cl-nurnberg,37-sm-dop-lc30_x4-nurnberg,37-he-t,AA Battery,3
+cl-nurnberg,20-p-c30_x4-nurnberg,20-api-i_20-he-i,AA Battery,4
+cl-nurnberg,533-tt-tripple_x4,,,
+cl-nurnberg,placeholder_torpedo,,,
+cl-nurnberg,placeholder_mines,,,
+cl-nurnberg_1941,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-nurnberg_1941,88-cp-doppl-c31_x4,88-he_88-aa,Secondary Gun,2
+cl-nurnberg_1941,37-sm-dop-lc30_x4-nurnberg,37-he-t,AA Battery,3
+cl-nurnberg_1941,20-p-c30_x4-nurnberg,20-api-i_20-he-i,AA Battery,4
+cl-nurnberg_1941,533-tt-tripple_x2,,,
+cl-nurnberg_1941,placeholder_torpedo,,,
+cl-nurnberg_1941,placeholder_mines,,,
+cl-nurnberg_1942,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-nurnberg_1942,88-cp-doppl-c31_x4,88-he_88-aa,Secondary Gun,2
+cl-nurnberg_1942,37-sm-dop-lc30_x6-nurnberg,37-he-t,AA Battery,3
+cl-nurnberg_1942,20-cp-vierling-c38_x2-f-a,20-api-i_20-he-i,AA Battery,4
+cl-nurnberg_1942,20-p-c38_x5-nurnberg,20-api-i_20-he-i,AA Battery,4
+cl-nurnberg_1942,533-tt-tripple_x2,,,
+cl-nurnberg_1942,placeholder_torpedo,,,
+cl-nurnberg_1942,placeholder_mines,,,
+cl-nurnberg_1944,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-nurnberg_1944,88-cp-doppl-c31_x4,88-he_88-aa,Secondary Gun,2
+cl-nurnberg_1944,40-cp-flak-28_x2-nurnberg,40-he-t,AA Battery,3
+cl-nurnberg_1944,37-sm-dop-lc30_x6-nurnberg,37-he-t,AA Battery,4
+cl-nurnberg_1944,20-cp-vierling-c38_x2-center,20-api-i_20-he-i,AA Battery,5
+cl-nurnberg_1944,20-p-flakzwilling-C38_x10,20-api-i_20-he-i,AA Battery,5
+cl-nurnberg_1944,533-tt-tripple_x2,,,
+cl-nurnberg_1944,placeholder_torpedo,,,
+cl-nurnberg_1944,placeholder_mines,,,
+cl-admiral-makarov,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-admiral-makarov,88-cp-doppl-c31_x4,88-he_88-aa,Secondary Gun,2
+cl-admiral-makarov,40-cp-flak-28_x2-nurnberg,40-he-t,AA Battery,3
+cl-admiral-makarov,37-sm-dop-lc30_x6-nurnberg,37-he-t,AA Battery,4
+cl-admiral-makarov,20-cp-vierling-c38_x2-center,20-api-i_20-he-i,AA Battery,5
+cl-admiral-makarov,20-p-flakzwilling-C38_x10,20-api-i_20-he-i,AA Battery,5
+cl-admiral-makarov,533-tt-tripple_x2,,,
+cl-admiral-makarov,placeholder_torpedo,,,
+cl-admiral-makarov,placeholder_mines,,,
+cl-admiral-makarov_1951,149-ag-drh-tr-c25_axy,149-apc-l37,Primary Gun,1
+cl-admiral-makarov_1951,88-cp-doppl-c31_x4,88-he_88-aa,Secondary Gun,2
+cl-admiral-makarov_1951,40-cp-flak-28_x8-makarov,40-he-t,AA Battery,3
+cl-admiral-makarov_1951,20-cp-vierling-c38_x2-center,20-api-i_20-he-i,AA Battery,5
+cl-admiral-makarov_1951,533-tt-tripple_x2,,,
+cl-admiral-makarov_1951,placeholder_torpedo,,,
+cl-admiral-makarov_1951,placeholder_mines,,,
+cl-m,149-ag-drh-lc34_abxy,149-apc-l38,Primary Gun,1
+cl-m,88-cp-doppl-c31_x2-aft,88-he_88-aa,Secondary Gun,2
+cl-m,37-sm-dop-lc30_x4-m,37-he-t,AA Battery,3
+cl-m,20-p-c38_x4-leipzig,20-api-i_20-he-i,AA Battery,4
+cl-m,533-tt-quad_x4,,,
+cl-m,placeholder_torpedo,,,
+cs-spahkreuzer,149-ag-drh-lc34_axy,149-apc-l38,Primary Gun,1
+cs-spahkreuzer,88-cp-doppl-c31_x1-aft,88-he_88-aa,Secondary Gun,2
+cs-spahkreuzer,37-sm-dop-lc30_x4-sp1,37-he-t,AA Battery,3
+cs-spahkreuzer,20-cp-vierling-c38_x3-fore,20-api-i_20-he-i,AA Battery,4
+cs-spahkreuzer,533-tt-quint_x2-center,,,
+cs-spahkreuzer,placeholder_torpedo,,,
+cs-spahkreuzer,placeholder_mines,,,

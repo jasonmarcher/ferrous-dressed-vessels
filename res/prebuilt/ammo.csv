@@ -3,6 +3,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 305-ap-ahn,30.5cm AP,ahn,305,450,,,0,0,,https://en.wikipedia.org/wiki/SMS_Kronprinzessin_Erzherzogin_Stephanie#Armament_and_armor
 238-apc-l35,24cm APC L/3.5,ahn,238,229,2.3,,0,0,,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
 238-apc-m08-l35,24cm APC M08 L/3.5,ahn,238,215,2.4,,0,0,,http://www.navweaps.com/Weapons/WNAust_945-45.php
+238-ap-c80,24cm AP C/80,ahn,238,215,3.76,,0,0,,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php#Ammunition
 190-apc-ahn,19cm APC,ahn,190,97,2,,0,0,,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
 150-ap-ahn,15cm AP,ahn,150,45.5,,,0,0,,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
 100-ap-ahn,10cm AP,ahn,100,13.8,,,0,0,,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
@@ -145,24 +146,29 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 283-apc-l37,"28cm APC L/3,7",germany,283,300,6.6,,0,0,,http://www.navweaps.com/Weapons/WNGER_11-52_skc28.php
 283-apc-l32,"28cm APC L/3,2",germany,283,300,8.95,,0,0,,http://www.navweaps.com/Weapons/WNGER_11-45_skc07.php
 283-ap-l26,"28cm AP L/2,6",germany,283,240,,,0,0,,http://www.navweaps.com/Weapons/WNGER_11-40_skc04.php
-238-ap-c80,24cm AP C/80,ahn,238,215,3.76,,0,0,,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php#Ammunition
 238-ap-l28-c01,24cm AP L/2.8 C/01,germany,238,140,3.48,,0,0,,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php
 209-ap-l29,"21cm AP L/2,9",germany,209,107.7,3.5,,0,0,,http://www.navweaps.com/Weapons/WNGER_827-40_skc95.php#Ammunition
 203-apc-l44,"20.3cm APC L/4,4",germany,203,122,2.3,,0,0,,http://www.navweaps.com/Weapons/WNGER_8-60_skc34.php#Ammunition
 173-ap-l3,17cm AP L/3,germany,173,64,3.5,,0,0,,http://www.navweaps.com/Weapons/WNGER_675-40_skc04.php
 149-ap-ger,15cm AP,germany,149,45.6,,,0,0,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
+149-he-l44,"15cm HE L/4,4",germany,149,45.5,3.3,TNT,45.5,3.3,TNT,http://www.navweaps.com/Weapons/WNGER_59-48_skc36.php#Ammunition
 149-apc-l38,"15cm APC L/3,8",germany,149,45.5,1.32,TNT,0,0,,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php
+149-apc-l37,"15cm APC L/3,7",germany,149,45.5,1.32,TNT,0,0,,http://www.navweaps.com/Weapons/WNGER_59-60_skc25.php#Ammunition
 149-ap-l37,"15cm AP L/3,7",germany,149,45.3,0.99,,0,0,,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-ap-c01,15cm AP C/01,germany,149,40,,,0,0,,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
 105-ap-1891,10.5cm AP 1891,germany,105,18.2,,,0,0,,http://www.navweaps.com/Weapons/WNGER_41-35_skc91.php
-105-he-aa-ger,10.5cm HE,germany,105,0,0,,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
 105-he-1907,10.5cm HE 1907,germany,105,17.5,,,0,0,,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php#Ammunition
+105-ap-early,10.5cm AP,germany,105,16,,,0,0,,http://www.navweaps.com/Weapons/WNGER_41-40_skc00.php#Ammunition
 105-ap_105-he-ger,10.5cm AP + 10.5cm HE,germany,105,15.8,,,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
 105-he-l44,"10.5cm HE L/4,4",germany,105,15.1,1.4,FP02,15.1,1.4,FP02,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Ammunition
+105-he-aa-ger,10.5cm HE,germany,105,0,0,,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
+88-he-l380-c07,8.8cm HE L/3.80 C/07,germany,88,9.8,1.42,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-he_88-aa,8.8cm HE + 8.8cm AA,germany,88,9.8,,,9,,,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-he,8.8cm HE,germany,88,9.8,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-sap-l280-c01,8.8cm SAP L/2.80 C/01,germany,88,7,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-he-early,8.8cm HE (Early),germany,88,7,,,0,0,,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
+52-he-ger,5.2cm HE,germany,52,1.75,,,0,0,,http://www.navweaps.com/Weapons/WNGER_52cm-55_skc06.php#Ammunition
+50-he-ger,5cm HE,germany,50,1.75,,,0,0,,http://www.navweaps.com/Weapons/WNGER_5cm-40_skc93.php#Ammunition
 40-he-t,4cm HE-T,germany,40,1,,,1,,,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#Ammunition
 37-he-t,3.7cm HE-T,germany,37,0.74,0.03,FP02,0.74,0.03,FP02,http://www.navweaps.com/Weapons/WNGER_37mm-83_skc30.php
 20-api-i_20-he-i,2cm AP-I + 2cm HE-I,germany,20,0.15,0,None,0.12,0.01,PETN,http://www.navweaps.com/Weapons/WNGER_20mm-65_c30.php
@@ -208,8 +214,8 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 149-ap-jpn,15cm AP (JPN),japan,149,35.5,0.4,,0,0,,Identification of the Parameters of Naval Artillery
 140-cap-com,140 Capped Common,japan,140,38,2,,0,0,,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 127-he-type0,12.7cm Common Type 0 HE,japan,127,23.5,1.88,Shimose,23.5,1.88,Shimose,http://www.navweaps.com/Weapons/WNJAP_5-40_t89.php
-120-ap-jpn,"4"" AP (JPN)",japan,120,20.4,1.07,,0,0,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-com-jpn,"4"" Common (JPN)",japan,120,20.4,3.1,,0,0,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
+120-ap-jpn,"4"" AP (JPN)",japan,120,20.4,1.07,,0,0,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-he-com-type0,12cm Common Type 0 HE,japan,120,20.3,1.7,,20.3,1.7,,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
 100-he-type0,10cm Type 0 HE,japan,100,0,0,,13,0.95,,http://www.navweaps.com/Weapons/WNJAP_39-65_t98.php#Ammunition
 76-he-com-type98,8cm Common Type 98 HE,japan,76,6,0.31,,6,0.31,,http://www.navweaps.com/Weapons/WNJAP_3-40_3ns.php
