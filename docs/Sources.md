@@ -61,6 +61,8 @@ https://en.wikipedia.org/wiki/List_of_torpedoes_by_name
 https://www.history.navy.mil/research/histories/ship-histories/danfs.html
 https://www.hazegray.org/danfs/
 
+https://www.history.navy.mil/research/library/online-reading-room.html
+
 https://www.hazegray.org/navhist/pt/
 
 https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs.html
@@ -173,6 +175,8 @@ https://stefsap.wordpress.com/2015/10/20/hswms-gotland-history-and-1943-plans/
 https://www.rmg.co.uk/collections/our-collections-ship-plans-collection
 
 https://prints.rmg.co.uk/collections/ship-plans
+
+http://combinedfleet.com/battles/
 
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
