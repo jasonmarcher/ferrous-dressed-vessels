@@ -31,6 +31,8 @@ https://grantvillegazette.com/article/publish-557/
 
 https://civilwarnavy.com/wp-content/uploads/2020/06/Holley_A-Treatise-on-Ordnance-and-Armor.pdf
 
+https://upload.wikimedia.org/wikipedia/commons/9/97/A_treatise_on_ordnance_and_naval_gunnery_%28IA_cu31924030896850%29.pdf
+
 http://www.victorianshipmodels.com/antitorpedoboatguns/
 
 https://archive.org/details/treatiseonconst00offigoog
