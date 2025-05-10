@@ -54,40 +54,62 @@ task generateShipHistory {
         def today = LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE)
 
         def printer = new CSVPrinter(new FileWriter("$buildDir/history.csv"), CSVFormat.EXCEL)
-        printer.printRecord('HullID','ClassID','FittingID','ShipName','State','Date','WeightedTime')
+        printer.printRecord('HullID','ClassID','FittingID','ShipName','RecordType','State','Date','WeightedTime')
 
-        // Service
+        // History
         def records = CSVParser.parse(file("$buildDir/service.csv"), Charset.forName('UTF-8'), CSVFormat.EXCEL.withFirstRecordAsHeader())
+        def calendar = Calendar.getInstance()
+        int line = 0
         records.forEach { record ->
-            if (record.get("ShipName")) {
-                if (!record.get("Start")) {throw new GradleException("Ship '${record.get("ShipName")}' is missing a Start date for service history.")}
-                def currentDate = LocalDate.parse(record.get("Start"))
-                def endDate = LocalDate.parse(record.get("End") ?: today)
-                def monthFraction = 0
-                def calendar = Calendar.getInstance()
-                
-                while (currentDate.isBefore(endDate)) {
-                    monthFraction = Duration.between(currentDate.atStartOfDay(), endDate.atStartOfDay()).toDays()
-                    if (monthFraction < 32) {
-                        calendar.set(Calendar.YEAR, currentDate.getYear())
-                        calendar.set(Calendar.MONTH, currentDate.getMonth().getValue())
-                        monthFraction = (monthFraction / calendar.getActualMaximum(Calendar.DAY_OF_MONTH)).round(1)
-                    }
+            try {
+                line++
+                if (record.get("ShipName")) {
+                    if (!record.get("Start")) {throw new GradleException("Ship '${record.get("ShipName")}' is missing a Start date for service history.")}
 
-                    if (monthFraction > 1) {
-                        monthFraction = 1
-                    }
+                    if (record.get("Start") == record.get("End")) {
+                        // Event
+                        printer.print(record.get('HullID'))
+                        printer.print(record.get('ClassID'))
+                        printer.print(record.get('FittingID'))
+                        printer.print(record.get('ShipName'))
+                        printer.print('Event')
+                        printer.print(record.get('Fate'))
+                        printer.print(record.get("Start"))
+                        printer.print(1)
+                        printer.println()
+                    } else {
+                        // Service
+                        def currentDate = LocalDate.parse(record.get("Start"))
+                        def endDate = LocalDate.parse(record.get("End") ?: today)
+                        def monthFraction = 0
+                        
+                        while (currentDate.isBefore(endDate)) {
+                            monthFraction = Duration.between(currentDate.atStartOfDay(), endDate.atStartOfDay()).toDays()
+                            if (monthFraction < 32) {
+                                calendar.set(Calendar.YEAR, currentDate.getYear())
+                                calendar.set(Calendar.MONTH, currentDate.getMonth().getValue())
+                                monthFraction = (monthFraction / calendar.getActualMaximum(Calendar.DAY_OF_MONTH)).round(1)
+                            }
 
-                    printer.print(record.get('HullID'))
-                    printer.print(record.get('ClassID'))
-                    printer.print(record.get('FittingID'))
-                    printer.print(record.get('ShipName'))
-                    printer.print(record.get('State'))
-                    printer.print(currentDate)
-                    printer.print(monthFraction)
-                    printer.println()
-                    currentDate = currentDate.plusMonths(1)
+                            if (monthFraction > 1) {
+                                monthFraction = 1
+                            }
+
+                            printer.print(record.get('HullID'))
+                            printer.print(record.get('ClassID'))
+                            printer.print(record.get('FittingID'))
+                            printer.print(record.get('ShipName'))
+                            printer.print('Service')
+                            printer.print(record.get('State'))
+                            printer.print(currentDate)
+                            printer.print(monthFraction)
+                            printer.println()
+                            currentDate = currentDate.plusMonths(1)
+                        }
+                    }
                 }
+            } catch (Exception e) {
+                throw new GradleException("Failure processing record at service.csv:${line} | ${e.getMessage()}")
             }
         }
 

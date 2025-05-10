@@ -31,6 +31,8 @@ https://grantvillegazette.com/article/publish-557/
 
 https://civilwarnavy.com/wp-content/uploads/2020/06/Holley_A-Treatise-on-Ordnance-and-Armor.pdf
 
+https://upload.wikimedia.org/wikipedia/commons/9/97/A_treatise_on_ordnance_and_naval_gunnery_%28IA_cu31924030896850%29.pdf
+
 http://www.victorianshipmodels.com/antitorpedoboatguns/
 
 https://archive.org/details/treatiseonconst00offigoog
@@ -78,6 +80,8 @@ https://digital.nls.uk/british-military-lists/archive/93506066
 https://www.hazegray.org/navhist/preserve.htm
 
 https://www.hazegray.org/navhist/gun_ship.htm
+
+https://webarchive.nationalarchives.gov.uk/ukgwa/20110802041558/http://www.nmm.ac.uk/upload/pdf/Warship_Histories_Vessels_i.pdf
 
 ### Submarines
 http://www.designed4submariners.com/Welcome_Page.html
