@@ -31,14 +31,15 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 370-bar-m1875-79-2,370,370mm/28 Model 1875-79,france,Barbette,370-bg-m1875-79-2,1,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
 370-bar-m1875-79,370,370mm/28 Model 1875-79,france,Barbette,370-bg-m1875-79,1,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
 356-ag-p1913,356,356mm/50 Pattern 1913,russia,Armored Gunhouse,356-bg-p1913,3,25,http://www.navweaps.com/Weapons/WNRussian_14-52_mk6.php
-356-ag-3-mod3,356,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,3,30,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
-356-ag-2-mod2,356,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,2,30,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
-356-ag-2-mod1,356,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,2,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
+356-ag-3-mod3,356,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk9,3,30,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
+356-ag-2-mod2,356,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk9,2,30,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
+356-ag-2-mod3,356,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk8,2,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php#Mount%2FTurret_Data
 356-ag-3-mod2,356,"14""/50 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk7,3,30,http://www.navweaps.com/Weapons/WNUS_14-50_mk11.php#Mount%2FTurret_Data
 356-ag-3-4-mod1,356,"14""/50 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk4,3,30,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php#Mount%2FTurret_Data
 356-ag-3-4,356,"14""/50 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk4,3,15,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php#Mount%2FTurret_Data
-356-ag-3-mod1,356,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk1,3,30,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php#Mount%2FTurret_Data
-356-ag-3,356,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk1,3,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php#Mount%2FTurret_Data
+356-ag-3-mod1,356,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk1-mod-12,3,30,http://www.navweaps.com/Weapons/WNUS_14-50_mk4.php#Mount%2FTurret_Data
+356-ag-3,356,"14""/45 3-Gun Turret",usa,Armored Gunhouse,356-bg-mk1-mod-12,3,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php#Mount%2FTurret_Data
+356-ag-2-mod1,356,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk1-mod-12,2,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk10.php#Mount%2FTurret_Data
 356-ag-2,356,"14""/45 2-Gun Turret",usa,Armored Gunhouse,356-bg-mk1,2,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php#Mount%2FTurret_Data
 356-ag-markiii,356,"14""/45 Mark III",britain,Armored Gunhouse,356-bg-markvii,4,40,http://www.navweaps.com/Weapons/WNBR_14-45_mk7.php
 356-ag-markii,356,"14""/45 Mark II",britain,Armored Gunhouse,356-bg-markvii,2,40,http://www.navweaps.com/Weapons/WNBR_14-45_mk7.php
