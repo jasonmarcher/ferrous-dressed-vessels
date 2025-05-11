@@ -4625,10 +4625,6 @@ pred-mesudiye-1898,254-piv-rml-18ton-marki_x4,254-palliser,Primary Gun,1
 pred-mesudiye-1898,178-piv-rml-7ton-armstrong_x4-side,178-palliser-markiii,Secondary Gun,2
 pred-mesudiye-1898,356-tt-hull_x4-side,,,
 pred-mesudiye-1898,placeholder_torpedo,,,
-,,,,
-,,,,
-,,,,
-,,,,
 cb-superb,254-c-rml-18ton-marki_x12,254-palliser,Primary Gun,1
 cb-superb,254-piv-rml-18ton-marki_x4,254-palliser,Primary Gun,1
 cb-superb,95-piv-rbl-20pdr-16cwt_x6-side,95-com-20pdr,Secondary Gun,2
@@ -11925,3 +11921,74 @@ cs-spahkreuzer,20-cp-vierling-c38_x3-fore,20-api-i_20-he-i,AA Battery,4
 cs-spahkreuzer,533-tt-quint_x2-center,,,
 cs-spahkreuzer,placeholder_torpedo,,,
 cs-spahkreuzer,placeholder_mines,,,
+ca-bolzano,203-ag-m1927_abxy,203-ap-italy,Primary Gun,1
+ca-bolzano,100-gs-m1924_x8,100-he-ita,Secondary Gun,2
+ca-bolzano,40-cp-v1917_x4-aft,40-he-ita,AA Battery,3
+ca-bolzano,13-p-m1931-twin_x4,13-b-ita,AA Battery,4
+ca-bolzano,533-tt-single-hull_x8,,,
+ca-bolzano,placeholder_torpedo,,,
+ca-bolzano_1934,203-ag-m1927_abxy,203-ap-italy,Primary Gun,1
+ca-bolzano_1934,100-gs-m1924_x8,100-he-ita,Secondary Gun,2
+ca-bolzano_1934,40-cp-v1917_x2-aft,40-he-ita,AA Battery,3
+ca-bolzano_1934,13-p-m1931-twin_x4,13-b-ita,AA Battery,4
+ca-bolzano_1934,533-tt-single-hull_x8,,,
+ca-bolzano_1934,placeholder_torpedo,,,
+ca-bolzano_1937,203-ag-m1927_abxy,203-ap-italy,Primary Gun,1
+ca-bolzano_1937,100-gs-m1924_x6,100-he-ita,Secondary Gun,2
+ca-bolzano_1937,37-cp-1932_x4,37-he-ita,AA Battery,3
+ca-bolzano_1937,13-p-m1931-twin_x4,13-b-ita,AA Battery,4
+ca-bolzano_1937,533-tt-single-hull_x8,,,
+ca-bolzano_1937,placeholder_torpedo,,,
+ca-bolzano_1942,203-ag-m1927_abxy,203-ap-italy,Primary Gun,1
+ca-bolzano_1942,100-gs-m1924_x6,100-he-ita,Secondary Gun,2
+ca-bolzano_1942,37-cp-1932_x4,37-he-ita,AA Battery,3
+ca-bolzano_1942,20-sm-m1940_x4-aft,20-he-ita,AA Battery,4
+ca-bolzano_1942,533-tt-single-hull_x8,,,
+ca-bolzano_1942,placeholder_torpedo,,,
+ca-bolzano-1943,203-ag-m1927_abxy,203-ap-italy,Primary Gun,1
+ca-bolzano-1943,100-gs-m1924_x6,100-he-ita,Secondary Gun,2
+ca-bolzano-1943,37-cp-1932_x4,37-he-ita,AA Battery,3
+ca-bolzano-1943,20-sm-m1940_x4-aft,20-he-ita,AA Battery,4
+ca-bolzano-1943,533-tt-single-hull_x8,,,
+ca-bolzano-1943,placeholder_torpedo,,,
+ca-zara,203-ag-m1927_abxy,203-ap-italy,Primary Gun,1
+ca-zara,100-gs-m1924_x8,100-he-ita,Secondary Gun,2
+ca-zara,40-cp-v1917_x4-sides,40-he-ita,AA Battery,3
+ca-zara,,,AA Battery,4
+ca-zara_1937,203-ag-m1927_abxy,203-ap-italy,Primary Gun,1
+ca-zara_1937,100-gs-m1924_x6,100-he-ita,Secondary Gun,2
+ca-zara_1937,37-cp-1932_x4-aft,37-he-ita,AA Battery,3
+ca-zara_1937,13-p-m1931-twin_x4,13-b-ita,AA Battery,4
+ca-zara_gorizia-1942,203-ag-m1927_abxy,203-ap-italy,Primary Gun,1
+ca-zara_gorizia-1942,100-gs-m1924_x6,100-he-ita,Secondary Gun,2
+ca-zara_gorizia-1942,37-cp-1932_x6-alt-2,37-he-ita,AA Battery,3
+ca-zara_gorizia-1942,13-p-m1931-twin_x4,13-b-ita,AA Battery,4
+ca-zara_gorizia-1943,203-ag-m1927_abxy,203-ap-italy,Primary Gun,1
+ca-zara_gorizia-1943,100-gs-m1924_x6,100-he-ita,Secondary Gun,2
+ca-zara_gorizia-1943,37-cp-1932_x6-alt-2,37-he-ita,AA Battery,3
+ca-zara_gorizia-1943,20-sm-m1935_x6,20-he-ita,AA Battery,4
+ca-zara_gorizia-1943,20-sm-m1940_x2-fore,20-he-ita,AA Battery,4
+ca-trento,203-ag-m1924_abxy,203-ap-italy,Primary Gun,1
+ca-trento,100-gs-m1924_x8,100-he-ita,Secondary Gun,2
+ca-trento,40-cp-v1917_x4-trento,40-he-ita,AA Battery,3
+ca-trento,,,AA Battery,4
+ca-trento,533-tt-single-hull_x8,,,
+ca-trento,placeholder_torpedo,,,
+ca-trento_1937,203-ag-m1924_abxy,203-ap-italy,Primary Gun,1
+ca-trento_1937,100-gs-m1924_x6,100-he-ita,Secondary Gun,2
+ca-trento_1937,37-cp-1932_x4,37-he-ita,AA Battery,3
+ca-trento_1937,13-p-m1931-twin_x4,13-b-ita,AA Battery,4
+ca-trento_1937,533-tt-single-hull_x8,,,
+ca-trento_1937,placeholder_torpedo,,,
+ca-trento_1942,203-ag-m1924_abxy,203-ap-italy,Primary Gun,1
+ca-trento_1942,100-gs-m1924_x6,100-he-ita,Secondary Gun,2
+ca-trento_1942,37-cp-1932_x4,37-he-ita,AA Battery,3
+ca-trento_1942,20-sm-m1940_x4,20-he-ita,AA Battery,4
+ca-trento_1942,533-tt-single-hull_x8,,,
+ca-trento_1942,placeholder_torpedo,,,
+ca-trento_trieste-1943,203-ag-m1924_abxy,203-ap-italy,Primary Gun,1
+ca-trento_trieste-1943,100-gs-m1924_x6,100-he-ita,Secondary Gun,2
+ca-trento_trieste-1943,37-cp-1932_x4,37-he-ita,AA Battery,3
+ca-trento_trieste-1943,20-sm-m1940_x8-trieste,20-he-ita,AA Battery,4
+ca-trento_trieste-1943,533-tt-single-hull_x8,,,
+ca-trento_trieste-1943,placeholder_torpedo,,,

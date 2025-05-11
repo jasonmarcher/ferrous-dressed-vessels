@@ -240,6 +240,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 203-ag-barbette,203,"8""/30 Barbette",usa,Barbette,203-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_8-30_mk1.php#Mount%2FTurret_Data
 203-bg-markii*,203,"8""/50 Mark II*",britain,Armored Gunhouse,203-bg-markviii,2,50,http://www.navweaps.com/Weapons/WNBR_8-50_mk8.php#Mount%2FTurret_Data
 203-bg-marki,203,"8""/50 Mark I",britain,Armored Gunhouse,203-bg-markviii,2,70,http://www.navweaps.com/Weapons/WNBR_8-50_mk8.php#Mount%2FTurret_Data
+203-ag-m1927,203,203mm/53 Twin Turret,italy,Armored Gunhouse,203-bg-m1927,2,45,http://www.navweaps.com/Weapons/WNIT_8-53_m1927.php#Mount%2FTurret_Data
+203-ag-m1924,203,203mm/53 Model 1924,italy,Armored Gunhouse,203-bg-m1924,2,45,http://www.navweaps.com/Weapons/WNIT_8-50_m1924.php#Mount%2FTurret_Data
 203-ag-elswick-w-twin,203,"8""/45 Elswick W Twin Turret",italy,Armored Gunhouse,203-bg-elswick-w,2,30,http://www.navweaps.com/Weapons/WNIT_8-45_EOC.php
 203-cp-41st-year-type,203,"8""/45 41st Year Type",japan,Central Pivot,203-bg-elswick-w,1,30,http://www.navweaps.com/Weapons/WNJAP_8-45_EOC.php
 203-gs-vcp1,203,"8""/30 VCP Mark I",britain,Central Pivot (Gun Shield),203-bg-bl-markiv,1,15,http://www.navweaps.com/Weapons/WNBR_8-26_mk1.php#8%22%2F30_%2820.3_cm%29_Mark_IV
@@ -634,7 +636,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 45-cp-21k,45,45mm/46 21-K,russia,Central Pivot,45-sa-21k,1,85,http://www.navweaps.com/Weapons/WNRussian_45mm-46.php#Mount%2FTurret_Data
 45-ag-sm-20-zif,45,45mm/78 SM-20-ZIF,russia,Armored Gunhouse,45-mg-rus,4,85,https://en.wikipedia.org/wiki/Stalingrad-class_battlecruiser#Armament
 40-cp-vt-1915,40,40mm/39 Vickers-Terni M1930,italy,Central Pivot,40-mg-vt-1915,1,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php#Mount%2FTurret_Data
-40-cp-v1917,40,40mm/39 Model 1917,italy,Central Pivot,40-mg-v1915,1,20,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
+40-cp-v1917,40,40mm/39 Model 1917,italy,Central Pivot,40-mg-v1915,1,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 40-cp-v1914,40,40mm/39 Vickers Automatic Model 1914,russia,Central Pivot,40-mg-v1914,1,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php#Mount%2FTurret_Data
 40-cp-markva,40,2-pdr/39 Mark VA Oct,britain,Central Pivot,40-mg-qf-markviii-hv,8,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php#Mount%2FTurret_Data
 40-cp-markv,40,2-pdr/39 Mark V Oct,britain,Central Pivot,40-mg-qf-markviii-hv,8,80,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php#Mount%2FTurret_Data
@@ -701,15 +703,15 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 13-p-type93-quad,13.2,13mm/76 Quad,japan,Central Pivot,13-mg-type93,4,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
 13-p-type93-twin,13.2,13mm/76 Twin,japan,Pedestal,13-mg-type93,2,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
 13-p-type93-single,13.2,13mm/76 Single,japan,Pedestal,13-mg-type93,1,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
-13-p-m1931-twin,13.2,13.2 mm/75.7 AA MG Model 1931,italy,Pedestal,13-mg-m1931,2,85,http://www.navweaps.com/Weapons/WNIT_132-757_m1931.php#Mount%2FTurret_Data
+13-p-m1931-twin,13.2,13.2mm/75.7 AA MG Model 1931,italy,Pedestal,13-mg-m1931,2,85,http://www.navweaps.com/Weapons/WNIT_132-757_m1931.php#Mount%2FTurret_Data
 13-cp-caq-m1929,13.2,13.2mm/76 CAQ Model 1929,france,Central Pivot,13-mg-m1929,4,90,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
 13-cp-cad-m1929,13.2,13.2mm/76 CAD Model 1929,france,Central Pivot,13-mg-m1929,2,90,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
 13-p-browning-fn,13.2,13.2mm/62 Browning F.N.,france,Pedestal,13-mg-browning-fn,1,90,
+12-p-mk3,12.7,"0.50""/90 Mark 3",usa,Pedestal,12-mg-mk3,1,80,https://en.wikipedia.org/wiki/M2_Browning
+12-cp-markii,12.7,"0.50""/62 Mark II",britain,Central Pivot,12-mg-markiii,4,80,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
 12-p-dshk-1938-twin,12.7,12.7mm/79 DShK 1938 Twin,russia,Pedestal,12-mg-dshk-1938,2,85,https://en.wikipedia.org/wiki/DShK
 12-p-dshk-1938-single,12.7,12.7mm/79 DShK 1938 Single,russia,Pedestal,12-mg-dshk-1938,1,85,https://en.wikipedia.org/wiki/DShK
-12-p-mk3,12,"0.50""/90 Mark 3",usa,Pedestal,12-mg-mk3,1,80,http://navypedia.org/arms/usa/arms_usa_guns.htm
-12-cp-markii,12,"0.50""/62 Mark II",britain,Central Pivot,12-mg-markiii,4,80,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
-12-p-bi-type,12,"12 mm/62 ""BI"" Type",japan,Pedestal,12-mg-bi-type,1,70,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
+12-p-bi-type,12.7,"12 mm/62 ""BI"" Type",japan,Pedestal,12-mg-bi-type,1,70,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
 11-p-colt-1877-10,11.4,"0.45""/40.5 1877 Gatling Gun 10 Barrel",usa,Pedestal,11-mg-colt-1877-10,1,80,https://www.nramuseum.org/guns/the-galleries/robert-e-petersen-collection/gatlings/colt-gatling-us-navy-model-45-70-cal.aspx
 8-p-unknown,8,8mm Unknown Machinegun,unknown,Pedestal,8-mg-unknown,1,,
 8-p-m07-12,8,8mm/ Schwarzlose M.07/12,ahn,Pedestal,8-mg-m07-12,1,,https://en.wikipedia.org/wiki/Schwarzlose_machine_gun

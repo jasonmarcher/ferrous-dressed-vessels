@@ -261,8 +261,9 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 37-bg-m1885,1-pdr Hotchkiss M1885,Hotchkiss 1-pdr,france,1885-01-01,37,20,,25,20,Breech Semi-Automatic,,0,780,
 37-bg-revolver,1-pdr Hotchkiss Revolving Cannon,Hotchkiss 1-pdr Revolver,france,1872-01-01,37,20,210,68,32,Breech Hand-Crank,442,0,780,https://military-history.fandom.com/wiki/Hotchkiss_gun
 25-mg-type96,25mm/60 Type 96,Hotchkiss 25mm,france,1935-01-01,25,60,115,200,120,Breech Automatic,900,900,2000,http://www.navweaps.com/Weapons/WNJAP_25mm-60_mg.php
-13-mg-type93,13.2mm/76 Type 93,Hotchkiss M1929,france,1933-01-01,13.2,76,42,450,250,Breech Automatic,805,805,2500,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
-13-mg-m1929,13.2mm/76 Model 1929,Hotchkiss M1929,france,1930-01-01,13.2,76,30,450,250,Breech Automatic,800,800,3000,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
+13-mg-type93,13.2mm/76 Type 93,Hotchkiss M1929,france,1933-01-01,13.2,75.8,42,450,250,Breech Automatic,805,805,2500,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
+13-mg-m1931,13.2mm/75.7 AA MG Model 1931,Hotchkiss M1929,france,1931-01-01,13.2,75.8,47.5,400,250,Breech Automatic,805,805,1500,http://www.navweaps.com/Weapons/WNIT_132-757_m1931.php
+13-mg-m1929,13.2mm/76 Model 1929,Hotchkiss M1929,france,1930-01-01,13.2,75.8,30,450,250,Breech Automatic,800,800,3000,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
 13-mg-browning-fn,13.2mm/62 Browning F.N.,FN 13.2mm,france,1939-01-01,13.2,61.9,24,1500,1080,Breech Automatic,900,900,,"https://en.wikipedia.org/wiki/Mitrailleuse_d%27Avion_Browning_-_F.N._Calibre_13,2_mm"
 6-mg-3rd-year-type,6.5mm/115 3rd Year Type Kiho,Hotchkiss 6.5mm,france,1914-01-01,6.5,115,28,500,400,Breech Automatic,740,740,,http://www.navweaps.com/Weapons/WNJAP_65mm-115_Kiho.php
 380-bg-sk-c34,38cm/48 SK C/34,Krupp 38cm C/34,germany,1934-01-01,380,48,111000,2.3,2.1,Breech,820,0,120,http://www.navweaps.com/Weapons/WNGER_15-52_skc34.php
@@ -322,6 +323,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 381-bg-m1934,381mm/50 Model 1934,Gio. Ansaldo 381mm,italy,1934-01-01,381,50,111664,1.3,1.3,Breech,850,0,74,http://www.navweaps.com/Weapons/WNIT_15-50_m1934.php
 381-bg-an1914,381mm/40 Ansaldo 1914,Gio. Ansaldo 381mm,italy,1914-01-01,381,40,62600,2,2,Breech,700,700,,http://www.navweaps.com/Weapons/WNIT_15-40_m1914.php
 320-bg-m1934,320mm/44 Model 1934,Gio. Ansaldo 320mm,italy,1934-01-01,320,44,69972,2,2,Breech,830,0,100,http://www.navweaps.com/Weapons/WNIT_126-44_m1934.php
+203-bg-m1927,203mm/53 Model 1927,Gio. Ansaldo 203mm,italy,1927-01-01,203,50.1,27216,3.8,2,Breech,900,0,100,http://www.navweaps.com/Weapons/WNIT_8-53_m1927.php
+203-bg-m1924,203mm/53 Model 1924,Gio. Ansaldo 203mm,italy,1924-01-01,203,50,29023,3.4,1.5,Breech,840,0,150,http://www.navweaps.com/Weapons/WNIT_8-50_m1924.php
 152-bg-m1934,152mm/55 Model 1934,Gio. Ansaldo 152mm,italy,1934-01-01,152,55,9689,5,4,Breech,910,0,210,http://www.navweaps.com/Weapons/WNIT_6-55_m1936.php
 152-bg-m1911,152mm/45 Model 1911,Gio. Ansaldo 152mm,italy,1911-01-01,152,45,7100,1,1,Breech,830,0,,https://en.wikipedia.org/wiki/Cannone_da_152/45
 135-bg-m1937,135mm/45 Model 1937,Gio. Ansaldo 135mm,italy,1938-01-01,135,45,6532,7,6,Breech,825,825,320,http://www.navweaps.com/Weapons/WNIT_53-45_m1938.php
@@ -330,7 +333,6 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 37-mg-m1932,37mm/54 Model 1932,Breda 37mm,italy,1932-01-01,37,54,277,120,120,Breech Autoloader,800,800,1500,http://www.navweaps.com/Weapons/WNIT_37mm-54_m1932.php
 20-mg-sif-1939,20mm/70 Scotti-Isotta Fraschini 1939,Scotti,italy,1930-01-01,20,70,227,250,120,Breech Automatic,830,830,1500,https://en.wikipedia.org/wiki/Cannone-Mitragliera_da_20/77_(Scotti)
 20-mg-m1935,20mm/65 Model 1935,Breda 20mm,italy,1935-01-01,20,65,72,240,120,Breech Automatic,840,840,1500,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
-13-mg-m1931,13.2 mm/75.7 AA MG Model 1931,Breda 13mm,italy,1931-01-01,13,75.7,47.5,500,,Breech Automatic,,,1500,http://www.navweaps.com/Weapons/WNIT_132-757_m1931.php
 460-bg-type94,40cm/45 Type 94,Japanese 460mm,japan,1939-01-01,460,45,164654,2,1.3,Breech,780,0,100,http://www.navweaps.com/Weapons/WNJAP_18-45_t94.php
 410-bg-3rd-year,41cm/45 3rd Year Type,Japanse 410mm,japan,1914-01-01,410,45,101600,2.8,1.5,Breech,790,0,90,http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.php
 203-bg-3rd-year-no2b,20cm/50 3rd Year Type No. 2,Japanese 200mm,japan,1930-01-01,203,50,19000,4,3,Breech,840,0,120,http://www.navweaps.com/Weapons/WNJAP_8-50_3ns.php
