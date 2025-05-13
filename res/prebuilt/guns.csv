@@ -49,6 +49,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 305-ml-rml-35ton,"12""/12 RML 35-ton",Royal Gun Factory 35-ton,britain,1871-01-01,304.8,12,36000,0.4,0.3,Muzzle,420,0,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
 305-ml-rml-25ton-marki,"12""/12 RML 25-ton Mark I",Royal Gun Factory 25-ton,britain,1864-01-01,304.8,12,23900,0.4,0.4,Muzzle,400,0,,https://en.wikipedia.org/wiki/RML_12-inch_25-ton_gun
 279-ml-rml-25ton-marki,"11""/12 RML 25-ton Mark I",Woolwich 25-ton,britain,1865-01-01,279.4,12,25000,0.3,0.3,Muzzle,410,0,,https://en.wikipedia.org/wiki/RML_11-inch_25-ton_gun
+254-bg-elswick-w,"10""/45 Elswick W","British 10""",britain,1908-01-01,254,45,35000,2.6,2.6,Breech,870,0,86,http://www.navweaps.com/Weapons/WNIT_10-45_M1908.php
 254-bg-41st-year,"10""/45 41st Year Type","Vickers 10""",britain,1905-01-01,254,45,22500,2,1.5,Breech,810,0,,http://www.navweaps.com/Weapons/WNJAP_10-45_Vickers.php
 254-bg-markvii-vickers-a,"10""/45 Mark VII Vickers A","British 10""",britain,1901-01-01,254,45,31500,2,1.5,Breech,810,0,86,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
 254-bg-markvi-elswick-s,"10""/45 Mark VI Elswick S","British 10""",britain,1901-01-01,254,45,40000,3,2,Breech,810,0,86,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
@@ -103,6 +104,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-bl-markvii,"6""/45 BL Mark VII","Vickers 6""",britain,1899-01-01,152,45,7517,5,4,Breech,773,0,130,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php
 152-bg-armstrong-z,"6""/40 Armstrong Z","Elswick 6""",britain,1893-01-01,152,40,6400,5,4,Breech,701,0,,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
 152-bg-qf-marki,"6""/40 QF Mark I Elswick Z","Elswick 6""",britain,1888-01-01,152,40,6700,5,4,Breech,640,0,130,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
+152-bg-a91,"6""/40 A91","Elswick 6""",britain,1888-01-01,152,40,6700,5,4,Breech,640,0,130,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
 152-bg-qfc-markiii,"6""/26 QFC Mark III/III","Royal Gun Factory 6""",britain,1875-01-01,152,26,5300,5,4,Breech,628,0,200,http://www.navweaps.com/Weapons/WNBR_6-26_mk6.php
 152-bg-markiii,"6""/26 BL Mark III","Royal Gun Factory 6""",britain,1875-01-01,152,26,5000,4,4,Breech,597,0,,http://www.navweaps.com/Weapons/WNBR_6-26_mk1.php
 140-bg-bl-markI,"5.5""/50 BL Mark I","British 5.5""",britain,1913-01-01,140,50,7076,12,10,Breech,850,0,200,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php

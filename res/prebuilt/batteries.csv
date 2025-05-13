@@ -334,6 +334,10 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 254-ag-p1891-ha_ay,254,254-ag-p1891-ha,,1,2,1,2
 254-ag-mk6_ay,254,254-ag-mk6,,1,2,1,2
 254-ag-mk3_x2-ps,254,254-ag-mk3,,1,1,1,2
+254-ag-elswick-w_ay-alt,254,254-ag-elswick-w,,0,2,1,2
+254-ag-elswick-w_ay,254,254-ag-elswick-w,,1,2,1,2
+254-ag-elswick-single_ay,254,254-ag-elswick-single,,1,2,1,2
+254-ag-elswick-single_a,254,254-ag-elswick-single,,1,1,0,1
 254-ag-elswick-r_ay,254,254-ag-elswick-r,,1,2,1,2
 254-ag-bv_ay,254,254-ag-bv,,1,2,1,2
 254-ag-biv_ay,254,254-ag-biv,,1,2,1,2
@@ -477,6 +481,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 203-ag-l-c34_abxy,203,203-ag-l-c34,,2,4,2,4
 203-ag-l-c34_ay,203,203-ag-l-c34,,1,2,1,2
 203-ag-elswick-w-twin_x6,203,203-ag-elswick-w-twin,,1,3,1,6
+203-ag-elswick-w-twin_y,203,203-ag-elswick-w-twin,,0,1,1,1
 203-ag-double_ay,203,203-ag-double,,1,2,1,2
 203-ag-barbette_ay,203,203-ag-barbette,,1,2,1,2
 203-ag-armstrong-u_ay,203,203-ag-armstrong-u,,1,2,1,2
@@ -521,6 +526,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 190-c-cp-markiii-ii_x10,190,190-c-cp-markiii-ii,,1,5,1,10
 190-c-cp-markiii-ii_x4-side,190,190-c-cp-markiii-ii,,0,2,0,4
 190-c-cp-markiii_x14,190,190-c-cp-markiii,,2,7,2,14
+190-ag-vickers-twin_x4,190,190-ag-vickers-twin,,1,2,1,4
 190-ag-l42_x4,190,190-ag-l42,,1,2,1,4
 190-ag-cp-marki_apsy,190,190-ag-cp-marki,,2,3,1,4
 178-piv-rml-7ton-armstrong_x4-side,178,178-piv-rml-7ton-armstrong,,0,2,0,4
@@ -718,6 +724,8 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 152-gs-ab-marki_x6-medea,152,152-gs-ab-marki,,2,3,2,6
 152-gs-ab-marki_x4-sponsons,152,152-gs-ab-marki,,1,2,1,4
 152-gs-ab-marki_x2,152,152-gs-ab-marki,,0,1,0,2
+152-gs-a91_x6,152,152-gs-a91,,1,4,1,6
+152-gs-a91_x4,152,152-gs-a91,,1,2,1,4
 152-gs-41st-year-gg_x10,152,152-gs-41st-year-gg,,2,6,2,10
 152-gs-41st-year-gg_x8,152,152-gs-41st-year-gg,,2,5,2,8
 152-gs-41st-year-gg_x7,152,152-gs-41st-year-gg,,2,4,1,7
@@ -802,6 +810,9 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 152-c-ab-marki_x6-side,152,152-c-ab-marki,,0,3,0,6
 152-c-ab-marki_x4,152,152-c-ab-marki,,0,2,1,4
 152-c-a91_x12,152,152-c-a91,,1,6,1,12
+152-c-a91_x10-sides,152,152-c-a91,,0,5,0,10
+152-c-a91_x10,152,152-c-a91,,1,5,1,10
+152-c-a91_x8-sides,152,152-c-a91,,0,4,0,8
 152-c-a91_x8,152,152-c-a91,,1,4,1,8
 152-c-a1918_x12,152,152-c-a1918,,3,6,3,12
 152-c-41st-year-gg_x14,152,152-c-41st-year-gg,,2,7,2,14
@@ -1096,6 +1107,9 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 120-gs-type41_x10-tone,120,120-gs-type41,,1,5,2,10
 120-gs-type41_x8-tone,120,120-gs-type41,,1,4,2,8
 120-gs-mk3_x4,120,120-gs-mk3,,0,2,0,4
+120-gs-m1891_x10,120,120-gs-m1891,,1,5,1,10
+120-gs-m1891_x6,120,120-gs-m1891,,1,4,1,6
+120-gs-m1891_x4,120,120-gs-m1891,,1,2,1,4
 120-gs-hontoria-m1883_x4,120,120-gs-hontoria-m1883,,1,2,1,4
 120-gs-bdi_x8,120,120-gs-bdi,,2,4,2,8
 120-gs-bdi_x6-alt-2,120,120-gs-bdi,,0,3,1,6
@@ -1301,6 +1315,8 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 100-p-m1881_x4,100,100-p-m1881,,1,2,1,4
 100-gs-m1924_x8,100,100-gs-m1924,,1,4,1,8
 100-gs-m1924_x6,100,100-gs-m1924,,1,3,0,6
+100-gs-m1924_x5,100,100-gs-m1924,,2,3,2,5
+100-gs-m1924_x4-alt,100,100-gs-m1924,,1,2,2,4
 100-gs-m1924_x4,100,100-gs-m1924,,1,2,1,4
 100-cp-m1931-bb_x6,100,100-cp-m1931-bb,,2,3,2,6
 100-cp-m1931-bb_x4,100,100-cp-m1931-bb,,1,2,1,4
@@ -1410,8 +1426,13 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 76-p-6-marki_x1,76.2,76-p-6-marki,,0,1,0,1
 76-sg-mark-6_aps,76,76-sg-mark-6,,1,2,1,3
 76-p-v1909-aa_x4-turret,76,76-p-v1909-aa,,1,4,1,4
+76-p-v1909_x16-turret,76,76-p-v1909,,6,10,6,16
+76-p-v1909_x16-alt,76,76-p-v1909,,4,8,5,16
+76-p-v1909_x16,76,76-p-v1909,,3,8,4,16
 76-p-v1909_x13-turret,76,76-p-v1909,,5,13,5,13
 76-p-v1909_x12-turret,76,76-p-v1909,,3,12,3,12
+76-p-v1909_x8-alt,76,76-p-v1909,,2,4,2,8
+76-p-v1909_x8,76,76-p-v1909,,4,4,5,8
 76-p-v1909_x4-turret,76,76-p-v1909,,1,4,1,4
 76-p-rm-m1916_x6,76,76-p-rm-m1916,,1,3,1,6
 76-p-rm-m1916_x3-alt,76,76-p-rm-m1916,,1,2,2,3
@@ -1478,6 +1499,8 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 76-p-marki_x14,76,76-p-marki,,4,5,4,14
 76-p-elswick-n_x6,76,76-p-elswick-n,,2,2,1,6
 76-p-elswick-n_x1-fore,76,76-p-elswick-n,,1,1,0,1
+76-p-a1917_x6-alt,76,76-p-a1917,,3,4.5,3,6
+76-p-a1917_x6,76,76-p-a1917,,3,4,3,6
 76-p-a1909_x24,76,76-p-a1909,,5,13,7,24
 76-p-a1909_x20,76,76-p-a1909,,4,10,4,20
 76-p-a1909_x16,76,76-p-a1909,,2,8,4,16
@@ -1505,6 +1528,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 76-gs-pi_x6-sides,76,76-gs-pi,,0,3,0,6
 76-gs-pi_x4,76,76-gs-pi,,1,2,1,4
 76-gs-pi_x2,76,76-gs-pi,,0,1,0,2
+76-gs-a1909_x10,76,76-gs-a1909,,1,5,1,10
 76-gs-81k_x3,76,76-gs-81k,,2,2,2,3
 76-gs-81k_x2-aft,76,76-gs-81k,,1,1,2,2
 76-gs-45-pi_x10,76,76-gs-45-pi,,2,5,3,10
@@ -1701,6 +1725,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 57-p-marki-recoil_x4,57,57-p-marki-recoil,,2,2,2,4
 57-p-marki-recoil_x3-hull,57,57-p-marki-recoil,,1,1,0,3
 57-p-marki-recoil_x2,57,57-p-marki-recoil,,0,1,0,2
+57-p-h_x6,57,57-p-h,,4,3,3,6
 57-p-d-s_x14,57,57-p-d-s,,2,7,2,14
 57-p-d-s_x12-columbia,57,57-p-d-s,,2,6,2,12
 57-p-d-s_x12-brooklyn,57,57-p-d-s,,3,6,4,12
@@ -1743,6 +1768,8 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 47-p-yamanouchi-mk1_x4-azuma,47,47-p-yamanouchi-mk1,,2,1.5,2,4
 47-p-yamanouchi-mk1_x4-allround,47,47-p-yamanouchi-mk1,,2,2,2,4
 47-p-yamanouchi-mk1_x4,47,47-p-yamanouchi-mk1,,1,2,1,4
+47-p-v1908_x4,47,47-p-v1908,,2,2,1,4
+47-p-v1908_x2,47,47-p-v1908,,0,1,0,2
 47-p-sfk-l44_x7,47,47-p-sfk-l44,,2,4,1,7
 47-p-sfk-l44_x6,47,47-p-sfk-l44,,2,3,2,6
 47-p-sfk-l44_x4,47,47-p-sfk-l44,,1,2,1,4
@@ -1881,6 +1908,8 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 47-p-m1885_x4,47,47-p-m1885,,1,2,1,4
 47-p-m1885_x2-side,47,47-p-m1885,,0,1,0,2
 47-p-m1885_x2,47,47-p-m1885,,1,1,1,2
+47-p-h_x6-alt,47,47-p-h,,3,4,3,6
+47-p-h_x6,47,47-p-h,,3,3,3,6
 47-p-d-s_x12,47,47-p-d-s,,2,4,2,12
 47-p-d-s_x8,47,47-p-d-s,,3,4,3,8
 47-p-d-s_x4-mast,47,47-p-d-s,,1,2,1,4
@@ -2252,6 +2281,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 37-p-m1884_x8-side,37,37-p-m1884,,0,4,0,8
 37-p-m1884_x8-mast,37,37-p-m1884,,2,3,0,8
 37-p-m1884_x8,37,37-p-m1884,,2,2,2,8
+37-p-m1884_x6,37,37-p-m1884,,2,3,2,6
 37-p-m1884_x4,37,37-p-m1884,,2,2,2,4
 37-p-m1884_x2-mast,37,37-p-m1884,,0,1,0,2
 37-p-m1884_x2,37,37-p-m1884,,1,1,1,2
@@ -2453,6 +2483,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 25-ag-bl-120_x10,25,25-ag-bl-120,,1,5,3,10
 20-sm-m1940_x8-trieste,20,20-sm-m1940,,2,5,6,8
 20-sm-m1940_x8,20,20-sm-m1940,,2,5,4,8
+20-sm-m1940_x6-alt,20,20-sm-m1940,,3,4,3,6
 20-sm-m1940_x6,20,20-sm-m1940,,0,4,2,6
 20-sm-m1940_x4-aft,20,20-sm-m1940,,0,2,4,4
 20-sm-m1940_x4,20,20-sm-m1940,,2,2,2,4
@@ -2462,6 +2493,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 20-sm-m1935_x8-cc,20,20-sm-m1935,,3,4,4,8
 20-sm-m1935_x8-ad,20,20-sm-m1935,,1,4,4,8
 20-sm-m1935_x8,20,20-sm-m1935,,1,4,2,8
+20-sm-m1935_x6-alt,20,20-sm-m1935,,3,5,3,6
 20-sm-m1935_x6,20,20-sm-m1935,,2,3,4,6
 20-sm-m1935_x4-alt,20,20-sm-m1935,,3,2,3,4
 20-sm-m1935_x4,20,20-sm-m1935,,0,2,0,4
@@ -2888,10 +2920,12 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,BroadsideArc,SternArc
 20-cp-vierling-c38_x1-aft,20,20-cp-vierling-c38,,0,1,1,1
 20-cp-vierling-c38_x1,20,20-cp-vierling-c38,,0,1,0,1
 13-p-m1931-twin_x6,13.2,13-p-m1931-twin,,2,3,4,6
+13-p-m1931-twin_x5-alt,13.2,13-p-m1931-twin,,1,4,1,5
 13-p-m1931-twin_x5,13.2,13-p-m1931-twin,,1,3,3,5
 13-p-m1931-twin_x4-sides,13.2,13-p-m1931-twin,,0,2.5,0,4
 13-p-m1931-twin_x4,13.2,13-p-m1931-twin,,2,2,2,4
 13-p-m1931-twin_x2-aft,13.2,13-p-m1931-twin,,0,1,2,2
+13-p-m1931-twin_x2,13.2,13-p-m1931-twin,,1,1,1,2
 13-p-type93-twin_x18,13,13-p-type93-twin,,2,9,7,18
 13-p-type93-twin_x4,13,13-p-type93-twin,,1,2,1,4
 13-p-type93-twin_x3,13,13-p-type93-twin,,0,2,1,3

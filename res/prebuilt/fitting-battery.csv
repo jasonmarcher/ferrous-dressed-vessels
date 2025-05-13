@@ -3794,21 +3794,21 @@ pred-carnot_1900,450-tt-hull_x2-side,,,
 pred-carnot_1900,placeholder_torpedo,,,
 bb-littorio,381-ag-m1934_aby,381-apc-ita,Primary Gun,1
 bb-littorio,152-ag-m1934_x4,152-ap-ita,Secondary Gun,2
-bb-littorio,120-cp-m1891_x4-illum,,Tertiary Gun,3
+bb-littorio,120-cp-m1891_x4-illum,120-com-uk,Tertiary Gun,3
 bb-littorio,90-ag-m1938_x12,90-he-aa-ita,AA Battery,4
 bb-littorio,37-cp-1932_x8,37-he-ita,AA Battery,5
 bb-littorio,37-cp-1939_x4,37-he-ita,AA Battery,5
 bb-littorio,20-sm-m1935_x8,20-he-ita,AA Battery,6
 bb-littorio_littorio-1942,381-ag-m1934_aby,381-apc-ita,Primary Gun,1
 bb-littorio_littorio-1942,152-ag-m1934_x4,152-ap-ita,Secondary Gun,2
-bb-littorio_littorio-1942,120-cp-m1891_x4-illum,,Tertiary Gun,3
+bb-littorio_littorio-1942,120-cp-m1891_x4-illum,120-com-uk,Tertiary Gun,3
 bb-littorio_littorio-1942,90-ag-m1938_x12,90-he-aa-ita,AA Battery,4
 bb-littorio_littorio-1942,37-cp-1932_x8,37-he-ita,AA Battery,5
 bb-littorio_littorio-1942,37-cp-1939_x4,37-he-ita,AA Battery,5
 bb-littorio_littorio-1942,20-sm-m1935_x14,20-he-ita,AA Battery,6
 bb-littorio_vittorio-veneto-1942,381-ag-m1934_aby,381-apc-ita,Primary Gun,1
 bb-littorio_vittorio-veneto-1942,152-ag-m1934_x4,152-ap-ita,Secondary Gun,2
-bb-littorio_vittorio-veneto-1942,120-cp-m1891_x4-illum,,Tertiary Gun,3
+bb-littorio_vittorio-veneto-1942,120-cp-m1891_x4-illum,120-com-uk,Tertiary Gun,3
 bb-littorio_vittorio-veneto-1942,90-ag-m1938_x12,90-he-aa-ita,AA Battery,4
 bb-littorio_vittorio-veneto-1942,37-cp-1932_x8,37-he-ita,AA Battery,5
 bb-littorio_vittorio-veneto-1942,37-cp-1939_x4,37-he-ita,AA Battery,5
@@ -11992,3 +11992,74 @@ ca-trento_trieste-1943,37-cp-1932_x4,37-he-ita,AA Battery,3
 ca-trento_trieste-1943,20-sm-m1940_x8-trieste,20-he-ita,AA Battery,4
 ca-trento_trieste-1943,533-tt-single-hull_x8,,,
 ca-trento_trieste-1943,placeholder_torpedo,,,
+ac-marco-polo,152-gs-a91_x6,152-cpc-4crh,Primary Gun,1
+ac-marco-polo,120-gs-m1891_x10,120-com-uk,Primary Gun,2
+ac-marco-polo,57-p-h_x6,57-he-uk,Tertiary Gun,3
+ac-marco-polo,450-tt-hull_x5-bow,,,
+ac-marco-polo,placeholder_torpedo,,,
+ac-marco-polo_1911,152-gs-a91_x6,152-cpc-4crh,Primary Gun,1
+ac-marco-polo_1911,120-gs-m1891_x4,120-com-uk,Primary Gun,2
+ac-marco-polo_1911,450-tt-hull_x4-side,,,
+ac-marco-polo_1911,placeholder_torpedo,,,
+ac-vettor-pisani,152-gs-a91_x4,152-cpc-4crh,Primary Gun,1
+ac-vettor-pisani,152-c-a91_x8-sides,152-cpc-4crh,Primary Gun,1
+ac-vettor-pisani,120-gs-m1891_x6,120-com-uk,Primary Gun,2
+ac-vettor-pisani,57-p-h_x6,57-he-uk,Tertiary Gun,3
+ac-vettor-pisani,37-p-m1884_x6,37-he-ita-early,Tertiary Gun,3
+ac-vettor-pisani,450-tt-hull_x4-side,,,
+ac-vettor-pisani,placeholder_torpedo,,,
+ac-giuseppe-garibaldi-group-1,254-ag-elswick-single_ay,254-ap-eoc,Primary Gun,1
+ac-giuseppe-garibaldi-group-1,152-gs-a91_x4,152-cpc-4crh,Primary Gun,2
+ac-giuseppe-garibaldi-group-1,152-c-a91_x10-sides,152-cpc-4crh,Primary Gun,2
+ac-giuseppe-garibaldi-group-1,,,Tertiary Gun,3
+ac-giuseppe-garibaldi-group-1,,,Tertiary Gun,4
+ac-giuseppe-garibaldi-group-1,450-tt-hull_x4-side,,,
+ac-giuseppe-garibaldi-group-1,placeholder_torpedo,,,
+ac-giuseppe-garibaldi-group-2,254-ag-elswick-single_a,254-ap-eoc,Primary Gun,1
+ac-giuseppe-garibaldi-group-2,203-ag-elswick-w-twin_y,203-ap-ita,Primary Gun,2
+ac-giuseppe-garibaldi-group-2,152-gs-a91_x4,152-cpc-4crh,Primary Gun,3
+ac-giuseppe-garibaldi-group-2,152-c-a91_x10,152-cpc-4crh,Primary Gun,3
+ac-giuseppe-garibaldi-group-2,76-gs-a1909_x10,76-ap-ita,Tertiary Gun,4
+ac-giuseppe-garibaldi-group-2,47-p-h_x6-alt,47-he-fra-1885,Tertiary Gun,5
+ac-giuseppe-garibaldi-group-2,450-tt-hull_x4-side,,,
+ac-giuseppe-garibaldi-group-2,placeholder_torpedo,,,
+ac-pisa,254-ag-elswick-w_ay,254-ap-eoc,Primary Gun,1
+ac-pisa,190-ag-vickers-twin_x4,190-ap-uk,Primary Gun,2
+ac-pisa,76-p-v1909_x16,76-ap-ita,Tertiary Gun,3
+ac-pisa,47-p-v1908_x4,47-he-fra-1902,Tertiary Gun,4
+ac-pisa,450-tt-hull_x3-bow,,,
+ac-pisa,placeholder_torpedo,,,
+ac-pisa_1918,254-ag-elswick-w_ay,254-ap-eoc,Primary Gun,1
+ac-pisa_1918,190-ag-vickers-twin_x4,190-ap-uk,Primary Gun,2
+ac-pisa_1918,76-p-v1909_x16-turret,76-ap-ita,Tertiary Gun,3
+ac-pisa_1918,76-p-a1917_x6,76-he-ita,AA Battery,3
+ac-pisa_1918,47-p-v1908_x4,47-he-fra-1902,Tertiary Gun,4
+ac-pisa_1918,450-tt-hull_x3-bow,,,
+ac-pisa_1918,placeholder_torpedo,,,
+ac-san-giorgio,254-ag-elswick-w_ay,254-ap-eoc,Primary Gun,1
+ac-san-giorgio,190-ag-vickers-twin_x4,190-ap-uk,Primary Gun,2
+ac-san-giorgio,76-p-v1909_x16-alt,76-ap-ita,Tertiary Gun,3
+ac-san-giorgio,47-p-v1908_x2,47-he-fra-1902,Tertiary Gun,4
+ac-san-giorgio,450-tt-hull_x3-bow,,,
+ac-san-giorgio,placeholder_torpedo,,,
+ac-san-marco,254-ag-elswick-w_ay,254-ap-eoc,Primary Gun,1
+ac-san-marco,190-ag-vickers-twin_x4,190-ap-uk,Primary Gun,2
+ac-san-marco,76-p-v1909_x16-alt,76-ap-ita,Tertiary Gun,3
+ac-san-marco,47-p-v1908_x2,47-he-fra-1902,Tertiary Gun,4
+ac-san-marco,450-tt-hull_x3-bow,,,
+ac-san-marco,placeholder_torpedo,,,
+ac-san-giorgio_1918,254-ag-elswick-w_ay,254-ap-eoc,Primary Gun,1
+ac-san-giorgio_1918,190-ag-vickers-twin_x4,190-ap-uk,Primary Gun,2
+ac-san-giorgio_1918,76-p-v1909_x8-alt,76-ap-ita,Tertiary Gun,3
+ac-san-giorgio_1918,76-p-a1917_x6-alt,76-he-ita,AA Battery,3
+ac-san-giorgio_1918,450-tt-hull_x3-bow,,,
+ac-san-giorgio_1918,placeholder_torpedo,,,
+ac-san-giorgio-1937,254-ag-elswick-w_ay,254-ap-eoc,Primary Gun,1
+ac-san-giorgio-1937,190-ag-vickers-twin_x4,190-ap-uk,Primary Gun,2
+ac-san-giorgio-1937,100-gs-m1924_x4-alt,100-he-ita,Secondary Gun,3
+ac-san-giorgio-1937,13-p-m1931-twin_x2,13-b-ita,AA Battery,4
+ac-san-giorgio-1937_1940-6,254-ag-elswick-w_ay-alt,254-ap-eoc,Primary Gun,1
+ac-san-giorgio-1937_1940-6,190-ag-vickers-twin_x4,190-ap-uk,Primary Gun,2
+ac-san-giorgio-1937_1940-6,100-gs-m1924_x5,100-he-ita,Secondary Gun,3
+ac-san-giorgio-1937_1940-6,20-sm-m1940_x6-alt,20-he-ita,AA Battery,4
+ac-san-giorgio-1937_1940-6,13-p-m1931-twin_x5-alt,13-b-ita,AA Battery,5
