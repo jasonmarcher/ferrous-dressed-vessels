@@ -83,6 +83,8 @@ https://www.hazegray.org/navhist/gun_ship.htm
 
 https://webarchive.nationalarchives.gov.uk/ukgwa/20110802041558/http://www.nmm.ac.uk/upload/pdf/Warship_Histories_Vessels_i.pdf
 
+https://web.archive.org/web/20150216013059/http://www.giuseppemarchese.it/articoli/art_56/art56_5.html
+
 ### Submarines
 http://www.designed4submariners.com/Welcome_Page.html
 
