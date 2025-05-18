@@ -184,6 +184,10 @@ https://prints.rmg.co.uk/collections/ship-plans
 
 http://combinedfleet.com/battles/
 
+https://transportsofdelight.smugmug.com/SHIPS/World-Navies
+
+https://laststandonzombieisland.com/category/military-history
+
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
