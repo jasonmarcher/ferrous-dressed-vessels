@@ -188,6 +188,8 @@ https://transportsofdelight.smugmug.com/SHIPS/World-Navies
 
 https://laststandonzombieisland.com/category/military-history
 
+https://3dhistory.de/wordpress/warship-drawings-warship-blue-prints-warship-plans/
+
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
