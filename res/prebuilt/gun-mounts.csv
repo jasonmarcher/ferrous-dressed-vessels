@@ -306,7 +306,9 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 165-c-m1887,165,165mm/45 Model 1887,france,Central Pivot (Casement),165-bg-m1887,1,,
 165-piv-m1884,165,165mm/30 Model 1884,france,Pivot,165-bg-m1884,1,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
 165-c-m1884,165,165mm/30 Model 1884,france,Central Pivot (Casement),165-bg-m1884,1,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
-165-piv-m1881,165,165mm/28 Model 1881,france,Pivot,165-bg-m1881,1,,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
+165-piv-m1881,165,165mm/28 Model 1881,france,Pivot,165-bg-m1881,1,15,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
+165-cp-m1881,165,165mm/28 Model 1881,france,Central Pivot,165-bg-m1881,1,15,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
+165-piv-m1870,165,165mm/28 Model 1870,france,Pivot,165-bg-m1870,1,15,Identification of the Parameters of Naval Artillery
 165-piv-bg-m1858-60,165,165mm/ Model 1858-60,france,Pivot,165-bg-m1858-60,1,,https://en.wikipedia.org/wiki/Provence-class_ironclad#Armament_and_protection
 165-ccar-bg-m1858-60,165,165mm/ Model 1858-60,france,Carriage (Casement),165-bg-m1858-60,1,,https://en.wikipedia.org/wiki/Provence-class_ironclad#Armament_and_protection
 165-car-bg-m1858-60,165,165mm/ Model 1858-60,france,Carriage,165-bg-m1858-60,1,,https://en.wikipedia.org/wiki/Provence-class_ironclad#Armament_and_protection
@@ -419,6 +421,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 140-c-3rd-25,140,14cm/50 3rd Year Type,japan,Pedestal (Casement),140-bg-3rd-year-type,1,25,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 140-c-3rd-20,140,14cm/50 3rd Year Type,japan,Pedestal (Casement),140-bg-3rd-year-type,1,20,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 139-ag-model-1887,139,139mm/45 Model 1887,france,Armored Gunhouse,139-bg-model-1888,2,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
+139-gs-model-1893,139,139mm/45 Model 1893,france,Central Pivot (Gun Shield),139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-ct-model-1893,139,139mm/45 Model 1893,france,Coles Turret,139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-c-model-1891,139,139mm/45 Model 1891,france,Pedestal (Casement),139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-ag-model-1893,139,139mm/45 Model 1893,france,Armored Gunhouse,139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
@@ -536,9 +539,12 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 100-ag-m1937-bb,100,100mm/45 Model 1937,france,Armored Gunhouse,100-bg-m1930-bb,2,90,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-gs-m1924,100,100mm/47 OTO Model 1924,italy,Central Pivot (Gun Shield),100-bg-m1924,2,85,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Mount%2FTurret_Data
 100-piv-m1891,100,100mm/45 Model 1891,france,Pivot,100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
+100-gs-m1891,100,100mm/45 Model 1891,france,Central Pivot (Gun Shield),100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
 100-cp-m1891,100,100mm/45 Model 1891,france,Central Pivot,100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
 100-c-m1891,100,100mm/45 Model 1891,france,Central Pivot (Casement),100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
-100-p-m1881,100,100mm/26 Model 1881,france,Pedestal,100-bg-m1881,1,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
+100-piv-m1881,100,100mm/26 Model 1881,france,Pivot,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
+100-p-m1881,100,100mm/26 Model 1881,france,Pedestal,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
+100-cp-m1881,100,100mm/26 Model 1881,france,Central Pivot,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 100-c-k10,100,10cm/47 L/50 K.10,ahn,Central Pivot (Casement),100-bg-k10,1,18,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Mount%2FTurret_Data
 100-ag-mz-14,100,100mm/54 MZ-14,russia,Armored Gunhouse,100-bg-b34-p1940,2,85,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php
 95-piv-rbl-20pdr-16cwt,95,95mm/21 RBL 20-pdr 16 cwt,britain,Pivot,95-bg-rbl-20pdr-16cwt,1,16,https://en.wikipedia.org/wiki/RBL_20-pounder_Armstrong_gun
