@@ -3381,7 +3381,7 @@ bb-bretagne_1915,placeholder_torpedo,,,
 bb-bretagne_1915,placeholder_searchlight,,,
 bb-bretagne_1918,340-ag-m1912-double_abqxy,340-apc-m1912,Primary Gun,1
 bb-bretagne_1918,139-c-m1910_x22,139-sap-fra-1910,Secondary Gun,2
-bb-bretagne_1918,75-cp-m1897_x2,75-he-fra-1897,AA Battery,3
+bb-bretagne_1918,75-p-m1897_x2,75-he-fra-1897,AA Battery,3
 bb-bretagne_1918,47-p-m1902-ha_x2-fore,47-he-fra-1902,AA Battery,4
 bb-bretagne_1918,47-p-m1902-la_x5-turret-top,47-he-fra-1902,Landing Gun,4
 bb-bretagne_1918,450-tt-hull_x4-side,,,
@@ -3449,7 +3449,7 @@ bb-courbet_1915,placeholder_torpedo,,,
 bb-courbet_1915,placeholder_searchlight,,,
 bb-courbet_1918,305-ag-m1906-1910_abpsxy,305-apc-m1910,Primary Gun,1
 bb-courbet_1918,139-c-m1910_x22-alt,139-sap-fra-1910,Secondary Gun,2
-bb-courbet_1918,75-cp-m1897_x2,75-he-fra-1897,AA Battery,3
+bb-courbet_1918,75-p-m1897_x2,75-he-fra-1897,AA Battery,3
 bb-courbet_1918,47-p-m1902-ha_x4-fore,47-he-fra-1902,AA Battery,4
 bb-courbet_1918,450-tt-hull_x4-side,,,
 bb-courbet_1918,placeholder_torpedo,,,
@@ -3499,7 +3499,7 @@ pred-danton_1916,placeholder_searchlight,,,
 pred-danton_1918,305-ag-m1906_ay,305-apc-m1906,Primary Gun,1
 pred-danton_1918,240-ag-m1902_x6,240-ap-fra-1902,Primary Gun,2
 pred-danton_1918,75-c-m1908_x16-danton,75-he-fra-1908,Tertiary Gun,3
-pred-danton_1918,75-cp-m1897_x2,75-he-fra-1897,AA Battery,4
+pred-danton_1918,75-p-m1897_x2,75-he-fra-1897,AA Battery,4
 pred-danton_1918,47-p-m1902-ha_x4,47-he-fra-1902,AA Battery,5
 pred-danton_1918,450-tt-hull_x2-side,,,
 pred-danton_1918,placeholder_torpedo,,,
@@ -3507,7 +3507,7 @@ pred-danton_1918,placeholder_searchlight,,,
 pred-danton_diderot-1923,305-ag-m1906_ay,305-apc-m1906,Primary Gun,1
 pred-danton_diderot-1923,240-ag-m1902_x6,240-ap-fra-1902,Primary Gun,2
 pred-danton_diderot-1923,75-c-m1908_x16-danton,75-he-fra-1908,Tertiary Gun,3
-pred-danton_diderot-1923,75-cp-m1897_x2,75-he-fra-1897,AA Battery,4
+pred-danton_diderot-1923,75-p-m1897_x2,75-he-fra-1897,AA Battery,4
 pred-danton_diderot-1923,47-p-m1902-ha_x7,47-he-fra-1902,AA Battery,5
 pred-danton_diderot-1923,450-tt-hull_x2-side,,,
 pred-danton_diderot-1923,placeholder_torpedo,,,
@@ -5142,7 +5142,7 @@ bbar-admiral-baudin,381-tt-hull_x6-side,,,
 bbar-admiral-baudin,placeholder_torpedo,,,
 bbar-admiral-baudin,placeholder_searchlight,,,
 bbar-admiral-baudin_1893,370-bar-m1875-79_ary,370-ap-fra-1875,Primary Gun,1
-bbar-admiral-baudin_1893,165-piv-m1884_x4-side,165-ap-fra-1864,Primary Gun,2
+bbar-admiral-baudin_1893,165-piv-m1884_x4-side,165-ap-fra-1881,Primary Gun,2
 bbar-admiral-baudin_1893,139-piv-m1884_x10,139-he-fra-1884,Primary Gun,3
 bbar-admiral-baudin_1893,47-p-m1885_x4-split,47-he-fra-1885,Tertiary Gun,4
 bbar-admiral-baudin_1893,37-p-revolver_x14,37-he-ita-early,Tertiary Gun,5
@@ -5150,7 +5150,7 @@ bbar-admiral-baudin_1893,381-tt-hull_x6-side,,,
 bbar-admiral-baudin_1893,placeholder_torpedo,,,
 bbar-admiral-baudin_1893,placeholder_searchlight,,,
 bbar-admiral-baudin_1895,370-bar-m1875-79-2_ary,370-ap-fra-1875,Primary Gun,1
-bbar-admiral-baudin_1895,165-piv-m1884_x4-side,165-ap-fra-1864,Primary Gun,2
+bbar-admiral-baudin_1895,165-piv-m1884_x4-side,165-ap-fra-1881,Primary Gun,2
 bbar-admiral-baudin_1895,139-piv-m1884_x10,139-he-fra-1884,Primary Gun,3
 bbar-admiral-baudin_1895,47-p-m1885_x4-split,47-he-fra-1885,Tertiary Gun,4
 bbar-admiral-baudin_1895,37-p-revolver_x14,37-he-ita-early,Tertiary Gun,5
@@ -5158,7 +5158,7 @@ bbar-admiral-baudin_1895,381-tt-hull_x6-side,,,
 bbar-admiral-baudin_1895,placeholder_torpedo,,,
 bbar-admiral-baudin_1895,placeholder_searchlight,,,
 bbar-admiral-baudin_1897,370-bar-m1875-79-2_ary,370-ap-fra-1875,Primary Gun,1
-bbar-admiral-baudin_1897,165-piv-m1884_x4-side,165-ap-fra-1864,Primary Gun,2
+bbar-admiral-baudin_1897,165-piv-m1884_x4-side,165-ap-fra-1881,Primary Gun,2
 bbar-admiral-baudin_1897,139-piv-m1884_x10,139-he-fra-1884,Primary Gun,3
 bbar-admiral-baudin_1897,47-p-m1885_x12-balanced,47-he-fra-1885,Tertiary Gun,4
 bbar-admiral-baudin_1897,37-p-m1885_x6,37-he-ita-early,Tertiary Gun,5
@@ -5167,7 +5167,7 @@ bbar-admiral-baudin_1897,381-tt-hull_x6-side,,,
 bbar-admiral-baudin_1897,placeholder_torpedo,,,
 bbar-admiral-baudin_1897,placeholder_searchlight,,,
 bbar-admiral-baudin_1898,370-bar-m1875-79-2_ay,370-ap-fra-1875,Primary Gun,1
-bbar-admiral-baudin_1898,165-c-m1884_x4,165-ap-fra-1864,Primary Gun,2
+bbar-admiral-baudin_1898,165-c-m1884_x4,165-ap-fra-1881,Primary Gun,2
 bbar-admiral-baudin_1898,139-piv-m1884_x8-side,139-he-fra-1884,Primary Gun,3
 bbar-admiral-baudin_1898,47-p-m1885_x12-balanced,47-he-fra-1885,Tertiary Gun,4
 bbar-admiral-baudin_1898,37-p-m1885_x6,37-he-ita-early,Tertiary Gun,5
@@ -5190,7 +5190,7 @@ bbar-admiral-baudin_formidable-1891,381-tt-hull_x6-side,,,
 bbar-admiral-baudin_formidable-1891,placeholder_torpedo,,,
 bbar-admiral-baudin_formidable-1891,placeholder_searchlight,,,
 bbar-admiral-baudin_formidable-1891-2,370-bar-m1875-79_ary,370-ap-fra-1875,Primary Gun,1
-bbar-admiral-baudin_formidable-1891-2,165-piv-m1884_x4-side,165-ap-fra-1864,Primary Gun,2
+bbar-admiral-baudin_formidable-1891-2,165-piv-m1884_x4-side,165-ap-fra-1881,Primary Gun,2
 bbar-admiral-baudin_formidable-1891-2,139-piv-m1881_x10-side,139-he-fra-1881,Primary Gun,3
 bbar-admiral-baudin_formidable-1891-2,47-p-m1885_x12,47-he-fra-1885,Tertiary Gun,4
 bbar-admiral-baudin_formidable-1891-2,37-p-m1884_x18,37-he-ita-early,Tertiary Gun,5
@@ -5198,7 +5198,7 @@ bbar-admiral-baudin_formidable-1891-2,381-tt-hull_x6-side,,,
 bbar-admiral-baudin_formidable-1891-2,placeholder_torpedo,,,
 bbar-admiral-baudin_formidable-1891-2,placeholder_searchlight,,,
 bbar-admiral-baudin_formidable-1895,370-bar-m1875-79-2_ary,370-ap-fra-1875,Primary Gun,1
-bbar-admiral-baudin_formidable-1895,165-piv-m1884_x4-side,165-ap-fra-1864,Primary Gun,2
+bbar-admiral-baudin_formidable-1895,165-piv-m1884_x4-side,165-ap-fra-1881,Primary Gun,2
 bbar-admiral-baudin_formidable-1895,139-piv-m1881_x10-side,139-he-fra-1881,Primary Gun,3
 bbar-admiral-baudin_formidable-1895,47-p-m1885_x12,47-he-fra-1885,Tertiary Gun,4
 bbar-admiral-baudin_formidable-1895,37-p-m1884_x18,37-he-ita-early,Tertiary Gun,5
@@ -5206,7 +5206,7 @@ bbar-admiral-baudin_formidable-1895,381-tt-hull_x6-side,,,
 bbar-admiral-baudin_formidable-1895,placeholder_torpedo,,,
 bbar-admiral-baudin_formidable-1895,placeholder_searchlight,,,
 bbar-admiral-baudin_formidable-1898,370-bar-m1875-79-2_ay,370-ap-fra-1875,Primary Gun,1
-bbar-admiral-baudin_formidable-1898,165-c-m1884_x4,165-ap-fra-1864,Primary Gun,2
+bbar-admiral-baudin_formidable-1898,165-c-m1884_x4,165-ap-fra-1881,Primary Gun,2
 bbar-admiral-baudin_formidable-1898,139-piv-m1884_x8-side,139-he-fra-1884,Primary Gun,3
 bbar-admiral-baudin_formidable-1898,47-p-m1885_x12,47-he-fra-1885,Tertiary Gun,4
 bbar-admiral-baudin_formidable-1898,37-p-m1884_x18,37-he-ita-early,Tertiary Gun,5
@@ -5214,14 +5214,14 @@ bbar-admiral-baudin_formidable-1898,381-tt-hull_x4-side,,,
 bbar-admiral-baudin_formidable-1898,placeholder_torpedo,,,
 bbar-admiral-baudin_formidable-1898,placeholder_searchlight,,,
 bbar-admiral-baudin_formidable-1903,370-bar-m1875-79-3_ay,370-ap-fra-1875,Primary Gun,1
-bbar-admiral-baudin_formidable-1903,165-c-m1884_x4,165-ap-fra-1864,Primary Gun,2
+bbar-admiral-baudin_formidable-1903,165-c-m1884_x4,165-ap-fra-1881,Primary Gun,2
 bbar-admiral-baudin_formidable-1903,139-piv-m1884_x8-side,139-he-fra-1884,Primary Gun,3
 bbar-admiral-baudin_formidable-1903,47-p-m1885_x18,47-he-fra-1885,Tertiary Gun,4
 bbar-admiral-baudin_formidable-1903,381-tt-hull_x4-side,,,
 bbar-admiral-baudin_formidable-1903,placeholder_torpedo,,,
 bbar-admiral-baudin_formidable-1903,placeholder_searchlight,,,
 bbar-admiral-baudin_formidable-1906,370-bar-m1875-79-3_ay,370-ap-fra-1875,Primary Gun,1
-bbar-admiral-baudin_formidable-1906,165-c-m1884_x4,165-ap-fra-1864,Primary Gun,2
+bbar-admiral-baudin_formidable-1906,165-c-m1884_x4,165-ap-fra-1881,Primary Gun,2
 bbar-admiral-baudin_formidable-1906,139-piv-m1884_x8-side,139-he-fra-1884,Primary Gun,3
 bbar-admiral-baudin_formidable-1906,47-p-m1885_x18,47-he-fra-1885,Tertiary Gun,4
 bbar-admiral-baudin_formidable-1906,381-tt-hull_x2-side,,,
@@ -12485,7 +12485,7 @@ up-milan-1885_1890,100-cp-m1881_f-a,100-ap-fra-1881,Primary Gun,1
 up-milan-1885_1890,47-p-m1885_x10,47-he-fra-1885,Tertiary Gun,2
 up-milan-1885_1890,37-p-m1885_x2,37-he-ita-early,Tertiary Gun,3
 up-milan-1885_1890,placeholder_mines,,,
-up-inconstant-1887,139-piv-m1884_x3,139-he-fra-1881,Primary Gun,1
+up-inconstant-1887,139-piv-m1884_x3,139-he-fra-1884,Primary Gun,1
 up-inconstant-1887,100-cp-m1881_aft,100-ap-fra-1881,Primary Gun,2
 up-inconstant-1887,37-p-revolver_x5,37-he-ita-early,Tertiary Gun,3
 up-kersaint-1898,139-gs-model-1893_fore,139-ap-fra-1888,Primary Gun,1
@@ -12501,3 +12501,341 @@ ssow-rigault-de-genouilly-1878_eclaireur-1883,139-piv-m1870_x8,139-he-fra-1870,P
 ssow-rigault-de-genouilly-1878_eclaireur-1883,37-p-revolver_x4,37-he-ita-early,Tertiary Gun,2
 ssow-rigault-de-genouilly-1878_eclaireur-1888,139-piv-m1870_x8,139-he-fra-1870,Primary Gun,1
 ssow-rigault-de-genouilly-1878_eclaireur-1888,37-p-revolver_x6-alt-2,37-he-ita-early,Tertiary Gun,2
+pc-sfax,165-piv-m1881_x6,165-ap-fra-1881,Primary Gun,1
+pc-sfax,139-piv-m1881_x10-side,139-he-fra-1881,Primary Gun,2
+pc-sfax,37-p-revolver_x8-sponson,37-he-ita-early,Tertiary Gun,3
+pc-sfax,356-tt-hull_x5,,,
+pc-sfax,placeholder_torpedo,,,
+pc-sfax-1893,165-piv-m1884_x6,165-ap-fra-1881,Primary Gun,1
+pc-sfax-1893,139-piv-m1884_x10,139-he-fra-1884,Primary Gun,2
+pc-sfax-1893,37-p-revolver_x8-mix,37-he-ita-early,Tertiary Gun,3
+pc-sfax-1893,356-tt-hull_x5,,,
+pc-sfax-1893,placeholder_torpedo,,,
+pc-sfax-1893_1897,165-piv-m1884_x6,165-ap-fra-1881,Primary Gun,1
+pc-sfax-1893_1897,139-piv-m1884_x10,139-he-fra-1884,Primary Gun,2
+pc-sfax-1893_1897,47-p-m1885_x6,47-he-fra-1885,Tertiary Gun,3
+pc-sfax-1893_1897,37-p-revolver_x6-alt-2,37-he-ita-early,Tertiary Gun,4
+pc-sfax-1893_1897,37-p-m1884_x4-sides,37-he-ita-early,Tertiary Gun,4
+pc-sfax-1893_1897,356-tt-hull_x2-side,,,
+pc-sfax-1893_1897,placeholder_torpedo,,,
+pc-tage,165-piv-m1881_x6-alt,165-ap-fra-1881,Primary Gun,1
+pc-tage,139-piv-m1881_x10-side,139-he-fra-1881,Primary Gun,2
+pc-tage,47-p-m1885_x2-fore,47-he-fra-1885,Tertiary Gun,3
+pc-tage,37-p-revolver_x14-hull-alt,37-he-ita-early,Tertiary Gun,4
+pc-tage,356-tt-hull_x7,,,
+pc-tage,placeholder_torpedo,,,
+pc-tage-1892,165-piv-m1884_x8,165-ap-fra-1881,Primary Gun,1
+pc-tage-1892,139-piv-m1884_x8-side,139-he-fra-1884,Primary Gun,2
+pc-tage-1892,47-p-m1885_x2-fore,47-he-fra-1885,Tertiary Gun,3
+pc-tage-1892,37-p-revolver_x14-hull-alt,37-he-ita-early,Tertiary Gun,4
+pc-tage-1892,356-tt-hull_x7,,,
+pc-tage-1892,placeholder_torpedo,,,
+pc-tage-1892_1897,165-piv-m1884_x8,165-ap-fra-1881,Primary Gun,1
+pc-tage-1892_1897,139-piv-m1884_x8-side,139-he-fra-1884,Primary Gun,2
+pc-tage-1892_1897,47-p-m1885_x2-fore,47-he-fra-1885,Tertiary Gun,3
+pc-tage-1892_1897,37-p-revolver_x14-hull-alt,37-he-ita-early,Tertiary Gun,4
+pc-tage-1892_1897,356-tt-hull_x4-side,,,
+pc-tage-1892_1897,placeholder_torpedo,,,
+pc-tage-1892_1899,165-piv-m1884_x8,165-ap-fra-1881,Primary Gun,1
+pc-tage-1892_1899,139-piv-m1884_x8-side,139-he-fra-1884,Primary Gun,2
+pc-tage-1892_1899,47-p-m1885_x14,47-he-fra-1885,Tertiary Gun,3
+pc-tage-1892_1899,37-p-revolver_x4,37-he-ita-early,Tertiary Gun,4
+pc-tage-1892_1899,356-tt-hull_x4-side,,,
+pc-tage-1892_1899,placeholder_torpedo,,,
+pc-amiral-cecille,165-piv-m1884_x8-alt,165-ap-fra-1881,Primary Gun,1
+pc-amiral-cecille,139-piv-m1881_x10-side,139-he-fra-1881,Primary Gun,2
+pc-amiral-cecille,47-p-m1885_x6-alt,47-he-fra-1885,Tertiary Gun,3
+pc-amiral-cecille,37-p-revolver_x14-hull,37-he-ita-early,Tertiary Gun,4
+pc-amiral-cecille,356-tt-hull_x4,,,
+pc-amiral-cecille,placeholder_torpedo,,,
+pc-amiral-cecille_1893,165-piv-m1884_x8-alt,165-ap-fra-1881,Primary Gun,1
+pc-amiral-cecille_1893,139-piv-m1884_x10,139-he-fra-1884,Primary Gun,2
+pc-amiral-cecille_1893,47-p-m1885_x6-alt,47-he-fra-1885,Tertiary Gun,3
+pc-amiral-cecille_1893,37-p-revolver_x14-hull,37-he-ita-early,Tertiary Gun,4
+pc-amiral-cecille_1893,356-tt-hull_x4,,,
+pc-amiral-cecille_1893,placeholder_torpedo,,,
+pc-amiral-cecille-1895,165-piv-m1884_x8-alt,165-ap-fra-1881,Primary Gun,1
+pc-amiral-cecille-1895,139-piv-m1884_x10,139-he-fra-1884,Primary Gun,2
+pc-amiral-cecille-1895,47-p-m1885_x6-alt,47-he-fra-1885,Tertiary Gun,3
+pc-amiral-cecille-1895,37-p-revolver_x14-hull,37-he-ita-early,Tertiary Gun,4
+pc-amiral-cecille-1895,356-tt-hull_x3-stern,,,
+pc-amiral-cecille-1895,placeholder_torpedo,,,
+pc-amiral-cecille-1895_1900,165-piv-m1884_x8-alt,165-ap-fra-1881,Primary Gun,1
+pc-amiral-cecille-1895_1900,139-piv-m1884_x10,139-he-fra-1884,Primary Gun,2
+pc-amiral-cecille-1895_1900,47-p-m1885_x6-alt,47-he-fra-1885,Tertiary Gun,3
+pc-amiral-cecille-1895_1900,356-tt-hull_x3-stern,,,
+pc-amiral-cecille-1895_1900,placeholder_torpedo,,,
+pc-forbin,139-cp-m1881_x2,139-he-fra-1881,Primary Gun,1
+pc-forbin,47-p-m1885_x3,47-he-fra-1885,Tertiary Gun,2
+pc-forbin,37-p-revolver_x4-alt,37-he-ita-early,Tertiary Gun,3
+pc-forbin,356-tt-hull_x4-bow,,,
+pc-forbin,placeholder_torpedo,,,
+pc-forbin,placeholder_mines,,,
+pc-forbin_1889,139-cp-m1881_x4,139-he-fra-1881,Primary Gun,1
+pc-forbin_1889,47-p-m1885_x3,47-he-fra-1885,Tertiary Gun,2
+pc-forbin_1889,37-p-revolver_x4-alt,37-he-ita-early,Tertiary Gun,3
+pc-forbin_1889,356-tt-hull_x4-bow,,,
+pc-forbin_1889,placeholder_torpedo,,,
+pc-forbin_1889,placeholder_mines,,,
+pc-forbin_1890,139-cp-m1884_x4,139-he-fra-1884,Primary Gun,1
+pc-forbin_1890,47-p-m1885_x5,47-he-fra-1885,Tertiary Gun,2
+pc-forbin_1890,37-p-revolver_x2-aft,37-he-ita-early,Tertiary Gun,3
+pc-forbin_1890,356-tt-hull_x4-bow,,,
+pc-forbin_1890,placeholder_torpedo,,,
+pc-forbin_1890,placeholder_mines,,,
+pc-forbin_1896,139-cp-m1884_x4,139-he-fra-1884,Primary Gun,1
+pc-forbin_1896,47-p-m1885_x5,47-he-fra-1885,Tertiary Gun,2
+pc-forbin_1896,37-p-revolver_x2-aft,37-he-ita-early,Tertiary Gun,3
+pc-forbin_1896,356-tt-hull_x2-side,,,
+pc-forbin_1896,placeholder_torpedo,,,
+pc-forbin_1896,placeholder_mines,,,
+pc-forbin-1896,139-cp-m1884_x4,139-he-fra-1884,Primary Gun,1
+pc-forbin-1896,47-p-m1885_x9,47-he-fra-1885,Tertiary Gun,2
+pc-forbin-1896,356-tt-hull_x2-side,,,
+pc-forbin-1896,placeholder_torpedo,,,
+pc-forbin-1896,placeholder_mines,,,
+pc-davout,165-cp-m1884_x6,165-ap-fra-1881,Primary Gun,1
+pc-davout,65-p-m1888_x4,65-he-9pdr-fra-1888,Primary Gun,2
+pc-davout,47-p-m1885_x4,47-he-fra-1885,Tertiary Gun,3
+pc-davout,37-p-m1884_x8,37-he-ita-early,Tertiary Gun,4
+pc-davout,356-tt-hull_x6-alt,,,
+pc-davout,placeholder_torpedo,,,
+pc-davout_1894,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-davout_1894,65-p-m1888_x4,65-he-9pdr-fra-1888,Primary Gun,2
+pc-davout_1894,47-p-m1885_x4,47-he-fra-1885,Tertiary Gun,3
+pc-davout_1894,37-p-m1884_x8,37-he-ita-early,Tertiary Gun,4
+pc-davout_1894,356-tt-hull_x6-alt,,,
+pc-davout_1894,placeholder_torpedo,,,
+pc-davout_1896,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-davout_1896,65-p-m1888_x4,65-he-9pdr-fra-1888,Primary Gun,2
+pc-davout_1896,47-p-m1885_x4,47-he-fra-1885,Tertiary Gun,3
+pc-davout_1896,37-p-m1884_x4-mast,37-he-ita-early,Tertiary Gun,4
+pc-davout_1896,356-tt-hull_x6-alt,,,
+pc-davout_1896,placeholder_torpedo,,,
+pc-davout-1900,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-davout-1900,65-p-m1888_x4,65-he-9pdr-fra-1888,Primary Gun,2
+pc-davout-1900,47-p-m1885_x4,47-he-fra-1885,Tertiary Gun,3
+pc-davout-1900,356-tt-hull_x4-aft-aft,,,
+pc-davout-1900,placeholder_torpedo,,,
+pc-suchet,165-cp-m1884_x6,165-ap-fra-1881,Primary Gun,1
+pc-suchet,100-cp-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-suchet,47-p-m1885_x8,47-he-fra-1885,Tertiary Gun,3
+pc-suchet,37-p-m1884_x8,37-he-ita-early,Tertiary Gun,4
+pc-suchet,356-tt-hull_x7-alt,,,
+pc-suchet,placeholder_torpedo,,,
+pc-suchet_1896,165-cp-m1884_x6,165-ap-fra-1881,Primary Gun,1
+pc-suchet_1896,100-cp-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-suchet_1896,47-p-m1885_x8,47-he-fra-1885,Tertiary Gun,3
+pc-suchet_1896,37-p-m1884_x8,37-he-ita-early,Tertiary Gun,4
+pc-suchet_1896,356-tt-hull_x5-bow-alt,,,
+pc-suchet_1896,placeholder_torpedo,,,
+pc-suchet_1897,165-cp-m1884_x6,165-ap-fra-1881,Primary Gun,1
+pc-suchet_1897,100-cp-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-suchet_1897,47-p-m1885_x8,47-he-fra-1885,Tertiary Gun,3
+pc-suchet_1897,356-tt-hull_x2-side,,,
+pc-suchet_1897,placeholder_torpedo,,,
+pc-troude,139-cp-m1881_x4,139-he-fra-1881,Primary Gun,1
+pc-troude,47-p-m1885_x4-alt,47-he-fra-1885,Tertiary Gun,2
+pc-troude,37-p-revolver_x4-side,37-he-ita-early,Tertiary Gun,3
+pc-troude,356-tt-hull_x4-side,,,
+pc-troude,placeholder_torpedo,,,
+pc-troude,placeholder_mines,,,
+pc-troude_1893,139-cp-m1884_x4,139-he-fra-1884,Primary Gun,1
+pc-troude_1893,47-p-m1885_x4-alt,47-he-fra-1885,Tertiary Gun,2
+pc-troude_1893,37-p-revolver_x4-side,37-he-ita-early,Tertiary Gun,3
+pc-troude_1893,356-tt-hull_x4-side,,,
+pc-troude_1893,placeholder_torpedo,,,
+pc-troude_1893,placeholder_mines,,,
+pc-troude_1895,139-cp-m1884_x4,139-he-fra-1884,Primary Gun,1
+pc-troude_1895,47-p-m1885_x4-alt,47-he-fra-1885,Tertiary Gun,2
+pc-troude_1895,37-p-revolver_x4-side,37-he-ita-early,Tertiary Gun,3
+pc-troude_1895,356-tt-hull_x2-side,,,
+pc-troude_1895,placeholder_torpedo,,,
+pc-troude_1895,placeholder_mines,,,
+pc-troude_1900,139-cp-m1884_x4,139-he-fra-1884,Primary Gun,1
+pc-troude_1900,47-p-m1885_x7,47-he-fra-1885,Tertiary Gun,2
+pc-troude_1900,placeholder_mines,,,
+pc-jean-bart,165-cp-m1881_x4,165-ap-fra-1881,Primary Gun,1
+pc-jean-bart,139-cp-m1881_x6-alt,139-he-fra-1881,Primary Gun,2
+pc-jean-bart,47-p-m1885_x6-alt-2,47-he-fra-1885,Tertiary Gun,3
+pc-jean-bart,37-p-revolver_x6-fore,37-he-ita-early,Tertiary Gun,4
+pc-jean-bart,37-p-m1884_x8,37-he-ita-early,Tertiary Gun,4
+pc-jean-bart,356-tt-hull_x5,,,
+pc-jean-bart,placeholder_torpedo,,,
+pc-jean-bart_1891,165-cp-m1887_x4,165-ap-fra-1887,Primary Gun,1
+pc-jean-bart_1891,139-cp-m1884_x6,139-he-fra-1884,Primary Gun,2
+pc-jean-bart_1891,47-p-m1885_x6-alt-2,47-he-fra-1885,Tertiary Gun,3
+pc-jean-bart_1891,37-p-revolver_x6-fore,37-he-ita-early,Tertiary Gun,4
+pc-jean-bart_1891,37-p-m1884_x8,37-he-ita-early,Tertiary Gun,4
+pc-jean-bart_1891,356-tt-hull_x5,,,
+pc-jean-bart_1891,placeholder_torpedo,,,
+pc-jean-bart_1897,165-cp-m1887_x4,165-ap-fra-1887,Primary Gun,1
+pc-jean-bart_1897,139-cp-m1884_x6,139-he-fra-1884,Primary Gun,2
+pc-jean-bart_1897,47-p-m1885_x6-alt-2,47-he-fra-1885,Tertiary Gun,3
+pc-jean-bart_1897,37-p-revolver_x6-fore,37-he-ita-early,Tertiary Gun,4
+pc-jean-bart_1897,37-p-m1884_x8,37-he-ita-early,Tertiary Gun,4
+pc-jean-bart_1897,356-tt-hull_x3-stern,,,
+pc-jean-bart_1897,placeholder_torpedo,,,
+pc-jean-bart-1903,165-cp-m1887_x4,165-ap-fra-1887,Primary Gun,1
+pc-jean-bart-1903,139-cp-m1884_x6,139-he-fra-1884,Primary Gun,2
+pc-jean-bart-1903,47-p-m1885_x10-alt,47-he-fra-1885,Tertiary Gun,3
+pc-jean-bart-1903,37-p-m1884_x4,37-he-ita-early,Tertiary Gun,4
+pc-jean-bart-1903,356-tt-hull_x3-stern,,,
+pc-jean-bart-1903,placeholder_torpedo,,,
+pc-jean-bart_isly-1897,165-cp-m1887_x4,165-ap-fra-1887,Primary Gun,1
+pc-jean-bart_isly-1897,139-cp-m1884_x6,139-he-fra-1884,Primary Gun,2
+pc-jean-bart_isly-1897,47-p-m1885_x6-alt-2,47-he-fra-1885,Tertiary Gun,3
+pc-jean-bart_isly-1897,37-p-revolver_x6-fore,37-he-ita-early,Tertiary Gun,4
+pc-jean-bart_isly-1897,37-p-m1884_x4,37-he-ita-early,Tertiary Gun,4
+pc-jean-bart_isly-1897,356-tt-hull_x2-side,,,
+pc-jean-bart_isly-1897,placeholder_torpedo,,,
+pc-jean-bart_isly-1909,165-cp-m1887_x4,165-ap-fra-1887,Primary Gun,1
+pc-jean-bart_isly-1909,139-cp-m1884_x6,139-he-fra-1884,Primary Gun,2
+pc-jean-bart_isly-1909,47-p-m1885_x12,47-he-fra-1885,Tertiary Gun,3
+pc-jean-bart_isly-1909,356-tt-hull_x2-side,,,
+pc-jean-bart_isly-1909,placeholder_torpedo,,,
+pc-alger,165-cp-m1881_x4,165-ap-fra-1881,Primary Gun,1
+pc-alger,139-cp-m1881_x6-alt,139-he-fra-1881,Primary Gun,2
+pc-alger,47-p-m1885_x12,47-he-fra-1885,Tertiary Gun,3
+pc-alger,37-p-revolver_x8-alt-3,37-he-ita-early,Tertiary Gun,4
+pc-alger,356-tt-hull_x5,,,
+pc-alger,placeholder_torpedo,,,
+pc-alger_1893,165-cp-m1887_x4,165-ap-fra-1887,Primary Gun,1
+pc-alger_1893,139-cp-m1884_x6,139-he-fra-1884,Primary Gun,2
+pc-alger_1893,47-p-m1885_x12,47-he-fra-1885,Tertiary Gun,3
+pc-alger_1893,37-p-revolver_x8-alt-3,37-he-ita-early,Tertiary Gun,4
+pc-alger_1893,356-tt-hull_x5,,,
+pc-alger_1893,placeholder_torpedo,,,
+pc-alger_1897,165-cp-m1887_x4,165-ap-fra-1887,Primary Gun,1
+pc-alger_1897,139-cp-m1884_x6,139-he-fra-1884,Primary Gun,2
+pc-alger_1897,47-p-m1885_x12,47-he-fra-1885,Tertiary Gun,3
+pc-alger_1897,37-p-revolver_x8-alt-3,37-he-ita-early,Tertiary Gun,4
+pc-alger_1897,356-tt-hull_x2-side,,,
+pc-alger_1897,placeholder_torpedo,,,
+pc-alger_1900,165-cp-m1887_x4,165-ap-fra-1887,Primary Gun,1
+pc-alger_1900,139-cp-m1884_x6,139-he-fra-1884,Primary Gun,2
+pc-alger_1900,47-p-m1885_x10-alt,47-he-fra-1885,Tertiary Gun,3
+pc-alger_1900,356-tt-hull_x2-side,,,
+pc-alger_1900,placeholder_torpedo,,,
+pc-alger_1903,165-cp-m1887_x4,165-ap-fra-1887,Primary Gun,1
+pc-alger_1903,139-cp-m1884_x6,139-he-fra-1884,Primary Gun,2
+pc-alger_1903,47-p-m1885_x10-alt,47-he-fra-1885,Tertiary Gun,3
+pc-friant,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-friant,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-friant,47-p-m1885_x8-wings,47-he-fra-1885,Tertiary Gun,3
+pc-friant,37-p-m1884_x8-side,37-he-ita-early,Tertiary Gun,4
+pc-friant,356-tt-hull_x2-side,,,
+pc-friant,placeholder_torpedo,,,
+pc-friant_1897,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-friant_1897,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-friant_1897,47-p-m1885_x8-wings,47-he-fra-1885,Tertiary Gun,3
+pc-friant_1897,356-tt-hull_x2-side,,,
+pc-friant_1897,placeholder_torpedo,,,
+pc-friant_1907,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-friant_1907,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-friant_1907,47-p-m1885_x8-wings,47-he-fra-1885,Tertiary Gun,3
+pc-friant_laubat-1900,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-friant_laubat-1900,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-friant_laubat-1900,47-p-m1885_x6,47-he-fra-1885,Tertiary Gun,3
+pc-friant_laubat-1900,37-p-m1884_x4-sides,37-he-ita-early,Tertiary Gun,4
+pc-friant_laubat-1900,356-tt-hull_x2-side,,,
+pc-friant_laubat-1900,placeholder_torpedo,,,
+pc-friant_laubat-1907,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-friant_laubat-1907,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-friant_laubat-1907,47-p-m1885_x6,47-he-fra-1885,Tertiary Gun,3
+pc-friant_laubat-1907,37-p-m1884_x4-sides,37-he-ita-early,Tertiary Gun,4
+pc-linois,139-gs-model-1893_x4,139-ap-fra-1888,Primary Gun,1
+pc-linois,100-gs-m1891_x2-f-a,100-he-fra-1891,Primary Gun,2
+pc-linois,47-p-m1885_x8-wings,47-he-fra-1885,Tertiary Gun,3
+pc-linois,37-p-revolver_x4,37-he-ita-early,Tertiary Gun,4
+pc-linois,37-p-m1884_x2-aft,37-he-ita-early,Tertiary Gun,4
+pc-linois,450-tt-hull_x4-side,,,
+pc-linois,placeholder_torpedo,,,
+pc-linois,placeholder_mines,,,
+pc-linois_1900,139-gs-model-1893_x4,139-ap-fra-1888,Primary Gun,1
+pc-linois_1900,100-gs-m1891_x2-f-a,100-he-fra-1891,Primary Gun,2
+pc-linois_1900,47-p-m1885_x10-alt-2,47-he-fra-1885,Tertiary Gun,3
+pc-linois_1900,450-tt-hull_x4-side,,,
+pc-linois_1900,placeholder_torpedo,,,
+pc-linois_1900,placeholder_mines,,,
+pc-descartes,165-gs-m1891_x4,165-ap-fra-1887,Primary Gun,1
+pc-descartes,100-gs-m1891_x10,100-he-fra-1891,Primary Gun,2
+pc-descartes,47-p-m1885_x8-alt,47-he-fra-1885,Tertiary Gun,3
+pc-descartes,37-p-m1884_x4,37-he-ita-early,Tertiary Gun,4
+pc-descartes,356-tt-hull_x2-side,,,
+pc-descartes,placeholder_torpedo,,,
+pc-d-assas,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-d-assas,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-d-assas,47-p-m1885_x10,47-he-fra-1885,Tertiary Gun,3
+pc-d-assas,37-p-revolver_x4,37-he-ita-early,Tertiary Gun,4
+pc-d-assas,37-p-m1884_x2-aft,37-he-ita-early,Tertiary Gun,4
+pc-d-assas,450-tt-hull_x2-side,,,
+pc-d-assas,placeholder_torpedo,,,
+pc-d-assas_1902,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-d-assas_1902,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-d-assas_1902,47-p-m1885_x10,47-he-fra-1885,Tertiary Gun,3
+pc-d-assas_1902,37-p-m1884_x2-aft,37-he-ita-early,Tertiary Gun,4
+pc-d-assas_1902,450-tt-hull_x2-side,,,
+pc-d-assas_1902,placeholder_torpedo,,,
+pc-d-assas_1906,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-d-assas_1906,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-d-assas_1906,47-p-m1885_x10,47-he-fra-1885,Tertiary Gun,3
+pc-d-assas_1906,37-p-m1884_x2-aft,37-he-ita-early,Tertiary Gun,4
+pc-d-assas_cassard-1917,165-gs-m1891_x2-f-a,165-ap-fra-1887,Primary Gun,1
+pc-d-assas_cassard-1917,90-p-m1877_x4,90-he-fra-1877,Primary Gun,2
+pc-d-assas_chayla-1917,165-gs-m1891_x6,165-ap-fra-1887,Primary Gun,1
+pc-d-assas_chayla-1917,47-p-m1885_x10,47-he-fra-1885,Tertiary Gun,2
+pc-d-assas_chayla-1917,37-p-m1884_x2-aft,37-he-ita-early,Tertiary Gun,3
+pc-d-assas_chayla-1918,165-gs-m1891_x2-f-a,165-ap-fra-1887,Primary Gun,1
+pc-d-assas_chayla-1918,75-p-m1897_x4,75-he-fra-1897,Primary Gun,2
+pc-d-assas_chayla-1918,47-p-m1885_x4,47-he-fra-1885,Tertiary Gun,3
+pc-d-assas_cassard-1919,165-gs-m1891_x2-f-a,165-ap-fra-1887,Primary Gun,1
+pc-d-assas_cassard-1919,90-p-m1877_x4,90-he-fra-1877,Primary Gun,2
+pc-d-assas_cassard-1919,47-p-m1885_x2-fore-2,47-he-fra-1885,Tertiary Gun,3
+pc-d-assas_chayla-1919,165-gs-m1891_x2-f-a,165-ap-fra-1887,Primary Gun,1
+pc-d-assas_chayla-1919,75-p-m1897_x4,75-he-fra-1897,Primary Gun,2
+pc-d-assas_chayla-1919,47-p-m1885_x2-fore-2,47-he-fra-1885,Tertiary Gun,3
+pc-d-assas_cassard-1921,165-gs-m1891_x2-aft,165-ap-fra-1887,Primary Gun,1
+pc-d-assas_cassard-1921,139-gs-model-1893_fore,139-ap-fra-1888,Primary Gun,2
+pc-d-assas_cassard-1921,90-p-m1877_x2-fore,90-he-fra-1877,Primary Gun,3
+pc-d-assas_cassard-1921,75-p-m1897_x2-aft,75-he-fra-1897,Primary Gun,4
+pc-d-assas_cassard-1921,47-p-m1885_x2-fore-2,47-he-fra-1885,Tertiary Gun,5
+pc-catinat,165-gs-m1891_x4,165-ap-fra-1887,Primary Gun,1
+pc-catinat,100-gs-m1891_x10,100-he-fra-1891,Primary Gun,2
+pc-catinat,47-p-m1885_x10-alt-3,47-he-fra-1885,Tertiary Gun,3
+pc-catinat,37-p-m1884_x4-aft,37-he-ita-early,Tertiary Gun,4
+pc-catinat,450-tt-hull_x2-side,,,
+pc-catinat,placeholder_torpedo,,,
+pc-catinat,placeholder_mines,,,
+pc-d-entrecasteaux,240-ag-m1893-96_ay,240-ap-fra-1893,Primary Gun,1
+pc-d-entrecasteaux,139-c-model-1891_x8,139-ap-fra-1888,Primary Gun,2
+pc-d-entrecasteaux,139-gs-model-1893_x4,139-ap-fra-1888,Primary Gun,2
+pc-d-entrecasteaux,47-p-m1885_x12-alt,47-he-fra-1885,Tertiary Gun,3
+pc-d-entrecasteaux,37-p-m1884_x6-alt-2,37-he-ita-early,Tertiary Gun,4
+pc-d-entrecasteaux,450-tt-hull_x4-side,,,
+pc-d-entrecasteaux,placeholder_torpedo,,,
+pc-d-entrecasteaux_1910,240-ag-m1893-96_ay,240-ap-fra-1893,Primary Gun,1
+pc-d-entrecasteaux_1910,139-c-model-1891_x8,139-ap-fra-1888,Primary Gun,2
+pc-d-entrecasteaux_1910,139-gs-model-1893_x4,139-ap-fra-1888,Primary Gun,2
+pc-d-entrecasteaux_1910,47-p-m1885_x12-alt,47-he-fra-1885,Tertiary Gun,3
+pc-d-entrecasteaux_1910,37-p-m1884_x6-alt-2,37-he-ita-early,Tertiary Gun,4
+pc-guichen,165-gs-m1893-1896_ay,165-apc-fra-1896,Primary Gun,1
+pc-guichen,139-gs-model-1893_x6,139-ap-fra-1888,Primary Gun,2
+pc-guichen,47-p-m1885_x10-alt-4,47-he-fra-1885,Tertiary Gun,3
+pc-guichen,37-p-m1884_x4-sides,37-he-ita-early,Tertiary Gun,4
+pc-guichen,450-tt-hull_x2-side,,,
+pc-guichen,placeholder_torpedo,,,
+pc-chateaurenault,165-gs-m1893-1896_ay,165-apc-fra-1896,Primary Gun,1
+pc-chateaurenault,139-gs-model-1893_x6,139-ap-fra-1888,Primary Gun,2
+pc-chateaurenault,47-p-m1885_x10-alt-4,47-he-fra-1885,Tertiary Gun,3
+pc-chateaurenault,37-p-m1884_x4-sides,37-he-ita-early,Tertiary Gun,4
+pc-d-estrees,139-gs-model-1893_ay,139-ap-fra-1888,Primary Gun,1
+pc-d-estrees,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+pc-d-estrees,47-p-m1885_x8,47-he-fra-1885,Tertiary Gun,3
+pc-d-estrees,37-p-m1884_x2-mast,37-he-ita-early,Tertiary Gun,4
+pc-d-estrees,placeholder_mines,,,
+pc-jurien-de-la-graviere,165-gs-m1893-1896_x6,165-apc-fra-1896,Primary Gun,1
+pc-jurien-de-la-graviere,47-p-m1885_x10-alt-4,47-he-fra-1885,Tertiary Gun,2
+pc-jurien-de-la-graviere,37-p-m1884_x6-alt,37-he-ita-early,Tertiary Gun,3
+pc-jurien-de-la-graviere,450-tt-hull_x2-side,,,
+pc-jurien-de-la-graviere,placeholder_torpedo,,,

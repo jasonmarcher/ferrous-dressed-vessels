@@ -223,8 +223,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-m1930-dp,152mm/55 Model 1930 DP,French 152mm,france,1930-01-01,152,55,7780,6.5,6,Breech,870,870,400,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-bg-p1892,"6""/45 Pattern 1892",Canet 152mm,france,1892-01-01,152,45,6000,7,7,Breech,793,0,200,http://www.navweaps.com/Weapons/WNRussian_6-45_m1892.php
 139-bg-model-1888,139mm/45 Model 1888,French 139mm,france,1888-01-01,138.6,45,4100,5,4,Breech,725,0,,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
+139-bg-m1884,139mm/30 Model 1884,French 138mm,france,1884-01-01,138.6,30,3250,5,4,Breech,590,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
 139-bg-m1881,139mm/30 Model 1881,French 138mm,france,1881-01-01,138.6,30,3260,1,1,Breech,590,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
-139-bg-m1884,139mm/30 Model 1884,French 138mm,france,1884-01-01,138.6,29.9,3250,5,4,Breech,590,0,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
 139-bg-m1870,139mm/21 Model 1870,French 139mm,france,1870-01-01,138.6,21,2690,1,1,Breech,466,0,,https://en.wikipedia.org/wiki/Colbert-class_ironclad#Armament
 139-bg-m1910,139mm/55 Model 1910,French 138.6mm,france,1910-01-01,138.6,55,5300,6,5,Breech,830,0,275,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
 130-bg-m1932,130mm/45 Model 1932,French 130mm,france,1932-01-01,130,45,3810,12,10,Breech,800,0,400,http://www.navweaps.com/Weapons/WNFR_51-45_m1932.php
@@ -236,6 +236,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 100-bg-m1930,100mm/45 Model 1930,French 100mm,france,1930-01-01,100,45,1620,12,10,Breech,765,780,300,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-bg-m1891,100mm/45 Model 1891,Schneider et Cie 100mm,france,1891-01-01,100,45,1700,10,10,Breech,703,0,,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
 100-bg-m1881,100mm/26 Model 1881,French 100mm,france,1881-01-01,100,26,1200,,,Breech,,0,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
+90-bg-m1877,90mm/23 De Bange Model 1877,de Bange 90mm,france,1877-01-01,90,22.9,1200,2,2,Breech,500,0,,https://en.wikipedia.org/wiki/De_Bange_90_mm_cannon
 90-bg-m1881,90mm/22 Model 1881,French 90mm,france,1881-01-01,90,22.1,540,,,Breech,,0,,
 75-bg-m1908,75mm/62.5 Model 1908,French 75mm,france,1908-01-01,75,62.5,1450,15,7,Breech,850,0,,http://www.navweaps.com/Weapons/WNFR_3-62_m1908.php
 75-bg-m1922,75mm/50 Model 1922,French 75mm,france,1922-01-01,75,50,1070,12,8,Breech,850,850,,http://www.navweaps.com/Weapons/WNFR_3-50_m1922.php
