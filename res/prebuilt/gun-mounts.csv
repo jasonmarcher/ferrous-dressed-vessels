@@ -177,6 +177,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 420-bar-m1875,240,420mm/22 Model 1875,france,Barbette,420-bg-m1875,1,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 240-ag-m1902,240,240mm/50 Model 1902,france,Armored Gunhouse,240-bg-m1902,2,13,http://www.navweaps.com/Weapons/WNFR_94-50_m1902.php
 240-cp-m1893-96,240,240mm/40 Model 1893-96,france,Central Pivot,240-bg-m1893-96,1,,
+240-ag-m1893-96,240,240mm/40 Model 1893-96,france,Armored Gunhouse,240-bg-m1893-96,1,,
 240-c-m1884,240,240mm/30 Model 1884,france,Pivot (Casement),240-bg-m1884,1,,
 240-piv-m1870,240,240mm/19 Model 1870,france,Pivot,240-bg-m1870,1,,https://en.wikipedia.org/wiki/French_ironclad_Trident#Armament
 240-c-m1870,240,240mm/19 Model 1870,france,Pivot (Casement),240-bg-m1870,1,,https://en.wikipedia.org/wiki/French_ironclad_Trident#Armament
@@ -298,13 +299,17 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 165-car-ml-m1858-60,165,165mm/ Model 1858-60,france,Carriage,165-ml-m1858-60,1,,https://en.wikipedia.org/wiki/Provence-class_ironclad#Armament_and_protection
 165-c-fra-unknown,165,165mm/ Unknown Model,france,Pivot (Casement),165-fra-unknown,1,,https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ironclad#Armament
 165-ag-m1893-1896-twin,165,165mm/45 Model 1893-1896 Twin Turret,france,Armored Gunhouse,165-bg-m1893-1896,2,25,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
+165-gs-m1893-1896,165,165mm/45 Model 1893-1896 Casement,france,Central Pivot (Gun Shield),165-bg-m1893-1896,1,25,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
 165-c-m1893-1896,165,165mm/45 Model 1893-1896 Casement,france,Central Pivot (Casement),165-bg-m1893-1896,1,25,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
 165-ag-m1893-1896-single,165,165mm/45 Model 1893-1896 Single Turret,france,Armored Gunhouse,165-bg-m1893-1896,1,25,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
+165-gs-m1891,165,165mm/45 Model 1891,france,Central Pivot (Gun Shield),165-bg-m1891,1,25,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
 165-ct-m1891,165,165mm/45 Model 1891,france,Coles Turret,165-bg-m1891,1,25,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
 165-c-m1891,165,165mm/45 Model 1891,france,Central Pivot (Casement),165-bg-m1891,1,25,http://www.navweaps.com/Weapons/WNFR_65-45_m1893.php
 165-ct-m1887,165,165mm/45 Model 1887,france,Coles Turret,165-bg-m1887,1,,
+165-cp-m1887,165,165mm/45 Model 1887,france,Central Pivot,165-bg-m1887,1,,
 165-c-m1887,165,165mm/45 Model 1887,france,Central Pivot (Casement),165-bg-m1887,1,,
 165-piv-m1884,165,165mm/30 Model 1884,france,Pivot,165-bg-m1884,1,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
+165-cp-m1884,165,165mm/30 Model 1884,france,Central Pivot (Gun Shield),165-bg-m1884,1,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
 165-c-m1884,165,165mm/30 Model 1884,france,Central Pivot (Casement),165-bg-m1884,1,,https://en.wikipedia.org/wiki/Amiral_Baudin-class_ironclad#Armament_and_armor
 165-piv-m1881,165,165mm/28 Model 1881,france,Pivot,165-bg-m1881,1,15,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
 165-cp-m1881,165,165mm/28 Model 1881,france,Central Pivot,165-bg-m1881,1,15,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
@@ -423,11 +428,14 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 139-ag-model-1887,139,139mm/45 Model 1887,france,Armored Gunhouse,139-bg-model-1888,2,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-gs-model-1893,139,139mm/45 Model 1893,france,Central Pivot (Gun Shield),139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-ct-model-1893,139,139mm/45 Model 1893,france,Coles Turret,139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
+139-cp-model-1891,139,139mm/45 Model 1891,france,Pedestal (Gun Shield),139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-c-model-1891,139,139mm/45 Model 1891,france,Pedestal (Casement),139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-ag-model-1893,139,139mm/45 Model 1893,france,Armored Gunhouse,139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-c-m1910,139,138.6mm/55 Model 1910,france,Pedestal (Casement),139-bg-m1910,1,15,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
 139-piv-m1884,139,139mm/30 Model 1884,france,Pivot,139-bg-m1884,1,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
+139-cp-m1884,139,139mm/30 Model 1884,france,Central Pivot,139-bg-m1884,1,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
 139-piv-m1881,139,139mm/30 Model 1881,france,Pivot,139-bg-m1881,1,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
+139-cp-m1881,139,139mm/30 Model 1881,france,Central Pivot,139-bg-m1881,1,,https://en.wikipedia.org/wiki/French_ironclad_Hoche#Characteristics
 139-piv-m1870,139,139mm/21 Model 1870,france,Pivot,139-bg-m1870,1,,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
 139-c-m1870,139,139mm/21 Model 1870,france,Pivot (Casement),139-bg-m1870,1,,https://en.wikipedia.org/wiki/French_ironclad_Amiral_Duperr%C3%A9#Characteristics
 135-ag-m1937-tripple,135,135mm/45 Model 1937,italy,Armored Gunhouse,135-bg-m1937,3,45,http://www.navweaps.com/Weapons/WNIT_53-45_m1938.php#Mount%2FTurret_Data
@@ -550,6 +558,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 95-piv-rbl-20pdr-16cwt,95,95mm/21 RBL 20-pdr 16 cwt,britain,Pivot,95-bg-rbl-20pdr-16cwt,1,16,https://en.wikipedia.org/wiki/RBL_20-pounder_Armstrong_gun
 90-ag-m1938,90,90mm/50 Model 1938,italy,Armored Gunhouse,90-bg-m1938,1,75,http://www.navweaps.com/Weapons/WNIT_35-50_m1939.php
 90-p-m1881,90,90mm/22 Model 1881,france,Pedestal,90-bg-m1881,1,,
+90-p-m1877,90,90mm/23 De Bange Model 1877,france,Pedestal,90-bg-m1877,1,35,https://en.wikipedia.org/wiki/De_Bange_90_mm_cannon
 89-piv-l25-krupp,89,9cm/24 L/25 Krupp,germany,Pivot,89-bg-l25-krupp,1,,http://navalhistory.flixco.info/H/291319x53535/8330/a0.htm
 88-cp-mpl-c06,88,8.8cm/45 MPL C/06,germany,Pedestal (Gun Shield),88-bg-sk-l45,1,25,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-c-mpl-c01,88,8.8cm/45 MPL C/01,germany,Pedestal (Casement),88-bg-sk-l45,1,25,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
@@ -611,7 +620,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 75-cp-m1922,75,75mm/50 Model 1922,france,Central Pivot,75-bg-m1922,1,90,http://www.navweaps.com/Weapons/WNFR_3-50_m1922.php
 75-cp-m1918,75,75mm/36 Model 1918 AA,france,Pedestal,75-bg-m1918,1,70,https://en.wikipedia.org/wiki/Canon_de_75_mod%C3%A8le_1897
 75-c-m1908,75,75mm/62.5 Model 1908,france,Pedestal (Casement),75-bg-m1908,1,25,http://www.navweaps.com/Weapons/WNFR_3-62_m1908.php
-75-cp-m1897,75,75mm/36 Model 1897 G,france,Pedestal,75-bg-m1897,1,70,https://en.wikipedia.org/wiki/Canon_de_75_mod%C3%A8le_1897
+75-p-m1897,75,75mm/36 Model 1897 G,france,Pedestal,75-bg-m1897,1,70,https://en.wikipedia.org/wiki/Canon_de_75_mod%C3%A8le_1897
 66-p-sfk-l45,66,7cm/42 SFK L/45,ahn,Pedestal,66-bg-sfk-l45,1,20,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
 66-p-l18-aa,66,7cm/16 L/18 AA,ahn,Pedestal,66-bg-l18,1,90,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
 66-p-l18,66,7cm/16 L/18,ahn,Pedestal,66-bg-l18,1,20,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
