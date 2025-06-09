@@ -3408,12 +3408,12 @@ bb-bretagne_1931,47-p-m1902-la_x5-turret-top,47-he-fra-1902,Landing Gun,4
 bb-bretagne_1931,placeholder_searchlight,,,
 bb-bretagne_1931-2,340-ag-m1912-double-1924_abqxy,340-apc-m1912,Primary Gun,1
 bb-bretagne_1931-2,139-c-m1910_x14,139-sap-fra-1910,Secondary Gun,2
-bb-bretagne_1931-2,75-cp-m1922-s_x8,75-he-fra-1897,AA Battery,3
+bb-bretagne_1931-2,75-gs-m1922_x8,75-he-fra-1897,AA Battery,3
 bb-bretagne_1931-2,47-p-m1902-la_x5-turret-top,47-he-fra-1902,Landing Gun,4
 bb-bretagne_1931-2,placeholder_searchlight,,,
 bb-bretagne_lorraine-1932,340-ag-m1912-double-1924_abqxy,340-apc-m1912,Primary Gun,1
 bb-bretagne_lorraine-1932,139-c-m1910_x18,139-sap-fra-1910,Secondary Gun,2
-bb-bretagne_lorraine-1932,75-cp-m1922-s_x8,75-he-fra-1922,AA Battery,3
+bb-bretagne_lorraine-1932,75-gs-m1922_x8,75-he-fra-1922,AA Battery,3
 bb-bretagne_lorraine-1932,47-p-m1902-la_x5-turret-top,47-he-fra-1902,Landing Gun,4
 bb-bretagne_lorraine-1932,450-tt-hull_x4-side,,,
 bb-bretagne_lorraine-1932,placeholder_torpedo,,,
@@ -3425,12 +3425,12 @@ bb-bretagne_lorraine-1934,47-p-m1902-la_x5-turret-top,47-he-fra-1902,Landing Gun
 bb-bretagne_lorraine-1934,placeholder_searchlight,,,
 bb-bretagne_lorraine-1940,340-ag-m1912-double-1924_abxy,340-apc-m1912,Primary Gun,1
 bb-bretagne_lorraine-1940,139-c-m1910_x14,139-sap-fra-1910,Secondary Gun,2
-bb-bretagne_lorraine-1940,75-cp-m1922-s_x8,75-he-fra-1922,AA Battery,3
+bb-bretagne_lorraine-1940,75-gs-m1922_x8,75-he-fra-1922,AA Battery,3
 bb-bretagne_lorraine-1940,47-p-m1902-la_x5-turret-top,47-he-fra-1902,Landing Gun,4
 bb-bretagne_lorraine-1940,placeholder_searchlight,,,
 bb-bretagne_lorraine-1944,340-ag-m1912-double-1924_abxy,340-apc-m1912,Primary Gun,1
 bb-bretagne_lorraine-1944,139-c-m1910_x14,139-sap-fra-1910,Secondary Gun,2
-bb-bretagne_lorraine-1944,75-cp-m1922-s_x8,75-he-fra-1922,AA Battery,3
+bb-bretagne_lorraine-1944,75-gs-m1922_x8,75-he-fra-1922,AA Battery,3
 bb-bretagne_lorraine-1944,47-p-m1902-la_x5-turret-top,47-he-fra-1902,Landing Gun,4
 bb-bretagne_lorraine-1944,40-t-mk1_x14,40-he-mk1,AA Battery,5
 bb-bretagne_lorraine-1944,20-p-mk6_x25-lorraine,20-he-mk3,AA Battery,6
@@ -12482,7 +12482,7 @@ up-milan-1885_1888-12,47-p-m1885_x2-side,47-he-fra-1885,Tertiary Gun,2
 up-milan-1885_1888-12,37-p-revolver_x8-sponson,37-he-ita-early,Tertiary Gun,3
 up-milan-1885_1888-12,placeholder_mines,,,
 up-milan-1885_1890,100-cp-m1881_f-a,100-ap-fra-1881,Primary Gun,1
-up-milan-1885_1890,47-p-m1885_x10,47-he-fra-1885,Tertiary Gun,2
+up-milan-1885_1890,47-p-m1885_x10-milan,47-he-fra-1885,Tertiary Gun,2
 up-milan-1885_1890,37-p-m1885_x2,37-he-ita-early,Tertiary Gun,3
 up-milan-1885_1890,placeholder_mines,,,
 up-inconstant-1887,139-piv-m1884_x3,139-he-fra-1884,Primary Gun,1
@@ -12810,14 +12810,14 @@ pc-catinat,placeholder_mines,,,
 pc-d-entrecasteaux,240-ag-m1893-96_ay,240-ap-fra-1893,Primary Gun,1
 pc-d-entrecasteaux,139-c-model-1891_x8,139-ap-fra-1888,Primary Gun,2
 pc-d-entrecasteaux,139-gs-model-1893_x4,139-ap-fra-1888,Primary Gun,2
-pc-d-entrecasteaux,47-p-m1885_x12-alt,47-he-fra-1885,Tertiary Gun,3
+pc-d-entrecasteaux,47-p-m1885_x12-alt-2,47-he-fra-1885,Tertiary Gun,3
 pc-d-entrecasteaux,37-p-m1884_x6-alt-2,37-he-ita-early,Tertiary Gun,4
 pc-d-entrecasteaux,450-tt-hull_x4-side,,,
 pc-d-entrecasteaux,placeholder_torpedo,,,
 pc-d-entrecasteaux_1910,240-ag-m1893-96_ay,240-ap-fra-1893,Primary Gun,1
 pc-d-entrecasteaux_1910,139-c-model-1891_x8,139-ap-fra-1888,Primary Gun,2
 pc-d-entrecasteaux_1910,139-gs-model-1893_x4,139-ap-fra-1888,Primary Gun,2
-pc-d-entrecasteaux_1910,47-p-m1885_x12-alt,47-he-fra-1885,Tertiary Gun,3
+pc-d-entrecasteaux_1910,47-p-m1885_x12-alt-2,47-he-fra-1885,Tertiary Gun,3
 pc-d-entrecasteaux_1910,37-p-m1884_x6-alt-2,37-he-ita-early,Tertiary Gun,4
 pc-guichen,165-gs-m1893-1896_ay,165-apc-fra-1896,Primary Gun,1
 pc-guichen,139-gs-model-1893_x6,139-ap-fra-1888,Primary Gun,2
@@ -12839,3 +12839,272 @@ pc-jurien-de-la-graviere,47-p-m1885_x10-alt-4,47-he-fra-1885,Tertiary Gun,2
 pc-jurien-de-la-graviere,37-p-m1884_x6-alt,37-he-ita-early,Tertiary Gun,3
 pc-jurien-de-la-graviere,450-tt-hull_x2-side,,,
 pc-jurien-de-la-graviere,placeholder_torpedo,,,
+ac-dupuy-de-lome,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-dupuy-de-lome,165-ag-m1887_x6,165-ap-fra-1887,Primary Gun,2
+ac-dupuy-de-lome,65-p-m1888_x4-alt,65-he-9pdr-fra-1888,Secondary Gun,3
+ac-dupuy-de-lome,47-p-m1885_x8-mast,47-he-fra-1885,Tertiary Gun,4
+ac-dupuy-de-lome,37-p-revolver_x8-alt-4,37-he-ita-early,Tertiary Gun,5
+ac-dupuy-de-lome,450-tt-hull_x4-side,,,
+ac-dupuy-de-lome,placeholder_torpedo,,,
+ac-dupuy-de-lome-1902,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-dupuy-de-lome-1902,165-ag-m1887_x6,165-ap-fra-1887,Primary Gun,2
+ac-dupuy-de-lome-1902,65-p-m1888_x4-alt,65-he-9pdr-fra-1888,Secondary Gun,3
+ac-dupuy-de-lome-1902,47-p-m1885_x10-alt,47-he-fra-1885,Tertiary Gun,4
+ac-dupuy-de-lome-1902,450-tt-hull_x4-side,,,
+ac-dupuy-de-lome-1902,placeholder_torpedo,,,
+ac-amiral-charner,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-amiral-charner,139-ag-model-1893_x6,139-ap-fra-1888,Primary Gun,2
+ac-amiral-charner,65-p-m1888_x4-alt-2,65-he-9pdr-fra-1888,Secondary Gun,3
+ac-amiral-charner,47-p-m1885_x4-split,47-he-fra-1885,Tertiary Gun,4
+ac-amiral-charner,37-p-revolver_x8-alt-5,37-he-ita-early,Tertiary Gun,5
+ac-amiral-charner,450-tt-hull_x4-side,,,
+ac-amiral-charner,placeholder_torpedo,,,
+ac-amiral-charner_treville-1904,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-amiral-charner_treville-1904,139-ag-model-1893_x6,139-ap-fra-1888,Primary Gun,2
+ac-amiral-charner_treville-1904,65-p-m1888_x4-alt-2,65-he-9pdr-fra-1888,Secondary Gun,3
+ac-amiral-charner_treville-1904,47-p-m1885_x8,47-he-fra-1885,Tertiary Gun,4
+ac-amiral-charner_treville-1904,450-tt-hull_x4-side,,,
+ac-amiral-charner_treville-1904,placeholder_torpedo,,,
+ac-amiral-charner_treville-1907,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-amiral-charner_treville-1907,139-ag-model-1893_x6,139-ap-fra-1888,Primary Gun,2
+ac-amiral-charner_treville-1907,65-p-m1888_x4-alt-2,65-he-9pdr-fra-1888,Secondary Gun,3
+ac-amiral-charner_treville-1907,47-p-m1885_x8,47-he-fra-1885,Tertiary Gun,4
+ac-amiral-charner_1915,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-amiral-charner_1910,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-amiral-charner_1910,139-ag-model-1893_x6,139-ap-fra-1888,Primary Gun,2
+ac-amiral-charner_1910,65-p-m1888_x4-alt-2,65-he-9pdr-fra-1888,Secondary Gun,3
+ac-amiral-charner_1910,37-p-revolver_x2-aft-2,37-he-ita-early,Tertiary Gun,4
+ac-amiral-charner_1910,450-tt-hull_x4-side,,,
+ac-amiral-charner_1910,placeholder_torpedo,,,
+ac-amiral-charner_treville-1913,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-amiral-charner_treville-1913,139-ag-model-1893_x6,139-ap-fra-1888,Primary Gun,2
+ac-amiral-charner_treville-1913,65-p-m1888_x4-alt-2,65-he-9pdr-fra-1888,Secondary Gun,3
+ac-amiral-charner_1915,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-amiral-charner_1915,139-ag-model-1893_x6,139-ap-fra-1888,Primary Gun,2
+ac-amiral-charner_1915,75-cp-m1918_x1-aft,75-he-fra-1897,AA Battery,3
+ac-amiral-charner_1915,65-p-m1888_x4-alt-2,65-he-9pdr-fra-1888,Secondary Gun,4
+ac-amiral-charner_1915,450-tt-hull_x4-side,,,
+ac-amiral-charner_1915,placeholder_torpedo,,,
+ac-amiral-charner_treville-1915,194-ag-m1887_ay,194-apc-fra-1887,Primary Gun,1
+ac-amiral-charner_treville-1915,139-ag-model-1893_x6,139-ap-fra-1888,Primary Gun,2
+ac-amiral-charner_treville-1915,75-cp-m1918_x1-aft,75-he-fra-1897,AA Battery,3
+ac-amiral-charner_treville-1915,65-p-m1888_x4-alt-2,65-he-9pdr-fra-1888,Secondary Gun,4
+ac-pothuau,194-ag-m1893_ay,194-apc-fra-1887,Primary Gun,1
+ac-pothuau,139-c-model-1891_x8,139-ap-fra-1888,Primary Gun,2
+ac-pothuau,139-cp-model-1891_x2,139-ap-fra-1888,Primary Gun,2
+ac-pothuau,47-p-m1885_x10-alt,47-he-fra-1885,Tertiary Gun,3
+ac-pothuau,37-p-revolver_x8-alt-6,37-he-ita-early,Tertiary Gun,4
+ac-pothuau,450-tt-hull_x4-side,,,
+ac-pothuau,placeholder_torpedo,,,
+ac-pothuau_1919,139-c-model-1891_x8,139-ap-fra-1888,Primary Gun,1
+ac-pothuau_1919,139-cp-model-1891_x2,139-ap-fra-1888,Primary Gun,1
+ac-pothuau_1919,75-p-m1908_x2-f-a,75-he-fra-1908,AA Battery,2
+ac-pothuau_1919,47-p-m1885_x10-alt,47-he-fra-1885,Tertiary Gun,3
+ac-pothuau_1919,37-p-revolver_x8-alt-6,37-he-ita-early,Tertiary Gun,4
+ac-pothuau_1919,450-tt-hull_x4-side,,,
+ac-pothuau_1919,placeholder_torpedo,,,
+ac-jeanne-d-arc,194-ag-m1893_ay,194-apc-fra-1887,Primary Gun,1
+ac-jeanne-d-arc,139-cp-model-1891_x14,139-ap-fra-1888,Primary Gun,2
+ac-jeanne-d-arc,47-p-m1885_x16-alt,47-he-fra-1885,Tertiary Gun,3
+ac-jeanne-d-arc,450-tt-hull_x2-side,,,
+ac-jeanne-d-arc,placeholder_torpedo,,,
+ac-gueydon,194-ag-m1896_ay,194-apc-fra-1887,Primary Gun,1
+ac-gueydon,165-c-m1893-1896_x8-alt,165-apc-fra-1896,Primary Gun,2
+ac-gueydon,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,3
+ac-gueydon,47-p-m1885_x10-alt-5,47-he-fra-1885,Tertiary Gun,4
+ac-gueydon,450-tt-hull_x2-side,,,
+ac-gueydon,placeholder_torpedo,,,
+ac-dupleix,165-ag-m1893-1896-twin_x4,165-apc-fra-1896,Primary Gun,1
+ac-dupleix,100-gs-m1891_x4,100-he-fra-1891,Primary Gun,2
+ac-dupleix,47-p-m1885_x10-alt-6,47-he-fra-1885,Tertiary Gun,3
+ac-dupleix,450-tt-hull_x2-side,,,
+ac-dupleix,placeholder_torpedo,,,
+ac-dupleix_1917,165-ag-m1893-1896-twin_x4,165-apc-fra-1896,Primary Gun,1
+ac-dupleix_1917,47-p-m1885_x10-alt-6,47-he-fra-1885,Tertiary Gun,2
+ac-dupleix_1917,47-p-m1902-ha_x2-aft,47-he-fra-1902,AA Battery,2
+ac-dupleix_1917,450-tt-hull_x2-side,,,
+ac-dupleix_1917,placeholder_torpedo,,,
+ac-gloire,194-ag-m1896_ay,194-apc-fra-1887,Primary Gun,1
+ac-gloire,165-ag-m1893-1896-single_x4-side,165-apc-fra-1896,Primary Gun,2
+ac-gloire,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-gloire,100-gs-m1891_x6,100-he-fra-1891,Primary Gun,3
+ac-gloire,47-p-m1885_x12-alt-3,47-he-fra-1885,Tertiary Gun,4
+ac-gloire,37-p-m1884_x4-aft,37-he-ita-early,Tertiary Gun,5
+ac-gloire,450-tt-hull_x5-aft,,,
+ac-gloire,placeholder_torpedo,,,
+ac-leon-gambetta,194-ag-m1896_ay,194-apc-fra-1887,Primary Gun,1
+ac-leon-gambetta,165-ag-m1893-1896-twin_x6,165-apc-fra-1896,Primary Gun,2
+ac-leon-gambetta,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-leon-gambetta,47-p-m1885_x24,47-he-fra-1885,Tertiary Gun,3
+ac-leon-gambetta,450-tt-hull_x5-aft,,,
+ac-leon-gambetta,placeholder_torpedo,,,
+ac-leon-gambetta,placeholder_mines,,,
+ac-leon-gambetta_victor-hugo,194-ag-m1896_ay,194-apc-fra-1887,Primary Gun,1
+ac-leon-gambetta_victor-hugo,165-ag-m1893-1896-twin_x6,165-apc-fra-1896,Primary Gun,2
+ac-leon-gambetta_victor-hugo,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-leon-gambetta_victor-hugo,47-p-m1902-la_x24,47-he-fra-1902,Tertiary Gun,3
+ac-leon-gambetta_victor-hugo,450-tt-hull_x5-aft,,,
+ac-leon-gambetta_victor-hugo,placeholder_torpedo,,,
+ac-leon-gambetta_victor-hugo,placeholder_mines,,,
+ac-leon-gambetta_jules-ferry-1916,194-ag-m1896_ay,194-apc-fra-1887,Primary Gun,1
+ac-leon-gambetta_jules-ferry-1916,165-ag-m1893-1896-twin_x6,165-apc-fra-1896,Primary Gun,2
+ac-leon-gambetta_jules-ferry-1916,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-leon-gambetta_jules-ferry-1916,47-p-m1885_x18-alt,47-he-fra-1885,Tertiary Gun,3
+ac-leon-gambetta_jules-ferry-1916,47-p-m1902-ha_x4-aft,47-he-fra-1902,AA Battery,3
+ac-leon-gambetta_jules-ferry-1916,450-tt-hull_x5-aft,,,
+ac-leon-gambetta_jules-ferry-1916,placeholder_torpedo,,,
+ac-leon-gambetta_jules-ferry-1916,placeholder_mines,,,
+ac-leon-gambetta_victor-hugo-1916,194-ag-m1896_ay,194-apc-fra-1887,Primary Gun,1
+ac-leon-gambetta_victor-hugo-1916,165-ag-m1893-1896-twin_x6,165-apc-fra-1896,Primary Gun,2
+ac-leon-gambetta_victor-hugo-1916,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-leon-gambetta_victor-hugo-1916,47-p-m1902-la_x18,47-he-fra-1902,Tertiary Gun,3
+ac-leon-gambetta_victor-hugo-1916,47-p-m1902-ha_x4-aft,47-he-fra-1902,AA Battery,3
+ac-leon-gambetta_victor-hugo-1916,450-tt-hull_x5-aft,,,
+ac-leon-gambetta_victor-hugo-1916,placeholder_torpedo,,,
+ac-leon-gambetta_victor-hugo-1916,placeholder_mines,,,
+ac-jules-michelet,194-ag-m1904-twin_ay,194-apc-fra-1902,Primary Gun,1
+ac-jules-michelet,165-ag-m1893-1896-single_x8,165-apc-fra-1896,Primary Gun,2
+ac-jules-michelet,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-jules-michelet,47-p-m1902-la_x24-alt,47-he-fra-1902,Tertiary Gun,3
+ac-jules-michelet,450-tt-hull_x2-side,,,
+ac-jules-michelet,placeholder_torpedo,,,
+ac-jules-michelet,placeholder_mines,,,
+ac-jules-michelet_1916,194-ag-m1904-twin_ay,194-apc-fra-1902,Primary Gun,1
+ac-jules-michelet_1916,165-ag-m1893-1896-single_x8,165-apc-fra-1896,Primary Gun,2
+ac-jules-michelet_1916,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-jules-michelet_1916,47-p-m1902-la_x10-side,47-he-fra-1902,Tertiary Gun,3
+ac-jules-michelet_1916,47-p-m1902-ha_x4-aft,47-he-fra-1902,AA Battery,3
+ac-jules-michelet_1916,450-tt-hull_x2-side,,,
+ac-jules-michelet_1916,placeholder_torpedo,,,
+ac-jules-michelet_1916,placeholder_mines,,,
+ac-ernest-renan,194-ag-m1904-twin_ay,194-apc-fra-1902,Primary Gun,1
+ac-ernest-renan,165-ag-m1893-1896-single_x8,165-apc-fra-1896,Primary Gun,2
+ac-ernest-renan,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-ernest-renan,65-p-m1902_x16,65-he-9pdr-fra,Tertiary Gun,3
+ac-ernest-renan,47-p-m1902-la_x8-alt,47-he-fra-1902,Tertiary Gun,4
+ac-ernest-renan,450-tt-hull_x2-side,,,
+ac-ernest-renan,placeholder_torpedo,,,
+ac-ernest-renan,placeholder_mines,,,
+ac-ernest-renan_1916,194-ag-m1904-twin_ay,194-apc-fra-1902,Primary Gun,1
+ac-ernest-renan_1916,165-ag-m1893-1896-single_x8,165-apc-fra-1896,Primary Gun,2
+ac-ernest-renan_1916,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-ernest-renan_1916,65-p-m1902_x16,65-he-9pdr-fra,Tertiary Gun,3
+ac-ernest-renan_1916,47-p-m1902-la_x4-fore-alt,47-he-fra-1902,Tertiary Gun,4
+ac-ernest-renan_1916,47-p-m1902-ha_x4-aft,47-he-fra-1902,AA Battery,4
+ac-ernest-renan_1916,450-tt-hull_x2-side,,,
+ac-ernest-renan_1916,placeholder_torpedo,,,
+ac-ernest-renan_1916,placeholder_mines,,,
+ac-ernest-renan_1920,194-ag-m1904-twin_ay,194-apc-fra-1902,Primary Gun,1
+ac-ernest-renan_1920,165-ag-m1893-1896-single_x8,165-apc-fra-1896,Primary Gun,2
+ac-ernest-renan_1920,165-c-m1893-1896_x4,165-apc-fra-1896,Primary Gun,2
+ac-ernest-renan_1920,65-p-m1902_x16,65-he-9pdr-fra,Tertiary Gun,3
+ac-ernest-renan_1920,65-p-m1902-aa_x2,65-he-9pdr-fra,AA Battery,3
+ac-ernest-renan_1920,47-p-m1902-la_x4-fore-alt,47-he-fra-1902,Tertiary Gun,4
+ac-ernest-renan_1920,47-p-m1902-ha_x4-aft,47-he-fra-1902,AA Battery,4
+ac-ernest-renan_1920,450-tt-hull_x2-side,,,
+ac-ernest-renan_1920,placeholder_torpedo,,,
+ac-ernest-renan_1920,placeholder_mines,,,
+ac-edgar-quinet,194-ag-m1904-twin_ay,194-apc-fra-1902,Primary Gun,1
+ac-edgar-quinet,194-ag-m1904_x6,194-apc-fra-1902,Primary Gun,1
+ac-edgar-quinet,194-c-m1904_x4,194-apc-fra-1902,Primary Gun,1
+ac-edgar-quinet,65-p-m1902_x16-alt,65-he-9pdr-fra,Tertiary Gun,2
+ac-edgar-quinet,450-tt-hull_x2-side,,,
+ac-edgar-quinet,placeholder_torpedo,,,
+ac-edgar-quinet_1918,194-ag-m1904-twin_ay,194-apc-fra-1902,Primary Gun,1
+ac-edgar-quinet_1918,194-ag-m1904_x6,194-apc-fra-1902,Primary Gun,1
+ac-edgar-quinet_1918,194-c-m1904_x4,194-apc-fra-1902,Primary Gun,1
+ac-edgar-quinet_1918,75-p-m1908_x2,75-he-fra-1908,AA Battery,2
+ac-edgar-quinet_1918,65-p-m1902_x16-alt,65-he-9pdr-fra,Tertiary Gun,3
+ac-edgar-quinet_1918,65-p-m1902-aa_x2,65-he-9pdr-fra,AA Battery,3
+ac-edgar-quinet_1918,450-tt-hull_x2-side,,,
+ac-edgar-quinet_1918,placeholder_torpedo,,,
+ac-edgar-quinet_1925,194-ag-m1904-twin_ay,194-apc-fra-1902,Primary Gun,1
+ac-edgar-quinet_1925,194-ag-m1904_x6,194-apc-fra-1902,Primary Gun,1
+ca-duquesne,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-duquesne,75-gs-m1922_x8,75-he-fra-1922,Secondary Gun,2
+ca-duquesne,37-cp-m1925_x8,37-he-m1925,AA Battery,3
+ca-duquesne,550-tt-tripple_x2,,,
+ca-duquesne,placeholder_torpedo,,,
+ca-duquesne_1933,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-duquesne_1933,75-gs-m1922_x8,75-he-fra-1922,Secondary Gun,2
+ca-duquesne_1933,37-cp-m1925_x8-alt,37-he-m1925,AA Battery,3
+ca-duquesne_1933,13-cp-cad-m1929_x4-aft,13-b-fra,AA Battery,4
+ca-duquesne_1933,550-tt-tripple_x2,,,
+ca-duquesne_1933,placeholder_torpedo,,,
+ca-duquesne_1936,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-duquesne_1936,75-gs-m1922_x8,75-he-fra-1922,Secondary Gun,2
+ca-duquesne_1936,37-cp-m1925_x8-alt,37-he-m1925,AA Battery,3
+ca-duquesne_1936,13-gs-cad-m1929_x2-fore,13-b-fra,AA Battery,4
+ca-duquesne_1936,13-cp-cad-m1929_x4-aft,13-b-fra,AA Battery,4
+ca-duquesne_1936,550-tt-tripple_x2,,,
+ca-duquesne_1936,placeholder_torpedo,,,
+ca-duquesne_1940,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-duquesne_1940,75-gs-m1922_x8,75-he-fra-1922,Secondary Gun,2
+ca-duquesne_1940,37-cp-m1925_x8-alt,37-he-m1925,AA Battery,3
+ca-duquesne_1940,13-gs-cad-m1929_x6,13-b-fra,AA Battery,4
+ca-duquesne_1940,550-tt-tripple_x2,,,
+ca-duquesne_1940,placeholder_torpedo,,,
+ca-duquesne_1944,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-duquesne_1944,75-gs-m1922_x8-alt,75-he-fra-1922,Secondary Gun,2
+ca-duquesne_1944,40-t-mk3_x8,40-he-mk1,AA Battery,3
+ca-duquesne_1944,20-p-mk6_x20-duquesne,20-he-mk3,AA Battery,4
+ca-suffren,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-suffren,75-gs-m1922_x8,75-he-fra-1922,Secondary Gun,2
+ca-suffren,37-cp-m1925_x8,37-he-m1925,AA Battery,3
+ca-suffren,550-tt-tripple_x2,,,
+ca-suffren,placeholder_torpedo,,,
+ca-suffren_colbert,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-suffren_colbert,90-gs-m1926_x8,90-he-fra-1926,Secondary Gun,2
+ca-suffren_colbert,37-cp-m1925_x6,37-he-m1925,AA Battery,3
+ca-suffren_colbert,550-tt-tripple_x2,,,
+ca-suffren_colbert,placeholder_torpedo,,,
+ca-suffren_dupleix,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-suffren_dupleix,90-gs-m1926-twin_x4,90-he-fra-1926,Secondary Gun,2
+ca-suffren_dupleix,37-cp-m1925_x6,37-he-m1925,AA Battery,3
+ca-suffren_dupleix,550-tt-tripple_x2,,,
+ca-suffren_dupleix,placeholder_torpedo,,,
+ca-suffren_1934,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-suffren_1934,75-gs-m1922_x8,75-he-fra-1922,Secondary Gun,2
+ca-suffren_1934,37-cp-m1925_x8,37-he-m1925,AA Battery,3
+ca-suffren_1934,13-cp-caq-m1929_x3,13-b-fra,AA Battery,4
+ca-suffren_1934,550-tt-tripple_x2,,,
+ca-suffren_1934,placeholder_torpedo,,,
+ca-suffren_colbert-1940,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-suffren_colbert-1940,90-gs-m1926_x8,90-he-fra-1926,Secondary Gun,2
+ca-suffren_colbert-1940,37-cp-cad-m1933_x4-alt,37-he-m1925,AA Battery,3
+ca-suffren_colbert-1940,13-cp-caq-m1929_x4-alt,13-b-fra,AA Battery,4
+ca-suffren_colbert-1940,13-cp-cad-m1929_x2-aft,13-b-fra,AA Battery,4
+ca-suffren_colbert-1940,8-p-hotchkiss-m1914_x4,8-b-label,AA Battery,5
+ca-suffren_colbert-1940,550-tt-tripple_x2,,,
+ca-suffren_colbert-1940,placeholder_torpedo,,,
+ca-suffren_dupleix-1940,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-suffren_dupleix-1940,90-gs-m1926-twin_x4,90-he-fra-1926,Secondary Gun,2
+ca-suffren_dupleix-1940,37-cp-cad-m1933_x4-aft,37-he-m1925,AA Battery,3
+ca-suffren_dupleix-1940,13-cp-caq-m1929_x4-alt-2,13-b-fra,AA Battery,4
+ca-suffren_dupleix-1940,13-cp-cad-m1929_x2-aft,13-b-fra,AA Battery,4
+ca-suffren_dupleix-1940,8-p-hotchkiss-m1914_x3-aft,8-b-label,AA Battery,5
+ca-suffren_dupleix-1940,550-tt-tripple_x2,,,
+ca-suffren_dupleix-1940,placeholder_torpedo,,,
+ca-suffren_1944,203-ag-m1924-fra_abxy,203-sap-m1924,Primary Gun,1
+ca-suffren_1944,75-gs-m1922_x4-aft,75-he-fra-1922,Secondary Gun,2
+ca-suffren_1944,40-t-mk3_x8-suffren,40-he-mk1,AA Battery,3
+ca-suffren_1944,20-p-mk6_x20-suffren,20-he-mk3,AA Battery,4
+ca-algerie,203-ag-m1931_abxy,203-apc-m1931,Primary Gun,1
+ca-algerie,100-gs-m1931_x6,100-he-fra,Secondary Gun,2
+ca-algerie,37-cp-m1925_x4,37-he-m1925,AA Battery,3
+ca-algerie,13-cp-caq-m1929_x4,13-b-fra,AA Battery,4
+ca-algerie,550-tt-tripple_x2,,,
+ca-algerie,placeholder_torpedo,,,
+ca-algerie_1940,203-ag-m1931_abxy,203-apc-m1931,Primary Gun,1
+ca-algerie_1940,100-gs-m1931_x6,100-he-fra,Secondary Gun,2
+ca-algerie_1940,37-cp-cad-m1933_x4-alt-2,37-he-m1925,AA Battery,3
+ca-algerie_1940,13-cp-caq-m1929_x4,13-b-fra,AA Battery,4
+ca-algerie_1940,550-tt-tripple_x2,,,
+ca-algerie_1940,placeholder_torpedo,,,
+ca-algerie_1941,203-ag-m1931_abxy,203-apc-m1931,Primary Gun,1
+ca-algerie_1941,100-gs-m1931_x6,100-he-fra,Secondary Gun,2
+ca-algerie_1941,37-cp-cad-m1933_x4-alt-2,37-he-m1925,AA Battery,3
+ca-algerie_1941,13-cp-caq-m1929_x4,13-b-fra,AA Battery,4
+ca-algerie_1941,13-p-browning-fn_x4,13-b-fra,AA Battery,4
+ca-algerie_1941,550-tt-tripple_x2,,,
+ca-algerie_1941,placeholder_torpedo,,,
