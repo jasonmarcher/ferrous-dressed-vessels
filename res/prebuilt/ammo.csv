@@ -116,7 +116,9 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 165-ap-fra-1881,165mm AP 1881,france,165,52,,,0,0,None,
 165-ap-fra-1864,165mm AP 1864,france,165,45,,,0,0,None,
 165-s-fra-1858,165mm Solid 1858,france,165,31.5,0,None,0,0,None,
+155-sapbc-m1924,155mm SAPBC Model 1924,france,155,56.5,3.3,Melinite,0,0,None,http://www.navweaps.com/Weapons/WNFR_61-50_m1920.php#Ammunition
 152-sapc-m1937_152-he-m1937,152mm SAPC Model 1937 + 152 HE Model 1937,france,152,57.1,1.7,Melinite,49.7,,Melinite,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
+152-sapc-m1931_152-he-m1936,152mm SAPC Model 1931 + 152 HE Model 1936,france,152,54.5,1.7,Melinite,55,,Melinite,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 139-sap-fra-1910,138.6mm SAP 1910,france,139,36.5,2.66,Melinite,0,0,None,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
 139-ap-fra-1888,139mm AP 1888,france,139,36.5,,,0,0,None,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-he-fra-1884,139mm HE 1884,france,139,35,,,0,0,None,
@@ -142,6 +144,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 47-he-fra-1902,47mm HE 1902,france,47,2,,,2,,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
 47-he-fra-1885,47mm HE 1885,france,47,1.5,,,2,,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
 37-he-m1925,37mm HE Model 1925,france,37,0.7,,,0.7,,,http://www.navweaps.com/Weapons/WNFR_37-50_cail_m1933.php
+25-he-fra,25mm HE (FRA),france,25,0.24,0.01,,0.24,0.01,,http://www.navweaps.com/Weapons/WNFR_25mm-60_Hotchkiss.php#Ammunition
 13-b-fra,13.2mm Ball (FRA),france,13,0.05,0,None,0.05,0,None,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
 8-b-label,8x50mmR Label,france,8.85,0.015,0,None,0.015,0,None,https://en.wikipedia.org/wiki/8%C3%9750mmR_Lebel
 380-apc-l44,"38cm APC L/4,4",germany,380,800,18.8,,0,0,None,https://docs.google.com/spreadsheets/d/1Ev_IfHD4VCotj63I3VZ110zVyHzT8u_J8Q0KzTlseD4/edit#gid=2102861716
