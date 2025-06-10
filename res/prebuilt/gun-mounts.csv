@@ -329,6 +329,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 160-piv-rml-64pdr-71cwt,160,160mm/16.4 RML 64-pdr 71 cwt,britain,Pivot,160-ml-rml-64pdr-71cwt,1,,https://en.wikipedia.org/wiki/RML_64-pounder_71_cwt_gun
 160-car-rml-64pdr-71cwt,160,160mm/16.4 RML 64-pdr 71 cwt,britain,Carriage,160-ml-rml-64pdr-71cwt,1,,https://en.wikipedia.org/wiki/RML_64-pounder_71_cwt_gun
 160-piv-rml-64pdr-64cwt-marki,160,160mm/15.5 RML 64-pdr 64 cwt Mark I,britain,Pivot,160-ml-rml-64pdr-64cwt-marki,1,,https://en.wikipedia.org/wiki/RML_64-pounder_64_cwt_gun
+155-ag-m1920,155,155mm/50 Model 1920,france,Armored Gunhouse,155-bg-m1920,2,40,http://www.navweaps.com/Weapons/WNFR_61-50_m1920.php#Mount%2FTurret_Data
 155-ag-3rd-year,155,15.5cm/60 3rd Year Type,japan,Armored Gunhouse,155-bg-3rd-year,3,55,http://www.navweaps.com/Weapons/WNJAP_61-60_3ns.php
 152-ag-dp,152,"6""/47DP Turret",usa,Armored Gunhouse,152-dp-mk16,2,78,http://www.navweaps.com/Weapons/WNUS_6-47DP_mk16.php#Mount_%2F_Turret_Data
 152-c-vickers-markm-30,152,"6""/50 Vickers Mark M",japan,Central Pivot (Casement),152-bg-vickers-markm,1,30,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
@@ -368,8 +369,10 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 152-c-ab-marki,152,"6""/26 AB Mark I",britain,Central Pivot (Casement),152-bg-markiii,1,12,http://www.navweaps.com/Weapons/WNBR_6-26_mk1.php
 152-ag-m1934,152,152mm/55 Model 1934,italy,Armored Gunhouse,152-bg-m1934,3,45,http://www.navweaps.com/Weapons/WNIT_6-55_m1936.php#Mount%2FTurret_Data
 152-ag-m1934-twin,152,152mm/55 Model 1934,italy,Armored Gunhouse,152-bg-m1934,2,45,http://www.navweaps.com/Weapons/WNIT_6-55_m1936.php#Mount%2FTurret_Data
+152-ag-m1936-dp,152,152mm/55 Model 1936 DP,france,Armored Gunhouse,152-bg-m1930-dp,3,70,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-ag-bb-m1936-dp-planned,152,152mm/55 Battleship Model 1936 DP (planned),france,Armored Gunhouse,152-bg-m1930-dp,3,90,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-ag-bb-m1936-dp,152,152mm/55 Battleship Model 1936 DP,france,Armored Gunhouse,152-bg-m1930-dp,3,75,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
+152-ag-m1930,152,152mm/55 Model 1930,france,Armored Gunhouse,152-bg-m1930,3,45,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-ag-m1926,152,152mm/53 Model 1926,italy,Armored Gunhouse,152-bg-m1926,2,45,http://www.navweaps.com/Weapons/WNIT_6-53_m1926.php#Mount%2FTurret_Data
 152-c-m1911,152,152mm/45 Model 1911,italy,Central Pivot (Casement),152-bg-m1911,1,20,https://en.wikipedia.org/wiki/Cannone_da_152/45
 152-gs-m1887,152,152mm/32 Model 1887,italy,Pedestal (Gun Shield),152-bg-m1887,1,,https://en.wikipedia.org/wiki/Cannon_152/32_Model_1887
@@ -480,6 +483,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 127-p-mk23,127,"5""/25 Mark 23",usa,Central Pivot,127-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
 127-p-mk19,127,"5""/25 Mark 19",usa,Central Pivot,127-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
 127-piv-mk1,127,"5""/31 Mark 1",usa,Pivot,127-bg-mk1,1,12,http://www.navweaps.com/Weapons/WNUS_5-31_mk1.php#Mount%2FTurret_Data
+127-ag-m1948,127,127mm/54 Model 1948,france,Armored Gunhouse,127-bg-m1948,2,80,http://www.navweaps.com/Weapons/WNFR_5-54_m1948.php#Mount%2FTurret_Data
 127-piv-vbi,127,"5""/25 VBI",britain,Pivot,127-bg-bl-marki,1,15,http://www.navweaps.com/Weapons/WNBR_5-25_mk1.php#Mount%2FTurret_Data
 127-gs-vbi,127,"5""/25 VBI",britain,Central Pivot (Gun Shield),127-bg-bl-marki,1,15,http://www.navweaps.com/Weapons/WNBR_5-25_mk1.php#Mount%2FTurret_Data
 121-car-ml-12pdr,121,121mm/19 12-pdr,france,Carriage,121-ml-12pdr,1,,
@@ -736,6 +740,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 25-p-nordenfelt-markiii,25,"1""/35 Nordenfelt Mark III",britain,Pedestal,25-mg-nordenfelt-markiii,4,15,https://en.wikipedia.org/wiki/1-inch_Nordenfelt_gun
 25-gs-nordenfelt-markiii,25,"1""/35 Nordenfelt Mark III",britain,Pedestal (Gun Shield),25-mg-nordenfelt-markiii,4,15,https://en.wikipedia.org/wiki/1-inch_Nordenfelt_gun
 25-p-nordenfelt-marki-dual,25,"1""/35 Nordenfelt Mark I Dual",britain,Pedestal,25-mg-nordenfelt-markiii,2,15,https://en.wikipedia.org/wiki/1-inch_Nordenfelt_gun
+25-cp-cad-m1939,25,25mm/60 CAD Model 1939,france,Central Pivot,25-mg-m1938,2,90,http://www.navweaps.com/Weapons/WNFR_25mm-60_Hotchkiss.php#Mount%2FTurret_Data
+25-cp-cas-m1939,25,25mm/60 CAS Model 1939,france,Pedestal,25-mg-m1938,1,90,http://www.navweaps.com/Weapons/WNFR_25mm-60_Hotchkiss.php#Mount%2FTurret_Data
 25-ag-bl-120,25,25mm/79 BL-120,russia,Armored Gunhouse,25-mg-bl-120,4,90,https://en.wikipedia.org/wiki/Stalingrad-class_battlecruiser#Armament
 20-p-sif-1939,20,20mm/70 Scotti-Isotta Fraschini 1939,italy,Pedestal,20-mg-sif-1939,1,85,https://en.wikipedia.org/wiki/Cannone-Mitragliera_da_20/77_(Scotti)
 20-sm-m1935,20,20mm/65 Model 1935 Stabalized Twin,italy,Stabalized Mount,20-mg-m1935,2,100,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
