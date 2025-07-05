@@ -190,6 +190,8 @@ https://laststandonzombieisland.com/category/military-history
 
 https://3dhistory.de/wordpress/warship-drawings-warship-blue-prints-warship-plans/
 
+http://www.wings-aviation.ch/27-USNavy/Navy-Basis-de.htm
+
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
