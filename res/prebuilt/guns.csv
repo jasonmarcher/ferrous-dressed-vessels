@@ -454,8 +454,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 127-bg-mk1,"5""/31 Mark 1","US 5""",usa,1885-01-01,127,31,2900,6,6,Breech,701,0,,http://www.navweaps.com/Weapons/WNUS_5-31_mk1.php
 127-bg-mk10,"5""/25 Mark 10","US 5""",usa,1921-01-01,127,25,1937,20,17.5,Breech,657,657,200,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php
 120-bg-mk3,"4.7""/50 Mark 3","US 4.7""",usa,1895-01-01,120,50,2200,6,5.5,Breech,675,0,,http://www.navweaps.com/Weapons/WNUS_47-50_mk3.php
-102-bg-mk9,"4""/50 Mark 9","US 4""",usa,1910-01-01,102,50,2769,9,8.5,Breech,884,0,300,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
-102-bg-mk7,"4""/50 Mark 7","US 4""",usa,1898-01-01,102,50,2769,9,8.5,Breech,762,0,300,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php
+102-bg-mk9,"4""/50 Mark 9","US 4""",usa,1910-01-01,102,50,2769,9,8.5,Breech,884,0,300,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php#Mount%2FTurret_Data
+102-bg-mk7,"4""/50 Mark 7","US 4""",usa,1898-01-01,102,50,2769,9,8.5,Breech,762,0,300,http://www.navweaps.com/Weapons/WNUS_4-50_mk9.php#Mount%2FTurret_Data
 102-bg-mk1,"4""/40 Mark 1","US 4""",usa,1892-01-01,102,40,1600,9,8.5,Breech,610,0,,http://www.navweaps.com/Weapons/WNUS_4-40_mk1.php
 76-bg-mk26,"3""/70RF Mark 26","US 3""",usa,1956-01-01,76,70,1202,100,95,Breech Autoloader,1036,1036,1000,http://www.navweaps.com/Weapons/WNUS_3-70_mk37.php
 76-bg-mk22,"3""/50 Mark 22","US 3""",usa,1945-01-01,76,50,798,50,47.5,Breech Autoloader,823,823,1500,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php
@@ -472,5 +472,6 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 7-mg-mg08,7.9mm/91 MG 08,Maxim Gun,usa,1908-01-01,7.9,91,69,500,450,Breech Automatic,878,878,,https://en.wikipedia.org/wiki/MG_08
 7-mg-mg01,7.9mm/91 MG 01,Maxim Gun,usa,1901-01-01,7.9,91,69,500,450,Breech Automatic,878,878,,https://en.wikipedia.org/wiki/MG_08
 7-mg-maxim-marki,"0.303""/94 Maxim Machine Gun Mark I",Maxim Gun,usa,1884-01-01,7.7,94,26.5,500,400,Breech Automatic,610,610,7000,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
+7-mg-browning,"0.30""/94 Browning Machine Gun","Browning 0.30""",usa,1925-01-01,7.62,94,,450,400,Breech Automatic,853,853,,http://www.navweaps.com/Weapons/WNUS_30cal_MG.php
 7-mg-m1895,"0.30""/94 M1895 Colt-Browning Machine Gun","Browning 0.30""",usa,1895-01-01,7.6,94,15.8,450,400,Breech Automatic,853,853,,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
 7-mg-maxim,7.62mm/94 Maxim MG,Maxim Gun,usa,1884-01-01,7.6,94,26.5,580,520,Breech Automatic,610,610,7000,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
