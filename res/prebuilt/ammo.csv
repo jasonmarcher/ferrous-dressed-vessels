@@ -61,13 +61,14 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 140-cpc-uk,"CPC 5.5"" (UK)",britain,140,37.2,2.4,,37.2,2.4,,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php
 134-sap-markic_134-he,SAP Mark IC + HE,britain,134,36.3,1.47,TNT,36.3,2.95,TNT,http://www.navweaps.com/Weapons/WNBR_525-50_mk1.php
 127-he-uk,"5"" HE (UK)",britain,127,22.7,,,0,0,None,http://www.navweaps.com/Weapons/WNBR_5-25_mk1.php#Ammunition
-120-he-uk,"4"" HE (UK)",britain,120,34.5,22.7,,34.5,22.7,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
+120-he-uk,"4"" HE (UK)",britain,120,22.7,,,22.7,,,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-com-uk,"4"" Common (UK)",britain,120,20.4,3.1,,0,0,None,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-40pdr-unknown,40-pdr Solid,britain,120,18.2,0,None,0,0,None,https://en.wikipedia.org/wiki/RBL_40-pounder_Armstrong_gun
 114-he-uk,"4.5"" HE (UK)",britain,114,25,,,25,,,http://www.navweaps.com/Weapons/WNBR_45-45_mk1.php#Ammunition
 102-he-markxix,HE Mark XIX,britain,102,17.4,,,15.9,,,http://www.navweaps.com/Weapons/WNBR_4-45_mk16.php#Ammunition
-102-he-wwi-uk,"HE 4"" WWI (UK)",britain,102,14.1,4.3,,0,0,None,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
-102-he-uk,"HE 4"" (UK)",britain,102,14.1,0.82,,14.1,0.82,,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php
+102-he-wwii-uk,"HE 4"" WWII (UK)",britain,102,15.9,,,0,0,None,http://www.navweaps.com/Weapons/WNBR_4-40_mk19.php#Ammunition
+102-he-wwi-uk,"HE 4"" WWI (UK)",britain,102,14.1,,,0,0,None,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php
+102-he-uk,"HE 4"" (UK)",britain,102,14.1,0.82,Lyddite,14.1,0.82,Lyddite,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php
 102-he-small-uk,"4"" HE (Small) (UK)",britain,102,11.3,,,0,0,None,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
 95-com-20pdr,20-pdr Common,britain,95,9.9,0.59,,0,0,None,https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=35F35FF07458F859FF45772BE15050FF?doi=10.1.1.674.4023&rep=rep1&type=pdf
 76-he-fuze-nc101,HE Fuze NC101,britain,76,6.8,,,6.8,,,http://www.navweaps.com/Weapons/WNBR_3-70_mk6.php#Ammunition
@@ -271,6 +272,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 12-b-rus,12.7mm Russian,russia,12,0.05,0,None,0.05,0,None,https://en.wikipedia.org/wiki/12.7%C3%97108mm
 120-ap-spain,120mm AP (Spain),spain,120,24,,,0,0,None,https://en.wikipedia.org/wiki/Gonzalez_Hontoria_de_12_cm_mod_1883
 57-ap-nord,57mm AP Nordenfelt,sweden,57,2.9,0,None,0,0,None,https://en.wikipedia.org/wiki/QF_6-pounder_Nordenfelt
+40-het_40-pfhe,40mm HE-T / 40mm PFHE,sweden,40,0.96,0.115,,0.88,,,http://www.navweaps.com/Weapons/WNSweden_4cm-70_m1948.php#Ammunition
 8-b-uknown,8mm Unknown,unknown,8,0.01,0,None,0.01,0,None,
 7-b-uknown,7.7mm Unknown,unknown,7.7,0.01,0,None,0.01,0,None,
 7-b-uknown-30,7.6mm Unknown,unknown,7.6,0.01,0,None,0.01,0,None,

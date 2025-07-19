@@ -120,6 +120,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 120-bg-mk3,"4.7""/50 Mark 3 (EOC AA)","Elswick 4.7""",britain,1895-01-01,120,50,2200,6,5,Breech,675,0,150,http://www.navweaps.com/Weapons/WNUS_47-50_mk3.php
 120-bg-p1905,120mm/50 Pattern 1905,"Vickers 4.7""",britain,1905-01-01,120,49,3145,7,7,Breech,793,0,250,http://www.navweaps.com/Weapons/WNRussian_47-50_m1905.php
 120-bg-10th-year-type,12cm/45 10th Year Type,"Elswick 4.7""",britain,1921-01-01,120,45,2950,10,7,Breech,825,825,250,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
+120-bg-bl-marki,"4.7""/45 BL Mark I",,britain,1918-01-01,120,45,3175,6,5,Breech,814,0,,http://www.navweaps.com/Weapons/WNBR_47-45_mk1.php
 120-bg-qf-markviii,"4.7""/40 QF Mark VIII","British 4.7""",britain,1925-01-01,120,40,3010,12,8,Breech,749,749,175,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
 120-bg-type41,"4.7""/40 Type 41","Elswick 4.7""",britain,1885-01-01,120,40,2100,6,5,Breech,660,660,150,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-bg-qf-marki,"4.7""/40 QF Mark I","Elswick 4.7""",britain,1885-01-01,120,40,2100,6,5,Breech,645,645,,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
@@ -134,6 +135,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 102-bg-a1917,102mm/45 Armstrong Model 1917,"Armstrong 4""",britain,1917-01-01,102,45,2327,12,7,Breech,850,850,,http://www.navweaps.com/Weapons/WNIT_4-45_m1917.php
 102-bg-qf-markv,"4""/45 QF Mark V","Armstrong 4""",britain,1913-01-01,102,45,2172,15,10,Breech,805,805,200,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php
 102-bg-bl-markix,"4""/45 BL Mark IX","British 4""",britain,1913-01-01,102,45,2154,12,10,Breech,800,800,200,http://www.navweaps.com/Weapons/WNBR_4-45_mk9.php
+102-bg-qf-markxix,"4""/40 QF Mark XIX","British 4""",britain,1938-01-01,102,40,1309,15,15,Breech,396,396,160,http://www.navweaps.com/Weapons/WNBR_4-40_mk19.php
 102-bg-qf-markiv,"4""/40 QF Mark IV","British 4""",britain,1904-01-01,102,40,1245,13,10,Breech,722,0,100,http://www.navweaps.com/Weapons/WNBR_4-40_mk4.php
 102-bg-qf-marki,"4""/40 QF Mark I","British 4""",britain,1894-01-01,102,40,1339,10,8,Breech,722,0,100,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
 102-bg-bl-marki,"4""/27 BL Mark I","British 4""",britain,1894-01-01,102,27,1350,,,Breech,579,0,100,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
@@ -165,12 +167,13 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 40-mg-vt-1915,40mm/39 Vickers-Terni 1915/1917,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,610,610,1500,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 40-mg-v1915,40mm/39 Vickers 1915,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,610,610,1500,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 40-mg-v1914,40mm/39 Vickers Automatic Model 1914,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,601,601,1500,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
-40-mg-qf-markvii,2-pdr/39 QF Mark II,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,585,585,1000,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
+40-mg-qf-markii,2-pdr/39 QF Mark II,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,585,585,1000,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 37-bg-marki,1.5-pdr/43 Mark I,Vickers 1.5-pdr,britain,1910-01-01,37,43,57,25,20,Breech Semi-Automatic,640,640,,http://www.navweaps.com/Weapons/WNBR_1-5pounder_m1.php
 25-mg-nordenfelt-markiii,"1""/35 Nordenfelt Mark III","Nordenfelt 1""",britain,1878-01-01,25.4,35,203,20,20,Breech Semi-Automatic,446,0,,https://en.wikipedia.org/wiki/1-inch_Nordenfelt_gun
 12-mg-markiii,"0.50""/62 MG Mark III","Vickers 0.50""",britain,1926-01-01,12.7,62,28,600,200,Breech Autoloader,768,768,2500,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
-12-mg-bi-type,"12 mm/62 ""BI"" Type","Vickers 0.50""",britain,1926-01-01,12.7,62,28,600,200,Breech Autoloader,768,768,2500,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
-7-mg-type92,7.7 mm/80 Type 92,Lewis Gun,britain,,7.7,80,13,600,600,Breech Autoloader,760,760,600,http://www.navweaps.com/Weapons/WNJAP_77mm-87_RU.php
+12-mg-bi-type,"12mm/62 ""BI"" Type","Vickers 0.50""",britain,1926-01-01,12.7,62,28,600,200,Breech Autoloader,768,768,2500,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
+7-mg-lewis,7.7mm/87 Lewis Gun,Lewis Gun,britain,1911-01-01,7.7,87,13,600,500,Breech Autoloader,744,744,,https://en.wikipedia.org/wiki/Lewis_gun
+7-mg-type92,7.7mm/80 Type 92,Lewis Gun,britain,,7.7,80,13,600,600,Breech Autoloader,760,760,600,http://www.navweaps.com/Weapons/WNJAP_77mm-87_RU.php
 420-bg-m1875,420mm/22 Model 1875,French 420mm,france,1875-01-01,420,22,,,,Breech,,0,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 420-bg-m1875-ter,420mm/19 Model 1875 (Terrible),French 420mm,france,1875-01-01,420,19,,,,Breech,,0,,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 380-bg-m1935,380mm/45 Model 1935,French 380mm,france,1935-01-01,380,45,94130,1.8,1.8,Breech,830,0,104,http://www.navweaps.com/Weapons/WNFR_15-45_m1935.php
@@ -386,6 +389,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 12-mg-dshk-1938,12.7mm/79 DShK 1938,Tula Arms Plant 12.7mm,russia,1938-01-01,12.7,79,34,600,600,Breech Automatic,850,850,,https://en.wikipedia.org/wiki/DShK
 120-bg-hontoria-m1883,120mm/35 Hontoria M1883,Hontoria 12 cm,spain,1883-01-01,120,35,,,,Breech,612,0,,https://en.wikipedia.org/wiki/Gonzalez_Hontoria_de_12_cm_mod_1883
 57-mg-m1951,57mm/60 Model 1951,Bofors 57mm,sweden,1951-01-01,57,60,,120,100,Breech Autoloader,865,865,1580,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
+40-mg-sak40,40mm/70 SAK-40,Bofors 40mm,sweden,1948-01-01,40,70,700,240,240,Breech Autoloader,1025,1025,,http://www.navweaps.com/Weapons/WNSweden_4cm-70_m1948.php
 40-bg-mk1,40mm/56 Mark 1,Bofors 40mm,sweden,1941-01-01,40,56,522,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-bg-mark1,40mm/56 OQF Mark I,Bofors 40mm,sweden,1941-01-01,40,56,515,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-bg-flak-28,4cm/56 FlaK 28,Bofors 40mm,sweden,1941-01-01,40,56,515,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
