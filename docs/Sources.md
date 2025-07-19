@@ -192,6 +192,8 @@ https://3dhistory.de/wordpress/warship-drawings-warship-blue-prints-warship-plan
 
 http://www.wings-aviation.ch/27-USNavy/Navy-Basis-de.htm
 
+https://www.seaforces.org/
+
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
