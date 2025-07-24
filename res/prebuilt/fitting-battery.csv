@@ -4322,7 +4322,7 @@ pred-tri-sviatitelia_1915,37-p-m1884_x30-mast,37-he-rus-early,Tertiary Gun,5
 bb-espana,305-ag-vsm-markh_apsy,305-apc-markvi-2crh,Primary Gun,1
 bb-espana,102-c-vickers-e_x20,102-he-wwi-uk,Secondary Gun,2
 bb-espana,47-p-marki-la_x4-turret,47-he-uk,Tertiary Gun,3
-bb-espana,7-p-unknown_x2,7-b-uknown,AA Battery,4
+bb-espana,7-p-unknown-2_x2,7-b-uknown,AA Battery,4
 bb-espana_1926,305-ag-vsm-markh_apsy,305-apc-markvi-2crh,Primary Gun,1
 bb-espana_1926,102-c-vickers-e_x20,102-he-wwi-uk,Secondary Gun,2
 bb-espana_1926,76-cp-ha-markii_x2-turret,76-he-uk-early,AA Battery,3
@@ -9880,7 +9880,7 @@ ac-kurama,450-tt-hull_x3-bow,,,
 ac-kurama,placeholder_torpedo,,,
 ca-furutaka,200-ag-model-a_abcxyz,200-apc-type-5,Primary Gun,1
 ca-furutaka,76-p-3rd-year_x4,76-he-com-type0,Secondary Gun,2
-ca-furutaka,7-p-unknown_x2,,AA Battery,3
+ca-furutaka,7-p-unknown-2_x2,,AA Battery,3
 ca-furutaka,610-tt-hull_x12-sides,,,
 ca-furutaka,placeholder_torpedo,,,
 ca-furutaka_1932,200-ag-model-a_abcxyz,200-apc-type-5,Primary Gun,1
@@ -9896,7 +9896,7 @@ ca-furutaka-1936,610-tt-quad-jpn_x2,,,
 ca-furutaka-1936,placeholder_torpedo,,,
 ca-aoba,200-ag-model-c_aby,200-apc-type-5,Primary Gun,1
 ca-aoba,120-p-10th-year-b_x4,120-he-com-type0,Secondary Gun,2
-ca-aoba,7-p-unknown_x2,,AA Battery,3
+ca-aoba,7-p-unknown-2_x2,,AA Battery,3
 ca-aoba,610-tt-hull_x12-sides,,,
 ca-aoba,placeholder_torpedo,,,
 ca-aoba_1933,200-ag-model-c_aby,200-apc-type-5,Primary Gun,1
@@ -9942,23 +9942,23 @@ ca-aoba-1938_1945,placeholder_torpedo,,,
 ca-aoba-1938_1945,dcr-unknown_x1,,,
 ca-myoko,200-ag-model-c_abcxy,200-apc-type-5,Primary Gun,1
 ca-myoko,120-p-10th-year-b_x6,120-he-com-type0,Secondary Gun,2
-ca-myoko,7-p-unknown_x2,,AA Battery,3
+ca-myoko,7-p-unknown-2_x2,,AA Battery,3
 ca-myoko,610-tt-hull_x12-sides,,,
 ca-myoko,placeholder_torpedo,,,
 ca-myoko_1932,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
 ca-myoko_1932,120-p-10th-year-b_x6,120-he-com-type0,Secondary Gun,2
-ca-myoko_1932,7-p-unknown_x2,,AA Battery,3
+ca-myoko_1932,7-p-unknown-2_x2,,AA Battery,3
 ca-myoko_1932,610-tt-hull_x12-sides,,,
 ca-myoko_1932,placeholder_torpedo,,,
 ca-myoko-1935,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
 ca-myoko-1935,127-gs-a1_x4-alt-2,127-he-type0,Secondary Gun,2
-ca-myoko-1935,7-p-unknown_x2,,AA Battery,3
+ca-myoko-1935,7-p-unknown-2_x2,,AA Battery,3
 ca-myoko-1935,610-tt-quad-jpn_x2,,,
 ca-myoko-1935,placeholder_torpedo,,,
 ca-myoko-1935_1935-10,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
 ca-myoko-1935_1935-10,127-gs-a1_x4-alt-2,127-he-type0,Secondary Gun,2
 ca-myoko-1935_1935-10,13-p-type93-quad_x2-fore,13-ap-jpn,AA Battery,3
-ca-myoko-1935_1935-10,7-p-unknown_x2,,AA Battery,4
+ca-myoko-1935_1935-10,7-p-unknown-2_x2,,AA Battery,4
 ca-myoko-1935_1935-10,610-tt-quad-jpn_x2,,,
 ca-myoko-1935_1935-10,placeholder_torpedo,,,
 ca-myoko-1939,203-ag-model-d_abcxy,203-ap-type91,Primary Gun,1
@@ -10005,7 +10005,7 @@ ca-myoko-1939_nachi-1944,dcr-unknown_x1,,,
 ca-takao,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
 ca-takao,120-p-10th-year-b2_x4,120-he-com-type0,Secondary Gun,2
 ca-takao,40-cp-bi-type91-single_x2,40-com-jpn,AA Battery,3
-ca-takao,7-p-unknown_x2,,AA Battery,4
+ca-takao,7-p-unknown-2_x2,,AA Battery,4
 ca-takao,610-tt-dual-jpn_x4,,,
 ca-takao,placeholder_torpedo,,,
 ca-takao_chokai-1936,203-ag-model-e_abcxy,203-ap-type91,Primary Gun,1
@@ -10074,7 +10074,7 @@ ca-takao-1938_maya-1943,127-gs-a1_x6-alt,127-he-type0,Secondary Gun,2
 ca-takao-1938_maya-1943,25-cp-type96-triple_x13,25-com-jpn,AA Battery,3
 ca-takao-1938_maya-1943,25-p-type96-single_x9-takao,25-com-jpn,AA Battery,3
 ca-takao-1938_maya-1943,13-p-type93-twin_x18,13-ap-jpn,AA Battery,4
-ca-takao-1938_maya-1943,7-p-unknown_x2,,AA Battery,5
+ca-takao-1938_maya-1943,7-p-unknown-2_x2,,AA Battery,5
 ca-takao-1938_maya-1943,610-tt-quad-jpn_x4,,,
 ca-takao-1938_maya-1943,placeholder_torpedo,,,
 ca-takao-1938_maya-1943,dcr-unknown_x1,,,
@@ -10091,7 +10091,7 @@ ca-takao-1938_maya-1944,127-gs-a1_x6-alt,127-he-type0,Secondary Gun,2
 ca-takao-1938_maya-1944,25-cp-type96-triple_x13,25-com-jpn,AA Battery,3
 ca-takao-1938_maya-1944,25-p-type96-single_x27-takao,25-com-jpn,AA Battery,3
 ca-takao-1938_maya-1944,13-p-type93-twin_x18,13-ap-jpn,AA Battery,4
-ca-takao-1938_maya-1944,7-p-unknown_x2,,AA Battery,5
+ca-takao-1938_maya-1944,7-p-unknown-2_x2,,AA Battery,5
 ca-takao-1938_maya-1944,610-tt-quad-jpn_x4,,,
 ca-takao-1938_maya-1944,placeholder_torpedo,,,
 ca-takao-1938_maya-1944,dcr-unknown_x1,,,
@@ -11673,7 +11673,7 @@ cl-muravyov-amurskiy,450-tt-hull_x5-bow,,,
 cl-muravyov-amurskiy,placeholder_torpedo,,,
 cl-muravyov-amurskiy,placeholder_mines,,,
 cl-pillau,149-gs-mpl-c13_x8-alt,149-ap-l37,Primary Gun,1
-cl-pillau,52-p-sk-l55_x4-center,52-he-ger,AA Battery,2
+cl-pillau,52-p-sk-l55_x4-center,52-he-ger,Secondary Gun,2
 cl-pillau,500-tt-single_x2,,,
 cl-pillau,placeholder_torpedo,,,
 cl-pillau,placeholder_mines,,,
@@ -11703,7 +11703,7 @@ cl-bari-1934_1941,20-sm-m1935_x4-alt,20-he-ita,AA Battery,3
 cl-bari-1934_1941,20-sm-m1940_x6,20-he-ita,AA Battery,4
 cl-bari-1934_1941,placeholder_mines,,,
 cl-wiesbaden,149-gs-mpl-c13_x8-wiesbaden,149-ap-l37,Primary Gun,1
-cl-wiesbaden,52-p-sk-l55_x4-center,52-he-ger,AA Battery,2
+cl-wiesbaden,52-p-sk-l55_x4-center,52-he-ger,Secondary Gun,2
 cl-wiesbaden,500-tt-single_x2,,,
 cl-wiesbaden,500-tt-hull_x2-side,,,
 cl-wiesbaden,placeholder_torpedo,,,
@@ -13526,6 +13526,8 @@ cvl-la-fayette,20-p-mk24_x6-independence,20-he-mk3,AA Battery,2
 cvl-la-fayette_bois-belleau,40-t-mk2_x2-f-a,40-he-mk1,AA Battery,1
 cvl-la-fayette_bois-belleau,40-t-mk1_x10-independence,40-he-mk1,AA Battery,1
 cvl-la-fayette_bois-belleau,20-p-mk24_x4-independence,20-he-mk3,AA Battery,2
+cvl-la-fayette_1960,40-t-mk2_x2-f-a,40-he-mk1,AA Battery,1
+cvl-la-fayette_1960,40-t-mk1_x9-independence,40-he-mk1,AA Battery,1
 cvl-dedalo,40-t-mk2_x2-f-a,40-he-mk1,AA Battery,1
 cvl-dedalo,40-t-mk1_x9-independence,40-he-mk1,AA Battery,1
 cvl-dedalo_1982,40-t-mk2_x1-aft,40-he-mk1,AA Battery,1
@@ -14436,3 +14438,144 @@ cvt-athene-1940_1942,120-gs-cpvi_x1-fore,120-he-uk,Primary Gun,1
 cvt-athene-1940_1942,102-cp-ha-markiii_x1-fantail,102-he-uk,Primary Gun,2
 cvt-athene-1940_1942,40-p-markii_x4-athene,40-he-uk,AA Battery,3
 cvt-athene-1940_1942,20-p-mark1_x10-athene,20-he-uk,AA Battery,4
+av-poolster,75-cp-ein-lc34_x1-aft,75-he-l46,Primary Gun,1
+av-poolster,12-p-mk3_x2,12-b-us,AA Battery,2
+ct-foudre-1892,100-gs-m1891_x8,100-he-fra-1891,Primary Gun,1
+ct-foudre-1892,65-p-m1888_x4,65-he-9pdr-fra-1888,Primary Gun,2
+ct-foudre-1892,37-p-m1885_x4,37-he-ita-early,Tertiary Gun,3
+ct-foudre-1892,placeholder_torpedoboat,,,
+ax-foudre-1907,100-gs-m1891_x8,100-he-fra-1891,Primary Gun,1
+ax-foudre-1907,65-p-m1888_x4,65-he-9pdr-fra-1888,Primary Gun,2
+ax-foudre-1907,37-p-m1885_x4,37-he-ita-early,Tertiary Gun,3
+cm-foudre-1910,100-gs-m1891_x8,100-he-fra-1891,Primary Gun,1
+cm-foudre-1910,65-p-m1888_x4,65-he-9pdr-fra-1888,Primary Gun,2
+cm-foudre-1910,37-p-m1885_x4,37-he-ita-early,Tertiary Gun,3
+cm-foudre-1910,placeholder_mines,,,
+av-foudre-1911,100-gs-m1891_x7,100-he-fra-1891,Primary Gun,1
+av-foudre-1911,65-p-m1888_x4,65-he-9pdr-fra-1888,Primary Gun,2
+av-foudre-1911,37-p-m1885_x4,37-he-ita-early,Tertiary Gun,3
+av-campinas,100-gs-m1891_x1-aft,100-he-fra-1891,Primary Gun,1
+av-campinas,47-p-m1902-ha_x2,47-he-fra-1902,AA Battery,2
+av-nord,47-p-m1902-ha_x2,47-he-fra-1902,AA Battery,1
+av-commandant-teste,100-gs-m1927_x12,100-sap_100-he-fra,Primary Gun,1
+av-commandant-teste,37-cp-m1925_x8-teste,37-he-m1925,AA Battery,2
+av-commandant-teste,13-cp-cad-m1929_x6-alt,13-b-fra,AA Battery,3
+av-sans-souci,75-cp-m1922_x1-fore,75-he-fra-1922,Primary Gun,1
+gb-sg-1-1940,105-cp-mpl-c32ge_abxy,105-he-l44,Primary Gun,1
+gb-sg-1-1940,37-sm-dop-lc30_x2-aft-2,37-he-t,AA Battery,2
+gb-sg-1-1940,20-p-flakzwilling-C38_x6-escort,20-api-i_20-he-i,AA Battery,3
+gb-sg-1-1940_sg3,105-cp-mpl-c32ge_abxy,105-he-l44,Primary Gun,1
+gb-sg-1-1940_sg3,37-sm-dop-lc30_x2-aft-2,37-he-t,AA Battery,2
+gb-sg-1-1940_sg3,20-p-flakzwilling-C38_x7-escort,20-api-i_20-he-i,AA Battery,3
+gb-sg-1-1940_sg2,105-cp-mpl-c32ge_ay,105-he-l44,Primary Gun,1
+gb-sg-1-1940_sg2,20-p-flakzwilling-C38_x6-escort-2,20-api-i_20-he-i,AA Battery,2
+gb-sg-1-1940_sg2,13-p-unknown-de_x2,13-b-unknown,AA Battery,3
+gb-sg-1-1940_sg2,86-rs-l48_x4-aft,,,
+gb-sg-1-1940_sg2,placeholder_rocket,,,
+gb-sg-1-1940_sg4,105-cp-mpl-c32ge_ay,105-he-l44,Primary Gun,1
+gb-sg-1-1940_sg4,37-sm-dop-lc30_x2-aft-2,37-he-t,AA Battery,2
+gb-sg-1-1940_sg4,20-p-flakzwilling-C38_x6-escort,20-api-i_20-he-i,AA Battery,3
+ags-beautemps-beaupre-1945,105-cp-mpl-c32ge_abxy,105-he-l44,Primary Gun,1
+ags-beautemps-beaupre-1945,37-sm-dop-lc30_x2-aft-2,37-he-t,AA Battery,2
+ags-beautemps-beaupre-1945,20-p-flakzwilling-C38_x6-escort,20-api-i_20-he-i,AA Battery,3
+ags-beautemps-beaupre-1945_la-perouse,105-cp-mpl-c32ge_ay,105-he-l44,Primary Gun,1
+ags-beautemps-beaupre-1945_la-perouse,37-sm-dop-lc30_x2-aft-2,37-he-t,AA Battery,2
+ags-beautemps-beaupre-1945_la-perouse,20-p-flakzwilling-C38_x6-escort,20-api-i_20-he-i,AA Battery,3
+cv-bearn,155-c-m1920_x8,155-sapbc-m1924,Primary Gun,1
+cv-bearn,75-cp-m1922_x6-bearn,75-he-fra-1922,Primary Gun,2
+cv-bearn,8-p-hotchkiss-m1914_x16-bearn,8-b-label,AA Battery,4
+cv-bearn,450-tt-hull_x4-side,,,
+cv-bearn,placeholder_torpedo,,,
+cv-bearn_1935,155-c-m1920_x8,155-sapbc-m1924,Primary Gun,1
+cv-bearn_1935,75-cp-m1922_x6-bearn,75-he-fra-1922,Primary Gun,2
+cv-bearn_1935,37-cp-m1925_x8-bearn,37-he-m1925,AA Battery,3
+cv-bearn_1935,13-cp-cad-m1929_x6-bearn,13-b-fra,AA Battery,4
+cv-bearn_1942,155-c-m1920_x8,155-sapbc-m1924,Primary Gun,1
+cv-bearn_1942,75-cp-m1922_x6-bearn,75-he-fra-1922,Primary Gun,2
+cv-bearn_1942,37-cp-m1925_x8-bearn,37-he-m1925,AA Battery,3
+cv-bearn_1942,13-cp-cad-m1929_x6-bearn,13-b-fra,AA Battery,4
+cv-bearn_1942,12-p-mk3_x12-bearn,12-b-us,AA Battery,5
+cvt-bearn-1943,127-cp-mk30-mod80_x4-fore,127-spc-mk32,Primary Gun,1
+cvt-bearn-1943,28-p-quad_x6-bearn,28-het-mk1,AA Battery,2
+cvt-bearn-1943,20-p-mk6_x26-bearn,20-he-mk3,AA Battery,3
+ad-bearn-1948,127-cp-mk30-mod80_x4-fore,127-spc-mk32,Primary Gun,1
+cv-joffre,130-ag-m1932-double_x4,130-sap_130-he-fra,Primary Gun,1
+cv-joffre,37-cp-cad-m1933_x4-joffre,37-he-m1925,AA Battery,2
+cv-joffre,13-cp-caq-m1929_x7-joffre,13-b-fra,AA Battery,3
+cvl-clemenceau,100-ag-m1953_x8,100-oea-f1-he,Primary Gun,1
+av-answald,88-cp_x2-f-a,88-sap-l280-c01,Primary Gun,1
+av-santa-elena,88-cp_x2-aft,88-sap-l280-c01,Primary Gun,1
+av-oswald,88-cp-mpl-c13_x2-f-a,88-he_88-aa,Primary Gun,1
+av-glyndwr,52-p-sk-l55_x2-f-a,52-he-ger,Primary Gun,1
+av-glyndwr,,,AA Battery,2
+av-glyndwr_1915,105-gs-sk-l40_x2-f-a,105-ap-early,Primary Gun,1
+av-krischan-i,7-p-mg30_x1-fore,7-b-79-mauser,AA Battery,1
+av-krischan-ii,37-sm-ein-lc34_x1-fore,37-he-t,AA Battery,1
+av-krischan-iii,37-sm-ein-lc34_x3,37-he-t,AA Battery,1
+av-krischan-iii,20-p-c30_x2-aft-2,20-api-i_20-he-i,AA Battery,1
+av-greif,7-p-mg34_x3,7-b-79-mauser,AA Battery,1
+av-greif_1939,20-p-c38_x1-fore,20-api-i_20-he-i,AA Battery,1
+av-hans-rolshoven,20-p-c30_x2-aft,20-api-i_20-he-i,AA Battery,1
+av-sperber,20-p-c30_x2,20-api-i_20-he-i,AA Battery,1
+av-schwabenland,20-p-c30_x3-fore,20-api-i_20-he-i,AA Battery,1
+av-schwabenland_1942-1,20-p-c30_x6-schwabenland,20-api-i_20-he-i,AA Battery,1
+av-schwabenland_1942-8,37-sm-ein-lc34_x6-schwabenland,37-he-t,AA Battery,1
+av-friesenland,20-p-c30_x4-friesenland,20-api-i_20-he-i,AA Battery,1
+av-westfalen,20-p-c38_x2-allround,20-api-i_20-he-i,AA Battery,1
+av-bussard,20-p-c38_x2-allround,20-api-i_20-he-i,AA Battery,1
+av-bussard_falke,20-p-c38_x3,20-api-i_20-he-i,AA Battery,1
+av-bussard_1944,20-p-c38_x5,20-api-i_20-he-i,AA Battery,1
+av-karl-meyer,37-sm-ein-lc34_x3,37-he-t,AA Battery,1
+av-karl-meyer,20-p-c38_x2,20-api-i_20-he-i,AA Battery,2
+av-karl-meyer,7-p-mg13_x2,7-b-79-mauser,AA Battery,3
+av-karl-meyer_1943,105-cp-mpl-c32ge_x1-fore,105-he-l44,Primary Gun,1
+av-karl-meyer_1943,37-sm-ein-lc34_x2,37-he-t,AA Battery,2
+av-karl-meyer_1943,20-p-c38_x2,20-api-i_20-he-i,AA Battery,3
+av-karl-meyer_1943,7-p-mg13_x2,7-b-79-mauser,AA Battery,4
+av-o-e-paul-goffeney-1948,105-cp-mpl-c32ge_x1-fore,105-he-l44,Primary Gun,1
+av-o-e-paul-goffeney-1948,40-t-mk3_x2-fore,40-he-mk1,AA Battery,2
+av-o-e-paul-goffeney-1948,20-p-mk24_x2-aft-2,20-he-mk3,AA Battery,3
+av-hans-albrecht-wedel,37-sm-ein-lc34_x1-fore,37-he-t,AA Battery,1
+av-hans-albrecht-wedel,20-p-c38_x2,20-api-i_20-he-i,AA Battery,2
+av-hans-albrecht-wedel_1943,37-sm-ein-lc34_x1-fore,37-he-t,AA Battery,1
+av-hans-albrecht-wedel_1943,20-cp-vierling-c38_x2-sides,20-api-i_20-he-i,AA Battery,2
+av-hans-albrecht-wedel_1943,20-p-c38_x2,20-api-i_20-he-i,AA Battery,2
+av-hans-albrecht-wedel_richthofen-1943,37-sm-dop-lc30_x1-fore,37-he-t,AA Battery,1
+av-hans-albrecht-wedel_richthofen-1943,20-p-c38_x4,20-api-i_20-he-i,AA Battery,2
+av-hans-albrecht-wedel_richthofen-1943,20-p-mg-151-20-tripple_x2-sides,20-hei-hc,AA Battery,3
+av-chibiny-1946,37-sm-dop-lc30_x1-fore,37-he-t,AA Battery,1
+av-chibiny-1946,20-cp-vierling-c38_x4,20-api-i_20-he-i,AA Battery,2
+av-chibiny-1946,20-p-mg-151-20-tripple_x2-sides,20-hei-hc,AA Battery,3
+av-zmaj,,,Primary Gun,1
+av-zmaj,,,AA Battery,2
+av-drache,,,Primary Gun,1
+av-drache,,,AA Battery,2
+pc-drache-1942,105-cp-mpl-c32ge_ay,105-he-l44,Primary Gun,1
+pc-drache-1942,37-sm-dop-lc30_x1-aft,37-he-t,AA Battery,2
+pc-drache-1942,37-sm-ein-lc34_x1-aft,37-he-t,AA Battery,2
+pc-drache-1942,20-p-c38_x6-alt,20-api-i_20-he-i,AA Battery,3
+pc-drache-1942,dcr-unknown_x2,,,
+pc-drache-1942,placeholder_mines,,,
+pc-drache-1942_1944,88-cp-flak-lm41_ay,88-ap-30_88-he-l45,Primary Gun,1
+pc-drache-1942_1944,37-sm-dop-lc30_x1-aft,37-he-t,AA Battery,2
+pc-drache-1942_1944,20-cp-vierling-c38_x2-bridge,20-api-i_20-he-i,AA Battery,3
+pc-drache-1942_1944,20-p-c38_x5-schiff-50,20-api-i_20-he-i,AA Battery,3
+pc-drache-1942_1944,dcr-unknown_x2,,,
+pc-drache-1942_1944,placeholder_mines,,,
+cv-graf-zeppelin,149-c-mpl36_x8,149-apc-l38,Primary Gun,1
+cv-graf-zeppelin,105-sm-dop-lc37_x6-graf-zeppelin,105-he-aa-ger,Primary Gun,2
+cv-graf-zeppelin,37-sm-dop-lc30_x11-graf-zeppelin,37-he-t,AA Battery,3
+cv-graf-zeppelin,20-cp-vierling-c38_x6-graf-zeppelin,20-api-i_20-he-i,AA Battery,4
+cvl-weser,105-sm-dop-lc37_x5-weser,105-he-aa-ger,Primary Gun,1
+cvl-weser,37-sm-dop-lc30_x5-weser,37-he-t,AA Battery,2
+cvl-weser,20-p-flakzwilling-C38_x6-weser,20-api-i_20-he-i,AA Battery,3
+cvl-elbe,105-sm-dop-lc37_x4-elbe,105-he-aa-ger,Primary Gun,1
+cvl-elbe,37-sm-dop-lc30_x5-weser,37-he-t,AA Battery,2
+cvl-elbe,20-p-flakzwilling-C38_x6-elbe,20-api-i_20-he-i,AA Battery,3
+av-europa,76-p-rm-m1916_x2-f-a,76-he-ita,Primary Gun,1
+av-giuseppe-miraglia,102-p-m1914_x4,102-ap-ita_102-he-it,Primary Gun,1
+cvl-aquila,135-ag-m1938-single_x8,135-apc_135-he-ita,Primary Gun,1
+cvl-aquila,65-cp-m1939_x12,65-he-ita,AA Battery,2
+cvl-aquila,20-cp-sextuple_x21,20-he-ita,AA Battery,3
+cvl-sparviero,152-cp-m1911_x6,152-ap-ita-early,Primary Gun,1
+cvl-sparviero,102-p-m1914-aa_x4,102-he-ita,Primary Gun,2
