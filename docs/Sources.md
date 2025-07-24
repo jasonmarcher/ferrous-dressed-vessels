@@ -194,6 +194,8 @@ http://www.wings-aviation.ch/27-USNavy/Navy-Basis-de.htm
 
 https://www.seaforces.org/
 
+http://www.luftwaffe-zur-see.de/
+
 ### Chinese Ships TODO
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 

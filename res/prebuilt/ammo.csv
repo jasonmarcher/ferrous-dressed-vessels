@@ -132,6 +132,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 100-sap_100-he-fra,100mm SAP + 100mm HE (FRA),france,100,15,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-ap-fra,100mm AP,france,100,15,,,0,0,None,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891#Ammunition
 100-ap-fra-1881,100mm AP 1881,france,100,14,,,0,0,None,
+100-oea-f1-he,100mm OEA F1 HE,france,100,13.5,1.1,,13.5,1.1,,http://www.navweaps.com/Weapons/WNFR_39-55_m1953.php#Ammunition
 100-he-fra,100mm HE (FRA),france,100,13.5,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
 100-he-m1945,100mm HE Model 1945,france,100,13.3,,,13.3,,,http://www.navweaps.com/Weapons/WNFR_39-55_m1945.php
 90-he-fra-1926,90mm HE 1926,france,90,9.5,0.91,,9.5,0.91,,http://www.navweaps.com/Weapons/WNFR_35-50_m1926.php#Ammunition
@@ -172,16 +173,19 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 105-ap_105-he-ger,10.5cm AP + 10.5cm HE,germany,105,15.8,,,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
 105-he-l44,"10.5cm HE L/4,4",germany,105,15.1,1.4,FP02,15.1,1.4,FP02,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Ammunition
 105-he-aa-ger,10.5cm HE,germany,105,0,0,None,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
+88-ap-30_88-he-l45,"8.8cm AP 30 + 8.8cm HE L/4,5",germany,88,10.2,0.064,TNT,9,0.698,TNT,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc30.php#Ammunition
 88-he-l380-c07,8.8cm HE L/3.80 C/07,germany,88,9.8,1.42,,0,0,None,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-he_88-aa,8.8cm HE + 8.8cm AA,germany,88,9.8,,,9,,,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-he,8.8cm HE,germany,88,9.8,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-sap-l280-c01,8.8cm SAP L/2.80 C/01,germany,88,7,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-he-early,8.8cm HE (Early),germany,88,7,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
+75-he-l46,"7.5cm Spgr. Patr. 34 L/4,6",germany,75,5.8,0.39,TNT,5.8,0.39,TNT,http://www.navweaps.com/Weapons/WNGER_3-36_skc34.php#Ammunition
 52-he-ger,5.2cm HE,germany,52,1.75,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_52cm-55_skc06.php#Ammunition
 50-he-ger,5cm HE,germany,50,1.75,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_5cm-40_skc93.php#Ammunition
 40-he-t,4cm HE-T,germany,40,1,,,1,,,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#Ammunition
 37-he-t,3.7cm HE-T,germany,37,0.74,0.03,FP02,0.74,0.03,FP02,http://www.navweaps.com/Weapons/WNGER_37mm-83_skc30.php
 20-api-i_20-he-i,2cm AP-I + 2cm HE-I,germany,20,0.15,0,None,0.12,0.01,PETN,http://www.navweaps.com/Weapons/WNGER_20mm-65_c30.php
+20-hei-hc,2cm HEI-HC,germany,20,0.09,0.019,PETN,0.09,0.019,PETN,https://en.wikipedia.org/wiki/20%C3%9782mm
 7-b-79-mauser,7.9mm Mauser,germany,7.9,0.01,0,None,0.01,0,None,https://en.wikipedia.org/wiki/MG_08
 381-apc-ita,381mm APC,italy,381,885,10.16,TNT,0,0,None,http://www.navweaps.com/Weapons/WNIT_15-50_m1934.php
 381-ap-ita,381mm AP,italy,381,884,,,0,0,None,http://www.navweaps.com/Weapons/WNIT_15-40_m1914.php
@@ -197,6 +201,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 135-apc_135-he-ita,135mm APC + 135mm HE,italy,135,32.7,,,32.7,,,http://www.navweaps.com/Weapons/WNIT_53-45_m1938.php#Ammunition
 120-he-ita-late,120mm HE,italy,120,23.2,,,0,0,None,http://www.navweaps.com/Weapons/WNIT_47-50_m1926.php#Ammunition
 120-he-ita,120mm HE,italy,120,22.1,,,0,0,None,https://en.wikipedia.org/wiki/Conte_di_Cavour-class_battleship#cite_note-c12-15
+102-ap-ita_102-he-it,102mm AP,italy,102,15,,,13.7,,,http://www.navweaps.com/Weapons/WNIT_4-35_m1914.php#Ammunition
 102-he-ita,102mm HE,italy,102,13.7,,,13.7,,,http://www.navweaps.com/Weapons/WNIT_4-45_m1917.php
 100-he-ita,100mm HE,italy,100,13.8,,,13.8,,,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Ammunition
 90-he-aa-ita,90mm HE AA,italy,90,10.1,,,10.1,,,http://www.navweaps.com/Weapons/WNIT_35-50_m1939.php
@@ -273,6 +278,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 120-ap-spain,120mm AP (Spain),spain,120,24,,,0,0,None,https://en.wikipedia.org/wiki/Gonzalez_Hontoria_de_12_cm_mod_1883
 57-ap-nord,57mm AP Nordenfelt,sweden,57,2.9,0,None,0,0,None,https://en.wikipedia.org/wiki/QF_6-pounder_Nordenfelt
 40-het_40-pfhe,40mm HE-T / 40mm PFHE,sweden,40,0.96,0.115,,0.88,,,http://www.navweaps.com/Weapons/WNSweden_4cm-70_m1948.php#Ammunition
+13-b-unknown,13.2mm Unknown,unknown,13.2,0.05,0,None,0.05,0,None,
 8-b-uknown,8mm Unknown,unknown,8,0.01,0,None,0.01,0,None,
 7-b-uknown,7.7mm Unknown,unknown,7.7,0.01,0,None,0.01,0,None,
 7-b-uknown-30,7.6mm Unknown,unknown,7.6,0.01,0,None,0.01,0,None,
