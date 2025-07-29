@@ -2370,6 +2370,11 @@ bb-yamato,155-ag-3rd-year_x4,155-ap-type91,Secondary Gun,2
 bb-yamato,127-ag-a1-mod3_x6,127-he-type0,Secondary Gun,3
 bb-yamato,25-ag-type96-triple_x8,25-com-jpn,AA Battery,4
 bb-yamato,13-p-type93-twin_x2,13-ap-jpn,AA Battery,5
+bb-yamato_shinano,460-ag-type94_aby,460-apc-type1,Primary Gun,1
+bb-yamato_shinano,155-ag-3rd-year_x4,155-ap-type91,Secondary Gun,2
+bb-yamato_shinano,100-ag-type-a_x6-shinano,100-he-type0,Secondary Gun,3
+bb-yamato_shinano,25-ag-type96-triple_x8,25-com-jpn,AA Battery,4
+bb-yamato_shinano,13-p-type93-twin_x2,13-ap-jpn,AA Battery,5
 bb-yamato_1942,460-ag-type94_aby,460-apc-type1,Primary Gun,1
 bb-yamato_1942,155-ag-3rd-year_x4,155-ap-type91,Secondary Gun,2
 bb-yamato_1942,127-ag-a1-mod3_x6,127-he-type0,Secondary Gun,3
@@ -14579,3 +14584,237 @@ cvl-aquila,65-cp-m1939_x12,65-he-ita,AA Battery,2
 cvl-aquila,20-cp-sextuple_x21,20-he-ita,AA Battery,3
 cvl-sparviero,152-cp-m1911_x6,152-ap-ita-early,Primary Gun,1
 cvl-sparviero,102-p-m1914-aa_x4,102-he-ita,Primary Gun,2
+av-dedalo,105-gs-mpl-c91_x4,105-ap-1891,Primary Gun,1
+av-dedalo,57-p-nord-aa_x2,57-he-rus,AA Battery,2
+cv-akagi,200-ag-model-b_x2-fore,200-apc-type-5,Primary Gun,1
+cv-akagi,200-c-model-a1_x6-sides,200-apc-type-5,Primary Gun,1
+cv-akagi,120-cp-10th-year-a2_x6,120-he-com-type0,Primary Gun,2
+cv-akagi_1931,200-ag-model-b_x2-fore,200-apc-type-5,Primary Gun,1
+cv-akagi_1931,200-c-model-a1_x6-sides,200-apc-type-5,Primary Gun,1
+cv-akagi_1931,120-cp-10th-year-a2_x6,120-he-com-type0,Secondary Gun,2
+cv-akagi_1931,25-cp-type96-twin_x10-akagi,25-com-jpn,AA Battery,3
+cv-akagi-1935,200-c-model-a1_x6-sides,200-apc-type-5,Primary Gun,1
+cv-akagi-1935,120-ag-10th-year-a2_x6,120-he-com-type0,Secondary Gun,2
+cv-akagi-1935,25-cp-type96-twin_x14-akagi,25-com-jpn,AA Battery,3
+cv-kaga,200-ag-model-b_x2-fore,200-apc-type-5,Primary Gun,1
+cv-kaga,200-c-model-a1_x6-sides,200-apc-type-5,Primary Gun,1
+cv-kaga,120-cp-10th-year-a2_x6,120-he-com-type0,Primary Gun,2
+cv-kaga-1934,200-c-model-a1_x10-sides,200-apc-type-5,Primary Gun,1
+cv-kaga-1934,127-cp-a1_x8-kaga,127-he-type0,Primary Gun,2
+cv-kaga-1934,25-cp-type96-twin_x14-kaga,25-com-jpn,AA Battery,3
+cv-soryu,127-cp-a1_x6-soryu,127-he-type0,Primary Gun,1
+cv-soryu,25-cp-type96-twin_x14-soryu,25-com-jpn,AA Battery,2
+cv-hiryu,127-cp-a1_x6-soryu,127-he-type0,Primary Gun,1
+cv-hiryu,25-cp-type96-triple_x9-hiryu,25-com-jpn,AA Battery,2
+cv-hiryu,25-cp-type96-twin_x3-side,25-com-jpn,AA Battery,2
+cv-shokaku,127-cp-a1_x8-shokaku,127-he-type0,Primary Gun,1
+cv-shokaku,25-cp-type96-triple_x12-shokaku,25-com-jpn,AA Battery,2
+cv-shokaku_1942-6,127-cp-a1_x8-shokaku,127-he-type0,Primary Gun,1
+cv-shokaku_1942-6,25-cp-type96-triple_x18-shokaku,25-com-jpn,AA Battery,2
+cv-shokaku_1942-12,127-cp-a1_x8-shokaku,127-he-type0,Primary Gun,1
+cv-shokaku_1942-12,25-cp-type96-triple_x20-shokaku,25-com-jpn,AA Battery,2
+cv-shokaku_1944,127-cp-a1_x8-shokaku,127-he-type0,Primary Gun,1
+cv-shokaku_1944,25-cp-type96-triple_x20-shokaku,25-com-jpn,AA Battery,2
+cv-shokaku_1944,25-p-type96-single_x10-shokaku,25-com-jpn,AA Battery,2
+cv-shokaku_zuikaku-1944,127-cp-a1_x8-shokaku,127-he-type0,Primary Gun,1
+cv-shokaku_zuikaku-1944,25-cp-type96-triple_x20-shokaku,25-com-jpn,AA Battery,2
+cv-shokaku_zuikaku-1944,25-p-type96-single_x36-shokaku,25-com-jpn,AA Battery,2
+cv-shokaku_zuikaku-1944,120-aa-rocket_x8,,,
+cv-shokaku_zuikaku-1944,placeholder_rocket,,,
+cv-junyo,127-cp-a1_x6-junyo,127-he-type0,Primary Gun,1
+cv-junyo,25-cp-type96-triple_x8-junyo,25-com-jpn,AA Battery,2
+cv-junyo_1943,127-cp-a1_x6-junyo,127-he-type0,Primary Gun,1
+cv-junyo_1943,25-cp-type96-triple_x12-junyo,25-com-jpn,AA Battery,2
+cv-junyo_1944-2,127-cp-a1_x6-junyo,127-he-type0,Primary Gun,1
+cv-junyo_1944-2,25-cp-type96-triple_x16-junyo,25-com-jpn,AA Battery,2
+cv-junyo_1944-2,25-p-type96-single_x12-junyo,25-com-jpn,AA Battery,2
+cv-junyo_1944-9,127-cp-a1_x6-junyo,127-he-type0,Primary Gun,1
+cv-junyo_1944-9,25-cp-type96-triple_x19-junyo,25-com-jpn,AA Battery,2
+cv-junyo_1944-9,25-cp-type96-twin_x2-junyo,25-com-jpn,AA Battery,2
+cv-junyo_1944-9,25-p-type96-single_x30-junyo,25-com-jpn,AA Battery,2
+cv-junyo_1944-9,120-aa-rocket_x6,,,
+cv-junyo_1944-9,placeholder_rocket,,,
+cv-taiho,100-ag-type-a_x6-taiho,100-he-type0,Primary Gun,1
+cv-taiho,25-cp-type96-triple_x17-taiho,25-com-jpn,AA Battery,2
+cv-shinano,127-cp-a1_x8-shinano,127-he-type0,Primary Gun,1
+cv-shinano,25-cp-type96-triple_x37-shinano,25-com-jpn,AA Battery,2
+cv-shinano,25-p-type96-single_x40-shinano,25-com-jpn,AA Battery,2
+cv-shinano,120-aa-rocket_x12,,,
+cv-shinano,placeholder_rocket,,,
+cv-unryu,127-cp-a1_x6-junyo,127-he-type0,Primary Gun,1
+cv-unryu,25-cp-type96-triple_x16-unryu,25-com-jpn,AA Battery,2
+cv-unryu,25-p-type96-single_x3-unryu,25-com-jpn,AA Battery,2
+cv-unryu_1944,127-cp-a1_x6-junyo,127-he-type0,Primary Gun,1
+cv-unryu_1944,25-cp-type96-triple_x20-unryu,25-com-jpn,AA Battery,2
+cv-unryu_1944,25-p-type96-single_x16-unryu,25-com-jpn,AA Battery,2
+cv-unryu_1944,120-aa-rocket_x6,,,
+cv-unryu_1944,placeholder_rocket,,,
+cv-unryu_amagi-1944,127-cp-a1_x6-junyo,127-he-type0,Primary Gun,1
+cv-unryu_amagi-1944,25-cp-type96-triple_x22-unryu,25-com-jpn,AA Battery,2
+cv-unryu_amagi-1944,25-p-type96-single_x23-unryu,25-com-jpn,AA Battery,2
+cv-unryu_amagi-1944,120-aa-rocket_x6,,,
+cv-unryu_amagi-1944,placeholder_rocket,,,
+cv-katsuragi,127-cp-a1_x6-junyo,127-he-type0,Primary Gun,1
+cv-katsuragi,25-cp-type96-triple_x16-unryu,25-com-jpn,AA Battery,2
+cv-katsuragi,25-p-type96-single_x3-unryu,25-com-jpn,AA Battery,2
+cv-katsuragi_1944,127-cp-a1_x6-junyo,127-he-type0,Primary Gun,1
+cv-katsuragi_1944,25-cp-type96-triple_x22-unryu,25-com-jpn,AA Battery,2
+cv-katsuragi_1944,25-p-type96-single_x23-unryu,25-com-jpn,AA Battery,2
+cv-katsuragi_1944,120-aa-rocket_x6,,,
+cv-katsuragi_1944,placeholder_rocket,,,
+cvl-hosho,140-pgs-3rd-20_x4,140-cap-com,Primary Gun,1
+cvl-hosho,76-p-3rd-year_x2-hosho,76-he-com-type0,AA Battery,2
+cvl-hosho,7-p-type92_x2,7-s-303-british,AA Battery,3
+cvl-hosho_1924,140-pgs-3rd-20_x4,140-cap-com,Primary Gun,1
+cvl-hosho_1924,76-p-3rd-year_x2-hosho,76-he-com-type0,AA Battery,2
+cvl-hosho_1924,7-p-type92_x2,7-s-303-british,AA Battery,3
+cvl-hosho_1935,140-pgs-3rd-20_x4,140-cap-com,Primary Gun,1
+cvl-hosho_1935,76-p-3rd-year_x2-hosho,76-he-com-type0,AA Battery,2
+cvl-hosho_1935,25-cp-type96-twin_x6-hosho,25-com-jpn,AA Battery,3
+cvl-hosho_1940,140-pgs-3rd-20_x4,140-cap-com,Primary Gun,1
+cvl-hosho_1940,25-cp-type96-twin_x8-hosho,25-com-jpn,AA Battery,3
+cvl-hosho-1944,25-cp-type96-twin_x10-hosho,25-com-jpn,AA Battery,1
+cvl-ryujo,127-cp-a1_x6-ryujo,127-he-type0,Primary Gun,1
+cvl-ryujo,13-p-type93-quad_x6-ryujo,13-ap-jpn,AA Battery,2
+cvl-ryujo-1935,127-cp-a1_x4-ryujo,127-he-type0,Primary Gun,1
+cvl-ryujo-1935,25-cp-type96-twin_x2-sides,25-com-jpn,AA Battery,2
+cvl-ryujo-1935,13-p-type93-quad_x6-ryujo,13-ap-jpn,AA Battery,3
+cvl-ryujo-1935_1942,127-cp-a1_x4-ryujo,127-he-type0,Primary Gun,1
+cvl-ryujo-1935_1942,25-cp-type96-triple_x6-ryujo,25-com-jpn,AA Battery,2
+cvl-ryujo-1935_1942,25-cp-type96-twin_x2-sides,25-com-jpn,AA Battery,2
+ad-tsurugisaki,127-cp-a1_ay,127-he-type0,Primary Gun,1
+ad-tsurugisaki,25-cp-type96-twin_x4-taigei,25-com-jpn,AA Battery,2
+cvl-zuiho,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cvl-zuiho,25-cp-type96-twin_x4-zuiho,25-com-jpn,AA Battery,2
+cvl-zuiho_shoho,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cvl-zuiho_shoho,25-cp-type96-triple_x4-zuiho,25-com-jpn,AA Battery,2
+cvl-zuiho-1943,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cvl-zuiho-1943,25-cp-type96-triple_x10-zuiho,25-com-jpn,AA Battery,2
+cvl-zuiho-1943,25-cp-type96-twin_x4-zuiho-2,25-com-jpn,AA Battery,2
+cvl-zuiho-1943,25-p-type96-single_x10-zuiho,25-com-jpn,AA Battery,2
+cvl-zuiho-1943_1944,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cvl-zuiho-1943_1944,25-cp-type96-triple_x10-zuiho,25-com-jpn,AA Battery,2
+cvl-zuiho-1943_1944,25-cp-type96-twin_x4-zuiho-2,25-com-jpn,AA Battery,2
+cvl-zuiho-1943_1944,25-p-type96-single_x30-zuiho,25-com-jpn,AA Battery,2
+cvl-zuiho-1943_1944,120-aa-rocket_x6-zuiho,,,
+cvl-zuiho-1943_1944,placeholder_rocket,,,
+ad-taigei,127-cp-a1_ay,127-he-type0,Primary Gun,1
+ad-taigei,13-p-type93-quad_x3-taigei,13-ap-jpn,AA Battery,2
+cvl-ryuho,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cvl-ryuho,25-cp-type96-triple_x10-ryuho,25-com-jpn,AA Battery,2
+cvl-ryuho_1943,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cvl-ryuho_1943,25-cp-type96-triple_x10-ryuho,25-com-jpn,AA Battery,2
+cvl-ryuho_1943,25-p-type96-single_x4-sides,25-com-jpn,AA Battery,2
+cvl-ryuho-1944,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cvl-ryuho-1944,25-cp-type96-triple_x10-zuiho,25-com-jpn,AA Battery,2
+cvl-ryuho-1944,25-cp-type96-twin_x4-zuiho-2,25-com-jpn,AA Battery,2
+cvl-ryuho-1944,25-p-type96-single_x20-ryuho,25-com-jpn,AA Battery,2
+cvl-ryuho-1944,120-aa-rocket_x6-zuiho,,,
+cvl-ryuho-1944,placeholder_rocket,,,
+av-chitose,127-cp-a1_ab,127-he-type0,Primary Gun,1
+av-chitose,25-cp-type96-twin_x6-chitose,25-com-jpn,AA Battery,2
+cvl-chitose,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cvl-chitose,25-cp-type96-triple_x10-zuiho,25-com-jpn,AA Battery,2
+cvl-ibuki,127-cp-a1_x2-ibuki,127-he-type0,Primary Gun,1
+cvl-ibuki,25-cp-type96-triple_x16-ibuki,25-com-jpn,AA Battery,2
+cvl-ibuki,120-aa-rocket_x4,,,
+cvl-ibuki,placeholder_rocket,,,
+av-wakamiya,76-p-41st-year_ay,76-he-jpn,Primary Gun,1
+av-wakamiya,47-p-d-s_x2-sides,47-com-mk4,Tertiary Gun,2
+av-wakamiya-1920,76-p-41st-year_ay,76-he-jpn,Primary Gun,1
+av-wakamiya-1920,47-p-d-s_x2-sides,47-com-mk4,Tertiary Gun,2
+mav-notoro,120-p-type41_ay,120-com-jpn,Primary Gun,1
+mav-notoro,76-cp-41st-year_x2,76-he-jpn,Secondary Battery,2
+mav-kamoi,140-pgs-3rd-20_ay,140-cap-com,Primary Gun,1
+mav-kamoi,76-cp-41st-year_x2,76-he-jpn,Secondary Battery,2
+mav-kamoi,13-p-type93-twin_x2,13-ap-jpn,AA Battery,3
+mav-kamoi_1939,140-pgs-3rd-20_ay,140-cap-com,Primary Gun,1
+mav-kamoi_1939,76-cp-41st-year_x2,76-he-jpn,Secondary Battery,2
+mav-kamoi_1939,13-p-type93-twin_x2,13-ap-jpn,AA Battery,3
+av-mizuho,127-cp-a1_aps,127-he-type0,Primary Gun,1
+av-mizuho,25-cp-type96-twin_x6-mizuho,25-com-jpn,AA Battery,2
+av-mizuho_1942,127-cp-a1_aps,127-he-type0,Primary Gun,1
+av-mizuho_1942,25-cp-type96-twin_x10-mizuho,25-com-jpn,AA Battery,2
+av-nisshin,140-ag-3rd-35_abc,140-cap-com,Primary Gun,1
+av-nisshin,25-cp-type96-triple_x8-nisshin,25-com-jpn,AA Battery,2
+av-nisshin,25-p-type96-single_x2-fore,25-com-jpn,AA Battery,2
+av-akitsushima,127-gs-a1_a,127-he-type0,Primary Gun,1
+av-akitsushima,127-cp-a1_r,127-he-type0,Primary Gun,1
+av-akitsushima,25-cp-type96-twin_x2-akitsushima,25-com-jpn,AA Battery,2
+av-akitsushima,dct-unknown_x6,,,
+av-akitsushima_1944,127-gs-a1_a,127-he-type0,Primary Gun,1
+av-akitsushima_1944,127-cp-a1_r,127-he-type0,Primary Gun,1
+av-akitsushima_1944,25-cp-type96-triple_x2-aft-2,25-com-jpn,AA Battery,2
+av-akitsushima_1944,25-cp-type96-twin_x2-akitsushima,25-com-jpn,AA Battery,2
+av-akitsushima_1944,dct-unknown_x6,,,
+mav-hayasui,127-gs-a1_ay,127-he-type0,Primary Gun,1
+mav-hayasui,25-cp-type96-twin_x7-hayasui,25-com-jpn,AA Battery,2
+at-kamikawa-maru,120-p-10th-year-b_ay,120-he-com-type0,Primary Gun,1
+at-kamikawa-maru,7-p-type92_x2,7-s-303-british,AA Battery,2
+mav-kamikawa-maru,152-gs-41st-year_ay,152-com-mod1,Primary Gun,1
+mav-kamikawa-maru,25-cp-type96-twin_x2,25-com-jpn,AA Battery,2
+mav-kamikawa-maru,13-p-type93-single_x2,13-ap-jpn,AA Battery,3
+mav-kamikawa-maru_kimikawa-maru,152-gs-41st-year_ay,152-com-mod1,Primary Gun,1
+mav-kamikawa-maru_kimikawa-maru,76-cp-41st-year_x2-fore-2,76-he-jpn,Secondary Battery,2
+mav-kamikawa-maru_kimikawa-maru,25-cp-type96-twin_x2,25-com-jpn,AA Battery,3
+mav-kamikawa-maru_kimikawa-maru,13-p-type93-single_x2,13-ap-jpn,AA Battery,4
+mav-kagu-maru,120-p-10th-year-b_ay,120-he-com-type0,Primary Gun,1
+mav-kagu-maru,7-p-type92_x2,7-s-303-british,AA Battery,2
+cm-noshiro-maru,152-gs-41st-year_x4,152-com-mod1,Primary Gun,1
+cm-noshiro-maru,76-cp-41st-year_x1-aft,76-he-jpn,Secondary Battery,2
+cm-noshiro-maru,13-p-type93-single_x2,13-ap-jpn,AA Battery,3
+av-sanuki-maru_sagara-maru,140-pgs-3rd-30_ay,140-cap-com,Primary Gun,1
+av-sanuki-maru_sagara-maru,13-p-type93-single_x2,13-ap-jpn,AA Battery,2
+av-sanuki-maru,152-gs-41st-year_ay,152-com-mod1,Primary Gun,1
+av-sanuki-maru,76-cp-41st-year_x2-fore-2,76-he-jpn,Secondary Battery,2
+av-sanuki-maru,13-p-type93-single_x2,13-ap-jpn,AA Battery,3
+mav-sanyo-maru,152-gs-41st-year_ay,152-com-mod1,Primary Gun,1
+mav-sanyo-maru,13-p-type93-single_x2,13-ap-jpn,AA Battery,2
+cve-taiyo,120-p-10th-year-b_x6-taiyo,120-he-com-type0,Primary Gun,1
+cve-taiyo,25-cp-type96-twin_x4-taiyo,25-com-jpn,AA Battery,2
+cve-taiyo,dcr-unknown_x2,,,
+cve-taiyo_unyo,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cve-taiyo_unyo,25-cp-type96-twin_x4-taiyo,25-com-jpn,AA Battery,2
+cve-taiyo_unyo,dcr-unknown_x2,,,
+cve-taiyo_1943,120-p-10th-year-b_x6-taiyo,120-he-com-type0,Primary Gun,1
+cve-taiyo_1943,25-cp-type96-triple_x8-taiyo,25-com-jpn,AA Battery,2
+cve-taiyo_1943,dcr-unknown_x2,,,
+cve-taiyo_unyo-1943,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cve-taiyo_unyo-1943,25-cp-type96-triple_x8-taiyo,25-com-jpn,AA Battery,2
+cve-taiyo_unyo-1943,dcr-unknown_x2,,,
+cve-taiyo-1943,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cve-taiyo-1943,25-cp-type96-triple_x12-taiyo,25-com-jpn,AA Battery,2
+cve-taiyo-1943,25-p-type96-single_x28-taiyo,25-com-jpn,AA Battery,2
+cve-taiyo-1943,13-p-type93-twin_x5-taiyo,13-ap-jpn,AA Battery,3
+cve-taiyo-1943,dcr-unknown_x2,,,
+cve-chuyo,127-cp-a1_x4-chuyo,127-he-type0,Primary Gun,1
+cve-chuyo,25-cp-type96-twin_x4-taiyo,25-com-jpn,AA Battery,2
+cve-chuyo,dcr-unknown_x2,,,
+cve-chuyo_1943,127-cp-a1_x4-chuyo,127-he-type0,Primary Gun,1
+cve-chuyo_1943,25-cp-type96-triple_x6-taiyo,25-com-jpn,AA Battery,2
+cve-chuyo_1943,25-cp-type96-twin_x2-junyo,25-com-jpn,AA Battery,2
+cve-chuyo_1943,13-p-type93-single_x5-taiyo,13-ap-jpn,AA Battery,3
+cve-chuyo_1943,dcr-unknown_x2,,,
+cve-kaiyo,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cve-kaiyo,25-cp-type96-triple_x8-kaiyo,25-com-jpn,AA Battery,2
+cve-kaiyo,dcr-unknown_x2,,,
+cve-kaiyo_1944,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cve-kaiyo_1944,25-cp-type96-triple_x8-kaiyo,25-com-jpn,AA Battery,2
+cve-kaiyo_1944,13-p-type93-single_x20-kaiyo,25-com-jpn,AA Battery,2
+cve-kaiyo_1944,dcr-unknown_x2,,,
+cve-shinyo,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cve-shinyo,25-cp-type96-triple_x10-shinyo,25-com-jpn,AA Battery,2
+cve-shinyo_1944-3,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cve-shinyo_1944-3,25-cp-type96-triple_x10-shinyo,25-com-jpn,AA Battery,2
+cve-shinyo_1944-3,13-p-type93-single_x12-shinyo,25-com-jpn,AA Battery,2
+cve-shinyo_1944-7,127-cp-a1_x4-zuiho,127-he-type0,Primary Gun,1
+cve-shinyo_1944-7,25-cp-type96-triple_x10-shinyo,25-com-jpn,AA Battery,2
+cve-shinyo_1944-7,13-p-type93-single_x20-kaiyo,25-com-jpn,AA Battery,2
+mac-yamashiro-maru,25-cp-type96-triple_x2-yamashiro-maru,25-com-jpn,AA Battery,1
+mac-yamashiro-maru,13-p-type93-single_x8-yamashiro-maru,25-com-jpn,AA Battery,1
+mac-yamashiro-maru,150-aswrl-ijn_x1-fore,,,
+mac-shimane-maru,120-p-10th-year-b_x2-shimane-maru,120-he-com-type0,Primary Gun,1
+mac-shimane-maru,25-cp-type96-triple_x9-shimane-maru,25-com-jpn,AA Battery,2
+mac-shimane-maru,25-cp-type96-twin_x1-aft,25-com-jpn,AA Battery,2
+mac-shimane-maru,13-p-type93-single_x10-shimane-maru,25-com-jpn,AA Battery,2
+mac-shimane-maru,dcr-unknown_x1,,,

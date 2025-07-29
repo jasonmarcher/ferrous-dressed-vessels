@@ -260,7 +260,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 203-ag-model-e2,203,20cm/50 Model E2,japan,Armored Gunhouse,203-bg-3rd-year-no2a,2,55,http://www.navweaps.com/Weapons/WNJAP_8-50_3ns.php#Mount%2FTurret_Data
 203-ag-model-c,203,20cm/50 Model C/D,japan,Armored Gunhouse,203-bg-3rd-year-no2a,2,40,http://www.navweaps.com/Weapons/WNJAP_8-50_3ns.php#Mount%2FTurret_Data
 200-ag-model-c,203,20cm/50 Model C/D,japan,Armored Gunhouse,200-bg-3rd-year-no1b,2,40,http://www.navweaps.com/Weapons/WNJAP_8-50_3ns.php#Mount%2FTurret_Data
-200-ag-model-b,200,20cm/50 Model B,japan,Armored Gunhouse,200-bg-3rd-year-no1b,2,70,http://www.navweaps.com/Weapons/WNJAP_79-50_3ns.php#Mount%2FTurret_Data
+200-ag-model-b,200,20cm/50 Model B,japan,Armored Gunhouse,200-bg-3rd-year-no1b,2,55,http://www.navweaps.com/Weapons/WNJAP_79-50_3ns.php#Mount%2FTurret_Data
+200-c-model-a1,200,20cm/50 Model A1,japan,Central Pivot (Casement),200-bg-3rd-year-no1b,1,25,http://www.navweaps.com/Weapons/WNJAP_79-50_3ns.php#Mount%2FTurret_Data
 200-ag-model-a,200,20cm/50 Model A,japan,Armored Gunhouse,200-bg-3rd-year-no1a,1,25,http://www.navweaps.com/Weapons/WNJAP_79-50_3ns.php#Mount%2FTurret_Data
 194-ccar-50pdr,194,194mm/16 50-pdr,france,Carriage (Casement),194-ml-50pdr,1,,https://en.wikipedia.org/wiki/French_ironclad_Provence#Armament_and_protection
 194-ag-m1904-twin,194,194mm/50 Model 1904,france,Armored Gunhouse,194-bg-m1902,2,15,http://www.navweaps.com/Weapons/WNFR_76-50_m1902.php
@@ -404,6 +405,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 152-ag-mk-17,152,152mm/57 MK-17,russia,Armored Gunhouse,152-bg-b38-p1938,2,45,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
 152-p-armstrong-z,152,"6""/40 Armstrong Z",japan,Pedestal (Gun Shield),152-bg-armstrong-z,1,20,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
 152-gs-a91,152,"6""/40 Armstrong 91",italy,Pedestal (Gun Shield),152-bg-armstrong-z,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
+152-gs-41st-year,152,15 cm/40 41st Year Type,japan,Pedestal (Gun Shield),152-bg-armstrong-z,1,20,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
 152-c-armstrong-z,152,"6""/40 Armstrong Z",japan,Pedestal (Casement),152-bg-armstrong-z,1,20,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
 152-c-a91,152,"6""/40 Armstrong 91",italy,Pedestal (Casement),152-bg-armstrong-z,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
 152-c-a1918,152,152mm/50 Armstrong Model 1918,italy,Pedestal (Casement),152-bg-a1918,1,,https://en.wikipedia.org/wiki/Francesco_Caracciolo-class_battleship
@@ -519,10 +521,12 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 120-gs-armstrong-p,120,"4.7""/40 Armstrong P",japan,Pedestal (Gun Shield),120-bg-armstrong-p,1,20,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-c-armstrong-p,120,"4.7""/40 Armstrong P",japan,Pedestal (Casement),120-bg-armstrong-p,1,20,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-piv-armstrong-m,120,"4.7""/32 Armstrong M",britain,Pivot,120-bg-armstrong-m,1,,Identification of the Parameters of Naval Artillery
-120-p-10th-year-b2,120,12cm/45 10th Year Type B2,japan,Pedestal,120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
-120-p-10th-year-b,120,12cm/45 10th Year Type B,japan,Pedestal,120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
-120-gs-10th-year-b2,120,12cm/45 10th Year Type B2,japan,Pedestal (Gun Shield),120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
-120-gs-10th-year-b,120,12cm/45 10th Year Type B,japan,Pedestal (Gun Shield),120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php
+120-cp-10th-year-a2,120,12cm/45 10th Year Type A2,japan,Central Pivot,120-bg-10th-year-type,2,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php#Mount%2FTurret_Data
+120-ag-10th-year-a2,120,12cm/45 10th Year Type A2,japan,Armored Gunhouse,120-bg-10th-year-type,2,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php#Mount%2FTurret_Data
+120-p-10th-year-b2,120,12cm/45 10th Year Type B2,japan,Pedestal,120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php#Mount%2FTurret_Data
+120-p-10th-year-b,120,12cm/45 10th Year Type B,japan,Pedestal,120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php#Mount%2FTurret_Data
+120-gs-10th-year-b2,120,12cm/45 10th Year Type B2,japan,Pedestal (Gun Shield),120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php#Mount%2FTurret_Data
+120-gs-10th-year-b,120,12cm/45 10th Year Type B,japan,Pedestal (Gun Shield),120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php#Mount%2FTurret_Data
 114-gs-markiii-ud,114,"4.5""/45 Mark III UD",britain,Central Pivot (Gun Shield),114-bg-qf-marki,2,80,http://www.navweaps.com/Weapons/WNBR_45-45_mk1.php#Mount%2FTurret_Data
 114-ag-markii-bd,114,"4.5""/45 Mark II BD",britain,Armored Gunhouse,114-bg-qf-marki,2,80,http://www.navweaps.com/Weapons/WNBR_45-45_mk1.php#Mount%2FTurret_Data
 105-gs-sk-c11,105,10.5cm/42 MPL C/06,germany,Pedestal (Gun Shield),105-bg-sk-l45,1,30,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php#Mount_%2F_Turret_Data
@@ -564,6 +568,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 102-gs-vbii,102,"4""/27 VBII",britain,Pedestal (Gun Shield),102-bg-bl-marki,1,18.5,http://www.navweaps.com/Weapons/WNBR_4-25_mk1.php#4%22%2F27_%2810.2_cm%29_Mark_II%2C_4%22%2F27_%2810.2_cm%29_Mark_III%2C_4%22%2F27_%2810.2_cm%29_Mark_IV%2C_4%22%2F27_%2810.2_cm%29_Mark_V%2C_4%22%2F27_%2810.2_cm%29_Mark_VI
 102-cp-a1917,102,102mm/45 Armstrong Model 1917,italy,Central Pivot,102-bg-a1917,1,35,http://www.navweaps.com/Weapons/WNIT_4-45_m1917.php
 100-ag-type-a1,100,10cm/65 Type A1,japan,Armored Gunhouse,100-bg-type-98,2,90,http://www.navweaps.com/Weapons/WNJAP_39-65_t98.php#Mount%2FTurret_Data
+100-ag-type-a,100,10cm/65 Type A,japan,Armored Gunhouse,100-bg-type-98,2,90,http://www.navweaps.com/Weapons/WNJAP_39-65_t98.php#Mount%2FTurret_Data
 100-ag-m1953,100,100mm/55 Model 1953,france,Armored Gunhouse,100-bg-m1953,1,90,http://www.navweaps.com/Weapons/WNFR_39-55_m1953.php#Mount%2FTurret_Data
 100-ag-cad-m1945,100,100mm/55 CAD Model 1945,france,Armored Gunhouse,100-bg-m1945,2,70,http://www.navweaps.com/Weapons/WNFR_39-55_m1945.php
 100-gs-m1937,100,100mm/47 OTO Model 1937,italy,Central Pivot (Gun Shield),100-bg-m1931,1,60,http://www.navweaps.com/Weapons/WNIT_39-47_m1931.php#Mount%2FTurret_Data
@@ -668,7 +673,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 65-p-m1888,65,65mm/50 Model 1888,france,Pedestal,65-bg-m1888,1,20,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
 63-p-p1916,63,"2.5""/36 Pattern 1916",russia,Pedestal,63-bg-p1916,1,75,http://www.navweaps.com/Weapons/WNRussian_25-38_m1916.php
 57-ag-acad-m1948,57,57mm/60 ACAD Model 1948,france,Armored Gunhouse,57-mg-m1951,2,94,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
-57-p-nord-aa,57,57mm/43 Nordenfelt Model 1887,russia,Pedestal,57-bg-n1885,1,65,http://www.navweaps.com/Weapons/WNRussian_57mm_Hotchkiss.php#Mount%2FTurret_Data
+57-p-nord-aa,57,57mm/43 Nordenfelt Model 1887,russia,Pedestal,57-bg-nord-aa,1,65,http://www.navweaps.com/Weapons/WNRussian_57mm_Hotchkiss.php#Mount%2FTurret_Data
 57-p-n1885,57,57mm/43 Nordenfelt Model 1887,sweden,Pedestal,57-bg-n1885,1,15,http://navypedia.org/arms/italy/arms_it_guns.htm
 57-p-mk1,57,6-pdr Hotchkiss Mark 1,usa,Pedestal,57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 57-p-markic-ha,57,6-pdr Mark IC HA,britain,Pedestal,57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php#Mount%2FTurret_Data
