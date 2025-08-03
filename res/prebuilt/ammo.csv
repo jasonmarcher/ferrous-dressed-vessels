@@ -251,8 +251,12 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 305-ap-rus,305mm AP,russia,305,471,,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_12-55_B-50.php
 305-ap-hv-rus,305mm AP (HV),russia,305,467,,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_12-62_m1948.php
 305-ap-old-model-rus,305mm AP old model,russia,305,332,5.3,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_12-40_m1895.php
-254-ap-rus,254mm AP,russia,254,225,,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_10-45_m1891.php
+254-ap-rus,254mm AP,russia,254,225.2,3.89,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_10-45_m1891.php
+203-sap-rus,203mm SAP,russia,203,139.2,,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_8-50_m1905.php
 203-he-m1907,203mm HE mod 1907,russia,203,112,14.1,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_8-50_m1905.php
+203-ap-rus-light,203mm AP Light,russia,203,90,2.66,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_8-35_m1885.php#Ammunition
+203-ap-rus-old,"203mm AP ""old model""",russia,203,87.8,,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_8-45_m1892.php#Ammunition
+180-ap-m1928,180mm AP mod 1928,russia,180,97.5,2,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_71-57_m1932.php#Ammunition
 152-ap-rus,152mm AP,russia,152,55,1.1,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
 152-ap-b35,152mm AP B-35,russia,152,55,1.1,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
 152-ap-old-model-rus,152mm AP old model,russia,152,41.4,1.23,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_6-45_m1892.php
@@ -261,6 +265,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 120-sap-m1911,120mm SAP mod 1911,russia,120,29,3.73,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_47-50_m1905.php
 120-he-m1907,120mm HE mod 1907,russia,120,20.5,2.56,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_47-45_m1892.php
 100-he-f56_100-aa,100mm HE F-56 + 100mm AA,russia,100,15.8,1.25,,15.6,1.21,,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php
+85-aa-o365,85mm AA O-365,russia,85,9.2,0.66,,9.2,0.66,,http://www.navweaps.com/Weapons/WNRussian_85mm-52_90k.php#Ammunition
 76-sh-sh361p,76.2mm Sh-361P,russia,76.2,6.6,0.07,,6.6,0.07,,http://www.navweaps.com/Weapons/WNRussian_3-55_m1935.php#Ammunition
 76-sh-sh354p,76.2mm Sh-354P,russia,76.2,6.5,,,6.5,,,http://www.navweaps.com/Weapons/WNRussian_3-30_Lender.php#Ammunition
 75-he-m1907,75mm HE mod 1907,russia,75,4.91,0.52,,5.73,,,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Ammunition

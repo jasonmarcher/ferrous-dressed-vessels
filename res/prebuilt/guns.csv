@@ -50,6 +50,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 305-ml-rml-35ton,"12""/12 RML 35-ton",Royal Gun Factory 35-ton,britain,1871-01-01,304.8,12,36000,0.4,0.3,Muzzle,420,0,,https://en.wikipedia.org/wiki/RML_12-inch_35-ton_gun
 305-ml-rml-25ton-marki,"12""/12 RML 25-ton Mark I",Royal Gun Factory 25-ton,britain,1864-01-01,304.8,12,23900,0.4,0.4,Muzzle,400,0,,https://en.wikipedia.org/wiki/RML_12-inch_25-ton_gun
 279-ml-rml-25ton-marki,"11""/12 RML 25-ton Mark I",Woolwich 25-ton,britain,1865-01-01,279.4,12,25000,0.3,0.3,Muzzle,410,0,,https://en.wikipedia.org/wiki/RML_11-inch_25-ton_gun
+254-bg-p1908,"10""/50 Pattern 1908","Vickers 10""",britain,1906-01-01,254,50,27800,2,2,Breech,899,0,,http://www.navweaps.com/Weapons/WNRussian_10-50_m1908.php
 254-bg-elswick-w,"10""/45 Elswick W","British 10""",britain,1908-01-01,254,45,35000,2.6,2.6,Breech,870,0,86,http://www.navweaps.com/Weapons/WNIT_10-45_M1908.php
 254-bg-41st-year,"10""/45 41st Year Type","Vickers 10""",britain,1905-01-01,254,45,22500,2,1.5,Breech,810,0,,http://www.navweaps.com/Weapons/WNJAP_10-45_Vickers.php
 254-bg-markvii-vickers-a,"10""/45 Mark VII Vickers A","British 10""",britain,1901-01-01,254,45,31500,2,1.5,Breech,810,0,86,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
@@ -384,10 +385,18 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 305-bg-b50-p1940,305mm/55 B-50 Pattern 1940,Russian 305mm,russia,1938-01-01,305,55,74800,3.24,2.8,Breech,900,0,100,http://www.navweaps.com/Weapons/WNRussian_12-55_B-50.php
 305-bg-p1907,305mm/47 Pattern 1907,Obukhov 305mm,russia,1907-01-01,305,47,50700,3,1.8,Breech,762,0,100,http://www.navweaps.com/Weapons/WNRussian_12-52_m1907.php
 254-bg-p1891,"10""/45 Pattern 1891","Obukhov 10""",russia,1891-01-01,254,43,22500,0.66,0.5,Breech,693,0,90,http://www.navweaps.com/Weapons/WNRussian_10-45_m1891.php
+203-bg-p1892,203mm/45 Pattern 1892,"Obukhoff 8""",russia,1892-01-01,203,45,12383,,,Breech,899,899,152,http://www.navweaps.com/Weapons/WNRussian_8-45_m1892.php
+203-bg-p1885,203mm/35 Pattern 1885,"Brink 8""",russia,1885-01-01,203,35,13710,,,Breech,663,663,,http://www.navweaps.com/Weapons/WNRussian_8-35_m1885.php
+203-bg-o1877,203mm/28 Obukhoff 1877,"Obukhoff 8""",russia,1877-01-01,203,28,,,,Breech,,,,
+180-bg-b1P-p1932-3,180mm/57 B-1-P Pattern 1932,,russia,1932-01-01,180,57,17230,2,2,Breech,920,0,100,http://www.navweaps.com/Weapons/WNRussian_71-57_m1932.php
 152-bg-b38-p1938-mk4,152mm/57 B-38 Pattern 1938 MK-4,Bolshevik 152mm,russia,1938-01-01,152,57,14500,7.5,7.5,Breech,950,0,160,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
 152-bg-b38-p1938,152mm/57 B-38 Pattern 1938,Bolshevik 152mm,russia,1938-01-01,152,57,17500,7.5,7.5,Breech,950,0,160,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
+152-bg-o1885,152mm/35 Obukhoff 1885,"Obukhoff 6""",russia,1885-01-01,152,35,,1,1,Breech,700,700,,
+152-bg-o1877,152mm/25 Obukhoff 1877,"Obukhoff 6""",russia,1877-01-01,152,25,,1,1,Breech,,,,
 130-bg-p1948,130mm/58 Pattern 1948,Russian 130mm,russia,1948-01-01,130,58,4990,12,12,Breech,950,955,400,http://www.navweaps.com/Weapons/WNRussian_51-58_m1957.php
 100-bg-b34-p1940,100mm/54 B-34 Pattern 1940,Bolshevik 100mm,russia,1937-01-01,100,53.5,2463,12,10,Breech,895,900,300,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php
+87-bg-4pdr-obr,87mm/21 4pdr Obukhoff,,russia,,87,21,,,,Breech,,,,
+85-bg-90k,85mm/52 90-K,,russia,1941-01-01,85,52,2100,18,15,Breech Semi-Automatic,792,792,400,http://www.navweaps.com/Weapons/WNRussian_85mm-52_90k.php
 76-bg-p1914-8k,76.2mm/30 Pattern 1914/15 (8-K),Putilov 76.2mm,russia,1913-01-01,76.2,28,440,12,10,Breech,588,588,,http://www.navweaps.com/Weapons/WNRussian_3-30_Lender.php
 63-bg-p1916,"2.5""/36 Pattern 1916","Obukhov 2.5""",russia,1914-01-01,63.3,36,,30,30,Breech Semi-Automatic,686,686,200,http://www.navweaps.com/Weapons/WNRussian_25-38_m1916.php
 45-mg-rus,45mm/78,Russian 45mm,russia,,45,78,403,75,75,Breech Autoloader,853,853,800,https://en.wikipedia.org/wiki/Stalingrad-class_battlecruiser#Armament
