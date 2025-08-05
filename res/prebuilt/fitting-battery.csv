@@ -3956,7 +3956,7 @@ pred-ammiraglio-di-saint-bon_emanuele-filiberto,450-tt-hull_x4-side,,,
 pred-ammiraglio-di-saint-bon_emanuele-filiberto,placeholder_torpedo,,,
 bb-sovetsky-soyuz,406-ag-mk-1_aby,406-ap-m1915/28,Primary Gun,1
 bb-sovetsky-soyuz,152-ag-mk-4_x6,152-ap-rus,Secondary Gun,2
-bb-sovetsky-soyuz,100-ag-mz-14_x6,100-he-f56_100-aa,AA Battery,3
+bb-sovetsky-soyuz,100-ag-mz-14_x6,100-he-f56_100-aa,Secondary Gun,3
 bb-sovetsky-soyuz,37-ag-46k_x8,37-he-frag-rus,AA Battery,4
 bb-imperator-nikolai-i,305-ag-mk-3-12_aqry,305-apc-m1911,Primary Gun,1
 bb-imperator-nikolai-i,130-c-p1913_x20,130-he-m1911,Secondary Gun,2
@@ -4433,26 +4433,26 @@ pred-habsburg_1916,47-p-sfk-l33_x4-mast,47-he-ahn,Tertiary Gun,5
 pred-habsburg_1916,450-tt-hull_x2-side,,,
 pred-habsburg_1916,placeholder_torpedo,,,
 bb-salamis,356-ag-bethlehem_abxy,356-ap-early,Primary Gun,1
-bb-salamis,152-ag-mk6_x12,152-he-gre,Primary Gun,2
+bb-salamis,152-ag-mk6_x12,152-he-gre,Secondary Gun,2
 bb-salamis,76-p-mk2_x12-alt2,76-hc-mk24,Tertiary Gun,3
 bb-salamis,500-tt-hull_x5-bow,,,
 bb-salamis,placeholder_torpedo,,,
 bb-vasilefs-konstantinos,340-ag-m1912-double_abqxy,340-apc-m1912,Primary Gun,1
-bb-vasilefs-konstantinos,139-c-m1910_x22,139-sap-fra-1910,Primary Gun,2
+bb-vasilefs-konstantinos,139-c-m1910_x22,139-sap-fra-1910,Secondary Gun,2
 bb-vasilefs-konstantinos,47-p-m1902-la_x7,47-he-fra-1902,Tertiary Gun,3
 bb-vasilefs-konstantinos,450-tt-hull_x4-side,,,
 bb-vasilefs-konstantinos,placeholder_torpedo,,,
 bc-stalingrad,305-ag-cm-31_aby,305-ap-hv-rus,Primary Gun,1
-bc-stalingrad,130-sm-bl-109a_x6,130-sap-pb42_130-aa-zs42,Primary Gun,2
+bc-stalingrad,130-sm-bl-109a_x6,130-sap-pb42_130-aa-zs42,Secondary Gun,2
 bc-stalingrad,45-ag-sm-20-zif_x6,45-he-f-73,AA Battery,3
 bc-stalingrad,25-ag-bl-120_x10,25-frag-ozr-85,AA Battery,4
 bc-kronshtadt,305-ag-mk-15_aby,305-ap-rus,Primary Gun,1
-bc-kronshtadt,152-ag-mk-17_x4,152-ap-b35,Primary Gun,2
-bc-kronshtadt,100-ag-mz-14_x4,100-he-f56_100-aa,AA Battery,3
+bc-kronshtadt,152-ag-mk-17_x4,152-ap-b35,Secondary Gun,2
+bc-kronshtadt,100-ag-mz-14_x4,100-he-f56_100-aa,Secondary Gun,3
 bc-kronshtadt,37-ag-46k_x7,37-he-frag-rus,AA Battery,4
 bc-kronshtadt,12-p-dshk-1938-twin_x4,12-b-rus,AA Battery,5
 bc-izmail,356-ag-p1913_aqry,356-ap-m1911,Primary Gun,1
-bc-izmail,130-c-p1913_x24,130-he-m1911,Primary Gun,2
+bc-izmail,130-c-p1913_x24,130-he-m1911,Secondary Gun,2
 bc-izmail,75-p-osz-m1911_x8,75-he-m1907,Tertiary Gun,3
 bc-izmail,63-p-p1916_x4,63-he-rus,AA Battery,4
 bc-izmail,450-tt-hull_x6-side,,,
@@ -5614,7 +5614,7 @@ cb-ocean_marengo-1886,37-p-revolver_x12-allround,37-he-ita-early,Tertiary Gun,4
 cb-ocean_suffren-1890,274-c-m1870_x4-side,274-ap-fra-1864,Primary Gun,1
 cb-ocean_suffren-1890,240-bar-m1870_x4,240-ap-fra-1864,Primary Gun,2
 cb-ocean_suffren-1890,139-piv-m1870_x6-side,139-he-fra-1870,Primary Gun,3
-cb-ocean_suffren-1890,37-p-revolver_x10-side,37-he-ita-early,Tertiary Gun,4
+cb-ocean_suffren-1890,37-p-revolver_x10-sides,37-he-ita-early,Tertiary Gun,4
 cb-ocean_suffren-1892,274-c-m1870_x4-side,274-ap-fra-1864,Primary Gun,1
 cb-ocean_suffren-1892,240-bar-m1870_x4,240-ap-fra-1864,Primary Gun,2
 cb-ocean_suffren-1892,139-piv-m1870_x6-side,139-he-fra-1870,Primary Gun,3
@@ -15002,7 +15002,7 @@ ca-kirov,placeholder_mines,,,
 ca-kirov_1941,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-kirov_1941,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
 ca-kirov_1941,45-cp-21k_x3-fore,45-he-o-240,AA Battery,3
-ca-kirov_1941,37-cp-70k_x5-aft,37-cp-70k_x5-aft,AA Battery,4
+ca-kirov_1941,37-cp-70k_x5-aft,37-he-frag-rus,AA Battery,4
 ca-kirov_1941,12-p-dshk-1938-single_x4-fore,12-b-rus,AA Battery,5
 ca-kirov_1941,533-tt-tripple_x2,,,
 ca-kirov_1941,placeholder_torpedo,,,
@@ -15011,7 +15011,7 @@ ca-kirov_1941,dct-unknown_x4,,,
 ca-kirov_1941,placeholder_mines,,,
 ca-kirov_voroshilov-1941,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-kirov_voroshilov-1941,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
-ca-kirov_voroshilov-1941,37-cp-70k_x6-alt,37-cp-70k_x5-aft,AA Battery,3
+ca-kirov_voroshilov-1941,37-cp-70k_x6-alt,37-he-frag-rus,AA Battery,3
 ca-kirov_voroshilov-1941,12-p-dshk-1938-single_x4-fore,12-b-rus,AA Battery,4
 ca-kirov_voroshilov-1941,533-tt-tripple_x2,,,
 ca-kirov_voroshilov-1941,placeholder_torpedo,,,
@@ -15020,7 +15020,7 @@ ca-kirov_voroshilov-1941,dct-unknown_x4,,,
 ca-kirov_voroshilov-1941,placeholder_mines,,,
 ca-kirov_1942,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-kirov_1942,100-ag-b34_x8,100-he-f56_100-aa,Secondary Gun,2
-ca-kirov_1942,37-cp-70k_x11,37-cp-70k_x5-aft,AA Battery,3
+ca-kirov_1942,37-cp-70k_x11,37-he-frag-rus,AA Battery,3
 ca-kirov_1942,12-cp-markii_x2,12-b-uk,AA Battery,4
 ca-kirov_1942,12-p-dshk-1938-single_x6,12-b-rus,AA Battery,4
 ca-kirov_1942,533-tt-tripple_x2,,,
@@ -15030,7 +15030,7 @@ ca-kirov_1942,dct-unknown_x4,,,
 ca-kirov_1942,placeholder_mines,,,
 ca-kirov_voroshilov-1942-8,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-kirov_voroshilov-1942-8,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
-ca-kirov_voroshilov-1942-8,37-cp-70k_x8,37-cp-70k_x5-aft,AA Battery,3
+ca-kirov_voroshilov-1942-8,37-cp-70k_x8,37-he-frag-rus,AA Battery,3
 ca-kirov_voroshilov-1942-8,12-p-dshk-1938-single_x4-fore,12-b-rus,AA Battery,4
 ca-kirov_voroshilov-1942-8,533-tt-tripple_x2,,,
 ca-kirov_voroshilov-1942-8,placeholder_torpedo,,,
@@ -15039,7 +15039,7 @@ ca-kirov_voroshilov-1942-8,dct-unknown_x4,,,
 ca-kirov_voroshilov-1942-8,placeholder_mines,,,
 ca-kirov_voroshilov-1942-12,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-kirov_voroshilov-1942-12,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
-ca-kirov_voroshilov-1942-12,37-cp-70k_x9,37-cp-70k_x5-aft,AA Battery,3
+ca-kirov_voroshilov-1942-12,37-cp-70k_x9,37-he-frag-rus,AA Battery,3
 ca-kirov_voroshilov-1942-12,12-cp-markii_x2,12-b-uk,AA Battery,4
 ca-kirov_voroshilov-1942-12,12-p-dshk-1938-single_x4-fore,12-b-rus,AA Battery,4
 ca-kirov_voroshilov-1942-12,533-tt-tripple_x2,,,
@@ -15049,7 +15049,7 @@ ca-kirov_voroshilov-1942-12,dct-unknown_x4,,,
 ca-kirov_voroshilov-1942-12,placeholder_mines,,,
 ca-kirov_voroshilov-1943,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-kirov_voroshilov-1943,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
-ca-kirov_voroshilov-1943,37-cp-70k_x12-alt,37-cp-70k_x5-aft,AA Battery,3
+ca-kirov_voroshilov-1943,37-cp-70k_x12-alt,37-he-frag-rus,AA Battery,3
 ca-kirov_voroshilov-1943,12-cp-markii_x2,12-b-uk,AA Battery,4
 ca-kirov_voroshilov-1943,12-p-dshk-1938-single_x4-fore,12-b-rus,AA Battery,4
 ca-kirov_voroshilov-1943,533-tt-tripple_x2,,,
@@ -15059,7 +15059,7 @@ ca-kirov_voroshilov-1943,dct-unknown_x4,,,
 ca-kirov_voroshilov-1943,placeholder_mines,,,
 ca-kirov_1954,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-kirov_1954,100-gs-b34usm_x8,100-he-f56_100-aa,Secondary Gun,2
-ca-kirov_1954,37-gs-v11_x9,37-cp-70k_x5-aft,AA Battery,3
+ca-kirov_1954,37-gs-v11_x9,37-he-frag-rus,AA Battery,3
 ca-kirov_1954,placeholder_mines,,,
 ca-maxim-gorkiy,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
@@ -15073,7 +15073,7 @@ ca-maxim-gorkiy,placeholder_mines,,,
 ca-maxim-gorkiy_kalinin,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_kalinin,76-gs-34k_x8,76-sh-sh361p,AA Battery,2
 ca-maxim-gorkiy_kalinin,45-cp-21k_x6,45-he-o-240,AA Battery,3
-ca-maxim-gorkiy_kalinin,37-cp-70k_x10-alt,37-cp-70k_x5-aft,AA Battery,4
+ca-maxim-gorkiy_kalinin,37-cp-70k_x10-alt,37-he-frag-rus,AA Battery,4
 ca-maxim-gorkiy_kalinin,12-p-dshk-1938-single_x6-alt,12-b-rus,AA Battery,5
 ca-maxim-gorkiy_kalinin,533-tt-tripple_x2,,,
 ca-maxim-gorkiy_kalinin,placeholder_torpedo,,,
@@ -15083,7 +15083,7 @@ ca-maxim-gorkiy_kalinin,placeholder_mines,,,
 ca-maxim-gorkiy_kaganovich,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_kaganovich,85-gs-90k_x8,85-aa-o365,AA Battery,2
 ca-maxim-gorkiy_kaganovich,45-cp-21k_x6,45-he-o-240,AA Battery,3
-ca-maxim-gorkiy_kaganovich,37-cp-70k_x21,37-cp-70k_x5-aft,AA Battery,4
+ca-maxim-gorkiy_kaganovich,37-cp-70k_x21,37-he-frag-rus,AA Battery,4
 ca-maxim-gorkiy_kaganovich,12-p-dshk-1938-single_x6-alt,12-b-rus,AA Battery,5
 ca-maxim-gorkiy_kaganovich,533-tt-tripple_x2,,,
 ca-maxim-gorkiy_kaganovich,placeholder_torpedo,,,
@@ -15092,7 +15092,7 @@ ca-maxim-gorkiy_kaganovich,dct-unknown_x4,,,
 ca-maxim-gorkiy_kaganovich,placeholder_mines,,,
 ca-maxim-gorkiy_1941,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_1941,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
-ca-maxim-gorkiy_1941,37-cp-70k_x10,37-cp-70k_x5-aft,AA Battery,3
+ca-maxim-gorkiy_1941,37-cp-70k_x10,37-he-frag-rus,AA Battery,3
 ca-maxim-gorkiy_1941,12-p-dshk-1938-single_x4-aft,12-b-rus,AA Battery,4
 ca-maxim-gorkiy_1941,533-tt-tripple_x2,,,
 ca-maxim-gorkiy_1941,placeholder_torpedo,,,
@@ -15102,7 +15102,7 @@ ca-maxim-gorkiy_1941,placeholder_mines,,,
 ca-maxim-gorkiy_molotov-1941,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_molotov-1941,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
 ca-maxim-gorkiy_molotov-1941,45-cp-21k_x6,45-he-o-240,AA Battery,3
-ca-maxim-gorkiy_molotov-1941,37-cp-70k_x4-aft,37-cp-70k_x5-aft,AA Battery,4
+ca-maxim-gorkiy_molotov-1941,37-cp-70k_x4-aft,37-he-frag-rus,AA Battery,4
 ca-maxim-gorkiy_molotov-1941,12-p-dshk-1938-single_x4-aft,12-b-rus,AA Battery,5
 ca-maxim-gorkiy_molotov-1941,533-tt-tripple_x2,,,
 ca-maxim-gorkiy_molotov-1941,placeholder_torpedo,,,
@@ -15111,7 +15111,7 @@ ca-maxim-gorkiy_molotov-1941,dct-unknown_x4,,,
 ca-maxim-gorkiy_molotov-1941,placeholder_mines,,,
 ca-maxim-gorkiy_1942,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_1942,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
-ca-maxim-gorkiy_1942,37-cp-70k_x15,37-cp-70k_x5-aft,AA Battery,3
+ca-maxim-gorkiy_1942,37-cp-70k_x15,37-he-frag-rus,AA Battery,3
 ca-maxim-gorkiy_1942,12-cp-markii_x2,12-b-uk,AA Battery,4
 ca-maxim-gorkiy_1942,12-p-dshk-1938-single_x4-aft,12-b-rus,AA Battery,4
 ca-maxim-gorkiy_1942,533-tt-tripple_x2,,,
@@ -15122,7 +15122,7 @@ ca-maxim-gorkiy_1942,placeholder_mines,,,
 ca-maxim-gorkiy_molotov-1942,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_molotov-1942,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
 ca-maxim-gorkiy_molotov-1942,45-cp-21k_x6,45-he-o-240,AA Battery,3
-ca-maxim-gorkiy_molotov-1942,37-cp-70k_x4-aft,37-cp-70k_x5-aft,AA Battery,4
+ca-maxim-gorkiy_molotov-1942,37-cp-70k_x4-aft,37-he-frag-rus,AA Battery,4
 ca-maxim-gorkiy_molotov-1942,12-cp-markii_x2,12-b-uk,AA Battery,5
 ca-maxim-gorkiy_molotov-1942,12-p-dshk-1938-single_x4-aft,12-b-rus,AA Battery,5
 ca-maxim-gorkiy_molotov-1942,533-tt-tripple_x2,,,
@@ -15133,7 +15133,7 @@ ca-maxim-gorkiy_molotov-1942,placeholder_mines,,,
 ca-maxim-gorkiy_molotov-1943,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_molotov-1943,100-ag-b34_x6,100-he-f56_100-aa,Secondary Gun,2
 ca-maxim-gorkiy_molotov-1943,45-cp-21k_x6,45-he-o-240,AA Battery,3
-ca-maxim-gorkiy_molotov-1943,37-cp-70k_x12-aft,37-cp-70k_x5-aft,AA Battery,4
+ca-maxim-gorkiy_molotov-1943,37-cp-70k_x12-aft,37-he-frag-rus,AA Battery,4
 ca-maxim-gorkiy_molotov-1943,12-cp-markii_x2,12-b-uk,AA Battery,5
 ca-maxim-gorkiy_molotov-1943,12-p-dshk-1938-single_x4-aft,12-b-rus,AA Battery,5
 ca-maxim-gorkiy_molotov-1943,533-tt-tripple_x2,,,
@@ -15144,7 +15144,7 @@ ca-maxim-gorkiy_molotov-1943,placeholder_mines,,,
 ca-maxim-gorkiy_kalinin-1943,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_kalinin-1943,85-gs-90k_x8,85-aa-o365,AA Battery,2
 ca-maxim-gorkiy_kalinin-1943,45-cp-21k_x6,45-he-o-240,AA Battery,3
-ca-maxim-gorkiy_kalinin-1943,37-cp-70k_x10-alt,37-cp-70k_x5-aft,AA Battery,4
+ca-maxim-gorkiy_kalinin-1943,37-cp-70k_x10-alt,37-he-frag-rus,AA Battery,4
 ca-maxim-gorkiy_kalinin-1943,12-p-dshk-1938-single_x6-alt,12-b-rus,AA Battery,5
 ca-maxim-gorkiy_kalinin-1943,533-tt-tripple_x2,,,
 ca-maxim-gorkiy_kalinin-1943,placeholder_torpedo,,,
@@ -15153,7 +15153,7 @@ ca-maxim-gorkiy_kalinin-1943,dct-unknown_x4,,,
 ca-maxim-gorkiy_kalinin-1943,placeholder_mines,,,
 ca-maxim-gorkiy_kalinin-1944,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_kalinin-1944,85-gs-90k_x8,85-aa-o365,AA Battery,2
-ca-maxim-gorkiy_kalinin-1944,37-cp-70k_x19,37-cp-70k_x5-aft,AA Battery,4
+ca-maxim-gorkiy_kalinin-1944,37-cp-70k_x19,37-he-frag-rus,AA Battery,4
 ca-maxim-gorkiy_kalinin-1944,12-p-dshk-1938-single_x6-alt,12-b-rus,AA Battery,5
 ca-maxim-gorkiy_kalinin-1944,533-tt-tripple_x2,,,
 ca-maxim-gorkiy_kalinin-1944,placeholder_torpedo,,,
@@ -15162,5 +15162,405 @@ ca-maxim-gorkiy_kalinin-1944,dct-unknown_x4,,,
 ca-maxim-gorkiy_kalinin-1944,placeholder_mines,,,
 ca-maxim-gorkiy_molotov-1955,180-ag-mk3-180_aby,180-ap-m1928,Primary Gun,1
 ca-maxim-gorkiy_molotov-1955,100-gs-b34usm_x6,100-he-f56_100-aa,Secondary Gun,2
-ca-maxim-gorkiy_molotov-1955,37-gs-v11_x11,37-cp-70k_x5-aft,AA Battery,3
+ca-maxim-gorkiy_molotov-1955,37-gs-v11_x11,37-he-frag-rus,AA Battery,3
 ca-maxim-gorkiy_molotov-1955,placeholder_mines,,,
+pc-vitiaz-1883,152-piv-o1877_x10,,Primary Gun,1
+pc-vitiaz-1883,37-p-revolver_x8-alt-3,37-he-ita-early,Tertiary Gun,
+pc-vitiaz-1883,381-tt-hull_x3-bow,,,
+pc-vitiaz-1883,placeholder_torpedo,,,
+pc-vitiaz-1883_1901,152-piv-o1877_x4,,Primary Gun,1
+pc-vitiaz-1883_1901,37-p-revolver_x10-alt-3,37-he-ita-early,Tertiary Gun,
+pc-vitiaz-1883_1901,381-tt-hull_x4-side,,,
+pc-vitiaz-1883_1901,placeholder_torpedo,,,
+pc-admiral-kornilov,152-cp-o1885_x14,,Primary Gun,1
+pc-admiral-kornilov,47-p-1_x6-hull-4,47-he-rus,Tertiary Gun,2
+pc-admiral-kornilov,37-p-revolver_x10-sides,37-he-ita-early,Tertiary Gun,3
+pc-admiral-kornilov,381-tt-hull_x6,,,
+pc-admiral-kornilov,placeholder_torpedo,,,
+pc-admiral-kornilov_1905,152-cp-p1892_x10,152-ap-old-model-rus,Primary Gun,1
+pc-admiral-kornilov_1905,75-gs-canet_x4-sides,75-he-m1907,Tertiary Gun,2
+pc-admiral-kornilov_1905,47-p-1_x6-hull-4,47-he-rus,Tertiary Gun,3
+pc-admiral-kornilov_1905,37-p-revolver_x2-sides,37-he-ita-early,Tertiary Gun,4
+pc-admiral-kornilov_1905,381-tt-hull_x6,,,
+pc-admiral-kornilov_1905,placeholder_torpedo,,,
+pc-svetlana,152-gs-p1892_x6-alt,152-ap-old-model-rus,Primary Gun,1
+pc-svetlana,47-p-1_x10,47-he-rus,Tertiary Gun,2
+pc-svetlana,381-tt-hull_x2-side,,,
+pc-svetlana,placeholder_torpedo,,,
+pc-pallada,152-cp-p1892_x8,152-ap-old-model-rus,Primary Gun,1
+pc-pallada,75-p-canet_x24,75-he-m1907,Tertiary Gun,2
+pc-pallada,37-p-m1884_x8-pallada,37-he-rus-early,Tertiary Gun,3
+pc-pallada,381-tt-hull_x3-bow,,,
+pc-pallada,placeholder_torpedo,,,
+pc-pallada_aurora-1908,152-cp-p1892_x10-alt,152-ap-old-model-rus,Primary Gun,1
+pc-pallada_aurora-1908,75-p-canet_x20,75-he-m1907,Tertiary Gun,2
+pc-pallada_aurora-1908,placeholder_mines,,,
+pc-pallada_diana-1913,152-cp-p1892_x10-alt,152-ap-old-model-rus,Primary Gun,1
+pc-pallada_diana-1913,75-p-canet_x20,75-he-m1907,Tertiary Gun,2
+pc-pallada_diana-1913,381-tt-hull_x3-bow,,,
+pc-pallada_diana-1913,placeholder_torpedo,,,
+pc-pallada_diana-1913,placeholder_mines,,,
+pc-pallada_diana-1914,130-gs-p1913_x10,130-he-m1911,Primary Gun,1
+pc-pallada_diana-1914,75-p-canet_x4,75-he-m1907,Tertiary Gun,2
+pc-pallada_diana-1914,placeholder_mines,,,
+pc-pallada_diana-1916,130-gs-p1913_x10,130-he-m1911,Primary Gun,1
+pc-pallada_diana-1916,76-cp-p1914-aa_x2-aft,76-sh-sh354p,AA Battery,2
+pc-pallada_diana-1916,placeholder_mines,,,
+pc-pallada_aurora-1917,152-cp-p1892_x14,152-ap-old-model-rus,Primary Gun,1
+pc-pallada_aurora-1917,75-cp-osz-m1916_x1-aft,75-he-m1907,AA Battery,2
+pc-pallada_aurora-1917,placeholder_mines,,,
+pc-pallada_aurora-1923,130-gs-p1913_x14,130-he-m1911,Primary Gun,1
+pc-pallada_aurora-1923,76-cp-p1914-aa_x4-aft,76-sh-sh354p,AA Battery,2
+pc-pallada_aurora-1923,placeholder_mines,,,
+pc-pallada_aurora-1939,130-gs-p1913_x13,130-he-m1911,Primary Gun,1
+pc-pallada_aurora-1939,76-cp-p1914-aa_x2-aft,76-sh-sh354p,AA Battery,2
+pc-pallada_aurora-1939,45-cp-21k_x2-aft,45-he-o-240,AA Battery,3
+pc-pallada_aurora-1939,placeholder_mines,,,
+pc-variag,152-cp-p1892_x12,152-ap-old-model-rus,Primary Gun,1
+pc-variag,75-p-canet_x12,75-he-m1907,Tertiary Gun,2
+pc-variag,47-p-1_x8-hull,47-he-rus,Tertiary Gun,3
+pc-variag,37-p-m1884_x2,37-he-rus-early,Tertiary Gun,4
+pc-variag,381-tt-hull_x6,,,
+pc-variag,placeholder_torpedo,,,
+pc-variag,placeholder_mines,,,
+pc-soya,152-cp-p1892_x12,152-ap-old-model-rus,Primary Gun,1
+pc-soya,75-p-canet_x10,75-he-m1907,Tertiary Gun,2
+pc-soya,47-p-1_x2,47-he-rus,Tertiary Gun,3
+pc-soya,381-tt-hull_x2-side,,,
+pc-soya,placeholder_torpedo,,,
+pc-soya,placeholder_mines,,,
+pc-variag_1916,152-cp-p1892_x12,152-ap-old-model-rus,Primary Gun,1
+pc-variag_1916,75-p-canet_x10,75-he-m1907,Tertiary Gun,2
+pc-variag_1916,47-p-1_x2,47-he-rus,Tertiary Gun,3
+pc-variag_1916,381-tt-hull_x2-side,,,
+pc-variag_1916,placeholder_torpedo,,,
+pc-variag_1916,placeholder_mines,,,
+pc-askold,152-gs-p1892_x12-alt,152-ap-old-model-rus,Primary Gun,1
+pc-askold,75-p-canet_x12-alt,75-he-m1907,Tertiary Gun,2
+pc-askold,47-p-1_x8-hull-2,47-he-rus,Tertiary Gun,3
+pc-askold,37-p-m1884_x2,37-he-rus-early,Tertiary Gun,4
+pc-askold,381-tt-hull_x6,,,
+pc-askold,placeholder_torpedo,,,
+pc-askold_1912,152-gs-p1892_x12-alt,152-ap-old-model-rus,Primary Gun,1
+pc-askold_1912,75-p-canet_x10-alt,75-he-m1907,Tertiary Gun,2
+pc-askold_1912,47-p-1_x4-hull,47-he-rus,Tertiary Gun,3
+pc-askold_1912,37-p-m1884_x2,37-he-rus-early,Tertiary Gun,4
+pc-askold_1912,7-p-maxim_x4,7-b-uknown-30,Tertiary Gun,5
+pc-askold_1912,450-tt-hull_x4-side,,,
+pc-askold_1912,placeholder_torpedo,,,
+pc-askold_1915,152-gs-p1892_x12-alt,152-ap-old-model-rus,Primary Gun,1
+pc-askold_1915,75-p-canet_x10-alt,75-he-m1907,Tertiary Gun,2
+pc-askold_1915,57-p-nord-aa_x2-aft,57-he-rus,AA Battery,3
+pc-askold_1915,47-p-aa_x2-aft,47-he-rus,AA Battery,4
+pc-askold_1915,37-p-m1884_x2,37-he-rus-early,Tertiary Gun,5
+pc-askold_1915,7-p-maxim_x4,7-b-uknown-30,Tertiary Gun,6
+pc-askold_1915,450-tt-hull_x4-side,,,
+pc-askold_1915,placeholder_torpedo,,,
+ad-glory-iv-1918,152-gs-p1892_x12-alt,152-ap-old-model-rus,Primary Gun,1
+ad-glory-iv-1918,75-p-canet_x10-alt,75-he-m1907,Tertiary Gun,2
+ad-glory-iv-1918,57-p-nord-aa_x2-aft,57-he-rus,AA Battery,3
+ad-glory-iv-1918,47-p-aa_x2-aft,47-he-rus,AA Battery,4
+ad-glory-iv-1918,37-p-m1884_x2,37-he-rus-early,Tertiary Gun,5
+ad-glory-iv-1918,7-p-maxim_x4,7-b-uknown-30,Tertiary Gun,6
+ad-glory-iv-1918,450-tt-hull_x4-side,,,
+ad-glory-iv-1918,placeholder_torpedo,,,
+pc-bogatyr,152-ag-p1892_ay,152-ap-old-model-rus,Primary Gun,1
+pc-bogatyr,152-c-p1892_x4,152-ap-old-model-rus,Primary Gun,1
+pc-bogatyr,152-gs-p1892_x4-sides,152-ap-old-model-rus,Primary Gun,1
+pc-bogatyr,75-p-canet_x12-alt-3,75-he-m1907,Tertiary Gun,2
+pc-bogatyr,47-p-1_x8-hull-3,47-he-rus,Tertiary Gun,3
+pc-bogatyr,37-p-revolver_x2-alt,37-he-ita-early,Tertiary Gun,4
+pc-bogatyr,381-tt-hull_x4,,,
+pc-bogatyr,placeholder_torpedo,,,
+pc-bogatyr_1911,152-ag-p1892_ay,152-ap-old-model-rus,Primary Gun,1
+pc-bogatyr_1911,152-c-p1892_x4,152-ap-old-model-rus,Primary Gun,1
+pc-bogatyr_1911,152-gs-p1892_x4-sides,152-ap-old-model-rus,Primary Gun,1
+pc-bogatyr_1911,75-p-canet_x12-alt-3,75-he-m1907,Tertiary Gun,2
+pc-bogatyr_1911,47-p-1_x8-hull-3,47-he-rus,Tertiary Gun,3
+pc-bogatyr_1911,381-tt-hull_x2-side,,,
+pc-bogatyr_1911,placeholder_torpedo,,,
+pc-bogatyr_1916,130-ag-p1913_ay,130-he-m1911,Primary Gun,1
+pc-bogatyr_1916,130-c-p1913_x4,130-he-m1911,Primary Gun,1
+pc-bogatyr_1916,130-gs-p1913_x8-sides,130-he-m1911,Primary Gun,1
+pc-bogatyr_1916,381-tt-hull_x2-side,,,
+pc-bogatyr_1916,placeholder_torpedo,,,
+pc-bogatyr_1916,placeholder_mines,,,
+pc-vityaz-1900,152-ag-p1892_ay,152-ap-old-model-rus,Primary Gun,1
+pc-vityaz-1900,152-c-p1892_x4,152-ap-old-model-rus,Primary Gun,1
+pc-vityaz-1900,152-gs-p1892_x4-sides,152-ap-old-model-rus,Primary Gun,1
+pc-vityaz-1900,75-p-canet_x12-alt-3,75-he-m1907,Tertiary Gun,2
+pc-vityaz-1900,47-p-1_x8-hull-3,47-he-rus,Tertiary Gun,3
+pc-vityaz-1900,37-p-revolver_x2-alt,37-he-ita-early,Tertiary Gun,4
+pc-vityaz-1900,381-tt-hull_x2-side,,,
+pc-vityaz-1900,placeholder_torpedo,,,
+pc-vityaz-1900_1908,152-ag-p1892_ay,152-ap-old-model-rus,Primary Gun,1
+pc-vityaz-1900_1908,152-c-p1892_x4,152-ap-old-model-rus,Primary Gun,1
+pc-vityaz-1900_1908,152-gs-p1892_x4-sides,152-ap-old-model-rus,Primary Gun,1
+pc-vityaz-1900_1908,75-p-canet_x12-alt-3,75-he-m1907,Tertiary Gun,2
+pc-vityaz-1900_1908,47-p-1_x8-hull-3,47-he-rus,Tertiary Gun,3
+pc-vityaz-1900_1908,381-tt-hull_x2-side,,,
+pc-vityaz-1900_1908,placeholder_torpedo,,,
+pc-vityaz-1900_1916,130-ag-p1913_ay,130-he-m1911,Primary Gun,1
+pc-vityaz-1900_1916,130-c-p1913_x4,130-he-m1911,Primary Gun,1
+pc-vityaz-1900_1916,130-gs-p1913_x8-sides,130-he-m1911,Primary Gun,1
+pc-vityaz-1900_1916,75-cp-osz-m1916_x1-aft,75-he-m1907,AA Battery,2
+pc-vityaz-1900_1916,47-p-aa_x2-aft,47-he-rus,AA Battery,3
+pc-vityaz-1900_1916,381-tt-hull_x2-side,,,
+pc-vityaz-1900_1916,placeholder_torpedo,,,
+pc-vityaz-1900_1916,placeholder_mines,,,
+pc-kagul,152-ag-p1892_ay,152-ap-old-model-rus,Primary Gun,1
+pc-kagul,152-c-p1892_x4,152-ap-old-model-rus,Primary Gun,1
+pc-kagul,152-gs-p1892_x4-sides,152-ap-old-model-rus,Primary Gun,1
+pc-kagul,75-p-canet_x12-alt-3,75-he-m1907,Tertiary Gun,2
+pc-kagul,47-p-1_x8-hull-3,47-he-rus,Tertiary Gun,3
+pc-kagul,37-p-revolver_x2-alt,37-he-ita-early,Tertiary Gun,4
+pc-kagul,450-tt-hull_x2-side,,,
+pc-kagul,placeholder_torpedo,,,
+pc-kagul_1912,152-ag-p1892_ay,152-ap-old-model-rus,Primary Gun,1
+pc-kagul_1912,152-c-p1892_x4,152-ap-old-model-rus,Primary Gun,1
+pc-kagul_1912,152-gs-p1892_x4-sides,152-ap-old-model-rus,Primary Gun,1
+pc-kagul_1912,75-p-canet_x12-alt-3,75-he-m1907,Tertiary Gun,2
+pc-kagul_1912,450-tt-hull_x2-side,,,
+pc-kagul_1912,placeholder_torpedo,,,
+pc-kagul_1914,152-ag-p1892_ay,152-ap-old-model-rus,Primary Gun,1
+pc-kagul_1914,152-c-p1892_x4,152-ap-old-model-rus,Primary Gun,1
+pc-kagul_1914,152-gs-p1892_x8-sides,152-ap-old-model-rus,Primary Gun,1
+pc-kagul_1914,75-cp-osz-m1916_x2-turret-2,75-he-m1907,AA Battery,2
+pc-kagul_1914,450-tt-hull_x2-side,,,
+pc-kagul_1914,placeholder_torpedo,,,
+pc-kagul_1917,130-gs-p1913_x8-sides,130-he-m1911,Primary Gun,1
+pc-kagul_1917,130-c-p1913_x4,130-he-m1911,Primary Gun,1
+pc-kagul_1917,75-cp-osz-m1916_x2-turret-2,75-he-m1907,AA Battery,2
+pc-kagul_1917,450-tt-hull_x2-side,,,
+pc-kagul_1917,placeholder_torpedo,,,
+pc-kagul_komintern-1923,130-gs-p1913_x10-alt,130-he-m1911,Primary Gun,1
+pc-kagul_komintern-1923,130-c-p1913_x4,130-he-m1911,Primary Gun,1
+pc-kagul_komintern-1923,47-p-aa_x2-aft,47-he-rus,AA Battery,2
+pc-kagul_komintern-1923,450-tt-hull_x2-side,,,
+pc-kagul_komintern-1923,placeholder_torpedo,,,
+ats-komintern-1930,130-gs-p1913_x10-alt,130-he-m1911,Primary Gun,1
+ats-komintern-1930,130-c-p1913_x4,130-he-m1911,Primary Gun,1
+ats-komintern-1930,76-cp-p1914-aa_x4-aft-2,76-sh-sh354p,AA Battery,2
+pc-kagul_komintern-1941-1,130-gs-p1913_x8-sides,130-he-m1911,Primary Gun,1
+pc-kagul_komintern-1941-1,130-c-p1913_x4,130-he-m1911,Primary Gun,1
+pc-kagul_komintern-1941-1,76-cp-p1914-aa_x3-aft,76-sh-sh354p,AA Battery,2
+pc-kagul_komintern-1941-1,45-cp-21k_x3-fore,45-he-o-240,AA Battery,3
+pc-kagul_komintern-1941-1,12-p-dshk-1938-single_x5,12-b-rus,AA Battery,4
+pc-kagul_komintern-1941-1,placeholder_mines,,,
+pc-kagul_komintern-1941-7,130-gs-p1913_x8-sides,130-he-m1911,Primary Gun,1
+pc-kagul_komintern-1941-7,130-c-p1913_x4,130-he-m1911,Primary Gun,1
+pc-kagul_komintern-1941-7,76-cp-p1914-aa_x3-aft,76-sh-sh354p,AA Battery,2
+pc-kagul_komintern-1941-7,45-cp-21k_x3-fore,45-he-o-240,AA Battery,3
+pc-kagul_komintern-1941-7,25-gs-72k_x2,25-frag-ozr-132,AA Battery,4
+pc-kagul_komintern-1941-7,12-p-dshk-1938-single_x5,12-b-rus,AA Battery,5
+pc-kagul_komintern-1941-7,placeholder_mines,,,
+pc-kagul_komintern-1942,130-gs-p1913_x8-sides,130-he-m1911,Primary Gun,1
+pc-kagul_komintern-1942,130-c-p1913_x4,130-he-m1911,Primary Gun,1
+pc-kagul_komintern-1942,76-gs-34k_x3-aft,76-sh-sh361p,AA Battery,2
+pc-kagul_komintern-1942,45-cp-21k_x3-fore,45-he-o-240,AA Battery,3
+pc-kagul_komintern-1942,25-gs-72k_x2,25-frag-ozr-132,AA Battery,4
+pc-kagul_komintern-1942,12-p-dshk-1938-single_x5,12-b-rus,AA Battery,5
+pc-kagul_komintern-1942,placeholder_mines,,,
+pc-novik,120-gs-p1892_x6,120-he-m1907,Primary Gun,1
+pc-novik,47-p-1_x6-hull-5,47-he-rus,Tertiary Gun,2
+pc-novik,37-p-m1884_x2,37-he-rus-early,Tertiary Gun,3
+pc-novik,381-tt-hull_x5-stern,,,
+pc-novik,placeholder_torpedo,,,
+pc-boyarin,120-gs-p1892_x6,120-he-m1907,Primary Gun,1
+pc-boyarin,47-p-1_x8-hull,47-he-rus,Tertiary Gun,2
+pc-boyarin,37-p-m1884_x4-mast,37-he-rus-early,Tertiary Gun,3
+pc-boyarin,450-tt-hull_x5-bow,,,
+pc-boyarin,placeholder_torpedo,,,
+pc-izumrud,120-gs-p1892_x8,120-he-m1907,Primary Gun,1
+pc-izumrud,47-p-1_x6-hull-5,47-he-rus,Tertiary Gun,2
+pc-izumrud,37-p-m1884_x2,37-he-rus-early,Tertiary Gun,3
+pc-izumrud,450-tt-hull_x3-bow,,,
+pc-izumrud,placeholder_torpedo,,,
+cl-admiral-nakhimov,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-admiral-nakhimov,63-p-p1916_x4-alt,63-he-rus,AA Battery,2
+cl-admiral-nakhimov,450-tt-hull_x2-side,,,
+cl-admiral-nakhimov,placeholder_torpedo,,,
+cl-admiral-nakhimov,placeholder_mines,,,
+cl-chervona-ukraina-1922,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-chervona-ukraina-1922,76-cp-p1914-aa_x4-alt,76-sh-sh354p,AA Battery,2
+cl-chervona-ukraina-1922,450-tt-hull_x2-side,,,
+cl-chervona-ukraina-1922,placeholder_torpedo,,,
+cl-chervona-ukraina-1922,placeholder_mines,,,
+cl-chervona-ukraina-1922_1932,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-chervona-ukraina-1922_1932,76-cp-p1914-aa_x4-alt,76-sh-sh354p,AA Battery,2
+cl-chervona-ukraina-1922_1932,450-tt-tripple_x4,,,
+cl-chervona-ukraina-1922_1932,placeholder_torpedo,,,
+cl-chervona-ukraina-1922_1932,placeholder_mines,,,
+cl-chervona-ukraina-1922_1936,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-chervona-ukraina-1922_1936,100-gs-m1924_x3-alt,100-he-ita,AA Battery,2
+cl-chervona-ukraina-1922_1936,450-tt-tripple_x4,,,
+cl-chervona-ukraina-1922_1936,placeholder_torpedo,,,
+cl-chervona-ukraina-1922_1936,placeholder_mines,,,
+cl-chervona-ukraina-1939,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-chervona-ukraina-1939,100-gs-m1924_x3-alt,100-he-ita,AA Battery,2
+cl-chervona-ukraina-1939,45-cp-21k_x4,45-he-o-240,AA Battery,3
+cl-chervona-ukraina-1939,12-p-dshk-1938-single_x7,12-b-rus,AA Battery,4
+cl-chervona-ukraina-1939,450-tt-tripple_x4,,,
+cl-chervona-ukraina-1939,placeholder_torpedo,,,
+cl-chervona-ukraina-1939,placeholder_mines,,,
+ca-krasny-kavkaz-1926,180-ag-mk1-180_abxy,180-ap-m1928,Primary Gun,1
+ca-krasny-kavkaz-1926,102-cp-b2_x4,102-he-m1915,AA Battery,2
+ca-krasny-kavkaz-1926,7-p-maxim-aa_x4,7-b-uknown-30,AA Battery,3
+ca-krasny-kavkaz-1926,450-tt-tripple_x4,,,
+ca-krasny-kavkaz-1926,placeholder_torpedo,,,
+ca-krasny-kavkaz-1926,placeholder_mines,,,
+ca-krasny-kavkaz-1926_1935,180-ag-mk1-180_abxy,180-ap-m1928,Primary Gun,1
+ca-krasny-kavkaz-1926_1935,100-gs-m1924_x4,100-he-ita,AA Battery,2
+ca-krasny-kavkaz-1926_1935,45-cp-21k_x4-sides,45-he-o-240,AA Battery,3
+ca-krasny-kavkaz-1926_1935,7-p-maxim-aa_x4,7-b-uknown-30,AA Battery,4
+ca-krasny-kavkaz-1926_1935,450-tt-tripple_x4,,,
+ca-krasny-kavkaz-1926_1935,placeholder_torpedo,,,
+ca-krasny-kavkaz-1926_1935,placeholder_mines,,,
+ca-krasny-kavkaz-1926_1940,180-ag-mk1-180_abxy,180-ap-m1928,Primary Gun,1
+ca-krasny-kavkaz-1926_1940,100-gs-m1924_x4,100-he-ita,AA Battery,2
+ca-krasny-kavkaz-1926_1940,45-cp-21k_x4-sides,45-he-o-240,AA Battery,3
+ca-krasny-kavkaz-1926_1940,12-p-dshk-1938-single_x6,12-b-rus,AA Battery,4
+ca-krasny-kavkaz-1926_1940,7-p-maxim-aa-quad_x2,7-b-uknown-30,AA Battery,5
+ca-krasny-kavkaz-1926_1940,450-tt-tripple_x4,,,
+ca-krasny-kavkaz-1926_1940,placeholder_torpedo,,,
+ca-krasny-kavkaz-1926_1940,placeholder_mines,,,
+ca-krasny-kavkaz-1926_1942-2,180-ag-mk1-180_abxy,180-ap-m1928,Primary Gun,1
+ca-krasny-kavkaz-1926_1942-2,100-gs-m1924_x4,100-he-ita,AA Battery,2
+ca-krasny-kavkaz-1926_1942-2,45-cp-21k_x4-sides,45-he-o-240,AA Battery,3
+ca-krasny-kavkaz-1926_1942-2,37-cp-70k_x4-sides,37-he-frag-rus,AA Battery,4
+ca-krasny-kavkaz-1926_1942-2,12-p-dshk-1938-single_x6,12-b-rus,AA Battery,5
+ca-krasny-kavkaz-1926_1942-2,7-p-maxim-aa-quad_x2-turret,7-b-uknown-30,AA Battery,6
+ca-krasny-kavkaz-1926_1942-2,450-tt-tripple_x4,,,
+ca-krasny-kavkaz-1926_1942-2,placeholder_torpedo,,,
+ca-krasny-kavkaz-1926_1942-2,placeholder_mines,,,
+ca-krasny-kavkaz-1926_1942-5,180-ag-mk1-180_abxy,180-ap-m1928,Primary Gun,1
+ca-krasny-kavkaz-1926_1942-5,100-gs-m1924_x6-alt,100-he-ita,AA Battery,2
+ca-krasny-kavkaz-1926_1942-5,76-gs-34k_x2-aft,76-sh-sh361p,AA Battery,3
+ca-krasny-kavkaz-1926_1942-5,45-cp-21k_x4-sides,45-he-o-240,AA Battery,4
+ca-krasny-kavkaz-1926_1942-5,37-cp-70k_x4-sides,37-he-frag-rus,AA Battery,5
+ca-krasny-kavkaz-1926_1942-5,20-p-mk6_x6-kk,20-he-mk3,AA Battery,6
+ca-krasny-kavkaz-1926_1942-5,12-p-dshk-1938-single_x6,12-b-rus,AA Battery,7
+ca-krasny-kavkaz-1926_1942-5,7-p-maxim-aa-quad_x2-turret,7-b-uknown-30,AA Battery,8
+ca-krasny-kavkaz-1926_1942-5,450-tt-tripple_x4,,,
+ca-krasny-kavkaz-1926_1942-5,placeholder_torpedo,,,
+ca-krasny-kavkaz-1926_1942-5,placeholder_mines,,,
+ca-krasny-kavkaz-1926_1942-12,180-ag-mk1-180_abxy,180-ap-m1928,Primary Gun,1
+ca-krasny-kavkaz-1926_1942-12,100-gs-m1924_x6-alt,100-he-ita,AA Battery,2
+ca-krasny-kavkaz-1926_1942-12,76-gs-34k_x2-aft,76-sh-sh361p,AA Battery,3
+ca-krasny-kavkaz-1926_1942-12,45-cp-21k_x4-sides,45-he-o-240,AA Battery,4
+ca-krasny-kavkaz-1926_1942-12,37-cp-70k_x4-sides,37-he-frag-rus,AA Battery,5
+ca-krasny-kavkaz-1926_1942-12,20-p-mk6_x6-kk,20-he-mk3,AA Battery,6
+ca-krasny-kavkaz-1926_1942-12,12-cp-markii_x2-f-a,12-b-uk,AA Battery,7
+ca-krasny-kavkaz-1926_1942-12,12-p-dshk-1938-single_x6,12-b-rus,AA Battery,7
+ca-krasny-kavkaz-1926_1942-12,450-tt-tripple_x4,,,
+ca-krasny-kavkaz-1926_1942-12,placeholder_torpedo,,,
+ca-krasny-kavkaz-1926_1942-12,placeholder_mines,,,
+ca-krasny-kavkaz-1926_1944,180-ag-mk1-180_abxy,180-ap-m1928,Primary Gun,1
+ca-krasny-kavkaz-1926_1944,100-gs-m1924_x6-alt,100-he-ita,AA Battery,2
+ca-krasny-kavkaz-1926_1944,76-gs-34k_x2-aft,76-sh-sh361p,AA Battery,3
+ca-krasny-kavkaz-1926_1944,45-cp-21k_x4-sides,45-he-o-240,AA Battery,4
+ca-krasny-kavkaz-1926_1944,37-cp-70k_x10-alt-2,37-he-frag-rus,AA Battery,5
+ca-krasny-kavkaz-1926_1944,12-cp-markii_x2-f-a,12-b-uk,AA Battery,6
+ca-krasny-kavkaz-1926_1944,12-p-dshk-1938-single_x6,12-b-rus,AA Battery,6
+ca-krasny-kavkaz-1926_1944,450-tt-tripple_x4,,,
+ca-krasny-kavkaz-1926_1944,placeholder_torpedo,,,
+ca-krasny-kavkaz-1926_1944,placeholder_mines,,,
+ca-krasny-kavkaz-1926_1945-1,180-ag-mk1-180_abxy,180-ap-m1928,Primary Gun,1
+ca-krasny-kavkaz-1926_1945-1,100-gs-m1924_x6-alt,100-he-ita,AA Battery,2
+ca-krasny-kavkaz-1926_1945-1,76-gs-34k_x2-aft,76-sh-sh361p,AA Battery,3
+ca-krasny-kavkaz-1926_1945-1,37-cp-70k_x14,37-he-frag-rus,AA Battery,4
+ca-krasny-kavkaz-1926_1945-1,12-cp-markii_x2-f-a,12-b-uk,AA Battery,5
+ca-krasny-kavkaz-1926_1945-1,12-p-dshk-1938-single_x6,12-b-rus,AA Battery,5
+ca-krasny-kavkaz-1926_1945-1,450-tt-tripple_x4,,,
+ca-krasny-kavkaz-1926_1945-1,placeholder_torpedo,,,
+ca-krasny-kavkaz-1926_1945-1,placeholder_mines,,,
+ca-krasny-kavkaz-1926_1945-5,180-ag-mk1-180_abxy,180-ap-m1928,Primary Gun,1
+ca-krasny-kavkaz-1926_1945-5,100-gs-m1924_x6-alt,100-he-ita,AA Battery,2
+ca-krasny-kavkaz-1926_1945-5,37-cp-70k_x14,37-he-frag-rus,AA Battery,3
+ca-krasny-kavkaz-1926_1945-5,450-tt-tripple_x4,,,
+ca-krasny-kavkaz-1926_1945-5,placeholder_torpedo,,,
+ca-krasny-kavkaz-1926_1945-5,placeholder_mines,,,
+cl-svetlana,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-svetlana,63-p-p1916_x4-alt,63-he-rus,AA Battery,2
+cl-svetlana,450-tt-hull_x2-side,,,
+cl-svetlana,placeholder_torpedo,,,
+cl-svetlana,placeholder_mines,,,
+cl-profintern-1924,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-profintern-1924,76-cp-p1914-aa_x4-alt,76-sh-sh354p,AA Battery,2
+cl-profintern-1924,450-tt-tripple_x3,,,
+cl-profintern-1924,placeholder_torpedo,,,
+cl-profintern-1924,placeholder_mines,,,
+cl-profintern-1924_1930,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-profintern-1924_1930,76-cp-p1914-aa_x4-alt,76-sh-sh354p,AA Battery,2
+cl-profintern-1924_1930,450-tt-tripple_x4,,,
+cl-profintern-1924_1930,placeholder_torpedo,,,
+cl-profintern-1924_1930,placeholder_mines,,,
+cl-profintern-1936,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-profintern-1936,100-gs-m1924_x3-alt,100-he-ita,AA Battery,2
+cl-profintern-1936,533-tt-tripple_x2,,,
+cl-profintern-1936,placeholder_torpedo,,,
+cl-profintern-1936,placeholder_mines,,,
+cl-profintern-1936_1938,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-profintern-1936_1938,100-gs-m1924_x3-alt,100-he-ita,AA Battery,2
+cl-profintern-1936_1938,45-cp-21k_x4,45-he-o-240,AA Battery,3
+cl-profintern-1936_1938,12-p-dshk-1938-single_x7,12-b-rus,AA Battery,4
+cl-profintern-1936_1938,533-tt-tripple_x2,,,
+cl-profintern-1936_1938,placeholder_torpedo,,,
+cl-profintern-1936_1938,placeholder_mines,,,
+cl-profintern-1936_1942,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-profintern-1936_1942,100-gs-m1924_x3-alt,100-he-ita,AA Battery,2
+cl-profintern-1936_1942,45-cp-21k_x4,45-he-o-240,AA Battery,3
+cl-profintern-1936_1942,37-cp-70k_x10-alt-3,37-he-frag-rus,AA Battery,4
+cl-profintern-1936_1942,12-cp-markii_x2-aft,12-b-uk,AA Battery,5
+cl-profintern-1936_1942,12-p-dshk-1938-single_x7,12-b-rus,AA Battery,5
+cl-profintern-1936_1942,533-tt-tripple_x2,,,
+cl-profintern-1936_1942,placeholder_torpedo,,,
+cl-profintern-1936_1942,placeholder_mines,,,
+cl-profintern-1936_1944,130-gs-p1913_x15,130-he-m1911,Primary Gun,1
+cl-profintern-1936_1944,100-gs-m1924_x3-alt,100-he-ita,AA Battery,2
+cl-profintern-1936_1944,37-cp-70k_x14-alt,37-he-frag-rus,AA Battery,3
+cl-profintern-1936_1944,12-cp-markii_x2-aft,12-b-uk,AA Battery,4
+cl-profintern-1936_1944,12-p-dshk-1938-single_x4,12-b-rus,AA Battery,4
+cl-profintern-1936_1944,533-tt-tripple_x2,,,
+cl-profintern-1936_1944,placeholder_torpedo,,,
+cl-profintern-1936_1944,placeholder_mines,,,
+cl-chapayev,152-ag-mk-5_abxy,152-ap-rus,Primary Gun,1
+cl-chapayev,100-ag-mz-14_x4,100-he-f56_100-aa,Secondary Gun,2
+cl-chapayev,37-gs-66k_x6,37-he-frag-rus,AA Battery,3
+cl-chapayev,12-p-dshk-1938-twin_x4,12-b-rus,AA Battery,4
+cl-chapayev,533-tt-tripple_x2,,,
+cl-chapayev,placeholder_torpedo,,,
+cl-chapayev-1947,152-ag-mk-5_abxy,152-ap-rus,Primary Gun,1
+cl-chapayev-1947,100-sm-cm5_x4,100-he-f55_100-aa,Secondary Gun,2
+cl-chapayev-1947,37-gs-v11_x14,37-he-frag-rus,AA Battery,3
+cl-chapayev-1947,placeholder_mines,,,
+cl-sverdlov,152-ag-mk-5_abxy,152-ap-rus,Primary Gun,1
+cl-sverdlov,100-sm-cm5_x6,100-he-f55_100-aa,Secondary Gun,2
+cl-sverdlov,37-gs-v11_x16,37-he-frag-rus,AA Battery,3
+cl-sverdlov,533-tt-quint_x2,,,
+cl-sverdlov,placeholder_torpedo,,,
+cl-sverdlov,placeholder_mines,,,
+cl-oktyabrskaya-revolyutsia-1972,152-ag-mk-5_abxy,152-ap-rus,Primary Gun,1
+cl-oktyabrskaya-revolyutsia-1972,100-sm-cm5_x6,100-he-f55_100-aa,Secondary Gun,2
+cl-oktyabrskaya-revolyutsia-1972,37-gs-v11_x12,37-he-frag-rus,AA Battery,3
+cl-oktyabrskaya-revolyutsia-1972,30-at-ak230_x8,30-frag-of-83,AA Battery,4
+cl-oktyabrskaya-revolyutsia-1972,533-tt-quint_x2,,,
+cl-oktyabrskaya-revolyutsia-1972,placeholder_torpedo,,,
+cl-oktyabrskaya-revolyutsia-1972,placeholder_mines,,,
+cl-sverdlov_1966,152-ag-mk-5_abxy,152-ap-rus,Primary Gun,1
+cl-sverdlov_1966,100-sm-cm5_x6,100-he-f55_100-aa,Secondary Gun,2
+cl-sverdlov_1966,37-gs-v11_x12,37-he-frag-rus,AA Battery,3
+cl-sverdlov_1966,533-tt-quint_x2,,,
+cl-sverdlov_1966,placeholder_torpedo,,,
+cl-sverdlov_1966,placeholder_mines,,,
+cl-irian,152-ag-mk-5_abxy,152-ap-rus,Primary Gun,1
+cl-irian,100-sm-cm5_x6,100-he-f55_100-aa,Secondary Gun,2
+cl-irian,37-gs-v11_x16,37-he-frag-rus,AA Battery,3
+cl-irian,placeholder_mines,,,
+cl-shcherbakov,152-ag-mk-5_abxy,152-ap-rus,Primary Gun,1
+cl-shcherbakov,100-sm-cm5_x6,100-he-f55_100-aa,Secondary Gun,2
+cl-shcherbakov,45-ag-sm-20-zif_x6-alt,45-he-f-73,AA Battery,3
+cl-shcherbakov,37-gs-v11_x8,37-he-frag-rus,AA Battery,4
+cl-shcherbakov,533-tt-quint_x2,,,
+cl-shcherbakov,placeholder_torpedo,,,
+cl-shcherbakov,placeholder_mines,,,

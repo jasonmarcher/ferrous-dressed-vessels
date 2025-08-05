@@ -389,21 +389,24 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 203-bg-p1885,203mm/35 Pattern 1885,"Brink 8""",russia,1885-01-01,203,35,13710,,,Breech,663,663,,http://www.navweaps.com/Weapons/WNRussian_8-35_m1885.php
 203-bg-o1877,203mm/28 Obukhoff 1877,"Obukhoff 8""",russia,1877-01-01,203,28,,,,Breech,,,,
 180-bg-b1P-p1932-3,180mm/57 B-1-P Pattern 1932,,russia,1932-01-01,180,57,17230,2,2,Breech,920,0,100,http://www.navweaps.com/Weapons/WNRussian_71-57_m1932.php
-152-bg-b38-p1938-mk4,152mm/57 B-38 Pattern 1938 MK-4,Bolshevik 152mm,russia,1938-01-01,152,57,14500,7.5,7.5,Breech,950,0,160,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
-152-bg-b38-p1938,152mm/57 B-38 Pattern 1938,Bolshevik 152mm,russia,1938-01-01,152,57,17500,7.5,7.5,Breech,950,0,160,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
-152-bg-o1885,152mm/35 Obukhoff 1885,"Obukhoff 6""",russia,1885-01-01,152,35,,1,1,Breech,700,700,,
+152-bg-b38-p1938-mk4,152mm/57 B-38 Pattern 1938 MK-4,Bolshevik 152mm,russia,1938-01-01,152,57,17500,7.5,7.5,Breech,950,0,160,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
+152-bg-o1885,152mm/35 Obukhoff 1885,"Obukhoff 6""",russia,1885-01-01,152,35,8500,1,1,Breech,700,700,,https://en.wikipedia.org/wiki/6_inch_35_caliber_naval_gun_1877
 152-bg-o1877,152mm/25 Obukhoff 1877,"Obukhoff 6""",russia,1877-01-01,152,25,,1,1,Breech,,,,
 130-bg-p1948,130mm/58 Pattern 1948,Russian 130mm,russia,1948-01-01,130,58,4990,12,12,Breech,950,955,400,http://www.navweaps.com/Weapons/WNRussian_51-58_m1957.php
+102-bg-b2-p1930,102mm/45 B-2 Pattern 1930,"Obukhoff 4""",russia,1927-01-01,102,42,2120,6,4,Breech,755,755,200,http://www.navweaps.com/Weapons/WNRussian_4-45_m1930.php
+100-bg-cm5,100mm/70 CM-5,,russia,1947-01-01,100,70,3972,18,15,Breech,1000,1000,320,http://www.navweaps.com/Weapons/WNRussian_39-70_cm5.php
 100-bg-b34-p1940,100mm/54 B-34 Pattern 1940,Bolshevik 100mm,russia,1937-01-01,100,53.5,2463,12,10,Breech,895,900,300,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php
 87-bg-4pdr-obr,87mm/21 4pdr Obukhoff,,russia,,87,21,,,,Breech,,,,
 85-bg-90k,85mm/52 90-K,,russia,1941-01-01,85,52,2100,18,15,Breech Semi-Automatic,792,792,400,http://www.navweaps.com/Weapons/WNRussian_85mm-52_90k.php
 76-bg-p1914-8k,76.2mm/30 Pattern 1914/15 (8-K),Putilov 76.2mm,russia,1913-01-01,76.2,28,440,12,10,Breech,588,588,,http://www.navweaps.com/Weapons/WNRussian_3-30_Lender.php
 63-bg-p1916,"2.5""/36 Pattern 1916","Obukhov 2.5""",russia,1914-01-01,63.3,36,,30,30,Breech Semi-Automatic,686,686,200,http://www.navweaps.com/Weapons/WNRussian_25-38_m1916.php
-45-mg-rus,45mm/78,Russian 45mm,russia,,45,78,403,75,75,Breech Autoloader,853,853,800,https://en.wikipedia.org/wiki/Stalingrad-class_battlecruiser#Armament
+45-mg-sm7,45mm/78 SM-7,Russian 45mm,russia,1952-01-01,45,78,402.8,640,540,Breech Autoloader,1080,1080,,http://www.navweaps.com/Weapons/WNRussian_45mm-78_SM-7.php
 45-sa-21k,45mm/46 21-K,19-K Anti-Tank Gun,russia,1932-01-01,45,46,115,30,25,Breech Semi-Automatic,343,343,500,http://www.navweaps.com/Weapons/WNRussian_45mm-46.php
 37-mg-70k,37mm/63 70-K,Russian 37mm,russia,1938-01-01,37,62.5,126,170,150,Breech Automatic,880,880,2000,http://www.navweaps.com/Weapons/WNRussian_37mm-67_70-K.php
+30-mg-ak230,30mm/63 AK-230,,russia,1956-01-01,30,63,156,1000,1000,Breech Automatic,1060,1060,500,http://www.navweaps.com/Weapons/WNRussian_30mm-63_ak-230.php
 25-mg-bl-120,25mm/79 BL-120,Russian 25mm,russia,1948-01-01,25,79,101,285,240,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
 25-mg-110-pm,25mm/79 110-PM,Russian 25mm,russia,1948-01-01,25,79,101,300,285,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
+25-mg-72k,25mm/70 72-k,Kalinin Artillery Plant 25mm,russia,1939-01-01,25,70,,240,240,Breech Automatic,910,910,,https://en.wikipedia.org/wiki/25_mm_automatic_air_defense_gun_M1940_(72-K)
 12-mg-dshk-1938,12.7mm/79 DShK 1938,Tula Arms Plant 12.7mm,russia,1938-01-01,12.7,79,34,600,600,Breech Automatic,850,850,,https://en.wikipedia.org/wiki/DShK
 120-bg-hontoria-m1883,120mm/35 Hontoria M1883,Hontoria 12 cm,spain,1883-01-01,120,35,,,,Breech,612,0,,https://en.wikipedia.org/wiki/Gonzalez_Hontoria_de_12_cm_mod_1883
 57-mg-m1951,57mm/60 Model 1951,Bofors 57mm,sweden,1951-01-01,57,60,,120,100,Breech Autoloader,865,865,1580,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
