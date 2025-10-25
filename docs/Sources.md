@@ -6,7 +6,7 @@ https://threedecks.org/index.php?display_type=ships_search
 
 https://felipe.mbnet.fi/index.html
 
-http://www.navsource.org/
+http://www.navsource.net/
 
 https://en.wikipedia.org/
 
@@ -58,6 +58,8 @@ https://maritime.org/doc/jolie/index.htm
 https://www.history.navy.mil/content/history/nhhc/browse-by-topic/exploration-and-innovation/navy-torpedoes.html
 
 https://en.wikipedia.org/wiki/List_of_torpedoes_by_name
+
+https://www.gutenberg.org/files/44990/44990-h/44990-h.htm
 
 ### Ship History
 https://www.history.navy.mil/research/histories/ship-histories/danfs.html
@@ -196,7 +198,12 @@ https://www.seaforces.org/
 
 http://www.luftwaffe-zur-see.de/
 
-### Chinese Ships TODO
+https://www.forposterityssake.ca/RCN-SHIP-INDEX.htm
+
+https://www.pdavis.nl/USM_Paddle.htm
+
+### Ships TODO
+
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
 
 http://www.hisutton.com/WW2-Maru-Yu-Class-Submarine.html
@@ -204,3 +211,11 @@ http://www.hisutton.com/WW2-Maru-Yu-Class-Submarine.html
 https://en.wikipedia.org/wiki/Imperial_Chinese_Navy
 
 https://en.wikipedia.org/wiki/Dingyuan-class_ironclad
+
+https://en.wikipedia.org/wiki/PS_Sandown_(1934)
+
+https://en.wikipedia.org/wiki/Racecourse-class_minesweeper
+
+### Desired books
+
+History of Pacific War Vol. 45: Truth histories of the Imperial Japanese Naval Vessels is a book published in 2004 by the Japanese publisher Gakken. The Japanese title is Rekishi Gunzō: Taiheiyō Senshi Shirizu, Vol. 45: Shōwa no shinsōzō: Teikoku Kaigun no shinso
