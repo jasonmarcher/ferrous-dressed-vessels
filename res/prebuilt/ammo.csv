@@ -80,7 +80,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 57-he-aa-uk,6-pdr HE,britain,57,2.7,0.1,,2.72,0.1,,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php
 47-he-uk,3-pdr HE (UK),britain,47,1.5,0.06,,0,0,None,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
 47-he-aa-uk,3-pdr HE (UK),britain,47,1.5,0.06,,1.5,0.06,,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php
-40-he-uk,2-pdr HE (UK),britain,40,0.9,0.1,,0.9,0.1,,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
+40-he-uk,2-pdr HE (UK),britain,40,0.9,0.13,HSCT/K,0.9,0.13,HSCT/K,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 40-he-mark1,40mm HE (UK),britain,40,0.89,0.07,TNT,0.89,0.07,TNT,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-he-2pdr,2-pdr HE,britain,40,0.82,0.07,TNT,0.82,0.07,TNT,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
 25-b-uk,"1"" Ball",britain,25.4,0.21,0,None,0,0,None,https://en.wikipedia.org/wiki/1-inch_Nordenfelt_gun
@@ -245,6 +245,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 13-ap-jpn,13.2mm AP,japan,13,0.051,0,None,0.051,0,None,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
 12-b-jpn,12.7mm (JPN),japan,12.7,0.037,0,None,0.037,0,None,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
 6-b-jpn,6.5mm (JPN),japan,6,0.009,0,None,0.009,0,None,http://www.navweaps.com/Weapons/WNJAP_65mm-115_Kiho.php
+75-he-nl,7.5cm HE (NL),netherlands,75,5.9,,,5.9,,,http://www.navweaps.com/Weapons/WNNeth_3-55_mk6.php#Ammunition
 406-ap-m1915/28,406mm AP Model 1915/28,russia,406,1108,25.7,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_16-50_m1937.php
 356-ap-m1911,356mm AP mod 1911,russia,356,719,27.9,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_14-52_mk6.php
 305-apc-m1911,305mm APC mod 1911,russia,305,471,13,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_12-52_m1907.php
@@ -356,6 +357,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 57-com-mk3-mod3,Common Mark 3 Mod 3,usa,57,2.7,0.1,Black Powder and TNT,0,0,None,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 47-com-mk4,Common Mark 4,usa,47,1.5,0.06,Black Powder and TNT,0,0,None,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php
 40-he-mk1,HE Mark 1,usa,40,0.9,0.07,TNT,0.9,0.07,TNT,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+37-he-us,30mm HE,usa,37,0.48,,Black Powder,0.48,,Black Powder,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
 37-com-mk4,Common Mark 2,usa,37,0.49,0.01,Black Powder,0,0,None,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
 28-het-mk1,HE-T Mark 1,usa,28,0.86,0.02,Explosive D,0.86,0.02,Explosive D,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php
 20-he-mk3,HE Mark 3,usa,20,0.12,0.01,TNT,0.12,0.01,TNT,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
