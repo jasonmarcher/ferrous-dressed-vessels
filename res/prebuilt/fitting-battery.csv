@@ -4280,6 +4280,13 @@ pred_petropavlovsk,37-p-m1884_x28,37-he-rus-early,Tertiary Gun,4
 pred_petropavlovsk,450-tt-hull_x2-side,,,
 pred_petropavlovsk,381-tt-hull_x4,,,
 pred_petropavlovsk,placeholder_torpedo,,,
+pred_petropavlovsk|1916,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
+pred_petropavlovsk|1916,152-ag-p1892_x4,152-ap-old-model-rus,Primary Gun,2
+pred_petropavlovsk|1916,152-c-41st-year-20_x4-side,152-he-com-type4,Primary Gun,3
+pred_petropavlovsk|1916,76-p-41st-year_x10,76-he-jpn,Tertiary Gun,4
+pred_petropavlovsk|1916,37-p-m1884_x4,37-he-rus-early,Tertiary Gun,5
+pred_petropavlovsk|1916,381-tt-hull_x4,,,
+pred_petropavlovsk|1916,placeholder_torpedo,,,
 pred_tango_1905,305-ag-p1895-early_ay,305-ap-old-model-rus,Primary Gun,1
 pred_tango_1905,152-ag-p1892_x4,152-ap-old-model-rus,Primary Gun,2
 pred_tango_1905,152-c-41st-year-20_x4-side,152-he-com-type4,Primary Gun,3
@@ -8419,6 +8426,11 @@ cl_danae|1943,102-cp-twin-ha-markxix_x1-aft,102-he-uk,Secondary Gun,2
 cl_danae|1943,40-cp-markvii_x2-danae,40-he-2pdr,AA Battery,3
 cl_danae|1943,20-p-markv_x4-danae,20-he-uk,AA Battery,4
 cl_danae|1943,dcr-unknown_x1,,,
+cl_dragon,152-gs-pvii_abqrxy-alt,152-cpbc-2crh,Primary Gun,1
+cl_dragon,102-cp-twin-ha-markxix_x1-aft,102-he-uk,Secondary Gun,2
+cl_dragon,40-cp-markvii_x2-danae,40-he-2pdr,AA Battery,3
+cl_dragon,20-p-markv_x4-danae,20-he-uk,AA Battery,4
+cl_dragon,dcr-unknown_x1,,,
 cl_danae|dauntless_1943,152-gs-pvii_abqrxy-alt,152-cpbc-2crh,Primary Gun,1
 cl_danae|dauntless_1943,102-cp-ha-markii_x1-fantail,102-he-uk,Secondary Gun,2
 cl_danae|dauntless_1943,40-cp-markvii_x2-danae,40-he-2pdr,AA Battery,3
@@ -10851,6 +10863,12 @@ pc_esmeralda,47-p-yamanouchi-mk1_x5,47-com-2.5,Tertiary Gun,3
 pc_esmeralda,,,Tertiary Gun,4
 pc_esmeralda,350-tt-hull_x3-fore,,,
 pc_esmeralda,placeholder_torpedo,,,
+pc_izumi,,,Primary Gun,1
+pc_izumi,,,Primary Gun,2
+pc_izumi,47-p-yamanouchi-mk1_x5,47-com-2.5,Tertiary Gun,3
+pc_izumi,,,Tertiary Gun,4
+pc_izumi,350-tt-hull_x3-fore,,,
+pc_izumi,placeholder_torpedo,,,
 pc_izumi|1899,,,Primary Gun,1
 pc_izumi|1899,120-gs-armstrong-p_x6-sides,120-ap-jpn,Primary Gun,2
 pc_izumi|1899,57-gs-marki-recoil_x2-f-a,57-he-uk,Tertiary Gun,3
@@ -11492,6 +11510,11 @@ claa_dalmacija_1925,,,AA Battery,2
 claa_dalmacija_1925,,,AA Battery,3
 claa_cattaro_1941,,,AA Battery,1
 claa_cattaro_1941,20-p-sif-1939_x6,20-he-ita,AA Battery,2
+claa_niobe_1943,,,AA Battery,1
+claa_niobe_1943,,,AA Battery,1
+claa_niobe_1943,,,AA Battery,2
+claa_niobe_1943,20-p-sif-1939_x26,20-he-ita,AA Battery,3
+claa_niobe_1943,20-p-mark1_x6-niobe,20-he-uk,AA Battery,4
 fb_arcona,105-p-mpl-c30_x4,105-he-l44,AA Battery,1
 fb_arcona,37-sm-ein-lc34_x2-arcona,37-he-t,AA Battery,2
 fb_arcona,20-p-c38_x4-arcona,20-api-i_20-he-i,AA Battery,3
