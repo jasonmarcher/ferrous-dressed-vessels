@@ -43,6 +43,8 @@ https://kronoskaf.com/syw/index.php?title=British_Naval_Artillery#Shot_Types
 
 https://en.wikipedia.org/wiki/32-pounder_gun
 
+https://civilwartalk.com/threads/types-of-columbiad-cannons-in-the-civil-war.213380/
+
 ### Armor
 http://www.navweaps.com/index_nathan/metalprpsept2009.php
 
@@ -95,6 +97,8 @@ http://www.hisutton.com/
 https://www.patreon.com/jivturky
 
 ### Misc.
+https://www.pdavis.nl/index.htm#Vessels
+
 https://dinamicaglobal.wordpress.com/militar/uma-breve-analise-comparativa-dos-grandes-porta-avioes/
 
 http://www.combinedfleet.com/kaigun.htm
@@ -215,6 +219,37 @@ https://en.wikipedia.org/wiki/Dingyuan-class_ironclad
 https://en.wikipedia.org/wiki/PS_Sandown_(1934)
 
 https://en.wikipedia.org/wiki/Racecourse-class_minesweeper
+
+https://en.wikipedia.org/wiki/USS_Buffalo_(1893)
+
+https://en.wikipedia.org/wiki/USS_Delaware
+
+https://en.wikipedia.org/wiki/USS_Chippewa
+
+https://en.wikipedia.org/wiki/Kong%C5%8D-class_ironclad
+
+https://en.wikipedia.org/wiki/SMS_Pommerania
+
+https://en.wikipedia.org/wiki/SMS_Falke_(1865)
+
+https://en.wikipedia.org/wiki/SMS_Loreley_(1859)
+
+https://en.wikipedia.org/wiki/SMS_Grille
+
+https://en.wikipedia.org/wiki/Nix-class_aviso
+
+https://en.wikipedia.org/wiki/SMS_Preussischer_Adler
+
+https://en.wikipedia.org/wiki/SMS_Gefion_(1843)
+
+French Unprotected cruisers
+Circé (1860)
+Cosmao class
+    Cosmao (1861)
+    Dupleix (1861)
+Armorique (1862)
+Talisman (1862)
+Flore (1869)
 
 ### Desired books
 
