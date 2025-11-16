@@ -31,12 +31,13 @@ task generatePrototypeData(type: Copy) {
     include 'gun-mounts.csv'
     include 'guns.csv'
     include 'launcher-mount.csv'
+    include 'namesake.csv'
+    include 'ship-namesake.csv'
 }
 
 task generateShipData(type: Copy) {
     into 'build'
     from 'res/prebuilt'
-    include 'events.csv'
     include 'service.csv'
 }
 
