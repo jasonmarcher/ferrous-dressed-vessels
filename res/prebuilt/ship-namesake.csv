@@ -6105,10 +6105,10 @@ dd_audaz|osado,Osado,Osado
 dd_avon|hms_avon,Avon,Avon
 dd_avon|hms_bittern,Bittern,Bittern
 dd_avon|hms_otter,Otter,Otter
-dd_aylwin|uss_aylwin,Aylwin,Aylwin
-dd_aylwin|uss_balch,Balch,Balch
-dd_aylwin|uss_benham,Benham,Benham
-dd_aylwin|uss_parker,Parker,Parker
+dd_aylwin|uss_aylwin,Aylwin,John Cushing Aylwin
+dd_aylwin|uss_balch,Balch,George Balch
+dd_aylwin|uss_benham,Benham,Andrew E. K. Benham
+dd_aylwin|uss_parker,Parker,Foxhall A. Parker Jr.
 dd_b|hms_basilisk,Basilisk,Basilisk
 dd_b|hms_beagle,Beagle,Beagle
 dd_b|hms_blanche,Blanche,Blanche
@@ -6137,12 +6137,12 @@ dd_bagley|uss_jarvis,Jarvis,Jarvis
 dd_bagley|uss_mugford,Mugford,Mugford
 dd_bagley|uss_patterson,Patterson,Patterson
 dd_bagley|uss_ralph_talbot,Ralph Talbot,Ralph Talbot
-dd_bainbridge|uss_bainbridge,Bainbridge,Bainbridge
-dd_bainbridge|uss_barry,Barry,Barry
-dd_bainbridge|uss_chauncey,Chauncey,Chauncey
-dd_bainbridge|uss_dale,Dale,Dale
-dd_bainbridge|uss_decatur,Decatur,Decatur
-dd_bainbridge|uss_stewart,Stewart,Stewart
+dd_bainbridge|uss_bainbridge,Bainbridge,William Bainbridge
+dd_bainbridge|uss_barry,Barry,John Barry
+dd_bainbridge|uss_chauncey,Chauncey,Isaac Chauncey
+dd_bainbridge|uss_dale,Dale,Richard Dale
+dd_bainbridge|uss_decatur,Decatur,Stephen Decatur
+dd_bainbridge|uss_stewart,Stewart,Charles Stewart
 dd_banshee|hms_banshee,Banshee,Banshee
 dd_banshee|hms_contest,Contest,Contest
 dd_banshee|hms_dragon,Dragon,Dragon
@@ -6279,7 +6279,7 @@ dd_beograd|ljubljana,Ljubljana,Ljubljana
 dd_beograd|ljubljana,Lubiana,Lubiana
 dd_beograd|zagreb,Zagreb,Zagreb
 dd_bespokoynyy|bespokoyny,Bespokoyny,Bespokoyny
-dd_bespokoynyy|derzkiy,Derzkiy,Derzkiy
+dd_bespokoynyy|derzkiy,Derzkiy,Insolent
 dd_bespokoynyy|gnevny,Gnevny,Gnevny
 dd_bespokoynyy|gnevny,R03,R03
 dd_bespokoynyy|pronzitelny,Pronzitelny,Pronzitelny
@@ -6333,7 +6333,7 @@ dd_boykiy|vidnyy,Vidnyy,Vidnyy
 dd_boykiy|zavetnyy,Zavetnyy,Zavetnyy
 dd_boykiy|zavidnyy,R12,R12
 dd_boykiy|zavidnyy,Zavidnyy,Zavidnyy
-dd_boykiy|zharkiy,Zharkiy,Zharkiy
+dd_boykiy|zharkiy,Zharkiy,Torrid
 dd_boykiy|zhivoy,R10,R10
 dd_boykiy|zhivoy,Zhivoy,Zhivoy
 dd_boykiy|zhivuchiy,Zhivuchiy,Zhivuchiy
@@ -6470,12 +6470,12 @@ dd_ca|hms_cassandra,Cassandra,Cassandra
 dd_ca|hms_cavalier,Cavalier,Cavalier
 dd_ca|hms_cavendish,Cavendish,Cavendish
 dd_cadarso|cadarso,Cadarso,Cadarso
-dd_caldwell|uss_caldwell,Caldwell,Caldwell
-dd_caldwell|uss_craven,Conway,Conway
-dd_caldwell|uss_craven,Craven,Craven
-dd_caldwell|uss_craven,Lewes,Lewes
-dd_caldwell|uss_gwin,Gwin,Gwin
-dd_caldwell|uss_manley,Manley,Manley
+dd_caldwell|uss_caldwell,Caldwell,James R. Caldwell
+dd_caldwell|uss_craven,Conway,William Conway
+dd_caldwell|uss_craven,Craven,Tunis Augustus Macdonough Craven
+dd_caldwell|uss_craven,Lewes,"Lewes, England, UK"
+dd_caldwell|uss_gwin,Gwin,William Gwin
+dd_caldwell|uss_manley,Manley,John Manley
 dd_capitan_merino_jarpa|capitan_merino_jarpa,Capitan Merino Jarpa,Capitan Merino Jarpa
 dd_capitan_merino_jarpa|capitan_o_brien,Capitan O'Brien,Capitan O'Brien
 dd_capitan_merino_jarpa|capitan_thomson,Capitan Thomson,Capitan Thomson
@@ -6484,8 +6484,8 @@ dd_capitan_orella|capitan_orella,Capitan Orella,Capitan Orella
 dd_capitan_orella|guardiamarina_riquelme,Guardiamarina Riquelme,Guardiamarina Riquelme
 dd_capitan_orella|guardiamarina_riquelme,Lientur,Lientur
 dd_capitan_orella|teniente_serrano,Teniente Serrano,Teniente Serrano
-dd_cassin|uss_cassin,Cassin,Cassin
-dd_cassin|uss_cummings,Cummings,Cummings
+dd_cassin|uss_cassin,Cassin,Stephen Cassin
+dd_cassin|uss_cummings,Cummings,Andrew Boyd Cummings
 dd_catamarca|ara_catamarca,Catamarca,Catamarca
 dd_catamarca|ara_jujuy,Jujuy,Jujuy
 dd_cervantes|ara_cervantes,Cervantes,Cervantes
@@ -6678,10 +6678,10 @@ dd_comandanti|comandante_toscano,Comandante Toscano,Comandante Toscano
 dd_conflict|hms_conflict,Conflict,Conflict
 dd_conflict|hms_teazer,Teazer,Teazer
 dd_conflict|hms_wizard,Wizard,Wizard
-dd_conner_1916|uss_conner,Conner,Conner
-dd_conner_1916|uss_conner,Leeds,Leeds
-dd_conner_1916|uss_stockton,Ludlow,Ludlow
-dd_conner_1916|uss_stockton,Stockton,Stockton
+dd_conner_1916|uss_conner,Conner,David Conner
+dd_conner_1916|uss_conner,Leeds,"Leeds, England, UK"
+dd_conner_1916|uss_stockton,Ludlow,"Ludlow, England, UK"
+dd_conner_1916|uss_stockton,Stockton,Robert F. Stockton
 dd_coquette|hms_coquette,Coquette,Coquette
 dd_coquette|hms_cygnet,Cygnet,Cygnet
 dd_coquette|hms_cynthia,Cynthia,Cynthia
@@ -6712,7 +6712,7 @@ dd_curtalone|castelfidardo,Castelfidardo,Castelfidardo
 dd_curtalone|castelfidardo,TA16,TA16
 dd_curtalone|curtatone,Curtatone,Curtatone
 dd_curtalone|monzambano,Monzambano,Monzambano
-dd_cushing|uss_cushing,Cushing,Cushing
+dd_cushing|uss_cushing,Cushing,William B. Cushing
 dd_d|hms_dainty,Dainty,Dainty
 dd_d|hms_daring,Daring,Daring
 dd_d|hms_decoy,Decoy,Decoy
@@ -6747,10 +6747,10 @@ dd_desperate|hms_desperate,Desperate,Desperate
 dd_desperate|hms_fame,Fame,Fame
 dd_desperate|hms_foam,Foam,Foam
 dd_desperate|hms_mallard,Mallard,Mallard
-dd_dickerson|uss_dickerson,Dickerson,Dickerson
-dd_dickerson|uss_herbert,Herbert,Herbert
-dd_dickerson|uss_leary,Leary,Leary
-dd_dickerson|uss_schenck,Schenck,Schenck
+dd_dickerson|uss_dickerson,Dickerson,"Mahlon Dickerson, Secretary of the Navy"
+dd_dickerson|uss_herbert,Herbert,"Hilary Abner Herbert, Secretary of the Navy"
+dd_dickerson|uss_leary,Leary,Clarence Frederick Leary
+dd_dickerson|uss_schenck,Schenck,James Findlay Schenck
 dd_douro_1933|dao,Dao,Dao
 dd_douro_1933|douro,Antioquia,Antioquia
 dd_douro_1933|douro,Douro,Douro
@@ -6762,8 +6762,8 @@ dd_douro_1933|tejo_ii,Tejo,Tejo
 dd_douro_1933|vouga,Vouga,Vouga
 dd_dove|hms_bullfinch,Bullfinch,Bullfinch
 dd_dove|hms_dove,Dove,Dove
-dd_downes|uss_downes,Downes,Downes
-dd_downes|uss_duncan,Duncan,Duncan
+dd_downes|uss_downes,Downes,John Downes
+dd_downes|uss_duncan,Duncan,Silas M. Duncan
 dd_draug|draug,Draug,Draug
 dd_draug|troll,Troll,Troll
 dd_dubrovnik|dubrovnik,Dubrovnik,Dubrovnik
@@ -7521,8 +7521,8 @@ dd_holland|hnlms_holland,Garcia y Garcia,Garcia y Garcia
 dd_holland|hnlms_holland,Holland,Holland
 dd_holland|hnlms_noord_brabant,Noord Brabant,Noord Brabant
 dd_holland|hnlms_zeeland,Zeeland,Zeeland
-dd_hopkins|uss_hopkins,Hopkins,Hopkins
-dd_hopkins|uss_hull,Hull,Hull
+dd_hopkins|uss_hopkins,Hopkins,"Esek Hopkins, Commander in Chief of the Continental Navy"
+dd_hopkins|uss_hull,Hull,Isaac Hull
 dd_hovey|uss_hovey,Hovey,Hovey
 dd_hovey|uss_long,Long,Long
 dd_hugin|hugin,Hugin,Hugin
@@ -7801,8 +7801,8 @@ dd_lampo|euro,Euro,Euro
 dd_lampo|euro,Strale,Strale
 dd_lampo|freccia,Freccia,Freccia
 dd_lampo|lampo,Lampo,Lampo
-dd_lawrence|uss_lawrence,Lawrence,Lawrence
-dd_lawrence|uss_macdonough,MacDonough,MacDonough
+dd_lawrence|uss_lawrence,Lawrence,James Lawrence
+dd_lawrence|uss_macdonough,MacDonough,"Thomas Macdonough, Jr."
 dd_le_fantasque|l_audacieux,L'Audacieux,L'Audacieux
 dd_le_fantasque|l_indomptable,L'Indomptable,L'Indomptable
 dd_le_fantasque|le_fantasque,Le Fantasque,Le Fantasque
@@ -7857,42 +7857,42 @@ dd_leytenant_shestakov|leytenant_zatsaryonnyy,Leytenant Zatsaryonnyy,Leytenant Z
 dd_liffey|hms_liffey,Liffey,Liffey
 dd_liffey|hms_moy,Moy,Moy
 dd_liffey|hms_ouse,Ouse,Ouse
-dd_little|uss_bell,Bell,Bell
-dd_little|uss_bush,Bush,Bush
-dd_little|uss_colhoun,Colhoun,Colhoun
-dd_little|uss_cowell,Brighton,Brighton
-dd_little|uss_cowell,Cowell,Cowell
-dd_little|uss_cowell,Zharkiy,Zharkiy
-dd_little|uss_crosby,Crosby,Crosby
-dd_little|uss_dyer,Dyer,Dyer
-dd_little|uss_foote,Doblestnyy,Doblestnyy
-dd_little|uss_foote,Foote,Foote
-dd_little|uss_foote,Roxburgh,Roxburgh
-dd_little|uss_gregory,Gregory,Gregory
-dd_little|uss_israel,Israel,Israel
-dd_little|uss_kimberly,Kimberly,Kimberly
-dd_little|uss_lansdale,Lansdale,Lansdale
-dd_little|uss_little,Little,Little
-dd_little|uss_luce,Luce,Luce
-dd_little|uss_maddox,Georgetown,Georgetown
-dd_little|uss_maddox,Maddox,Maddox
-dd_little|uss_maddox,Zhostkiy,Zhostkiy
-dd_little|uss_mahan,Mahan,Mahan
-dd_little|uss_maury,Maury,Maury
-dd_little|uss_meredith,Meredith,Meredith
-dd_little|uss_murray,Murray,Murray
-dd_little|uss_palmer,Palmer,Palmer
-dd_little|uss_rodgers,Hamilton,Hamilton
-dd_little|uss_rodgers,Kalk,Kalk
-dd_little|uss_rodgers,Rodgers,Rodgers
-dd_little|uss_sigourney,Newport,Newport
-dd_little|uss_sigourney,Sigourney,Sigourney
-dd_little|uss_stevens,Stevens,Stevens
-dd_little|uss_stribling,Stribling,Stribling
-dd_little|uss_stringham,Stringham,Stringham
-dd_little|uss_thatcher,Niagara,Niagara
-dd_little|uss_thatcher,Thatcher,Thatcher
-dd_little|uss_walker,Walker,Walker
+dd_little|uss_bell,Bell,Henry Haywood Bell
+dd_little|uss_bush,Bush,William Sharp Bush
+dd_little|uss_colhoun,Colhoun,Edmund Ross Colhoun
+dd_little|uss_cowell,Brighton,"Brighton, England, UK"
+dd_little|uss_cowell,Cowell,John G. Cowell
+dd_little|uss_cowell,Zharkiy,Torrid
+dd_little|uss_crosby,Crosby,Peirce Crosby
+dd_little|uss_dyer,Dyer,Nehemiah Mayo Dyer
+dd_little|uss_foote,Doblestnyy,Valiant
+dd_little|uss_foote,Foote,Andrew Hull Foote
+dd_little|uss_foote,Roxburgh,"Roxburgh, Scotland, UK"
+dd_little|uss_gregory,Gregory,Francis Hoyt Gregory
+dd_little|uss_israel,Israel,Joseph Israel
+dd_little|uss_kimberly,Kimberly,Lewis Ashfield Kimberly
+dd_little|uss_lansdale,Lansdale,Philip Van Horne Lansdale
+dd_little|uss_little,Little,George Little
+dd_little|uss_luce,Luce,Stephen Bleecker Luce
+dd_little|uss_maddox,Georgetown,"Georgetown, Wales, UK"
+dd_little|uss_maddox,Maddox,William A. T. Maddox
+dd_little|uss_maddox,Zhostkiy,Rigid
+dd_little|uss_mahan,Mahan,Alfred Thayer Mahan
+dd_little|uss_maury,Maury,Matthew Fontaine Maury
+dd_little|uss_meredith,Meredith,Jonathan Meredith
+dd_little|uss_murray,Murray,Alexander Murray
+dd_little|uss_palmer,Palmer,James Shedden Palmer
+dd_little|uss_rodgers,Hamilton,"Hamilton, Bermuda, UK"
+dd_little|uss_rodgers,Kalk,Stanton Frederick Kalk
+dd_little|uss_rodgers,Rodgers,John Rodgers
+dd_little|uss_sigourney,Newport,"Newport, Wales, UK"
+dd_little|uss_sigourney,Sigourney,James Sigourney
+dd_little|uss_stevens,Stevens,Thomas Holdup Stevens
+dd_little|uss_stribling,Stribling,Cornelius Kinchiloe Stribling
+dd_little|uss_stringham,Stringham,Silas Horton Stringham
+dd_little|uss_thatcher,Niagara,"Niagara River, North America"
+dd_little|uss_thatcher,Thatcher,Henry Knox Thatcher
+dd_little|uss_walker,Walker,John Grimes Walker
 dd_lively|hms_lively,Lively,Lively
 dd_lively|hms_sprightly,Sprightly,Sprightly
 dd_liz_1913|liz,Arno,Arno
@@ -8037,8 +8037,8 @@ dd_mandate|hms_rapid,Rapid,Rapid
 dd_mandate|hms_ready,Ready,Ready
 dd_mandate|hms_relentless,Relentless,Relentless
 dd_mandate|hms_rival,Rival,Rival
-dd_mcdougal|uss_ericsson,Ericsson,Ericsson
-dd_mcdougal|uss_mcdougal,McDougal,McDougal
+dd_mcdougal|uss_ericsson,Ericsson,John Ericsson
+dd_mcdougal|uss_mcdougal,McDougal,David Stockton McDougal
 dd_mendoza_1914|ara_mendoza,Aventurier,Aventurier
 dd_mendoza_1914|ara_mendoza,Mendoza,Mendoza
 dd_mendoza_1914|ara_rioja,Opiniatre,Opiniatre
@@ -8094,17 +8094,17 @@ dd_momo|hinoki,Hinoki,Hinoki
 dd_momo|kari,Kari,Kari
 dd_momo|momo,Momo,Momo
 dd_momo|yanagi,Yanagi,Yanagi
-dd_monaghan|uss_ammen,Ammen,Ammen
-dd_monaghan|uss_beale,Beale,Beale
-dd_monaghan|uss_fanning,Fanning,Fanning
-dd_monaghan|uss_henley,Henley,Henley
-dd_monaghan|uss_jarvis,Jarvis,Jarvis
+dd_monaghan|uss_ammen,Ammen,Daniel Ammen
+dd_monaghan|uss_beale,Beale,Edward Fitzgerald Beale
+dd_monaghan|uss_fanning,Fanning,Nathaniel Fanning
+dd_monaghan|uss_henley,Henley,Robert Henley
+dd_monaghan|uss_jarvis,Jarvis,James C. Jarvis
 dd_monaghan|uss_jenkins,Jenkins,Jenkins
-dd_monaghan|uss_jouett,Jouett,Jouett
-dd_monaghan|uss_monaghan,Monaghan,Monaghan
-dd_monaghan|uss_patterson,Patterson,Patterson
-dd_monaghan|uss_trippe,Trippe,Trippe
-dd_monaghan|uss_walke,Walke,Walke
+dd_monaghan|uss_jouett,Jouett,James Edward Jouett
+dd_monaghan|uss_monaghan,Monaghan,John R. Monaghan
+dd_monaghan|uss_patterson,Patterson,Daniel Todd Patterson
+dd_monaghan|uss_trippe,Trippe,John Trippe
+dd_monaghan|uss_walke,Walke,Henry A. Walke
 dd_murakumo|kagero,Kagero,Kagero
 dd_murakumo|murakumo,Murakumo,Murakumo
 dd_murakumo|shinonome,Shinonome,Shinonome
@@ -8165,9 +8165,9 @@ dd_niki|doxa,Doxa,Doxa
 dd_niki|niki,Niki,Niki
 dd_niki|velos,Velos,Velos
 dd_novik|yakov_sverdlov,Yakov Sverdlov,Yakov Sverdlov
-dd_o_brien|uss_nicholson,Nicholson,Nicholson
-dd_o_brien|uss_o_brien,O'Brien,O'Brien
-dd_o_brien|uss_winslow,Winslow,Winslow
+dd_o_brien|uss_nicholson,Nicholson,Nicholson Family
+dd_o_brien|uss_o_brien,O'Brien,Jeremiah O'Brien
+dd_o_brien|uss_winslow,Winslow,John Ancrum Winslow
 dd_o|hms_offa,Offa,Offa
 dd_o|hms_onslaught,Onslaught,Onslaught
 dd_o|hms_onslow,Onslow,Onslow
@@ -8208,19 +8208,19 @@ dd_para|piaui,Piaui,Piaui
 dd_para|rio_grande_do_norte,Rio Grande do Norte,Rio Grande do Norte
 dd_para|santa_catharina,Santa Catharina,Santa Catharina
 dd_para|sergipe,Sergipe,Sergipe
-dd_paul_jones|uss_paul_jones,Paul Jones,Paul Jones
-dd_paul_jones|uss_perry,Perry,Perry
-dd_paul_jones|uss_preble,Preble,Preble
-dd_paulding|uss_burrows,Burrows,Burrows
-dd_paulding|uss_drayton,Drayton,Drayton
-dd_paulding|uss_mccall,McCall,McCall
-dd_paulding|uss_paulding,Paulding,Paulding
-dd_paulding|uss_roe,Roe,Roe
-dd_paulding|uss_terry,Terry,Terry
-dd_perkins|uss_mayrant,Mayrant,Mayrant
-dd_perkins|uss_perkins,Perkins,Perkins
-dd_perkins|uss_sterett,Sterett,Sterett
-dd_perkins|uss_warrington,Warrington,Warrington
+dd_paul_jones|uss_paul_jones,Paul Jones,John Paul Jones
+dd_paul_jones|uss_perry,Perry,Oliver Hazard Perry
+dd_paul_jones|uss_preble,Preble,Edward Preble
+dd_paulding|uss_burrows,Burrows,William Ward Burrows II
+dd_paulding|uss_drayton,Drayton,Percival Drayton
+dd_paulding|uss_mccall,McCall,Edward McCall
+dd_paulding|uss_paulding,Paulding,Hiram Paulding
+dd_paulding|uss_roe,Roe,Francis Asbury Roe
+dd_paulding|uss_terry,Terry,Edward A. Terry
+dd_perkins|uss_mayrant,Mayrant,John Mayrant
+dd_perkins|uss_perkins,Perkins,George H. Perkins
+dd_perkins|uss_sterett,Sterett,Andrew Sterett
+dd_perkins|uss_warrington,Warrington,Lewis Warrington
 dd_pertuisane|escopette,Escopette,Escopette
 dd_pertuisane|flamberge,Flamberge,Flamberge
 dd_pertuisane|pertuisane,Pertuisane,Pertuisane
@@ -8349,9 +8349,9 @@ dd_project_30k|vlastnyy,Vlastnyy,Vlastnyy
 dd_project_30k|vnezapnyy,Vnezapnyy,Vnezapnyy
 dd_project_30k|vnushitelnyy,Vnushitelnyy,Vnushitelnyy
 dd_project_30k|vynoslivyy,Vynoslivyy,Vynoslivyy
-dd_project_30k|zharkiy,Zharkiy,Zharkiy
+dd_project_30k|zharkiy,Zharkiy,Torrid
 dd_project_30k|zhestokiy,Zhestokiy,Zhestokiy
-dd_project_30k|zhguchiy,Zhguchiy,Zhguchiy
+dd_project_30k|zhguchiy,Zhguchiy,Fiery
 dd_project_30k|zhivoy,Zhivoy,Zhivoy
 dd_project_30k|zhutkiy,Zhutkiy,Zhutkiy
 dd_project_41|neustrashimyy,Neustrashimyy,Neustrashimyy
@@ -8664,12 +8664,12 @@ dd_sakura|sakura,Sakura,Sakura
 dd_sakura|tachibana,Tachibana,Tachibana
 dd_salmon|hms_salmon,Salmon,Salmon
 dd_salmon|hms_snapper,Snapper,Snapper
-dd_sampson|uss_allen,Allen,Allen
-dd_sampson|uss_davis,Davis,Davis
-dd_sampson|uss_rowan,Rowan,Rowan
-dd_sampson|uss_sampson,Sampson,Sampson
-dd_sampson|uss_shaw,Shaw,Shaw
-dd_sampson|uss_wilkes,Wilkes,Wilkes
+dd_sampson|uss_allen,Allen,William Henry Allen
+dd_sampson|uss_davis,Davis,Charles Henry Davis
+dd_sampson|uss_rowan,Rowan,Stephen Clegg Rowan
+dd_sampson|uss_sampson,Sampson,William Thomas Sampson
+dd_sampson|uss_shaw,Shaw,John Shaw
+dd_sampson|uss_wilkes,Wilkes,Charles Wilkes
 dd_samsun|basra,Basra,Basra
 dd_samsun|samsun,Samsun,Samsun
 dd_samsun|tasoz,Tasoz,Tasoz
@@ -8730,11 +8730,11 @@ dd_sims|uss_hammann,Hammann,Hammann
 dd_sims|uss_hughes,Hughes,Hughes
 dd_sims|uss_mustin,Mustin,Mustin
 dd_sims|uss_sims,Sims,Sims
-dd_smith|uss_flusser,Flusser,Flusser
-dd_smith|uss_lamson,Lamson,Lamson
-dd_smith|uss_preston,Preston,Preston
-dd_smith|uss_reid,Reid,Reid
-dd_smith|uss_smith,Smith,Smith
+dd_smith|uss_flusser,Flusser,Charles W. Flusser
+dd_smith|uss_lamson,Lamson,Roswell Lamson
+dd_smith|uss_preston,Preston,Samuel W. Preston
+dd_smith|uss_reid,Reid,Samuel Chester Reid
+dd_smith|uss_smith,Smith,Joseph B. Smith
 dd_sokol|sokol,Prytkiy,Prytkiy
 dd_sokol|sokol,Sokol,Sokol
 dd_soldati_i|alpino,Alpino,Alpino
@@ -8782,7 +8782,7 @@ dd_star|hms_star,Star,Star
 dd_star|hms_whiting,Whiting,Whiting
 dd_storozhevoy|delnyy,Delnyy,Delnyy
 dd_storozhevoy|deyatelnyy,Deyatelnyy,Deyatelnyy
-dd_storozhevoy|dostoynyy,Dostoynyy,Dostoynyy
+dd_storozhevoy|dostoynyy,Dostoynyy,Worthy
 dd_storozhevoy|rastoropnyy,Rastoropnyy,Rastoropnyy
 dd_storozhevoy|razyashchiy,Razyashchiy,Razyashchiy
 dd_storozhevoy|silnyy,Silnyy,Silnyy
@@ -8832,27 +8832,27 @@ dd_tatra|sms_orjen,Pola,Pola
 dd_tatra|sms_tatra,Fasana,Fasana
 dd_tatra|sms_tatra,Tatra,Tatra
 dd_tatra|sms_triglav,Triglav,Triglav
-dd_tattnall|uss_babbitt,Babbitt,Babbitt
-dd_tattnall|uss_badger,Badger,Badger
-dd_tattnall|uss_delong,DeLong,DeLong
-dd_tattnall|uss_jacob_jones,Jacob Jones,Jacob Jones
-dd_tattnall|uss_tattnall,Tattnall,Tattnall
-dd_tattnall|uss_twiggs,Leamington,Leamington
-dd_tattnall|uss_twiggs,Twiggs,Twiggs
-dd_tattnall|uss_twiggs,Zhguchiy,Zhguchiy
+dd_tattnall|uss_babbitt,Babbitt,Fitz Henry Babbitt
+dd_tattnall|uss_badger,Badger,Oscar Charles Badger
+dd_tattnall|uss_delong,DeLong,George Washington De Long
+dd_tattnall|uss_jacob_jones,Jacob Jones,Jacob Nicholas Jones
+dd_tattnall|uss_tattnall,Tattnall,Josiah Tattnall III
+dd_tattnall|uss_twiggs,Leamington,"Royal Leamington Spa, England, UK"
+dd_tattnall|uss_twiggs,Twiggs,Levi Twiggs
+dd_tattnall|uss_twiggs,Zhguchiy,Fiery
 dd_tejo_1904|tejo,Tejo,Tejo
-dd_tenedos|i,i,i
-dd_tenedos|ii,ii,ii
-dd_tenedos|iii,iii,iii
-dd_tenedos|iv,iv,iv
+dd_tenedos|i,i,Placeholder
+dd_tenedos|ii,ii,Placeholder
+dd_tenedos|iii,iii,Placeholder
+dd_tenedos|iv,iv,Placeholder
 dd_tenedos|khios,Khios,Khios
 dd_tenedos|rodos,Rodos,Rodos
 dd_tenedos|samos,Samos,Samos
 dd_tenedos|tenedos,Tenedos,Tenedos
-dd_tenedos|v,v,v
-dd_tenedos|vi,vi,vi
-dd_tenedos|vii,vii,vii
-dd_tenedos|viii,viii,viii
+dd_tenedos|v,v,Placeholder
+dd_tenedos|vi,vi,Placeholder
+dd_tenedos|vii,vii,Placeholder
+dd_tenedos|viii,viii,Placeholder
 dd_thorn|hms_thorn,Thorn,Thorn
 dd_thorn|hms_tiger,Tiger,Tiger
 dd_thorn|hms_vigilant,Vigilant,Vigilant
@@ -8912,14 +8912,14 @@ dd_triglav|sms_triglav,Grado,Grado
 dd_triglav|sms_triglav,Triglav,Triglav
 dd_triglav|sms_uzsok,Monfalcone,Monfalcone
 dd_triglav|sms_uzsok,Uzsok,Uzsok
-dd_truxtun|uss_truxtun,Truxtun,Truxtun
-dd_truxtun|uss_whipple,Whipple,Whipple
-dd_truxtun|uss_worden,Worden,Worden
-dd_tucker|uss_conyngham,Conyngham,Conyngham
-dd_tucker|uss_jacob_jones,Jacob Jones,Jacob Jones
-dd_tucker|uss_porter,Porter,Porter
-dd_tucker|uss_tucker,Tucker,Tucker
-dd_tucker|uss_wadsworth,Wadsworth,Wadsworth
+dd_truxtun|uss_truxtun,Truxtun,Thomas Truxtun
+dd_truxtun|uss_whipple,Whipple,Abraham Whipple
+dd_truxtun|uss_worden,Worden,John Lorimer Worden
+dd_tucker|uss_conyngham,Conyngham,Gustavus Conyngham
+dd_tucker|uss_jacob_jones,Jacob Jones,Jacob Nicholas Jones
+dd_tucker|uss_porter,Porter,David Dixon Porter
+dd_tucker|uss_tucker,Tucker,Samuel Tucker
+dd_tucker|uss_wadsworth,Wadsworth,Wadleigh
 dd_turbine|aquilone,Aquilone,Aquilone
 dd_turbine|borea,Borea,Borea
 dd_turbine|espero,Espero,Espero
@@ -9130,7 +9130,7 @@ dd_w|hms_whelp,Whelp,Whelp
 dd_w|hms_whirlwind,Whirlwind,Whirlwind
 dd_w|hms_wizard,Wizard,Wizard
 dd_w|hms_wrangler,Wrangler,Wrangler
-dd_wainwright|uss_wainwright,Wainwright,Wainwright
+dd_wainwright|uss_wainwright,Wainwright,Wainwright Family
 dd_wakatake|asagao,Asagao,Asagao
 dd_wakatake|asagao,Dai-10,Dai-10
 dd_wakatake|dai_20,Dai-20,Dai-20
@@ -9155,106 +9155,106 @@ dd_welland|hms_welland,Welland,Welland
 dd_wicher|burza,Burza,Burza
 dd_wicher|wicher,Wicher,Wicher
 dd_wickes|uss_aaron_ward,Aaron Ward,Aaron Ward
-dd_wickes|uss_aaron_ward,Castleton,Castleton
-dd_wickes|uss_abbot,Abbot,Abbot
-dd_wickes|uss_abbot,Charlestown,Charlestown
-dd_wickes|uss_anthony,Anthony,Anthony
-dd_wickes|uss_bagley,Bagley,Bagley
-dd_wickes|uss_bagley,DD-185,DD-185
-dd_wickes|uss_bagley,Doran,Doran
-dd_wickes|uss_bagley,St. Mary's,St. Mary's
-dd_wickes|uss_barney,Barney,Barney
-dd_wickes|uss_bernadou,Bernadou,Bernadou
-dd_wickes|uss_biddle,Biddle,Biddle
-dd_wickes|uss_blakeley,Blakeley,Blakeley
-dd_wickes|uss_boggs,Boggs,Boggs
-dd_wickes|uss_breckinridge,Breckinridge,Breckinridge
-dd_wickes|uss_breese,Breese,Breese
-dd_wickes|uss_buchanan,Buchanan,Buchanan
-dd_wickes|uss_buchanan,Campbelltown,Campbelltown
-dd_wickes|uss_burns,Burns,Burns
-dd_wickes|uss_champlin,Champlin,Champlin
-dd_wickes|uss_chew,Chew,Chew
-dd_wickes|uss_claxton,Claxton,Claxton
-dd_wickes|uss_claxton,Salisbury,Salisbury
-dd_wickes|uss_cole,Cole,Cole
-dd_wickes|uss_crane,Crane,Crane
-dd_wickes|uss_crowninshield,Chelsea,Chelsea
-dd_wickes|uss_crowninshield,Crowninshield,Crowninshield
-dd_wickes|uss_crowninshield,Derzkiy,Derzkiy
-dd_wickes|uss_dent,Dent,Dent
-dd_wickes|uss_dorsey,Dorsey,Dorsey
-dd_wickes|uss_du_pont,Du Pont,Du Pont
-dd_wickes|uss_elliot,Elliot,Elliot
-dd_wickes|uss_ellis,Ellis,Ellis
-dd_wickes|uss_evans,Evans,Evans
-dd_wickes|uss_evans,Mansfield,Mansfield
-dd_wickes|uss_fairfax,Fairfax,Fairfax
-dd_wickes|uss_fairfax,Richmond,Richmond
-dd_wickes|uss_fairfax,Zhivuchiy,Zhivuchiy
-dd_wickes|uss_gamble,Gamble,Gamble
-dd_wickes|uss_greer,Greer,Greer
-dd_wickes|uss_gridley,Gridley,Gridley
-dd_wickes|uss_hale,Caldwell,Caldwell
-dd_wickes|uss_hale,Hale,Hale
-dd_wickes|uss_hamilton,Hamilton,Hamilton
-dd_wickes|uss_haraden,Columbia,Columbia
-dd_wickes|uss_haraden,Haraden,Haraden
-dd_wickes|uss_harding,Harding,Harding
-dd_wickes|uss_hart,Hart,Hart
-dd_wickes|uss_hazelwood,Hazelwood,Hazelwood
-dd_wickes|uss_hogan,Hogan,Hogan
-dd_wickes|uss_hopewell,Bath,Bath
-dd_wickes|uss_hopewell,Hopewell,Hopewell
-dd_wickes|uss_howard,Howard,Howard
-dd_wickes|uss_ingraham,Ingraham,Ingraham
-dd_wickes|uss_j_fred_talbott,J. Fred Talbott,J. Fred Talbott
-dd_wickes|uss_kennison,Kennison,Kennison
-dd_wickes|uss_kilty,Kilty,Kilty
-dd_wickes|uss_lamberton,Lamberton,Lamberton
-dd_wickes|uss_lea,Lea,Lea
-dd_wickes|uss_ludlow,Ludlow,Ludlow
-dd_wickes|uss_mackenzie,Annapolis,"Annapolis, Maryland, US"
-dd_wickes|uss_mackenzie,Mackenzie,Mackenzie
-dd_wickes|uss_mckean,McKean,McKean
-dd_wickes|uss_mckee,McKee,McKee
-dd_wickes|uss_montgomery,Montgomery,Montgomery
-dd_wickes|uss_mugford,Mugford,Mugford
-dd_wickes|uss_o'bannon,O'Bannon,O'Bannon
-dd_wickes|uss_philip,Lancaster,Lancaster
-dd_wickes|uss_philip,Philip,Philip
-dd_wickes|uss_radford,Radford,Radford
-dd_wickes|uss_ramsay,Ramsay,Ramsay
-dd_wickes|uss_rathburne,Rathburne,Rathburne
-dd_wickes|uss_renshaw,Renshaw,Renshaw
+dd_wickes|uss_aaron_ward,Castleton,"Castleton, England, UK"
+dd_wickes|uss_abbot,Abbot,Joel Abbot
+dd_wickes|uss_abbot,Charlestown,"Charlestown, England, UK"
+dd_wickes|uss_anthony,Anthony,William Anthony
+dd_wickes|uss_bagley,Bagley,Worth Bagley
+dd_wickes|uss_bagley,DD-185,Hull Number
+dd_wickes|uss_bagley,Doran,John James Doran
+dd_wickes|uss_bagley,St. Mary's,"St. Mary's, England, UK"
+dd_wickes|uss_barney,Barney,Joshua Barney
+dd_wickes|uss_bernadou,Bernadou,John Baptiste Bernadou
+dd_wickes|uss_biddle,Biddle,Nicholas Biddle
+dd_wickes|uss_blakeley,Blakeley,Johnston Blakeley
+dd_wickes|uss_boggs,Boggs,Charles Stewart Boggs
+dd_wickes|uss_breckinridge,Breckinridge,"Joseph Cabell Breckinridge, Jr."
+dd_wickes|uss_breese,Breese,Kidder Randolph Breese
+dd_wickes|uss_buchanan,Buchanan,Franklin Buchanan
+dd_wickes|uss_buchanan,Campbeltown,"Campbeltown, Scotland, UK"
+dd_wickes|uss_burns,Burns,Otway Burns
+dd_wickes|uss_champlin,Champlin,Stephen Champlin
+dd_wickes|uss_chew,Chew,Samuel Chew
+dd_wickes|uss_claxton,Claxton,Thomas Claxton
+dd_wickes|uss_claxton,Salisbury,"Salisbury, England, UK"
+dd_wickes|uss_cole,Cole,Edward Ball Cole
+dd_wickes|uss_crane,Crane,William Montgomery Crane
+dd_wickes|uss_crowninshield,Chelsea,"Chelsea, London, England, UK"
+dd_wickes|uss_crowninshield,Crowninshield,"Benjamin Williams Crowninshield, Secretary of the Navy"
+dd_wickes|uss_crowninshield,Derzkiy,Insolent
+dd_wickes|uss_dent,Dent,John Herbert Dent
+dd_wickes|uss_dorsey,Dorsey,John Dorsey
+dd_wickes|uss_du_pont,Du Pont,Samuel Francis Du Pont
+dd_wickes|uss_elliot,Elliot,Richard McCall Elliot Jr.
+dd_wickes|uss_ellis,Ellis,George Henry Ellis
+dd_wickes|uss_evans,Evans,Robley Dunglison Evans
+dd_wickes|uss_evans,Mansfield,"Mansfield, England, UK"
+dd_wickes|uss_fairfax,Fairfax,Donald McNeill Fairfax
+dd_wickes|uss_fairfax,Richmond,"Richmond, England, UK"
+dd_wickes|uss_fairfax,Zhivuchiy,Tenacious
+dd_wickes|uss_gamble,Gamble,John Marshall Gamble
+dd_wickes|uss_greer,Greer,James Augustin Greer
+dd_wickes|uss_gridley,Gridley,Charles Vernon Gridley
+dd_wickes|uss_hale,Caldwell,"Caldwell, England, UK"
+dd_wickes|uss_hale,Hale,Eugene Hale
+dd_wickes|uss_hamilton,Hamilton,Archibald Hamilton
+dd_wickes|uss_haraden,Columbia,"Columbia River, North America"
+dd_wickes|uss_haraden,Haraden,Jonathan Haradan
+dd_wickes|uss_harding,Harding,Seth Harding
+dd_wickes|uss_hart,Hart,John Elliot Hart
+dd_wickes|uss_hazelwood,Hazelwood,John Hazelwood
+dd_wickes|uss_hogan,Hogan,Daniel Hogan
+dd_wickes|uss_hopewell,Bath,"Bath, England, UK"
+dd_wickes|uss_hopewell,Hopewell,Pollard Hopewell
+dd_wickes|uss_howard,Howard,Charles W. Howard
+dd_wickes|uss_ingraham,Ingraham,Duncan Nathaniel Ingraham
+dd_wickes|uss_j_fred_talbott,J. Fred Talbott,Joshua Frederick Cockey Talbott
+dd_wickes|uss_kennison,Kennison,William W. Kennison
+dd_wickes|uss_kilty,Kilty,Augustus Henry Kilty
+dd_wickes|uss_lamberton,Lamberton,Benjamin Peffer Lamberton
+dd_wickes|uss_lea,Lea,Edward Lea
+dd_wickes|uss_ludlow,Ludlow,Augustus C. Ludlow
+dd_wickes|uss_mackenzie,Annapolis,"Annapolis River, Canada"
+dd_wickes|uss_mackenzie,Mackenzie,Alexander Slidell MacKenzie
+dd_wickes|uss_mckean,McKean,William Wister McKean
+dd_wickes|uss_mckee,McKee,Hugh Wilson McKee
+dd_wickes|uss_montgomery,Montgomery,John Berrien Montgomery
+dd_wickes|uss_mugford,Mugford,James Mugford
+dd_wickes|uss_o'bannon,O'Bannon,Presley O'Bannon
+dd_wickes|uss_philip,Lancaster,"Lancaster, England, UK"
+dd_wickes|uss_philip,Philip,John Woodward Philip
+dd_wickes|uss_radford,Radford,William Radford
+dd_wickes|uss_ramsay,Ramsay,Francis Munroe Ramsay
+dd_wickes|uss_rathburne,Rathburne,John Peck Rathbun
+dd_wickes|uss_renshaw,Renshaw,William Bainbridge Renshaw
 dd_wickes|uss_ringgold,Newark,"Newark-on-Trent, England, UK"
-dd_wickes|uss_ringgold,Ringgold,Ringgold
-dd_wickes|uss_rizal,Rizal,Rizal
-dd_wickes|uss_robinson,Newmarket,Newmarket
-dd_wickes|uss_robinson,Robinson,Robinson
-dd_wickes|uss_roper,Roper,Roper
-dd_wickes|uss_schley,Schley,Schley
-dd_wickes|uss_sproston,Sproston,Sproston
-dd_wickes|uss_stansbury,Stansbury,Stansbury
-dd_wickes|uss_talbot,Talbot,Talbot
-dd_wickes|uss_tarbell,Tarbell,Tarbell
-dd_wickes|uss_taylor,Taylor,Taylor
-dd_wickes|uss_thomas,Dostoynyy,Dostoynyy
-dd_wickes|uss_thomas,St. Albans,St. Albans
-dd_wickes|uss_thomas,Thomas,Thomas
-dd_wickes|uss_tillman,Tillman,Tillman
-dd_wickes|uss_tillman,Wells,Wells
-dd_wickes|uss_upshur,Upshur,Upshur
-dd_wickes|uss_ward,Ward,Ward
-dd_wickes|uss_waters,Waters,Waters
-dd_wickes|uss_wickes,Montgomery,Montgomery
-dd_wickes|uss_wickes,Wickes,Wickes
-dd_wickes|uss_williams,St. Clair,St. Clair
-dd_wickes|uss_williams,Williams,Williams
-dd_wickes|uss_woolsey,Woolsey,Woolsey
-dd_wickes|uss_yarnall,Druzhnyy,Druzhnyy
-dd_wickes|uss_yarnall,Lincoln,Lincoln
-dd_wickes|uss_yarnall,Yarnall,Yarnall
+dd_wickes|uss_ringgold,Ringgold,Cadwalader Ringgold
+dd_wickes|uss_rizal,Rizal,Jose Protasio Rizal Mercado y Alonso Realonda
+dd_wickes|uss_robinson,Newmarket,"Newmarket, England, UK"
+dd_wickes|uss_robinson,Robinson,Isaiah Robinson
+dd_wickes|uss_roper,Roper,Jesse M. Roper
+dd_wickes|uss_schley,Schley,Winfield Scott Schley
+dd_wickes|uss_sproston,Sproston,John Glendy Sproston
+dd_wickes|uss_stansbury,Stansbury,John Stansbury
+dd_wickes|uss_talbot,Talbot,Silas Talbot
+dd_wickes|uss_tarbell,Tarbell,Joseph Tarbell
+dd_wickes|uss_taylor,Taylor,Henry Clay Taylor
+dd_wickes|uss_thomas,Dostoynyy,Worthy
+dd_wickes|uss_thomas,St. Albans,"St Albans, England, UK"
+dd_wickes|uss_thomas,Thomas,Clarence Crase Thomas
+dd_wickes|uss_tillman,Tillman,Benjamin Ryan Tillman
+dd_wickes|uss_tillman,Wells,"Wells, England, UK"
+dd_wickes|uss_upshur,Upshur,John Henry Upshur
+dd_wickes|uss_ward,Ward,James Harmon Ward
+dd_wickes|uss_waters,Waters,Daniel Waters
+dd_wickes|uss_wickes,Montgomery,"Montgomery, Wales, UK"
+dd_wickes|uss_wickes,Wickes,Lambert Wickes
+dd_wickes|uss_williams,St. Clair,"St. Clair River, North America"
+dd_wickes|uss_williams,Williams,John Foster Williams
+dd_wickes|uss_woolsey,Woolsey,Melancthon Taylor Woolsey
+dd_wickes|uss_yarnall,Druzhnyy,Friendly
+dd_wickes|uss_yarnall,Lincoln,"Lincoln, England, UK"
+dd_wickes|uss_yarnall,Yarnall,John Joliffe Yarnall
 dd_wishart|hms_wishart,Wishart,Wishart
 dd_wishart|hms_witch,Witch,Witch
 dd_wrangle|wachtmeister,Wachtmeister,Wachtmeister
@@ -9643,13 +9643,13 @@ ddg_project_56m|neuderzhimyy,Neuderzhimyy,Neuderzhimyy
 ddg_project_56m|neulovimyy,Neulovimyy,Neulovimyy
 ddg_project_56m|prozorlivyy,Prozorlivyy,Prozorlivyy
 ddg_project_57bis|boykiy,Boykiy,Boykiy
-ddg_project_57bis|derzkiy,Derzkiy,Derzkiy
+ddg_project_57bis|derzkiy,Derzkiy,Insolent
 ddg_project_57bis|gnevnyy,Gnevnyy,Gnevnyy
 ddg_project_57bis|gordyy,Gordyy,Gordyy
 ddg_project_57bis|gremiashchiy,Gremiashchiy,Gremiashchiy
 ddg_project_57bis|khrabryy,Khrabryy,Khrabryy
 ddg_project_57bis|upornyy,Upornyy,Upornyy
-ddg_project_57bis|zhguchiy,Zhguchiy,Zhguchiy
+ddg_project_57bis|zhguchiy,Zhguchiy,Fiery
 ddg_project_57bis|zorkiy,Zorkiy,Zorkiy
 ddg_project_61|komsomolets_ukrainy,Komsomolets Ukrainy,Komsomolets Ukrainy
 ddg_project_61|krasnyy_kavkaz,Krasnyy Kavkaz,Krasnyy Kavkaz
@@ -11612,8 +11612,8 @@ ffg_project_1135|bezzavetnyy,Bezzavetnyy,Bezzavetnyy
 ffg_project_1135|bodryy,Bodryy,Bodryy
 ffg_project_1135|deyatelnyy,Deyatelnyy,Deyatelnyy
 ffg_project_1135|doblestnyy,Doblestnyy,Doblestnyy
-ffg_project_1135|dostoynyy,Dostoynyy,Dostoynyy
-ffg_project_1135|druzhnyy,Druzhnyy,Druzhnyy
+ffg_project_1135|dostoynyy,Dostoynyy,Worthy
+ffg_project_1135|druzhnyy,Druzhnyy,Friendly
 ffg_project_1135|ladnyy,Ladnyy,Ladnyy
 ffg_project_1135|leningradskiy_komsomolets,Leningradskiy Komsomolets,Leningradskiy Komsomolets
 ffg_project_1135|leningradskiy_komsomolets,Liogkiy,Liogkiy
@@ -11627,7 +11627,7 @@ ffg_project_1135|silnyy,Silnyy,Silnyy
 ffg_project_1135|storozhevoy,Storozhevoy,Storozhevoy
 ffg_project_1135|svirepyy,Svirepyy,Svirepyy
 ffg_project_1135|zadornyy,Zadornyy,Zadornyy
-ffg_project_1135|zharkiy,Zharkiy,Zharkiy
+ffg_project_1135|zharkiy,Zharkiy,Torrid
 ffg_project_11351|dzerzhinskiy,Dzerzhinskiy,Dzerzhinskiy
 ffg_project_11351|getman_bayda_vishnevetskiy,Getman Bayda Vishnevetskiy,Getman Bayda Vishnevetskiy
 ffg_project_11351|kedrov,Kedrov,Kedrov
