@@ -251,6 +251,12 @@ Armorique (1862)
 Talisman (1862)
 Flore (1869)
 
+https://en.wikipedia.org/wiki/USS_Fort_Jackson
+
+https://en.wikipedia.org/wiki/USS_Supply_(1846)
+
+https://en.wikipedia.org/wiki/CSS_David
+
 ### Desired books
 
 History of Pacific War Vol. 45: Truth histories of the Imperial Japanese Naval Vessels is a book published in 2004 by the Japanese publisher Gakken. The Japanese title is Rekishi Gunzō: Taiheiyō Senshi Shirizu, Vol. 45: Shōwa no shinsōzō: Teikoku Kaigun no shinso
