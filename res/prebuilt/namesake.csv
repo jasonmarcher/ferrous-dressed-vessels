@@ -8,9 +8,6 @@ Sapphire,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Sapphire
 Topaze,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Diamond
 Ocean,_Lingual,Geography,https://en.wiktionary.org/wiki/Ocean
 Crescent,_Lingual,Heraldic Symbol,
-Lightning,_Lingual,Meteorological,https://en.wiktionary.org/wiki/lightning
-Rainbow,_Lingual,Meteorological,
-Simoom,_Lingual,Meteorological,https://en.wikipedia.org/wiki/Simoom
 Arrow,_Lingual,Object,https://en.wiktionary.org/wiki/arrow
 Cape,_Lingual,Object,https://en.wikipedia.org/wiki/Cape
 Crown,_Lingual,Object,https://en.wikipedia.org/wiki/Crown
@@ -60,6 +57,7 @@ Audacious,_Lingual,,
 Audacity,_Lingual,,
 Avenger,_Lingual,,
 Aventurier,_Lingual,,
+Aviator,_Lingual,,
 Battle,_Lingual,,
 Battler,_Lingual,,
 Bellicose,_Lingual,,
@@ -106,6 +104,7 @@ Glorious,_Lingual,,
 Glory,_Lingual,,
 Grim,_Lingual,,
 Guardian,_Lingual,,
+Gunner,_Lingual,,
 Happiness,_Lingual,,
 Hero,_Lingual,,https://en.wikipedia.org/wiki/Hero
 Homeland,_Lingual,,https://en.wikipedia.org/wiki/Homeland
@@ -189,6 +188,7 @@ Vanguard,_Lingual,,https://en.wiktionary.org/wiki/vanguard
 Venerable,_Lingual,,
 Vengeance,_Lingual,,
 Victorious,_Lingual,,
+Victory,_Lingual,,
 Vindictive,_Lingual,,
 Vivid,_Lingual,,
 Wakamiya,_Lingual,,https://en.wikipedia.org/wiki/Mikogami#Wakamiya
@@ -285,7 +285,7 @@ Barracouta,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Thyrsites_lepido
 Caiman,Animal,Reptile,https://en.wikipedia.org/wiki/Caiman
 Comet,Astronomical,Body,https://en.wikipedia.org/wiki/Comet
 Meteor,Astronomical,Body,https://en.wikipedia.org/wiki/Meteor
-Sunrise,Astronomical,Phenomenon,https://en.wikipedia.org/wiki/Sunrise
+Sunrise,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Sunrise
 "Sirius, Canis Major",Astronomical,Star,https://en.wikipedia.org/wiki/Sirius
 Descriptor,Categorical,Descriptor,
 Royal Great Ship,Categorical,Descriptor,
@@ -702,7 +702,10 @@ Abraham Duquesne,Individual,Admiral,https://en.wikipedia.org/wiki/Abraham_Duques
 Abraham Whipple,Individual,Admiral,https://en.wikipedia.org/wiki/Abraham_Whipple
 "Adam Duncan, 1st Viscount Duncan",Individual,Admiral,"https://en.wikipedia.org/wiki/Adam_Duncan,_1st_Viscount_Duncan"
 Alain Emmanuel de Coetlogon,Individual,Admiral,https://en.wikipedia.org/wiki/Alain_Emmanuel_de_Co%C3%ABtlogon
+Albert Gleaves,Individual,Admiral,https://en.wikipedia.org/wiki/Albert_Gleaves
+Albert Parker Niblack,Individual,Admiral,https://en.wikipedia.org/wiki/Albert_Parker_Niblack
 Albert Smith Barker,Individual,Admiral,https://en.wikipedia.org/wiki/Albert_S._Barker
+Alexander Colden Rhind,Individual,Admiral,https://en.wikipedia.org/wiki/Alexander_Rhind
 Alexander Murray,Individual,Admiral,https://en.wikipedia.org/wiki/Alexander_Murray_(1816%E2%80%931884)
 Alexander Scammel Wadsworth,Individual,Admiral,https://en.wikipedia.org/wiki/Alexander_S._Wadsworth
 Alfred Thayer Mahan,Individual,Admiral,https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
@@ -710,6 +713,7 @@ Alfred von Tirpitz,Individual,Admiral,https://en.wikipedia.org/wiki/Alfred_von_T
 Amable Gilles Troude,Individual,Admiral,https://en.wikipedia.org/wiki/Amable_Troude
 Amedee Courbet,Individual,Admiral,https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Courbet
 Andrew E. K. Benham,Individual,Admiral,https://en.wikipedia.org/wiki/Andrew_E._K._Benham
+Andrew Ellicott Kennedy Benham,Individual,Admiral,https://en.wikipedia.org/wiki/Andrew_E._K._Benham
 Andrew Hull Foote,Individual,Admiral,https://en.wikipedia.org/wiki/Andrew_Hull_Foote
 Anne Hilarion de Tourville,Individual,Admiral,https://en.wikipedia.org/wiki/Anne_Hilarion_de_Tourville
 Armand Simon Marie Blanquet du Chayla,Individual,Admiral,https://en.wikipedia.org/wiki/Armand_Blanquet_du_Chayla
@@ -717,17 +721,24 @@ Arthur Sinclair,Individual,Admiral,https://en.wikipedia.org/wiki/Arthur_Sinclair
 Auguste Leopold Protet,Individual,Admiral,https://en.wikipedia.org/wiki/Auguste_L%C3%A9opold_Protet
 Augustus Henry Kilty,Individual,Admiral,https://en.wikipedia.org/wiki/Augustus_Kilty
 Augustus Ludlow Case,Individual,Admiral,https://en.wikipedia.org/wiki/Augustus_Case
+Austin Melvin Knight,Individual,Admiral,https://en.wikipedia.org/wiki/Austin_M._Knight
+Bancroft Gherardi,Individual,Admiral,https://en.wikipedia.org/wiki/Bancroft_Gherardi
 Benjamin Franklin Isherwood,Individual,Admiral,https://en.wikipedia.org/wiki/Benjamin_F._Isherwood
 Benjamin Peffer Lamberton,Individual,Admiral,https://en.wikipedia.org/wiki/Benjamin_P._Lamberton
 Bernard Dubourdieu,Individual,Admiral,https://en.wikipedia.org/wiki/Bernard_Dubourdieu
 Bernard Jaureguiberry,Individual,Admiral,https://en.wikipedia.org/wiki/Bernard_Jaur%C3%A9guiberry
 Bowman Hendry McCalla,Individual,Admiral,https://en.wikipedia.org/wiki/Bowman_H._McCalla
 Cadwalader Ringgold,Individual,Admiral,https://en.wikipedia.org/wiki/Cadwalader_Ringgold
+Cary Travers Grayson,Individual,Admiral,https://en.wikipedia.org/wiki/Cary_T._Grayson
 Cesar-Joseph Bourayne,Individual,Admiral,https://en.wikipedia.org/wiki/C%C3%A9sar-Joseph_Bourayne
+Charles Edgar Clark,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Edgar_Clark
+Charles Frederick Hughes,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Frederick_Hughes
 Charles Henry Davis,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Henry_Davis
 "Charles Howard, 1st Earl of Nottingham",Individual,Admiral,"https://en.wikipedia.org/wiki/Charles_Howard,_1st_Earl_of_Nottingham"
 "Charles Middleton, 1st Baron Barham",Individual,Admiral,"https://en.wikipedia.org/wiki/Charles_Middleton,_1st_Baron_Barham"
 Charles Morris,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Morris_(naval_officer)
+Charles Peshall Plunkett,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Peshall_Plunkett
+Charles Preston Nelson,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_P._Nelson_(admiral)
 Charles Rene Magon de Medine,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Ren%C3%A9_Magon_de_M%C3%A9dine
 Charles Rigault de Genouilly,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Rigault_de_Genouilly
 Charles Stewart,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Stewart_(United_States_Navy_officer)
@@ -742,6 +753,7 @@ Daniel Ammen,Individual,Admiral,https://en.wikipedia.org/wiki/Daniel_Ammen
 David Conner,Individual,Admiral,https://en.wikipedia.org/wiki/David_Conner_(naval_officer)
 David Dixon Porter,Individual,Admiral,https://en.wikipedia.org/wiki/David_Dixon_Porter
 David Glasgow Farragut,Individual,Admiral,https://en.wikipedia.org/wiki/David_Farragut
+David Glasgow Farragut,Individual,Admiral,https://en.wikipedia.org/wiki/David_Farragut
 David Stockton McDougal,Individual,Admiral,https://en.wikipedia.org/wiki/David_McDougal
 Donald McNeill Fairfax,Individual,Admiral,https://en.wikipedia.org/wiki/Donald_McNeill_Fairfax
 Dragut,Individual,Admiral,https://en.wikipedia.org/wiki/Dragut
@@ -752,6 +764,8 @@ Edward Boscawen,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Boscawen
 Edward Preble,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Preble
 "Edward Russell, 1st Earl of Orford",Individual,Admiral,"https://en.wikipedia.org/wiki/Edward_Russell,_1st_Earl_of_Orford"
 Edward Simpson,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Simpson_(naval_officer)
+Edward Walter Eberle,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Walter_Eberle
+Edwin Alexander Anderson Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Edwin_Anderson_Jr.
 Elie Augustus Frederick La Vallette,Individual,Admiral,https://en.wikipedia.org/wiki/Elie_A._F._La_Vallette
 Esek Hopkins,Individual,Admiral,https://en.wikipedia.org/wiki/Esek_Hopkins
 Etienne Eustache Bruix,Individual,Admiral,https://en.wikipedia.org/wiki/%C3%89tienne_Eustache_Bruix
@@ -764,14 +778,20 @@ Francis Munroe Ramsay,Individual,Admiral,https://en.wikipedia.org/wiki/Francis_M
 Francois Joseph Bouvet,Individual,Admiral,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Joseph_Bouvet
 Francois Joseph Paul de Grasse,Individual,Admiral,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Joseph_Paul_de_Grasse
 Francois Louis Rousselet de Chateaurenault,Individual,Admiral,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Louis_Rousselet_de_Ch%C3%A2teaurenault
+Frank Edmund Beatty,Individual,Admiral,https://en.wikipedia.org/wiki/Frank_E._Beatty
 Franklin Buchanan,Individual,Admiral,https://en.wikipedia.org/wiki/Franklin_Buchanan
 Franz von Hipper,Individual,Admiral,https://en.wikipedia.org/wiki/Franz_von_Hipper
 Frederick J. Horne,Individual,Admiral,https://en.wikipedia.org/wiki/Frederick_J._Horne
 George Albert Converse,Individual,Admiral,https://en.wikipedia.org/wiki/George_A._Converse
 "George Anson, 1st Baron Anson",Individual,Admiral,"https://en.wikipedia.org/wiki/George_Anson,_1st_Baron_Anson"
 George Balch,Individual,Admiral,https://en.wikipedia.org/wiki/George_Balch
+George Beall Balch,Individual,Admiral,https://en.wikipedia.org/wiki/George_Balch
+George Dewey,Individual,Admiral,https://en.wikipedia.org/wiki/George_Dewey
+George Foster Emmons,Individual,Admiral,https://en.wikipedia.org/wiki/George_F._Emmons
 George H. Perkins,Individual,Admiral,https://en.wikipedia.org/wiki/George_H._Perkins
+George Hamilton Perkins,Individual,Admiral,https://en.wikipedia.org/wiki/George_H._Perkins
 "George Rodney, 1st Baron Rodney",Individual,Admiral,"https://en.wikipedia.org/wiki/George_Rodney,_1st_Baron_Rodney"
+Guert Gansevoort,Individual,Admiral,https://en.wikipedia.org/wiki/Guert_Gansevoort
 Guy-Victor Duperre,Individual,Admiral,https://en.wikipedia.org/wiki/Guy-Victor_Duperr%C3%A9
 Harry E. Yarnell,Individual,Admiral,https://en.wikipedia.org/wiki/Harry_E._Yarnell
 Hayreddin Barbarossa,Individual,Admiral,https://en.wikipedia.org/wiki/Hayreddin_Barbarossa
@@ -780,9 +800,12 @@ Henry Clay Taylor,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_Clay_Ta
 "Henry FitzRoy, 1st Duke of Grafton",Individual,Admiral,"https://en.wikipedia.org/wiki/Henry_FitzRoy,_1st_Duke_of_Grafton"
 Henry Haywood Bell,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_H._Bell
 Henry Knox Thatcher,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_Thatcher
+Henry Thomas Mayo,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_T._Mayo
 Hermann Freiherr von Spaun,Individual,Admiral,https://en.wikipedia.org/wiki/Hermann_von_Spaun
+Hilary Pollard Jones Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Hilary_P._Jones
 Hiram Paulding,Individual,Admiral,https://en.wikipedia.org/wiki/Hiram_Paulding
 "Horatio Nelson, 1st Viscount Nelson",Individual,Admiral,"https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson"
+Hugh Rodman,Individual,Admiral,https://en.wikipedia.org/wiki/Hugh_Rodman
 Hyacinthe Laurent Theophile Aube,Individual,Admiral,https://en.wikipedia.org/wiki/Th%C3%A9ophile_Aube
 Isaac Chauncey,Individual,Admiral,https://en.wikipedia.org/wiki/Isaac_Chauncey
 Isaac Hull,Individual,Admiral,https://en.wikipedia.org/wiki/Isaac_Hull
@@ -792,8 +815,10 @@ James Alden Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/James_Alden_Jr.
 James Augustin Greer,Individual,Admiral,https://en.wikipedia.org/wiki/James_Augustin_Greer
 James Edward Jouett,Individual,Admiral,https://en.wikipedia.org/wiki/James_Edward_Jouett
 James Findlay Schenck,Individual,Admiral,https://en.wikipedia.org/wiki/James_F._Schenck
+James Henry Glennon,Individual,Admiral,https://en.wikipedia.org/wiki/James_H._Glennon
 James Hoban Sands,Individual,Admiral,https://en.wikipedia.org/wiki/James_H._Sands
 James Lawrence Lardner,Individual,Admiral,https://en.wikipedia.org/wiki/James_L._Lardner
+James Meredith Helm,Individual,Admiral,https://en.wikipedia.org/wiki/James_Meredith_Helm
 James Robert Madison Mullany,Individual,Admiral,https://en.wikipedia.org/wiki/James_Robert_Madison_Mullany
 James Shedden Palmer,Individual,Admiral,https://en.wikipedia.org/wiki/James_Shedden_Palmer
 Jean Bart,Individual,Admiral,https://en.wikipedia.org/wiki/Jean_Bart
@@ -814,14 +839,16 @@ John Elliott Pillsbury,Individual,Admiral,https://en.wikipedia.org/wiki/John_E._
 John Grimes Walker,Individual,Admiral,https://en.wikipedia.org/wiki/John_Grimes_Walker
 John Hawkins,Individual,Admiral,
 John Hazelwood,Individual,Admiral,https://en.wikipedia.org/wiki/John_Hazelwood
+John Henry Russell,Individual,Admiral,https://en.wikipedia.org/wiki/John_Henry_Russell
 John Henry Upshur,Individual,Admiral,https://en.wikipedia.org/wiki/John_Henry_Upshur
 "John Jervis, 1st Earl of St Vincent",Individual,Admiral,"https://en.wikipedia.org/wiki/John_Jervis,_1st_Earl_of_St_Vincent"
+John Kennedy Barton,Individual,Admiral,https://en.wikipedia.org/wiki/John_Kennedy_Barton
 John Lorimer Worden,Individual,Admiral,https://en.wikipedia.org/wiki/John_Lorimer_Worden
 John Manley,Individual,Admiral,https://en.wikipedia.org/wiki/John_Manley_(naval_officer)
 John Pritchett Gillis,Individual,Admiral,https://en.wikipedia.org/wiki/John_P._Gillis
 John Rodgers,Individual,Admiral,https://en.wikipedia.org/wiki/John_Rodgers_(admiral)
 John Woodward Philip,Individual,Admiral,https://en.wikipedia.org/wiki/John_Woodward_Philip
-Joseph Coghlan,Individual,Admiral,https://en.wikipedia.org/wiki/Joseph_Coghlan
+Joseph Bullock Coghlan,Individual,Admiral,https://en.wikipedia.org/wiki/Joseph_Coghlan
 Joseph M. Reeves,Individual,Admiral,https://en.wikipedia.org/wiki/Joseph_M._Reeves
 Joseph-Marie Nielly,Individual,Admiral,https://en.wikipedia.org/wiki/Joseph-Marie_Nielly
 Joshua Barney,Individual,Admiral,https://en.wikipedia.org/wiki/Joshua_Barney
@@ -829,6 +856,7 @@ Josiah Tattnall III,Individual,Admiral,https://en.wikipedia.org/wiki/Josiah_Tatt
 Juan Jose Latorre,Individual,Admiral,https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Latorre
 Julien Marie Cosmao-Kerjulien,Individual,Admiral,https://en.wikipedia.org/wiki/Julien_Cosmao
 Karel Willem Frederik Marie Doorman,Individual,Admiral,https://en.wikipedia.org/wiki/Karel_Doorman
+Lawrence Kearny,Individual,Admiral,https://en.wikipedia.org/wiki/Lawrence_Kearny
 Leonard Charner,Individual,Admiral,https://en.wikipedia.org/wiki/L%C3%A9onard_Charner
 Lewis Ashfield Kimberly,Individual,Admiral,https://en.wikipedia.org/wiki/Lewis_Kimberly
 Lewis Warrington,Individual,Admiral,https://en.wikipedia.org/wiki/Lewis_Warrington_(United_States_Navy_officer)
@@ -839,6 +867,7 @@ Louis Pierre Alexis Pothuau,Individual,Admiral,https://en.wikipedia.org/wiki/Lou
 Louis-Rene Levassor de Latouche Treville,Individual,Admiral,https://en.wikipedia.org/wiki/Louis-Ren%C3%A9_Levassor_de_Latouche_Tr%C3%A9ville
 Louis-Rene Levassor de Latouche Treville,Individual,Admiral,https://en.wikipedia.org/wiki/Louis-Ren%C3%A9_Levassor_de_Latouche_Tr%C3%A9ville
 "Luc Urbain du Bouexic, comte de Guichen",Individual,Admiral,"https://en.wikipedia.org/wiki/Luc_Urbain_du_Bou%C3%ABxic,_comte_de_Guichen"
+Mark Lambert Bristol,Individual,Admiral,https://en.wikipedia.org/wiki/Mark_Lambert_Bristol
 Maximilian von Spee,Individual,Admiral,https://en.wikipedia.org/wiki/Maximilian_von_Spee
 Melancthon Taylor Woolsey,Individual,Admiral,https://en.wikipedia.org/wiki/Melancthon_Taylor_Woolsey
 Miguel Grau,Individual,Admiral,https://en.wikipedia.org/wiki/Miguel_Grau
@@ -852,6 +881,7 @@ Pavlos Kountouriotis,Individual,Admiral,https://en.wikipedia.org/wiki/Pavlos_Kou
 Peirce Crosby,Individual,Admiral,https://en.wikipedia.org/wiki/Peirce_Crosby
 Pierre Andre de Suffren,Individual,Admiral,https://en.wikipedia.org/wiki/Pierre_Andr%C3%A9_de_Suffren
 Pierre-Nicolas de Rolland,Individual,Admiral,https://en.wikipedia.org/wiki/Pierre-Nicolas_de_Rolland
+Ralph Earle,Individual,Admiral,https://en.wikipedia.org/wiki/Ralph_Earle_(American_naval_officer)
 Reinhard Scheer,Individual,Admiral,https://en.wikipedia.org/wiki/Reinhard_Scheer
 Remigio Elías Aguirre Romero,Individual,Admiral,https://en.wikipedia.org/wiki/El%C3%ADas_Aguirre
 Rene Duguay-Trouin,Individual,Admiral,https://en.wikipedia.org/wiki/Ren%C3%A9_Duguay-Trouin
@@ -859,6 +889,7 @@ Richard Dale,Individual,Admiral,https://en.wikipedia.org/wiki/Richard_Dale
 "Richard Howe, 1st Earl Howe",Individual,Admiral,"https://en.wikipedia.org/wiki/Richard_Howe,_1st_Earl_Howe"
 Richard Worsam Meade III,Individual,Admiral,https://en.wikipedia.org/wiki/Richard_Worsam_Meade_III
 Richmond K. Turner,Individual,Admiral,https://en.wikipedia.org/wiki/Richmond_K._Turner
+Richmond Pearson Hobson,Individual,Admiral,https://en.wikipedia.org/wiki/Richmond_P._Hobson
 Robert Blake,Individual,Admiral,https://en.wikipedia.org/wiki/Robert_Blake_(admiral)
 Robert F. Stockton,Individual,Admiral,https://en.wikipedia.org/wiki/Robert_F._Stockton
 Robley Dunglison Evans,Individual,Admiral,https://en.wikipedia.org/wiki/Robley_D._Evans_(admiral)
@@ -873,12 +904,17 @@ Stephen Clegg Rowan,Individual,Admiral,https://en.wikipedia.org/wiki/Stephen_Cle
 Stephen Decatur,Individual,Admiral,https://en.wikipedia.org/wiki/Stephen_Decatur
 Theodorus Bailey,Individual,Admiral,https://en.wikipedia.org/wiki/Theodorus_Bailey_(officer)
 "Thomas Cochrane, 10th Earl of Dundonald",Individual,Admiral,"https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald"
+Thomas Jefferson Cowie,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Jefferson_Cowie
 Thomas Oliver Selfridge,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Oliver_Selfridge
+Thomas Oliver Selfridge Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Oliver_Selfridge_Jr.
+Thomas Stowell Phelps,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Phelps
 Thomas Tingey,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Tingey
 Thomas Truxtun,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Truxtun
 Toussaint-Guillaume Picquet de la Motte,Individual,Admiral,https://en.wikipedia.org/wiki/Toussaint-Guillaume_Picquet_de_la_Motte
+Victor Blue,Individual,Admiral,https://en.wikipedia.org/wiki/Victor_Blue
 "Victor-Marie d'Estrees, 5th Duke of Estrees",Individual,Admiral,https://en.wikipedia.org/wiki/Victor-Marie_d%27Estr%C3%A9es
 Walter Raleigh,Individual,Admiral,https://en.wikipedia.org/wiki/Walter_Raleigh
+William Adger Moffett,Individual,Admiral,https://en.wikipedia.org/wiki/William_A._Moffett
 William Bainbridge,Individual,Admiral,https://en.wikipedia.org/wiki/William_Bainbridge
 William Branford Shubrick,Individual,Admiral,https://en.wikipedia.org/wiki/William_Shubrick
 William Cornwallis,Individual,Admiral,https://en.wikipedia.org/wiki/William_Cornwallis
@@ -887,7 +923,10 @@ William H. Standley,Individual,Admiral,https://en.wikipedia.org/wiki/William_Har
 William Halsey Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/William_Halsey_Jr.
 William Maxwell Wood,Individual,Admiral,https://en.wikipedia.org/wiki/William_Maxwell_Wood
 William Mervine,Individual,Admiral,https://en.wikipedia.org/wiki/William_Mervine
+William Nicholson Jeffers,Individual,Admiral,https://en.wikipedia.org/wiki/William_Nicholson_Jeffers
 William Radford,Individual,Admiral,https://en.wikipedia.org/wiki/William_Radford
+William Shepherd Benson,Individual,Admiral,https://en.wikipedia.org/wiki/William_S._Benson
+William Sowden Sims,Individual,Admiral,https://en.wikipedia.org/wiki/William_Sims
 William Thomas Sampson,Individual,Admiral,https://en.wikipedia.org/wiki/William_T._Sampson
 William Wister McKean,Individual,Admiral,https://en.wikipedia.org/wiki/William_McKean
 Winfield Scott Schley,Individual,Admiral,https://en.wikipedia.org/wiki/Winfield_Scott_Schley
@@ -900,7 +939,9 @@ Otto von Bismarck,Individual,Aristocrat,https://en.wikipedia.org/wiki/Otto_von_B
 "Ralph Montagu, 1st Duke of Montagu",Individual,Aristocrat,"https://en.wikipedia.org/wiki/Ralph_Montagu,_1st_Duke_of_Montagu"
 Allen Melancthon Sumner Jr.,Individual,Army Officer,https://en.wikipedia.org/wiki/Allen_Melancthon_Sumner
 Charles Grymes McCawley,Individual,Army Officer,https://en.wikipedia.org/wiki/Charles_Grymes_McCawley
+Daniel Carmick,Individual,Army Officer,https://en.wikipedia.org/wiki/Daniel_Carmick
 Edward Ball Cole,Individual,Army Officer,https://en.wikipedia.org/wiki/Edward_B._Cole
+Edward Stack,Individual,Army Officer,https://en.wikipedia.org/wiki/Edward_Stack_(U.S._Marine_Corps_officer)
 Francisco Bolognesi Cervantes,Individual,Army Officer,https://en.wikipedia.org/wiki/Francisco_Bolognesi
 Hugh P. Kidder,Individual,Army Officer,https://en.wikipedia.org/wiki/USS_Kidder#Namesake
 "John Brooks Jr.",Individual,Army Officer,https://en.wikipedia.org/wiki/John_Brooks_Jr.
@@ -910,8 +951,10 @@ Levi Twiggs,Individual,Army Officer,https://en.wikipedia.org/wiki/Levi_Twiggs
 Macon C. Overton,Individual,Army Officer,https://en.wikipedia.org/wiki/USS_Overton#Namesake
 "Pierre Terrail, seigneur de Bayard",Individual,Army Officer,"https://en.wikipedia.org/wiki/Pierre_Terrail,_seigneur_de_Bayard"
 Presley O'Bannon,Individual,Army Officer,https://en.wikipedia.org/wiki/Presley_O%27Bannon
+Ralph Talbot,Individual,Army Officer,https://en.wikipedia.org/wiki/Ralph_Talbot
 Randolph Talcott Zane,Individual,Army Officer,https://en.wikipedia.org/wiki/Randolph_Zane
 Samuel Nicholas,Individual,Army Officer,https://en.wikipedia.org/wiki/Samuel_Nicholas
+William A. T. Maddox,Individual,Army Officer,https://en.wikipedia.org/wiki/William_A._T._Maddox
 Richard Saunders,Individual,Author,https://en.wikipedia.org/wiki/Poor_Richard%27s_Almanack
 Victor Hugo,Individual,Author,https://en.wikipedia.org/wiki/Victor_Hugo
 Aliheydar Huseynov,Individual,Child of Owner,https://en.wikipedia.org/wiki/HMS_Aladar_Youssanoff
@@ -921,6 +964,8 @@ Aliheydar Huseynov,Individual,Child of Owner,https://en.wikipedia.org/wiki/HMS_A
 "Blanche of Castile, Queen consort of France",Individual,Consort,https://en.wikipedia.org/wiki/Blanche_of_Castile
 "Franz August Karl Albert Emanuel, Prince consort of the United Kingdom",Individual,Consort,https://en.wikipedia.org/wiki/Prince_Albert_of_Saxe-Coburg_and_Gotha
 "Mary of Teck, Queen consort of the United Kingdom",Individual,Consort,https://en.wikipedia.org/wiki/Mary_of_Teck
+Ellet Family,Individual,Dynasty,https://en.wikipedia.org/wiki/USS_Ellet
+Macomb Family,Individual,Dynasty,https://en.wikipedia.org/wiki/Macomb_(surname)
 Nicholson Family,Individual,Dynasty,
 Wainwright Family,Individual,Dynasty,https://en.wikipedia.org/wiki/Jonathan_Mayhew_Wainwright_(naval_officer)
 Abraham Lincoln,Individual,Elected Leader,https://en.wikipedia.org/wiki/Abraham_Lincoln
@@ -1014,7 +1059,9 @@ Nikolay Muravyov-Amursky,Individual,General,https://en.wikipedia.org/wiki/Nikola
 Paul von Hindenburg,Individual,General,https://en.wikipedia.org/wiki/Paul_von_Hindenburg
 Pham Ngu Lao,Individual,General,https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Ng%C5%A9_L%C3%A3o
 Prince Eugene of Savoy,Individual,General,https://en.wikipedia.org/wiki/Prince_Eugene_of_Savoy
+Robert Henry Dunlap,Individual,General,https://en.wikipedia.org/wiki/Robert_H._Dunlap
 Scipio Africanus,Individual,General,https://en.wikipedia.org/wiki/Scipio_Africanus
+Smedley Darlington Butler,Individual,General,https://en.wikipedia.org/wiki/Smedley_Butler
 "Thomas Robert Bugeaud, marquis de la Piconnerie, duc d'Isly",Individual,General,https://en.wikipedia.org/wiki/Thomas_Robert_Bugeaud
 Tran Binh Trong,Individual,General,https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_B%C3%ACnh_Tr%E1%BB%8Dng
 Tran Nhat Duat,Individual,General,https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Nh%E1%BA%ADt_Du%E1%BA%ADt
@@ -1028,6 +1075,7 @@ John Adolphus Bernard Dahlgren,Individual,Inventor,https://en.wikipedia.org/wiki
 John Ericsson,Individual,Inventor,https://en.wikipedia.org/wiki/John_Ericsson
 Robert Fulton,Individual,Inventor,https://en.wikipedia.org/wiki/Robert_Fulton
 Samuel Pierpont Langley,Individual,Inventor,https://en.wikipedia.org/wiki/Samuel_Langley
+Thomas Alva Edison,Individual,Inventor,https://en.wikipedia.org/wiki/Thomas_Edison
 Wright brothers,Individual,Inventor,https://en.wikipedia.org/wiki/Wright_brothers
 "Abdul Hamid II, Sultan of the Ottoman Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Abdul_Hamid_II
 "Abdulaziz, Sultan of the Ottoman Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Abdulaziz
@@ -1071,6 +1119,7 @@ Alexander Slidell MacKenzie,Individual,Naval Officer,https://en.wikipedia.org/wi
 Andrea Bafile,Individual,Naval Officer,https://it.wikipedia.org/wiki/Andrea_Bafile
 Andrew Boyd Cummings,Individual,Naval Officer,https://en.wikipedia.org/wiki/Andrew_Boyd_Cummings
 Andrew Sterett,Individual,Naval Officer,https://en.wikipedia.org/wiki/Andrew_Sterett
+Archibald H. Gillespie,Individual,Naval Officer,https://en.wikipedia.org/wiki/Archibald_H._Gillespie
 Archibald Hamilton,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Hamilton_(DD-141)#Namesake
 Aristide Aubert du Petit-Thouars,Individual,Naval Officer,https://en.wikipedia.org/wiki/Aristide_Aubert_du_Petit-Thouars
 Arnold Marcus,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Marcus#Namesake
@@ -1080,10 +1129,11 @@ Bernhard von Tschirschky,Individual,Naval Officer,https://de.wikipedia.org/wiki/
 Charles Emerson Hovey,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Hovey_(naval_officer)
 Charles Flint Putnam,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_F._Putnam
 Charles H. Swasey,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Swasey
+Charles Hazeltine Hammann,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Hammann
 Charles Louis du Couedic de Kergoaler,Individual,Naval Officer,
+Charles S. Kendrick,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Kendrick#Namesake
 Charles Satterlee,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Satterlee
 Charles Vernon Gridley,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Vernon_Gridley
-Charles W. Flusser,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_W._Flusser
 Charles Williamson Flusser,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_W._Flusser
 Clarence Crase Thomas,Individual,Naval Officer,https://en.wikipedia.org/wiki/Clarence_Crase_Thomas
 Clarence Frederick Leary,Individual,Naval Officer,https://en.wikipedia.org/wiki/Clarence_F._Leary
@@ -1092,6 +1142,7 @@ Daniel Turner,Individual,Naval Officer,https://en.wikipedia.org/wiki/Daniel_Turn
 Daniel Waters,Individual,Naval Officer,https://en.wikipedia.org/wiki/Daniel_Waters_(minuteman)
 David Bernard Loveman Noa,Individual,Naval Officer,https://en.wikipedia.org/wiki/Loveman_Noa
 David McDermut,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_McDermut
+Dulany Forrest,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Forrest#Namesake
 Duncan Nathaniel Ingraham,Individual,Naval Officer,https://en.wikipedia.org/wiki/Duncan_Ingraham
 Earle Wayne Freed Childs,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Childs#Namesake
 Edward A. Terry,Individual,Naval Officer,https://en.wikipedia.org/wiki/Edward_A._Terry
@@ -1099,7 +1150,8 @@ Edward Canfield Fuller,Individual,Naval Officer,https://en.wikipedia.org/wiki/Ed
 Edward Fitzgerald Beale,Individual,Naval Officer,https://en.wikipedia.org/wiki/Edward_Fitzgerald_Beale
 Edward J. Ballard,Individual,Naval Officer,https://en.wikipedia.org/wiki/Edward_J._Ballard
 Edward Lea,Individual,Naval Officer,https://en.wikipedia.org/wiki/Edward_Lea
-Edward McCall,Individual,Naval Officer,https://en.wikipedia.org/wiki/Edward_McCall
+Edward Merritt Hughes,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Hughes#Namesake
+Edward R. McCall,Individual,Naval Officer,https://en.wikipedia.org/wiki/Edward_McCall
 Elisha Kent Kane,Individual,Naval Officer,https://en.wikipedia.org/wiki/Elisha_Kent_Kane
 Fitz Henry Babbitt,Individual,Naval Officer,https://en.wikipedia.org/wiki/Fitz_Babbitt
 Frank Bruce,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Bruce#Namesake
@@ -1108,9 +1160,12 @@ George A. Trever,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Trev
 George Fountain Parrott,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_Parrott
 George Little,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_Little_(naval_officer)
 George Washington De Long,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_W._De_Long
+Gregory Caldwell Davison,Individual,Naval Officer,https://en.wikipedia.org/wiki/Gregory_C._Davison
 Gustavus Fox,Individual,Naval Officer,https://en.wikipedia.org/wiki/Gustavus_Fox
 Guy Francois Coetnempren de Kersaint,Individual,Naval Officer,https://en.wikipedia.org/wiki/Guy_Fran%C3%A7ois_Co%C3%ABtnempren_de_Kersaint
 Henry A. Clemson,Individual,Naval Officer,https://en.wikipedia.org/wiki/Henry_A._Clemson
+Henry C. Nields,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Nields#Namesake
+Henry Croskey Mustin,Individual,Naval Officer,https://en.wikipedia.org/wiki/Henry_C._Mustin_(1874%E2%80%931923)
 Henry Laub,Individual,Naval Officer,https://en.wikipedia.org/wiki/Henry_Laub
 Henry Lewis Hulbert,Individual,Naval Officer,https://en.wikipedia.org/wiki/Henry_L._Hulbert
 Herve de Portzmoguer,Individual,Naval Officer,https://en.wikipedia.org/wiki/Herv%C3%A9_de_Portzmoguer
@@ -1119,6 +1174,7 @@ Isaiah Robinson,Individual,Naval Officer,https://en.wikipedia.org/wiki/Isaiah_Ro
 Jacques Cassard,Individual,Naval Officer,https://en.wikipedia.org/wiki/Jacques_Cassard
 James C. Jarvis,Individual,Naval Officer,https://en.wikipedia.org/wiki/James_C._Jarvis
 James Harmon Ward,Individual,Naval Officer,https://en.wikipedia.org/wiki/James_H._Ward
+James Jonas Madison,Individual,Naval Officer,https://en.wikipedia.org/wiki/James_Jonas_Madison
 James Lawrence,Individual,Naval Officer,https://en.wikipedia.org/wiki/James_Lawrence
 James Mugford,Individual,Naval Officer,https://en.wikipedia.org/wiki/James_Mugford
 James R. Caldwell,Individual,Naval Officer,https://en.wikipedia.org/wiki/James_R._Caldwell
@@ -1137,11 +1193,13 @@ John Foster Williams,Individual,Naval Officer,https://en.wikipedia.org/wiki/John
 John Francis Burnes,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Francis_Burnes
 John G. Cowell,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_G._Cowell
 John Glendy Sproston,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_G._Sproston
+John H. Stevenson,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Stevenson_(DD-645)
 John Hatfield,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Hatfield_(United_States_Navy)
 John Henry Aulick,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_H._Aulick
 John Herbert Dent,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_H._Dent
 John Joliffe Yarnall,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Yarnall
 John Mayrant,Individual,Naval Officer,
+John McLeod Murphy,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_McLeod_Murphy
 John Paul Jones,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Paul_Jones
 John Peck Rathbun,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Rathbun
 John Percival,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Percival
@@ -1154,8 +1212,9 @@ John Trippe,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Trippe
 John Young,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Young_(naval_officer)
 Johnston Blakeley,Individual,Naval Officer,https://en.wikipedia.org/wiki/Johnston_Blakeley
 Jonathan Haradan,Individual,Naval Officer,https://en.wikipedia.org/wiki/Jonathan_Haraden
-Joseph B. Smith,Individual,Naval Officer,https://en.wikipedia.org/wiki/Joseph_B._Smith
+"Jonathan Thorn",Individual,Naval Officer,https://en.wikipedia.org/wiki/Jonathan_Thorn
 Joseph Berry Breck,Individual,Naval Officer,https://en.wikipedia.org/wiki/Joseph_Berry_Breck
+Joseph Bryant Smith,Individual,Naval Officer,https://en.wikipedia.org/wiki/Joseph_B._Smith
 "Joseph Cabell Breckinridge, Jr.",Individual,Naval Officer,https://en.wikipedia.org/wiki/Breckinridge_family#Prominent_members
 Joseph Israel,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Israel
 Joseph Tarbell,Individual,Naval Officer,https://en.wikipedia.org/wiki/Joseph_Tarbell
@@ -1164,8 +1223,10 @@ Kenneth Whiting,Individual,Naval Officer,https://en.wikipedia.org/wiki/Kenneth_W
 Kidder Randolph Breese,Individual,Naval Officer,https://en.wikipedia.org/wiki/Kidder_Breese
 Lambert Wickes,Individual,Naval Officer,https://en.wikipedia.org/wiki/Lambert_Wickes
 Lambros Katsonis,Individual,Naval Officer,https://en.wikipedia.org/wiki/Lambros_Katsonis
+LeRoy Fitch,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Fitch#Namesake
 Louis-Antoine-Cyprien Infernet,Individual,Naval Officer,https://en.wikipedia.org/wiki/Louis-Antoine-Cyprien_Infernet
 Matthew Fontaine Maury,Individual,Naval Officer,https://en.wikipedia.org/wiki/Matthew_Fontaine_Maury
+Mons Monssen,Individual,Naval Officer,https://en.wikipedia.org/wiki/Mons_Monssen
 Nathaniel Fanning,Individual,Naval Officer,https://en.wikipedia.org/wiki/Nathaniel_Fanning
 Nicholas Biddle,Individual,Naval Officer,https://en.wikipedia.org/wiki/Nicholas_Biddle_(naval_officer)
 Nicolas-Louis d'Assas,Individual,Naval Officer,https://en.wikipedia.org/wiki/Nicolas-Louis_d%27Assas
@@ -1179,14 +1240,19 @@ Richard Delphy,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Delphy
 Richard McCall Elliot Jr.,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Elliot_(DD-146)#Namesake
 Richard Somers,Individual,Naval Officer,https://en.wikipedia.org/wiki/Richard_Somers
 Robert Henley,Individual,Naval Officer,https://en.wikipedia.org/wiki/Robert_Henley_(naval_officer)
+Robert Means Thompson,Individual,Naval Officer,https://en.wikipedia.org/wiki/Robert_Means_Thompson
 Roderick Sheldon McCook,Individual,Naval Officer,https://en.wikipedia.org/wiki/Roderick_S._McCook
 Roscoe Carlyle Bulmer,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Bulmer#Namesake
 Roswell Hawkes Lamson,Individual,Naval Officer,https://en.wikipedia.org/wiki/Roswell_Lamson
 Samuel Chester Reid,Individual,Naval Officer,https://en.wikipedia.org/wiki/Samuel_Chester_Reid
 Samuel Chew,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Chew#Namesake
 Samuel Dana Greene Sr.,Individual,Naval Officer,https://en.wikipedia.org/wiki/Samuel_Greene_(naval_officer)
+Samuel Hambleton,Individual,Naval Officer,https://en.wikipedia.org/wiki/Samuel_Hambleton_(naval_officer)
+Samuel Livermore,Individual,Naval Officer,
+Samuel Nicholson,Individual,Naval Officer,https://en.wikipedia.org/wiki/Samuel_Nicholson
 Samuel Tucker,Individual,Naval Officer,https://en.wikipedia.org/wiki/Samuel_Tucker_(naval_officer)
-Samuel W. Preston,Individual,Naval Officer,https://en.wikipedia.org/wiki/Samuel_W._Preston
+Samuel William Preston,Individual,Naval Officer,https://en.wikipedia.org/wiki/Samuel_W._Preston
+Selim E. Woodworth,Individual,Naval Officer,https://en.wikipedia.org/wiki/Selim_E._Woodworth
 Seth Harding,Individual,Naval Officer,https://en.wikipedia.org/wiki/Seth_Harding
 Silas M. Duncan,Individual,Naval Officer,https://en.wikipedia.org/wiki/Silas_Duncan
 Silas Talbot,Individual,Naval Officer,https://en.wikipedia.org/wiki/Silas_Talbot
@@ -1194,16 +1260,18 @@ Stanton Frederick Kalk,Individual,Naval Officer,https://en.wikipedia.org/wiki/St
 Stephen Cassin,Individual,Naval Officer,https://en.wikipedia.org/wiki/Stephen_Cassin
 Stephen Champlin,Individual,Naval Officer,https://en.wikipedia.org/wiki/Stephen_Champlin
 Tenant McLanahan,Individual,Naval Officer,https://en.wikipedia.org/wiki/Tenant_McLanahan
+Theodore Gordon Ellyson,Individual,Naval Officer,https://en.wikipedia.org/wiki/Theodore_G._Ellyson
+Thomas Boyle,Individual,Naval Officer,https://en.wikipedia.org/wiki/Thomas_Boyle
 Thomas Claxton,Individual,Naval Officer,https://en.wikipedia.org/wiki/Thomas_Claxton
 Thomas Holdup Stevens,Individual,Naval Officer,https://en.wikipedia.org/wiki/Thomas_Holdup_Stevens
-"Thomas Macdonough, Jr.",Individual,Naval Officer,https://en.wikipedia.org/wiki/Thomas_Macdonough
+Thomas Macdonough Jr.,Individual,Naval Officer,https://en.wikipedia.org/wiki/Thomas_Macdonough
 Tunis Augustus Macdonough Craven,Individual,Naval Officer,https://en.wikipedia.org/wiki/Tunis_Craven
+Walter Atlee Edwards,Individual,Naval Officer,https://en.wikipedia.org/wiki/Walter_Atlee_Edwards
 Walter Elsworth Reno,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Reno_(DD-303)#Namesake
 Weedon Edward Osborne,Individual,Naval Officer,https://en.wikipedia.org/wiki/Weedon_Osborne
 Welborn Cicero Wood,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Welborn_C._Wood#Namesake
-William A. T. Maddox,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_A._T._Maddox
-William B. Cushing,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_B._Cushing
 William Bainbridge Renshaw,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_B._Renshaw
+William Barker Cushing,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_B._Cushing
 William Gwin,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_Gwin_(naval_officer)
 William Henry Allen,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_Henry_Allen
 William J. Sharkey,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_J._Sharkey_(US_Navy_officer)
@@ -1221,6 +1289,7 @@ Worth Bagley,Individual,Naval Officer,https://en.wikipedia.org/wiki/Worth_Bagley
 "Benjamin Franklin Tracy, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Benjamin_F._Tracy
 "Benjamin Stoddert, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Benjamin_Stoddert
 "Benjamin Williams Crowninshield, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Benjamin_Williams_Crowninshield
+"Claude Augustus Swanson, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Claude_A._Swanson
 "David Henshaw, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/David_Henshaw_(American_politician)
 "Esek Hopkins, Commander in Chief of the Continental Navy",Individual,Official,https://en.wikipedia.org/wiki/Esek_Hopkins
 "George Bancroft, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/George_Bancroft
@@ -1284,9 +1353,12 @@ Oswald Boelcke,Individual,Pilot,https://en.wikipedia.org/wiki/Oswald_Boelcke
 Oswald Boelcke,Individual,Pilot,https://en.wikipedia.org/wiki/Oswald_Boelcke
 Paul Teste,Individual,Pilot,https://en.wikipedia.org/wiki/Paul_Teste
 William Devotie Billingsley,Individual,Pilot,https://en.wikipedia.org/wiki/USS_Billingsley#Namesake
+Zachary Lansdowne,Individual,Pilot,https://en.wikipedia.org/wiki/Zachary_Lansdowne
 Heinrich Frauenlob,Individual,Poet,https://en.wikipedia.org/wiki/Heinrich_Frauenlob
 Sappho,Individual,Poet,https://en.wikipedia.org/wiki/Sappho
 Gustavus Conyngham,Individual,Privateer,https://en.wikipedia.org/wiki/Gustavus_Conyngham
+John Frankford,Individual,Privateer,https://en.wikipedia.org/wiki/USS_Frankford
+John Ordronaux,Individual,Privateer,https://en.wikipedia.org/wiki/John_Ordronaux_(privateer)
 Nicolas Hugon des Demaines,Individual,Privateer,https://www.academia.edu/28508618/At_Granville_the_Hugon_The_Story_of_a_Corsair_Family_of_Normandy
 Robert Surcouf,Individual,Privateer,https://en.wikipedia.org/wiki/Robert_Surcouf
 Andres Bonifacio,Individual,Revolutionary,https://en.wikipedia.org/wiki/Andr%C3%A9s_Bonifacio
@@ -1314,16 +1386,25 @@ Prince Henry of Prussia,Individual,Royal,https://en.wikipedia.org/wiki/Prince_He
 Princess Irene of Hesse and by Rhine,Individual,Royal,https://en.wikipedia.org/wiki/Princess_Irene_of_Hesse_and_by_Rhine
 Princess Victoria Louise of Prussia,Individual,Royal,https://en.wikipedia.org/wiki/Princess_Victoria_Louise_of_Prussia
 "Wilhelm, German Crown Prince",Individual,Royal,"https://en.wikipedia.org/wiki/Wilhelm,_German_Crown_Prince"
+Bartlett Laffey,Individual,Sailor,https://en.wikipedia.org/wiki/Bartlett_Laffey
+Charles H. Baldwin,Individual,Sailor,https://en.wikipedia.org/wiki/Charles_H._Baldwin_(Medal_of_Honor)
 Charles Lawrence Ausburne,Individual,Sailor,https://en.wikipedia.org/wiki/Charles_Ausburne
 Charles W. Howard,Individual,Sailor,https://en.wikipedia.org/wiki/USS_Howard_(DD-179)#Namesake
+Charles Wilson,Individual,Sailor,https://en.wikipedia.org/wiki/USS_Wilson#Namesake
+Daniel Frazier,Individual,Sailor,https://en.wikipedia.org/wiki/USS_Frazier#Namesake
 Daniel Hogan,Individual,Sailor,https://en.wikipedia.org/wiki/USS_Hogan
 Doris Miller,Individual,Sailor,https://en.wikipedia.org/wiki/Doris_Miller
 George Henry Ellis,Individual,Sailor,https://en.wikipedia.org/wiki/George_Henry_Ellis
+James Buck,Individual,Sailor,https://en.wikipedia.org/wiki/James_Buck_(Medal_of_Honor)
+James H. Hobby,Individual,Sailor,https://en.wikipedia.org/wiki/USS_Hobby#Namesake
 John C. McFarland,Individual,Sailor,https://en.wikipedia.org/wiki/John_McFarland_(Medal_of_Honor)
 John James Doran,Individual,Sailor,https://en.wikipedia.org/wiki/John_James_Doran
+John Lang,Individual,Sailor,https://en.wikipedia.org/wiki/John_Lang_(sailor)
 Norman Eckley Edsall,Individual,Sailor,https://en.wikipedia.org/wiki/Norman_Edsall
 Osmond Kelly Ingram,Individual,Sailor,https://en.wikipedia.org/wiki/Osmond_Ingram
 Reuben James,Individual,Sailor,https://en.wikipedia.org/wiki/Reuben_James
+Richard Doyle,Individual,Sailor,https://en.wikipedia.org/wiki/USS_Doyle_(DMS-34)#Namesake
+Samuel Endicott,Individual,Sailor,https://en.wikipedia.org/wiki/USS_Endicott
 William Conway,Individual,Sailor,https://en.wikipedia.org/wiki/William_Conway_(United_States_Navy)
 Flavia Julia Helena,Individual,Saint,"https://en.wikipedia.org/wiki/Helena,_mother_of_Constantine_I"
 Saint Bonaventure,Individual,Saint,https://en.wikipedia.org/wiki/Bonaventure
@@ -1340,10 +1421,15 @@ Goliath,Individual,Soldier,https://en.wikipedia.org/wiki/Goliath
 Henry Wasmuth,Individual,Soldier,https://en.wikipedia.org/wiki/USS_Wasmuth#Namesake
 Joan of Arc,Individual,Soldier,https://en.wikipedia.org/wiki/Joan_of_Arc
 John Henry Pruitt,Individual,Soldier,https://en.wikipedia.org/wiki/John_H._Pruitt
+John Henry Quick,Individual,Soldier,https://en.wikipedia.org/wiki/John_H._Quick
 John R. Litchfield,Individual,Soldier,https://en.wikipedia.org/wiki/USS_Litchfield#Namesake
 Jonathan Meredith,Individual,Soldier,https://en.wikipedia.org/wiki/Jonathan_Meredith
 Pheidippides,Individual,Soldier,https://en.wikipedia.org/wiki/Pheidippides
 William Anthony,Individual,Soldier,https://en.wikipedia.org/wiki/William_Anthony_(USMC)
+Lightning,Meteorological,Phenomenon,https://en.wiktionary.org/wiki/lightning
+Rainbow,Meteorological,Phenomenon,
+Simoom,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Simoom
+Wind,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Wind
 Basilisk,Mythological,Creature,https://en.wikipedia.org/wiki/Basilisk
 Centaur,Mythological,Creature,https://en.wikipedia.org/wiki/Centaur
 Charybdis,Mythological,Creature,https://en.wikipedia.org/wiki/Charybdis
@@ -1556,14 +1642,19 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Frederick, Maryland, US",Political,City,"https://en.wikipedia.org/wiki/Frederick,_Maryland"
 "Fresno, California, US",Political,City,"https://en.wikipedia.org/wiki/Fresno,_California"
 "Galveston, Texas, US",Political,City,"https://en.wikipedia.org/wiki/Galveston,_Texas"
+"Gaziantep, Gaziantep, Turkey",Political,City,https://en.wikipedia.org/wiki/Gaziantep
 "Gdansk, Pomeranian Voivodeship, Poland",Political,City,https://en.wikipedia.org/wiki/Gda%C5%84sk
+"Gelibolu, Canakkale, Turkey",Political,City,https://en.wikipedia.org/wiki/Gelibolu
+"Gemlik, Bursa, Turkey",Political,City,https://en.wikipedia.org/wiki/Gemlik
 "Georgetown, Wales, UK",Political,City,"https://en.wikipedia.org/wiki/Georgetown,_Blaenau_Gwent"
+"Giresun, Giresun, Turkey",Political,City,https://en.wikipedia.org/wiki/Giresun
 "Glasgow, Scotland, UK",Political,City,https://en.wikipedia.org/wiki/Glasgow
 "Gloucester, England, UK",Political,City,https://en.wikipedia.org/wiki/Gloucester
 "Great Yarmouth, England, UK",Political,City,https://en.wikipedia.org/wiki/Great_Yarmouth
 "Grudziadz, Kuyavian-Pomeranian Voivodeship, Poland",Political,City,https://en.wikipedia.org/wiki/Grudzi%C4%85dz
 "Hamburg, Hamburg, Germany",Political,City,https://en.wikipedia.org/wiki/Hamburg
 "Hamilton, Bermuda, UK",Political,City,"https://en.wikipedia.org/wiki/Hamilton,_Bermuda"
+"Hanyang, Hubei, China",Political,City,"https://en.wikipedia.org/wiki/Hanyang,_Wuhan"
 "Helena, Montana, US",Political,City,"https://en.wikipedia.org/wiki/Helena,_Montana"
 "Hirado, Nagasaki, Japan",Political,City,"https://en.wikipedia.org/wiki/Hirado,_Nagasaki"
 "Honolulu, Hawaii, US",Political,City,https://en.wikipedia.org/wiki/Honolulu
@@ -1592,6 +1683,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Lowestoft, England, UK",Political,City,https://en.wikipedia.org/wiki/Lowestoft
 "Lubeck, Schleswig-Holstein, Germany",Political,City,https://en.wikipedia.org/wiki/L%C3%BCbeck
 "Ludlow, England, UK",Political,City,https://en.wikipedia.org/wiki/Ludlow
+"Luoyang, Henan, China",Political,City,https://en.wikipedia.org/wiki/Luoyang
 "Macon, Georgia, US",Political,City,"https://en.wikipedia.org/wiki/Macon,_Georgia"
 "Magdeburg, Saxony-Anhalt, Germany",Political,City,https://en.wikipedia.org/wiki/Magdeburg
 "Mainz, Rhineland-Palatinate, Germany",Political,City,https://en.wikipedia.org/wiki/Mainz
@@ -1615,6 +1707,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Munich, Bavaria, Germany",Political,City,https://en.wikipedia.org/wiki/Munich
 "Murmansk, Russia",Political,City,https://en.wikipedia.org/wiki/Murmansk
 "Mysore, Karnataka, India",Political,City,https://en.wikipedia.org/wiki/Mysore
+"Nanyang, Henan, China",Political,City,"https://en.wikipedia.org/wiki/Nanyang,_Henan"
 "Nashville, Tennessee, US",Political,City,"https://en.wikipedia.org/wiki/Nashville,_Tennessee"
 "New Haven, Connecticut, US",Political,City,"https://en.wikipedia.org/wiki/New_Haven,_Connecticut"
 "New Orleans, Louisiana, US",Political,City,https://en.wikipedia.org/wiki/New_Orleans
@@ -1721,6 +1814,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Wilmington, North Carolina, US",Political,City,"https://en.wikipedia.org/wiki/Wilmington,_North_Carolina"
 "Worcester, Massachusetts, US",Political,City,"https://en.wikipedia.org/wiki/Worcester,_Massachusetts"
 "Wrocław, Lower Silesian Voivodeship, Poland",Political,City,https://en.wikipedia.org/wiki/Wroc%C5%82aw
+"Xianyang, Shaanxi, China",Political,City,https://en.wikipedia.org/wiki/Xianyang
 "York, England, UK",Political,City,https://en.wikipedia.org/wiki/York
 "York, Pennsylvania, US",Political,City,"https://en.wikipedia.org/wiki/York,_Pennsylvania"
 "Youngstown, Ohio, US",Political,City,"https://en.wikipedia.org/wiki/Youngstown,_Ohio"
