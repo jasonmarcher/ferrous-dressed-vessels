@@ -251,6 +251,34 @@ Armorique (1862)
 Talisman (1862)
 Flore (1869)
 
+https://en.wikipedia.org/wiki/USS_Fort_Jackson
+
+https://en.wikipedia.org/wiki/USS_Supply_(1846)
+
+https://en.wikipedia.org/wiki/CSS_David
+
+https://en.wikipedia.org/wiki/Category:World_War_I_auxiliary_ships_of_the_United_States
+
+https://en.wikipedia.org/wiki/Category:Stores_ships_of_the_United_States_Navy
+
+https://en.wikipedia.org/wiki/Category:Spanish%E2%80%93American_War_auxiliary_ships_of_the_United_States
+
+https://en.wikipedia.org/wiki/Category:Patrol_vessels_of_the_United_States_Navy
+
+https://en.wikipedia.org/wiki/Category:Ships_of_the_United_States_Revenue_Cutter_Service
+
+https://en.wikipedia.org/wiki/Category:Ships_of_the_United_States_Coast_Guard
+
+https://en.wikipedia.org/wiki/Category:Survey_ships_of_the_United_States
+
+https://en.wikipedia.org/wiki/Category:World_War_I_patrol_vessels_of_the_United_States
+
+https://en.wikipedia.org/wiki/Category:Cargo_ships_of_the_United_States_Navy
+
+https://en.wikipedia.org/wiki/List_of_patrol_vessels_of_the_United_States_Navy
+
+https://en.wikipedia.org/wiki/ARA_Uruguay
+
 ### Desired books
 
 History of Pacific War Vol. 45: Truth histories of the Imperial Japanese Naval Vessels is a book published in 2004 by the Japanese publisher Gakken. The Japanese title is Rekishi Gunzō: Taiheiyō Senshi Shirizu, Vol. 45: Shōwa no shinsōzō: Teikoku Kaigun no shinso
