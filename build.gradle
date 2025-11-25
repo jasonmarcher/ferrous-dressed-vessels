@@ -45,6 +45,7 @@ task generateWorkbooks(type: Copy) {
     into 'build'
     from 'res/workbooks'
     include 'Ferrous Dressed Vessels.twb'
+    include 'Master Data.tds'
 }
 
 task generateShipHistory {
