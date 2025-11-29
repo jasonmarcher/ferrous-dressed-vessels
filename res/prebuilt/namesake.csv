@@ -25,6 +25,14 @@ Girl of my Heart,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Manx_langu
 Swift and Sure,_Lingual,Poetic Phrase,
 Thousand Years,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Chitose
 La Marseillaise,_Lingual,Song,https://en.wikipedia.org/wiki/La_Marseillaise
+Fifteenth Solar Term,_Lingual,Time,https://en.wikipedia.org/wiki/Solar_term
+First Day of the Month,_Lingual,Time,
+First Lunar Month,_Lingual,Time,https://en.wikipedia.org/wiki/Lunar_calendar
+Fourth Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
+Nineth Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
+Second Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
+Sixth Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
+Third Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Ameer,_Lingual,Title,https://en.wikipedia.org/wiki/Emir
 Atheling,_Lingual,Title,https://en.wikipedia.org/wiki/%C3%86theling
 Begum,_Lingual,Title,https://en.wikipedia.org/wiki/Begum
@@ -91,6 +99,7 @@ Democracy,_Lingual,,https://en.wikipedia.org/wiki/Democracy
 Despatch,_Lingual,,
 Desperate,_Lingual,,
 Devastation,_Lingual,,
+Echo,_Lingual,,
 Eclipse,_Lingual,,
 Encounter,_Lingual,,
 Endeavor,_Lingual,,
@@ -203,6 +212,7 @@ Vivid,_Lingual,,
 Wakamiya,_Lingual,,https://en.wikipedia.org/wiki/Mikogami#Wakamiya
 Warrior,_Lingual,,
 Watch,_Lingual,,https://en.wiktionary.org/wiki/watch
+White Cloth,_Lingual,,
 Zealous,_Lingual,,
 Albatross,Animal,Bird,https://en.wikipedia.org/wiki/Albatross
 American Robin,Animal,Bird,https://en.wikipedia.org/wiki/American_robin
@@ -295,9 +305,36 @@ Barracouta,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Thyrsites_lepido
 Caiman,Animal,Reptile,https://en.wikipedia.org/wiki/Caiman
 Comet,Astronomical,Body,https://en.wikipedia.org/wiki/Comet
 Meteor,Astronomical,Body,https://en.wikipedia.org/wiki/Meteor
+Dawn,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Dawn
+Dusk,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Dusk
+Moonlight,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Moonlight
 Sunrise,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Sunrise
 Twilight,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Twilight
+Waning Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
+Waxing Crescent,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
 "Sirius, Canis Major",Astronomical,Star,https://en.wikipedia.org/wiki/Sirius
+Camellia Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Camellia
+Clerodendrum Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Clerodendrum
+Empress Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Paulownia_tomentosa
+Sakaki Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Cleyera_japonica
+Cypress Tree,Botanical,Conifer,https://en.wikipedia.org/wiki/Cupressaceae
+Japanese Cedar,Botanical,Conifer,https://en.wikipedia.org/wiki/Cryptomeria
+Japanese Cypress,Botanical,Conifer,https://en.wikipedia.org/wiki/Chamaecyparis_obtusa
+Pine Tree,Botanical,Conifer,https://en.wikipedia.org/wiki/Pine
+Katsura Tree,Botanical,Eudicot,https://en.wikipedia.org/wiki/Cercidiphyllum_japonicum
+Camphor Tree,Botanical,Magnoliid,https://en.wikipedia.org/wiki/Camphora_officinarum
+Birch Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Birch
+Cherry Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Cherry
+Japanese Elm,Botanical,Rosid,https://en.wikipedia.org/wiki/Zelkova_serrata
+Mandarin Orange,Botanical,Rosid,https://en.wikipedia.org/wiki/Mandarin_orange
+Maple Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Maple
+Mulberry Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Morus_(plant)
+Oak Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Oak
+Oak Wood,Botanical,Rosid,https://en.wikipedia.org/wiki/Oak
+Peach Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Peach
+Plum Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Plum
+Willow Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Willow
+New Leaves,Botanical,,
 Descriptor,Categorical,Descriptor,
 Royal Great Ship,Categorical,Descriptor,
 Hull Number,Categorical,Hull Number,https://en.wikipedia.org/wiki/Hull_number
@@ -1857,11 +1894,52 @@ William Anthony,Individual,Soldier,https://en.wikipedia.org/wiki/William_Anthony
 William James Bordelon Jr.,Individual,Soldier,https://en.wikipedia.org/wiki/William_J._Bordelon
 William Richard Charette,Individual,Soldier,https://en.wikipedia.org/wiki/William_R._Charette
 Woodrow R. Thompson,Individual,Soldier,
+Altocumulus Cloud,Meteorological,Cloud Formation,https://en.wikipedia.org/wiki/Altocumulus_cloud
+Cumulus Cloud,Meteorological,Cloud Formation,https://en.wikipedia.org/wiki/Cumulus_cloud
+Stratus Cloud,Meteorological,Cloud Formation,https://en.wikipedia.org/wiki/Stratus_cloud
+Heat Haze,Meteorological,Mirage,https://en.wikipedia.org/wiki/Mirage#Heat_haze
+Unknown Fire,Meteorological,Mirage,https://en.wikipedia.org/wiki/Shiranui_(optical_phenomenon)
+April Shower,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/April_shower
+Autumn Typhoon,Meteorological,Phenomenon,
+Bay Waves,Meteorological,Phenomenon,
+Bay Wind,Meteorological,Phenomenon,
+Beach Wind,Meteorological,Phenomenon,
+Beautiful Waves,Meteorological,Phenomenon,
+Blizzard,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Blizzard
+Capillary Wave,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Capillary_wave
+Dawn Clouds,Meteorological,Phenomenon,
+Evening Calm,Meteorological,Phenomenon,https://ja.wikipedia.org/wiki/%E5%A4%95%E5%87%AA
+Evening Mist,Meteorological,Phenomenon,
+Evening Shower,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Shower_(precipitation)
+Favorable Wind,Meteorological,Phenomenon,
+First Frost,Meteorological,Phenomenon,
+First Snow,Meteorological,Phenomenon,
+Heavenly Wind,Meteorological,Phenomenon,
+Inlet Wind,Meteorological,Phenomenon,
 Lightning,Meteorological,Phenomenon,https://en.wiktionary.org/wiki/lightning
-Rainbow,Meteorological,Phenomenon,
+Mist,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Mist
+Morning Dew,Meteorological,Phenomenon,
+Morning Mist,Meteorological,Phenomenon,
+Morning Wind,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Breeze
+Morningtide,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tide
+Mountain Wind,Meteorological,Phenomenon,
+Powder Snow,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Snow
+Rain Shower,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Shower_(precipitation)
+Rainbow,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Rainbow
+Rocky Coast Wind,Meteorological,Phenomenon,
+Rocky Waves,Meteorological,Phenomenon,
+Sea Wind,Meteorological,Phenomenon,
 Simoom,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Simoom
-Storm,Meteorological,Phenomenon,
+Sleet,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Ice_pellets
+Spring Wind,Meteorological,Phenomenon,
+Storm,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Storm
+Thunder,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Thunder
+Tide,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tide
+Valley Wind,Meteorological,Phenomenon,
 Wind,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Wind
+Wind through a Pine Forest,Meteorological,Phenomenon,
+Windblast,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Windblast
+Winter Shower,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Shower_(precipitation)
 Basilisk,Mythological,Creature,https://en.wikipedia.org/wiki/Basilisk
 Centaur,Mythological,Creature,https://en.wikipedia.org/wiki/Centaur
 Charybdis,Mythological,Creature,https://en.wikipedia.org/wiki/Charybdis
@@ -1973,6 +2051,8 @@ Naiad,Mythological,Spirit,https://en.wikipedia.org/wiki/Naiad
 Nymph,Mythological,Spirit,https://en.wikipedia.org/wiki/Nymph
 Thetis,Mythological,Spirit,https://en.wikipedia.org/wiki/Thetis
 Undines,Mythological,Spirit,https://en.wikipedia.org/wiki/Undine
+Devine Storm,Mythological,,https://en.wikipedia.org/wiki/Kamikaze_(typhoon)
+Fast Bird,Mythological,,https://ja.wikipedia.org/wiki/%E9%80%9F%E9%B3%A5
 Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_League
 "Albany, New York, US",Political,City,"https://en.wikipedia.org/wiki/Albany,_New_York"
 "Algiers, Algeria",Political,City,https://en.wikipedia.org/wiki/Algiers
@@ -2120,6 +2200,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Juneau, Alaska, US",Political,City,"https://en.wikipedia.org/wiki/Juneau,_Alaska"
 "Kaliningrad, Kaliningrad Oblast, Russia",Political,City,https://en.wikipedia.org/wiki/K%C3%B6nigsberg
 "Kansas City, Missouri, US",Political,City,"https://en.wikipedia.org/wiki/Kansas_City,_Missouri"
+"Kashihara, Nara, Japan",Political,City,"https://en.wikipedia.org/wiki/Kashihara,_Nara"
 "Katoomba, New South Wales, Australia",Political,City,https://en.wikipedia.org/wiki/Katoomba
 "Keelung, Taiwan",Political,City,https://en.wikipedia.org/wiki/Keelung
 "Kolberg, West Pomeranian Voivodeship, Poland",Political,City,https://en.wikipedia.org/wiki/West_Pomeranian_Voivodeship
@@ -2487,6 +2568,7 @@ Spartan,Political,Tribe,https://en.wikipedia.org/wiki/Sparta
 "Su-Ao Naval Base, Taiwan",Structure,Naval Base,https://en.wikipedia.org/wiki/ROCS_Su_Ao
 "Tso Ying Naval Base, Taiwan",Structure,Naval Base,https://en.wikipedia.org/wiki/ROCS_Tso_Ying
 "Itsukushima Shrine, Hiroshima Prefecture, Japan",Structure,Shrine,https://en.wikipedia.org/wiki/Itsukushima_Shrine
+"Kashii Shrine, Fukuoka, Japan",Structure,Shrine,https://en.wikipedia.org/wiki/Kashii-g%C5%AB
 "Kashima Shrine, Ibaraki Prefecture, Japan",Structure,Shrine,https://en.wikipedia.org/wiki/Kashima_Shrine
 "Kasuga-taisha, Nara Prefecture, Japan",Structure,Shrine,https://en.wikipedia.org/wiki/Kasuga-taisha
 "Katori Shrine, Chiba Prefecture, Japan",Structure,Shrine,https://en.wikipedia.org/wiki/Katori_Shrine
