@@ -26,11 +26,14 @@ Swift and Sure,_Lingual,Poetic Phrase,
 Thousand Years,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Chitose
 La Marseillaise,_Lingual,Song,https://en.wikipedia.org/wiki/La_Marseillaise
 Fifteenth Solar Term,_Lingual,Time,https://en.wikipedia.org/wiki/Solar_term
+Fifth Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 First Day of the Month,_Lingual,Time,
 First Lunar Month,_Lingual,Time,https://en.wikipedia.org/wiki/Lunar_calendar
+First Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Fourth Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Nineth Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Second Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
+Seventh Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Sixth Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Third Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Ameer,_Lingual,Title,https://en.wikipedia.org/wiki/Emir
@@ -141,6 +144,7 @@ Irresistible,_Lingual,,
 Justice,_Lingual,,https://en.wikipedia.org/wiki/Justice
 Lancer,_Lingual,,https://en.wikipedia.org/wiki/Lancer
 Liberty,_Lingual,,https://en.wikipedia.org/wiki/Liberty
+Loyal,_Lingual,,
 Magnanimous,_Lingual,,
 Magnificent,_Lingual,,
 Majestic,_Lingual,,
@@ -307,24 +311,52 @@ Comet,Astronomical,Body,https://en.wikipedia.org/wiki/Comet
 Meteor,Astronomical,Body,https://en.wikipedia.org/wiki/Meteor
 Dawn,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Dawn
 Dusk,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Dusk
+Full Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
 Moonlight,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Moonlight
 Sunrise,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Sunrise
 Twilight,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Twilight
 Waning Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
 Waxing Crescent,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
+Waxing Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
 "Sirius, Canis Major",Astronomical,Star,https://en.wikipedia.org/wiki/Sirius
 Camellia Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Camellia
+Chrysanthemum,Botanical,Asterid,https://en.wikipedia.org/wiki/Chrysanthemum
 Clerodendrum Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Clerodendrum
 Empress Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Paulownia_tomentosa
+Morning Glory,Botanical,Asterid,https://en.wikipedia.org/wiki/Morning_glory
+Mugwort,Botanical,Asterid,https://en.wikipedia.org/wiki/Mugwort
+Persimmon Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Persimmon
 Sakaki Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Cleyera_japonica
+Sunflower,Botanical,Asterid,https://en.wikipedia.org/wiki/Helianthus
+Bamboo,Botanical,Commelinid,https://en.wikipedia.org/wiki/Bamboo
+Bamboo Sprout,Botanical,Commelinid,https://en.wikipedia.org/wiki/Bamboo
+Black Bamboo,Botanical,Commelinid,https://en.wikipedia.org/wiki/Phyllostachys_nigra
+Chinese Silver Grass,Botanical,Commelinid,https://en.wikipedia.org/wiki/Miscanthus_sinensis
+Chinese Water Chestnut,Botanical,Commelinid,https://en.wikipedia.org/wiki/Eleocharis_dulcis
+Kangaroo Grass,Botanical,Commelinid,https://en.wikipedia.org/wiki/Themeda_triandra
+Reed,Botanical,Commelinid,https://en.wikipedia.org/wiki/Phragmites
+Rice Seedling,Botanical,Commelinid,https://en.wikipedia.org/wiki/Rice
+Chinese Torreya,Botanical,Conifer,https://en.wikipedia.org/wiki/Torreya_grandis
 Cypress Tree,Botanical,Conifer,https://en.wikipedia.org/wiki/Cupressaceae
+Fir Tree,Botanical,Conifer,https://en.wikipedia.org/wiki/Fir
 Japanese Cedar,Botanical,Conifer,https://en.wikipedia.org/wiki/Cryptomeria
 Japanese Cypress,Botanical,Conifer,https://en.wikipedia.org/wiki/Chamaecyparis_obtusa
 Pine Tree,Botanical,Conifer,https://en.wikipedia.org/wiki/Pine
+Tsuga Tree,Botanical,Conifer,https://en.wikipedia.org/wiki/Tsuga
+Asian Knotweed,Botanical,Eudicot,https://en.wikipedia.org/wiki/Reynoutria
 Katsura Tree,Botanical,Eudicot,https://en.wikipedia.org/wiki/Cercidiphyllum_japonicum
+Lotus,Botanical,Eudicot,https://en.wikipedia.org/wiki/Nelumbo
+Bracken,Botanical,Fern,https://en.wikipedia.org/wiki/Bracken
+Bracken Sprout,Botanical,Fern,https://en.wikipedia.org/wiki/Bracken
 Camphor Tree,Botanical,Magnoliid,https://en.wikipedia.org/wiki/Camphora_officinarum
 Birch Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Birch
+Bottle Gourd,Botanical,Rosid,https://en.wikipedia.org/wiki/Calabash
+Bush Clover,Botanical,Rosid,https://en.wikipedia.org/wiki/Lespedeza
 Cherry Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Cherry
+Chestnut Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Chestnut
+Elm Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Elm
+Hibiscus,Botanical,Rosid,https://en.wikipedia.org/wiki/Hibiscus
+Ivy,Botanical,Rosid,https://en.wikipedia.org/wiki/Parthenocissus
 Japanese Elm,Botanical,Rosid,https://en.wikipedia.org/wiki/Zelkova_serrata
 Mandarin Orange,Botanical,Rosid,https://en.wikipedia.org/wiki/Mandarin_orange
 Maple Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Maple
@@ -332,8 +364,11 @@ Mulberry Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Morus_(plant)
 Oak Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Oak
 Oak Wood,Botanical,Rosid,https://en.wikipedia.org/wiki/Oak
 Peach Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Peach
+Pear Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Pear
 Plum Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Plum
+Violet,Botanical,Rosid,https://en.wikipedia.org/wiki/Viola_(plant)
 Willow Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Willow
+Wisteria,Botanical,Rosid,https://en.wikipedia.org/wiki/Wisteria
 New Leaves,Botanical,,
 Descriptor,Categorical,Descriptor,
 Royal Great Ship,Categorical,Descriptor,
@@ -1900,44 +1935,83 @@ Stratus Cloud,Meteorological,Cloud Formation,https://en.wikipedia.org/wiki/Strat
 Heat Haze,Meteorological,Mirage,https://en.wikipedia.org/wiki/Mirage#Heat_haze
 Unknown Fire,Meteorological,Mirage,https://en.wikipedia.org/wiki/Shiranui_(optical_phenomenon)
 April Shower,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/April_shower
+Autumn Cloud,Meteorological,Phenomenon,
 Autumn Typhoon,Meteorological,Phenomenon,
+Autumn Wind,Meteorological,Phenomenon,
 Bay Waves,Meteorological,Phenomenon,
 Bay Wind,Meteorological,Phenomenon,
+Beach Wind,Meteorological,Phenomenon,
 Beach Wind,Meteorological,Phenomenon,
 Beautiful Waves,Meteorological,Phenomenon,
 Blizzard,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Blizzard
 Capillary Wave,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Capillary_wave
+Cool Wind,Meteorological,Phenomenon,
 Dawn Clouds,Meteorological,Phenomenon,
+Deep Snow,Meteorological,Phenomenon,
+Early Morning Tide,Meteorological,Phenomenon,
 Evening Calm,Meteorological,Phenomenon,https://ja.wikipedia.org/wiki/%E5%A4%95%E5%87%AA
 Evening Mist,Meteorological,Phenomenon,
 Evening Shower,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Shower_(precipitation)
+Evening Tide Wind,Meteorological,Phenomenon,
+Evening Wind,Meteorological,Phenomenon,
 Favorable Wind,Meteorological,Phenomenon,
 First Frost,Meteorological,Phenomenon,
 First Snow,Meteorological,Phenomenon,
+First Wind,Meteorological,Phenomenon,
+Fog,Meteorological,Phenomenon,
+Haze,Meteorological,Phenomenon,
 Heavenly Wind,Meteorological,Phenomenon,
-Inlet Wind,Meteorological,Phenomenon,
+High Tide,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tide
+Island Wind,Meteorological,Phenomenon,
+King Tide,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tide
+Kuroshio Current,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Kuroshio_Current
 Lightning,Meteorological,Phenomenon,https://en.wiktionary.org/wiki/lightning
+Marsh Wind,Meteorological,Phenomenon,
 Mist,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Mist
+Morning Calm,Meteorological,Phenomenon,
+Morning Cloud,Meteorological,Phenomenon,
 Morning Dew,Meteorological,Phenomenon,
 Morning Mist,Meteorological,Phenomenon,
 Morning Wind,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Breeze
 Morningtide,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tide
+Mountain Cloud,Meteorological,Phenomenon,
+Mountain Peak Wind,Meteorological,Phenomenon,
 Mountain Wind,Meteorological,Phenomenon,
+Offshore Wind,Meteorological,Phenomenon,
+Oyashio Current,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Oyashio_Current
 Powder Snow,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Snow
 Rain Shower,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Shower_(precipitation)
 Rainbow,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Rainbow
+River Wind,Meteorological,Phenomenon,
 Rocky Coast Wind,Meteorological,Phenomenon,
 Rocky Waves,Meteorological,Phenomenon,
+Scattered Showers,Meteorological,Phenomenon,
 Sea Wind,Meteorological,Phenomenon,
 Simoom,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Simoom
+Sky Fog,Meteorological,Phenomenon,
 Sleet,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Ice_pellets
+Snowy Wind,Meteorological,Phenomenon,
+Spreading Waves,Meteorological,Phenomenon,
 Spring Wind,Meteorological,Phenomenon,
 Storm,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Storm
+Storm Surge,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Storm_surge
+Summer Cloud,Meteorological,Phenomenon,
+Summer Tide,Meteorological,Phenomenon,
+Swamp Wind,Meteorological,Phenomenon,
 Thunder,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Thunder
 Tide,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tide
 Valley Wind,Meteorological,Phenomenon,
+Whirlwind,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Whirlwind
 Wind,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Wind
+Wind Blown Flag,Meteorological,Phenomenon,
+Wind in a Sail,Meteorological,Phenomenon,
+Wind of a Flapping Bird,Meteorological,Phenomenon,
+Wind of a Passing Arrow,Meteorological,Phenomenon,
+Wind of a Sweeping Sword,Meteorological,Phenomenon,
+Wind on the Waves,Meteorological,Phenomenon,
+Wind Over the Field,Meteorological,Phenomenon,
 Wind through a Pine Forest,Meteorological,Phenomenon,
+Wind through the Bush Clover,Meteorological,Phenomenon,
 Windblast,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Windblast
 Winter Shower,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Shower_(precipitation)
 Basilisk,Mythological,Creature,https://en.wikipedia.org/wiki/Basilisk
@@ -2139,6 +2213,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Daejeon, Daejeon, South Korea",Political,City,https://en.wikipedia.org/wiki/Daejeon
 "Dallas, Texas, US",Political,City,https://en.wikipedia.org/wiki/Dallas
 "Dangyang, Hubei, China",Political,City,https://en.wikipedia.org/wiki/Dangyang
+"Danyang, Jiangsu, China",Political,City,"https://en.wikipedia.org/wiki/Danyang,_Jiangsu"
 "Dartmouth, England, UK",Political,City,"https://en.wikipedia.org/wiki/Dartmouth,_Devon"
 "Dayton, Ohio, US",Political,City,"https://en.wikipedia.org/wiki/Dayton,_Ohio"
 "Denver, Colorado, US",Political,City,https://en.wikipedia.org/wiki/Denver
@@ -2422,6 +2497,7 @@ Trinidad and Tobago,Political,Colony,https://en.wikipedia.org/wiki/History_of_Tr
 "Swabia, Bavaria, Germany",Political,County,https://en.wikipedia.org/wiki/Swabia
 "Ye County, Henan, China",Political,County,https://en.wikipedia.org/wiki/Ye_County
 "Yunyang, Chongqing, China",Political,County,https://en.wikipedia.org/wiki/Yunyang_County
+"Osu, Nagoya, Aichi, Japan",Political,District,https://en.wikipedia.org/wiki/%C5%8Csu
 Gauls,Political,Nation,https://en.wikipedia.org/wiki/Gauls
 Nihon,Political,Nation,https://en.wikipedia.org/wiki/Japan
 Ojibwe,Political,Nation,https://en.wikipedia.org/wiki/Ojibwe
