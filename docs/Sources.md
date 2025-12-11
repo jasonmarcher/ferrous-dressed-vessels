@@ -277,7 +277,9 @@ https://en.wikipedia.org/wiki/Category:Cargo_ships_of_the_United_States_Navy
 
 https://en.wikipedia.org/wiki/List_of_patrol_vessels_of_the_United_States_Navy
 
-https://en.wikipedia.org/wiki/ARA_Uruguay
+https://en.wikipedia.org/wiki/ARA_
+
+https://en.wikipedia.org/wiki/Category:Cruisers_of_the_Royal_Canadian_Navy
 
 ### Desired books
 
