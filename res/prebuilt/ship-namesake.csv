@@ -92,8 +92,8 @@ ac_jeanne_d_arc|jeanne_d_arc,Jeanne d'Arc II,Joan of Arc
 ac_jules_michelet|jules_michelet,Jules Michelet,Jules Michelet
 ac_kaiser_karl_vi|sms_kaiser_karl_vi,Kaiser Karl VI,"Charles VI, Holy Roman Emperor"
 ac_kaiserin_und_konigin_maria_theresia|sms_kaiserin_und_konigin_maria_theresia,Kaiserin und Konigin Maria Theresia,Kaiserin und Konigin Maria Theresia
-ac_kongo|hiei,Hiei,Hiei
-ac_kongo|kongo,Kongo,Kongo
+ac_kongo|hiei,Hiei,"Mount Hiei, Japan"
+ac_kongo|kongo,Kongo,"Mount Kongo, Japan"
 ac_kurama|kurama,Kurama,"Mount Kurama, Japan"
 ac_leon_gambetta|jules_ferry,Jules Ferry,Jules Ferry
 ac_leon_gambetta|leon_gambetta,Leon Gambetta,Leon Gambetta
@@ -204,12 +204,12 @@ am_bille_1977|rodsteen,Rodsteen,Rodsteen
 am_bille_1977|sehested,Sehested,Sehested
 am_bille_1977|suenson,Suenson,Suenson
 am_combattante_1964|combattante,La Combattante,La Combattante
-am_hayabusa_2002|hayabusa,Hayabusa,Hayabusa
-am_hayabusa_2002|kumataka,Kumataka,Kumataka
-am_hayabusa_2002|otaka,Otaka,Otaka
-am_hayabusa_2002|shirataka,Shirataka,Shirataka
-am_hayabusa_2002|umitaka,Umitaka,Umitaka
-am_hayabusa_2002|wakataka,Wakataka,Wakataka
+am_hayabusa_2002|hayabusa,Hayabusa,Falcon
+am_hayabusa_2002|kumataka,Kumataka,
+am_hayabusa_2002|otaka,Otaka,
+am_hayabusa_2002|shirataka,Shirataka,
+am_hayabusa_2002|umitaka,Umitaka,
+am_hayabusa_2002|wakataka,Wakataka,
 am_kingston|hmcs_brandon,Brandon,Brandon
 am_kingston|hmcs_edmonton,Edmonton,Edmonton
 am_kingston|hmcs_glace_bay,Glace Bay,Glace Bay
@@ -5805,23 +5805,23 @@ dd_akatsuki|hibiki,Hibiki,Echo
 dd_akatsuki|hibiki,Vernyy,Loyal
 dd_akatsuki|ikazuchi,Ikazuchi,Thunder
 dd_akatsuki|inazuma,Inazuma,Lightning
-dd_akizuki_1940|akizuki,Akizuki,
-dd_akizuki_1940|fuyutsuki,Fuyutsuki,
-dd_akizuki_1940|hanatsuki,Hanatsuki,
-dd_akizuki_1940|harutsuki,Harutsuki,
-dd_akizuki_1940|harutsuki,Vnezapnyy,
-dd_akizuki_1940|hatsutsuki,Hatsutsuki,
-dd_akizuki_1940|mochitsuki,Mochitsuki,
-dd_akizuki_1940|natsuzuki,Natsuzuki,
-dd_akizuki_1940|niizuki,Niizuki,
-dd_akizuki_1940|shimozuki,Shimozuki,
-dd_akizuki_1940|suzutsuki,Suzutsuki,
-dd_akizuki_1940|teruzuki,Teruzuki,
-dd_akizuki_1940|wakatsuki,Wakatsuki,
-dd_akizuki_1940|yoizuki,Fen Yang,
-dd_akizuki_1940|yoizuki,Yoizuki,
-dd_akizuki|jds_akizuki,Akizuki,
-dd_akizuki|jds_teruzuki,Teruzuki,
+dd_akizuki_1940|akizuki,Akizuki,Autumn Moon
+dd_akizuki_1940|fuyutsuki,Fuyutsuki,Winter Moon
+dd_akizuki_1940|hanatsuki,Hanatsuki,Third Month
+dd_akizuki_1940|harutsuki,Harutsuki,Spring Moon
+dd_akizuki_1940|harutsuki,Vnezapnyy,Sudden
+dd_akizuki_1940|hatsuzuki,Hatsuzuki,First Month
+dd_akizuki_1940|michitsuki,Michitsuki,Full Moon
+dd_akizuki_1940|natsuzuki,Natsuzuki,Summer Moon
+dd_akizuki_1940|niizuki,Niizuki,New Moon
+dd_akizuki_1940|shimotsuki,Shimotsuki,Eleventh Month
+dd_akizuki_1940|suzutsuki,Suzutsuki,Clear Moon in Autumn
+dd_akizuki_1940|teruzuki,Teruzuki,Shining Moon
+dd_akizuki_1940|wakatsuki,Wakatsuki,Waxing Crescent
+dd_akizuki_1940|yoizuki,Fen Yang,"Fenyang, Shanxi, China"
+dd_akizuki_1940|yoizuki,Yoizuki,Night Moon
+dd_akizuki|jds_akizuki,Akizuki,Autumn Moon
+dd_akizuki|jds_teruzuki,Teruzuki,Shining Moon
 dd_alava|alava,Alava,Alava
 dd_alava|liniers,Liniers,Liniers
 dd_albacore|hms_albacore,Albacore,Albacore
@@ -6821,7 +6821,7 @@ dd_emir_bukharskiy|moskvityanin,Moskvityanin,Moskvityanin
 dd_enoki|enoki,Enoki,Clerodendrum Tree
 dd_enoki|keyaki,Keyaki,Japanese Elm
 dd_enoki|kuwa,Kuwa,Mulberry Tree
-dd_enoki|maki,Maki,Japanese Cypress
+dd_enoki|maki,Maki,Hinoki Cypress
 dd_enoki|nara,Nara,Oak Wood
 dd_enoki|tsubaki,Tsubaki,Camellia Tree
 dd_enseigne_gabolde|enseigne_gabolde,Enseigne Gabolde,Enseigne Gabolde
@@ -7493,9 +7493,9 @@ dd_handy|hms_handy,Handy,Handy
 dd_handy|hms_hart,Hart,Hart
 dd_handy|hms_hunter,Hunter,Hunter
 dd_harukaze|jds_harukaze,Harukaze,Spring Wind
-dd_harukaze|jds_yukikaze,Yukikaze,
-dd_haruna|jds_haruna,Haruna,Haruna
-dd_haruna|jds_hiei,Hiei,Hiei
+dd_harukaze|jds_yukikaze,Yukikaze,Snowy Wind
+dd_haruna|jds_haruna,Haruna,"Mount Haruna, Japan"
+dd_haruna|jds_hiei,Hiei,"Mount Hiei, Japan"
 dd_harusame|arare,Arare,Sleet
 dd_harusame|ariake,Ariake,Waning Moon
 dd_harusame|asagiri,Asagiri,Morning Mist
@@ -7569,21 +7569,21 @@ dd_indomito|insidioso,Insidioso,Insidioso
 dd_indomito|insidioso,TA21,TA21
 dd_indomito|intrepido,Intrepido,Intrepido
 dd_indomito|irrequieto,Irrequieto,Irrequieto
-dd_inzhener_mekhanik_zverev|bditelnyy,Bditelnyy,Bditelnyy
-dd_inzhener_mekhanik_zverev|boevoy,Boevoy,Boevoy
-dd_inzhener_mekhanik_zverev|burnyy,Burnyy,Burnyy
-dd_inzhener_mekhanik_zverev|inzhener_mekhanik_dmitriev,Inzhener-Mekhanik Dmitriev,Inzhener-Mekhanik Dmitriev
-dd_inzhener_mekhanik_zverev|inzhener_mekhanik_dmitriev,Roshal,Roshal
-dd_inzhener_mekhanik_zverev|inzhener_mekhanik_zverev,Inzhener-Mekhanik Zverev,Inzhener-Mekhanik Zverev
-dd_inzhener_mekhanik_zverev|inzhener_mekhanik_zverev,Zhemchuzhin,Zhemchuzhin
-dd_inzhener_mekhanik_zverev|inzhener_mekhanik_zverev,Zhemchuzhnyy,Zhemchuzhnyy
-dd_inzhener_mekhanik_zverev|kapitan_yurasovskiy,Kapitan Yurasovskiy,Kapitan Yurasovskiy
-dd_inzhener_mekhanik_zverev|leytenant_sergeev,Leytenant Sergeev,Leytenant Sergeev
-dd_inzhener_mekhanik_zverev|vnimatelnyy,Vnimatelnyy,Vnimatelnyy
-dd_inzhener_mekhanik_zverev|vnushitelnyy,Martynov,Martynov
-dd_inzhener_mekhanik_zverev|vnushitelnyy,Vnushitelnyy,Vnushitelnyy
-dd_inzhener_mekhanik_zverev|vynoslivyy,Artemyev,Artemyev
-dd_inzhener_mekhanik_zverev|vynoslivyy,Vynoslivyy,Vynoslivyy
+dd_inzhener_mekhanik_zverev|bditelnyy,Bditelnyy,
+dd_inzhener_mekhanik_zverev|boevoy,Boevoy,
+dd_inzhener_mekhanik_zverev|burnyy,Burnyy,
+dd_inzhener_mekhanik_zverev|inzhener_mekhanik_dmitriev,Inzhener-Mekhanik Dmitriev,
+dd_inzhener_mekhanik_zverev|inzhener_mekhanik_dmitriev,Roshal,
+dd_inzhener_mekhanik_zverev|inzhener_mekhanik_zverev,Inzhener-Mekhanik Zverev,
+dd_inzhener_mekhanik_zverev|inzhener_mekhanik_zverev,Zhemchuzhin,
+dd_inzhener_mekhanik_zverev|inzhener_mekhanik_zverev,Zhemchuzhnyy,
+dd_inzhener_mekhanik_zverev|kapitan_yurasovskiy,Kapitan Yurasovskiy,
+dd_inzhener_mekhanik_zverev|leytenant_sergeev,Leytenant Sergeev,
+dd_inzhener_mekhanik_zverev|vnimatelnyy,Vnimatelnyy,Careful
+dd_inzhener_mekhanik_zverev|vnushitelnyy,Martynov,
+dd_inzhener_mekhanik_zverev|vnushitelnyy,Vnushitelnyy,
+dd_inzhener_mekhanik_zverev|vynoslivyy,Artemyev,
+dd_inzhener_mekhanik_zverev|vynoslivyy,Vynoslivyy,
 dd_izyaslav|avtroil,Almirante Guise,Almirante Guise
 dd_izyaslav|avtroil,Avtroil,Avtroil
 dd_izyaslav|bryachislav,Bryachislav,Bryachislav
@@ -8077,7 +8077,7 @@ dd_momi|ashi,Ashi,Reed
 dd_momi|fuji,Fuji,Wisteria
 dd_momi|hagi,Hagi,Bush Clover
 dd_momi|hasu,Hasu,Lotus
-dd_momi|hishi,Hishi,Chinese Water Chestnut
+dd_momi|hishi,Hishi,Water Caltrop
 dd_momi|kaki,Kaki,Persimmon Tree
 dd_momi|kaki,Osu,"Osu, Nagoya, Aichi, Japan"
 dd_momi|kaya,Kaya,Chinese Torreya
@@ -8094,8 +8094,8 @@ dd_momi|tsuga,Tsuga,Tsuga Tree
 dd_momi|tsuta,Tsuta,Ivy
 dd_momi|warabi,Warabi,Bracken
 dd_momi|yomogi,Yomogi,Mugwort
-dd_momo|hinoki,Hinoki,
-dd_momo|kashi,Kashi,Oak Tree
+dd_momo|hinoki,Hinoki,Japanese Cypress
+dd_momo|kashi,Kashi,Live Oak Tree
 dd_momo|momo,Momo,Peach Tree
 dd_momo|yanagi,Yanagi,Willow Tree
 dd_monaghan|uss_ammen,Ammen,Daniel Ammen
@@ -8317,11 +8317,11 @@ dd_project_30bis|viortkiy,Viortkiy,Viortkiy
 dd_project_30bis|vkradchivyy,Vkradchivyy,Vkradchivyy
 dd_project_30bis|vnezapnyy,Sarwajala,Sarwajala
 dd_project_30bis|vnezapnyy,Sawunggaling,Sawunggaling
-dd_project_30bis|vnezapnyy,Vnezapnyy,Vnezapnyy
-dd_project_30bis|vnimatelnyy,Vnimatelnyy,Vnimatelnyy
+dd_project_30bis|vnezapnyy,Vnezapnyy,Sudden
+dd_project_30bis|vnimatelnyy,Vnimatelnyy,Careful
 dd_project_30bis|volevoy,Siliwangi,Siliwangi
-dd_project_30bis|volevoy,Volevoy,Volevoy
-dd_project_30bis|volnyy,Volnyy,Volnyy
+dd_project_30bis|volevoy,Volevoy,Willful
+dd_project_30bis|volnyy,Volnyy,Free
 dd_project_30bis|vrazumitelnyy,Vrazumitelnyy,Vrazumitelnyy
 dd_project_30bis|vspyl_chivyy,Vspyl'chivyy,Vspyl'chivyy
 dd_project_30bis|vstrechnyy,Vstrechnyy,Vstrechnyy
@@ -8350,7 +8350,7 @@ dd_project_30k|ozornoy,Ozornoy,Ozornoy
 dd_project_30k|stalin,Stalin,Stalin
 dd_project_30k|vedushchiy,Vedushchiy,Vedushchiy
 dd_project_30k|vlastnyy,Vlastnyy,Vlastnyy
-dd_project_30k|vnezapnyy,Vnezapnyy,Vnezapnyy
+dd_project_30k|vnezapnyy,Vnezapnyy,Sudden
 dd_project_30k|vnushitelnyy,Vnushitelnyy,Vnushitelnyy
 dd_project_30k|vynoslivyy,Vynoslivyy,Vynoslivyy
 dd_project_30k|zharkiy,Zharkiy,Torrid
@@ -8821,7 +8821,7 @@ dd_t|hms_tyrian,Tyrian,Tyrian
 dd_takatsuki|jds_kikuzuki,Kikuzuki,Nineth Month
 dd_takatsuki|jds_mochizuki,Mochizuki,Full Moon
 dd_takatsuki|jds_nagatsuki,Nagatsuki,Nineth Month
-dd_takatsuki|jds_takatsuki,Takatsuki,
+dd_takatsuki|jds_takatsuki,Takatsuki,Beautiful Moon
 dd_talisman|hms_talisman,Talisman,Talisman
 dd_talisman|hms_termagant,Termagant,Termagant
 dd_talisman|hms_trident,Trident,Trident
@@ -9264,25 +9264,25 @@ dd_wishart|hms_wishart,Wishart,Wishart
 dd_wishart|hms_witch,Witch,Witch
 dd_wrangle|wachtmeister,Wachtmeister,Wachtmeister
 dd_wrangle|wrangel,Wrangel,Wrangel
-dd_yugumo|akishimo,Akishimo,
-dd_yugumo|asashimo,Asashimo,
-dd_yugumo|fujinami,Fujinami,
-dd_yugumo|hamanami,Hamanami,
-dd_yugumo|hayanami,Hayanami,
-dd_yugumo|hayashimo,Hayashimo,
-dd_yugumo|kazegumo,Kazegumo,
-dd_yugumo|kishinami,Kishinami,
-dd_yugumo|kiyonami,Kiyonami,
-dd_yugumo|kiyoshimo,Kiyoshimo,
-dd_yugumo|makikumo,Makikumo,
-dd_yugumo|makinami,Makinami,
-dd_yugumo|naganami,Naganami,
-dd_yugumo|okinami,Okinami,
-dd_yugumo|onami,Onami,
-dd_yugumo|suzunami,Suzunami,
-dd_yugumo|takanami,Takanami,
-dd_yugumo|tamanami,Tamanami,
-dd_yugumo|yugumo,Yugumo,
+dd_yugumo|akishimo,Akishimo,Autumn Frost
+dd_yugumo|asashimo,Asashimo,Morning Frost
+dd_yugumo|fujinami,Fujinami,Wisteria
+dd_yugumo|hamanami,Hamanami,Surf
+dd_yugumo|hayanami,Hayanami,Morning Wave
+dd_yugumo|hayashimo,Hayashimo,Early Frost
+dd_yugumo|kazagumo,Kazagumo,Wind and Clouds
+dd_yugumo|kishinami,Kishinami,Shorebreak
+dd_yugumo|kiyonami,Kiyonami,Ripples
+dd_yugumo|kiyoshimo,Kiyoshimo,White Frost
+dd_yugumo|makigumo,Makigumo,Cirrus Clouds
+dd_yugumo|makinami,Makinami,Rolling Wave
+dd_yugumo|naganami,Naganami,Long Wave
+dd_yugumo|okinami,Okinami,Offing Wave
+dd_yugumo|onami,Onami,Big Wave
+dd_yugumo|suzunami,Suzunami,Cool Wave
+dd_yugumo|takanami,Takanami,Crashing Wave
+dd_yugumo|tamanami,Tamanami,Moonlight Ripples
+dd_yugumo|yugumo,Yugumo,Evening Cloud
 dd_z_1934_a|z10_hans_lody,Z10 Hans Lody,Z10 Hans Lody
 dd_z_1934_a|z11_bernd_von_arnim,Z11 Bernd von Arnim,Z11 Bernd von Arnim
 dd_z_1934_a|z12_erich_giese,Z12 Erich Giese,Z12 Erich Giese
@@ -9361,10 +9361,10 @@ dde_epperson|uss_basilone,Basilone,John Basilone
 dde_epperson|uss_epperson,Epperson,Harold Glenn Epperson
 dde_epperson|uss_epperson,Taimur,"Timur, Amir of the Timurid Empire"
 ddg_aconit|aconit,Aconit,Aconit
-ddg_akizuki|jds_akizuki,Akizuki,
-ddg_akizuki|jds_fuyuzuki,Fuyuzuki,
-ddg_akizuki|jds_suzutsuki,Suzutsuki,
-ddg_akizuki|jds_teruzuki,Teruzuki,
+ddg_akizuki|jds_akizuki,Akizuki,Autumn Moon
+ddg_akizuki|jds_fuyuzuki,Fuyuzuki,Winter Moon
+ddg_akizuki|jds_suzutsuki,Suzutsuki,Clear Moon in Autumn
+ddg_akizuki|jds_teruzuki,Teruzuki,Shining Moon
 ddg_almirante_brown|ara_almirante_brown,Almirante Brown,Almirante Brown
 ddg_almirante_brown|ara_heroina,Heroina,Heroina
 ddg_almirante_brown|ara_la_argentina,La Argentina,La Argentina
@@ -9469,16 +9469,16 @@ ddg_arleigh_burke_iii|uss_thad_cochran,Thad Cochran,William Thad Cochran
 ddg_arleigh_burke_iii|uss_william_charette,William Charette,William Richard Charette
 ddg_asagiri|jds_amagiri,Amagiri,Sky Fog
 ddg_asagiri|jds_asagiri,Asagiri,Morning Mist
-ddg_asagiri|jds_hamagiri,Hamagiri,
-ddg_asagiri|jds_sawagiri,Sawagiri,
-ddg_asagiri|jds_setogiri,Setogiri,
-ddg_asagiri|jds_umigiri,Umigiri,
-ddg_asagiri|jds_yamagiri,Yamagiri,
+ddg_asagiri|jds_hamagiri,Hamagiri,Beach Fog
+ddg_asagiri|jds_sawagiri,Sawagiri,Swamp Fog
+ddg_asagiri|jds_setogiri,Setogiri,Fog Over Calm Waters
+ddg_asagiri|jds_umigiri,Umigiri,Sea Fog
+ddg_asagiri|jds_yamagiri,Yamagiri,Mountain Fog
 ddg_asagiri|jds_yugiri,Yugiri,Evening Mist
-ddg_asahi|jds_asahi,Asahi,
+ddg_asahi|jds_asahi,Asahi,Sunrise
 ddg_asahi|jds_shiranui,Shiranui,Unknown Fire
-ddg_atago|jds_ashigara,Ashigara,
-ddg_atago|jds_atago,Atago,
+ddg_atago|jds_ashigara,Ashigara,"Mount Ashigara, Japan"
+ddg_atago|jds_atago,Atago,"Mount Atago, Japan"
 ddg_berkeley|uss_benjamin_stoddert,Benjamin Stoddert,"Benjamin Stoddert, Secretary of the Navy"
 ddg_berkeley|uss_berkeley,Berkeley,Randolph Carter Berkeley
 ddg_berkeley|uss_berkeley,Themistoklis,Themistocles
@@ -9566,18 +9566,20 @@ ddg_harry_w_hill|uss_hayler,Hayler,Robert Ward Hayler
 ddg_harry_w_hill|uss_ingersoll,Ingersoll,Royal Eason Ingersoll
 ddg_harry_w_hill|uss_o_bannon,O'Bannon,Presley O'Bannon
 ddg_harry_w_hill|uss_thorn,Thorn,"Jonathan Thorn"
-ddg_hatsuyuki|jds_asayuki,Asayuki,
-ddg_hatsuyuki|jds_hamayuki,Hamayuki,
-ddg_hatsuyuki|jds_haruyuki,Haruyuki,
+ddg_hatakaze|jds_hatakaze,Hatakaze,Wind Blown Flag
+ddg_hatakaze|jds_shimakaze,Shimakaze,Island Wind
+ddg_hatsuyuki|jds_asayuki,Asayuki,Morning Snow
+ddg_hatsuyuki|jds_hamayuki,Hamayuki,Snowy Beach
+ddg_hatsuyuki|jds_haruyuki,Haruyuki,Spring Snow
 ddg_hatsuyuki|jds_hatsuyuki,Hatsuyuki,First Snow
-ddg_hatsuyuki|jds_isoyuki,Isoyuki,
-ddg_hatsuyuki|jds_matsuyuki,Matsuyuki,
-ddg_hatsuyuki|jds_mineyuki,Mineyuki,
-ddg_hatsuyuki|jds_sawayuki,Sawayuki,
-ddg_hatsuyuki|jds_setoyuki,Setoyuki,
-ddg_hatsuyuki|jds_shimayuki,Shimayuki,
+ddg_hatsuyuki|jds_isoyuki,Isoyuki,Rocky Coast Snow
+ddg_hatsuyuki|jds_matsuyuki,Matsuyuki,Snowy Pine Tree
+ddg_hatsuyuki|jds_mineyuki,Mineyuki,Mountain Peak Snow
+ddg_hatsuyuki|jds_sawayuki,Sawayuki,Falling Snow
+ddg_hatsuyuki|jds_setoyuki,Setoyuki,Snow Falling on Calm Waters
+ddg_hatsuyuki|jds_shimayuki,Shimayuki,Island Snow
 ddg_hatsuyuki|jds_shirayuki,Shirayuki,Powder Snow
-ddg_hatsuyuki|jds_yamayuki,Yamayuki,
+ddg_hatsuyuki|jds_yamayuki,Yamayuki,Mountain Snow
 ddg_hercules|ara_hercules,Hercules,Hercules
 ddg_hobart|hmas_brisbane,Brisbane,Brisbane
 ddg_hobart|hmas_hobart,Hobart,Hobart
@@ -9591,10 +9593,10 @@ ddg_iroquois|hmcs_iroquois,Iroquois,Iroquois
 ddg_kolkata|ins_chennai,Chennai,Chennai
 ddg_kolkata|ins_kochi,Kochi,Kochi
 ddg_kolkata|ins_kolkata,Kolkata,Kolkata
-ddg_kongo|jds_chokai,Chokai,
-ddg_kongo|jds_kirishima,Kirishima,
-ddg_kongo|jds_kongo,Kongo,
-ddg_kongo|jds_myoko,Myoko,
+ddg_kongo|jds_chokai,Chokai,"Mount Chokai, Japan"
+ddg_kongo|jds_kirishima,Kirishima,"Mount Kirishima, Japan"
+ddg_kongo|jds_kongo,Kongo,"Mount Kongo, Japan"
+ddg_kongo|jds_myoko,Myoko,"Mount Myoko, Japan"
 ddg_kouroush_1978|anoushirvan,Anoushirvan,"Khosrow I, Emperor of the Sasanian Empire"
 ddg_kouroush_1978|anoushirvan,Chandler,Theodore Edson Chandler
 ddg_kouroush_1978|anoushirvan,Ma Kong,"Magong, Taiwan"
@@ -9613,8 +9615,8 @@ ddg_luigi_durand_de_la_penne|luigi_durand_de_la_penne,Luigi Durand de la Penne,L
 ddg_lutjens|lutjens,Lutjens,Lutjens
 ddg_lutjens|molders,Molders,Molders
 ddg_lutjens|rommel,Rommel,Rommel
-ddg_maya|jds_haguro,Haguro,Haguro
-ddg_maya|jds_maya,Maya,Maya
+ddg_maya|jds_haguro,Haguro,"Mount Haguro, Japan"
+ddg_maya|jds_maya,Maya,"Mount Maya, Japan"
 ddg_muntenia|muntenia,Marasesti,Marasesti
 ddg_muntenia|muntenia,Muntenia,Muntenia
 ddg_muntenia|muntenia,Timisoara,Timisoara
@@ -9623,7 +9625,7 @@ ddg_murasame|jds_ariake,Ariake,Waning Moon
 ddg_murasame|jds_harusame,Harusame,April Shower
 ddg_murasame|jds_ikazuchi,Ikazuchi,Thunder
 ddg_murasame|jds_inazuma,Inazuma,Lightning
-ddg_murasame|jds_kirisame,Kirisame,
+ddg_murasame|jds_kirisame,Kirisame,Drizzle
 ddg_murasame|jds_murasame,Murasame,Rain Shower
 ddg_murasame|jds_samidare,Samidare,Scattered Showers
 ddg_murasame|jds_yudachi,Yudachi,Evening Shower
@@ -9724,8 +9726,8 @@ ddg_santisima_trinidad|ara_santisima_trinidad,Santisima Trinidad,Santisima Trini
 ddg_sejong_daewang|roks_sejong_daewang,Sejong Daewang,Sejong Daewang
 ddg_sejong_daewang|roks_yu_seong_ryong,Yu Seong Ryong,Yu Seong Ryong
 ddg_sejong_daewang|roks_yulgok_yii,Yulgok Yii,Yulgok Yii
-ddg_shirane|jds_kurama,Kurama,Kurama
-ddg_shirane|jds_shirane,Shirane,Shirane
+ddg_shirane|jds_kurama,Kurama,"Mount Kurama, Japan"
+ddg_shirane|jds_shirane,Shirane,"Mount Nikko-Shirane, Japan"
 ddg_spruance|uss_arthur_w_radford,Arthur W. Radford,Arthur William Radford
 ddg_spruance|uss_briscoe,Briscoe,Robert Pearce Briscoe
 ddg_spruance|uss_caron,Caron,Wayne Maurice Caron
@@ -9754,11 +9756,11 @@ ddg_suffren|suffren,Suffren,Suffren
 ddg_tachikaze|jds_asakaze,Asakaze,Morning Wind
 ddg_tachikaze|jds_sawakaze,Sawakaze,Swamp Wind
 ddg_tachikaze|jds_tachikaze,Tachikaze,Wind of a Sweeping Sword
-ddg_takanami|jds_makinami,Makinami,
-ddg_takanami|jds_onami,Onami,
+ddg_takanami|jds_makinami,Makinami,Rolling Wave
+ddg_takanami|jds_onami,Onami,Big Wave
 ddg_takanami|jds_sazanami,Sazanami,Capillary Wave
-ddg_takanami|jds_suzunami,Suzunami,
-ddg_takanami|jds_takanami,Takanami,
+ddg_takanami|jds_suzunami,Suzunami,Cool Wave
+ddg_takanami|jds_takanami,Takanami,Crashing Wave
 ddg_tourville|de_grasse,De Grasse,De Grasse
 ddg_tourville|duguay_trouin,Duguay-Trouin,Duguay-Trouin
 ddg_tourville|tourville,Tourville,Tourville
@@ -9858,24 +9860,24 @@ ddg_zumwalt|uss_michael_monsoor,Michael Monsoor,Michael Anthony Monsoor
 ddg_zumwalt|uss_zumwalt,Zumwalt,Elmo Russell Zumwalt Jr.
 ddk_ayanami|jds_ayanami,Ayanami,Beautiful Waves
 ddk_ayanami|jds_isonami,Isonami,Rocky Waves
-ddk_ayanami|jds_oonami,Oonami,
+ddk_ayanami|jds_oonami,Oonami,Big Wave
 ddk_ayanami|jds_shikinami,Shikinami,Spreading Waves
-ddk_ayanami|jds_takanami,Takanami,
+ddk_ayanami|jds_takanami,Takanami,Crashing Wave
 ddk_ayanami|jds_uranami,Uranami,Bay Waves
 ddk_carpenter|uss_carpenter,Anittepe,"Anittepe, Ankara, Turkey"
 ddk_carpenter|uss_carpenter,Carpenter,Donald Marshall Carpenter
 ddk_carpenter|uss_robert_a_owens,Alci Tepe,Gallipoli Campaign
 ddk_carpenter|uss_robert_a_owens,Robert A. Owens,Robert Allen Owens
-ddk_makinami|jds_makinami,Makinami,
+ddk_makinami|jds_makinami,Makinami,Rolling Wave
 ddk_minegumo|jds_minegumo,Minegumo,Cumulus Cloud
 ddk_minegumo|jds_murakumo,Murakumo,Altocumulus Cloud
 ddk_minegumo|jds_natsugumo,Natsugumo,Summer Cloud
 ddk_yamagumo|jds_akigumo,Akigumo,Autumn Cloud
-ddk_yamagumo|jds_aokumo,Aokumo,
+ddk_yamagumo|jds_aokumo,Aokumo,Blue Cloud
 ddk_yamagumo|jds_asagumo,Asagumo,Morning Cloud
-ddk_yamagumo|jds_makigumo,Makigumo,
+ddk_yamagumo|jds_makigumo,Makigumo,Cirrus Clouds
 ddk_yamagumo|jds_yamagumo,Yamagumo,Mountain Cloud
-ddk_yamagumo|jds_yugumo,Yugumo,
+ddk_yamagumo|jds_yugumo,Yugumo,Evening Cloud
 de_alcione_1938|airone,Airone,Airone
 de_alcione_1938|alcione,Alcione,Alcione
 de_alcione_1938|aretusa,Aretusa,Aretusa
@@ -10018,7 +10020,7 @@ de_det|uss_acree,Acree,Acree
 de_det|uss_alger,Alger,Alger
 de_det|uss_alger,Babitonga,Babitonga
 de_det|uss_amick,Amick,Amick
-de_det|uss_amick,Asahi,Asahi
+de_det|uss_amick,Asahi,Sunrise
 de_det|uss_atherton,Atherton,Atherton
 de_det|uss_atherton,Hatsuhi,Hatsuhi
 de_det|uss_baker,Baker,Baker
@@ -10359,22 +10361,22 @@ de_le_fier_1940|farouche,Le Farouche,
 de_le_fier_1940|farouche,TA5,Hull Number
 de_le_fier_1940|fier,Le Fier,
 de_le_fier_1940|fier,TA1,Hull Number
-de_matsu|hinoki,Hinoki,
+de_matsu|hinoki,Hinoki,Japanese Cypress
 de_matsu|kaede,Kaede,Maple Tree
-de_matsu|kashi,Kashi,Oak Tree
+de_matsu|kashi,Kashi,Live Oak Tree
 de_matsu|kaya,Kaya,Chinese Torreya
-de_matsu|kaya,Volevoy,
+de_matsu|kaya,Volevoy,Willful
 de_matsu|keyaki,Keyaki,Japanese Elm
 de_matsu|kiri,Kiri,Empress Tree
-de_matsu|kiri,Vozrozhdyonnyy,
+de_matsu|kiri,Vozrozhdyonnyy,Resurrected
 de_matsu|kuwa,Kuwa,Mulberry Tree
-de_matsu|maki,Maki,Japanese Cypress
+de_matsu|maki,Maki,Hinoki Cypress
 de_matsu|matsu,Matsu,Pine Tree
 de_matsu|momi,Momi,Fir Tree
-de_matsu|momo,Momo,
-de_matsu|nara,Nara,
+de_matsu|momo,Momo,Peach Tree
+de_matsu|nara,Nara,Oak Tree
 de_matsu|sakura,Sakura,Cherry Tree
-de_matsu|sugi,Hui Yang,
+de_matsu|sugi,Hui Yang,"Huiyang District, Guangdong, China"
 de_matsu|sugi,Sugi,Japanese Cedar
 de_matsu|take,Take,Bamboo
 de_matsu|tsubaki,Tsubaki,Camellia Tree
@@ -10552,34 +10554,34 @@ de_spica_1935|astore,Astore,Astore
 de_spica_1935|astore,Remus,Remus
 de_spica_1935|spica,Romulus,Romulus
 de_spica_1935|spica,Spica,Spica
-de_tachibana|azura,Azura,
+de_tachibana|azusa,Azusa,Catalpa Tree
 de_tachibana|enoki,Enoki,Clerodendrum Tree
 de_tachibana|hagi,Hagi,Bush Clover
-de_tachibana|hatsuyume,Hatsuyume,
-de_tachibana|hatsuyume,Hsin Yang,
-de_tachibana|hatsuzakura,Hatsuzakura,
-de_tachibana|hatsuzakura,Vetrenyy,
-de_tachibana|hatsuzakura,Vyrazitelnyy,
-de_tachibana|hishi,Hishi,Chinese Water Chestnut
+de_tachibana|hatsuyume,Hatsuyume,First Plum Blossom
+de_tachibana|hatsuyume,Xin Yang,"Xinyang, Henan, China"
+de_tachibana|hatsuzakura,Hatsuzakura,First Cherry Blossom
+de_tachibana|hatsuzakura,Vetrenyy,Windy
+de_tachibana|hatsuzakura,Vyrazitelnyy,Expressive
+de_tachibana|hishi,Hishi,Water Caltrop
 de_tachibana|kaba,Kaba,Birch Tree
 de_tachibana|kaki,Kaki,Persimmon Tree
 de_tachibana|katsura,Katsura,Katsura Tree
 de_tachibana|kusunoki,Kusunoki,Camphor Tree
-de_tachibana|kuzu,Kuzu,
+de_tachibana|kuzu,Kuzu,Japanese Arrowroot
 de_tachibana|nashi,Nashi,Pear Tree
 de_tachibana|nashi,Wakaba,New Leaves
 de_tachibana|nire,Nire,Elm Tree
-de_tachibana|odake,Odake,
+de_tachibana|odake,Odake,Male Bamboo
 de_tachibana|sakaki,Sakaki,Sakaki Tree
-de_tachibana|shii,Shii,
-de_tachibana|shii,Vol'nyy,
+de_tachibana|shii,Shii,Chinquapin Tree
+de_tachibana|shii,Volnyy,Free
 de_tachibana|sumire,Sumire,Violet
 de_tachibana|tachibana,Tachibana,Mandarin Orange
-de_tachibana|tochi,Tochi,
+de_tachibana|tochi,Tochi,Horse Chestnut Tree
 de_tachibana|tsuta,Tsuta,Ivy
-de_tachibana|wakazakura,Wakazakura,
-de_tachibana|yadake,Yadake,
-de_tachibana|yaezakura,Yaezakura,
+de_tachibana|wakazakura,Wakazakura,Young Cherry Tree
+de_tachibana|yadake,Yadake,Arrow Bamboo
+de_tachibana|yaezakura,Yaezakura,Korean Hill Cherry Tree
 de_te|de563,DE563,DE563
 de_te|de564,DE564,DE564
 de_te|de565,DE565,DE565
@@ -11128,7 +11130,7 @@ ff_knox|uss_jesse_l_brown,Damyat,Damyat
 ff_knox|uss_jesse_l_brown,Jesse L. Brown,Jesse L. Brown
 ff_knox|uss_joseph_hewes,Joseph Hewes,Joseph Hewes
 ff_knox|uss_joseph_hewes,Lan Yang,Lan Yang
-ff_knox|uss_kirk,Fen Yang,Fen Yang
+ff_knox|uss_kirk,Fen Yang,"Fenyang, Shanxi, China"
 ff_knox|uss_kirk,Kirk,Kirk
 ff_knox|uss_knox,Knox,Knox
 ff_knox|uss_lang,Lang,Lang
@@ -11173,20 +11175,20 @@ ff_koln|koln,Koln,Koln
 ff_koln|lubeck,Lubeck,Lubeck
 ff_kusu|buna,Buna,
 ff_kusu|kaede,Kaede,Maple Tree
-ff_kusu|kashi,Kashi,Oak Tree
+ff_kusu|kashi,Kashi,Live Oak Tree
 ff_kusu|kaya,Kaya,Chinese Torreya
 ff_kusu|keyaki,Keyaki,Japanese Elm
 ff_kusu|kiri,Kiri,Empress Tree
 ff_kusu|kusu,Kusu,
-ff_kusu|maki,Maki,Japanese Cypress
+ff_kusu|maki,Maki,Hinoki Cypress
 ff_kusu|matsukaze,Matsukaze,Wind through a Pine Forest
 ff_kusu|momi,Momi,Fir Tree
-ff_kusu|nara,Nara,
+ff_kusu|nara,Nara,Oak Tree
 ff_kusu|nire,Nire,Elm Tree
 ff_kusu|sakura,Sakura,Cherry Tree
-ff_kusu|shii,Shii,
+ff_kusu|shii,Shii,Chinquapin Tree
 ff_kusu|sugi,Sugi,Japanese Cedar
-ff_kusu|tochi,Tochi,
+ff_kusu|tochi,Tochi,Horse Chestnut Tree
 ff_kusu|tsuge,Tsuge,
 ff_kusu|ume,Ume,Plum Tree
 ff_l_alsacien|l_alsacien,L'Alsacien,L'Alsacien
@@ -13101,10 +13103,10 @@ gb_mahaska|uss_mahaska,Mahaska,Mahaska
 gb_mahaska|uss_paul_jones,Paul Jones,Paul Jones
 gb_marie_rose_1798|marie_rose,La Marie Rose,La Marie Rose
 gb_marie_rose_1798|marie_rose,Marie Rose,Marie Rose
-gb_maya_1885|akagi,Akagi,Akagi
-gb_maya_1885|atago,Atago,Atago
-gb_maya_1885|chokai,Chokai,Chokai
-gb_maya_1885|maya,Maya,Maya
+gb_maya_1885|akagi,Akagi,"Mount Akagi, Japan"
+gb_maya_1885|atago,Atago,"Mount Atago, Japan"
+gb_maya_1885|chokai,Chokai,"Mount Chokai, Japan"
+gb_maya_1885|maya,Maya,"Mount Maya, Japan"
 gb_midnight|uss_midnight,Midnight,Midnight
 gb_mohongo|uss_ashuelot,Ashuelot,Ashuelot
 gb_mohongo|uss_mohongo,Mohongo,Mohongo
@@ -37180,22 +37182,22 @@ tb_hauk_1904|falk,Falk,Falk
 tb_hauk_1904|hauk,Hauk,Hauk
 tb_havornen_1897|havornen,Havornen,Havornen
 tb_havornen_1897|sobjornen,Sobjornen,Sobjornen
-tb_hayabusa_1900|aotaka,Aotaka,Aotaka
-tb_hayabusa_1900|chidori,Chidori,Chidori
-tb_hayabusa_1900|hashitaka,Hashitaka,Hashitaka
-tb_hayabusa_1900|hato,Hato,Hato
-tb_hayabusa_1900|hayabusa,Hayabusa,Hayabusa
-tb_hayabusa_1900|hibari,Hibari,Hibari
-tb_hayabusa_1900|kamome,Kamome,Kamome
-tb_hayabusa_1900|kari,Kari,Kari
-tb_hayabusa_1900|kasasagi,Kasasagi,Kasasagi
-tb_hayabusa_1900|kiji,Kiji,Kiji
-tb_hayabusa_1900|kiji_ii,Kiji,Kiji
-tb_hayabusa_1900|manazuru,Manazuru,Manazuru
-tb_hayabusa_1900|otori,Otori,Otori
-tb_hayabusa_1900|sagi,Sagi,Sagi
-tb_hayabusa_1900|tsubame,Tsubame,Tsubame
-tb_hayabusa_1900|uzura,Uzura,Uzura
+tb_hayabusa_1900|aotaka,Aotaka,
+tb_hayabusa_1900|chidori,Chidori,Plover
+tb_hayabusa_1900|hashitaka,Hashitaka,
+tb_hayabusa_1900|hato,Hato,Dove
+tb_hayabusa_1900|hayabusa,Hayabusa,Falcon
+tb_hayabusa_1900|hibari,Hibari,
+tb_hayabusa_1900|kamome,Kamome,
+tb_hayabusa_1900|kari,Kari,Goose
+tb_hayabusa_1900|kasasagi,Kasasagi,Magpie
+tb_hayabusa_1900|kiji,Kiji,Pheasant
+tb_hayabusa_1900|kiji_ii,Kiji,Pheasant
+tb_hayabusa_1900|manazuru,Manazuru,White-naped Crane
+tb_hayabusa_1900|otori,Otori,Goose
+tb_hayabusa_1900|sagi,Sagi,Heron
+tb_hayabusa_1900|tsubame,Tsubame,
+tb_hayabusa_1900|uzura,Uzura,
 tb_hu_peng_1906|hu_checn,Hu Chen,Hu Chen
 tb_hu_peng_1906|hu_oah,Hu Oah,Hu Oah
 tb_hu_peng_1906|hu_oah,Kawasemi,Kawasemi
@@ -37962,15 +37964,15 @@ tb_oryol_1877|zhavoronok,Zhavoronok,Zhavoronok
 tb_oryol_1877|zhuravel,Zhuravel,Zhuravel
 tb_oryol_1877|zmeya,Zmeya,Zmeya
 tb_oryol_1877|zyablik,Zyablik,Zyablik
-tb_otori_1936|hato,Hato,Hato
-tb_otori_1936|hayabusa,Hayabusa,Hayabusa
-tb_otori_1936|hiyodori,Hiyodori,Hiyodori
-tb_otori_1936|kari,Kari,Kari
-tb_otori_1936|kasasagi,Kasasagi,Kasasagi
-tb_otori_1936|kiji,Kiji,Kiji
-tb_otori_1936|kiji,Vnimatelnyy,Vnimatelnyy
-tb_otori_1936|otori,Otori,Otori
-tb_otori_1936|sagi,Sagi,Sagi
+tb_otori_1936|hato,Hato,Dove
+tb_otori_1936|hayabusa,Hayabusa,Falcon
+tb_otori_1936|hiyodori,Hiyodori,Bulbul
+tb_otori_1936|kari,Kari,Goose
+tb_otori_1936|kasasagi,Kasasagi,Magpie
+tb_otori_1936|kiji,Kiji,Pheasant
+tb_otori_1936|kiji,Vnimatelnyy,Careful
+tb_otori_1936|otori,Otori,Goose
+tb_otori_1936|sagi,Sagi,Heron
 tb_ouragan_1889|alarme,Alarme,Alarme
 tb_ouragan_1889|aventurier,Aventurier,Aventurier
 tb_ouragan_1889|defi,Defi,Defi
@@ -38449,10 +38451,10 @@ tb_teist_1908|skarv,Skarv,Skarv
 tb_teist_1908|teist,NH02,NH02
 tb_teist_1908|teist,Teist,Teist
 tb_tingey_1904|tingey,Tingey,Tingey
-tb_tomozuru_1933|chidori,Chidori,Chidori
-tb_tomozuru_1933|hatsukari,Hatsukari,Hatsukari
-tb_tomozuru_1933|manazuru,Manazuru,Manazuru
-tb_tomozuru_1933|tomozuru,Tomozuru,Tomozuru
+tb_tomozuru_1933|chidori,Chidori,Plover
+tb_tomozuru_1933|hatsukari,Hatsukari,Goose
+tb_tomozuru_1933|manazuru,Manazuru,White-naped Crane
+tb_tomozuru_1933|tomozuru,Tomozuru,Crane
 tb_torpilovolo_11_1885|torpilovolo_11,Torpilovolo 11,Hull Number
 tb_torpilovolo_11_1885|torpilovolo_12,Torpilovolo 12,Hull Number
 tb_torpilovolo_11_1885|torpilovolo_13,Torpilovolo 13,Hull Number
@@ -38624,7 +38626,7 @@ tg_kazarskiy|griden,Griden,
 tg_kazarskiy|kazarskiy,Kazarskiy,
 tg_kazarskiy|posadnik,Posadnik,
 tg_kazarskiy|voevoda,Voevoda,
-tg_kazarskiy|vsadnik,Makigumo,
+tg_kazarskiy|vsadnik,Makigumo,Cirrus Clouds
 tg_kazarskiy|vsadnik,Vsadnik,
 tg_levrier|leger,Leger,Leger
 tg_levrier|levrier,Levrier,Levrier
