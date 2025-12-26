@@ -1252,13 +1252,13 @@ ams_algerine_1941|mutine,Mutine,Mutine
 ams_algerine_1941|onyx,Onyx,Onyx
 ams_algerine_1941|pickle,Parakrama,Parakrama
 ams_algerine_1941|pickle,Pickle,Pickle
-ams_algerine_1941|pincher,Pincher,Pincher
+ams_algerine_1941|pincher,Pincher,
 ams_algerine_1941|plucky,Plucky,Plucky
 ams_algerine_1941|rattler,Rattler,Rattler
 ams_algerine_1941|ready,Jan van Haverbeke,Jan van Haverbeke
 ams_algerine_1941|ready,Ready,Ready
 ams_algerine_1941|recruit,Recruit,Recruit
-ams_algerine_1941|rifleman,Rifleman,Rifleman
+ams_algerine_1941|rifleman,Rifleman,Soldier (Rifleman)
 ams_algerine_1941|rinaldo,Rinaldo,Rinaldo
 ams_algerine_1941|rosario,De Moor,De Moor
 ams_algerine_1941|rosario,Rosario,Rosario
@@ -5746,7 +5746,7 @@ dd_a_rcn|hmcs_saguenay,Saguenay,Saguenay
 dd_a_rcn|hmcs_skeena,Skeena,Skeena
 dd_a|hms_acasta,Acasta,Acasta
 dd_a|hms_achates,Achates,Achates
-dd_a|hms_acheron,Acheron,Acheron
+dd_a|hms_acheron,Acheron,"Acheron, Greece"
 dd_a|hms_active,Active,Active
 dd_a|hms_antelope,Antelope,Antelope
 dd_a|hms_anthony,Anthony,Anthony
@@ -5766,27 +5766,27 @@ dd_acasta|hms_porpoise,Porpoise,Porpoise
 dd_acasta|hms_shark,Shark,Shark
 dd_acasta|hms_sparrowhawk,Sparrowhawk,Sparrowhawk
 dd_acasta|hms_spitfire,Spitfire,Spitfire
-dd_acorn|hms_acorn,Acorn,Acorn
+dd_acorn|hms_acorn,Acorn,Oak Tree (Nut)
 dd_acorn|hms_alarm,Alarm,Alarm
 dd_acorn|hms_brisk,Brisk,Brisk
 dd_acorn|hms_cameleon,Cameleon,Cameleon
 dd_acorn|hms_comet,Comet,Comet
 dd_acorn|hms_fury,Fury,Fury
-dd_acorn|hms_goldfinch,Goldfinch,Goldfinch
+dd_acorn|hms_goldfinch,Goldfinch,European Goldfinch
 dd_acorn|hms_hope,Hope,Hope
-dd_acorn|hms_larne,Larne,Larne
-dd_acorn|hms_lyra,Lyra,Lyra
-dd_acorn|hms_martin,Martin,Martin
+dd_acorn|hms_larne,Larne,"Larne, Northern Ireland, UK"
+dd_acorn|hms_lyra,Lyra,Lyra Constellation
+dd_acorn|hms_martin,Martin,Swallow
 dd_acorn|hms_minstrel,Minstrel,Minstrel
-dd_acorn|hms_minstrel,Sendan,Sendan
-dd_acorn|hms_nemesis,Kanran,Kanran
+dd_acorn|hms_minstrel,Sendan,Chinaberry Tree
+dd_acorn|hms_nemesis,Kanran,Watching
 dd_acorn|hms_nemesis,Nemesis,Nemesis
-dd_acorn|hms_nereide,Nereide,Nereide
-dd_acorn|hms_nymphe,Nymphe,Nymphe
-dd_acorn|hms_redpole,Redpole,Redpole
-dd_acorn|hms_rifleman,Rifleman,Rifleman
+dd_acorn|hms_nereide,Nereide,Nereids
+dd_acorn|hms_nymphe,Nymphe,Nymph
+dd_acorn|hms_redpole,Redpole,Redpoll
+dd_acorn|hms_rifleman,Rifleman,Soldier (Rifleman)
 dd_acorn|hms_ruby,Ruby,Ruby
-dd_acorn|hms_sheldrake,Sheldrake,Sheldrake
+dd_acorn|hms_sheldrake,Sheldrake,Shelduck
 dd_acorn|hms_staunch,Staunch,Staunch
 dd_acre|acre,Acre,Acre
 dd_acre|ajuricaba,Ajuricaba,Ajuricaba
@@ -5825,7 +5825,7 @@ dd_akizuki|jds_teruzuki,Teruzuki,Shining Moon
 dd_alava|alava,Alava,Alava
 dd_alava|liniers,Liniers,Liniers
 dd_albacore|hms_albacore,Albacore,Albacore
-dd_albacore|hms_bonetta,Bonetta,Bonetta
+dd_albacore|hms_bonetta,Bonetta,Bonito
 dd_albatross|hms_albatross,Albatross,Albatross
 dd_alesund|i,I,I
 dd_alesund|i,TA7,TA7
@@ -5971,14 +5971,14 @@ dd_amazonas|apa,Apa,Apa
 dd_amazonas|araguari,Araguari,Araguari
 dd_amazonas|araguaya,Araguaya,Araguaya
 dd_ambuscade|hms_ambuscade,Ambuscade,Ambuscade
-dd_angler|hms_angler,Angler,Angler
+dd_angler|hms_angler,Angler,Anglerfish
 dd_angler|hms_ariel,Ariel,Ariel
 dd_aquilone|aquilone,Aquilone,Aquilone
 dd_aquilone|borea,Borea,Borea
 dd_aquilone|espero,Espero,Espero
 dd_aquilone|espero,Turbine,Turbine
 dd_aquilone|zeffiro,Zeffiro,Zeffiro
-dd_arab|hms_arab,Arab,Arab
+dd_arab|hms_arab,Arab,Arabs
 dd_arabe|algerien,Algerien,Algerien
 dd_arabe|annamite,Annamite,Annamite
 dd_arabe|arabe,Arabe,Arabe
@@ -5991,14 +5991,14 @@ dd_arabe|senegalais,Senegalais,Senegalais
 dd_arabe|somali,Somali,Somali
 dd_arabe|tonkinois,Tonkinois,Tonkinois
 dd_arabe|touareg,Touareg,Touareg
-dd_archeron_ran|hmas_huon,Huon,Huon
-dd_archeron_ran|hmas_parramatta,Parramatta,Parramatta
-dd_archeron_ran|hmas_swan,Swan,Swan
-dd_archeron_ran|hmas_torrens,Torrens,Torrens
-dd_archeron_ran|hmas_warrego,Warrego,Warrego
-dd_archeron_ran|hmas_yarra,Yarra,Yarra
-dd_archeron|hms_acheron,Acheron,Acheron
-dd_archeron|hms_archer,Archer,Archer
+dd_archeron_ran|hmas_huon,Huon,"Huon River, Tasmania, Australia"
+dd_archeron_ran|hmas_parramatta,Parramatta,"Parramatta River, New South Wales, Australia"
+dd_archeron_ran|hmas_swan,Swan,"Swam River, Western Australia"
+dd_archeron_ran|hmas_torrens,Torrens,"River Torrens, South Australia, Australia"
+dd_archeron_ran|hmas_warrego,Warrego,"Warrego River, Queensland, Australia"
+dd_archeron_ran|hmas_yarra,Yarra,"Yarra River, Victoria, Australia"
+dd_archeron|hms_acheron,Acheron,"Acheron, Greece"
+dd_archeron|hms_archer,Archer,Soldier (Archer)
 dd_archeron|hms_ariel,Ariel,Ariel
 dd_archeron|hms_attack,Attack,Attack
 dd_archeron|hms_badger,Badger,Badger
@@ -6006,20 +6006,20 @@ dd_archeron|hms_beaver,Beaver,Beaver
 dd_archeron|hms_defender,Defender,Defender
 dd_archeron|hms_druid,Druid,Druid
 dd_archeron|hms_ferret,Ferret,Ferret
-dd_archeron|hms_firedrake,Firedrake,Firedrake
+dd_firedrake|hms_firedrake,Firedrake,Wyvern (Fire)
 dd_archeron|hms_forester,Forester,Forester
 dd_archeron|hms_goshawk,Goshawk,Goshawk
-dd_archeron|hms_hind,Hind,Hind
+dd_archeron|hms_hind,Hind,Roe Deer (Female)
 dd_archeron|hms_hornet,Hornet,Hornet
-dd_archeron|hms_hydra,Hydra,Hydra
+dd_archeron|hms_hydra,Hydra,Lernaean Hydra
 dd_archeron|hms_jackal,Jackal,Jackal
 dd_archeron|hms_lapwing,Lapwing,Lapwing
 dd_archeron|hms_lizard,Lizard,Lizard
-dd_archeron|hms_lurcher,Lurcher,Lurcher
-dd_archeron|hms_oak,Oak,Oak
+dd_firedrake|hms_lurcher,Lurcher,Dog (Lurcher)
+dd_firedrake|hms_oak,Oak,Oak Tree
 dd_archeron|hms_phoenix,Phoenix,Phoenix
 dd_archeron|hms_sandfly,Sandfly,Sandfly
-dd_archeron|hms_tigress,Tigress,Tigress
+dd_archeron|hms_tigress,Tigress,Tiger (Female)
 dd_ardent|hms_ardent,Ardent,Ardent
 dd_ardent|hms_boxer,Boxer,Boxer
 dd_ardent|hms_bruizer,Bruizer,Bruizer
@@ -6051,8 +6051,8 @@ dd_artigliere|corazziere,Corazziere,Corazziere
 dd_artigliere|garibaldino,Garibaldino,Garibaldino
 dd_artigliere|granatiere,Granatiere,Granatiere
 dd_artigliere|lanciere,Lanciere,Lanciere
-dd_arun|hms_arun,Arun,Arun
-dd_arun|hms_blackwater,Blackwater,Blackwater
+dd_arun|hms_arun,Arun,"River Arun, England, UK"
+dd_arun|hms_blackwater,Blackwater,"River Blackwater, England, UK"
 dd_asakaze|asakaze,Asakaze,Morning Wind
 dd_asakaze|asatsuyu,Asatsuyu,Morning Dew
 dd_asakaze|ayanami,Ayanami,Beautiful Waves
@@ -6104,7 +6104,7 @@ dd_audaz_1897|proserpina,Proserpina,Proserpina
 dd_audaz|audaz,Audaz,Audaz
 dd_audaz|meteoro,Meteoro,Meteoro
 dd_audaz|osado,Osado,Osado
-dd_avon|hms_avon,Avon,Avon
+dd_avon|hms_avon,Avon,"River Avon, England, UK"
 dd_avon|hms_bittern,Bittern,Bittern
 dd_avon|hms_otter,Otter,Otter
 dd_aylwin|uss_aylwin,Aylwin,John Cushing Aylwin
@@ -6112,14 +6112,14 @@ dd_aylwin|uss_balch,Balch,George Balch
 dd_aylwin|uss_benham,Benham,Andrew Ellicott Kennedy Benham
 dd_aylwin|uss_parker,Parker,Foxhall A. Parker Jr.
 dd_b|hms_basilisk,Basilisk,Basilisk
-dd_b|hms_beagle,Beagle,Beagle
+dd_b|hms_beagle,Beagle,Dog (Beagle)
 dd_b|hms_blanche,Blanche,Blanche
 dd_b|hms_boadicea,Boadicea,Boadicea
 dd_b|hms_boreas,Boreas,Boreas
 dd_b|hms_boreas,Salamis,Salamis
 dd_b|hms_brazen,Brazen,Brazen
 dd_b|hms_brilliant,Brilliant,Brilliant
-dd_b|hms_bulldog,Bulldog,Bulldog
+dd_b|hms_bulldog,Bulldog,Dog (Bulldog)
 dd_b|hms_keith,Keith,Keith
 dd_b122|b122,B122,B122
 dd_b122|b123,B123,B123
@@ -6180,18 +6180,18 @@ dd_battleaxe|hms_scorpion,Scorpion,Scorpion
 dd_battleaxe|hms_spear,Spear,Spear
 dd_battleaxe|hms_sword,Sword,Sword
 dd_beagle|hms_basilisk,Basilisk,Basilisk
-dd_beagle|hms_beagle,Beagle,Beagle
-dd_beagle|hms_bulldog,Bulldog,Bulldog
-dd_beagle|hms_foxhound,Foxhound,Foxhound
+dd_beagle|hms_beagle,Beagle,Dog (Beagle)
+dd_beagle|hms_bulldog,Bulldog,Dog (Bulldog)
+dd_beagle|hms_foxhound,Foxhound,Dog (Foxhound)
 dd_beagle|hms_grasshopper,Grasshopper,Grasshopper
 dd_beagle|hms_harpy,Harpy,Harpy
 dd_beagle|hms_mosquito,Mosquito,Mosquito
-dd_beagle|hms_nautilus,Grampus,Grampus
+dd_beagle|hms_nautilus,Grampus,Risso's Dolphin
 dd_beagle|hms_nautilus,Nautilus,Nautilus
-dd_beagle|hms_pincher,Pincher,Pincher
+dd_beagle|hms_pincher,Pincher,Dog (Pinscher)
 dd_beagle|hms_racoon,Racoon,Racoon
 dd_beagle|hms_rattlesnake,Rattlesnake,Rattlesnake
-dd_beagle|hms_renard,Renard,Renard
+dd_beagle|hms_renard,Renard,Fox
 dd_beagle|hms_savage,Savage,Savage
 dd_beagle|hms_scorpion,Scorpion,Scorpion
 dd_beagle|hms_scourge,Scourge,Scourge
@@ -6346,9 +6346,9 @@ dd_boykiy|zorkiy,Zorkiy,Zorkiy
 dd_boykiy|zvonkiy,Doxa,Doxa
 dd_boykiy|zvonkiy,R14,R14
 dd_boykiy|zvonkiy,Zvonkiy,Zvonkiy
-dd_boyne|hms_boyne,Boyne,Boyne
-dd_boyne|hms_doon,Doon,Doon
-dd_boyne|hms_kale,Kale,Kale
+dd_boyne|hms_boyne,Boyne,"River Boyne, Ireland"
+dd_boyne|hms_doon,Doon,"River Doon, Scotland, UK"
+dd_boyne|hms_kale,Kale,"Kale Water, Scotland, UK"
 dd_branlebas|branlebas,Branlebas,Branlebas
 dd_branlebas|etendard,Etendard,Etendard
 dd_branlebas|fanfare,Fanfare,Fanfare
@@ -6515,10 +6515,10 @@ dd_chasseur|actee,Teniente Rodriguez,Teniente Rodriguez
 dd_chasseur|chasseur,Chasseur,Chasseur
 dd_cheerful|hms_cheerful,Cheerful,Cheerful
 dd_cheerful|hms_mermaid,Mermaid,Mermaid
-dd_chelmer|hms_chelmer,Chelmer,Chelmer
-dd_chelmer|hms_colne,Colne,Colne
-dd_cherwell|hms_cherwell,Cherwell,Cherwell
-dd_cherwell|hms_dee,Dee,Dee
+dd_chelmer|hms_chelmer,Chelmer,"River Chelmer, England, UK"
+dd_chelmer|hms_colne,Colne,"River Colne, England, UK"
+dd_cherwell|hms_cherwell,Cherwell,"River Cherwell, England, UK"
+dd_cherwell|hms_dee,Dee,"River Dee, Wales, UK"
 dd_ching_po|ching_po,Ascaro,Ascaro
 dd_ching_po|ching_po,Ching Po,Ching Po
 dd_churucca_1928|alcala_galiano,Alcala Galiano,Alcala Galiano
@@ -6678,24 +6678,24 @@ dd_comandanti|comandante_margottini,Comandante Margottini,Comandante Margottini
 dd_comandanti|comandante_ruta,Comandante Ruta,Comandante Ruta
 dd_comandanti|comandante_toscano,Comandante Toscano,Comandante Toscano
 dd_conflict|hms_conflict,Conflict,Conflict
-dd_conflict|hms_teazer,Teazer,Teazer
+dd_conflict|hms_teazer,Teazer,Teaser
 dd_conflict|hms_wizard,Wizard,Wizard
 dd_conner_1916|uss_conner,Conner,David Conner
 dd_conner_1916|uss_conner,Leeds,"Leeds, England, UK"
 dd_conner_1916|uss_stockton,Ludlow,"Ludlow, England, UK"
 dd_conner_1916|uss_stockton,Stockton,Robert F. Stockton
 dd_coquette|hms_coquette,Coquette,Coquette
-dd_coquette|hms_cygnet,Cygnet,Cygnet
-dd_coquette|hms_cynthia,Cynthia,Cynthia
+dd_coquette|hms_cygnet,Cygnet,Swam (Young)
+dd_coquette|hms_cynthia,Cynthia,Artemis
 dd_corrientes|ara_corrientes,Corrientes,Corrientes
 dd_corrientes|ara_entre_rios,Entre Rios,Entre Rios
 dd_corrientes|ara_misiones,Misiones,Misiones
 dd_corrientes|ara_santa_fe,Santa Fe,Santa Fe
 dd_cossack|hms_afridi,Afridi,Afridi
-dd_cossack|hms_cossack,Cossack,Cossack
-dd_cossack|hms_ghurka,Ghurka,Ghurka
+dd_cossack|hms_cossack,Cossack,Cossacks
+dd_cossack|hms_ghurka,Ghurka,Nepalis
 dd_cossack|hms_mohawk,Mohawk,Mohawk
-dd_cossack|hms_tartar,Tartar,Tartar
+dd_cossack|hms_tartar,Tartar,Tatars
 dd_cr|hmcs_crescent,Crescent,Crescent
 dd_cr|hmcs_crusader,Crusader,Crusader
 dd_cr|hms_creole,Creole,Creole
@@ -6728,23 +6728,23 @@ dd_d|hms_duchess,Duchess,Duchess
 dd_d|hms_duncan,Duncan,Duncan
 dd_daring_1895|hms_daring,Daring,Daring
 dd_daring_1895|hms_decoy,Decoy,Decoy
-dd_daring|hms_dainty,Dainty,Dainty
-dd_daring|hms_daring,Daring,Daring
-dd_daring|hms_decoy,Decoy,Decoy
-dd_daring|hms_decoy,Ferre,Ferre
-dd_daring|hms_defender,Defender,Defender
-dd_daring|hms_delight,Delight,Delight
-dd_daring|hms_diamond,Diamond,Diamond
-dd_daring|hms_diana,Diana,Diana
-dd_daring|hms_diana,Palacios,Palacios
-dd_daring|hms_duchess,Duchess,Duchess
+dd_daring|hms_dainty,Dainty,
+dd_daring|hms_daring,Daring,
+dd_daring|hms_decoy,Decoy,
+dd_daring|hms_decoy,Ferre,
+dd_daring|hms_defender,Defender,
+dd_daring|hms_delight,Delight,
+dd_daring|hms_diamond,Diamond,
+dd_daring|hms_diana,Diana,
+dd_daring|hms_diana,Palacios,
+dd_daring|hms_duchess,Duchess,
 dd_demirhisar|demirhisar,Demirhisar,Demirhisar
 dd_demirhisar|gayret,Gayret,Gayret
 dd_demirhisar|gayret,Ithuriel,Ithuriel
 dd_demirhisar|muavenet,Inconstant,Inconstant
 dd_demirhisar|muavenet,Muavenet,Muavenet
 dd_demirhisar|sultanhisar,Sultanhisar,Sultanhisar
-dd_derwent|hms_derwent,Derwent,Derwent
+dd_derwent|hms_derwent,Derwent,"River Derwent, England, UK"
 dd_desperate|hms_desperate,Desperate,Desperate
 dd_desperate|hms_fame,Fame,Fame
 dd_desperate|hms_foam,Foam,Foam
@@ -6804,12 +6804,12 @@ dd_e|hms_encounter,Encounter,Encounter
 dd_e|hms_escapade,Escapade,Escapade
 dd_e|hms_escort,Escort,Escort
 dd_earnest|hms_earnest,Earnest,Earnest
-dd_earnest|hms_griffon,Griffon,Griffon
+dd_earnest|hms_griffon,Griffon,Griffin
 dd_earnest|hms_locust,Locust,Locust
 dd_earnest|hms_panther,Panther,Panther
 dd_earnest|hms_seal,Seal,Seal
 dd_earnest|hms_wolf,Wolf,Wolf
-dd_eden|hms_eden,Eden,Eden
+dd_eden|hms_eden,Eden,"River Eden, England, UK"
 dd_ehrenskold|ehrenskold,Ehrenskold,Ehrenskold
 dd_ehrenskold|nordenskjold,Nordenskjold,Nordenskjold
 dd_emir_bukharskiy|dobrovolets,Dobrovolets,Dobrovolets
@@ -6829,19 +6829,19 @@ dd_enseigne_roux|enseigne_roux,Enseigne Roux,Enseigne Roux
 dd_enseigne_roux|mecanicien_principal_lestin,Mecanicien Principal Lestin,Mecanicien Principal Lestin
 dd_epervier|epervier,Epervier,Epervier
 dd_epervier|milan,Milan,Milan
-dd_erne|hms_erne,Erne,Erne
-dd_erne|hms_ettrick,Ettrick,Ettrick
-dd_erne|hms_exe,Exe,Exe
+dd_erne|hms_erne,Erne,"River Erne, Ireland"
+dd_erne|hms_ettrick,Ettrick,"Ettrick Water, Scotland, UK"
+dd_erne|hms_exe,Exe,"River Exe, England, UK"
 dd_express|hms_express,Express,Express
 dd_f|hms_fame,Fame,Fame
 dd_f|hms_fearless,Fearless,Fearless
-dd_f|hms_firedrake,Firedrake,Firedrake
+dd_f|hms_firedrake,Firedrake,Wyvern (Fire)
 dd_f|hms_foresight,Foresight,Foresight
 dd_f|hms_forester,Forester,Forester
 dd_f|hms_fortune,Fortune,Fortune
 dd_f|hms_fortune,Saskatchewan,Saskatchewan
-dd_f|hms_foxhound,Foxhound,Foxhound
-dd_f|hms_foxhound,Qu'Appelle,Qu'Appelle
+dd_f|hms_foxhound,Foxhound,Dog (Foxhound)
+dd_f|hms_foxhound,Qu'Appelle,
 dd_f|hms_fury,Fury,Fury
 dd_falcon|hms_falcon,Falcon,Falcon
 dd_falcon|hms_ostrich,Ostrich,Ostrich
@@ -6853,12 +6853,12 @@ dd_farragut|uss_hull,Hull,Isaac Hull
 dd_farragut|uss_macdonough,MacDonough,Thomas Macdonough Jr.
 dd_farragut|uss_monaghan,Monaghan,John R. Monaghan
 dd_farragut|uss_worden,Worden,John Lorimer Worden
-dd_fawn|hms_fawn,Fawn,Fawn
-dd_fawn|hms_flirt,Flirt,Flirt
+dd_star|hms_fawn,Fawn,Deer (Young)
+dd_star|hms_flirt,Flirt,Dart
 dd_ferret|hms_ferret,Ferret,Ferret
 dd_ferret|hms_lynx,Lynx,Lynx
 dd_fervent|hms_fervent,Fervent,Fervent
-dd_fervent|hms_zephyr,Zephyr,Zephyr
+dd_fervent|hms_zephyr,Zephyr,Zephyrus
 dd_fidonisi|fidonisi,Fidonisi,Fidonisi
 dd_fidonisi|gajibey,Gajibey,Gajibey
 dd_fidonisi|kaliakriya,Dzerzhinskiy,Dzerzhinskiy
@@ -7128,8 +7128,8 @@ dd_forest_sherman|uss_parsons,Parsons,William Sterling Parsons
 dd_forest_sherman|uss_richard_s_edwards,Richard S. Edwards,Richard Stanislaus Edwards
 dd_forest_sherman|uss_somers,Somers,Richard Somers
 dd_forest_sherman|uss_turner_joy,Turner Joy,Charles Turner Joy
-dd_foyle|hms_foyle,Foyle,Foyle
-dd_foyle|hms_itchen,Itchen,Itchen
+dd_foyle|hms_foyle,Foyle,"River Foyle, Ireland"
+dd_foyle|hms_itchen,Itchen,"River Itchen, England, UK"
 dd_framee|epee,Epee,Epee
 dd_framee|framee,Framee,Framee
 dd_framee|pique,Pique,Pique
@@ -7210,14 +7210,14 @@ dd_g|hms_gipsy,Gipsy,Gipsy
 dd_g|hms_glowworm,Glowworm,Glowworm
 dd_g|hms_grafton,Grafton,Grafton
 dd_g|hms_grenade,Grenade,Grenade
-dd_g|hms_greyhound,Greyhound,Greyhound
+dd_g|hms_greyhound,Greyhound,Dog (Greyhound)
 dd_g|hms_griffin,Griffin,Griffin
 dd_g|hms_griffin,Ottawa,Ottawa
 dd_g119|g119,G119,G119
 dd_g119|g120,G120,G120
 dd_g119|g121,G121,G121
-dd_gala|hms_gala,Gala,Gala
-dd_gala|hms_garry,Garry,Garry
+dd_gala|hms_gala,Gala,"Gala Water, Scotland, UK"
+dd_gala|hms_garry,Garry,"River Garry, Scotland, UK"
 dd_garm|garm,Garm,Garm
 dd_gavriil|gavriil,Gavriil,Gavriil
 dd_gavriil|konstantin,Konstantin,Konstantin
@@ -7392,7 +7392,7 @@ dd_gerard_callenburgh|hnlms_isaac_sweers,Isaac Sweers,Isaac Sweers
 dd_gerard_callenburgh|hnlms_philips_van_almonde,Philips van Almonde,Philips van Almonde
 dd_gerard_callenburgh|hnlms_tjerk_hiddes,Tjerk Hiddes,Tjerk Hiddes
 dd_gipsy|hms_fairy,Fairy,Fairy
-dd_gipsy|hms_gipsy,Gipsy,Gipsy
+dd_gipsy|hms_gipsy,Gipsy,Romani
 dd_gipsy|hms_osprey,Osprey,Osprey
 dd_giuseppe_la_masa|agostino_bertani,Agostino Bertani,Agostino Bertani
 dd_giuseppe_la_masa|agostino_bertani,Enrico Cosenz,Enrico Cosenz
@@ -7447,9 +7447,9 @@ dd_goteborg|stockholm,Stockholm,Stockholm
 dd_greenhalgh|greenhalgh,Greenhalgh,Greenhalgh
 dd_greenhalgh|marcilio_dias,Marcilio Dias,Marcilio Dias
 dd_greenhalgh|mariz_e_barros,Mariz e Barros,Mariz e Barros
-dd_greyhound|hms_greyhound,Greyhound,Greyhound
-dd_greyhound|hms_racehorse,Racehorse,Racehorse
-dd_greyhound|hms_roebuck,Roebuck,Roebuck
+dd_greyhound|hms_greyhound,Greyhound,Dog (Greyhound)
+dd_greyhound|hms_racehorse,Racehorse,Horse (Racehorse)
+dd_greyhound|hms_roebuck,Roebuck,Roe Deer (Male)
 dd_grindley|uss_craven,Craven,Tunis Augustus Macdonough Craven
 dd_grindley|uss_gridley,Gridley,Charles Vernon Gridley
 dd_grindley|uss_maury,Maury,Matthew Fontaine Maury
@@ -7480,17 +7480,17 @@ dd_h|hms_hyperion,Hyperion,Hyperion
 dd_hai_lung|hai_hoha,Hai Hoha,Hai Hoha
 dd_hai_lung|hai_hoha,Leytenant Burakov,Leytenant Burakov
 dd_hai_lung|hai_hse,Hai Hse,Hai Hse
-dd_hai_lung|hai_hse,Takou,Takou
+dd_hai_lung|hai_hse,Takou,"Battle of the Taku Forts, Boxer Rebellion"
 dd_hai_lung|hai_lung,Hai Lung,Hai Lung
-dd_hai_lung|hai_lung,Taku,Taku
+dd_hai_lung|hai_lung,Taku,"Battle of the Taku Forts, Boxer Rebellion"
 dd_hai_lung|hai_ying,Hai Ying,Hai Ying
-dd_hai_lung|hai_ying,Taku,Taku
+dd_hai_lung|hai_ying,Taku,"Battle of the Taku Forts, Boxer Rebellion"
 dd_hamburg|bayern,Bayern,Bayern
 dd_hamburg|hamburg,Hamburg,Hamburg
 dd_hamburg|hessen,Hessen,Hessen
 dd_hamburg|schleswig_holstein,Schleswig-Holstein,Schleswig-Holstein
 dd_handy|hms_handy,Handy,Handy
-dd_handy|hms_hart,Hart,Hart
+dd_handy|hms_hart,Hart,Deer (Male)
 dd_handy|hms_hunter,Hunter,Hunter
 dd_harukaze|jds_harukaze,Harukaze,Spring Wind
 dd_harukaze|jds_yukikaze,Yukikaze,Snowy Wind
@@ -7693,8 +7693,8 @@ dd_kazanets|kazanets,Kazanets,Kazanets
 dd_kazanets|steregushchiy,Steregushchiy,Steregushchiy
 dd_kazanets|strashnyy,Strashnyy,Strashnyy
 dd_kazanets|zabaykalets,Zabaykalets,Zabaykalets
-dd_kennet|hms_jed,Jed,Jed
-dd_kennet|hms_kennet,Kennet,Kennet
+dd_kennet|hms_jed,Jed,"Jed Water, Scotland, UK"
+dd_kennet|hms_kennet,Kennet,"River Kennet, England, UK"
 dd_kestrel|hms_kestrel,Kestrel,Kestrel
 dd_kit|delfin,Besstrashnyy,Besstrashnyy
 dd_kit|delfin,Delfin,Delfin
@@ -7830,8 +7830,8 @@ dd_le_hardi|le_filibustier,Le Filibustier,Le Filibustier
 dd_le_hardi|le_hardi,FR37,FR37
 dd_le_hardi|le_hardi,Le Hardi,Le Hardi
 dd_le_hardi|mameluk,Mameluk,Mameluk
-dd_lee|hms_lee,Lee,Lee
-dd_leopard|hms_leopard,Leopard,Leopard
+dd_lee|hms_lee,Lee,"River Lea, England, UK"
+dd_avon|hms_leopard,Leopard,Leopard
 dd_letun|azard,Artyom,Artyom
 dd_letun|azard,Azard,Azard
 dd_letun|azard,Zinovyev,Zinovyev
@@ -7840,7 +7840,7 @@ dd_letun|desna,Engels,Engels
 dd_letun|letun,Letun,Letun
 dd_letun|samson,Samson,Samson
 dd_letun|samson,Stalin,Stalin
-dd_leven|hms_leven,Leven,Leven
+dd_leven|hms_leven,Leven,"River Leven, Scotland, UK"
 dd_leytenant_burakov|iskusnyy,Iskusnyy,Iskusnyy
 dd_leytenant_burakov|ispolnitelnyy,Ispolnitelnyy,Ispolnitelnyy
 dd_leytenant_burakov|krepkiy,Krepkiy,Krepkiy
@@ -7857,9 +7857,9 @@ dd_leytenant_shestakov|kapitan_saken,Kapitan Saken,Kapitan Saken
 dd_leytenant_shestakov|kapitan_saken,R04,R04
 dd_leytenant_shestakov|leytenant_shestakov,Leytenant Shestakov,Leytenant Shestakov
 dd_leytenant_shestakov|leytenant_zatsaryonnyy,Leytenant Zatsaryonnyy,Leytenant Zatsaryonnyy
-dd_liffey|hms_liffey,Liffey,Liffey
-dd_liffey|hms_moy,Moy,Moy
-dd_liffey|hms_ouse,Ouse,Ouse
+dd_liffey|hms_liffey,Liffey,"River Liffey, Ireland"
+dd_liffey|hms_moy,Moy,"River Moy, Ireland"
+dd_liffey|hms_ouse,Ouse,"River Ouse, England, UK"
 dd_little|uss_bell,Bell,Henry Haywood Bell
 dd_little|uss_bush,Bush,William Sharp Bush
 dd_little|uss_colhoun,Colhoun,Edmund Ross Colhoun
@@ -7898,8 +7898,8 @@ dd_little|uss_thatcher,Thatcher,Henry Knox Thatcher
 dd_little|uss_walker,Walker,John Grimes Walker
 dd_lively|hms_lively,Lively,Lively
 dd_lively|hms_sprightly,Sprightly,Sprightly
-dd_liz_1913|liz,Arno,Arno
-dd_liz_1913|liz,Liz,Liz
+dd_liz_1913|liz,Arno,"River Arno, Tuscany, Italy"
+dd_liz_1913|liz,Liz,"Lis River, Portugal"
 dd_lung_tuan|lung_tuan,Lung Tuan,Lung Tuan
 dd_m_1912|hms_manly,Manly,Manly
 dd_m_1912|hms_mansfield,Mansfield,Mansfield
@@ -7917,7 +7917,7 @@ dd_m_1912|hms_myngs,Myngs,Myngs
 dd_m|hms_mahratta,Mahratta,Mahratta
 dd_m|hms_marne,Maresal Fevzi Cakmak,Maresal Fevzi Cakmak
 dd_m|hms_marne,Marne,Marne
-dd_m|hms_martin,Martin,Martin
+dd_m|hms_martin,Martin,Swallow
 dd_m|hms_matchless,Kilic Ali Pasa,Kilic Ali Pasa
 dd_m|hms_matchless,Matchless,Matchless
 dd_m|hms_meteor,Meteor,Meteor
@@ -8142,8 +8142,8 @@ dd_mutsuki|yayoi,Dai-23,Sequence
 dd_mutsuki|yayoi,Yayoi,Third Month
 dd_mutsuki|yuzuki,Dai-34,Sequence
 dd_mutsuki|yuzuki,Yuzuki,Waxing Moon
-dd_myrmidon|hms_myrmidon,Myrmidon,Myrmidon
-dd_myrmidon|hms_syren,Syren,Syren
+dd_myrmidon|hms_myrmidon,Myrmidon,Myrmidons
+dd_myrmidon|hms_syren,Syren,Siren
 dd_n|hms_napier,Napier,Napier
 dd_n|hms_nepal,Nepal,Nepal
 dd_n|hms_nerissa,Nerissa,Nerissa
@@ -8162,8 +8162,8 @@ dd_nazzario_sauro|francesco_nullo,Francesco Nullo,Francesco Nullo
 dd_nazzario_sauro|nazario_sauro,Nazario Sauro,Nazario Sauro
 dd_nembo|nembo,Nembo,Nembo
 dd_nembo|turbine,Turbine,Turbine
-dd_ness|hms_ness,Ness,Ness
-dd_ness|hms_nith,Nith,Nith
+dd_ness|hms_ness,Ness,"River Ness, Scotland, UK"
+dd_ness|hms_nith,Nith,"River Nith, Scotland, UK"
 dd_niki|aspis,Aspis,Aspis
 dd_niki|doxa,Doxa,Doxa
 dd_niki|niki,Niki,Niki
@@ -8180,7 +8180,7 @@ dd_o|hms_oribi,Oribi,Oribi
 dd_oland|oland,Oland,Oland
 dd_oland|uppland,Uppland,Uppland
 dd_oquendo|oquendo,Oquendo,Oquendo
-dd_orwell|hms_orwell,Orwell,Orwell
+dd_orwell|hms_orwell,Orwell,"River Orwell, England, UK"
 dd_owl|hms_ardent,Ardent,Ardent
 dd_owl|hms_fortune,Fortune,Fortune
 dd_owl|hms_garland,Garland,Garland
@@ -8528,7 +8528,7 @@ dd_r_mod|hms_undine,Undine,Undine
 dd_r_mod|hms_urchin,Urchin,Urchin
 dd_r_mod|hms_ursa,Ursa,Ursa
 dd_r_mod|hms_ursula,Ursula,Ursula
-dd_r|hms_racehorse,Racehorse,Racehorse
+dd_r|hms_racehorse,Racehorse,Horse (Racehorse)
 dd_r|hms_raider,Raider,Raider
 dd_r|hms_raider,Rana,Rana
 dd_r|hms_rapid,Rapid,Rapid
@@ -8536,7 +8536,7 @@ dd_r|hms_redoubt,Ranjit,Ranjit
 dd_r|hms_redoubt,Redoubt,Redoubt
 dd_r|hms_relentless,Relentless,Relentless
 dd_r|hms_rocket,Rocket,Rocket
-dd_r|hms_roebuck,Roebuck,Roebuck
+dd_r|hms_roebuck,Roebuck,Roe Deer (Male)
 dd_r|hms_rotherham,Rajput,Rajput
 dd_r|hms_rotherham,Rotherham,Rotherham
 dd_ragnar|ragnar,Ragnar,Ragnar
@@ -8563,7 +8563,7 @@ dd_rosolino_pilo|pilade_bronzetti,Pilade Bronzetti,Pilade Bronzetti
 dd_rosolino_pilo|pilade_bronzetti,TA35,TA35
 dd_rosolino_pilo|rosolino_pilo,Rosolino Pilo,Rosolino Pilo
 dd_rosolino_pilo|simone_schiaffino,Simone Schiaffino,Simone Schiaffino
-dd_rother|hms_rother,Rother,Rother
+dd_rother|hms_rother,Rother,"River Rother, England, UK"
 dd_russell|uss_buck,Buck,James Buck
 dd_russell|uss_morris,Morris,Charles Morris
 dd_russell|uss_o'brien,O'Brien,Jeremiah O'Brien
@@ -8694,14 +8694,14 @@ dd_san_luis|ara_santiago,Leon,Leon
 dd_san_luis|ara_santiago,Santiago,Santiago
 dd_san_luis|ara_tucuman,Panthir,Panthir
 dd_san_luis|ara_tucuman,Tucuman,Tucuman
-dd_saracen|hms_amazon,Amazon,Amazon
+dd_saracen|hms_amazon,Amazon,Amazons
 dd_saracen|hms_crusader,Crusader,Crusader
 dd_saracen|hms_maori,Maori,Maori
-dd_saracen|hms_nubian,Nubian,Nubian
-dd_saracen|hms_saracen,Saracen,Saracen
+dd_saracen|hms_nubian,Nubian,Nubians
+dd_saracen|hms_saracen,Saracen,Arabs
 dd_saracen|hms_viking,Viking,Viking
 dd_saracen|hms_zubian,Zubian,Zubian
-dd_saracen|hms_zulu,Zulu,Zulu
+dd_saracen|hms_zulu,Zulu,Zulus
 dd_schastlivyy|bystryy,Bystryy,Bystryy
 dd_schastlivyy|bystryy,Frunze,Frunze
 dd_schastlivyy|bystryy,R02,R02
@@ -8775,9 +8775,9 @@ dd_spahi|hussard,Hussard,Hussard
 dd_spahi|lansquenet,Lansquenet,Lansquenet
 dd_spahi|mameluk,Mameluk,Mameluk
 dd_spahi|spahi,Spahi,Spahi
-dd_spitefull|hms_peterel,Peterel,Peterel
+dd_spitefull|hms_peterel,Peterel,Petrel
 dd_spitefull|hms_spiteful,Spiteful,Spiteful
-dd_stag|hms_stag,Stag,Stag
+dd_stag|hms_stag,Stag,Deer (Male)
 dd_star|hms_bat,Bat,Bat
 dd_star|hms_chamois,Chamois,Chamois
 dd_star|hms_crane,Crane,Crane
@@ -8792,8 +8792,8 @@ dd_storozhevoy|razyashchiy,Razyashchiy,Razyashchiy
 dd_storozhevoy|silnyy,Silnyy,Silnyy
 dd_storozhevoy|storozhevoy,Storozhevoy,Storozhevoy
 dd_storozhevoy|stroynyy,Stroynyy,Stroynyy
-dd_stour|hms_stour,Stour,Stour
-dd_stour|hms_test,Test,Test
+dd_stour|hms_stour,Stour,"River Stour, England, UK"
+dd_stour|hms_test,Test,"River Test, England, UK"
 dd_strale|ostro,Ostro,Ostro
 dd_strale|strale,Strale,Strale
 dd_sturgeon|hms_skate,Skate,Skate
@@ -8805,9 +8805,9 @@ dd_sunfish|hms_ranger,Ranger,Ranger
 dd_sunfish|hms_sunfish,Sunfish,Sunfish
 dd_surcouf|duquesne,Duquesne,Duquesne
 dd_surcouf|suffren,Suffren,Suffren
-dd_swale|hms_swale,Swale,Swale
-dd_swale|hms_ure,Ure,Ure
-dd_swale|hms_wear,Wear,Wear
+dd_swale|hms_swale,Swale,"River Swale, England, UK"
+dd_swale|hms_ure,Ure,"River Ure, England, UK"
+dd_swale|hms_wear,Wear,"River Wear, England, UK"
 dd_swordfish|hms_spitfire,Spitfire,Spitfire
 dd_swordfish|hms_swordfish,Swordfish,Swordfish
 dd_t|hms_teazer,Teazer,Teazer
@@ -8960,9 +8960,9 @@ dd_urakaze|kawakaze,Intrepido,Intrepid
 dd_urakaze|kawakaze,Kawakaze,River Wind
 dd_urakaze|kawakaze,TA20,Hull Number
 dd_urakaze|urakaze,Urakaze,Bay Wind
-dd_usk|hms_ribble,Ribble,Ribble
-dd_usk|hms_teviot,Teviot,Teviot
-dd_usk|hms_usk,Usk,Usk
+dd_usk|hms_ribble,Ribble,"River Ribble, England, UK"
+dd_usk|hms_teviot,Teviot,"River Teviot, Scotland, UK"
+dd_usk|hms_usk,Usk,"River Usk, Wales, UK"
 dd_v_1916|hms_vancouver,Vancouver,Vancouver
 dd_v_1916|hms_vancouver,Vimy,Vimy
 dd_v_1916|hms_vanessa,Vanessa,Vanessa
@@ -9017,7 +9017,7 @@ dd_vauguelin|tartu,Tartu,Tartu
 dd_vauguelin|vauquelin,Vauquelin,Vauquelin
 dd_veinte_de_julio|siete_de_agosto,Siete de Agosto,Siete de Agosto
 dd_veinte_de_julio|veinte_de_julio,Veinte de Julio,Veinte de Julio
-dd_velox|hms_velox,Velox,Velox
+dd_velox|hms_velox,Velox,Swift
 dd_vijelie|vartez,Liogkiy,Liogkiy
 dd_vijelie|vartez,Marasesti,Marasesti
 dd_vijelie|vartez,Nibbio,Nibbio
@@ -9031,14 +9031,14 @@ dd_vijelie|vijelie,Sparviero,Sparviero
 dd_vijelie|vijelie,Vijelie,Vijelie
 dd_vijelie|viscul,Falco,Falco
 dd_vijelie|viscul,Melilla,Melilla
-dd_violet|hms_sylvia,Sylvia,Sylvia
+dd_violet|hms_sylvia,Sylvia,Rhea Silvia
 dd_violet|hms_violet,Violet,Violet
 dd_viper|hms_viper,Viper,Viper
 dd_visby|halsingborg,Halsingborg,Halsingborg
 dd_visby|kalmar,Kalmar,Kalmar
 dd_visby|sundsvall,Sundsvall,Sundsvall
 dd_visby|visby,Visby,Visby
-dd_vixen|hms_vixen,Vixen,Vixen
+dd_vixen|hms_vixen,Vixen,Fox (Female)
 dd_voltigeur|tirailleur,Tirailleur,Tirailleur
 dd_voltigeur|voltigeur,Voltigeur,Voltigeur
 dd_voyager|hmas_vampire,Vampire,Vampire
@@ -9155,8 +9155,8 @@ dd_wakatake|yugao,Dai-12,Sequence
 dd_wakatake|yugao,Yugao,Bottle Gourd
 dd_wale|wale,Wale,Wale
 dd_warasdiner|sms_warasdiner,Warasdiner,Warasdiner
-dd_waveney|hms_waveney,Waveney,Waveney
-dd_welland|hms_welland,Welland,Welland
+dd_waveney|hms_waveney,Waveney,"River Waveney, England, UK"
+dd_welland|hms_welland,Welland,"River Welland, England, UK"
 dd_wicher|burza,Burza,Burza
 dd_wicher|wicher,Wicher,Wicher
 dd_wickes|uss_aaron_ward,Aaron Ward,Aaron Ward
@@ -13137,7 +13137,7 @@ gb_porcupine|uss_porcupine,Porcupine,Porcupine
 gb_pursuit|uss_pursuit,Pursuit,Pursuit
 gb_restless|uss_restless,Restless,Restless
 gb_revenge|uss_revenge,Revenge,Revenge
-gb_roebuck|uss_roebuck,Roebuck,Roebuck
+gb_roebuck|uss_roebuck,Roebuck,Roe Deer (Male)
 gb_salamine_1812|salamine,Le Salamine,Le Salamine
 gb_san_jacinto_1839|san_antonio,San Antonio,San Antonio
 gb_san_jacinto_1839|san_bernard,San Bernard,San Bernard
@@ -18553,7 +18553,7 @@ pc_barracouta|hms_barrosa,Barrosa,"Battle of Barrosa, Peninsular War"
 pc_barracouta|hms_blanche,Blanche,Blanche
 pc_barracouta|hms_blonde,Blonde,Blonde
 pc_beagle|hms_basilisk,Basilisk,Basilisk
-pc_beagle|hms_beagle,Beagle,Beagle
+pc_beagle|hms_beagle,Beagle,Dog (Beagle)
 pc_benjamin_constant|benjamin_constant,Benjamin Constant,Benjamin Constant
 pc_blake|hms_blake,Blake,Robert Blake
 pc_blake|hms_blenheim,Blenheim,"Battle of Blenheim, War of the Spanish Succession"
@@ -23392,7 +23392,7 @@ psow_argus|hms_argus,Argus,Argus Panoptes
 psow_barracouta|hms_barracouta,Barracouta,Barracouta
 psow_basilisk|hms_basilisk,Basilisk,Basilisk
 psow_berthollet_1851|berthollet,Berthollet,Berthollet
-psow_bulldog|hms_bulldog,Bulldog,Bulldog
+psow_bulldog|hms_bulldog,Bulldog,Dog (Bulldog)
 psow_bulldog|hms_fury,Fury,Fury
 psow_bulldog|hms_inflexible,Inflexible,Inflexible
 psow_bulldog|hms_scourge,Scourge,Scourge
@@ -23420,7 +23420,7 @@ psow_elan_1843|elan,Elan,Elan
 psow_eumenide_1849|eumenide,Eumenide,Eumenide
 psow_gorgon|hms_goron,Gorgon,Gorgon
 psow_gorgone_1851|gorgone,Gorgone,Gorgone
-psow_hermes|hms_acheron,Acheron,Acheron
+psow_hermes|hms_acheron,Acheron,"Acheron, Greece"
 psow_hermes|hms_hermes,Hermes,Hermes
 psow_hermes|hms_megaera,Megaera,Megaera
 psow_hermes|hms_volcano,Volcano,Volcano
@@ -23789,7 +23789,7 @@ s_black_swan_mod|hms_amethyst,Amethyst,Amethyst
 s_black_swan_mod|hms_chanticleer,Chanticleer,Chanticleer
 s_black_swan_mod|hms_crane,Crane,Crane
 s_black_swan_mod|hms_cygnet,Cygnet,Cygnet
-s_black_swan_mod|hms_hart,Hart,Hart
+s_black_swan_mod|hms_hart,Hart,Deer (Male)
 s_black_swan_mod|hms_hart,Scheer,Scheer
 s_black_swan_mod|hms_hind,Hind,Hind
 s_black_swan_mod|hms_kite,Kite,Kite
@@ -23799,13 +23799,13 @@ s_black_swan_mod|hms_magpie,Magpie,Magpie
 s_black_swan_mod|hms_mermaid,Mermaid,Mermaid
 s_black_swan_mod|hms_mermaid,Scharnhorst,Scharnhorst
 s_black_swan_mod|hms_modeste,Modeste,Modeste
-s_black_swan_mod|hms_nereide,Nereide,Nereide
+s_black_swan_mod|hms_nereide,Nereide,Nereids
 s_black_swan_mod|hms_nonsuch,Nonsuch,Nonsuch
-s_black_swan_mod|hms_nymphe,Nymphe,Nymphe
+s_black_swan_mod|hms_nymphe,Nymphe,Nymph
 s_black_swan_mod|hms_opossum,Opossum,Opossum
 s_black_swan_mod|hms_peacock,Peacock,Peacock
 s_black_swan_mod|hms_pheasant,Pheasant,Pheasant
-s_black_swan_mod|hms_redpole,Redpole,Redpole
+s_black_swan_mod|hms_redpole,Redpole,Redpoll
 s_black_swan_mod|hms_snipe,Snipe,Snipe
 s_black_swan_mod|hms_sparrow,Sparrow,Sparrow
 s_black_swan_mod|hms_starling,Starling,Starling
@@ -23990,7 +23990,7 @@ sf_amazon_1773|hms_andromache,Andromache,Andromache
 sf_amazon_1773|hms_blonde,Blonde,Blonde
 sf_amazon_1773|hms_castor,Castor,Castor
 sf_amazon_1773|hms_cleopatra,Cleopatra,Cleopatra
-sf_amazon_1773|hms_greyhound,Greyhound,Greyhound
+sf_amazon_1773|hms_greyhound,Greyhound,Dog (Greyhound)
 sf_amazon_1773|hms_iphigenia,Iphigenia,Iphigenia
 sf_amazon_1773|hms_iris,Iris,Iris
 sf_amazon_1773|hms_juno,Juno,Juno
@@ -24105,7 +24105,7 @@ sf_artemise_1829|flore,La Flore,La Flore
 sf_artemise_1829|gloire,La Gloire,La Gloire
 sf_artemise_1829|hermione,La Hermione,La Hermione
 sf_artemise_1829|junon,La Junon,La Junon
-sf_artemise_1829|nereide,La Nereide,La Nereide
+sf_artemise_1829|nereide,La Nereide,Nereids
 sf_artemise_1829|virginie,La Virginie,La Virginie
 sf_artois|hms_apollo,Apollo,Apollo
 sf_artois|hms_artois,Artois,Artois
@@ -24271,7 +24271,7 @@ sf_consolante_1800|danae,La Danae,La Danae
 sf_consolante_1800|galatee,La Galatee,La Galatee
 sf_consolante_1800|illyrienne,L'Illyrienne,L'Illyrienne
 sf_consolante_1800|italienne,L'Italienne,L'Italienne
-sf_consolante_1800|nereide,La Nereide,La Nereide
+sf_consolante_1800|nereide,La Nereide,Nereids
 sf_consolante_1800|nereide,Madagascar,Madagascar
 sf_consolante_1800|piemontaise,La Piemontaise,La Piemontaise
 sf_consolante_1800|piemontaise,Piemontaise,Piemontaise
@@ -24500,14 +24500,14 @@ sf_gloire_1803|president,President,President
 sf_gloire_1803|topaze,Jewel,Jewel
 sf_gloire_1803|topaze,La Topaze,La Topaze
 sf_gloire_1803|venus,La Venus,La Venus
-sf_gloire_1803|venus,Nereide,Nereide
+sf_gloire_1803|venus,Nereide,Nereids
 sf_gomer_1842|asmodee,L'Asmodee,L'Asmodee
 sf_gomer_1842|gomer,La Gomer,La Gomer
 sf_gracieuse_1750|gracieuse,La Gracieuse,La Gracieuse
 sf_grampus|hms_cato,Cato,Cato
-sf_grampus|hms_grampus,Grampus,Grampus
+sf_grampus|hms_grampus,Grampus,Risso's Dolphin
 sf_greyhound|hms_boreas,Boreas,Boreas
-sf_greyhound|hms_greyhound,Greyhound,Greyhound
+sf_greyhound|hms_greyhound,Greyhound,Dog (Greyhound)
 sf_greyhound|hms_triton,Triton,Triton
 sf_grigory_velikiia_armenii_1791|,Grigory Velikiia Armenii,Grigory Velikiia Armenii
 sf_guelderland_1808|guelderland,Guelderland,Guelderland
@@ -24729,7 +24729,7 @@ sf_lively|hms_lively,Lively,Lively
 sf_lively|hms_macedonian,Macedonian,Macedonian
 sf_lively|hms_menelaus,Menelaus,Menelaus
 sf_lively|hms_nisus,Nisus,Nisus
-sf_lively|hms_nymphe,Nymphe,Nymphe
+sf_lively|hms_nymphe,Nymphe,Nymph
 sf_lively|hms_resistance,Resistance,Resistance
 sf_lively|hms_sirius,Sirius,Sirius
 sf_lively|hms_spartan,Spartan,Spartan
@@ -24871,7 +24871,7 @@ sf_neptun_1754|delfin,Delfin,Delfin
 sf_neptun_1754|delfin,Hoken,Hoken
 sf_neptun_1754|neptun,Falken,Falken
 sf_neptun_1754|neptun,Neptun,Neptun
-sf_nereide_1724|nereide,La Nereide,La Nereide
+sf_nereide_1724|nereide,La Nereide,Nereids
 sf_new_york|uss_new_york,New York,New York
 sf_newcastle|hms_newcastle,Newcastle,Newcastle
 sf_niagara|uss_niagara,Niagara,Niagara
@@ -24886,15 +24886,15 @@ sf_niger_1759|hms_pearl,Pearl,Pearl
 sf_niger_1759|hms_quebec,Quebec,Quebec
 sf_niger_1759|hms_stag,Stag,Stag
 sf_niger_1759|hms_winchelsea,Winchelsea,Winchelsea
-sf_nymfen_1796|nymfen,Nymfen,Nymfen
-sf_nymfen_1796|nymfen,Nymphen,Nymphen
+sf_nymfen_1796|nymfen,Nymfen,
+sf_nymfen_1796|nymfen,Nymphen,
 sf_nymphe_1777|andromaque,L'Andromaque,L'Andromaque
 sf_nymphe_1777|astree,L'Astree,L'Astree
-sf_nymphe_1777|nymphe,La Nymphe,La Nymphe
-sf_nymphe_1777|nymphe,Nymphe,Nymphe
+sf_nymphe_1777|nymphe,La Nymphe,Nymph
+sf_nymphe_1777|nymphe,Nymphe,Nymph
 sf_nymphe_1782|concorde,La Concorde,La Concorde
 sf_nymphe_1782|cybele,La Cybele,La Cybele
-sf_nymphe_1782|nymphe,La Nymphe,La Nymphe
+sf_nymphe_1782|nymphe,La Nymphe,Nymph
 sf_nymphe_1782|thetis,Brune,Brune
 sf_nymphe_1782|thetis,La Thetis,La Thetis
 sf_oden_1764|oden,Oden,Oden
@@ -24971,7 +24971,7 @@ sf_pallas_1808|meuse,La Meuse,La Meuse
 sf_pallas_1808|meuse,Maas,Maas
 sf_pallas_1808|moscava,La Moscava,La Moscava
 sf_pallas_1808|moscava,Medea,Medea
-sf_pallas_1808|nymphe,La Nymphe,La Nymphe
+sf_pallas_1808|nymphe,La Nymphe,Nymph
 sf_pallas_1808|pallas,Le Pallas,Le Pallas
 sf_pallas_1808|piave,La Piave,La Piave
 sf_pallas_1808|precieuse,La Precieuse,La Precieuse
@@ -25160,7 +25160,7 @@ sf_roebuck|hms_janus,Janus,Janus
 sf_roebuck|hms_mediator,Mediator,Mediator
 sf_roebuck|hms_regulus,Regulus,Regulus
 sf_roebuck|hms_resistance,Resistance,Resistance
-sf_roebuck|hms_roebuck,Roebuck,Roebuck
+sf_roebuck|hms_roebuck,Roebuck,Roe Deer (Male)
 sf_roebuck|hms_romulus,Le Romulus,Le Romulus
 sf_roebuck|hms_romulus,Romulus,Romulus
 sf_roebuck|hms_serapis,Serapis,Serapis
@@ -25226,8 +25226,8 @@ sf_shtandart_1824|shtandart,Shtandart,Shtandart
 sf_sibylle_1777|diane,La Diane,La Diane
 sf_sibylle_1777|emeraude,L'Emeraude,L'Emeraude
 sf_sibylle_1777|fine,La Fine,La Fine
-sf_sibylle_1777|nereide,La Nereide,La Nereide
-sf_sibylle_1777|nereide,Nereide,Nereide
+sf_sibylle_1777|nereide,La Nereide,Nereids
+sf_sibylle_1777|nereide,Nereide,Nereids
 sf_sibylle_1777|sibylle,La Sibylle,La Sibylle
 sf_sirene_1744|renommee,Fame,Fame
 sf_sirene_1744|renommee,La Renommee,La Renommee
@@ -26017,7 +26017,7 @@ sol_diamant_1733|diamant,Le Diamant,Le Diamant
 sol_diligente_1762|diligente,La Diligente,La Diligente
 sol_diligente_1762|six_corps,Le Six Corps,Le Six Corps
 sol_diomede|hms_diomede,Diomede,Diomedes
-sol_diomede|hms_tiger,Grampus,Grampus
+sol_diomede|hms_tiger,Grampus,
 sol_dom_joao_vi_1816|dom_joao_vi,Dom Joao VI,Dom Joao VI
 sol_dordrecht_1739|dordrecht,Dordrecht,Dordrecht
 sol_dragon|hms_dragon,Dragon,Dragon
@@ -27313,7 +27313,7 @@ sow_abeille_1801|abeille,L'Abeille,L'Abeille
 sow_abeille_1801|furet,La Furet,La Furet
 sow_abeille_1801|mouche,La Mouche,La Mouche
 sow_abeille_1801|serin,La Serin,La Serin
-sow_acorn|hms_acorn,Acorn,Acorn
+sow_acorn|hms_acorn,Acorn,Oak Tree (Nut)
 sow_acorn|hms_albatross,Albatross,Albatross
 sow_acorn|hms_bittern,Bittern,Bittern
 sow_acorn|hms_despatch,Despatch,Despatch
@@ -27343,7 +27343,7 @@ sow_alacrity|hms_alacrity,Alacrity,Alacrity
 sow_alacrity|hms_algerine,Algerine,Algerine
 sow_alacrity|hms_ariel,Ariel,Ariel
 sow_alacrity|hms_barracouta,Barracouta,Barracouta
-sow_alacrity|hms_beagle,Beagle,Beagle
+sow_alacrity|hms_beagle,Beagle,Dog (Beagle)
 sow_alacrity|hms_brisk,Brisk,Brisk
 sow_alacrity|hms_britomart,Britomart,Britomart
 sow_alacrity|hms_bustard,Bustard,Bustard
@@ -27357,7 +27357,7 @@ sow_alacrity|hms_frolic,Frolic,Frolic
 sow_alacrity|hms_hope,Hope,Hope
 sow_alacrity|hms_jasper,Jasper,Jasper
 sow_alacrity|hms_kingfisher,Kingfisher,Kingfisher
-sow_alacrity|hms_lyra,Lyra,Lyra
+sow_alacrity|hms_lyra,Lyra,Lyra Constellation
 sow_alacrity|hms_magnet,Magnet,Magnet
 sow_alacrity|hms_mutine,Mutine,Mutine
 sow_alacrity|hms_onyx,Onyx,Onyx
@@ -27402,7 +27402,7 @@ sow_arachne|hms_arachne,Arachne,Arachne
 sow_arachne|hms_terpsichore,Terpsichore,Terpsichore
 sow_archer_1801|acute,Acute,Acute
 sow_archer_1801|aggressor,Aggressor,Aggressor
-sow_archer_1801|archer,Archer,Archer
+sow_archer_1801|archer,Archer,Soldier (Archer)
 sow_archer_1801|attack,Attack,Attack
 sow_archer_1801|attentive,Attentive,Attentive
 sow_archer_1801|biter,Biter,Biter
@@ -27444,7 +27444,7 @@ sow_archer_1801|mariner,Mariner,Mariner
 sow_archer_1801|minx,Minx,Minx
 sow_archer_1801|pelter,Pelter,Pelter
 sow_archer_1801|piercer,Piercer,Piercer
-sow_archer_1801|pincher,Pincher,Pincher
+sow_archer_1801|pincher,Pincher,
 sow_archer_1801|plumper,Plumper,Plumper
 sow_archer_1801|plumper_ii,Plumper,Plumper
 sow_archer_1801|protector,Protector,Protector
@@ -27515,7 +27515,7 @@ sow_bayonnaise_1793|bayonnaise,La Bayonnaise,La Bayonnaise
 sow_bayonnaise_1847|bayonnaise,La Bayonnaise,La Bayonnaise
 sow_bayonnaise_1847|capricieuse,La Capricieuse,La Capricieuse
 sow_beaver_1760|beaver,Beaver,Beaver
-sow_beaver_1760|martin,Martin,Martin
+sow_beaver_1760|martin,Martin,Swallow
 sow_beaver_1760|senegal,Le Senegal,Le Senegal
 sow_beaver_1760|senegal,Senegal,Senegal
 sow_belliqueuse_1793|belliqueuse,Belette,Belette
@@ -27533,7 +27533,7 @@ sow_bergere_1794|bergere,La Bergere,La Bergere
 sow_bermuda|hms_atalante,Atalante,Atalante
 sow_bermuda|hms_bermuda,Bermuda,Bermuda
 sow_bermuda|hms_indian,Indian,Indian
-sow_bermuda|hms_martin,Martin,Martin
+sow_bermuda|hms_martin,Martin,Swallow
 sow_bermuda|hms_morgiana,Morgiana,Morgiana
 sow_bermuda|hms_sylph,Sylph,Sylph
 sow_bittern|hms_bittern,Bittern,Bittern
@@ -27543,7 +27543,7 @@ sow_bittern|hms_cyane,Le Cerf,Le Cerf
 sow_bittern|hms_plover,Plover,Plover
 sow_bittern|hms_termagent,Termagent,Termagent
 sow_bloodhound_1801|basilisk,Basilisk,Basilisk
-sow_bloodhound_1801|bloodhound,Bloodhound,Bloodhound
+sow_bloodhound_1801|bloodhound,Bloodhound,Dog (Bloodhound)
 sow_bloodhound_1801|censor,Censor,Censor
 sow_bloodhound_1801|escort,Escort,Escort
 sow_bloodhound_1801|ferreter,Ferreter,Ferreter
@@ -27621,18 +27621,18 @@ sow_cherokee|hms_cherokee,Cherokee,Cherokee
 sow_cherokee|hms_cordelia,Cordelia,Cordelia
 sow_cherokee|hms_drake,Drake,Drake
 sow_cherokee|hms_ephira,Ephira,Ephira
-sow_cherokee|hms_goldfinch,Goldfinch,Goldfinch
+sow_cherokee|hms_goldfinch,Goldfinch,European Goldfinch
 sow_cherokee|hms_helicon,Helicon,Helicon
 sow_cherokee|hms_hope,Hope,Hope
 sow_cherokee|hms_jasper,Jasper,Jasper
 sow_cherokee|hms_leveret,Leveret,Leveret
-sow_cherokee|hms_lyra,Lyra,Lyra
+sow_cherokee|hms_lyra,Lyra,Lyra Constellation
 sow_cherokee|hms_onyx,Onyx,Onyx
 sow_cherokee|hms_opossum,Opossum,Opossum
 sow_cherokee|hms_parthian,Parthian,Parthian
 sow_cherokee|hms_prince_arthur,Prince Arthur,Prince Arthur
-sow_cherokee|hms_redpole,Redpole,Redpole
-sow_cherokee|hms_renald,Renard,Renard
+sow_cherokee|hms_redpole,Redpole,Redpoll
+sow_cherokee|hms_renard,Renard,Fox
 sow_cherokee|hms_rhodian,Rhodian,Rhodian
 sow_cherokee|hms_rinaldo,Rinaldo,Rinaldo
 sow_cherokee|hms_rolla,Rolla,Rolla
@@ -27770,7 +27770,7 @@ sow_cruizer|hms_argus,Argus,Argus Panoptes
 sow_cruizer|hms_avon,Avon,Avon
 sow_cruizer|hms_bacchus,Bacchus,Bacchus
 sow_cruizer|hms_barracouta,Barracouta,Barracouta
-sow_cruizer|hms_beagle,Beagle,Beagle
+sow_cruizer|hms_beagle,Beagle,Dog (Beagle)
 sow_cruizer|hms_belette,Belette,Belette
 sow_cruizer|hms_belette_ii,Belette,Belette
 sow_cruizer|hms_calypso,Calypso,Calypso
@@ -27804,7 +27804,7 @@ sow_cruizer|hms_fairy,Fairy,Fairy
 sow_cruizer|hms_ferret,Ferret,Ferret
 sow_cruizer|hms_fly,Fly,Fly
 sow_cruizer|hms_forester,Forester,Forester
-sow_cruizer|hms_foxhound,Foxhound,Foxhound
+sow_cruizer|hms_foxhound,Foxhound,Dog (Foxhound)
 sow_cruizer|hms_frolic,Frolic,Frolic
 sow_cruizer|hms_gannet,Gannet,Gannet
 sow_cruizer|hms_grasshopper,Grasshopper,Grasshopper
@@ -27839,13 +27839,13 @@ sow_cruizer|hms_philomel,Philomel,Philomel
 sow_cruizer|hms_pilot,Pilot,Pilot
 sow_cruizer|hms_primrose,Primrose,Primrose
 sow_cruizer|hms_procris,Procris,Procris
-sow_cruizer|hms_racehorse,Racehorse,Racehorse
+sow_cruizer|hms_racehorse,Racehorse,Horse (Racehorse)
 sow_cruizer|hms_raindeer,Raindeer,Raindeer
 sow_cruizer|hms_raleigh,Raleigh,Raleigh
 sow_cruizer|hms_raven,Raven,Raven
 sow_cruizer|hms_recruit,Recruit,Recruit
 sow_cruizer|hms_redwing,Redwing,Redwing
-sow_cruizer|hms_rifleman,Rifleman,Rifleman
+sow_cruizer|hms_rifleman,Rifleman,Soldier (Rifleman)
 sow_cruizer|hms_ringdove,Ringdove,Ringdove
 sow_cruizer|hms_rover,Rover,Rover
 sow_cruizer|hms_royalist,Royalist,Royalist
@@ -27977,7 +27977,7 @@ sow_favorite_1829|favorite,La Favorite,La Favorite
 sow_favorite|hms_favorite,Favorite,Favorite
 sow_favorite|hms_hazard,Hazard,Hazard
 sow_favorite|hms_hyacinth,Hyacinth,Hyacinth
-sow_favorite|hms_racehorse,Racehorse,Racehorse
+sow_favorite|hms_racehorse,Racehorse,Horse (Racehorse)
 sow_ferret_1760|ferret,Ferret,Ferret
 sow_fiamma_1807|fiamma,Carlotta,Carlotta
 sow_fiamma_1807|fiamma,La Fiamma,La Fiamma
@@ -28049,7 +28049,7 @@ sow_grecian|hms_arab,Arab,Arab
 sow_grecian|hms_fantome,Fantome,Fantome
 sow_grecian|hms_grecian,Grecian,Grecian
 sow_grecian|hms_mariner,Mariner,Mariner
-sow_grecian|hms_martin,Martin,Martin
+sow_grecian|hms_martin,Martin,Swallow
 sow_grecian|hms_persian,Persian,Persian
 sow_grecian|hms_pilot,Pilot,Pilot
 sow_grigorii_velikiia_armenii_1788|grigorii_velikiia_armenii,Grigorii Velikiia Armenii,Grigorii Velikiia Armenii
@@ -28085,13 +28085,13 @@ sow_hornet_1806|uss_hornet,Hornet,Hornet
 sow_hornet|uss_hornet,Hornet,Hornet
 sow_hound|hms_fury,Fury,Fury
 sow_hound|hms_hound,Hound,Hound
-sow_hound|hms_martin,Martin,Martin
+sow_hound|hms_martin,Martin,Swallow
 sow_hound|hms_rattlesnake,Rattlesnake,Rattlesnake
 sow_hound|hms_serpent,Serpent,Serpent
 sow_hunter_1756|hunter,Hunter,Hunter
 sow_hunter_1756|viper,Viper,Viper
 sow_hunter_1796|hms_hunter,Hunter,Hunter
-sow_hyacinth|hms_acorn,Acorn,Acorn
+sow_hyacinth|hms_acorn,Acorn,Oak Tree (Nut)
 sow_hyacinth|hms_anacreon,Anacreon,Anacreon
 sow_hyacinth|hms_blossom,Blossom,Blossom
 sow_hyacinth|hms_cherub,Cherub,Cherub
@@ -28220,7 +28220,7 @@ sow_maria_1807|maria,La Maria,La Maria
 sow_maria_1807|maria,Maria,Maria
 sow_marion|uss_marion,Marion,Marion
 sow_marion|uss_preble,Preble,Preble
-sow_martin|hms_martin,Martin,Martin
+sow_martin|hms_martin,Martin,Swallow
 sow_mastiff_1797|gb_no_35,Mastiff,Mastiff
 sow_mercure_1806|mercure,Mercure,Mercure
 sow_mercure_1806|mercure,Mercurio,Mercurio
@@ -28235,7 +28235,7 @@ sow_merlin|hms_halifax,Halifax,Halifax
 sow_merlin|hms_helena,Helena,Helena
 sow_merlin|hms_kangaroo,Kangaroo,Kangaroo
 sow_merlin|hms_kingfisher,Kingfisher,Kingfisher
-sow_merlin|hms_martin,Martin,Martin
+sow_merlin|hms_martin,Martin,Swallow
 sow_merlin|hms_merlin,Merlin,Merlin
 sow_merlin|hms_otter,Otter,Otter
 sow_merlin|hms_pheasant,Pheasant,Pheasant
@@ -28288,8 +28288,8 @@ sow_orestes_1803|hms_orestes,Orestes,Orestes
 sow_orestes|hms_orestes,Orestes,Orestes
 sow_osprey|hms_osprey,Osprey,Osprey
 sow_otter_1767|otter,Otter,Otter
-sow_palinure_1804|basque,Foxhound,Foxhound
-sow_palinure_1804|basque,La Basque,La Basque
+sow_palinure_1804|basque,Foxhound,Dog (Foxhound)
+sow_palinure_1804|basque,La Basque,
 sow_palinure_1804|bearnais,Curieux,Curieux
 sow_palinure_1804|bearnais,La Bearnais,La Bearnais
 sow_palinure_1804|colibri,Colibri,Colibri
@@ -28320,7 +28320,7 @@ sow_palinure_1804|pandour,Le Pandour,Le Pandour
 sow_palinure_1804|phaeton,La Phaeton,La Phaeton
 sow_palinure_1804|phaeton,Mignonne,Mignonne
 sow_palinure_1804|pluvier,La Pluvier,La Pluvier
-sow_palinure_1804|renard,La Renard,La Renard
+sow_palinure_1804|renard,La Renard,Fox
 sow_palinure_1804|serpent,Asp,Asp
 sow_palinure_1804|serpent,Le Serpent,Le Serpent
 sow_palinure_1804|sphinx,La Sphinx,La Sphinx
@@ -28336,7 +28336,7 @@ sow_pearl|hms_pearl,Pearl,Pearl
 sow_pelican_1757|pelican,Pelican,Pelican
 sow_perry|uss_perry,Perry,Perry
 sow_pigmy_1806|ranger,Pigmy,Pigmy
-sow_pincher_1797|gb_no_39,Pincher,Pincher
+sow_pincher_1797|gb_no_39,Pincher,
 sow_pobeda_1770|pobeda,Pobeda,Pobeda
 sow_pochtalon_1766|pochtalon,Nikita Muchenik,Nikita Muchenik
 sow_pochtalon_1766|pochtalon,Pochtalon,Pochtalon
@@ -28380,7 +28380,7 @@ sow_quantre_freres|quantre_freres,Scourge,Scourge
 sow_quantre_freres|quantre_freres,Transfer,Transfer
 sow_race_horse|hms_race_horse,Race Horse,Race Horse
 sow_race_horse|hms_race_horse,Surprise,Surprise
-sow_racehorse_1757|racehorse,Racehorse,Racehorse
+sow_racehorse_1757|racehorse,Racehorse,Horse (Racehorse)
 sow_racehorse_1757|racehorse,Thunder,Thunder
 sow_racer|hms_harlequin,Harlequin,Harlequin
 sow_racer|hms_liberty,Liberty,Liberty
@@ -28407,7 +28407,7 @@ sow_rattlesnake|uss_rattlesnake,Rattlesnake,Rattlesnake
 sow_raven_1771|raven,Raven,Raven
 sow_ready_1797|gb_no_42,Ready,Ready
 sow_renard_1762|cameleon,Le Cameleon,Le Cameleon
-sow_renard_1762|renard,Le Renard,Le Renard
+sow_renard_1762|renard,Le Renard,Fox
 sow_renard_1762|seduisant,Le Seduisant,Le Seduisant
 sow_renard_1762|singe,Le Singe,Le Singe
 sow_reolaise_1793|reolaise,Le Reolaise,Le Reolaise
@@ -28450,7 +28450,7 @@ sow_saratoga|uss_plymouth,Plymouth,Plymouth
 sow_saratoga|uss_saratoga,Saratoga,Saratoga
 sow_sardine_1771|sardine,La Sardine,La Sardine
 sow_sardine_1771|sardine,Sardine,Sardine
-sow_satellite|hms_acorn,Acorn,Acorn
+sow_satellite|hms_acorn,Acorn,Oak Tree (Nut)
 sow_satellite|hms_satellite,Satellite,Satellite
 sow_scorpion_1771|etna,Scorpion,Scorpion
 sow_scourge_1779|hms_scourge,Scourge,Scourge
@@ -28631,8 +28631,8 @@ sow_yorktown|uss_dale,Oriole,New World Oriole
 sow_yorktown|uss_decatur,Decatur,Decatur
 sow_yorktown|uss_yorktown,Yorktown,Yorktown
 sow_zebra_1780|ariel,Ariel,Ariel
-sow_zebra_1780|bulldog,Bulldog,Bulldog
-sow_zebra_1780|bulldog,Le Bulldog,Le Bulldog
+sow_zebra_1780|bulldog,Bulldog,Dog (Bulldog)
+sow_zebra_1780|bulldog,Le Bulldog,Dog (Bulldog)
 sow_zebra_1780|serpent,Serpent,Serpent
 sow_zebra_1780|zebra,Zebra,Zebra
 sow_zenobie_1759|zenobie,La Zenobie,La Zenobie
@@ -28694,7 +28694,7 @@ ss_849|858,858,858
 ss_a|uss_adder,A-2,Squence
 ss_a|uss_adder,Adder,Adder
 ss_a|uss_grampus,A-3,Squence
-ss_a|uss_grampus,Grampus,Grampus
+ss_a|uss_grampus,Grampus,Risso's Dolphin
 ss_a|uss_moccasin,A-4,Squence
 ss_a|uss_moccasin,Moccasin,Moccasin
 ss_a|uss_pike,A-5,Squence
@@ -28829,7 +28829,7 @@ ss_ammiraglio_cagni|ammiraglio_cagni,Ammiraglio Cagni,Ammiraglio Cagni
 ss_ammiraglio_cagni|ammiraglio_caracciolo,Ammiraglio Caracciolo,Ammiraglio Caracciolo
 ss_ammiraglio_cagni|ammiraglio_millo,Ammiraglio Millo,Ammiraglio Millo
 ss_ammiraglio_cagni|ammiraglio_saint_bon,Ammiraglio Saint-Bon,Ammiraglio Saint-Bon
-ss_amphion|hms_acheron,Acheron,Acheron
+ss_amphion|hms_acheron,Acheron,"Acheron, Greece"
 ss_amphion|hms_adept,Adept,Adept
 ss_amphion|hms_admirable,Admirable,Admirable
 ss_amphion|hms_adversary,Adversary,Adversary
@@ -28945,8 +28945,8 @@ ss_argonaut|uss_argonaut,Rainbow,Rainbow
 ss_argonaut|uss_conger,Conger,Conger
 ss_argonaut|uss_cutlass,Cutlass,Cutlass
 ss_argonaut|uss_diablo,Diablo,Diablo
-ss_argonaut|uss_grampus,Grampus,Grampus
-ss_argonaut|uss_grampus,Rio Grande do Sul,Rio Grande do Sul
+ss_argonaut|uss_grampus,Grampus,Risso's Dolphin
+ss_argonaut|uss_grampus,Rio Grande do Sul,
 ss_argonaut|uss_grenadier,Grenadier,Grenadier
 ss_argonaut|uss_irex,Irex,Irex
 ss_argonaut|uss_medregal,Medregal,Medregal
@@ -29623,11 +29623,11 @@ ss_gotland|hswms_gotland,Gotland,Gotland
 ss_gotland|hswms_halland,Halland,Halland
 ss_gotland|hswms_uppland,Uppland,Uppland
 ss_grampus|hms_cachalot,Cachalot,Cachalot
-ss_grampus|hms_grampus,Grampus,Grampus
+ss_grampus|hms_grampus,Grampus,Risso's Dolphin
 ss_grampus|hms_narwhal,Narwhal,Narwhal
-ss_grampus|hms_p411,P411,P411
-ss_grampus|hms_p412,P412,P412
-ss_grampus|hms_p413,P413,P413
+ss_grampus|hms_p411,P411,Hull Number
+ss_grampus|hms_p412,P412,Hull Number
+ss_grampus|hms_p413,P413,Hull Number
 ss_grampus|hms_rorqual,Rorqual,Rorqual
 ss_grampus|hms_seal,Seal,Seal
 ss_grampus|hms_seal,UB,UB
@@ -30293,7 +30293,7 @@ ss_narval|narval,Narval,Narval
 ss_natsushio|fuyushio,Fuyushio,
 ss_natsushio|natsushio,Natsushio,Summer Tide
 ss_nautilus|nautilus,Nautilus,Nautilus
-ss_nautilus|nereide,Nereide,Nereide
+ss_nautilus|nereide,Nereide,Nereids
 ss_nazario_sauro|carlo_fecia_di_cossato,Carlo Fecia di Cossato,Carlo Fecia di Cossato
 ss_nazario_sauro|guglielmo_marconi,Guglielmo Marconi,Guglielmo Marconi
 ss_nazario_sauro|leonardo_da_vinci,Leonardo da Vinci,Leonardo da Vinci
@@ -30301,7 +30301,7 @@ ss_nazario_sauro|nazario_sauro,Nazario Sauro,Nazario Sauro
 ss_neptun|hswms_nacken,Nacken,Nacken
 ss_neptun|hswms_najad,Najad,Najad
 ss_neptun|hswms_neptun,Neptun,Neptun
-ss_nereide|nereide,Nereide,Nereide
+ss_nereide|nereide,Nereide,Nereids
 ss_nordenfelt|nordenfelt_i,Nordenfelt I,Nordenfelt I
 ss_o_1|uss_o_1,O-1,Squence
 ss_o_1|uss_o_10,O-10,Squence
@@ -30743,7 +30743,7 @@ ss_pluviose|watt,Watt,Watt
 ss_pochtovyy|pochtovyy,Pochtovyy,Pochtovyy
 ss_porpoise_rn_1955|hms_cachalot,Cachalot,Cachalot
 ss_porpoise_rn_1955|hms_finwhale,Finwhale,Finwhale
-ss_porpoise_rn_1955|hms_grampus,Grampus,Grampus
+ss_porpoise_rn_1955|hms_grampus,Grampus,Risso's Dolphin
 ss_porpoise_rn_1955|hms_narwhal,Narwhal,Narwhal
 ss_porpoise_rn_1955|hms_porpoise,Porpoise,Porpoise
 ss_porpoise_rn_1955|hms_rorqual,Rorqual,Rorqual
@@ -31437,7 +31437,7 @@ ss_rainbow|hms_regulus,Regulus,Regulus
 ss_rainbow|hms_rover,Rover,Rover
 ss_rainbow|hms_royalist,Royalist,Royalist
 ss_rainbow|hms_rupert,Rupert,Rupert
-ss_redoutable|acheron,Acheron,Acheron
+ss_redoutable|acheron,Acheron,"Acheron, Greece"
 ss_redoutable|achille,Achille,Achille
 ss_redoutable|acteon,Acteon,Acteon
 ss_redoutable|ajax,Ajax,Ajax
@@ -32206,7 +32206,7 @@ ss_sirena|anfitrite,Anfitrite,Anfitrite
 ss_sirena|diamante,Diamante,Diamante
 ss_sirena|galatea,Galatea,Galatea
 ss_sirena|naiade,Naiade,Naiade
-ss_sirena|nereide,Nereide,Nereide
+ss_sirena|nereide,Nereide,Nereids
 ss_sirena|ondina,Ondina,Ondina
 ss_sirena|rubino,Rubino,Rubino
 ss_sirena|sirena,Sirena,Sirena
@@ -32219,7 +32219,7 @@ ss_sirene_1900|sirene,Sirene,Sirene
 ss_sirene_1900|triton,Triton,Triton
 ss_sirene|galathee,Galathee,Galathee
 ss_sirene|naiade,Naiade,Naiade
-ss_sirene|nymphe,Nymphe,Nymphe
+ss_sirene|nymphe,Nymphe,Nymph
 ss_sirene|sirene,Sirene,Sirene
 ss_sjolejonet|hswms_dykaren,Dykaren,Dykaren
 ss_sjolejonet|hswms_sjobjornen,Sjobjornen,Sjobjornen
@@ -32424,7 +32424,7 @@ ss_triton_rn|hms_triton,Triton,Triton
 ss_triton_rn|hms_triumph,Triumph,Triumph
 ss_triton_rn|hms_truant,Truant,Truant
 ss_triton_rn|hms_tuna,Tuna,Tuna
-ss_triton|uss_grampus,Grampus,Grampus
+ss_triton|uss_grampus,Grampus,Risso's Dolphin
 ss_triton|uss_grayback,Grayback,Grayback
 ss_triton|uss_grenadier,Grenadier,Grenadier
 ss_triton|uss_gudgeon,Gudgeon,Gudgeon
@@ -36021,14 +36021,14 @@ ssow_amazon|hms_amazon,Amazon,Amazon
 ssow_amazon|hms_daphne,Daphne,Daphne
 ssow_amazon|hms_dryad,Dryad,Dryad
 ssow_amazon|hms_niobe,Niobe,Niobe
-ssow_amazon|hms_nymphe,Nymphe,Nymphe
+ssow_amazon|hms_nymphe,Nymphe,Nymph
 ssow_amazon|hms_vestal,Vestal,Vestal
 ssow_amethyst|hms_amethst,Amethyst,Amethyst
 ssow_amethyst|hms_diamond,Diamond,Diamond
 ssow_amethyst|hms_encounter,Encounter,Encounter
 ssow_amethyst|hms_modeste,Modeste,Modeste
 ssow_amethyst|hms_sapphire,Sapphire,Sapphire
-ssow_archer|hms_archer,Archer,Archer
+ssow_archer|hms_archer,Archer,Soldier (Archer)
 ssow_archer|hms_wasp,Wasp,Wasp
 ssow_bacchante|hms_bacchante,Bacchante,Bacchante
 ssow_bacchante|hms_boadicea,Boadicea,Boadicea
@@ -36037,7 +36037,7 @@ ssow_biche_1848|biche,Biche,Biche
 ssow_bismarck|bismarck,Bismarck,Bismarck
 ssow_bismarck|blucher,Blucher,Blucher
 ssow_bismarck|gneisenau,Gneisenau,Gneisenau
-ssow_bismarck|moltke,Acheron,Acheron
+ssow_bismarck|moltke,Acheron,"Acheron, Greece"
 ssow_bismarck|moltke,Moltke,Moltke
 ssow_bismarck|stein,Stein,Stein
 ssow_bismarck|stosch,Stosch,Stosch
@@ -36182,7 +36182,7 @@ ssow_galena|uss_galena,Galena,Galena
 ssow_galena|uss_swatara,Swatara,Swatara
 ssow_georgia|css_georgia,Georgia,Georgia
 ssow_georgiana|css_georgiana,Georgiana,Georgiana
-ssow_greyhound|hms_greyhound,Greyhound,Greyhound
+ssow_greyhound|hms_greyhound,Greyhound,Dog (Greyhound)
 ssow_greyhound|hms_mutine,Mutine,Mutine
 ssow_guichen_1866|bouvet,Bouvet,Bouvet
 ssow_guichen_1866|bruat,Bruat,Bruat
@@ -36216,12 +36216,12 @@ ssow_laplace_1852|primauguet,Primauguet,Primauguet
 ssow_limier_1868|d_estrees,D'Estrees,"Victor-Marie d'Estrees, 5th Duke of Estrees"
 ssow_limier_1868|hamelin,Hamelin,Jacques Felix Emmanuel Hamelin
 ssow_limier_1868|hermitte,L'Hermitte,Jean-Marthe-Adrien l'Hermite
-ssow_limier_1868|limier,Limier,Bloodhound
+ssow_limier_1868|limier,Limier,Dog (Bloodhound)
 ssow_limier_1868|volta,Volta,"Volta River, Ghana"
 ssow_linois_1868|linois,Linois,Charles-Alexandre Leon Durand Linois
 ssow_malacca|hms_malacca,Malacca,Malacca
 ssow_malacca|hms_malacca,Tsukuba,Tsukuba
-ssow_mariner|hms_acorn,Acorn,Acorn
+ssow_mariner|hms_acorn,Acorn,Oak Tree (Nut)
 ssow_mariner|hms_icarus,Icarus,Icarus
 ssow_mariner|hms_mariner,Mariner,Mariner
 ssow_mariner|hms_melita,Melita,Melita
@@ -36250,7 +36250,7 @@ ssow_north_star|hms_north_star,North Star,North Star
 ssow_north_star|hms_ontario,Ontario,Ontario
 ssow_north_star|hms_weymouth,Weymouth,Weymouth
 ssow_nymphe|hms_buzzard,Buzzard,Buzzard
-ssow_nymphe|hms_nymphe,Nymphe,Nymphe
+ssow_nymphe|hms_nymphe,Nymphe,Nymph
 ssow_osprey|hms_cormorant,Cormorant,Cormorant
 ssow_osprey|hms_osprey,Osprey,Osprey
 ssow_osprey|hms_pelican,Pelican,Pelican
@@ -36284,12 +36284,12 @@ ssow_racer|hms_icarus,Icarus,Icarus
 ssow_racer|hms_pantaloon,Pantaloon,Pantaloon
 ssow_racer|hms_racer,Racer,Racer
 ssow_rattler|hms_rattler,Rattler,Rattler
-ssow_renard_1867|renard,Renard,Renard
+ssow_renard_1867|renard,Renard,Fox
 ssow_reynard|hms_reynard,Reynard,Reynard
 ssow_rigault_de_genouilly_1878|eclaireur,Eclaireur,Scout
 ssow_rigault_de_genouilly_1878|rigault_de_genouilly,Rigault de Genouilly,Charles Rigault de Genouilly
 ssow_roland_1851|roland,Roland,Roland
-ssow_rosario|hms_acheron,Acheron,Acheron
+ssow_rosario|hms_acheron,Acheron,"Acheron, Greece"
 ssow_rosario|hms_africa,Africa,Africa
 ssow_rosario|hms_bittern,Bittern,Bittern
 ssow_rosario|hms_circassian,Circassian,Circassian
@@ -36327,7 +36327,7 @@ ssow_shenandoah|css_shenandoah,Shenandoah,Shenandoah
 ssow_sumter|css_sumter,Sumter,Sumter
 ssow_swallow_1854|hms_ariel,Ariel,Ariel
 ssow_swallow_1854|hms_curlew,Curlew,Curlew
-ssow_swallow_1854|hms_lyra,Lyra,Lyra
+ssow_swallow_1854|hms_lyra,Lyra,Lyra Constellation
 ssow_swallow_1854|hms_swallow,Swallow,Swallow
 ssow_swallow|hms_daphne,Daphne,Daphne
 ssow_swallow|hms_swallow,Swallow,Swallow
@@ -37015,17 +37015,29 @@ tb_condore_1900|condore,Condore,Condore
 tb_corsaire_1893|corsaire,Corsaire,Corsaire
 tb_countess_of_hopetown_1890|hmas_countess_of_hopetown,Countess of Hopetown,Countess of Hopetown
 tb_coureur_1888|coureur,Coureur,Coureur
+tb_criket_1906|cricket,Cricket,Cricket
 tb_criket_1906|cricket,TB1,Hull Number
+tb_criket_1906|dragonfly,Dragonfly,Dragonfly
 tb_criket_1906|dragonfly,TB2,Hull Number
+tb_criket_1906|firefly,Firefly,Firefly
 tb_criket_1906|firefly,TB3,Hull Number
+tb_criket_1906|gadfly,Gadfly,Gadfly
 tb_criket_1906|gadfly,TB6,Hull Number
+tb_criket_1906|glowworm,Glowworm,Glowworm
 tb_criket_1906|glowworm,TB7,Hull Number
+tb_criket_1906|gnat,Gnat,Gnat
 tb_criket_1906|gnat,TB8,Hull Number
+tb_criket_1906|grasshopper,Grasshopper,Grasshopper
 tb_criket_1906|grasshopper,TB9,Hull Number
+tb_criket_1906|greenfly,Greenfly,Greenfly
 tb_criket_1906|greenfly,TB10,Hull Number
+tb_criket_1906|mayfly,Mayfly,Mayfly
 tb_criket_1906|mayfly,TB11,Hull Number
+tb_criket_1906|moth,Moth,Moth
 tb_criket_1906|moth,TB12,Hull Number
+tb_criket_1906|sandfly,Sandfly,Sandfly
 tb_criket_1906|sandfly,TB4,Hull Number
+tb_criket_1906|spider,Spider,Spider
 tb_criket_1906|spider,TB5,Hull Number
 tb_cushing_1888|cushing,Cushing,Cushing
 tb_cyclone_1899|cyclone,Cyclone,Cyclone
@@ -38244,9 +38256,9 @@ tb_tb_xxxiv_1889|tb_xxxv,TB XXXV,Hull Number
 tb_tb_xxxiv_1889|tb_xxxvi,TB XXXVI,Hull Number
 tb_tb_xxxiv_1889|tb_xxxvii,TB XXXVII,Hull Number
 tb_tb_xxxiv_1889|tb_xxxviii,TB XXXVIII,Hull Number
-tb_tb1_baluchi_1888|tb1_baluchi,TB1 Baluchi,TB1 Baluchi
-tb_tb1_baluchi_1888|tb2_karen,TB2 Karen,TB2 Karen
-tb_tb1_baluchi_1888|tb3_pathan,TB3 Pathan,TB3 Pathan
+tb_tb1_baluchi_1888|tb1_baluchi,TB1 Baluchi,
+tb_tb1_baluchi_1888|tb2_karen,TB2 Karen,
+tb_tb1_baluchi_1888|tb3_pathan,TB3 Pathan,
 tb_tb100_1886|tb100,TB100,Hull Number
 tb_tb109_1902|tb109,TB109,Hull Number
 tb_tb109_1902|tb110,TB110,Hull Number
@@ -38357,9 +38369,9 @@ tb_tb39_1889|tb45,TB45,Hull Number
 tb_tb39_1889|tb46,TB46,Hull Number
 tb_tb39_1889|tb47,TB47,Hull Number
 tb_tb39_1889|tb48,TB48,Hull Number
-tb_tb4_mahratta_1889|tb4_mahratta,TB4 Mahratta,TB4 Mahratta
-tb_tb4_mahratta_1889|tb5_sikh,TB5 Sikh,TB5 Sikh
-tb_tb4_mahratta_1889|tb6_rajput,TB6 Rajput,TB6 Rajput
+tb_tb4_mahratta_1889|tb4_mahratta,TB4 Mahratta,
+tb_tb4_mahratta_1889|tb5_sikh,TB5 Sikh,
+tb_tb4_mahratta_1889|tb6_rajput,TB6 Rajput,
 tb_tb49_1888|tb49,TB49,Hull Number
 tb_tb49_1888|tb50,TB50,Hull Number
 tb_tb50_1886|tb50,TB50,Hull Number
@@ -38395,7 +38407,7 @@ tb_tb64_1880|tb70,TB70,Hull Number
 tb_tb64_1880|tb71,TB71,Hull Number
 tb_tb64_1880|tb72,TB72,Hull Number
 tb_tb64_1880|tb73,TB73,Hull Number
-tb_tb7_gurkha_1888|tb7_gurkha,TB7 Gurkha,TB7 Gurkha
+tb_tb7_gurkha_1888|tb7_gurkha,TB7 Gurkha,
 tb_tb74_1883|tb74,TB74,Hull Number
 tb_tb74_1883|tb75,TB75,Hull Number
 tb_tb74_1883|tb96,TB96,Hull Number
@@ -38447,10 +38459,10 @@ tb_tb98_1901|tb108,TB108,Hull Number
 tb_tb98_1901|tb98,TB98,Hull Number
 tb_tb98_1901|tb99,TB99,Hull Number
 tb_tb99_1885|tb99,TB99,Hull Number
-tb_teist_1908|skarv,Skarv,Skarv
-tb_teist_1908|teist,NH02,NH02
-tb_teist_1908|teist,Teist,Teist
-tb_tingey_1904|tingey,Tingey,Tingey
+tb_teist_1908|skarv,Skarv,
+tb_teist_1908|teist,NH02,
+tb_teist_1908|teist,Teist,
+tb_tingey_1904|tingey,Tingey,
 tb_tomozuru_1933|chidori,Chidori,Plover
 tb_tomozuru_1933|hatsukari,Hatsukari,Goose
 tb_tomozuru_1933|manazuru,Manazuru,White-naped Crane
@@ -38539,7 +38551,7 @@ tbd_farragut|uss_farragut,Farragut,David Glasgow Farragut
 tbd_goldsborough|uss_goldsborough,Coast Torpedo Boat No. 7,Hull Number
 tbd_goldsborough|uss_goldsborough,Goldsborough,Louis Malesherbes Goldsborough
 tbd_stringham|uss_stringham,Stringham,Silas Horton Stringham
-tc_archer|hms_archer,Archer,Archer
+tc_archer|hms_archer,Archer,Soldier (Archer)
 tc_archer|hms_brisk,Brisk,Brisk
 tc_archer|hms_cossack,Cossack,Cossack
 tc_archer|hms_mohawk,Mohawk,Mohawk
@@ -38576,7 +38588,7 @@ tg_alarm|hms_jason,Jason,Jason
 tg_alarm|hms_leda,Leda,Leda
 tg_alarm|hms_niger,Niger,Niger
 tg_alarm|hms_onyx,Onyx,Onyx
-tg_alarm|hms_renard,Renard,Renard
+tg_alarm|hms_renard,Renard,Fox
 tg_alarm|hms_speedy,Speedy,Speedy
 tg_almirante_lynch|almirante_condell,Alcahuano,Alcahuano
 tg_almirante_lynch|almirante_condell,Almirante Condell,Almirante Condell
@@ -38616,8 +38628,8 @@ tg_goito|goito,Goito,Goito
 tg_goito|montebello,Montebello,Montebello
 tg_goito|monzambano,Monzambano,Monzambano
 tg_grasshopper|hms_grasshopper,Grasshopper,Grasshopper
-tg_grasshopper|hms_sandfly,Sandfly,Sandfly
-tg_grasshopper|hms_spider,Spider,Spider
+tg_grasshopper|hms_sandfly,Sandfly,
+tg_grasshopper|hms_spider,Spider,
 tg_gustavo_sampaio|gustavo_sampaio,Gustavo Sampaio,Gustavo Sampaio
 tg_kapitan_saken|kapitan_saken,Kapitan Saken,Kapitan Saken
 tg_kazarskiy|gaydamak,Gaydamak,

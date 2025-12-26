@@ -4,6 +4,7 @@ Amethyst,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Amethyst
 Diamond,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Diamond
 Emerald,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Emerald
 Pearl,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Pearl
+Ruby,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Ruby
 Sapphire,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Sapphire
 Topaze,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Diamond
 Ocean,_Lingual,Geography,https://en.wiktionary.org/wiki/Ocean
@@ -13,6 +14,7 @@ Aspis,_Lingual,Object,https://en.wikipedia.org/wiki/Aspis
 Cape,_Lingual,Object,https://en.wikipedia.org/wiki/Cape
 Crown,_Lingual,Object,https://en.wikipedia.org/wiki/Crown
 Diadem,_Lingual,Object,https://en.wikipedia.org/wiki/Diadem
+Rocket,_Lingual,Object,https://en.wikipedia.org/wiki/Rocket
 Rosary,_Lingual,Object,https://en.wikipedia.org/wiki/Rosary
 Sling,_Lingual,Object,https://en.wikipedia.org/wiki/Sling_(weapon)
 Spear,_Lingual,Object,https://en.wikipedia.org/wiki/Spear
@@ -24,6 +26,7 @@ Field of a Thousand Generations,_Lingual,Poetic Phrase,https://en.wikipedia.org/
 Girl of my Heart,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Manx_language
 Swift and Sure,_Lingual,Poetic Phrase,
 Thousand Years,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Chitose
+Zubian,_Lingual,Portmanteau,https://en.wikipedia.org/wiki/HMS_Zubian
 La Marseillaise,_Lingual,Song,https://en.wikipedia.org/wiki/La_Marseillaise
 Eleventh Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Fifteenth Solar Term,_Lingual,Time,https://en.wikipedia.org/wiki/Solar_term
@@ -62,12 +65,14 @@ Intrepid,_Lingual,Virtue,https://en.wiktionary.org/wiki/intrepid
 Active,_Lingual,,
 Activity,_Lingual,,https://en.wiktionary.org/wiki/activity
 Adventure,_Lingual,,
+Alarm,_Lingual,,
 Alert,_Lingual,,
 Arbiter,_Lingual,,https://en.wiktionary.org/wiki/arbiter
-Archer,_Lingual,,https://en.wiktionary.org/wiki/archer
+Ardent,_Lingual,,
 Arrogant,_Lingual,,
 Assistance,_Lingual,,
 Astronomer,_Lingual,,https://en.wiktionary.org/wiki/astronomer
+Attack,_Lingual,,
 Attacker,_Lingual,,
 Attentive,_Lingual,,
 Audacious,_Lingual,,
@@ -81,7 +86,10 @@ Bellicose,_Lingual,,
 Biter,_Lingual,,
 Blond,_Lingual,,https://en.wikipedia.org/wiki/Blond
 Boxer,_Lingual,,https://en.wikipedia.org/wiki/Boxing
+Brazen,_Lingual,,
 Brilliant,_Lingual,,
+Brisk,_Lingual,,
+Bruizer,_Lingual,,
 Bulwark,_Lingual,,
 Carefree,_Lingual,,
 Careful,_Lingual,,
@@ -90,36 +98,52 @@ Challenger,_Lingual,,
 Champion,_Lingual,,
 Charger,_Lingual,,
 Chaser,_Lingual,,
+Cheerful,_Lingual,,
 Concord,_Lingual,,
+Conflict,_Lingual,,
 Conqueror,_Lingual,,
 Conquest,_Lingual,,
+Contest,_Lingual,,
+Coquette,_Lingual,,
 Courageous,_Lingual,,
+Crusader,_Lingual,,https://en.wikipedia.org/wiki/Crusades
 Daring,_Lingual,,
+Dart,_Lingual,,
 Dasher,_Lingual,,
 Dauntless,_Lingual,,
+Decoy,_Lingual,,
 Defence,_Lingual,,
+Defender,_Lingual,,
 Defense,_Lingual,,
 Defiance,_Lingual,,
 Democracy,_Lingual,,https://en.wikipedia.org/wiki/Democracy
 Despatch,_Lingual,,
 Desperate,_Lingual,,
 Devastation,_Lingual,,
+Druid,_Lingual,,https://en.wikipedia.org/wiki/Druid
+Earnest,_Lingual,,
 Echo,_Lingual,,
 Eclipse,_Lingual,,
 Encounter,_Lingual,,
 Endeavor,_Lingual,,
 Enterprise,_Lingual,,
+Express,_Lingual,,
 Expressive,_Lingual,,
+Fame,_Lingual,,
 Favourite,_Lingual,,
 Fearless,_Lingual,,
 Fencer,_Lingual,,
+Fervent,_Lingual,,
 Fiery,_Lingual,,
+Foam,_Lingual,,https://en.wikipedia.org/wiki/Foam
 Foresight,_Lingual,,
+Forester,_Lingual,,
 Formidable,_Lingual,,
 Forward,_Lingual,,
 Free,_Lingual,,
 Friendly,_Lingual,,
 Furious,_Lingual,,
+Fury,_Lingual,,
 Ghost,_Lingual,,https://en.wiktionary.org/wiki/ghost
 Gladiator,_Lingual,,
 Glorious,_Lingual,,
@@ -127,9 +151,15 @@ Glory,_Lingual,,
 Grim,_Lingual,,
 Guardian,_Lingual,,
 Gunner,_Lingual,,
+Handy,_Lingual,,
 Happiness,_Lingual,,
+Hardy,_Lingual,,
+Hasty,_Lingual,,
+Haughty,_Lingual,,
+Havock,_Lingual,,
 Hero,_Lingual,,https://en.wikipedia.org/wiki/Hero
 Homeland,_Lingual,,https://en.wikipedia.org/wiki/Homeland
+Hope,_Lingual,,
 Hunter,_Lingual,,
 Hunting,_Lingual,,https://en.wiktionary.org/wiki/hunting
 Illustrious,_Lingual,,
@@ -148,11 +178,13 @@ Irresistible,_Lingual,,
 Justice,_Lingual,,https://en.wikipedia.org/wiki/Justice
 Lancer,_Lingual,,https://en.wikipedia.org/wiki/Lancer
 Liberty,_Lingual,,https://en.wikipedia.org/wiki/Liberty
+Lively,_Lingual,,
 Loyal,_Lingual,,
 Magnanimous,_Lingual,,
 Magnificent,_Lingual,,
 Majestic,_Lingual,,
 Massive,_Lingual,,
+Minstrel,_Lingual,,https://en.wikipedia.org/wiki/Minstrel
 Monarch,_Lingual,,https://en.wiktionary.org/wiki/monarch
 Mutin,_Lingual,,https://en.wiktionary.org/wiki/mutin
 Pathfinder,_Lingual,,
@@ -164,10 +196,11 @@ Pique,_Lingual,,https://en.wiktionary.org/wiki/pique
 Powerful,_Lingual,,
 Puncher,_Lingual,,
 Pursuer,_Lingual,,
-Ranger,_Lingual,,https://en.wikipedia.org/wiki/USS_Ranger_(1777)
+Ranger,_Lingual,,
 Ravager,_Lingual,,
 Reaper,_Lingual,,
 Reckless,_Lingual,,https://en.wiktionary.org/wiki/reckless
+Recruit,_Lingual,,
 Redoubtable,_Lingual,,
 Reliant,_Lingual,,https://en.wiktionary.org/wiki/reliant
 Renown,_Lingual,,
@@ -186,6 +219,8 @@ Robust,_Lingual,,
 Royalist,_Lingual,,
 Ruler,_Lingual,,
 Sapper,_Lingual,,
+Savage,_Lingual,,
+Scourge,_Lingual,,
 Scout,_Lingual,,
 Searcher,_Lingual,,
 Second,_Lingual,,
@@ -194,11 +229,21 @@ Sibyl,_Lingual,,https://en.wikipedia.org/wiki/Sibyl
 Skirmisher,_Lingual,,
 Slinger,_Lingual,,
 Smiter,_Lingual,,
+Soldier (Archer),_Lingual,,https://en.wiktionary.org/wiki/archer
+Soldier (Rifleman),_Lingual,,https://en.wikipedia.org/wiki/Rifleman
 Speaker,_Lingual,,https://en.wikipedia.org/wiki/Speaker_(politics)
+Spiteful,_Lingual,,
+Spitfire,_Lingual,,
+Sprightly,_Lingual,,
 Stalker,_Lingual,,
+Staunch,_Lingual,,
 Striker,_Lingual,,
+Success,_Lingual,,
 Sudden,_Lingual,,
 Superb,_Lingual,,
+Surly,_Lingual,,
+Swift,_Lingual,,
+Teaser,_Lingual,,
 Tenacious,_Lingual,,
 Terrible,_Lingual,,
 Thunderer,_Lingual,,
@@ -217,14 +262,19 @@ Venerable,_Lingual,,
 Vengeance,_Lingual,,
 Victorious,_Lingual,,
 Victory,_Lingual,,
+Vigilant,_Lingual,,
+Viking,_Lingual,,https://en.wikipedia.org/wiki/Vikings
 Vindictive,_Lingual,,
+Virago,_Lingual,,https://en.wikipedia.org/wiki/Virago
 Vivid,_Lingual,,
 Wakamiya,_Lingual,,https://en.wikipedia.org/wiki/Mikogami#Wakamiya
 Warrior,_Lingual,,
 Watch,_Lingual,,https://en.wiktionary.org/wiki/watch
+Watching,_Lingual,,https://en.wiktionary.org/wiki/watching
 White Cloth,_Lingual,,
 Willful,_Lingual,,
 Zealous,_Lingual,,
+Spider,Animal,Arachnid,https://en.wikipedia.org/wiki/Spider
 Albatross,Animal,Bird,https://en.wikipedia.org/wiki/Albatross
 American Robin,Animal,Bird,https://en.wikipedia.org/wiki/American_robin
 Auk,Animal,Bird,https://en.wikipedia.org/wiki/Auk
@@ -233,6 +283,7 @@ Bittern,Animal,Bird,https://en.wikipedia.org/wiki/Bittern
 Bobolink,Animal,Bird,https://en.wikipedia.org/wiki/Bobolink
 Brant,Animal,Bird,https://en.wikipedia.org/wiki/Brant_(goose)
 Bulbul,Animal,Bird,https://en.wikipedia.org/wiki/Bulbul
+Bullfinch,Animal,Bird,https://en.wikipedia.org/wiki/Pyrrhula
 Buzzard,Animal,Bird,https://en.wikipedia.org/wiki/Buzzard
 Cardinal,Animal,Bird,https://en.wikipedia.org/wiki/Cardinalidae
 Chewink,Animal,Bird,https://en.wikipedia.org/wiki/Eastern_towhee
@@ -243,12 +294,14 @@ Curlew,Animal,Bird,https://en.wikipedia.org/wiki/Curlew
 Dove,Animal,Bird,https://en.wikipedia.org/wiki/Columbidae
 Eagle,Animal,Bird,https://en.wikipedia.org/wiki/Eagle
 Eider,Animal,Bird,https://en.wikipedia.org/wiki/Eider
+European Goldfinch,Animal,Bird,https://en.wikipedia.org/wiki/European_goldfinch
 European Green Woodpecker,Animal,Bird,https://en.wikipedia.org/wiki/HMS_Warspite
 Falcon,Animal,Bird,https://en.wikipedia.org/wiki/Falcon
 Finch,Animal,Bird,https://en.wikipedia.org/wiki/Finch
 Flamingo,Animal,Bird,https://en.wikipedia.org/wiki/Flamingo
 Gannet,Animal,Bird,https://en.wikipedia.org/wiki/Gannet
 Goose,Animal,Bird,https://en.wikipedia.org/wiki/Goose
+Goshawk,Animal,Bird,https://en.wikipedia.org/wiki/Northern_goshawk
 Grebe,Animal,Bird,https://en.wikipedia.org/wiki/Grebe
 Hawk,Animal,Bird,https://en.wikipedia.org/wiki/Hawk
 Heron,Animal,Bird,https://en.wikipedia.org/wiki/Heron
@@ -262,30 +315,36 @@ New World Oriole,Animal,Bird,https://en.wikipedia.org/wiki/New_World_oriole
 Old World Oriole,Animal,Bird,https://en.wikipedia.org/wiki/Old_World_oriole
 Ortolan,Animal,Bird,https://en.wikipedia.org/wiki/Ortolan_bunting
 Osprey,Animal,Bird,https://en.wikipedia.org/wiki/Osprey
+Ostrich,Animal,Bird,https://en.wikipedia.org/wiki/Ostrich
 Owl,Animal,Bird,https://en.wikipedia.org/wiki/Owl
 Partridge,Animal,Bird,https://en.wikipedia.org/wiki/Partridge
 Peacock,Animal,Bird,https://en.wikipedia.org/wiki/Peafowl
 Pelican,Animal,Bird,https://en.wikipedia.org/wiki/Pelican
 Penguin,Animal,Bird,https://en.wikipedia.org/wiki/Penguin
 Peregrine Falcon,Animal,Bird,https://en.wikipedia.org/wiki/Peregrine_falcon
+Petrel,Animal,Bird,https://en.wikipedia.org/wiki/Petrel
 Pheasant,Animal,Bird,https://en.wikipedia.org/wiki/Pheasant
 Pigeon,Animal,Bird,https://en.wikipedia.org/wiki/Columbidae
 Plover,Animal,Bird,https://en.wikipedia.org/wiki/Plover
 Quail,Animal,Bird,https://en.wikipedia.org/wiki/Quail
 Rail,Animal,Bird,https://en.wikipedia.org/wiki/Rail_(bird)
 Raven,Animal,Bird,https://en.wikipedia.org/wiki/Raven
+Redpoll,Animal,Bird,https://en.wikipedia.org/wiki/Redpoll
 Redwing,Animal,Bird,https://en.wikipedia.org/wiki/Redwing
 Sanderling,Animal,Bird,https://en.wikipedia.org/wiki/Sanderling
 Sandpiper,Animal,Bird,https://en.wikipedia.org/wiki/Sandpiper
 Sea Eagle,Animal,Bird,https://en.wikipedia.org/wiki/Sea_eagle
 Seagull,Animal,Bird,https://en.wikipedia.org/wiki/Gull
 Shearwater,Animal,Bird,https://en.wikipedia.org/wiki/Shearwater
+Shelduck,Animal,Bird,https://en.wikipedia.org/wiki/Tadorna
 Sparrowhawk,Animal,Bird,https://en.wikipedia.org/wiki/Sparrowhawk
 Swallow,Animal,Bird,https://en.wikipedia.org/wiki/Swallow
+Swam (Young),Animal,Bird,https://en.wikipedia.org/wiki/Swan#Young_swan
 Swan,Animal,Bird,https://en.wikipedia.org/wiki/Swan
 Tanager,Animal,Bird,https://en.wikipedia.org/wiki/Tanager
 Teal,Animal,Bird,https://en.wikipedia.org/wiki/Teal
 Tern,Animal,Bird,https://en.wikipedia.org/wiki/Tern
+Thrasher,Animal,Bird,https://en.wikipedia.org/wiki/Thrasher
 Thrush,Animal,Bird,https://en.wikipedia.org/wiki/Thrush_(bird)
 Turkey,Animal,Bird,https://en.wikipedia.org/wiki/Turkey_(bird)
 Vireo,Animal,Bird,https://en.wikipedia.org/wiki/Vireo
@@ -298,6 +357,8 @@ Widgeon,Animal,Bird,https://en.wikipedia.org/wiki/Wigeon
 Willet,Animal,Bird,https://en.wikipedia.org/wiki/Willet
 Woodcock,Animal,Bird,https://en.wikipedia.org/wiki/Woodcock
 Shark,Animal,Cartilaginous Fish,https://en.wikipedia.org/wiki/Shark
+Skate,Animal,Cartilaginous Fish,https://en.wikipedia.org/wiki/Skate_(fish)
+Nautilus,Animal,Cephalopod,https://en.wikipedia.org/wiki/Nautilus
 Acavus,Animal,Gastropod,https://en.wikipedia.org/wiki/Acavus
 Adula,Animal,Gastropod,
 Alexia,Animal,Gastropod,https://en.wikipedia.org/wiki/Alexania_(gastropod)
@@ -307,27 +368,92 @@ Gadila,Animal,Gastropod,https://en.wikipedia.org/wiki/Gadila_(mollusc)
 Macoma,Animal,Gastropod,https://en.wikipedia.org/wiki/Macoma
 Miralda,Animal,Gastropod,https://en.wikipedia.org/wiki/Miralda
 Rapana,Animal,Gastropod,https://en.wikipedia.org/wiki/Rapana
+Cricket,Animal,Insect,https://en.wikipedia.org/wiki/Cricket_(insect)
+Dragonfly,Animal,Insect,https://en.wikipedia.org/wiki/Dragonfly
+Firefly,Animal,Insect,https://en.wikipedia.org/wiki/Firefly
+Gadfly,Animal,Insect,https://en.wikipedia.org/wiki/Botfly
+Glowworm,Animal,Insect,https://en.wikipedia.org/wiki/Glowworm
+Gnat,Animal,Insect,https://en.wikipedia.org/wiki/Gnat
+Grasshopper,Animal,Insect,https://en.wikipedia.org/wiki/Grasshopper
+Grasshopper,Animal,Insect,https://en.wikipedia.org/wiki/Grasshopper
+Greenfly,Animal,Insect,https://en.wikipedia.org/wiki/Myzus_persicae
 Hornet,Animal,Insect,https://en.wikipedia.org/wiki/Hornet
+Locust,Animal,Insect,https://en.wikipedia.org/wiki/Acrididae
+Mayfly,Animal,Insect,https://en.wikipedia.org/wiki/Mayfly
+Mosquito,Animal,Insect,https://en.wikipedia.org/wiki/Mosquito
+Moth,Animal,Insect,https://en.wikipedia.org/wiki/Moth
+Sandfly,Animal,Insect,https://en.wikipedia.org/wiki/Sandfly
+Sandfly,Animal,Insect,https://en.wikipedia.org/wiki/Sandfly
+Scorpion,Animal,Insect,https://en.wikipedia.org/wiki/Scorpion
 Wasp,Animal,Insect,https://en.wikipedia.org/wiki/Wasp
 American Bison,Animal,Mammal,https://en.wikipedia.org/wiki/American_bison
-Beagle,Animal,Mammal,https://en.wikipedia.org/wiki/Beagle
-Bloodhound,Animal,Mammal,https://en.wiktionary.org/wiki/bloodhound
+Badger,Animal,Mammal,https://en.wikipedia.org/wiki/Badger
+Bat,Animal,Mammal,https://en.wikipedia.org/wiki/Bat
+Beaver,Animal,Mammal,https://en.wikipedia.org/wiki/Beaver
+Chamois,Animal,Mammal,https://en.wikipedia.org/wiki/Chamois
+Deer (Male),Animal,Mammal,https://en.wikipedia.org/wiki/Deer
+Deer (Young),Animal,Mammal,https://en.wikipedia.org/wiki/Deer
+Dog (Beagle),Animal,Mammal,https://en.wikipedia.org/wiki/Beagle
+Dog (Bloodhound),Animal,Mammal,https://en.wiktionary.org/wiki/bloodhound
+Dog (Bulldog),Animal,Mammal,https://en.wikipedia.org/wiki/Bulldog
+Dog (Foxhound),Animal,Mammal,https://en.wikipedia.org/wiki/Foxhound
+Dog (Greyhound),Animal,Mammal,https://en.wikipedia.org/wiki/Greyhound
+Dog (Lurcher),Animal,Mammal,https://en.wikipedia.org/wiki/Lurcher
+Dog (Pinscher),Animal,Mammal,https://en.wikipedia.org/wiki/Pinscher
 Elephant,Animal,Mammal,https://en.wikipedia.org/wiki/Elephant
+Ferret,Animal,Mammal,https://en.wikipedia.org/wiki/Ferret
 Fox,Animal,Mammal,https://en.wikipedia.org/wiki/Fox
+Fox (Female),Animal,Mammal,https://en.wikipedia.org/wiki/Fox
 Gazelle,Animal,Mammal,https://en.wikipedia.org/wiki/Gazelle
+Horse (Racehorse),Animal,Mammal,https://en.wikipedia.org/wiki/Horse_racing
+Jackal,Animal,Mammal,https://en.wikipedia.org/wiki/Jackal
+Kangaroo,Animal,Mammal,https://en.wikipedia.org/wiki/Kangaroo
+Kestrel,Animal,Mammal,https://en.wikipedia.org/wiki/Kestrel
 Leopard,Animal,Mammal,https://en.wikipedia.org/wiki/Leopard
 Lion,Animal,Mammal,https://en.wikipedia.org/wiki/Lion-class_battleship
+Lynx,Animal,Mammal,https://en.wikipedia.org/wiki/Lynx
+Opossum,Animal,Mammal,https://en.wikipedia.org/wiki/Opossum
+Otter,Animal,Mammal,https://en.wikipedia.org/wiki/Otter
+Panther,Animal,Mammal,https://en.wikipedia.org/wiki/Black_panther
+Porcupine,Animal,Mammal,https://en.wikipedia.org/wiki/Porcupine
+Racoon,Animal,Mammal,https://en.wikipedia.org/wiki/Raccoon
+Risso's Dolphin,Animal,Mammal,https://en.wikipedia.org/wiki/Risso%27s_dolphin
+Roe Deer (Female),Animal,Mammal,https://en.wikipedia.org/wiki/Roe_deer
+Roe Deer (Male),Animal,Mammal,https://en.wikipedia.org/wiki/Roe_deer
+Seal,Animal,Mammal,https://en.wikipedia.org/wiki/Pinniped
 Tiger,Animal,Mammal,https://en.wikipedia.org/wiki/Tiger
+Tiger (Female),Animal,Mammal,https://en.wikipedia.org/wiki/Tiger
 Whale,Animal,Mammal,https://en.wikipedia.org/wiki/Whale
+Wolf,Animal,Mammal,https://en.wikipedia.org/wiki/Wolf
+Wolverine,Animal,Mammal,https://en.wikipedia.org/wiki/Wolverine
+Zebra,Animal,Mammal,https://en.wikipedia.org/wiki/Zebra
+Albacore,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Albacore
+Anglerfish,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Anglerfish
 Barracouta,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Thyrsites_lepidopodea
+Bonito,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Bonito
+Flying Fish,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Flying_fish
+Salmon,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Salmon
+Snapper,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Lutjanidae
+Sturgeon,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Sturgeon
+Sunfish,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Ocean_sunfish
+Swordfish,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Swordfish
+Whiting,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Whiting_(fish)
 Caiman,Animal,Reptile,https://en.wikipedia.org/wiki/Caiman
+Cameleon,Animal,Reptile,https://en.wikipedia.org/wiki/Chameleon
+Cobra,Animal,Reptile,https://en.wikipedia.org/wiki/Cobra
+Lizard,Animal,Reptile,https://en.wikipedia.org/wiki/Lizard
+Rattlesnake,Animal,Reptile,https://en.wikipedia.org/wiki/Rattlesnake
+Viper,Animal,Reptile,https://en.wikipedia.org/wiki/Viper
+Starfish,Animal,Starfish,https://en.wikipedia.org/wiki/Starfish
 Autumn Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
 Clear Moon in Autumn,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
+Comet,Astronomical,Body,https://en.wikipedia.org/wiki/Comet
 Comet,Astronomical,Body,https://en.wikipedia.org/wiki/Comet
 Meteor,Astronomical,Body,https://en.wikipedia.org/wiki/Meteor
 Night Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
 Shining Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
 Spring Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
+Star,Astronomical,Body,https://en.wikipedia.org/wiki/Star
 Summer Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
 Winter Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
 Beautiful Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
@@ -341,6 +467,7 @@ Twilight,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Twilight
 Waning Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
 Waxing Crescent,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
 Waxing Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
+Lyra Constellation,Astronomical,Constellation,https://en.wikipedia.org/wiki/Lyra
 "Sirius, Canis Major",Astronomical,Star,https://en.wikipedia.org/wiki/Sirius
 Camellia Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Camellia
 Catalpa Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Catalpa
@@ -372,6 +499,8 @@ Tsuga Tree,Botanical,Conifer,https://en.wikipedia.org/wiki/Tsuga
 Asian Knotweed,Botanical,Eudicot,https://en.wikipedia.org/wiki/Reynoutria
 Katsura Tree,Botanical,Eudicot,https://en.wikipedia.org/wiki/Cercidiphyllum_japonicum
 Lotus,Botanical,Eudicot,https://en.wikipedia.org/wiki/Nelumbo
+Oak Tree (Nut),Botanical,Feature,https://en.wikipedia.org/wiki/Acorn
+Thorn,Botanical,Feature,"https://en.wikipedia.org/wiki/Thorns,_spines,_and_prickles"
 Bracken,Botanical,Fern,https://en.wikipedia.org/wiki/Bracken
 Bracken Sprout,Botanical,Fern,https://en.wikipedia.org/wiki/Bracken
 Camphor Tree,Botanical,Magnoliid,https://en.wikipedia.org/wiki/Camphora_officinarum
@@ -380,6 +509,7 @@ Bottle Gourd,Botanical,Rosid,https://en.wikipedia.org/wiki/Calabash
 Bush Clover,Botanical,Rosid,https://en.wikipedia.org/wiki/Lespedeza
 Cherry Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Cherry
 Chestnut Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Chestnut
+Chinaberry Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Melia_azedarach
 Chinquapin Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Castanopsis
 Elm Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Elm
 First Cherry Blossom,Botanical,Rosid,https://en.wikipedia.org/wiki/Cherry
@@ -598,17 +728,23 @@ Wales,Geographical,Region,https://en.wikipedia.org/wiki/Wales
 "Columbia River, North America",Geographical,River,https://en.wikipedia.org/wiki/Columbia_River
 "Dnieper River, Ukraine",Geographical,River,https://en.wikipedia.org/wiki/Dnieper
 "Elbe River, Germany",Geographical,River,https://en.wikipedia.org/wiki/Elbe
+"Ettrick Water, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/Ettrick_Water
 "Euphrates, Asia",Geographical,River,https://en.wikipedia.org/wiki/Euphrates
+"Gala Water, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/Gala_Water
 "Ganges, India",Geographical,River,https://en.wikipedia.org/wiki/Ganges
+"Huon River, Tasmania, Australia",Geographical,River,https://en.wikipedia.org/wiki/Huon_River
 "Indus River, Pakistan",Geographical,River,https://en.wikipedia.org/wiki/Indus_River
 "Isuzu River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Isuzu_River
+"Jed Water, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/Jed_Water
 "Jinzu River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Jinz%C5%AB_River
 "Kako River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kako_River_(Japan)
+"Kale Water, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/Kale_Water
 "Kinugawa River, Japan",Geographical,River,
 "Kiso River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kiso_River
 "Kitakami River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kitakami_River
 "Kuma River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kuma_River_(Japan)
 "Kumano River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kumano_River
+"Lis River, Portugal",Geographical,River,https://en.wikipedia.org/wiki/Lis_River
 "Mikuma River, Japan",Geographical,River,
 "Mogami River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Mogami_River
 "Nagara River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Nagara_River
@@ -619,11 +755,50 @@ Wales,Geographical,Region,https://en.wikipedia.org/wiki/Wales
 "Orontes River, Syria",Geographical,River,https://en.wikipedia.org/wiki/Orontes_River
 "Oyodo River, Japan",Geographical,River,https://en.wikipedia.org/wiki/%C5%8Cyodo_River
 "Pactolus River, Turkey",Geographical,River,https://en.wikipedia.org/wiki/Pactolus
+"Parramatta River, New South Wales, Australia",Geographical,River,https://en.wikipedia.org/wiki/Parramatta_River
+"River Arno, Tuscany, Italy",Geographical,River,https://en.wikipedia.org/wiki/Arno
+"River Arun, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Arun
+"River Avon, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Avon,_Bristol"
+"River Blackwater, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Blackwater,_Essex"
+"River Boyne, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Boyne
+"River Chelmer, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Chelmer
+"River Cherwell, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Cherwell
+"River Colne, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Colne,_Essex"
+"River Dee, Wales, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Dee,_Wales"
+"River Derwent, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Derwent,_Derbyshire"
+"River Doon, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Doon
+"River Eden, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Eden,_Cumbria"
+"River Erne, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Erne
+"River Exe, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Exe
 "River Forth, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Forth
+"River Foyle, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Foyle
+"River Garry, Scotland, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Garry,_Perthshire"
+"River Itchen, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Itchen,_Hampshire"
+"River Kennet, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Kennet
+"River Lea, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Lea
+"River Leven, Scotland, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Leven,_Dunbartonshire"
+"River Liffey, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Liffey
 "River Mersey, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Mersey
+"River Moy, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Moy
+"River Ness, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Ness
+"River Nith, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Nith
+"River Orwell, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Orwell
+"River Ouse, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Ouse,_Yorkshire"
+"River Ribble, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Ribble
+"River Rother, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Rother,_South_Yorkshire"
 "River Severn, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Severn
 "River Shannon, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Shannon
+"River Stour, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Stour,_Worcestershire"
+"River Swale, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Swale
+"River Test, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Test
+"River Teviot, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Teviot
 "River Thames, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Thames
+"River Torrens, South Australia, Australia",Geographical,River,https://en.wikipedia.org/wiki/River_Torrens
+"River Ure, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Ure
+"River Usk, Wales, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Usk
+"River Waveney, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Waveney
+"River Wear, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Wear
+"River Welland, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Welland
 "Saint Francis River, North America",Geographical,River,https://en.wikipedia.org/wiki/Saint_Francis_River_(Canada%E2%80%93United_States)
 "Sakawa River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Sakawa_River
 "Sangamon River, Illinois, US",Geographical,River,https://en.wikipedia.org/wiki/Sangamon_River
@@ -635,13 +810,16 @@ Wales,Geographical,Region,https://en.wikipedia.org/wiki/Wales
 "St. George River, Maine, US",Geographical,River,https://en.wikipedia.org/wiki/St._George_River_(Maine)
 "Suwannee River, Florida, US",Geographical,River,https://en.wikipedia.org/wiki/Suwannee_River
 "Suzuya River, Japan",Geographical,River,
+"Swam River, Western Australia",Geographical,River,https://en.wikipedia.org/wiki/Swan_River_(Western_Australia)
 "Tama River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Tama_River
 "Tatsuta River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Tatsuta_River
 "Tenryu River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Tenry%C5%AB_River
 "Tone River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Tone_River
 "Volta River, Ghana",Geographical,River,https://en.wikipedia.org/wiki/Volta_River
+"Warrego River, Queensland, Australia",Geographical,River,https://en.wikipedia.org/wiki/Warrego_River
 "Weser River, Germany",Geographical,River,https://en.wikipedia.org/wiki/Weser
 "Yahagi River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Yahagi_River
+"Yarra River, Victoria, Australia",Geographical,River,https://en.wikipedia.org/wiki/Yarra_River
 "Yoneshiro River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Yoneshiro_River
 "Yubari River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Y%C5%ABbari_River
 "Yura River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Yura_River_(Japan)
@@ -797,6 +975,7 @@ Action at Barfleur. War of the Grand Alliance,Historical,Naval Battle,https://en
 "Battle of Roi, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Kwajalein
 "Battle of Saipan, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Saipan
 "Battle of Tarawa, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Tarawa
+"Battle of the Taku Forts, Boxer Rebellion",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_the_Taku_Forts_(1900)
 "Battle of Tinian, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Tinian
 "Battle of Tulagi and Gavutu-Tanambogo, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Tulagi_and_Gavutu%E2%80%93Tanambogo
 "Battle of Wake Island, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Wake_Island
@@ -2090,18 +2269,25 @@ Basilisk,Mythological,Creature,https://en.wikipedia.org/wiki/Basilisk
 Centaur,Mythological,Creature,https://en.wikipedia.org/wiki/Centaur
 Charybdis,Mythological,Creature,https://en.wikipedia.org/wiki/Charybdis
 Dragon,Mythological,Creature,https://en.wikipedia.org/wiki/Dragon
+Fairy,Mythological,Creature,https://en.wikipedia.org/wiki/Fairy
 Fenghuang,Mythological,Creature,https://en.wikipedia.org/wiki/Fenghuang
 Griffin,Mythological,Creature,https://en.wikipedia.org/wiki/Griffin
+Harpy,Mythological,Creature,https://en.wikipedia.org/wiki/Harpy
+Lernaean Hydra,Mythological,Creature,https://en.wikipedia.org/wiki/Lernaean_Hydra
 Leviathan,Mythological,Creature,https://en.wikipedia.org/wiki/Leviathan
+Mermaid,Mythological,Creature,https://en.wikipedia.org/wiki/Mermaid
 Minotaur,Mythological,Creature,https://en.wikipedia.org/wiki/Minotaur
 Pegasus,Mythological,Creature,https://en.wikipedia.org/wiki/Pegasus
 Phoenix,Mythological,Creature,https://en.wikipedia.org/wiki/Phoenix_(mythology)
 Prancing Dragon,Mythological,Creature,https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Ry%C5%ABj%C5%8D
 Scylla,Mythological,Creature,https://en.wikipedia.org/wiki/Scylla
+Siren,Mythological,Creature,https://en.wikipedia.org/wiki/Siren_(mythology)
 Unicorn,Mythological,Creature,https://en.wikipedia.org/wiki/Unicorn
+Wyvern (Fire),Mythological,Creature,https://en.wikipedia.org/wiki/Wyvern
 Aeolus,Mythological,God,https://en.wikipedia.org/wiki/Aeolus_(son_of_Hippotes)
 Amphitrite,Mythological,God,https://en.wikipedia.org/wiki/Amphitrite
 Apollo,Mythological,God,https://en.wikipedia.org/wiki/Apollo
+Artemis,Mythological,God,https://en.wikipedia.org/wiki/Artemis
 Astraea,Mythological,God,https://en.wikipedia.org/wiki/Astraea
 Athena,Mythological,God,https://en.wikipedia.org/wiki/Athena
 Aurora,Mythological,God,https://en.wikipedia.org/wiki/Aurora_(mythology)
@@ -2119,12 +2305,14 @@ Hephaestus,Mythological,God,https://en.wikipedia.org/wiki/Hephaestus
 Hermes,Mythological,God,https://en.wikipedia.org/wiki/Hermes
 Iris,Mythological,God,https://en.wikipedia.org/wiki/Iris_(mythology)
 Isis,Mythological,God,https://en.wikipedia.org/wiki/Isis
+Janus,Mythological,God,https://en.wikipedia.org/wiki/Janus
 Juno,Mythological,God,https://en.wikipedia.org/wiki/Juno_(mythology)
 Leto,Mythological,God,https://en.wikipedia.org/wiki/Leto
 Mars,Mythological,God,https://en.wikipedia.org/wiki/Mars_(mythology)
 Melpomene,Mythological,God,https://en.wikipedia.org/wiki/Melpomene
 Mercury,Mythological,God,https://en.wikipedia.org/wiki/Mercury_(mythology)
 Minerva,Mythological,God,https://en.wikipedia.org/wiki/Minerva
+Nemesis,Mythological,God,https://en.wikipedia.org/wiki/Nemesis
 Nerthus,Mythological,God,https://en.wikipedia.org/wiki/Nerthus
 Odin,Mythological,God,https://en.wikipedia.org/wiki/Odin
 Peloreus,Mythological,God,https://en.wikipedia.org/wiki/Peloreus_(mythology)
@@ -2137,8 +2325,10 @@ Proserpina,Mythological,God,https://en.wikipedia.org/wiki/Proserpina
 Quetzalcoatl,Mythological,God,https://en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl
 Terpsichore,Mythological,God,https://en.wikipedia.org/wiki/Terpsichore
 Venus,Mythological,God,https://en.wikipedia.org/wiki/Venus_(mythology)
+Zephyrus,Mythological,God,https://en.wikipedia.org/wiki/Zephyrus
 Zeus,Mythological,God,https://en.wikipedia.org/wiki/Zeus
 Argonauts,Mythological,Group,https://en.wikipedia.org/wiki/Argonauts
+Wizard,Mythological,Group,https://en.wikipedia.org/wiki/Magician_(fantasy)
 Achilles,Mythological,Hero,https://en.wikipedia.org/wiki/Achilles
 Ajax the Great,Mythological,Hero,https://en.wikipedia.org/wiki/Ajax_the_Great
 Amphion,Mythological,Hero,https://en.wikipedia.org/wiki/Amphion_and_Zethus
@@ -2155,6 +2345,7 @@ Castor,Mythological,Hero,https://en.wikipedia.org/wiki/Castor_and_Pollux
 Daedalus,Mythological,Hero,https://en.wikipedia.org/wiki/Daedalus
 Danae,Mythological,Hero,https://en.wikipedia.org/wiki/Dana%C3%AB
 Diomedes,Mythological,Hero,https://en.wikipedia.org/wiki/Diomedes
+Electra,Mythological,Hero,https://en.wikipedia.org/wiki/Electra
 Endymion,Mythological,Hero,https://en.wikipedia.org/wiki/Endymion_(mythology)
 Europa,Mythological,Hero,https://en.wikipedia.org/wiki/Europa_(consort_of_Zeus)
 Euryalus,Mythological,Hero,https://en.wikipedia.org/wiki/Argonauts
@@ -2180,13 +2371,17 @@ Philomela,Mythological,Hero,https://en.wikipedia.org/wiki/Philomela
 Psyche,Mythological,Hero,https://en.wikipedia.org/wiki/Psyche_(mythology)
 Pyramus,Mythological,Hero,https://en.wikipedia.org/wiki/Pyramus_and_Thisbe
 Renaud de Montauban,Mythological,Hero,https://en.wikipedia.org/wiki/Renaud_de_Montauban
+Rhea Silvia,Mythological,Hero,https://en.wikipedia.org/wiki/Rhea_Silvia
 Theseus,Mythological,Hero,https://en.wikipedia.org/wiki/Theseus
 Till Eulenspiegel,Mythological,Hero,https://en.wikipedia.org/wiki/Till_Eulenspiegel
 Amazons,Mythological,People,https://en.wikipedia.org/wiki/Amazons
+Myrmidons,Mythological,People,https://en.wikipedia.org/wiki/Myrmidons
 Fusang,Mythological,Place,https://en.wikipedia.org/wiki/Fusang
 Shangri-La,Mythological,Place,https://en.wikipedia.org/wiki/Shangri-La
 Vineta,Mythological,Place,https://en.wikipedia.org/wiki/Vineta
 Arethusa,Mythological,Spirit,https://en.wikipedia.org/wiki/Arethusa_(nymph)
+Ariel,Mythological,Spirit,https://en.wikipedia.org/wiki/Ariel_(The_Tempest)
+Banshee,Mythological,Spirit,https://en.wikipedia.org/wiki/Banshee
 Calypso,Mythological,Spirit,https://en.wikipedia.org/wiki/Calypso_(mythology)
 Doris,Mythological,Spirit,https://en.wikipedia.org/wiki/Doris_(Oceanid)
 Dryad,Mythological,Spirit,https://en.wikipedia.org/wiki/Dryad
@@ -2194,6 +2389,7 @@ Galatea,Mythological,Spirit,https://en.wikipedia.org/wiki/Acis_and_Galatea
 Maenad,Mythological,Spirit,https://en.wikipedia.org/wiki/Maenad
 Medusa,Mythological,Spirit,https://en.wikipedia.org/wiki/Medusa
 Naiad,Mythological,Spirit,https://en.wikipedia.org/wiki/Naiad
+Nereids,Mythological,Spirit,https://en.wikipedia.org/wiki/Nereids
 Nymph,Mythological,Spirit,https://en.wikipedia.org/wiki/Nymph
 Thetis,Mythological,Spirit,https://en.wikipedia.org/wiki/Thetis
 Undines,Mythological,Spirit,https://en.wikipedia.org/wiki/Undine
@@ -2355,6 +2551,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Kolkata, West Bengal, India",Political,City,https://en.wikipedia.org/wiki/Kolkata
 "Laiyang, Shandong, China",Political,City,https://en.wikipedia.org/wiki/Laiyang
 "Lancaster, England, UK",Political,City,"https://en.wikipedia.org/wiki/Lancaster,_Lancashire"
+"Larne, Northern Ireland, UK",Political,City,https://en.wikipedia.org/wiki/Larne
 "Leeds, England, UK",Political,City,https://en.wikipedia.org/wiki/Leeds
 "Leipzig, Saxony, Germany",Political,City,https://en.wikipedia.org/wiki/Leipzig
 "Lewes, England, UK",Political,City,https://en.wikipedia.org/wiki/Lewes
@@ -2573,10 +2770,18 @@ Trinidad and Tobago,Political,Colony,https://en.wikipedia.org/wiki/History_of_Tr
 "Ye County, Henan, China",Political,County,https://en.wikipedia.org/wiki/Ye_County
 "Yunyang, Chongqing, China",Political,County,https://en.wikipedia.org/wiki/Yunyang_County
 "Osu, Nagoya, Aichi, Japan",Political,District,https://en.wikipedia.org/wiki/%C5%8Csu
+Arabs,Political,Nation,https://en.wikipedia.org/wiki/Arabs
+Cossacks,Political,Nation,https://en.wikipedia.org/wiki/Cossacks
 Gauls,Political,Nation,https://en.wikipedia.org/wiki/Gauls
+Maori,Political,Nation,https://en.wikipedia.org/wiki/M%C4%81ori_people
+Nepalis,Political,Nation,https://en.wikipedia.org/wiki/Nepalis
 Nihon,Political,Nation,https://en.wikipedia.org/wiki/Japan
+Nubians,Political,Nation,https://en.wikipedia.org/wiki/Nubians
 Ojibwe,Political,Nation,https://en.wikipedia.org/wiki/Ojibwe
 Persian,Political,Nation,https://en.wikipedia.org/wiki/Persians
+Romani,Political,Nation,https://en.wikipedia.org/wiki/Romani_people
+Tatars,Political,Nation,https://en.wikipedia.org/wiki/Tatars
+Zulus,Political,Nation,https://en.wikipedia.org/wiki/Zulu_people
 Federated Malay States,Political,Protectorate,https://en.wikipedia.org/wiki/Federated_Malay_States
 Protectorate of Uganda,Political,Protectorate,https://en.wikipedia.org/wiki/Protectorate_of_Uganda
 "Aki Province, Japan",Political,Province,https://en.wikipedia.org/wiki/Aki_Province
@@ -2712,6 +2917,8 @@ New Zealand,Political,State,https://en.wikipedia.org/wiki/New_Zealand
 Oglala Lakota,Political,State,https://en.wikipedia.org/wiki/Oglala
 United Kingdom,Political,State,https://en.wikipedia.org/wiki/United_Kingdom
 United States of America,Political,State,https://en.wikipedia.org/wiki/United_States
+Afridi,Political,Tribe,https://en.wikipedia.org/wiki/Afridi
+Mohawk,Political,Tribe,https://en.wikipedia.org/wiki/Mohawk_people
 Spartan,Political,Tribe,https://en.wikipedia.org/wiki/Sparta
 "Chihaya Castle, Osaka Prefecture, Japan",Structure,Castle,https://en.wikipedia.org/wiki/Chihaya_Castle
 "Valley Forge, US",Structure,Fort,https://en.wikipedia.org/wiki/Valley_Forge
