@@ -23,7 +23,7 @@ ac_cressy|hms_aboukir,Aboukir,"Battle of the Nile, War of the Second Coalition"
 ac_cressy|hms_bacchante,Bacchante,Maenad
 ac_cressy|hms_cressy,Cressy,"Battle of Crecy, Hundred Years' War"
 ac_cressy|hms_euryalus,Euryalus,Euryalus
-ac_cressy|hms_hogue,Hogue,"Battles of Barfleur and La Hougue, Nine Years' War"
+ac_cressy|hms_hogue,Hogue,"Battle of La Hougue, Nine Years' War"
 ac_cressy|hms_sutlej,Sutlej,"Battle of Aliwal, First Anglo-Sikh War"
 ac_devonshire|hms_antrim,Antrim,"County Antrim, Northern Ireland, UK"
 ac_devonshire|hms_argyll,Argyll,"Argyll, Scotland, UK"
@@ -5002,8 +5002,8 @@ cl_carlisle|hms_calcutta,Calcutta,"Kolkata, West Bengal, India"
 cl_carlisle|hms_capetown,Capetown,"Cape Town, South Africa"
 cl_carlisle|hms_carlisle,Carlisle,"Carlisle, England, UK"
 cl_carlisle|hms_colombo,Colombo,"Colombo, Sri Lanka"
-cl_caroline|hms_caroline,Caroline,
-cl_caroline|hms_carysfort,Carysfort,
+cl_caroline|hms_caroline,Caroline,Caroline of Brandenburg-Ansbach
+cl_caroline|hms_carysfort,Carysfort,Earl of Carysfort
 cl_caroline|hms_cleopatra,Cleopatra,Cleopatra VII Thea Philopator
 cl_caroline|hms_comus,Comus,Comus
 cl_caroline|hms_conquest,Conquest,Conquest
@@ -6149,24 +6149,26 @@ dd_bainbridge|uss_stewart,Stewart,Charles Stewart
 dd_banshee|hms_banshee,Banshee,Banshee
 dd_banshee|hms_contest,Contest,Contest
 dd_banshee|hms_dragon,Dragon,Dragon
-dd_barfleur|hms_armada,Armada,
-dd_barfleur|hms_barfleur,Barfleur,
-dd_barfleur|hms_cadiz,Cadiz,
-dd_barfleur|hms_camperdown,Camperdown,
-dd_barfleur|hms_finisterre,Finisterre,
-dd_barfleur|hms_gabbard,Gabbard,
-dd_barfleur|hms_gravelines,Gravelines,
-dd_barfleur|hms_hogue,Hogue,
-dd_barfleur|hms_lagos,Lagos,
-dd_barfleur|hms_saintes,Saintes,
-dd_barfleur|hms_sluys,Artemiz,
-dd_barfleur|hms_sluys,Damavand,
-dd_barfleur|hms_sluys,Sluys,
-dd_barfleur|hms_solebay,Solebay,
-dd_barfleur|hms_st_james,St. James,
-dd_barfleur|hms_st_kitts,St. Kitts,
-dd_barfleur|hms_trafalgar,Trafalgar,
-dd_barfleur|hms_vigo,Vigo,
+dd_barfleur|hms_armada,Armada,"Spanish Armada, Anglo-Spanish War (1585–1604)"
+dd_barfleur|hms_barfleur,Barfleur,Action at Barfleur. War of the Grand Alliance
+dd_barfleur|hms_cadiz,Cadiz,"Siege of Cadiz, Peninsular War"
+dd_barfleur|hms_cadiz,Khaibar,"Battle of Khaybar, Muslim–Quraysh War"
+dd_barfleur|hms_camperdown,Camperdown,"Battle of Camperdown, War of the First Coalition"
+dd_barfleur|hms_finisterre,Finisterre,"Second Battle of Cape Finisterre, War of the Austrian Succession"
+dd_barfleur|hms_gabbard,Badr,"Battle of Badr, Muslim–Quraysh War"
+dd_barfleur|hms_gabbard,Gabbard,"Battle of the Gabbard, First Anglo-Dutch War"
+dd_barfleur|hms_gravelines,Gravelines,"Battle of Gravelines, Anglo-Spanish War (1585–1604)"
+dd_barfleur|hms_hogue,Hogue,"Battle of La Hougue, Nine Years' War"
+dd_barfleur|hms_lagos,Lagos,"Battle of Lagos, Seven Years' War"
+dd_barfleur|hms_saintes,Saintes,"Battle of the Saintes, Anglo-French War (1778–1783)"
+dd_barfleur|hms_sluys,Artemiz,Artemis
+dd_barfleur|hms_sluys,Damavand,"Mount Damavand, Iran"
+dd_barfleur|hms_sluys,Sluys,"Battle of Sluys, Hundred Years' War"
+dd_barfleur|hms_solebay,Solebay,"Battle of Solebay, Third Anglo-Dutch War"
+dd_barfleur|hms_st_james,St. James,"St. James' Day Battle, Second Anglo-Dutch War"
+dd_barfleur|hms_st_kitts,St. Kitts,"Battle of Saint Kitts, Anglo-French War (1778–1783)"
+dd_barfleur|hms_trafalgar,Trafalgar,"Battle of Trafalgar, War of the Third Coalition"
+dd_barfleur|hms_vigo,Vigo,"Battle of Vigo Bay, War of the Spanish Succession"
 dd_basilisk_1929|hms_basilisk,Basilisk,Basilisk
 dd_basilisk_1929|hms_beagle,Beagle,Dog (Beagle)
 dd_basilisk_1929|hms_blanche,Blanche,White
@@ -6177,19 +6179,19 @@ dd_basilisk_1929|hms_brazen,Brazen,Brazen
 dd_basilisk_1929|hms_brilliant,Brilliant,Brilliant
 dd_basilisk_1929|hms_bulldog,Bulldog,Dog (Bulldog)
 dd_basilisk_1929|hms_keith,Keith,"George Keith Elphinstone, 1st Viscount Keith"
-dd_battleaxe|hms_battleaxe,Battleaxe,
-dd_battleaxe|hms_broadsword,Broadsword,
-dd_battleaxe|hms_carronade,Carronade,
-dd_battleaxe|hms_crossbow,Crossbow,
-dd_battleaxe|hms_culverin,Culverin,
-dd_battleaxe|hms_cutlass,Cutlass,
-dd_battleaxe|hms_dagger,Dagger,
-dd_battleaxe|hms_howitzer,Howitzer,
-dd_battleaxe|hms_longbow,Longbow,
-dd_battleaxe|hms_rifle,Rifle,
+dd_battleaxe|hms_battleaxe,Battleaxe,Battleaxe
+dd_battleaxe|hms_broadsword,Broadsword,Broadsword
+dd_battleaxe|hms_carronade,Carronade,Carronade
+dd_battleaxe|hms_crossbow,Crossbow,Crossbow
+dd_battleaxe|hms_culverin,Culverin,Culverin
+dd_battleaxe|hms_cutlass,Cutlass,Cutlass
+dd_battleaxe|hms_dagger,Dagger,Dagger
+dd_battleaxe|hms_howitzer,Howitzer,Howitzer
+dd_battleaxe|hms_longbow,Longbow,Longbow
+dd_battleaxe|hms_rifle,Rifle,Rifle
 dd_battleaxe|hms_scorpion,Scorpion,Scorpion
 dd_battleaxe|hms_spear,Spear,Spear
-dd_battleaxe|hms_sword,Sword,
+dd_battleaxe|hms_sword,Sword,Sword
 dd_beagle|hms_basilisk,Basilisk,Basilisk
 dd_beagle|hms_beagle,Beagle,Dog (Beagle)
 dd_beagle|hms_bulldog,Bulldog,Dog (Bulldog)
@@ -6464,14 +6466,6 @@ dd_buenos_aires|ara_san_luis,San Luis,
 dd_buenos_aires|ara_santa_cruz,Santa Cruz,
 dd_bustamante|bustamante,Bustamante,
 dd_bustamante|villaamil,Villaamil,
-dd_ca|hms_caesar,Caesar,
-dd_ca|hms_cambrian,Cambrian,Wales
-dd_ca|hms_caprice,Caprice,
-dd_ca|hms_carron,Carron,
-dd_ca|hms_carysfort,Carysfort,
-dd_ca|hms_cassandra,Cassandra,Cassandra
-dd_ca|hms_cavalier,Cavalier,
-dd_ca|hms_cavendish,Cavendish,
 dd_cadarso|cadarso,Cadarso,
 dd_caldwell|uss_caldwell,Caldwell,James R. Caldwell
 dd_caldwell|uss_craven,Conway,William Conway
@@ -6479,6 +6473,19 @@ dd_caldwell|uss_craven,Craven,Tunis Augustus Macdonough Craven
 dd_caldwell|uss_craven,Lewes,"Lewes, England, UK"
 dd_caldwell|uss_gwin,Gwin,William Gwin
 dd_caldwell|uss_manley,Manley,John Manley
+dd_cambrian_1942|hms_carysfort,Carysfort,"John Proby, 1st Baron Carysfort"
+dd_cambrian_1942|hms_cassandra,Cassandra,Cassandra
+dd_cambrian_1942|hms_cavalier,Cavalier,Cavalier
+dd_cambrian_1942|hms_ranger,Caesar,Julius Caesar
+dd_cambrian_1942|hms_ranger,Ranger,Ranger
+dd_cambrian_1942|hms_sibyl,Cavendish,William Cavendish
+dd_cambrian_1942|hms_sibyl,Sibyl,Sibyl
+dd_cambrian_1942|hms_spitfire,Cambrian,Wales
+dd_cambrian_1942|hms_spitfire,Spitfire,Spitfire
+dd_cambrian_1942|hms_strenuous,Carron,"River Carron, Scotland, UK"
+dd_cambrian_1942|hms_strenuous,Strenuous,Strenuous
+dd_cambrian_1942|hms_swallow,Caprice,Caprice
+dd_cambrian_1942|hms_swallow,Swallow,Swallow
 dd_capitan_merino_jarpa|capitan_merino_jarpa,Capitan Merino Jarpa,
 dd_capitan_merino_jarpa|capitan_o_brien,Capitan O'Brien,
 dd_capitan_merino_jarpa|capitan_thomson,Capitan Thomson,
@@ -6493,14 +6500,6 @@ dd_catamarca|ara_catamarca,Catamarca,
 dd_catamarca|ara_jujuy,Jujuy,
 dd_cervantes|ara_cervantes,Cervantes,
 dd_cervantes|ara_juan_de_garay,Juan de Garay,
-dd_ch|hms_chaplet,Chaplet,
-dd_ch|hms_charity,Charity,
-dd_ch|hms_chequers,Chequers,
-dd_ch|hms_cheviot,Cheviot,
-dd_ch|hms_chevron,Chevron,
-dd_ch|hms_chieftain,Chieftain,
-dd_ch|hms_childers,Childers,
-dd_ch|hms_chivalrous,Chivalrous,
 dd_chacal|chacal,Chacal,
 dd_chacal|jaguar,Jaguar,
 dd_chacal|leopard,Leopard,Leopard
@@ -6520,6 +6519,16 @@ dd_chelmer|hms_chelmer,Chelmer,"River Chelmer, England, UK"
 dd_chelmer|hms_colne,Colne,"River Colne, England, UK"
 dd_cherwell|hms_cherwell,Cherwell,"River Cherwell, England, UK"
 dd_cherwell|hms_dee,Dee,"River Dee, Wales, UK"
+dd_chevron_1943|hms_chaplet,Chaplet,Chaplet
+dd_chevron_1943|hms_charity,Charity,Charity
+dd_chevron_1943|hms_charity,Shah Jahan,Shah Jahan I
+dd_chevron_1943|hms_chequers,Chequers,"Chequers Court, England, UK"
+dd_chevron_1943|hms_cheviot,Cheviot,"Cheviot Hills, UK"
+dd_chevron_1943|hms_chevron,Chevron,Chevron
+dd_chevron_1943|hms_chieftain,Chieftain,Chieftain
+dd_chevron_1943|hms_childers,Childers,
+dd_chevron_1943|hms_chivalrous,Chivalrous,Chivalrous
+dd_chevron_1943|hms_chivalrous,Taimur,Timur
 dd_ching_po|ching_po,Ascaro,
 dd_ching_po|ching_po,Ching Po,
 dd_churucca_1928|alcala_galiano,Alcala Galiano,
@@ -6659,15 +6668,16 @@ dd_clemson|uss_yarborough,Yarborough,George Hampton Yarborough Jr.
 dd_clemson|uss_young,Young,John Young
 dd_clemson|uss_zane,Zane,Randolph Talcott Zane
 dd_clemson|uss_zeilin,Zeilin,Jacob Zeilin
-dd_co|hms_cockade,Cockade,
-dd_co|hms_comet,Comet,Comet
-dd_co|hms_comus,Comus,Comus
-dd_co|hms_concord,Concord,Concord
-dd_co|hms_consort,Consort,
-dd_co|hms_constance,Constance,
-dd_co|hms_contest,Contest,Contest
-dd_co|hms_cossack,Cossack,
 dd_cobra|hms_cobra,Cobra,Cobra
+dd_cockade_1943|hms_cockade,Cockade,Cockade
+dd_cockade_1943|hms_comet,Comet,Comet
+dd_cockade_1943|hms_comus,Comus,Comus
+dd_cockade_1943|hms_consort,Consort,Consort
+dd_cockade_1943|hms_constance,Constance,Steadfast
+dd_cockade_1943|hms_contest,Contest,Contest
+dd_cockade_1943|hms_corso,Concord,Concord
+dd_cockade_1943|hms_corso,Corso,Privateer
+dd_cockade_1943|hms_cossack,Cossack,Cossacks
 dd_comandanti|comandante_baroni,Comandante Baroni,
 dd_comandanti|comandante_borsini,Comandante Borsini,
 dd_comandanti|comandante_botti,Comandante Botti,
@@ -6707,18 +6717,20 @@ dd_cossack|hms_cossack,Cossack,Cossacks
 dd_cossack|hms_ghurka,Ghurka,Nepalis
 dd_cossack|hms_mohawk,Mohawk,Mohawk
 dd_cossack|hms_tartar,Tartar,Tatars
-dd_cr|hmcs_crescent,Crescent,Crescent
-dd_cr|hmcs_crusader,Crusader,Crusader
-dd_cr|hms_creole,Creole,
-dd_cr|hms_crispin,Crispin,
-dd_cr|hms_cromwell,Bergen,
-dd_cr|hms_cromwell,Cromwell,
-dd_cr|hms_crown,Crown,Crown
-dd_cr|hms_crown,Oslo,
-dd_cr|hms_croziers,Croziers,
-dd_cr|hms_croziers,Trondheim,
-dd_cr|hms_crystal,Crystal,
-dd_cr|hms_crystal,Stavanger,
+dd_crescent_1943|hmcs_crescent,Crescent,Crescent
+dd_crescent_1943|hmcs_crusader,Crusader,Crusader
+dd_crescent_1943|hms_creole,Alamgir,Alamgir I
+dd_crescent_1943|hms_creole,Creole,Creole
+dd_crescent_1943|hms_crispin,Crispin,Saint Crispin
+dd_crescent_1943|hms_crispin,Jahangir,Nur al-Din Muhammad Salim
+dd_crescent_1943|hms_cromwell,Bergen,"Bergen, Norway"
+dd_crescent_1943|hms_cromwell,Cromwell,Oliver Cromwell
+dd_crescent_1943|hms_crown,Crown,Crown
+dd_crescent_1943|hms_crown,Oslo,"Oslo, Norway"
+dd_crescent_1943|hms_croziers,Croziers,Francis Rawdon Moira Crozier
+dd_crescent_1943|hms_croziers,Trondheim,"Trondheim, Norway"
+dd_crescent_1943|hms_crystal,Crystal,The Crystal Palace
+dd_crescent_1943|hms_crystal,Stavanger,"Stavanger, Norway"
 dd_curtalone|calatafimi,Achilles,Achilles
 dd_curtalone|calatafimi,Calatafimi,
 dd_curtalone|castelfidardo,Castelfidardo,
@@ -6739,16 +6751,16 @@ dd_dainty_1931|hms_duchess,Duchess,Duchess
 dd_dainty_1931|hms_duncan,Duncan,"Adam Duncan, 1st Viscount Duncan"
 dd_daring_1895|hms_daring,Daring,Daring
 dd_daring_1895|hms_decoy,Decoy,Decoy
-dd_daring|hms_dainty,Dainty,
-dd_daring|hms_daring,Daring,
-dd_daring|hms_decoy,Decoy,
-dd_daring|hms_decoy,Ferre,
-dd_daring|hms_defender,Defender,
-dd_daring|hms_delight,Delight,
-dd_daring|hms_diamond,Diamond,
-dd_daring|hms_diana,Diana,
-dd_daring|hms_diana,Palacios,
-dd_daring|hms_duchess,Duchess,
+dd_daring|hms_dainty,Dainty,Dainty
+dd_daring|hms_daring,Daring,Daring
+dd_daring|hms_decoy,Decoy,Decoy
+dd_daring|hms_decoy,Ferre,Diego Ferré Sosa
+dd_daring|hms_defender,Defender,Defender
+dd_daring|hms_delight,Delight,Delight
+dd_daring|hms_diamond,Diamond,Diamond
+dd_daring|hms_diana,Diana,Diana
+dd_daring|hms_diana,Palacios,Enrique Sixto Palacios de Mendiburu
+dd_daring|hms_duchess,Duchess,Duchess
 dd_demirhisar|demirhisar,Demirhisar,
 dd_demirhisar|gayret,Gayret,
 dd_demirhisar|gayret,Ithuriel,
@@ -6782,22 +6794,23 @@ dd_draug|troll,Troll,
 dd_dubrovnik|dubrovnik,Dubrovnik,
 dd_dubrovnik|dubrovnik,Premuda,
 dd_dubrovnik|dubrovnik,TA32,
-dd_dunkirk|hms_agincourt,Agincourt,
-dd_dunkirk|hms_aisne,Aisne,
-dd_dunkirk|hms_alamein,Alamein,
-dd_dunkirk|hms_albuera,Albuera,
-dd_dunkirk|hms_barrosa,Barrosa,
-dd_dunkirk|hms_belle_isle,Belle Isle,
-dd_dunkirk|hms_corunna,Corunna,
-dd_dunkirk|hms_dunkirk,Dunkirk,
-dd_dunkirk|hms_jutland,Jutland,
-dd_dunkirk|hms_matapan,Matapan,
-dd_dunkirk|hms_mons,Mons,
-dd_dunkirk|hms_namur,Namur,
-dd_dunkirk|hms_navarino,Navarino,
-dd_dunkirk|hms_omdurman,Omdurman,
-dd_dunkirk|hms_oudenarde,Oudenarde,
-dd_dunkirk|hms_san_domingo,San Domingo,
+dd_dunkirk|hms_agincourt,Agincourt,"Battle of Agincourt, Hundred Years' War"
+dd_dunkirk|hms_aisne,Aisne,"First Battle of the Aisne, World War I"
+dd_dunkirk|hms_alamein,Alamein,"Second Battle of El Alamein, World War II"
+dd_dunkirk|hms_albuera,Albuera,"Battle of Albuera, Peninsular War"
+dd_dunkirk|hms_barrosa,Barrosa,"Battle of Barrosa, Peninsular War"
+dd_dunkirk|hms_belle_isle,Belle Isle,"Capture of Belle Ile, Seven Years' War"
+dd_dunkirk|hms_corunna,Corunna,"Battle of Corunna, Peninsular War"
+dd_dunkirk|hms_dunkirk,Dunkirk,"Battle of Dunkirk, World War II"
+dd_dunkirk|hms_malplaquet,Jutland,"Battle of Jutland, World War I"
+dd_dunkirk|hms_malplaquet,Malplaquet,"Battle of Malplaquet, War of the Spanish Succession"
+dd_dunkirk|hms_matapan,Matapan,"Battle of Cape Matapan, World War II"
+dd_dunkirk|hms_mons,Mons,"Battle of Mons, World War I"
+dd_dunkirk|hms_namur,Namur,"Siege of Namur (1695), Nine Years' War"
+dd_dunkirk|hms_navarino,Navarino,"Battle of Navarino, Greek War of Independence"
+dd_dunkirk|hms_omdurman,Omdurman,"Battle of Omdurman, Anglo-Egyptian conquest of Sudan"
+dd_dunkirk|hms_oudenarde,Oudenarde,"Battle of Oudenarde, War of the Spanish Succession"
+dd_dunkirk|hms_san_domingo,San Domingo,"Battle of San Domingo, War of the Third Coalition"
 dd_duperre|duperre,Duperre,
 dd_duperre|forbin,Forbin,
 dd_duperre|jaureguiberry,Jaureguiberry,
@@ -7608,20 +7621,21 @@ dd_izyaslav|fyodor_stratilat,Fyodor Stratilat,
 dd_izyaslav|izyaslav,Izyaslav,
 dd_izyaslav|izyaslav,Karl Marx,
 dd_izyaslav|kalinin,Kalinin,
-dd_j|hms_jackal,Jackal,Jackal
-dd_j|hms_jaguar,Jaguar,
-dd_j|hms_janus,Janus,Janus
-dd_j|hms_javelin,Javelin,
-dd_j|hms_jersey,Jersey,
-dd_j|hms_jervis,Jervis,
-dd_j|hms_juno,Juno,Juno
-dd_j|hms_jupiter,Jupiter,
 dd_janissaire|cavalier,Cavalier,
 dd_janissaire|fantassin,Fantassin,
 dd_janissaire|janissaire,Janissaire,
 dd_janus|hms_janus,Janus,Janus
 dd_janus|hms_lightning,Lightning,Lightning
 dd_janus|hms_porcupine,Porcupine,Porcupine
+dd_jervis_1937|hms_jackal,Jackal,Jackal
+dd_jervis_1937|hms_jaguar,Jaguar,Jaguar
+dd_jervis_1937|hms_jamaica,Jamaica,Colony of Jamaica
+dd_jervis_1937|hms_jamaica,Juno,Juno
+dd_jervis_1937|hms_janus,Janus,Janus
+dd_jervis_1937|hms_javelin,Javelin,Javelin
+dd_jervis_1937|hms_jersey,Jersey,"Jersey, UK"
+dd_jervis_1937|hms_jervis,Jervis,"John Jervis, 1st Earl of St Vincent"
+dd_jervis_1937|hms_jupiter,Jupiter,Jupiter
 dd_juruena|jaguaribe,Highlander,Highlander
 dd_juruena|jaguaribe,Jaguaribe,"Jaguaribe River, Brazil"
 dd_juruena|japarua,Hurricane,Hurricane
@@ -7636,14 +7650,6 @@ dd_juruena|juruena,Hesperus,Hesperus
 dd_juruena|juruena,Juruena,"Juruena River, Mato Grosso, Brazil"
 dd_juruena|jutahy,Havelock,Henry Havelock
 dd_juruena|jutahy,Jutahy,"Jutai River, Brazil"
-dd_k|hms_kandahar,Kandahar,
-dd_k|hms_kashmir,Kashmir,
-dd_k|hms_kelly,Kelly,
-dd_k|hms_kelvin,Kelvin,
-dd_k|hms_khartoum,Khartoum,
-dd_k|hms_kimberley,Kimberley,
-dd_k|hms_kingston,Kingston,
-dd_k|hms_kipling,Kipling,
 dd_kaba|kaba,Kaba,Birch Tree
 dd_kaba|kaede,Kaede,Maple Tree
 dd_kaba|kashiwa,Kashiwa,Cypress Tree
@@ -7712,6 +7718,14 @@ dd_kazanets|kazanets,Kazanets,
 dd_kazanets|steregushchiy,Steregushchiy,
 dd_kazanets|strashnyy,Strashnyy,
 dd_kazanets|zabaykalets,Zabaykalets,
+dd_kelly_1937|hms_kandahar,Kandahar,"Battle of Kandahar, Second Anglo-Afghan War"
+dd_kelly_1937|hms_kashmir,Kashmir,Kashmir
+dd_kelly_1937|hms_kelly,Kelly,John Donald Kelly
+dd_kelly_1937|hms_kelvin,Kelvin,"William Thomson, 1st Baron Kelvin"
+dd_kelly_1937|hms_khartoum,Khartoum,"Khartoum, Khartoum, Sudan"
+dd_kelly_1937|hms_kimberley,Kimberley,"Siege of Kimberley, Second Boer War"
+dd_kelly_1937|hms_kingston,Kingston,"Royal Borough of Kingston upon Thames, London, England, UK"
+dd_kelly_1937|hms_kipling,Kipling,Joseph Rudyard Kipling
 dd_kennet|hms_jed,Jed,"Jed Water, Scotland, UK"
 dd_kennet|hms_kennet,Kennet,"River Kennet, England, UK"
 dd_kestrel|hms_kestrel,Kestrel,Kestrel
@@ -7790,10 +7804,6 @@ dd_l_intrepide|l_aventurier,L'Aventurier,
 dd_l_intrepide|l_intrepide,L'Intrepide,
 dd_l_intrepide|l_opinietre,L'Opinietre,
 dd_l_intrepide|le_temeraire,Le Temeraire,Reckless
-dd_l|hms_gurkha,Gurkha,
-dd_l|hms_lance,Lance,
-dd_l|hms_legion,Legion,
-dd_l|hms_lively,Lively,Lively
 dd_la_plata|ara_cordoba,Cordoba,
 dd_la_plata|ara_la_plata,La Plata,
 dd_laforey_1913|hms_daring,Daring,Daring
@@ -7844,6 +7854,11 @@ dd_lampo|euro,Euro,
 dd_lampo|euro,Strale,
 dd_lampo|freccia,Freccia,
 dd_lampo|lampo,Lampo,
+dd_larne_1938|hms_lance,Lance,Lance
+dd_larne_1938|hms_larne,Gurkha,Nepali
+dd_larne_1938|hms_larne,Larne,"Larne, Northern Ireland, UK"
+dd_larne_1938|hms_legion,Legion,Legion
+dd_larne_1938|hms_lively,Lively,Lively
 dd_lawrence|uss_lawrence,Lawrence,James Lawrence
 dd_lawrence|uss_macdonough,MacDonough,Thomas Macdonough Jr.
 dd_le_fantasque|l_audacieux,L'Audacieux,
@@ -7946,19 +7961,6 @@ dd_m_1912|hms_moorsom,Moorsom,Sir Robert Moorsom
 dd_m_1912|hms_morris,Morris,George Morris
 dd_m_1912|hms_murray,Murray,Sir George Murray
 dd_m_1912|hms_myngs,Myngs,Sir Christopher Myngs
-dd_m|hms_mahratta,Mahratta,
-dd_m|hms_marne,Maresal Fevzi Cakmak,
-dd_m|hms_marne,Marne,
-dd_m|hms_martin,Martin,Swallow
-dd_m|hms_matchless,Kilic Ali Pasa,
-dd_m|hms_matchless,Matchless,
-dd_m|hms_meteor,Meteor,Meteor
-dd_m|hms_meteor,Piyale Pasa,
-dd_m|hms_milne,Alp Arslan,
-dd_m|hms_milne,Milne,
-dd_m|hms_musketeer,Musketeer,
-dd_m|hms_myrmidon,Myrmidon,
-dd_m|hms_myrmidon,Orkan,
 dd_maestrale|grecale,Grecale,
 dd_maestrale|libeccio,Libeccio,
 dd_maestrale|maestrale,Maestrale,
@@ -7989,6 +7991,20 @@ dd_mandate|hms_marigold,Marigold,Marigold
 dd_mandate|hms_mary_rose,Mary Rose,Mary
 dd_mandate|hms_menace,Menace,Menace
 dd_mandate|hms_moresby,Moresby,Sir Fairfax Moresby
+dd_marksman_1939|hms_mahratta,Mahratta,Maratha Empire
+dd_marksman_1939|hms_marksman,Marksman,Marksman
+dd_marksman_1939|hms_marne,Maresal Fevzi Cakmak,Mustafa Fevzi Cakmak
+dd_marksman_1939|hms_marne,Marne,"First Battle of the Marne, World War I"
+dd_marksman_1939|hms_martin,Martin,Swallow
+dd_marksman_1939|hms_matchless,Kilic Ali Pasa,Giovanni Dionigi Galeni
+dd_marksman_1939|hms_matchless,Matchless,Matchless
+dd_marksman_1939|hms_meteor,Meteor,Meteor
+dd_marksman_1939|hms_meteor,Piyale Pasa,Piali Pasha
+dd_marksman_1939|hms_milne,Alp Arslan,Muhammad Alp Arslan bin Dawud Chaghri
+dd_marksman_1939|hms_milne,Milne,David Milne
+dd_marksman_1939|hms_musketeer,Musketeer,Musketeer
+dd_marksman_1939|hms_myrmidon,Myrmidon,Myrmidons
+dd_marksman_1939|hms_myrmidon,Orkan,Hurricane
 dd_mcdougal|uss_ericsson,Ericsson,John Ericsson
 dd_mcdougal|uss_mcdougal,McDougal,David Stockton McDougal
 dd_mendoza_1914|ara_mendoza,Aventurier,
@@ -8146,7 +8162,7 @@ dd_mons_1914|hms_redmill,Redmill,Robert Redmill
 dd_mons_1914|hms_redwing,Medway,"River Medway, England, UK"
 dd_mons_1914|hms_redwing,Redwing,Redwing
 dd_moon_1914|hms_moon,Moon,The Moon
-dd_moon_1914|hms_morning_star,Morning Star,Venus
+dd_moon_1914|hms_morning_star,Morning Star,Venus (Planet)
 dd_moon_1914|hms_mounsey,Mounsey,William Mounsey
 dd_moon_1914|hms_musketeer,Musketeer,Musketeer
 dd_moon_1914|hms_nerissa,Nerissa,Nerissa
@@ -8187,18 +8203,6 @@ dd_mutsuki|yuzuki,Dai-34,
 dd_mutsuki|yuzuki,Yuzuki,Waxing Moon
 dd_myrmidon|hms_myrmidon,Myrmidon,Myrmidons
 dd_myrmidon|hms_syren,Syren,Siren
-dd_n|hms_napier,Napier,
-dd_n|hms_nepal,Nepal,
-dd_n|hms_nerissa,Nerissa,
-dd_n|hms_nerissa,Piorun,
-dd_n|hms_nestor,Nestor,
-dd_n|hms_nizam,Nizam,
-dd_n|hms_noble,Noble,
-dd_n|hms_noble,Van Galen,
-dd_n|hms_nonpareil,Gadjah Mada,
-dd_n|hms_nonpareil,Nonpareil,
-dd_n|hms_nonpareil,Tjerk Hiddes,
-dd_n|hms_norman,Norman,
 dd_nazzario_sauro|cesare_battisti,Cesare Battisti,
 dd_nazzario_sauro|daniele_manin,Daniele Manin,
 dd_nazzario_sauro|francesco_nullo,Francesco Nullo,
@@ -8211,27 +8215,40 @@ dd_niki|aspis,Aspis,Aspis
 dd_niki|doxa,Doxa,
 dd_niki|niki,Niki,
 dd_niki|velos,Velos,
+dd_noble_1939|hms_napier,Napier,Charles John Napier
+dd_noble_1939|hms_nerissa,Nerissa,Nerissa
+dd_noble_1939|hms_nerissa,Piorun,Lightning
+dd_noble_1939|hms_nestor,Nestor,Nestor
+dd_noble_1939|hms_nizam,Nizam,"Osman Ali Khan, Asaf Jah VII"
+dd_noble_1939|hms_noble,Noble,Noble (Coin)
+dd_noble_1939|hms_noble,Van Galen,Johan van Galen
+dd_noble_1939|hms_nonpareil,Gadjah Mada,Gajah Mada
+dd_noble_1939|hms_nonpareil,Nonpareil,Nonpareil
+dd_noble_1939|hms_nonpareil,Tjerk Hiddes,Tjerk Hiddes de Vries
+dd_noble_1939|hms_norman,Norman,Normans
+dd_noble_1939|hms_norseman,Nepal,Nepal
+dd_noble_1939|hms_norseman,Norseman,Norsemen
 dd_novik|yakov_sverdlov,Yakov Sverdlov,
 dd_o_brien|uss_nicholson,Nicholson,Samuel Nicholson
 dd_o_brien|uss_o_brien,O'Brien,Jeremiah O'Brien
 dd_o_brien|uss_winslow,Winslow,John Ancrum Winslow
-dd_o|hms_offa,Offa,
-dd_o|hms_onslaught,Onslaught,
-dd_o|hms_onslow,Onslow,
-dd_o|hms_oribi,Gayret,
-dd_o|hms_oribi,Oribi,
+dd_obdurate_1940|hms_obdurate,Obdurate,Obdurate
+dd_obdurate_1940|hms_obedient,Obedient,Obedient
+dd_obdurate_1940|hms_opportune,Opportune,Opportune
+dd_obdurate_1940|hms_orwell,Orwell,"River Orwell, England, UK"
+dd_offa_1940|hms_offa,Offa,Offa of Mercia
+dd_offa_1940|hms_offa,Tariq,Tariq ibn Ziyad
+dd_offa_1940|hms_onslaught,Onslaught,Onslaught
+dd_offa_1940|hms_onslaught,Tughril,Abu Talib Muhammad Tughril ibn Mika'il
+dd_offa_1940|hms_oribi,Gayret,Endeavor
+dd_offa_1940|hms_oribi,Oribi,Oribi
+dd_offa_1940|hms_pakenham,Onslow,"Richard Onslow, 1st Baron Onslow"
+dd_offa_1940|hms_pakenham,Pakenham,Thomas Pakenham
+dd_offa_1940|hms_pakenham,Tippu Sultan,Tipu Sultan
 dd_oland|oland,Oland,
 dd_oland|uppland,Uppland,
 dd_oquendo|oquendo,Oquendo,
 dd_orwell|hms_orwell,Orwell,"River Orwell, England, UK"
-dd_p|hms_pakenham,Pakenham,
-dd_p|hms_paladin,Paladin,
-dd_p|hms_panther,Panther,Panther
-dd_p|hms_partridge,Partridge,Partridge
-dd_p|hms_pathfinder,Pathfinder,Pathfinder
-dd_p|hms_penn,Penn,
-dd_p|hms_petard,Petard,
-dd_p|hms_porcupine,Porcupine,Porcupine
 dd_palestro|confienza,Confienza,
 dd_palestro|palestro,Palestro,
 dd_palestro|san_martino,San Martino,
@@ -8257,6 +8274,15 @@ dd_paulding|uss_mccall,McCall,Edward R. McCall
 dd_paulding|uss_paulding,Paulding,Hiram Paulding
 dd_paulding|uss_roe,Roe,Francis Asbury Roe
 dd_paulding|uss_terry,Terry,Edward A. Terry
+dd_penn_1939|hms_onslow,Onslow,"Richard Onslow, 1st Baron Onslow"
+dd_penn_1939|hms_onslow,Pakenham,Thomas Pakenham
+dd_penn_1939|hms_paladin,Paladin,Paladins
+dd_penn_1939|hms_panther,Panther,Panther
+dd_penn_1939|hms_partridge,Partridge,Partridge
+dd_penn_1939|hms_pathfinder,Pathfinder,Pathfinder
+dd_penn_1939|hms_penn,Penn,William Penn
+dd_penn_1939|hms_petard,Petard,Petard
+dd_penn_1939|hms_porcupine,Porcupine,Porcupine
 dd_perkins|uss_mayrant,Mayrant,John Mayrant
 dd_perkins|uss_perkins,Perkins,George Hamilton Perkins
 dd_perkins|uss_sterett,Sterett,Andrew Sterett
@@ -8482,15 +8508,15 @@ dd_project_7u|stroynyy,Stroynyy,
 dd_project_7u|surovyy,Surovyy,
 dd_project_7u|svirepyy,Svirepyy,
 dd_project_7u|svobodnyy,Svobodnyy,
-dd_q|hms_quadrant,Quadrant,
-dd_q|hms_quail,Quail,Quail
-dd_q|hms_quality,Quality,
-dd_q|hms_queenborough,Queenborough,
-dd_q|hms_quentin,Quentin,
-dd_q|hms_quiberon,Quiberon,
-dd_q|hms_quickmatch,Quickmatch,
-dd_q|hms_quilliam,Banckert,
-dd_q|hms_quilliam,Quilliam,
+dd_quadrant_1940|hms_quadrant,Quadrant,Quadrant
+dd_quadrant_1940|hms_quail,Quail,Quail
+dd_quadrant_1940|hms_quality,Quality,Quality
+dd_quadrant_1940|hms_queenborough,Queenborough,"Queenborough, England, UK"
+dd_quadrant_1940|hms_quentin,Quentin,Quentin Durward
+dd_quadrant_1940|hms_quiberon,Quiberon,"Battle of Quiberon Bay, Seven Years War"
+dd_quadrant_1940|hms_quickmatch,Quickmatch,Quick Match
+dd_quadrant_1940|hms_quilliam,Banckert,Adriaen van Trappen Banckert
+dd_quadrant_1940|hms_quilliam,Quilliam,John Quilliam
 dd_quail|hms_quail,Quail,Quail
 dd_quail|hms_sparrowhawk,Sparrowhawk,Sparrowhawk
 dd_quail|hms_thrasher,Thrasher,Thrasher
@@ -8513,17 +8539,6 @@ dd_r_mod|hms_undine,Undine,Undine
 dd_r_mod|hms_urchin,Urchin,Sea Urchin
 dd_r_mod|hms_ursa,Ursa,Bear
 dd_r_mod|hms_ursula,Ursula,Saint Ursula
-dd_r|hms_racehorse,Racehorse,Horse (Racehorse)
-dd_r|hms_raider,Raider,
-dd_r|hms_raider,Rana,
-dd_r|hms_rapid,Rapid,
-dd_r|hms_redoubt,Ranjit,
-dd_r|hms_redoubt,Redoubt,
-dd_r|hms_relentless,Relentless,
-dd_r|hms_rocket,Rocket,Rocket
-dd_r|hms_roebuck,Roebuck,Roe Deer (Male)
-dd_r|hms_rotherham,Rajput,
-dd_r|hms_rotherham,Rotherham,
 dd_radstock_1915|hms_radstock,Radstock,"William Waldegrave, 1st Baron Radstock"
 dd_radstock_1915|hms_raider,Raider,Raider
 dd_radstock_1915|hms_recruit,Recruit,Recruit
@@ -8571,6 +8586,17 @@ dd_regele_ferdinand|regele_ferdinand,Likhoy,
 dd_regele_ferdinand|regele_ferdinand,Regele Ferdinand,
 dd_regele_ferdinand|regina_maria,Letuchiy,
 dd_regele_ferdinand|regina_maria,Regina Maria,
+dd_rocket_1941|hms_racehorse,Racehorse,Horse (Racehorse)
+dd_rocket_1941|hms_raider,Raider,Raider
+dd_rocket_1941|hms_raider,Rana,Pratap Singh I 
+dd_rocket_1941|hms_rapid,Rapid,Rapid
+dd_rocket_1941|hms_redoubt,Ranjit,Ranjit Singh
+dd_rocket_1941|hms_redoubt,Redoubt,Redoubt
+dd_rocket_1941|hms_relentless,Relentless,Relentless
+dd_rocket_1941|hms_rocket,Rocket,Rocket
+dd_rocket_1941|hms_roebuck,Roebuck,Roe Deer (Male)
+dd_rocket_1941|hms_rotherham,Rajput,Rajput
+dd_rocket_1941|hms_rotherham,Rotherham,Edward Rotheram
 dd_rocket|hms_rocket,Rocket,Rocket
 dd_rocket|hms_shark,Shark,Shark
 dd_rocket|hms_surly,Surly,Surly
@@ -8581,7 +8607,7 @@ dd_rosalind_1915|hms_radiant,Radiant,Radiant
 dd_rosalind_1915|hms_retriever,Retriever,Dog (Retriever)
 dd_rosalind_1915|hms_rosalind,Rosalind,Rosalind
 dd_rosalind_1915|hms_taurus,Taurus,Taurus
-dd_rosalind_1915|hms_teazer,Teazer,Teazer
+dd_rosalind_1915|hms_teazer,Teazer,Teaser
 dd_rosolino_pilo|antonio_mosto,Antonio Mosto,
 dd_rosolino_pilo|francesco_nullo,Francesco Nullo,
 dd_rosolino_pilo|francesco_nullo,Fratelli Cairoli,
@@ -8605,19 +8631,6 @@ dd_russell|uss_walke,Walke,Henry A. Walke
 dd_rykov|karl_libknekht,Karl Libknekht,
 dd_rykov|rykov,Rykov,
 dd_rykov|rykov,Valerian Kuybyshev,
-dd_s|hms_saumarez,Saumarez,
-dd_s|hms_savage,Savage,Savage
-dd_s|hms_scorpion,Kortenaer,
-dd_s|hms_scorpion,Scorpion,Scorpion
-dd_s|hms_scourge,Evertsen,
-dd_s|hms_scourge,Scourge,Scourge
-dd_s|hms_serapis,Piet Hein,
-dd_s|hms_serapis,Serapis,
-dd_s|hms_shark,Shark,Shark
-dd_s|hms_shark,Svenner,
-dd_s|hms_success,Stord,
-dd_s|hms_success,Success,Success
-dd_s|hms_swift,Swift,Swift
 dd_s113|s113,Amiral Senes,
 dd_s113|s113,S113,
 dd_s113|s114,S114,
@@ -8627,7 +8640,7 @@ dd_s35|s_ii,s-ii,
 dd_sabrina_1915|hms_sabrina,Sabrina,Hafren
 dd_sabrina_1915|hms_strongbow,Strongbow,"Richard de Clare, 2nd Earl of Pembroke"
 dd_sabrina_1915|hms_surprise,Surprise,Surprise
-dd_sabrina_1915|hms_sybille,Sybille,Sibyls
+dd_sabrina_1915|hms_sybille,Sybille,Sibyl
 dd_sabrina_1915|hms_truculent,Truculent,Truculent
 dd_sabrina_1915|hms_tyrant,Tyrant,Tyrant
 dd_sabrina_1915|hms_ulleswater,Ulleswater,"Ullswater, England, UK"
@@ -8679,6 +8692,20 @@ dd_schastlivyy|pospeshnyy,Pospeshnyy,
 dd_schastlivyy|pylkiy,Pylkiy,
 dd_schastlivyy|schastlivyy,R01,
 dd_schastlivyy|schastlivyy,Schastlivyy,
+dd_scorpion_1941|hms_saumarez,Saumarez,"James Saumarez, 1st Baron de Saumarez"
+dd_scorpion_1941|hms_savage,Savage,Savage
+dd_scorpion_1941|hms_scourge,Evertsen,Evertsen Family
+dd_scorpion_1941|hms_scourge,Scourge,Scourge
+dd_scorpion_1941|hms_sentinel,Kortenaer,Egbert Bartholomeuszoon Kortenaer
+dd_scorpion_1941|hms_sentinel,Scorpion,Scorpion
+dd_scorpion_1941|hms_sentinel,Sentinel,Sentinel
+dd_scorpion_1941|hms_serapis,Piet Hein,Piet Pieterszoon Hein
+dd_scorpion_1941|hms_serapis,Serapis,Serapis
+dd_scorpion_1941|hms_shark,Shark,Shark
+dd_scorpion_1941|hms_shark,Svenner,Svenner Islands
+dd_scorpion_1941|hms_success,Stord,"Stord, Norway"
+dd_scorpion_1941|hms_success,Success,Success
+dd_scorpion_1941|hms_swift,Swift,Swift
 dd_scythe_1917|hms_sardonyx,Sardonyx,Onyx (Sardonyx)
 dd_scythe_1917|hms_saturn,Saturn,Saturn
 dd_scythe_1917|hms_scythe,Scythe,Scythe
@@ -8845,14 +8872,6 @@ dd_swale|hms_ure,Ure,"River Ure, England, UK"
 dd_swale|hms_wear,Wear,"River Wear, England, UK"
 dd_swordfish|hms_spitfire,Spitfire,Spitfire
 dd_swordfish|hms_swordfish,Swordfish,Swordfish
-dd_t|hms_teazer,Teazer,
-dd_t|hms_tenacious,Tenacious,Tenacious
-dd_t|hms_termagant,Termagant,
-dd_t|hms_terpsichore,Terpsichore,Terpsichore
-dd_t|hms_troubridge,Troubridge,
-dd_t|hms_tumult,Tumult,
-dd_t|hms_tuscan,Tuscan,
-dd_t|hms_tyrian,Tyrian,
 dd_takatsuki|jds_kikuzuki,Kikuzuki,Nineth Month
 dd_takatsuki|jds_mochizuki,Mochizuki,Full Moon
 dd_takatsuki|jds_nagatsuki,Nagatsuki,Nineth Month
@@ -8903,16 +8922,16 @@ dd_thyella|lonchi,Lonchi,
 dd_thyella|nafkratoussa,Nafkratoussa,
 dd_thyella|sfendoni,Sfendoni,
 dd_thyella|thyella,Thyella,
-dd_tobruk|hmas_anzac,Anzac,
-dd_tobruk|hmas_tobruk,Tobruk,
-dd_tobruk|hms_jutland,Jutland,
-dd_tobruk|hms_poictiers,Poictiers,
-dd_tobruk|hms_river_platte,River Platte,
-dd_tobruk|hms_somme,Somme,
-dd_tobruk|hms_st_lucia,St. Lucia,
-dd_tobruk|hms_talavera,Talavera,
-dd_tobruk|hms_trincomalee,Trincomalee,
-dd_tobruk|hms_waterloo,Waterloo,
+dd_tobruk|hmas_anzac,Anzac,Australian and New Zealand Army Corps
+dd_tobruk|hmas_tobruk,Tobruk,"Siege of Tobruk, World War II"
+dd_tobruk|hms_jutland,Jutland,"Battle of Jutland, World War I"
+dd_tobruk|hms_poictiers,Poictiers,"Battle of Poitiers, Hundred Years' War"
+dd_tobruk|hms_river_platte,River Platte,"Battle of the River Plate, World War II"
+dd_tobruk|hms_somme,Somme,"Battle of the Somme, World War I"
+dd_tobruk|hms_st_lucia,St. Lucia,"Battle of St. Lucia, Anglo-French War (1778–1783)"
+dd_tobruk|hms_talavera,Talavera,"Battle of Talavera, Peninsular War"
+dd_tobruk|hms_trincomalee,Trincomalee,"Battle of Trincomalee, Anglo-French War (1778–1783)"
+dd_tobruk|hms_waterloo,Waterloo,"Battle of Waterloo, War of the Seventh Coalition"
 dd_tochnyy|inzhener_mekhanik_anastasov,Inzhener-Mekhanik Anastasov,
 dd_tochnyy|leytenant_maleev,Leytenant Maleev,
 dd_tochnyy|tochnyy,Potapenko,
@@ -8927,33 +8946,36 @@ dd_torch_1917|hms_tumult,Tumult,Tumult
 dd_torch_1917|hms_turquoise,Turquoise,Turquoise
 dd_torch_1917|hms_tuscan,Tuscan,Tuscan
 dd_torch_1917|hms_tyrian,Tyrian,Tyrian
-dd_tribal_ran|hmas_arunta,Arunta,
-dd_tribal_ran|hmas_bataan,Bataan,
-dd_tribal_ran|hmas_warramunga,Warramunga,
-dd_tribal_rcn_ii|hmcs_athabaskan,Athabaskan,
-dd_tribal_rcn_ii|hmcs_cayuga,Cayuga,
-dd_tribal_rcn_ii|hmcs_micmac,Micmac,
-dd_tribal_rcn_ii|hmcs_nootka,Nootka,
-dd_tribal_rcn|hmcs_athabaskan,Athabaskan,
-dd_tribal_rcn|hmcs_haida,Haida,
-dd_tribal_rcn|hmcs_huron,Huron,
-dd_tribal_rcn|hmcs_iroquois,Iroquois,
+dd_tribal_ran|hmas_arunta,Arunta,Arrernte
+dd_tribal_ran|hmas_kurnai,Bataan,"Battle of Bataan, World War II"
+dd_tribal_ran|hmas_kurnai,Kurnai,Kurnai
+dd_tribal_ran|hmas_warramunga,Warramunga,Warumungu
+dd_tribal_rcn_ii|hmcs_athabaskan,Athabaskan,Dene
+dd_tribal_rcn_ii|hmcs_cayuga,Cayuga,Cayuga
+dd_tribal_rcn_ii|hmcs_micmac,Micmac,Mi'kmaq
+dd_tribal_rcn_ii|hmcs_nootka,Nootka,Nuu-chah-nulth
+dd_tribal_rcn|hmcs_athabaskan,Athabaskan,Dene
+dd_tribal_rcn|hmcs_athabaskan,Iroquois,Iroquois
+dd_tribal_rcn|hmcs_haida,Haida,Haida
+dd_tribal_rcn|hmcs_huron,Huron,Wyandot
+dd_tribal_rcn|hmcs_iroquois,Athabaskan,Dene
+dd_tribal_rcn|hmcs_iroquois,Iroquois,Iroquois
 dd_tribal|hms_afridi,Afridi,Afridi
-dd_tribal|hms_ashanti,Ashanti,
-dd_tribal|hms_bedouin,Bedouin,
-dd_tribal|hms_cossack,Cossack,
-dd_tribal|hms_eskimo,Eskimo,
-dd_tribal|hms_gurkha,Gurkha,
+dd_tribal|hms_ashanti,Ashanti,Asante
+dd_tribal|hms_bedouin,Bedouin,Bedouin
+dd_tribal|hms_cossack,Cossack,Cossacks
+dd_tribal|hms_eskimo,Eskimo,Inuit
+dd_tribal|hms_gurkha,Gurkha,Nepali
 dd_tribal|hms_maori,Maori,Maori
-dd_tribal|hms_mashona,Mashona,
-dd_tribal|hms_matabele,Matabele,
+dd_tribal|hms_mashona,Mashona,Shona
+dd_tribal|hms_matabele,Matabele,Southern Ndebele
 dd_tribal|hms_mohawk,Mohawk,Mohawk
-dd_tribal|hms_nubian,Nubian,
-dd_tribal|hms_punjabi,Punjabi,
-dd_tribal|hms_sikh,Sikh,
-dd_tribal|hms_somali,Somali,
-dd_tribal|hms_tartar,Tartar,
-dd_tribal|hms_zulu,Zulu,
+dd_tribal|hms_nubian,Nubian,Nubian
+dd_tribal|hms_punjabi,Punjabi,Punjabi
+dd_tribal|hms_sikh,Sikh,Sikh
+dd_tribal|hms_somali,Somali,Somali
+dd_tribal|hms_tartar,Tartar,Tatar
+dd_tribal|hms_zulu,Zulu,Zulu
 dd_triglav|sms_dukla,Dukla,
 dd_triglav|sms_dukla,Matelot Leblanc,
 dd_triglav|sms_lika,Cortelazzo,
@@ -8979,14 +9001,14 @@ dd_turbine|ostro,Ostro,
 dd_turbine|turbine,TA14,
 dd_turbine|turbine,Turbine,
 dd_turbine|zeffiro,Zeffiro,
-dd_u|hms_grenville,Grenville,
-dd_u|hms_ulster,Ulster,
-dd_u|hms_ulysses,Ulysses,Odysseus
-dd_u|hms_undaunted,Undaunted,Undaunted
-dd_u|hms_undine,Undine,
-dd_u|hms_urania,Urania,
-dd_u|hms_urchin,Urchin,
-dd_u|hms_ursa,Ursa,
+dd_tuscan_1941|hms_teazer,Teazer,Teaser
+dd_tuscan_1941|hms_tenacious,Tenacious,Tenacious
+dd_tuscan_1941|hms_termagant,Termagant,Termagant
+dd_tuscan_1941|hms_terpsichore,Terpsichore,Terpsichore
+dd_tuscan_1941|hms_troubridge,Troubridge,"Thomas Troubridge, 1st Baronet"
+dd_tuscan_1941|hms_tumult,Tumult,Tumult
+dd_tuscan_1941|hms_tuscan,Tuscan,Tuscan
+dd_tuscan_1941|hms_tyrian,Tyrian,Tyrian
 dd_ukrayna|trukhmenets,Altfater,
 dd_ukrayna|trukhmenets,Mirza Kuchuk,
 dd_ukrayna|trukhmenets,Sovetskiy Dagestan,
@@ -8999,6 +9021,14 @@ dd_ukrayna|ukrayna,Ukrayna,
 dd_ukrayna|voyskovoy,Fridrikh Engels,
 dd_ukrayna|voyskovoy,Markin,
 dd_ukrayna|voyskovoy,Voyskovoy,
+dd_ulster_1941|hms_grenville,Grenville,Richard Grenville
+dd_ulster_1941|hms_ulster,Ulster,"Ulster, Ireland"
+dd_ulster_1941|hms_ulysses,Ulysses,Odysseus
+dd_ulster_1941|hms_undaunted,Undaunted,Undaunted
+dd_ulster_1941|hms_undine,Undine,Undine
+dd_ulster_1941|hms_urania,Urania,Urania
+dd_ulster_1941|hms_urchin,Urchin,Hedgehog
+dd_ulster_1941|hms_ursa,Ursa,Bear
 dd_umikaze|umikaze,Umikaze,Sea Wind
 dd_umikaze|yamakaze,Yamakaze,Mountain Wind
 dd_urakaze|kawakaze,Audace,Audacity
@@ -9009,14 +9039,6 @@ dd_urakaze|urakaze,Urakaze,Bay Wind
 dd_usk|hms_ribble,Ribble,"River Ribble, England, UK"
 dd_usk|hms_teviot,Teviot,"River Teviot, Scotland, UK"
 dd_usk|hms_usk,Usk,"River Usk, Wales, UK"
-dd_v|hmcs_algonquin,Algonquin,
-dd_v|hmcs_sioux,Sioux,
-dd_v|hms_hardy,Hardy,Hardy
-dd_v|hms_venus,Venus,Aphrodite
-dd_v|hms_verulam,Verulam,
-dd_v|hms_vigilant,Vigilant,Vigilant
-dd_v|hms_virago,Virago,Virago
-dd_v|hms_volage,Volage,
 dd_v116|v116,Premuda,
 dd_v116|v116,V116,
 dd_v116|v117,V117,
@@ -9054,6 +9076,17 @@ dd_vauguelin|vauquelin,Vauquelin,
 dd_veinte_de_julio|siete_de_agosto,Siete de Agosto,
 dd_veinte_de_julio|veinte_de_julio,Veinte de Julio,
 dd_velox|hms_velox,Velox,Swift
+dd_venus_1942|hms_hardy,Hardy,Hardy
+dd_venus_1942|hms_kempenfelt,Algonquin,Algonquin
+dd_venus_1942|hms_kempenfelt,Kempenfelt,Richard Kempenfelt
+dd_venus_1942|hms_kempenfelt,Valentine,Saint Valentine
+dd_venus_1942|hms_venus,Venus,Venus
+dd_venus_1942|hms_verulam,Verulam,"St Albans, England, UK"
+dd_venus_1942|hms_vigilant,Vigilant,Vigilant
+dd_venus_1942|hms_virago,Virago,Virago
+dd_venus_1942|hms_vixen,Sioux,Sioux
+dd_venus_1942|hms_vixen,Vixen,Fox (Female)
+dd_venus_1942|hms_volage,Volage,Agile
 dd_viceroy_1916|hms_viceroy,Viceroy,Viceroy
 dd_viceroy_1916|hms_viscount,Viscount,Viscount
 dd_vijelie|vartez,Liogkiy,
@@ -9095,10 +9128,10 @@ dd_visby|visby,Visby,
 dd_vixen|hms_vixen,Vixen,Fox (Female)
 dd_voltigeur|tirailleur,Tirailleur,
 dd_voltigeur|voltigeur,Voltigeur,
-dd_voyager|hmas_vampire,Vampire,
-dd_voyager|hmas_vendetta,Vendetta,
-dd_voyager|hmas_voyager,Voyager,
-dd_voyager|hmas_waterhen,Waterhen,
+dd_voyager|hmas_vampire,Vampire,Vampire
+dd_voyager|hmas_vendetta,Vendetta,Vengeance
+dd_voyager|hmas_voyager,Voyager,Voyager
+dd_voyager|hmas_waterhen,Waterhen,Common Moorhen
 dd_vsadnik|amurets,Amurets,
 dd_vsadnik|amurets,Zheleznyakov,
 dd_vsadnik|gaydamak,Gaydamak,
@@ -9106,14 +9139,6 @@ dd_vsadnik|ussuriets,Roshal,
 dd_vsadnik|ussuriets,Ussuriets,
 dd_vsadnik|vsadnik,Sladkov,
 dd_vsadnik|vsadnik,Vsadnik,
-dd_w|hms_kempenfelt,Kempenfelt,
-dd_w|hms_wager,Wager,
-dd_w|hms_wakeful,Wakeful,
-dd_w|hms_wessex,Wessex,
-dd_w|hms_whelp,Whelp,
-dd_w|hms_whirlwind,Whirlwind,Whirlwind
-dd_w|hms_wizard,Wizard,Wizard
-dd_w|hms_wrangler,Wrangler,
 dd_wainwright|uss_wainwright,Wainwright,Wainwright Family
 dd_wakatake|asagao,Asagao,Morning Glory
 dd_wakatake|asagao,Dai-10,
@@ -9155,6 +9180,19 @@ dd_wale|wale,Wale,
 dd_warasdiner|sms_warasdiner,Warasdiner,
 dd_waveney|hms_waveney,Waveney,"River Waveney, England, UK"
 dd_welland|hms_welland,Welland,"River Welland, England, UK"
+dd_whelp_1943|hms_kempenfelt,Kempenfelt,Richard Kempenfelt
+dd_whelp_1943|hms_kempenfelt,Kotor,"Kotor, Montenegro"
+dd_whelp_1943|hms_wager,Pula,"Pula, Croatia"
+dd_whelp_1943|hms_wager,Wager,Charles Wager
+dd_whelp_1943|hms_wakeful,Wakeful,Wakeful
+dd_whelp_1943|hms_wessex,Jan van Riebeeck,Johan Anthoniszoon van Riebeeck
+dd_whelp_1943|hms_wessex,Wessex,Kingdom of the West Saxons
+dd_whelp_1943|hms_whelp,Simon van der Stel,Simon van der Stel
+dd_whelp_1943|hms_whelp,Whelp,Dog (Puppy)
+dd_whelp_1943|hms_whirlwind,Whirlwind,Whirlwind
+dd_whelp_1943|hms_wizard,Wizard,Wizard
+dd_whelp_1943|hms_wrangler,Vrystaat,"Province of the Orange Free State, South Africa"
+dd_whelp_1943|hms_wrangler,Wrangler,Wrangler (University)
 dd_whitehead_1918|hms_vansittart,Vansittart,Henry Vansittart
 dd_whitehead_1918|hms_vashon,Vashon,James Vashon
 dd_whitehead_1918|hms_vengeful,Vengeful,Vengeful
@@ -9395,21 +9433,21 @@ dd_z_1944|z53,Z53,
 dd_z_1944|z54,Z54,
 dd_z_1944|z55,Z55,
 dd_z_1944|z56,Z56,
-dd_z|hms_myngs,El Qaher,
-dd_z|hms_myngs,Myngs,
-dd_z|hms_zambesi,Zambesi,
-dd_z|hms_zealous,Eilath,
-dd_z|hms_zealous,Zealous,Zealous
-dd_z|hms_zebra,Zebra,Zebra
-dd_z|hms_zenith,El Fateh,
-dd_z|hms_zenith,Zenith,
-dd_z|hms_zephyr,Zephyr,
-dd_z|hms_zest,Zest,
-dd_z|hms_zodiac,Yaffa,
-dd_z|hms_zodiac,Zodiac,
 dd_zafer|tinaztepe,Tinaztepe,
 dd_zafer|zafer,Zafer,
 dd_zebra|hms_zebra,Zebra,Zebra
+dd_zephyr_1943|hms_myngs,El Qaher,"Cairo, Egypt"
+dd_zephyr_1943|hms_myngs,Myngs,Christopher Myngs
+dd_zephyr_1943|hms_zambesi,Zambesi,"Zambezi, Mozambique"
+dd_zephyr_1943|hms_zealous,Eilath,"Elath, Isreal"
+dd_zephyr_1943|hms_zealous,Zealous,Zealous
+dd_zephyr_1943|hms_zebra,Zebra,Zebra
+dd_zephyr_1943|hms_zenith,El Fateh,El Fateh
+dd_zephyr_1943|hms_zenith,Zenith,Zenith
+dd_zephyr_1943|hms_zephyr,Zephyr,Zephyrus
+dd_zephyr_1943|hms_zest,Zest,Zest
+dd_zephyr_1943|hms_zodiac,Yaffa,"Jaffa, Israel"
+dd_zephyr_1943|hms_zodiac,Zodiac,Zodiac
 dde_epperson|uss_basilone,Basilone,John Basilone
 dde_epperson|uss_epperson,Epperson,Harold Glenn Epperson
 dde_epperson|uss_epperson,Taimur,"Timur, Amir of the Timurid Empire"
@@ -9575,10 +9613,11 @@ ddg_de_zeven_provincien|hnlms_tromp,Tromp,
 ddg_delhi|ins_delhi,Delhi,
 ddg_delhi|ins_mumbai,Mumbai,
 ddg_delhi|ins_mysore,Mysore,
-ddg_devonshire|hms_devonshire,Devonshire,
-ddg_devonshire|hms_hampshire,Hampshire,
-ddg_devonshire|hms_kent,Kent,
-ddg_devonshire|hms_london,London,
+ddg_devonshire|hms_devonshire,Devonshire,"Devonshire, England, UK"
+ddg_devonshire|hms_hampshire,Hampshire,"Hampshire, England, UK"
+ddg_devonshire|hms_kent,Kent,"Kent County, England, UK"
+ddg_devonshire|hms_london,Babur,"Zahir ud-Din Muhammad, Emperor of the Mughal Empire"
+ddg_devonshire|hms_london,London,"London, England, UK"
 ddg_farragut|uss_coontz,Coontz,Robert Edward Coontz
 ddg_farragut|uss_dahlgren,Dahlgren,John Adolphus Bernard Dahlgren
 ddg_farragut|uss_dewey,Dewey,George Dewey
@@ -9589,14 +9628,14 @@ ddg_farragut|uss_macdonough,MacDonough,Thomas Macdonough Jr.
 ddg_farragut|uss_mahan,Mahan,Alfred Thayer Mahan
 ddg_farragut|uss_preble,Preble,Edward Preble
 ddg_farragut|uss_william_v_pratt,William V. Pratt,William Veazie Pratt
-ddg_fife|hms_antrim,Almirante Cochrane,
-ddg_fife|hms_antrim,Antrim,
-ddg_fife|hms_fife,Almirante Blanco,
-ddg_fife|hms_fife,Fife,
+ddg_fife|hms_antrim,Almirante Cochrane,"Thomas Cochrane, 10th Earl of Dundonald"
+ddg_fife|hms_antrim,Antrim,"County Antrim, Northern Ireland, UK"
+ddg_fife|hms_fife,Blanco Encalada,Manuel Blanco Encalada
+ddg_fife|hms_fife,Fife,"Fife, Scotland, UK"
 ddg_fife|hms_glamorgan,Almirante Latorre,Juan Jose Latorre
-ddg_fife|hms_glamorgan,Glamorgan,
+ddg_fife|hms_glamorgan,Glamorgan,"Glamorgan, Wales, UK"
 ddg_fife|hms_norfolk,Capitan Prat,Arturo Prat
-ddg_fife|hms_norfolk,Norfolk,
+ddg_fife|hms_norfolk,Norfolk,"Norfolk, England, UK"
 ddg_forbin|chevalier_paul,Chevalier Paul,
 ddg_forbin|forbin,Forbin,
 ddg_georges_leygues|dupleix,Dupleix,
@@ -9633,16 +9672,16 @@ ddg_hatsuyuki|jds_setoyuki,Setoyuki,Snow Falling on Calm Waters
 ddg_hatsuyuki|jds_shimayuki,Shimayuki,Island Snow
 ddg_hatsuyuki|jds_shirayuki,Shirayuki,Powder Snow
 ddg_hatsuyuki|jds_yamayuki,Yamayuki,Mountain Snow
-ddg_hercules|ara_hercules,Hercules,
-ddg_hobart|hmas_brisbane,Brisbane,
-ddg_hobart|hmas_hobart,Hobart,
+ddg_hercules|ara_hercules,Hercules,Heracles
+ddg_hobart|hmas_brisbane,Brisbane,"Brisbane, Queensland, Australia"
+ddg_hobart|hmas_hobart,Hobart,"Hobart, Tasmania, Australia"
 ddg_hobart|hmas_sydney,Sydney,"Sydney, New South Wales, Australia"
 ddg_impavido|impavido,Impavido,
 ddg_impavido|intrepido,Intrepido,
-ddg_iroquois|hmcs_algonquin,Algonquin,
-ddg_iroquois|hmcs_athabaskan,Athabaskan,
-ddg_iroquois|hmcs_huron,Huron,
-ddg_iroquois|hmcs_iroquois,Iroquois,
+ddg_iroquois|hmcs_algonquin,Algonquin,Algonquin
+ddg_iroquois|hmcs_athabaskan,Athabaskan,Dene
+ddg_iroquois|hmcs_huron,Huron,Wyandot
+ddg_iroquois|hmcs_iroquois,Iroquois,Iroquois
 ddg_kolkata|ins_chennai,Chennai,
 ddg_kolkata|ins_kochi,Kochi,
 ddg_kolkata|ins_kolkata,Kolkata,
@@ -9686,9 +9725,9 @@ ddg_ostergotland|gastrikland,Gastrikland,
 ddg_ostergotland|halsingland,Halsingland,
 ddg_ostergotland|ostergotland,Ostergotland,
 ddg_ostergotland|sodermanland,Sodermanland,
-ddg_perth|hmas_brisbane,Brisbane,
-ddg_perth|hmas_hobart,Hobart,
-ddg_perth|hmas_perth,Perth,
+ddg_perth|hmas_brisbane,Brisbane,"Brisbane, Queensland, Australia"
+ddg_perth|hmas_hobart,Hobart,"Hobart, Tasmania, Australia"
+ddg_perth|hmas_perth,Perth,"Perth, Western Australia, Australia"
 ddg_project_1155_1|admiral_basistyy,Admiral Basistyy,
 ddg_project_1155_1|admiral_chabanenko,Admiral Chabanenko,
 ddg_project_1155_1|admiral_kucherov,Admiral Kucherov,
@@ -9775,7 +9814,7 @@ ddg_project_956|sovremennyy,Sovremennyy,
 ddg_project_956|stoykiy,Stoykiy,
 ddg_project_956|vechnyy,Vechnyy,
 ddg_project_956|vnushitelnyy,Vnushitelnyy,
-ddg_santisima_trinidad|ara_santisima_trinidad,Santisima Trinidad,
+ddg_santisima_trinidad|ara_santisima_trinidad,The Trinity,
 ddg_sejong_daewang|roks_sejong_daewang,Sejong Daewang,
 ddg_sejong_daewang|roks_yu_seong_ryong,Yu Seong Ryong,
 ddg_sejong_daewang|roks_yulgok_yii,Yulgok Yii,
@@ -9883,27 +9922,27 @@ ddg_type_055|v,v,
 ddg_type_055|vi,vi,
 ddg_type_055|vii,vii,
 ddg_type_055|viii,viii,
-ddg_type_42_b3|hms_edinburgh,Edinburgh,
-ddg_type_42_b3|hms_gloucester,Gloucester,
-ddg_type_42_b3|hms_manchester,Manchester,
-ddg_type_42_b3|hms_york,York,
-ddg_type_42|hms_birmingham,Birmingham,
-ddg_type_42|hms_cardiff,Cardiff,
-ddg_type_42|hms_coventry,Coventry,
-ddg_type_42|hms_exeter,Exeter,
-ddg_type_42|hms_glasgow,Glasgow,
-ddg_type_42|hms_liverpool,Liverpool,
-ddg_type_42|hms_newcastle,Newcastle,
-ddg_type_42|hms_nottingham,Nottingham,
-ddg_type_42|hms_sheffield,Sheffield,
-ddg_type_42|hms_southampton,Southampton,
+ddg_type_42_b3|hms_edinburgh,Edinburgh,"Edinburgh, Scotland, UK"
+ddg_type_42_b3|hms_gloucester,Gloucester,"Gloucester, England, UK"
+ddg_type_42_b3|hms_manchester,Manchester,"Manchester, England, UK"
+ddg_type_42_b3|hms_york,York,"York, England, UK"
+ddg_type_42|hms_birmingham,Birmingham,"Birmingham, England, UK"
+ddg_type_42|hms_cardiff,Cardiff,"Cardiff, Wales, UK"
+ddg_type_42|hms_coventry,Coventry,"Coventry, England, UK"
+ddg_type_42|hms_exeter,Exeter,"Exeter, England, UK"
+ddg_type_42|hms_glasgow,Glasgow,"Glasgow, Scotland, UK"
+ddg_type_42|hms_liverpool,Liverpool,"Liverpool, England, UK"
+ddg_type_42|hms_newcastle,Newcastle,"Newcastle upon Tyne, England, UK"
+ddg_type_42|hms_nottingham,Nottingham,"Nottingham, England, UK"
+ddg_type_42|hms_sheffield,Sheffield,"Sheffield, England, UK"
+ddg_type_42|hms_southampton,Southampton,"Southampton, England, UK"
 ddg_type_45|hms_daring,Daring,Daring
 ddg_type_45|hms_dauntless,Dauntless,Dauntless
 ddg_type_45|hms_defender,Defender,Defender
 ddg_type_45|hms_diamond,Diamond,Diamond
 ddg_type_45|hms_dragon,Dragon,Dragon
-ddg_type_45|hms_duncan,Duncan,
-ddg_type_82|hms_bristol,Bristol,
+ddg_type_45|hms_duncan,Duncan,"Adam Duncan, 1st Viscount Duncan"
+ddg_type_82|hms_bristol,Bristol,"Bristol, England, UK"
 ddg_visakhapatnam|ins_imphal,Imphal,
 ddg_visakhapatnam|ins_mormugao,Mormugao,
 ddg_visakhapatnam|ins_porbandar,Porbandar,
@@ -11021,10 +11060,6 @@ dl_valkyrie|hms_montrose,Montrose,"James Graham, 1st Marquess of Montrose"
 dl_valkyrie|hms_montrose,Valorous,Valorous
 dl_valkyrie|hms_wallace,Vampire,Vampire
 dl_valkyrie|hms_wallace,Wallace,William Wallace
-dm_obdurate|hms_obdurate,Obdurate,
-dm_obdurate|hms_obedient,Obedient,
-dm_obdurate|hms_opportune,Opportune,
-dm_obdurate|hms_orwell,Orwell,
 dm_walker|hms_walker,Walker,
 dm_walker|hms_walrus,Walrus,
 dm_walker|hms_warwick,Warwick,
@@ -11392,7 +11427,7 @@ ffg_alvaro_de_bazan|alvaro_de_bazan,Alvaro de Bazan,
 ffg_alvaro_de_bazan|blas_de_lezo,Blas de Lezo,
 ffg_alvaro_de_bazan|cristobal_colon,Cristobal Colon,
 ffg_alvaro_de_bazan|mendez_nunez,Mendez Nunez,
-ffg_anzac|hmas_anzac,ANZAC,
+ffg_anzac|hmas_anzac,ANZAC,Australian and New Zealand Army Corps
 ffg_anzac|hmas_arunta,Arunta,
 ffg_anzac|hmas_ballarat,Ballarat,
 ffg_anzac|hmas_parramatta,Parramatta,
@@ -11999,6 +12034,7 @@ fs_castile_1943|hms_gorey_castle,Hedingham Castle,
 fs_castile_1943|hms_guilford_castle,Hespeler,
 fs_castile_1943|hms_hadleigh_castle,Hadleigh Castle,
 fs_castile_1943|hms_hedingham_castle,Orangeville,
+fs_castile_1943|hms_hedingham_castle,Te An,
 fs_castile_1943|hms_hever_castle,Copper Cliff,
 fs_castile_1943|hms_hurst_castle,Hurst Castle,
 fs_castile_1943|hms_kenilworth_castle,Kenilworth Castle,
@@ -12012,6 +12048,7 @@ fs_castile_1943|hms_morpeth_castle,Morpeth Castle,
 fs_castile_1943|hms_nunnery_castle,Bowmanville,
 fs_castile_1943|hms_oakham_castle,Oakham Castle,
 fs_castile_1943|hms_oxford_castle,Oxford Castle,
+fs_castile_1943|hms_pembroke_castle,Gao An,
 fs_castile_1943|hms_pembroke_castle,Tillsonburg,
 fs_castile_1943|hms_pevensey_castle,Pevensey Castle,
 fs_castile_1943|hms_portchester_castle,Portchester Castle,
@@ -12029,8 +12066,6 @@ fs_castile_1943|hms_tintagel_castle,Tintagel Castle,
 fs_castile_1943|hms_totnes_castle,Humberstone,
 fs_castile_1943|hms_wolvesey_castle,Huntsville,
 fs_castile_1943|hms_york_castle,York Castle,
-fs_castle|hmcs_orangeville,Te An,
-fs_castle|hmcs_tillsonburg,Gao An,
 fs_contra_amiral_eustatiu_sebastian|contra_amiral_eustatiu_sebastian,Contra-Amiral Eustatiu Sebastian,
 fs_contra_amiral_eustatiu_sebastian|contra_amiral_horia_macellariu,Contra-Amiral Horia Macellariu,
 fs_d_1943|104_go,Tai An,
@@ -12789,7 +12824,7 @@ fsg_durjoy|nishan,Nishan,
 fsg_eilat|eilat,Eilat,
 fsg_eilat|hanit,Hanit,
 fsg_eilat|lahav,Lahav,
-fsg_el_fateh_2015|el_fateh,El Fateh,
+fsg_el_fateh_2015|el_fateh,El Fateh,Mohamed El-Fateh Karim
 fsg_el_fateh_2015|el_moez,El Moez,
 fsg_el_fateh_2015|luxor,Luxor,
 fsg_el_fateh_2015|port_said,Port Said,
@@ -13927,7 +13962,7 @@ m_monte_grappa|montello,Montello,
 m_monterey|uss_monterey,Monterey,"Battle of Monterrey, Mexican-American War"
 m_neosho|uss_neosho,Neosho,
 m_neosho|uss_neosho,Osceola,
-m_neosho|uss_neosho,Vixen,
+m_neosho|uss_neosho,Vixen,Fox (Female)
 m_neosho|uss_osage,Osage,
 m_onondaga|uss_onondaga,Onondaga,
 m_ozark|uss_ozark,Ozark,
@@ -18535,7 +18570,7 @@ pc_apollo|hms_melampus,Melampus,Melampus
 pc_apollo|hms_naiad,Naiad,Naiad
 pc_apollo|hms_sappho,Sappho,Sappho
 pc_apollo|hms_scylla,Scylla,Scylla
-pc_apollo|hms_sybille,Sybille,Sibyl
+pc_apollo|hms_sybille,Sybille,
 pc_apollo|hms_terpsichore,Terpsichore,Terpsichore
 pc_apollo|hms_thetis,Thetis,Thetis
 pc_apollo|hms_tribune,Tribune,Tribune
@@ -18697,7 +18732,7 @@ pc_eclipse|hms_isis,Isis,Isis
 pc_eclipse|hms_juno,Juno,Juno
 pc_eclipse|hms_minerva,Minerva,Minerva
 pc_eclipse|hms_talbot,Talbot,"John Talbot, 1st Earl of Shrewsbury"
-pc_eclipse|hms_venus,Venus,Aphrodite
+pc_eclipse|hms_venus,Venus,Venus
 pc_edgar|hms_edgar,Edgar,"Edgar, King of England"
 pc_edgar|hms_endymion,Endymion,Endymion
 pc_edgar|hms_gibraltar,Gibraltar,"Gibraltar, UK"
@@ -18779,7 +18814,7 @@ pc_fougueux_1955|fougueux,Le Fougueux,
 pc_fougueux_1955|opiniatre,L'Opiniatre,
 pc_frauenlob|sms_arcona,Arcona,"Cape Arkona, Germany"
 pc_frauenlob|sms_frauenlob,Frauenlob,Heinrich Frauenlob
-pc_frauenlob|sms_undine,Undine,Undines
+pc_frauenlob|sms_undine,Undine,Undine
 pc_friant|bugeaud,Bugeaud,"Thomas Robert Bugeaud, marquis de la Piconnerie, duc d'Isly"
 pc_friant|chasseloup_laubat,Chasseloup-Laubat,"Justin Napol?on Samuel Prosper de Chasseloup-Laubat, 4th Marquis of Chasseloup-Laubat"
 pc_friant|friant,Friant,Louis Friant
@@ -23457,7 +23492,7 @@ psow_driver|hms_spiteful,Spiteful,Spiteful
 psow_driver|hms_styx,Styx,
 psow_driver|hms_thunderbolt,Thunderbolt,
 psow_driver|hms_virago,Virago,Virago
-psow_driver|hms_vixen,Vixen,
+psow_driver|hms_vixen,Vixen,Fox (Female)
 psow_elan_1843|caiman,Caiman,Caiman
 psow_elan_1843|elan,Elan,
 psow_eumenide_1849|eumenide,Eumenide,
@@ -24182,7 +24217,7 @@ sf_bellona_1782|galatea,Galatea,Galatea
 sf_bellona_1782|minerva,Minerva,Minerva
 sf_bellona_1782|thetis,Thetis,Thetis
 sf_bellona_1782|venus,Venere,
-sf_bellona_1782|venus,Venus,Aphrodite
+sf_bellona_1782|venus,Venus,Venus
 sf_bellona_1782|zemire,Zemire,
 sf_bellona_1808|bellona,Bellona,Bellona
 sf_bellona_1808|bellona,Dover,
@@ -24542,7 +24577,7 @@ sf_gloire_1803|president,Le President,
 sf_gloire_1803|president,President,President
 sf_gloire_1803|topaze,Jewel,
 sf_gloire_1803|topaze,La Topaze,
-sf_gloire_1803|venus,La Venus,Aphrodite
+sf_gloire_1803|venus,La Venus,Venus
 sf_gloire_1803|venus,Nereide,Nereids
 sf_gomer_1842|asmodee,L'Asmodee,
 sf_gomer_1842|gomer,La Gomer,
@@ -24579,7 +24614,7 @@ sf_hebe_1782|propserine,Amelia,
 sf_hebe_1782|propserine,La Propserine,
 sf_hebe_1782|sibylle,La Sibylle,
 sf_hebe_1782|sibylle,Sibylle,
-sf_hebe_1782|venus,Le Venus,Aphrodite
+sf_hebe_1782|venus,Le Venus,Venus
 sf_hebrus|hms_alpheus,Alpheus,
 sf_hebrus|hms_granicus,Granicus,
 sf_hebrus|hms_hebrus,Hebrus,
@@ -24853,7 +24888,7 @@ sf_merkurii_1820|prozerpina,Prozerpina,
 sf_merkurii_1820|tserera,Tserera,
 sf_merkurii_1820|tsesarevich,Tsesarevich,
 sf_merkurii_1820|tsesarevna,Tsesarevna,
-sf_merkurii_1820|venus,Venus,Aphrodite
+sf_merkurii_1820|venus,Venus,Venus
 sf_merkurii_1820|vestovoi,Vestovoi,
 sf_merkurii_1820|yunona,Yunona,
 sf_mermaid|hms_hussar,Hussar,
@@ -25377,7 +25412,7 @@ sf_tenedos_1828|enos,Enos,
 sf_tenedos_1828|erivan,Erivan,
 sf_tenedos_1828|tenedos,Tenedos,
 sf_tenedos_1828|varna,Varna,
-sf_termagant|hms_termagant,Termagant,
+sf_termagant|hms_termagant,Termagant,Termagant
 sf_terpsichore_1763|terpsichore,La Terpsichore,
 sf_terpsichore_1828|terpsichore,La Terpsichore,
 sf_theresia_1768|theresia,Theresia,
@@ -25427,11 +25462,11 @@ sf_vengeance_1850|vengeance,Le Vengeance,
 sf_vengeance_1850|victoire,La Victoire,
 sf_venus_1757|hms_brilliant,Brilliant,Brilliant
 sf_venus_1757|hms_pallas,Pallas,
-sf_venus_1757|hms_venus,Venus,Aphrodite
+sf_venus_1757|hms_venus,Venus,Venus
 sf_venus_1780|cleopatre,La Cleopatre,
 sf_venus_1780|cleopatre,Oiseau,
-sf_venus_1780|venus,Venus,Aphrodite
-sf_venus_1805|venus,Venus,Aphrodite
+sf_venus_1780|venus,Venus,Venus
+sf_venus_1805|venus,Venus,Venus
 sf_venus|hms_aeolus,Aeolus,Aeolus
 sf_venus|hms_amazon,Amazon,
 sf_venus|hms_cerberus,Cerberus,
@@ -25455,12 +25490,12 @@ sf_venus|hms_thalia,Thalia,
 sf_venus|hms_thames,Thames,
 sf_venus|hms_thisbe,Thisbe,
 sf_venus|hms_unicorn,Unicorn,Unicorn
-sf_venus|hms_venus,Venus,Aphrodite
+sf_venus|hms_venus,Venus,Venus
 sf_vernon|hms_vernon,Vernon,
 sf_vertu_1794|vertu,La Vertu,
 sf_vertu_1794|vertu,Virtu,
 sf_vestale_1822|atalante,L'Atalante,
-sf_vestale_1822|venus,La Venus,Aphrodite
+sf_vestale_1822|venus,La Venus,Venus
 sf_vestale_1822|vestale,Vestale,
 sf_vestnik_1783|vestnik,Arkhangel Gavrill,
 sf_vestnik_1783|vestnik,Vestnik,
@@ -27499,8 +27534,8 @@ sow_archer_1801|sparkler,Sparkler,
 sow_archer_1801|staunch,Staunch,Staunch
 sow_archer_1801|steady,Steady,
 sow_archer_1801|swinger,Swinger,
-sow_archer_1801|teazer,Le Teazer,
-sow_archer_1801|teazer,Teazer,
+sow_archer_1801|teazer,Le Teazer,Teaser
+sow_archer_1801|teazer,Teazer,Teaser
 sow_archer_1801|tickler,Tickler,
 sow_archer_1801|tigress,Tigress,
 sow_archer_1801|urgent,Urgent,
@@ -27531,7 +27566,7 @@ sow_atholl|hms_rattlesnake,Rattlesnake,Rattlesnake
 sow_atholl|hms_samarang,Samarang,
 sow_atholl|hms_success,Success,Success
 sow_atholl|hms_talbot,Talbot,
-sow_atholl|hms_termagant,Termagant,
+sow_atholl|hms_termagant,Termagant,Termagant
 sow_atholl|hms_tweed,Tweed,
 sow_augusta|uss_augusta,Augusta,
 sow_austerlitz_1805|austerlitz,L'Austerlitz,
@@ -27594,7 +27629,7 @@ sow_bloodhound_1801|jackall,Jackall,
 sow_bloodhound_1801|monkey,Monkey,
 sow_bloodhound_1801|snipe,Snipe,
 sow_bloodhound_1801|starling,Starling,
-sow_bloodhound_1801|vixen,Vixen,
+sow_bloodhound_1801|vixen,Vixen,Fox (Female)
 sow_bogemiia_1775|bogemiia,Bogemiia,
 sow_bold_1812|adder,Adder,
 sow_bold_1812|bold,Bold,
@@ -27736,7 +27771,7 @@ sow_conquest_1794|pelter,Pelter,
 sow_conquest_1794|piercer,Piercer,
 sow_conquest_1794|plumper,Plumper,
 sow_conquest_1794|swinger,Swinger,
-sow_conquest_1794|teazer,Teazer,
+sow_conquest_1794|teazer,Teazer,Teaser
 sow_conquest_1794|tickler,Trickler,
 sow_constantine_1852|constantine,La Constantine,
 sow_constellation|uss_constellation,Constellation,Flag of the United States
@@ -28602,7 +28637,7 @@ sow_sylphe_1804|sylphe,Seagull,Seagull
 sow_syren|uss_syren,Syren,
 sow_tarleton_1782|tarleton,Le Tarleton,
 sow_tarleton_1782|tarleton,Tarleton,
-sow_termagant_1780|termagant,Termagant,
+sow_termagant_1780|termagant,Termagant,Termagant
 sow_terpsichore_1758|terpsichore,La Terpsichore,
 sow_terpsichore_1758|terpsichore,Terpsichore,Terpsichore
 sow_thetis_1722|thetis,La Thetis,
@@ -28630,7 +28665,7 @@ sow_unite_1794|unite,L'Unite,
 sow_unite_1794|unite,Surprise,
 sow_utile_1804|hms_utile,Utile,
 sow_vandalia|uss_vandalia,Vandalia,
-sow_venus_1723|venus,La Venus,Aphrodite
+sow_venus_1723|venus,La Venus,Venus
 sow_vernost_1834|nadezhda,Nadezhda,
 sow_vernost_1834|uspekh,Uspekh,
 sow_vernost_1834|vernost,Vernost,
@@ -28647,8 +28682,8 @@ sow_vigilant_1800|vigilant,Le Vigilant,
 sow_vigilant_1800|vigilant,Vigilante,
 sow_viper|uss_viper,Mohawk,Mohawk
 sow_viper|uss_viper,Viper,Viper
-sow_vixen_1813|uss_vixen,Vixen,
-sow_vixen|uss_vixen,Vixen,
+sow_vixen_1813|uss_vixen,Vixen,Fox (Female)
+sow_vixen|uss_vixen,Vixen,Fox (Female)
 sow_volage|hms_volage,Volage,
 sow_volunteer_1804|volunteer,Volunteer,
 sow_vtoraia_ekaterina_1773|vtoraia_ekaterina,Vtoraia Ekaterina,
@@ -28895,7 +28930,7 @@ ss_amphion|hms_andromache,Andromache,Andromache
 ss_amphion|hms_answer,Answer,
 ss_amphion|hms_antaeus,Antaeus,
 ss_amphion|hms_antagonist,Antagonist,
-ss_amphion|hms_anzac,Anzac,
+ss_amphion|hms_anzac,Anzac,Australian and New Zealand Army Corps
 ss_amphion|hms_aphrodite,Aphrodite,
 ss_amphion|hms_approach,Approach,
 ss_amphion|hms_arcadian,Arcadian,
@@ -30265,7 +30300,7 @@ ss_minerve|iris,Iris,Iris
 ss_minerve|junon,Junon,
 ss_minerve|minerve,Minerve,
 ss_minerve|pallas,Pallas,
-ss_minerve|venus,Venus,Aphrodite
+ss_minerve|venus,Venus,Venus
 ss_minoga|minoga,Minoga,
 ss_morse|morse,Morse,
 ss_morzh|morzh,Morzh,
@@ -34890,7 +34925,7 @@ ss_ula|hnoms_uthaug,Uthaug,
 ss_ula|hnoms_utsira,Utsira,
 ss_ula|hnoms_utstein,Utstein,
 ss_ula|hnoms_utvaer,Utvaer,
-ss_undine|hms_undine,Undine,
+ss_undine|hms_undine,Undine,Undine
 ss_undine|hms_unity,Unity,
 ss_unique|hms_unique,Unique,
 ss_unique|hms_upholder,Upholder,
@@ -35588,7 +35623,7 @@ ssk_daphne|junon,Junon,
 ssk_daphne|minerve,Minerve,
 ssk_daphne|psyche,Psyche,Psyche
 ssk_daphne|sirene,Sirene,
-ssk_daphne|venus,Venus,Aphrodite
+ssk_daphne|venus,Venus,Venus
 ssk_delfin_spain|delfin,Delfin,
 ssk_delfin_spain|marsopa,Marsopa,
 ssk_delfin_spain|narval,Narval,
@@ -36388,7 +36423,7 @@ ssow_ticonderoga|uss_ticonderoga,Ticonderoga,"Capture of Fort Ticonderoga, Ameri
 ssow_tuscaloosa|css_tuscaloosa,Tuscaloosa,
 ssow_vandalia|uss_vandalia,Vandalia,
 ssow_venus_1865|minerve,Minerve,
-ssow_venus_1865|venus,Venus,Aphrodite
+ssow_venus_1865|venus,Venus,Venus
 ssow_victoria|hms_victoria,Victoria,
 ssow_vityaz|vityaz,Cossack,
 ssow_vityaz|vityaz,Vityaz',
