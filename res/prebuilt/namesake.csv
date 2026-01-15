@@ -1,29 +1,72 @@
 Namesake,NamingCategory_1,NamingCategory_2,NamingSource
-Manxman,_Lingual,Demonym,https://en.wikipedia.org/wiki/Manxman
+Highlander,_Lingual,Demonym,https://en.wikipedia.org/wiki/Scottish_Highlands
+Tuscan,_Lingual,Demonym,https://en.wikipedia.org/wiki/Tuscany
 Amethyst,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Amethyst
 Diamond,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Diamond
 Emerald,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Emerald
+Onyx (Sardonyx),_Lingual,Gemstone,https://en.wikipedia.org/wiki/Onyx
+Opal,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Opal
 Pearl,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Pearl
+Ruby,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Ruby
 Sapphire,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Sapphire
 Topaze,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Diamond
+Tourmaline,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Tourmaline
+Turquoise,_Lingual,Gemstone,https://en.wikipedia.org/wiki/Turquoise
 Ocean,_Lingual,Geography,https://en.wiktionary.org/wiki/Ocean
+Chevron,_Lingual,Heraldic Symbol,https://en.wikipedia.org/wiki/Chevron_(insignia)
 Crescent,_Lingual,Heraldic Symbol,
+Flag of the United States,_Lingual,Named Object,https://en.wikipedia.org/wiki/Flag_of_the_United_States
+Royal Oak,_Lingual,Named Object,https://en.wikipedia.org/wiki/Royal_Oak
+United States Declaration of Independence,_Lingual,Named Object,https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence
 Arrow,_Lingual,Object,https://en.wiktionary.org/wiki/arrow
 Aspis,_Lingual,Object,https://en.wikipedia.org/wiki/Aspis
+Battleaxe,_Lingual,Object,
+Broadsword,_Lingual,Object,
 Cape,_Lingual,Object,https://en.wikipedia.org/wiki/Cape
+Carronade,_Lingual,Object,
+Chaplet,_Lingual,Object,https://en.wikipedia.org/wiki/Chaplet_(headgear)
+Cockade,_Lingual,Object,https://en.wikipedia.org/wiki/Cockade
+Crossbow,_Lingual,Object,
 Crown,_Lingual,Object,https://en.wikipedia.org/wiki/Crown
+Culverin,_Lingual,Object,
+Cutlass,_Lingual,Object,
+Dagger,_Lingual,Object,
 Diadem,_Lingual,Object,https://en.wikipedia.org/wiki/Diadem
+Garland,_Lingual,Object,https://en.wikipedia.org/wiki/Garland
+Grenade,_Lingual,Object,https://en.wikipedia.org/wiki/Grenade
+Howitzer,_Lingual,Object,
+Javelin,_Lingual,Object,https://en.wikipedia.org/wiki/Javelin
+Lance,_Lingual,Object,https://en.wikipedia.org/wiki/Lance
+Lasso,_Lingual,Object,https://en.wikipedia.org/wiki/Lasso
+Laurel Wreath,_Lingual,Object,https://en.wikipedia.org/wiki/Laurel_wreath
+Longbow,_Lingual,Object,
+Noble (Coin),_Lingual,Object,https://en.wikipedia.org/wiki/Noble_(English_coin)
+Petard,_Lingual,Object,https://en.wikipedia.org/wiki/Petard
+Quadrant,_Lingual,Object,https://en.wikipedia.org/wiki/Quadrant_(instrument)
+Quick Match,_Lingual,Object,https://en.wikipedia.org/wiki/Black_match
+Rifle,_Lingual,Object,
+Rocket,_Lingual,Object,https://en.wikipedia.org/wiki/Rocket
 Rosary,_Lingual,Object,https://en.wikipedia.org/wiki/Rosary
+Sabre,_Lingual,Object,https://en.wikipedia.org/wiki/Sabre
+Sceptre,_Lingual,Object,https://en.wikipedia.org/wiki/Sceptre
+Scimitar,_Lingual,Object,https://en.wikipedia.org/wiki/Scimitar
+Scythe,_Lingual,Object,https://en.wikipedia.org/wiki/Scythe
 Sling,_Lingual,Object,https://en.wikipedia.org/wiki/Sling_(weapon)
 Spear,_Lingual,Object,https://en.wikipedia.org/wiki/Spear
+Sword,_Lingual,Object,
+Talisman,_Lingual,Object,https://en.wikipedia.org/wiki/Talisman
+Tomahawk,_Lingual,Object,https://en.wikipedia.org/wiki/Tomahawk
 Torch,_Lingual,Object,
 Trident,_Lingual,Object,https://en.wikipedia.org/wiki/Trident
+Whip,_Lingual,Object,https://en.wikipedia.org/wiki/Whip
 Dread Nought,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/HMS_Dreadnought
 Eight-fold Clouds,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Kojiki
 Field of a Thousand Generations,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Chiyoda
 Girl of my Heart,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Manx_language
 Swift and Sure,_Lingual,Poetic Phrase,
 Thousand Years,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Chitose
+Zubian,_Lingual,Portmanteau,https://en.wikipedia.org/wiki/HMS_Zubian
+It's a Long Way to Tipperary,_Lingual,Song,https://en.wikipedia.org/wiki/It%27s_a_Long_Way_to_Tipperary
 La Marseillaise,_Lingual,Song,https://en.wikipedia.org/wiki/La_Marseillaise
 Eleventh Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Fifteenth Solar Term,_Lingual,Time,https://en.wikipedia.org/wiki/Solar_term
@@ -40,10 +83,14 @@ Third Month,_Lingual,Time,https://en.wikipedia.org/wiki/Calendar
 Ameer,_Lingual,Title,https://en.wikipedia.org/wiki/Emir
 Atheling,_Lingual,Title,https://en.wikipedia.org/wiki/%C3%86theling
 Begum,_Lingual,Title,https://en.wikipedia.org/wiki/Begum
+Chieftain,_Lingual,Title,
+Duchess,_Lingual,Title,https://en.wikipedia.org/wiki/Duke
 Earl of Carysfort,_Lingual,Title,https://en.wikipedia.org/wiki/Earl_of_Carysfort
+El Fateh,_Lingual,Title,
 Emperor,_Lingual,Title,https://en.wikipedia.org/wiki/Emperor
 Emperor of India,_Lingual,Title,https://en.wikipedia.org/wiki/Emperor_of_India
 Empress,_Lingual,Title,https://en.wikipedia.org/wiki/Emperor
+Generalissimo,_Lingual,Title,https://en.wikipedia.org/wiki/Generalissimo
 Khedive,_Lingual,Title,https://en.wikipedia.org/wiki/Khedive
 Lord Warden of the Cinque Ports,_Lingual,Title,https://en.wikipedia.org/wiki/Lord_Warden_of_the_Cinque_Ports
 Mayor,_Lingual,Title,
@@ -62,64 +109,102 @@ Intrepid,_Lingual,Virtue,https://en.wiktionary.org/wiki/intrepid
 Active,_Lingual,,
 Activity,_Lingual,,https://en.wiktionary.org/wiki/activity
 Adventure,_Lingual,,
+Agile,_Lingual,,
+Alarm,_Lingual,,
 Alert,_Lingual,,
+Ambush,_Lingual,,
 Arbiter,_Lingual,,https://en.wiktionary.org/wiki/arbiter
-Archer,_Lingual,,https://en.wiktionary.org/wiki/archer
+Ardent,_Lingual,,
 Arrogant,_Lingual,,
 Assistance,_Lingual,,
 Astronomer,_Lingual,,https://en.wiktionary.org/wiki/astronomer
+Attack,_Lingual,,
 Attacker,_Lingual,,
 Attentive,_Lingual,,
 Audacious,_Lingual,,
 Audacity,_Lingual,,
+Australian and New Zealand Army Corps,_Lingual,,https://en.wikipedia.org/wiki/Australian_and_New_Zealand_Army_Corps
 Avenger,_Lingual,,
-Aventurier,_Lingual,,
 Aviator,_Lingual,,
 Battle,_Lingual,,
 Battler,_Lingual,,
 Bellicose,_Lingual,,
 Biter,_Lingual,,
+Black,_Lingual,,https://en.wikipedia.org/wiki/Negro
 Blond,_Lingual,,https://en.wikipedia.org/wiki/Blond
 Boxer,_Lingual,,https://en.wikipedia.org/wiki/Boxing
+Brazen,_Lingual,,
 Brilliant,_Lingual,,
+Brisk,_Lingual,,
+Bruizer,_Lingual,,
+Bullfighter,_Lingual,,https://en.wikipedia.org/wiki/Bullfighter
 Bulwark,_Lingual,,
+Caprice,_Lingual,,
 Carefree,_Lingual,,
 Careful,_Lingual,,
+Cavalier,_Lingual,,https://en.wikipedia.org/wiki/Cavalier
 Centurion,_Lingual,,https://en.wikipedia.org/wiki/Centurion
 Challenger,_Lingual,,
 Champion,_Lingual,,
 Charger,_Lingual,,
+Charity,_Lingual,,
 Chaser,_Lingual,,
+Cheerful,_Lingual,,
+Chivalrous,_Lingual,,
 Concord,_Lingual,,
+Conflict,_Lingual,,
 Conqueror,_Lingual,,
 Conquest,_Lingual,,
+Consort,_Lingual,,
+Contest,_Lingual,,
+Coquette,_Lingual,,
 Courageous,_Lingual,,
+Creole,_Lingual,,
+Crusader,_Lingual,,https://en.wikipedia.org/wiki/Crusades
+Dainty,_Lingual,,
 Daring,_Lingual,,
+Dart,_Lingual,,
 Dasher,_Lingual,,
 Dauntless,_Lingual,,
+Decoy,_Lingual,,
 Defence,_Lingual,,
+Defender,_Lingual,,
 Defense,_Lingual,,
 Defiance,_Lingual,,
+Delight,_Lingual,,
 Democracy,_Lingual,,https://en.wikipedia.org/wiki/Democracy
 Despatch,_Lingual,,
 Desperate,_Lingual,,
 Devastation,_Lingual,,
-Echo,_Lingual,,
+Druid,_Lingual,,https://en.wikipedia.org/wiki/Druid
+Earnest,_Lingual,,
+Echo (Sound),_Lingual,,
 Eclipse,_Lingual,,
 Encounter,_Lingual,,
 Endeavor,_Lingual,,
 Enterprise,_Lingual,,
+Escapade,_Lingual,,
+Escort,_Lingual,,
+Express,_Lingual,,
 Expressive,_Lingual,,
+Fame,_Lingual,,
 Favourite,_Lingual,,
 Fearless,_Lingual,,
 Fencer,_Lingual,,
+Fervent,_Lingual,,
+Fickle,_Lingual,,
 Fiery,_Lingual,,
+Foam,_Lingual,,https://en.wikipedia.org/wiki/Foam
 Foresight,_Lingual,,
+Forester,_Lingual,,
 Formidable,_Lingual,,
+Fortune,_Lingual,,
 Forward,_Lingual,,
 Free,_Lingual,,
 Friendly,_Lingual,,
 Furious,_Lingual,,
+Fury,_Lingual,,
+Gallant,_Lingual,,
 Ghost,_Lingual,,https://en.wiktionary.org/wiki/ghost
 Gladiator,_Lingual,,
 Glorious,_Lingual,,
@@ -127,16 +212,28 @@ Glory,_Lingual,,
 Grim,_Lingual,,
 Guardian,_Lingual,,
 Gunner,_Lingual,,
+Handy,_Lingual,,
 Happiness,_Lingual,,
+Hardy,_Lingual,,
+Harvester,_Lingual,,
+Hasty,_Lingual,,
+Haughty,_Lingual,,
+Havoc,_Lingual,,
+Havock,_Lingual,,
+Hearty,_Lingual,,
 Hero,_Lingual,,https://en.wikipedia.org/wiki/Hero
 Homeland,_Lingual,,https://en.wikipedia.org/wiki/Homeland
+Hope,_Lingual,,
+Hostile,_Lingual,,
 Hunter,_Lingual,,
 Hunting,_Lingual,,https://en.wiktionary.org/wiki/hunting
 Illustrious,_Lingual,,
 Immortality,_Lingual,,
+Imperial,_Lingual,,
 Imperious,_Lingual,,
 Implacable,_Lingual,,
 Impregnable,_Lingual,,
+Impulsive,_Lingual,,
 Inconstant,_Lingual,,
 Indefatigable,_Lingual,,
 Indomitable,_Lingual,,
@@ -147,28 +244,75 @@ Invincible,_Lingual,,
 Irresistible,_Lingual,,
 Justice,_Lingual,,https://en.wikipedia.org/wiki/Justice
 Lancer,_Lingual,,https://en.wikipedia.org/wiki/Lancer
+Legion,_Lingual,,https://en.wikipedia.org/wiki/Roman_legion
 Liberty,_Lingual,,https://en.wikipedia.org/wiki/Liberty
+Lightfoot,_Lingual,,
+Lively,_Lingual,,
+Lookout,_Lingual,,
 Loyal,_Lingual,,
+Magic,_Lingual,,
 Magnanimous,_Lingual,,
 Magnificent,_Lingual,,
 Majestic,_Lingual,,
+Mamluk,_Lingual,,https://en.wikipedia.org/wiki/Mamluk
+Mandate,_Lingual,,
+Marine Bioluminescence,_Lingual,,https://en.wikipedia.org/wiki/Bioluminescence#Distribution
+Marksman,_Lingual,,
+Martial,_Lingual,,
+Marvel,_Lingual,,
 Massive,_Lingual,,
+Matchless,_Lingual,,
+Menace,_Lingual,,
+Mentor,_Lingual,,
+Military Tattoo,_Lingual,,https://en.wikipedia.org/wiki/Military_tattoo
+Mindful,_Lingual,,
+Minion,_Lingual,,
+Minstrel,_Lingual,,https://en.wikipedia.org/wiki/Minstrel
+Mischief,_Lingual,,
+Mischief,_Lingual,,
 Monarch,_Lingual,,https://en.wiktionary.org/wiki/monarch
+Musketeer,_Lingual,,https://en.wikipedia.org/wiki/Musketeer
 Mutin,_Lingual,,https://en.wiktionary.org/wiki/mutin
+Mystic,_Lingual,,
+Noble,_Lingual,,
+Nomad,_Lingual,,
+Nonpareil,_Lingual,,https://en.wiktionary.org/wiki/nonpareil
+Nonsuch,_Lingual,,
+Obdurate,_Lingual,,
+Obdurate,_Lingual,,
+Obedient,_Lingual,,
+Observer,_Lingual,,
+Onslaught,_Lingual,,
+Opportune,_Lingual,,
+Oracle,_Lingual,,https://en.wikipedia.org/wiki/Oracle
+Paragon,_Lingual,,
 Pathfinder,_Lingual,,
+Patrician,_Lingual,,https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)
+Patriot,_Lingual,,
 Patrol,_Lingual,,https://en.wikipedia.org/wiki/Patrol
 Patroller,_Lingual,,https://en.wikipedia.org/wiki/Patrol
 Peerless,_Lingual,,
 Pioneer,_Lingual,,https://en.wikipedia.org/wiki/Pioneer
 Pique,_Lingual,,https://en.wiktionary.org/wiki/pique
+Plucky,_Lingual,,
 Powerful,_Lingual,,
+Prince,_Lingual,,
+Privateer,_Lingual,,
 Puncher,_Lingual,,
 Pursuer,_Lingual,,
-Ranger,_Lingual,,https://en.wikipedia.org/wiki/USS_Ranger_(1777)
+Quality,_Lingual,,
+Radiant,_Lingual,,
+Raider,_Lingual,,
+Ranger,_Lingual,,
+Rapid,_Lingual,,
 Ravager,_Lingual,,
+Ready,_Lingual,,
 Reaper,_Lingual,,
 Reckless,_Lingual,,https://en.wiktionary.org/wiki/reckless
+Recruit,_Lingual,,
+Redoubt,_Lingual,,https://en.wikipedia.org/wiki/Redoubt
 Redoubtable,_Lingual,,
+Relentless,_Lingual,,
 Reliant,_Lingual,,https://en.wiktionary.org/wiki/reliant
 Renown,_Lingual,,
 Reprisal,_Lingual,,
@@ -178,53 +322,137 @@ Repulse,_Lingual,,
 Research,_Lingual,,
 Resistance,_Lingual,,
 Resolution,_Lingual,,
+Restless,_Lingual,,
 Resurrected,_Lingual,,
 Retribution,_Lingual,,
 Revenge,_Lingual,,
 Rigid,_Lingual,,
+Rigorous,_Lingual,,
+Rival,_Lingual,,
 Robust,_Lingual,,
 Royalist,_Lingual,,
 Ruler,_Lingual,,
 Sapper,_Lingual,,
+Savage,_Lingual,,
+Scourge,_Lingual,,
 Scout,_Lingual,,
 Searcher,_Lingual,,
+Searcher,_Lingual,,
 Second,_Lingual,,
+Senator,_Lingual,,https://en.wikipedia.org/wiki/Senate
 Sentinel,_Lingual,,
+Sepoy,_Lingual,,https://en.wikipedia.org/wiki/Sepoy
+Serene,_Lingual,,
+Sharpshooter,_Lingual,,
 Sibyl,_Lingual,,https://en.wikipedia.org/wiki/Sibyl
+Sirdar,_Lingual,,https://en.wikipedia.org/wiki/Sirdar
+Skilful,_Lingual,,
 Skirmisher,_Lingual,,
 Slinger,_Lingual,,
 Smiter,_Lingual,,
+Soldier (Archer),_Lingual,,https://en.wiktionary.org/wiki/archer
+Soldier (Rifleman),_Lingual,,https://en.wikipedia.org/wiki/Rifleman
+Sorceress,_Lingual,,
 Speaker,_Lingual,,https://en.wikipedia.org/wiki/Speaker_(politics)
+Speedy,_Lingual,,
+Spiteful,_Lingual,,
+Spitfire,_Lingual,,
+Splendid,_Lingual,,
+Sportive,_Lingual,,
+Sprightly,_Lingual,,
 Stalker,_Lingual,,
+Stalwart,_Lingual,,
+Staunch,_Lingual,,
+Steadfast,_Lingual,,
+Strenuous,_Lingual,,https://en.wiktionary.org/wiki/strenuous
 Striker,_Lingual,,
+Stronghold,_Lingual,,
+Sturdy,_Lingual,,
+Success,_Lingual,,
 Sudden,_Lingual,,
 Superb,_Lingual,,
+Surly,_Lingual,,
+Surprise,_Lingual,,
+Swift,_Lingual,,
+Swordsman,_Lingual,,
+Tactician,_Lingual,,
+Teaser,_Lingual,,
 Tenacious,_Lingual,,
+Termagant,_Lingual,,https://en.wikipedia.org/wiki/Termagant
 Terrible,_Lingual,,
+Thruster,_Lingual,,
 Thunderer,_Lingual,,
+Tirade,_Lingual,,
+Tormentor,_Lingual,,
+Torrid,_Lingual,,
 Torrid,_Lingual,,
 Tracker,_Lingual,,
+Trenchant,_Lingual,,
 Triumph,_Lingual,,
 Triumphant,_Lingual,,
 Trouncer,_Lingual,,
+Truant,_Lingual,,
+Truculent,_Lingual,,
 Trumpeter,_Lingual,,https://en.wikipedia.org/wiki/Herald
+Trusty,_Lingual,,
 Truth,_Lingual,,https://en.wikipedia.org/wiki/Truth
+Tumult,_Lingual,,
+Turbulent,_Lingual,,
+Tyrant,_Lingual,,
+Umpire,_Lingual,,
 Undaunted,_Lingual,,
+Unity,_Lingual,,
 Valiant,_Lingual,,
 Valorous,_Lingual,,
 Vanguard,_Lingual,,https://en.wiktionary.org/wiki/vanguard
+Vanity,_Lingual,,
+Vanquisher,_Lingual,,
+Vehement,_Lingual,,
 Venerable,_Lingual,,
 Vengeance,_Lingual,,
+Vengeful,_Lingual,,
+Venom,_Lingual,,https://en.wikipedia.org/wiki/Venom
+Venturous,_Lingual,,
+Versatile,_Lingual,,
+Veteran,_Lingual,,
+Viceroy,_Lingual,,
+Victor,_Lingual,,
 Victorious,_Lingual,,
 Victory,_Lingual,,
+Vidette,_Lingual,,
+Vigilant,_Lingual,,
+Viking,_Lingual,,https://en.wikipedia.org/wiki/Vikings
 Vindictive,_Lingual,,
+Violent,_Lingual,,
+Virago,_Lingual,,https://en.wikipedia.org/wiki/Virago
+Virulent,_Lingual,,
+Viscount,_Lingual,,
+Vivacious,_Lingual,,
 Vivid,_Lingual,,
+Volcano,_Lingual,,
+Volunteer,_Lingual,,
+Votary,_Lingual,,
+Voyager,_Lingual,,
 Wakamiya,_Lingual,,https://en.wikipedia.org/wiki/Mikogami#Wakamiya
+Wakeful,_Lingual,,
+Wanderer,_Lingual,,
 Warrior,_Lingual,,
 Watch,_Lingual,,https://en.wiktionary.org/wiki/watch
+Watching,_Lingual,,https://en.wiktionary.org/wiki/watching
+Watchman,_Lingual,,
+Welcome,_Lingual,,
+Welfare,_Lingual,,
+White,_Lingual,,
 White Cloth,_Lingual,,
 Willful,_Lingual,,
+Wistful,_Lingual,,
+Witch,_Lingual,,https://en.wikipedia.org/wiki/Witchcraft
+Wrangler (University),_Lingual,,https://en.wikipedia.org/wiki/Wrangler_(University_of_Cambridge)
+Wrestler,_Lingual,,
+Yeoman,_Lingual,,https://en.wikipedia.org/wiki/Yeoman_(disambiguation)
 Zealous,_Lingual,,
+Zest,_Lingual,,
+Spider,Animal,Arachnid,https://en.wikipedia.org/wiki/Spider
 Albatross,Animal,Bird,https://en.wikipedia.org/wiki/Albatross
 American Robin,Animal,Bird,https://en.wikipedia.org/wiki/American_robin
 Auk,Animal,Bird,https://en.wikipedia.org/wiki/Auk
@@ -233,22 +461,27 @@ Bittern,Animal,Bird,https://en.wikipedia.org/wiki/Bittern
 Bobolink,Animal,Bird,https://en.wikipedia.org/wiki/Bobolink
 Brant,Animal,Bird,https://en.wikipedia.org/wiki/Brant_(goose)
 Bulbul,Animal,Bird,https://en.wikipedia.org/wiki/Bulbul
+Bullfinch,Animal,Bird,https://en.wikipedia.org/wiki/Pyrrhula
 Buzzard,Animal,Bird,https://en.wikipedia.org/wiki/Buzzard
 Cardinal,Animal,Bird,https://en.wikipedia.org/wiki/Cardinalidae
 Chewink,Animal,Bird,https://en.wikipedia.org/wiki/Eastern_towhee
+Common Moorhen,Animal,Bird,https://en.wikipedia.org/wiki/Common_moorhen
 Condor,Animal,Bird,https://en.wikipedia.org/wiki/Condor
 Cormorant,Animal,Bird,https://en.wikipedia.org/wiki/Cormorant
+Corn Crake,Animal,Bird,https://en.wikipedia.org/wiki/Corn_crake
 Crane,Animal,Bird,https://en.wikipedia.org/wiki/Crane_(bird)
 Curlew,Animal,Bird,https://en.wikipedia.org/wiki/Curlew
 Dove,Animal,Bird,https://en.wikipedia.org/wiki/Columbidae
 Eagle,Animal,Bird,https://en.wikipedia.org/wiki/Eagle
 Eider,Animal,Bird,https://en.wikipedia.org/wiki/Eider
+European Goldfinch,Animal,Bird,https://en.wikipedia.org/wiki/European_goldfinch
 European Green Woodpecker,Animal,Bird,https://en.wikipedia.org/wiki/HMS_Warspite
 Falcon,Animal,Bird,https://en.wikipedia.org/wiki/Falcon
 Finch,Animal,Bird,https://en.wikipedia.org/wiki/Finch
 Flamingo,Animal,Bird,https://en.wikipedia.org/wiki/Flamingo
 Gannet,Animal,Bird,https://en.wikipedia.org/wiki/Gannet
 Goose,Animal,Bird,https://en.wikipedia.org/wiki/Goose
+Goshawk,Animal,Bird,https://en.wikipedia.org/wiki/Northern_goshawk
 Grebe,Animal,Bird,https://en.wikipedia.org/wiki/Grebe
 Hawk,Animal,Bird,https://en.wikipedia.org/wiki/Hawk
 Heron,Animal,Bird,https://en.wikipedia.org/wiki/Heron
@@ -256,36 +489,47 @@ Kingfisher,Animal,Bird,https://en.wikipedia.org/wiki/Kingfisher
 Kite (bird),Animal,Bird,https://en.wikipedia.org/wiki/Kite_(bird)
 Lapwing,Animal,Bird,https://en.wikipedia.org/wiki/Lapwing
 Lark,Animal,Bird,https://en.wikipedia.org/wiki/Lark
+Linnet,Animal,Bird,https://en.wikipedia.org/wiki/Common_linnet
 Magpie,Animal,Bird,https://en.wikipedia.org/wiki/Magpie
 Mallard,Animal,Bird,https://en.wikipedia.org/wiki/Mallard
 New World Oriole,Animal,Bird,https://en.wikipedia.org/wiki/New_World_oriole
 Old World Oriole,Animal,Bird,https://en.wikipedia.org/wiki/Old_World_oriole
 Ortolan,Animal,Bird,https://en.wikipedia.org/wiki/Ortolan_bunting
 Osprey,Animal,Bird,https://en.wikipedia.org/wiki/Osprey
+Ostrich,Animal,Bird,https://en.wikipedia.org/wiki/Ostrich
 Owl,Animal,Bird,https://en.wikipedia.org/wiki/Owl
 Partridge,Animal,Bird,https://en.wikipedia.org/wiki/Partridge
 Peacock,Animal,Bird,https://en.wikipedia.org/wiki/Peafowl
 Pelican,Animal,Bird,https://en.wikipedia.org/wiki/Pelican
 Penguin,Animal,Bird,https://en.wikipedia.org/wiki/Penguin
 Peregrine Falcon,Animal,Bird,https://en.wikipedia.org/wiki/Peregrine_falcon
+Peregrine Falcon,Animal,Bird,https://en.wikipedia.org/wiki/Peregrine_falcon
+Petrel,Animal,Bird,https://en.wikipedia.org/wiki/Petrel
 Pheasant,Animal,Bird,https://en.wikipedia.org/wiki/Pheasant
 Pigeon,Animal,Bird,https://en.wikipedia.org/wiki/Columbidae
 Plover,Animal,Bird,https://en.wikipedia.org/wiki/Plover
 Quail,Animal,Bird,https://en.wikipedia.org/wiki/Quail
 Rail,Animal,Bird,https://en.wikipedia.org/wiki/Rail_(bird)
 Raven,Animal,Bird,https://en.wikipedia.org/wiki/Raven
+Redpoll,Animal,Bird,https://en.wikipedia.org/wiki/Redpoll
+Redwing,Animal,Bird,https://en.wikipedia.org/wiki/Redwing
 Redwing,Animal,Bird,https://en.wikipedia.org/wiki/Redwing
 Sanderling,Animal,Bird,https://en.wikipedia.org/wiki/Sanderling
 Sandpiper,Animal,Bird,https://en.wikipedia.org/wiki/Sandpiper
 Sea Eagle,Animal,Bird,https://en.wikipedia.org/wiki/Sea_eagle
 Seagull,Animal,Bird,https://en.wikipedia.org/wiki/Gull
 Shearwater,Animal,Bird,https://en.wikipedia.org/wiki/Shearwater
+Shelduck,Animal,Bird,https://en.wikipedia.org/wiki/Tadorna
+Skylark,Animal,Bird,https://en.wikipedia.org/wiki/Alauda
 Sparrowhawk,Animal,Bird,https://en.wikipedia.org/wiki/Sparrowhawk
+Stork,Animal,Bird,https://en.wikipedia.org/wiki/Stork
 Swallow,Animal,Bird,https://en.wikipedia.org/wiki/Swallow
 Swan,Animal,Bird,https://en.wikipedia.org/wiki/Swan
+Swan (Young),Animal,Bird,https://en.wikipedia.org/wiki/Swan#Young_swan
 Tanager,Animal,Bird,https://en.wikipedia.org/wiki/Tanager
 Teal,Animal,Bird,https://en.wikipedia.org/wiki/Teal
 Tern,Animal,Bird,https://en.wikipedia.org/wiki/Tern
+Thrasher,Animal,Bird,https://en.wikipedia.org/wiki/Thrasher
 Thrush,Animal,Bird,https://en.wikipedia.org/wiki/Thrush_(bird)
 Turkey,Animal,Bird,https://en.wikipedia.org/wiki/Turkey_(bird)
 Vireo,Animal,Bird,https://en.wikipedia.org/wiki/Vireo
@@ -297,7 +541,11 @@ White-naped Crane,Animal,Bird,https://en.wikipedia.org/wiki/White-naped_crane
 Widgeon,Animal,Bird,https://en.wikipedia.org/wiki/Wigeon
 Willet,Animal,Bird,https://en.wikipedia.org/wiki/Willet
 Woodcock,Animal,Bird,https://en.wikipedia.org/wiki/Woodcock
+Wren,Animal,Bird,https://en.wikipedia.org/wiki/Wren
+Wryneck,Animal,Bird,https://en.wikipedia.org/wiki/Wryneck
 Shark,Animal,Cartilaginous Fish,https://en.wikipedia.org/wiki/Shark
+Skate,Animal,Cartilaginous Fish,https://en.wikipedia.org/wiki/Skate_(fish)
+Nautilus,Animal,Cephalopod,https://en.wikipedia.org/wiki/Nautilus
 Acavus,Animal,Gastropod,https://en.wikipedia.org/wiki/Acavus
 Adula,Animal,Gastropod,
 Alexia,Animal,Gastropod,https://en.wikipedia.org/wiki/Alexania_(gastropod)
@@ -307,28 +555,118 @@ Gadila,Animal,Gastropod,https://en.wikipedia.org/wiki/Gadila_(mollusc)
 Macoma,Animal,Gastropod,https://en.wikipedia.org/wiki/Macoma
 Miralda,Animal,Gastropod,https://en.wikipedia.org/wiki/Miralda
 Rapana,Animal,Gastropod,https://en.wikipedia.org/wiki/Rapana
+Cricket,Animal,Insect,https://en.wikipedia.org/wiki/Cricket_(insect)
+Dragonfly,Animal,Insect,https://en.wikipedia.org/wiki/Dragonfly
+Firefly,Animal,Insect,https://en.wikipedia.org/wiki/Firefly
+Gadfly,Animal,Insect,https://en.wikipedia.org/wiki/Botfly
+Glowworm,Animal,Insect,https://en.wikipedia.org/wiki/Glowworm
+Gnat,Animal,Insect,https://en.wikipedia.org/wiki/Gnat
+Grasshopper,Animal,Insect,https://en.wikipedia.org/wiki/Grasshopper
+Grasshopper,Animal,Insect,https://en.wikipedia.org/wiki/Grasshopper
+Greenfly,Animal,Insect,https://en.wikipedia.org/wiki/Myzus_persicae
 Hornet,Animal,Insect,https://en.wikipedia.org/wiki/Hornet
+Locust,Animal,Insect,https://en.wikipedia.org/wiki/Acrididae
+Mayfly,Animal,Insect,https://en.wikipedia.org/wiki/Mayfly
+Midge,Animal,Insect,https://en.wikipedia.org/wiki/Midge
+Mosquito,Animal,Insect,https://en.wikipedia.org/wiki/Mosquito
+Moth,Animal,Insect,https://en.wikipedia.org/wiki/Moth
+Sandfly,Animal,Insect,https://en.wikipedia.org/wiki/Sandfly
+Sandfly,Animal,Insect,https://en.wikipedia.org/wiki/Sandfly
+Scorpion,Animal,Insect,https://en.wikipedia.org/wiki/Scorpion
+Vanessa,Animal,Insect,https://en.wikipedia.org/wiki/Vanessa_(butterfly)
 Wasp,Animal,Insect,https://en.wikipedia.org/wiki/Wasp
 American Bison,Animal,Mammal,https://en.wikipedia.org/wiki/American_bison
-Beagle,Animal,Mammal,https://en.wikipedia.org/wiki/Beagle
-Bloodhound,Animal,Mammal,https://en.wiktionary.org/wiki/bloodhound
+Antelope,Animal,Mammal,https://en.wikipedia.org/wiki/Antelope
+Badger,Animal,Mammal,https://en.wikipedia.org/wiki/Badger
+Bat,Animal,Mammal,https://en.wikipedia.org/wiki/Bat
+Bear,Animal,Mammal,https://en.wikipedia.org/wiki/Bear
+Beaver,Animal,Mammal,https://en.wikipedia.org/wiki/Beaver
+Chamois,Animal,Mammal,https://en.wikipedia.org/wiki/Chamois
+Deer (Male),Animal,Mammal,https://en.wikipedia.org/wiki/Deer
+Deer (Young),Animal,Mammal,https://en.wikipedia.org/wiki/Deer
+Dog (Beagle),Animal,Mammal,https://en.wikipedia.org/wiki/Beagle
+Dog (Bloodhound),Animal,Mammal,https://en.wiktionary.org/wiki/bloodhound
+Dog (Bulldog),Animal,Mammal,https://en.wikipedia.org/wiki/Bulldog
+Dog (Foxhound),Animal,Mammal,https://en.wikipedia.org/wiki/Foxhound
+Dog (Greyhound),Animal,Mammal,https://en.wikipedia.org/wiki/Greyhound
+Dog (Lurcher),Animal,Mammal,https://en.wikipedia.org/wiki/Lurcher
+Dog (Mastiff),Animal,Mammal,https://en.wikipedia.org/wiki/Mastiff
+Dog (Pinscher),Animal,Mammal,https://en.wikipedia.org/wiki/Pinscher
+Dog (Puppy),Animal,Mammal,https://en.wikipedia.org/wiki/Birth
+Dog (Retriever),Animal,Mammal,https://en.wikipedia.org/wiki/Retriever
+Dog (Setter),Animal,Mammal,https://en.wikipedia.org/wiki/Setter
+Dog (Whippet),Animal,Mammal,https://en.wikipedia.org/wiki/Whippet
+Dog (Wolfhound),Animal,Mammal,https://en.wikipedia.org/wiki/Wolfhound
 Elephant,Animal,Mammal,https://en.wikipedia.org/wiki/Elephant
+Ferret,Animal,Mammal,https://en.wikipedia.org/wiki/Ferret
 Fox,Animal,Mammal,https://en.wikipedia.org/wiki/Fox
+Fox (Female),Animal,Mammal,https://en.wikipedia.org/wiki/Fox
 Gazelle,Animal,Mammal,https://en.wikipedia.org/wiki/Gazelle
+Hedgehog,Animal,Mammal,https://en.wikipedia.org/wiki/Hedgehog
+Horse (Racehorse),Animal,Mammal,https://en.wikipedia.org/wiki/Horse_racing
+Jackal,Animal,Mammal,https://en.wikipedia.org/wiki/Jackal
+Jaguar,Animal,Mammal,https://en.wikipedia.org/wiki/Jaguar
+Kangaroo,Animal,Mammal,https://en.wikipedia.org/wiki/Kangaroo
+Kestrel,Animal,Mammal,https://en.wikipedia.org/wiki/Kestrel
 Leopard,Animal,Mammal,https://en.wikipedia.org/wiki/Leopard
 Lion,Animal,Mammal,https://en.wikipedia.org/wiki/Lion-class_battleship
+Lynx,Animal,Mammal,https://en.wikipedia.org/wiki/Lynx
+Narwhal,Animal,Mammal,https://en.wikipedia.org/wiki/Narwhal
+Opossum,Animal,Mammal,https://en.wikipedia.org/wiki/Opossum
+Oribi,Animal,Mammal,https://en.wikipedia.org/wiki/Oribi
+Otter,Animal,Mammal,https://en.wikipedia.org/wiki/Otter
+Panther,Animal,Mammal,https://en.wikipedia.org/wiki/Black_panther
+Polar Bear,Animal,Mammal,https://en.wikipedia.org/wiki/Polar_bear
+Porcupine,Animal,Mammal,https://en.wikipedia.org/wiki/Porcupine
+Porpoise,Animal,Mammal,https://en.wikipedia.org/wiki/Porpoise
+Racoon,Animal,Mammal,https://en.wikipedia.org/wiki/Raccoon
+Risso's Dolphin,Animal,Mammal,https://en.wikipedia.org/wiki/Risso%27s_dolphin
+Roe Deer (Female),Animal,Mammal,https://en.wikipedia.org/wiki/Roe_deer
+Roe Deer (Male),Animal,Mammal,https://en.wikipedia.org/wiki/Roe_deer
+Sable,Animal,Mammal,https://en.wikipedia.org/wiki/Sable
+Seal,Animal,Mammal,https://en.wikipedia.org/wiki/Pinniped
+Springbok,Animal,Mammal,https://en.wikipedia.org/wiki/Springbok
 Tiger,Animal,Mammal,https://en.wikipedia.org/wiki/Tiger
+Tiger (Female),Animal,Mammal,https://en.wikipedia.org/wiki/Tiger
+Walrus,Animal,Mammal,https://en.wikipedia.org/wiki/Walrus
+Weasel,Animal,Mammal,https://en.wikipedia.org/wiki/Weasel
 Whale,Animal,Mammal,https://en.wikipedia.org/wiki/Whale
+Wolf,Animal,Mammal,https://en.wikipedia.org/wiki/Wolf
+Wolverine,Animal,Mammal,https://en.wikipedia.org/wiki/Wolverine
+Zebra,Animal,Mammal,https://en.wikipedia.org/wiki/Zebra
+Albacore,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Albacore
+Anglerfish,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Anglerfish
 Barracouta,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Thyrsites_lepidopodea
+Bonito,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Bonito
+Flying Fish,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Flying_fish
+Salmon,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Salmon
+Snapper,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Lutjanidae
+Sturgeon,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Sturgeon
+Sunfish,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Ocean_sunfish
+Swordfish,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Swordfish
+Tarpon,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Tarpon
+Whiting,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Whiting_(fish)
+Wolffish,Animal,Ray-Finned Fish,https://en.wikipedia.org/wiki/Anarhichadidae
 Caiman,Animal,Reptile,https://en.wikipedia.org/wiki/Caiman
+Cameleon,Animal,Reptile,https://en.wikipedia.org/wiki/Chameleon
+Cobra,Animal,Reptile,https://en.wikipedia.org/wiki/Cobra
+Lizard,Animal,Reptile,https://en.wikipedia.org/wiki/Lizard
+Rattlesnake,Animal,Reptile,https://en.wikipedia.org/wiki/Rattlesnake
+Viper,Animal,Reptile,https://en.wikipedia.org/wiki/Viper
+Sea Urchin,Animal,Sea Urchin,https://en.wikipedia.org/wiki/Sea_urchin
+Starfish,Animal,Starfish,https://en.wikipedia.org/wiki/Starfish
 Autumn Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
 Clear Moon in Autumn,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
+Comet,Astronomical,Body,https://en.wikipedia.org/wiki/Comet
 Comet,Astronomical,Body,https://en.wikipedia.org/wiki/Comet
 Meteor,Astronomical,Body,https://en.wikipedia.org/wiki/Meteor
 Night Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
 Shining Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
 Spring Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
+Star,Astronomical,Body,https://en.wikipedia.org/wiki/Star
 Summer Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
+The Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
+Venus (Planet),Astronomical,Body,https://en.wikipedia.org/wiki/Venus
 Winter Moon,Astronomical,Body,https://en.wikipedia.org/wiki/Moon
 Beautiful Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
 Dawn,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Dawn
@@ -341,16 +679,25 @@ Twilight,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Twilight
 Waning Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
 Waxing Crescent,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
 Waxing Moon,Astronomical,Conjunction,https://en.wikipedia.org/wiki/Lunar_phase
+Lyra Constellation,Astronomical,Constellation,https://en.wikipedia.org/wiki/Lyra
+Taurus,Astronomical,Constellation,https://en.wikipedia.org/wiki/Taurus_(astrology)
+Zodiac,Astronomical,Constellation,https://en.wikipedia.org/wiki/Zodiac
+Polaris,Astronomical,Star,https://en.wikipedia.org/wiki/Polaris
 "Sirius, Canis Major",Astronomical,Star,https://en.wikipedia.org/wiki/Sirius
+Vega,Astronomical,Star,https://en.wikipedia.org/wiki/Vega
+Zenith,Astronomical,,
 Camellia Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Camellia
 Catalpa Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Catalpa
 Chrysanthemum,Botanical,Asterid,https://en.wikipedia.org/wiki/Chrysanthemum
 Clerodendrum Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Clerodendrum
 Empress Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Paulownia_tomentosa
+Holly,Botanical,Asterid,https://en.wikipedia.org/wiki/Holly
+Marigold,Botanical,Asterid,https://en.wikipedia.org/wiki/Calendula
 Morning Glory,Botanical,Asterid,https://en.wikipedia.org/wiki/Morning_glory
 Mugwort,Botanical,Asterid,https://en.wikipedia.org/wiki/Mugwort
 Persimmon Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Persimmon
 Sakaki Tree,Botanical,Asterid,https://en.wikipedia.org/wiki/Cleyera_japonica
+Sesame,Botanical,Asterid,https://en.wikipedia.org/wiki/Sesame
 Sunflower,Botanical,Asterid,https://en.wikipedia.org/wiki/Helianthus
 Arrow Bamboo,Botanical,Commelinid,https://en.wikipedia.org/wiki/Pseudosasa_japonica
 Bamboo,Botanical,Commelinid,https://en.wikipedia.org/wiki/Bamboo
@@ -372,6 +719,8 @@ Tsuga Tree,Botanical,Conifer,https://en.wikipedia.org/wiki/Tsuga
 Asian Knotweed,Botanical,Eudicot,https://en.wikipedia.org/wiki/Reynoutria
 Katsura Tree,Botanical,Eudicot,https://en.wikipedia.org/wiki/Cercidiphyllum_japonicum
 Lotus,Botanical,Eudicot,https://en.wikipedia.org/wiki/Nelumbo
+Oak Tree (Nut),Botanical,Feature,https://en.wikipedia.org/wiki/Acorn
+Thorn,Botanical,Feature,"https://en.wikipedia.org/wiki/Thorns,_spines,_and_prickles"
 Bracken,Botanical,Fern,https://en.wikipedia.org/wiki/Bracken
 Bracken Sprout,Botanical,Fern,https://en.wikipedia.org/wiki/Bracken
 Camphor Tree,Botanical,Magnoliid,https://en.wikipedia.org/wiki/Camphora_officinarum
@@ -380,6 +729,7 @@ Bottle Gourd,Botanical,Rosid,https://en.wikipedia.org/wiki/Calabash
 Bush Clover,Botanical,Rosid,https://en.wikipedia.org/wiki/Lespedeza
 Cherry Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Cherry
 Chestnut Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Chestnut
+Chinaberry Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Melia_azedarach
 Chinquapin Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Castanopsis
 Elm Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Elm
 First Cherry Blossom,Botanical,Rosid,https://en.wikipedia.org/wiki/Cherry
@@ -399,6 +749,8 @@ Oak Wood,Botanical,Rosid,https://en.wikipedia.org/wiki/Oak
 Peach Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Peach
 Pear Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Pear
 Plum Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Plum
+Shamrock,Botanical,Rosid,https://en.wikipedia.org/wiki/Shamrock
+Sycamore Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Sycamore
 Violet,Botanical,Rosid,https://en.wikipedia.org/wiki/Viola_(plant)
 Water Caltrop,Botanical,Rosid,https://en.wikipedia.org/wiki/Water_caltrop
 Willow Tree,Botanical,Rosid,https://en.wikipedia.org/wiki/Willow
@@ -503,6 +855,8 @@ Africa,Geographical,Continent,https://en.wikipedia.org/wiki/Africa
 Americas,Geographical,Continent,https://en.wikipedia.org/wiki/Americas
 "Belle Isle, France",Geographical,Island,https://en.wikipedia.org/wiki/Belle_%C3%8Ele
 "Castle Rock, Alaska, US",Geographical,Island,https://en.wikipedia.org/wiki/Castle_Rock_(Alaska)
+"Chios, Greece",Geographical,Island,https://en.wikipedia.org/wiki/Chios
+"Crete, Greece",Geographical,Island,https://en.wikipedia.org/wiki/Crete
 "Cuba, Cuba",Geographical,Island,https://en.wikipedia.org/wiki/Cuba
 Curacao,Geographical,Island,https://en.wikipedia.org/wiki/Cura%C3%A7ao
 "Edisto Island, South Carolina, US",Geographical,Island,https://en.wikipedia.org/wiki/Edisto_Island
@@ -510,20 +864,31 @@ Curacao,Geographical,Island,https://en.wikipedia.org/wiki/Cura%C3%A7ao
 Great Britain,Geographical,Island,https://en.wikipedia.org/wiki/Great_Britain
 Ireland,Geographical,Island,https://en.wikipedia.org/wiki/Erin
 Island of Taiwan,Geographical,Island,https://en.wikipedia.org/wiki/Geography_of_Taiwan
+"Isle of Wight, England, UK",Geographical,Island,https://en.wikipedia.org/wiki/Isle_of_Wight
 "Jamaica Island, Maine, US",Geographical,Island,https://en.wikipedia.org/wiki/Seavey%27s_Island
+"Jersey, UK",Geographical,Island,https://en.wikipedia.org/wiki/Jersey
+"Lesbos, Greece",Geographical,Island,https://en.wikipedia.org/wiki/Lesbos
 "Lesbos, Greece",Geographical,Island,https://en.wikipedia.org/wiki/Lesbos
 "Long Island, New York, US",Geographical,Island,https://en.wikipedia.org/wiki/Long_Island
 "Luzon, Philippines",Geographical,Island,https://en.wikipedia.org/wiki/Luzon
 "Mackinac Island, Michigan, US",Geographical,Island,https://en.wikipedia.org/wiki/Mackinac_Island
 "Nagaura Island, Japan",Geographical,Island,
+"Salamis Island, Greece",Geographical,Island,https://en.wikipedia.org/wiki/Salamis_Island
+"Samos, Greece",Geographical,Island,https://en.wikipedia.org/wiki/Samos
 "San Clemente Island, California, US",Geographical,Island,https://en.wikipedia.org/wiki/San_Clemente_Island
+"Stord, Norway",Geographical,Island,https://en.wikipedia.org/wiki/Stord_(island)
+"Tasmania, Australia",Geographical,Island,https://en.wikipedia.org/wiki/Tasmania
 "Tenedos, Turkey",Geographical,Island,https://en.wikipedia.org/wiki/Tenedos
+"Tenedos, Turkey",Geographical,Island,https://en.wikipedia.org/wiki/Tenedos
+"Tobago, Trinidad and Tobago",Geographical,Island,https://en.wikipedia.org/wiki/Trinidad
+"Trinidad, Trinidad and Tobago",Geographical,Island,https://en.wikipedia.org/wiki/Trinidad
 "Valcour Island, New York, US",Geographical,Island,https://en.wikipedia.org/wiki/Valcour_Island
 "Lake Carnegie, New Jersey, US",Geographical,Lake,https://en.wikipedia.org/wiki/Lake_Carnegie_(New_Jersey)
 "Lake Superior, North America",Geographical,Lake,https://en.wikipedia.org/wiki/Lake_Superior
 "Lake Tahoe, California, US",Geographical,Lake,https://en.wikipedia.org/wiki/Lake_Tahoe
 "Lake Tokiwa, Japan",Geographical,Lake,https://en.wikipedia.org/wiki/Tokiwa_Park
 Moosehead Lake,Geographical,Lake,https://en.wikipedia.org/wiki/Moosehead_Lake
+"Ullswater, England, UK",Geographical,Lake,https://en.wikipedia.org/wiki/Ullswater
 "Dunderberg Mountain, New York, US",Geographical,Mountain,https://en.wikipedia.org/wiki/Dunderberg_Mountain
 "Mount Akagi, Japan",Geographical,Mountain,https://en.wikipedia.org/wiki/Mount_Akagi
 "Mount Amagi, Japan",Geographical,Mountain,https://en.wikipedia.org/wiki/Mount_Amagi
@@ -534,6 +899,7 @@ Moosehead Lake,Geographical,Lake,https://en.wikipedia.org/wiki/Moosehead_Lake
 "Mount Atago, Japan",Geographical,Mountain,https://en.wikipedia.org/wiki/Mount_Atago
 "Mount Azuma, Japan",Geographical,Mountain,https://en.wikipedia.org/wiki/Mount_Azuma-kofuji
 "Mount Chokai, Japan",Geographical,Mountain,https://en.wikipedia.org/wiki/Mount_Ch%C5%8Dkai
+"Mount Damavand, Iran",Geographical,Mountain,https://en.wikipedia.org/wiki/Mount_Damavand
 "Mount Fuji, Japan",Geographical,Mountain,https://en.wikipedia.org/wiki/Mount_Fuji
 "Mount Furutaka, Japan",Geographical,Mountain,
 "Mount Haguro, Japan",Geographical,Mountain,https://en.wikipedia.org/wiki/Mount_Haguro
@@ -559,6 +925,8 @@ Moosehead Lake,Geographical,Lake,https://en.wikipedia.org/wiki/Moosehead_Lake
 "Mount Yamato Katsuragi, Japan",Geographical,Mountain,https://en.wikipedia.org/wiki/Mount_Yamato_Katsuragi
 "Mountain Kinugasa, Japan",Geographical,Mountain,
 "Yu Shan, Taiwan",Geographical,Mountain,https://en.wikipedia.org/wiki/Yu_Shan
+"Cheviot Hills, UK",Geographical,Mountain Range,https://en.wikipedia.org/wiki/Cheviot_Hills
+"Isle of Thanet, England, UK",Geographical,Peninsula,https://en.wikipedia.org/wiki/Isle_of_Thanet
 "Shawmut Peninsula, Massachusetts, US",Geographical,Peninsula,https://en.wikipedia.org/wiki/Shawmut_Peninsula
 "Akashi, Hyogo, Japan",Geographical,Region,"https://en.wikipedia.org/wiki/Akashi,_Hy%C5%8Dgo"
 "Alsace, France",Geographical,Region,https://en.wikipedia.org/wiki/Alsace
@@ -573,20 +941,25 @@ Gaul,Geographical,Region,https://en.wikipedia.org/wiki/Gaul
 "Guyenne, France",Geographical,Region,https://en.wikipedia.org/wiki/Guyenne
 "Helgoland, Germany",Geographical,Region,https://en.wikipedia.org/wiki/Heligoland
 "Hesse, Germany",Geographical,Region,https://en.wikipedia.org/wiki/Hesse
+Kashmir,Geographical,Region,https://en.wikipedia.org/wiki/Kashmir
 "Khibiny Mountains, Murmansk Oblast, Russia",Geographical,Region,https://en.wikipedia.org/wiki/Khibiny_Mountains
 "Kuril Islands, Russia",Geographical,Region,https://en.wikipedia.org/wiki/Kuril_Islands
 "Languedoc, France",Geographical,Region,https://en.wikipedia.org/wiki/Languedoc
 "Lorraine, France",Geographical,Region,https://en.wikipedia.org/wiki/Lorraine
 "Matsushima, Miyagi Prefecture, Japan",Geographical,Region,https://en.wikipedia.org/wiki/Matsushima
 "Miyako Islands, Japan",Geographical,Region,https://en.wikipedia.org/wiki/Miyako_Islands
+"Munster, Ireland",Geographical,Region,https://en.wikipedia.org/wiki/Munster
 "Naniwa-ku, Osaka, Japan",Geographical,Region,"https://en.wikipedia.org/wiki/Naniwa-ku,_Osaka"
 "Normandy, France",Geographical,Region,https://en.wikipedia.org/wiki/Normandy
+"Orkney Islands, Scotland, UK",Geographical,Region,https://en.wikipedia.org/wiki/Orkney
 "Provence, France",Geographical,Region,https://en.wikipedia.org/wiki/Provence
 "Rheinland, Germany",Geographical,Region,https://en.wikipedia.org/wiki/Rhineland
 "Suma-ku, Kobe, Japan",Geographical,Region,"https://en.wikipedia.org/wiki/Suma-ku,_Kobe"
+Svenner Islands,Geographical,Region,https://en.wikipedia.org/wiki/Svenner_Islands
 "Takachiho-gawara, Kagoshima Prefecture, Japan",Geographical,Region,https://en.wikipedia.org/wiki/Takachiho-gawara
+"The Lennox, Scotland, UK",Geographical,Region,https://en.wikipedia.org/wiki/The_Lennox
 "Thuringia, Germany",Geographical,Region,https://en.wikipedia.org/wiki/Thuringia
-Wales,Geographical,Region,https://en.wikipedia.org/wiki/Wales
+"Ulster, Ireland",Geographical,Region,https://en.wikipedia.org/wiki/Ulster
 "Yaeyama Islands, Japan",Geographical,Region,https://en.wikipedia.org/wiki/Yaeyama_Islands
 "Yodo Domain, Japan",Geographical,Region,https://en.wikipedia.org/wiki/Yodo_Domain
 "Yoshino District, Nara, Japan",Geographical,Region,"https://en.wikipedia.org/wiki/Yoshino_District,_Nara"
@@ -594,21 +967,39 @@ Wales,Geographical,Region,https://en.wikipedia.org/wiki/Wales
 "Acheron, Greece",Geographical,River,https://en.wikipedia.org/wiki/Acheron
 "Agano River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Agano_River
 "Annapolis River, Canada",Geographical,River,https://en.wikipedia.org/wiki/Annapolis_River
+"Assiniboine River, Manitoba, Canada",Geographical,River,https://en.wikipedia.org/wiki/Assiniboine_River
+"Chaudiere River, Quebec, Canada",Geographical,River,https://en.wikipedia.org/wiki/Chaudi%C3%A8re_River
 "Chenango River, New York, US",Geographical,River,https://en.wikipedia.org/wiki/Chenango_River
 "Columbia River, North America",Geographical,River,https://en.wikipedia.org/wiki/Columbia_River
 "Dnieper River, Ukraine",Geographical,River,https://en.wikipedia.org/wiki/Dnieper
 "Elbe River, Germany",Geographical,River,https://en.wikipedia.org/wiki/Elbe
+"Ettrick Water, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/Ettrick_Water
 "Euphrates, Asia",Geographical,River,https://en.wikipedia.org/wiki/Euphrates
+"Fraser River, British Columbia, Canada",Geographical,River,https://en.wikipedia.org/wiki/Fraser_River
+"Gala Water, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/Gala_Water
 "Ganges, India",Geographical,River,https://en.wikipedia.org/wiki/Ganges
+"Gatineau River, Quebec, Canada",Geographical,River,https://en.wikipedia.org/wiki/Gatineau_River
+"Huon River, Tasmania, Australia",Geographical,River,https://en.wikipedia.org/wiki/Huon_River
 "Indus River, Pakistan",Geographical,River,https://en.wikipedia.org/wiki/Indus_River
 "Isuzu River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Isuzu_River
+"Jaguaribe River, Brazil",Geographical,River,https://en.wikipedia.org/wiki/Jaguaribe_River
+"Japura River, Brazil",Geographical,River,https://en.wikipedia.org/wiki/Japur%C3%A1_River
+"Javary River, Brazil",Geographical,River,https://en.wikipedia.org/wiki/Javary_River
+"Jed Water, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/Jed_Water
 "Jinzu River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Jinz%C5%AB_River
+"Jurua River, Brazil",Geographical,River,https://en.wikipedia.org/wiki/Juru%C3%A1_River
+"Juruena River, Mato Grosso, Brazil",Geographical,River,https://en.wikipedia.org/wiki/Juruena_River
+"Jutai River, Brazil",Geographical,River,https://en.wikipedia.org/wiki/Juta%C3%AD_River
 "Kako River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kako_River_(Japan)
+"Kale Water, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/Kale_Water
 "Kinugawa River, Japan",Geographical,River,
 "Kiso River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kiso_River
 "Kitakami River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kitakami_River
+"Kootenay River, British Columbia, Canada",Geographical,River,https://en.wikipedia.org/wiki/Kootenay_River
 "Kuma River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kuma_River_(Japan)
 "Kumano River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Kumano_River
+"Lis River, Portugal",Geographical,River,https://en.wikipedia.org/wiki/Lis_River
+"Margaree River, Nova Scotia, Canada",Geographical,River,https://en.wikipedia.org/wiki/Margaree_River
 "Mikuma River, Japan",Geographical,River,
 "Mogami River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Mogami_River
 "Nagara River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Nagara_River
@@ -617,34 +1008,90 @@ Wales,Geographical,Region,https://en.wikipedia.org/wiki/Wales
 "Niagara River, North America",Geographical,River,https://en.wikipedia.org/wiki/Niagara_River
 "Oi River, Japan",Geographical,River,https://en.wikipedia.org/wiki/%C5%8Ci_River
 "Orontes River, Syria",Geographical,River,https://en.wikipedia.org/wiki/Orontes_River
+"Ottawa River, Canada",Geographical,River,https://en.wikipedia.org/wiki/Ottawa_River
 "Oyodo River, Japan",Geographical,River,https://en.wikipedia.org/wiki/%C5%8Cyodo_River
 "Pactolus River, Turkey",Geographical,River,https://en.wikipedia.org/wiki/Pactolus
+"Parramatta River, New South Wales, Australia",Geographical,River,https://en.wikipedia.org/wiki/Parramatta_River
+"Qu'Appelle River, Saskatchewan, Canada",Geographical,River,https://en.wikipedia.org/wiki/Qu%27Appelle_River
+"Restigouche River, New Brunswick, Canada",Geographical,River,https://en.wikipedia.org/wiki/Restigouche_River
+"River Arno, Tuscany, Italy",Geographical,River,https://en.wikipedia.org/wiki/Arno
+"River Arun, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Arun
+"River Avon, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Avon,_Bristol"
+"River Blackwater, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Blackwater,_Essex"
+"River Boyne, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Boyne
+"River Carron, Scotland, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Carron,_Forth"
+"River Chelmer, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Chelmer
+"River Cherwell, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Cherwell
+"River Colne, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Colne,_Essex"
+"River Dee, Wales, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Dee,_Wales"
+"River Derwent, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Derwent,_Derbyshire"
+"River Doon, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Doon
+"River Eden, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Eden,_Cumbria"
+"River Erne, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Erne
+"River Esk, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Esk,_North_Yorkshire"
+"River Exe, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Exe
 "River Forth, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Forth
+"River Foyle, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Foyle
+"River Garry, Scotland, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Garry,_Perthshire"
+"River Itchen, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Itchen,_Hampshire"
+"River Kennet, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Kennet
+"River Lea, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Lea
+"River Leven, Scotland, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Leven,_Dunbartonshire"
+"River Liffey, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Liffey
+"River Medina, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Medina
+"River Medway, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Medway
 "River Mersey, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Mersey
+"River Moy, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Moy
+"River Ness, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Ness
+"River Nith, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Nith
+"River Orwell, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Orwell
+"River Orwell, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Orwell
+"River Ouse, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Ouse,_Yorkshire"
+"River Ribble, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Ribble
+"River Rother, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Rother,_South_Yorkshire"
 "River Severn, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Severn
 "River Shannon, Ireland",Geographical,River,https://en.wikipedia.org/wiki/River_Shannon
+"River Stour, England, UK",Geographical,River,"https://en.wikipedia.org/wiki/River_Stour,_Worcestershire"
+"River Swale, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Swale
+"River Test, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Test
+"River Teviot, Scotland, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Teviot
 "River Thames, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Thames
+"River Torrens, South Australia, Australia",Geographical,River,https://en.wikipedia.org/wiki/River_Torrens
+"River Ure, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Ure
+"River Usk, Wales, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Usk
+"River Waveney, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Waveney
+"River Wear, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Wear
+"River Welland, England, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Welland
+"River Wye, Wales, UK",Geographical,River,https://en.wikipedia.org/wiki/River_Wye
+"Saguenay River, Quebec, Canada",Geographical,River,https://en.wikipedia.org/wiki/Saguenay_River
 "Saint Francis River, North America",Geographical,River,https://en.wikipedia.org/wiki/Saint_Francis_River_(Canada%E2%80%93United_States)
 "Sakawa River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Sakawa_River
 "Sangamon River, Illinois, US",Geographical,River,https://en.wikipedia.org/wiki/Sangamon_River
 "Santee River, South Carolina, US",Geographical,River,https://en.wikipedia.org/wiki/Santee_River
+"Saskatchewan River, Saskatchewan, Canada",Geographical,River,https://en.wikipedia.org/wiki/Saskatchewan_River
 "Sendai River, Japan",Geographical,River,
 "Shinano River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Shinano_River
+"Skeena River, British Columbia, Canada",Geographical,River,https://en.wikipedia.org/wiki/Skeena_River
 "St. Clair River, North America",Geographical,River,https://en.wikipedia.org/wiki/St._Clair_River
 "St. Croix River, North America",Geographical,River,https://en.wikipedia.org/wiki/St._Croix_River_(Maine%E2%80%93New_Brunswick)
 "St. George River, Maine, US",Geographical,River,https://en.wikipedia.org/wiki/St._George_River_(Maine)
+"St. Lawrence River, Quebec, Canada",Geographical,River,https://en.wikipedia.org/wiki/St._Lawrence_River
 "Suwannee River, Florida, US",Geographical,River,https://en.wikipedia.org/wiki/Suwannee_River
 "Suzuya River, Japan",Geographical,River,
+"Swam River, Western Australia",Geographical,River,https://en.wikipedia.org/wiki/Swan_River_(Western_Australia)
 "Tama River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Tama_River
 "Tatsuta River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Tatsuta_River
 "Tenryu River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Tenry%C5%AB_River
 "Tone River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Tone_River
 "Volta River, Ghana",Geographical,River,https://en.wikipedia.org/wiki/Volta_River
+"Warrego River, Queensland, Australia",Geographical,River,https://en.wikipedia.org/wiki/Warrego_River
 "Weser River, Germany",Geographical,River,https://en.wikipedia.org/wiki/Weser
 "Yahagi River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Yahagi_River
+"Yarra River, Victoria, Australia",Geographical,River,https://en.wikipedia.org/wiki/Yarra_River
 "Yoneshiro River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Yoneshiro_River
 "Yubari River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Y%C5%ABbari_River
 "Yura River, Japan",Geographical,River,https://en.wikipedia.org/wiki/Yura_River_(Japan)
+"Zambezi, Mozambique",Geographical,River,https://en.wikipedia.org/wiki/Zambezi#/media/File:Zambezi.svg
 "Amanohashidate, Kyoto Prefecture, Japan",Geographical,Sandbar,https://en.wikipedia.org/wiki/Amanohashidate
 "Albemarle Sound, North Carolina, US",Geographical,Sound,https://en.wikipedia.org/wiki/Albemarle_Sound
 "Altamaha Sound, Georgia, US",Geographical,Sound,https://en.wikipedia.org/wiki/Altamaha_River
@@ -681,24 +1128,30 @@ Wales,Geographical,Region,https://en.wikipedia.org/wiki/Wales
 "Wachapreague Channel, Virginia, US",Geographical,Strait,https://en.wikipedia.org/wiki/Wachapreague_Channel
 "Engadine Valley, Switzerland",Geographical,Valley,https://en.wikipedia.org/wiki/Engadin
 "Yosemite Valley, California, US",Geographical,Valley,https://en.wikipedia.org/wiki/Yosemite_Valley
+"Tintagel Castle, England, UK",Historical,Castle,https://en.wikipedia.org/wiki/Tintagel_Castle
 Argentine Declaration of Independence,Historical,Document,https://en.wikipedia.org/wiki/Argentine_Declaration_of_Independence
 Argentine Declaration of Independence,Historical,Document,https://en.wikipedia.org/wiki/Argentine_Declaration_of_Independence
 Constitution of the United States,Historical,Document,https://en.wikipedia.org/wiki/Constitution_of_the_United_States
 House of Baden,Historical,Dynasty,https://en.wikipedia.org/wiki/House_of_Z%C3%A4hringen#House_of_Baden
 House of Mecklenburg,Historical,Dynasty,https://en.wikipedia.org/wiki/House_of_Mecklenburg
+House of Stuart,Historical,Dynasty,https://en.wikipedia.org/wiki/House_of_Stuart
 House of Wettin,Historical,Dynasty,https://en.wikipedia.org/wiki/House_of_Wettin
 House of Wittelsbach,Historical,Dynasty,https://en.wikipedia.org/wiki/House_of_Wittelsbach
 House of Zahringen,Historical,Dynasty,https://en.wikipedia.org/wiki/House_of_Z%C3%A4hringen
 Diecisiete de Octubre,Historical,Event,https://en.wikipedia.org/wiki/Loyalty_Day_(Argentina)
 "Kitty Hawk, North Carolina",Historical,Event,"https://en.wikipedia.org/wiki/Kitty_Hawk,_North_Carolina"
-Flag of the United States,Historical,Item,https://en.wikipedia.org/wiki/Flag_of_the_United_States
-United States Declaration of Independence,Historical,Item,https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence
 "Actions along the Matanikau, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Actions_along_the_Matanikau
 "Battle of Agincourt, Hundred Years War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Agincourt
+"Battle of Agincourt, Hundred Years' War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Agincourt
+"Battle of Albuera, Peninsular War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Albuera
 "Battle of Aliwal, First Anglo-Sikh War",Historical,Land Battle,https://en.wikipedia.org/wiki/First_Anglo-Sikh_War
 "Battle of Antietam, American Civil War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Antietam
+"Battle of Badr, Muslim–Quraysh War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Badr
 "Battle of Bairoko, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Bairoko
+"Battle of Barfleur, Nine Years' War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battles_of_Barfleur_and_La_Hougue
 "Battle of Barrosa, Peninsular War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Barrosa
+"Battle of Barrosa, Peninsular War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Barrosa
+"Battle of Bataan, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Bataan
 "Battle of Bataan, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Bataan
 "Battle of Belleau Wood, World War I",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Belleau_Wood
 "Battle of Bennington, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Bennington
@@ -708,25 +1161,35 @@ United States Declaration of Independence,Historical,Item,https://en.wikipedia.o
 "Battle of Chancellorsville, American Civil War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Chancellorsville
 "Battle of Chippawa, War of 1812",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Chippawa
 "Battle of Chosin Reservoir, Korean War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Chosin_Reservoir
+"Battle of Corunna, Peninsular War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Corunna
 "Battle of Cowpens, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Cowpens
 "Battle of Crecy, Hundred Years' War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy
 "Battle of Derna, First Barbary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Derna_(1805)
 "Battle of Dumlupınar, Greco-Turkish War of 1919-1922",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Dumlup%C4%B1nar
+"Battle of Dunkirk, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Dunkirk
 "Battle of Friedland, War of the Fourth Coalition",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Friedland
 "Battle of Gettysburg, American Civil War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Gettysburg
 "Battle of Hue, Vietnam War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Hu%E1%BA%BF
 "Battle of Isly, Franco-Moroccan War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Isly
 "Battle of Jena-Auerstedt, War of the Fourth Coalition",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Jena%E2%80%93Auerstedt
+"Battle of Kandahar, Second Anglo-Afghan War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Kandahar_(1880)
+"Battle of Khaybar, Muslim–Quraysh War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Khaybar
 "Battle of Kilkis-Lachanas, Second Balkan War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Kilkis%E2%80%93Lachanas
+"Battle of La Hougue, Nine Years' War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battles_of_Barfleur_and_La_Hougue
 "Battle of Lexington, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battles_of_Lexington_and_Concord#Lexington
 "Battle of Magenta, Second Italian War of Independence",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Magenta
+"Battle of Malplaquet, War of the Spanish Succession",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Malplaquet
 "Battle of Marengo, War of the Second Coalition",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Marengo
 "Battle of Mindoro, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Mindoro
+"Battle of Mons, World War I",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Mons
 "Battle of Monterrey, Mexican-American War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Monterrey
 "Battle of Munda Point, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Munda_Point
 "Battle of New Orleans, War of 1812",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_New_Orleans
 "Battle of Novara, First Italian War of Independence",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Novara_(1849)
+"Battle of Omdurman, Anglo-Egyptian conquest of Sudan",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Omdurman
 "Battle of Oriskany, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Oriskany
+"Battle of Oudenarde, War of the Spanish Succession",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Oudenarde
+"Battle of Poitiers, Hundred Years' War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Poitiers
 "Battle of Princeton, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Princeton
 "Battle of Ramillies, War of the Spanish Succession",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Ramillies
 "Battle of Saint-Lo, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Saint-L%C3%B4
@@ -734,18 +1197,32 @@ United States Declaration of Independence,Historical,Item,https://en.wikipedia.o
 "Battle of Savastepe, Greco-Turkish War of 1919-1922",Historical,Land Battle,
 "Battle of Shiloh, American Civil War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Shiloh
 "Battle of Solferino, Second Italian War of Independence",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Solferino
+"Battle of Talavera, Peninsular War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Talavera
 "Battle of the Alma, Crimean War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_the_Alma
+"Battle of the Somme, World War I",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_the_Somme
+"Battle of the Somme, World War I",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_the_Somme
 "Battle of the Yser, World War I",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_the_Yser
+"Battle of Verdun, World War I",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Verdun
+"Battle of Vimeiro, Peninsular War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Vimeiro
+"Battle of Vimy Ridge, World War I",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Vimy_Ridge
+"Battle of Vitoria, War of the Sixth Coalition",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Vitoria
+"Battle of Waterloo, War of the Seventh Coalition",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Waterloo
 "Battle of White Plains, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_White_Plains
 "Battle of Wissembourg, Franco-Prussian War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Wissembourg_(1870)
 "Battle of Worth, Franco-Prussian War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_W%C3%B6rth
-"Battles of Barfleur and La Hougue, Nine Years' War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battles_of_Barfleur_and_La_Hougue
 "Battles of Saratoga, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battles_of_Saratoga
 "Capture of Fort Crown Point, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Capture_of_Fort_Ticonderoga
 "Capture of Fort Ticonderoga, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Capture_of_Fort_Ticonderoga
+"First Battle of the Aisne, World War I",Historical,Land Battle,https://en.wikipedia.org/wiki/First_Battle_of_the_Aisne
+"First Battle of the Marne, World War I",Historical,Land Battle,https://en.wikipedia.org/wiki/First_Battle_of_the_Marne
+"Second Battle of El Alamein, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Second_Battle_of_El_Alamein
 "Siege of Bastogne, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Siege_of_Bastogne
+"Siege of Cadiz, Peninsular War",Historical,Land Battle,https://en.wikipedia.org/wiki/Siege_of_C%C3%A1diz
 "Siege of Fort Vincennes, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Siege_of_Fort_Vincennes
+"Siege of Kimberley, Second Boer War",Historical,Land Battle,https://en.wikipedia.org/wiki/Siege_of_Kimberley
+"Siege of Namur (1695), Nine Years' War",Historical,Land Battle,https://en.wikipedia.org/wiki/Siege_of_Namur_(1695)
 "Siege of Petropavlovsk, Crimean War",Historical,Land Battle,https://en.wikipedia.org/wiki/Siege_of_Petropavlovsk
+"Siege of Tobruk, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Siege_of_Tobruk
 "Siege of Vicksburg, American Civil War",Historical,Land Battle,https://en.wikipedia.org/wiki/Siege_of_Vicksburg
 "Siege of Yorktown, American Revolutionary War",Historical,Land Battle,https://en.wikipedia.org/wiki/Siege_of_Yorktown
 "Admiralty Islands Campaign, World War II",Historical,Military Campaign,https://en.wikipedia.org/wiki/Admiralty_Islands_campaign
@@ -755,13 +1232,19 @@ Gallipoli Campaign,Historical,Military Campaign,https://en.wikipedia.org/wiki/Ga
 "Gilbert Islands Campaign, World War II",Historical,Military Campaign,https://en.wikipedia.org/wiki/Gilbert_and_Marshall_Islands_campaign
 "Guadalcanal Campaign, World War II",Historical,Military Campaign,https://en.wikipedia.org/wiki/Guadalcanal_campaign
 "Solomon Islands Campaign, World War II",Historical,Military Campaign,https://en.wikipedia.org/wiki/Solomon_Islands_campaign
+"Spanish Armada, Anglo-Spanish War (1585–1604)",Historical,Military Campaign,https://en.wikipedia.org/wiki/Spanish_Armada
 Colossus of Rhodes,Historical,Monument,https://en.wikipedia.org/wiki/Colossus_of_Rhodes
 "Naval Academy Etajima, Hiroshima Prefecture, Japan",Historical,Naval Academy,https://en.wikipedia.org/wiki/Naval_Academy_Etajima
 Action at Barfleur. War of the Grand Alliance,Historical,Naval Battle,https://en.wikipedia.org/wiki/Action_at_Barfleur
 "Battle of Badung Strait, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Badung_Strait
+"Battle of Camperdown, War of the First Coalition",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Camperdown
 "Battle of Cape Esperance, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Cape_Esperance
+"Battle of Cape Matapan, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Cape_Matapan
 "Battle of Cape St. George, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Cape_St._George
+"Battle of Gravelines, Anglo-Spanish War (1585–1604)",Historical,Naval Battle,https://en.wikipedia.org/wiki/Spanish_Armada#Battle_of_Gravelines
+"Battle of Jutland, World War I",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Jutland
 "Battle of Kula Gulf, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Kula_Gulf
+"Battle of Lagos, Seven Years' War",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Lagos
 "Battle of Lake Champlain, War of 1812",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Plattsburgh
 "Battle of Lake Erie, War of 1812",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Lake_Erie
 "Battle of Lemnos, First Balkan War",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Lemnos_(1913)
@@ -772,16 +1255,29 @@ Action at Barfleur. War of the Grand Alliance,Historical,Naval Battle,https://en
 "Battle of Midway, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Midway
 "Battle of Mobile Bay, American Civil War",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Mobile_Bay
 "Battle of Navarino, Greek War of Independence",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Navarino
+"Battle of Navarino, Greek War of Independence",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Navarino
+"Battle of Quiberon Bay, Seven Years War",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Quiberon_Bay
+"Battle of San Domingo, War of the Third Coalition",Historical,Naval Battle,https://en.wikipedia.org/wiki/War_of_the_Third_Coalition
 "Battle of Savo Island, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Savo_Island
+"Battle of Sluys, Hundred Years' War",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Sluys
+"Battle of Solebay, Third Anglo-Dutch War",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Solebay
+"Battle of St. Lucia, Anglo-French War (1778–1783)",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_St._Lucia
 "Battle of Tassafaronga, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Tassafaronga
 "Battle of the Bismarck Sea, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_the_Bismarck_Sea
 "Battle of the Coral Sea, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea
+"Battle of the Gabbard, First Anglo-Dutch War",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_the_Gabbard
 "Battle of the Nile, War of the Second Coalition",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_the_Nile
 "Battle of the Philippine Sea, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea
+"Battle of the River Plate, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_the_River_Plate
+"Battle of the Saintes, Anglo-French War (1778–1783)",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_the_Saintes
 "Battle of the Tagus, Liberal Wars",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_the_Tagus_(1831)
 "Battle of Trafalgar, War of the Third Coalition",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Trafalgar
+"Battle of Trincomalee, Anglo-French War (1778–1783)",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Trincomalee
 "Battle of Vella Gulf, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Vella_Gulf
+"Battle of Vigo Bay, War of the Spanish Succession",Historical,Naval Battle,https://en.wikipedia.org/wiki/Battle_of_Vigo_Bay
 "Naval Battle of Casablanca, World War II",Historical,Naval Battle,https://en.wikipedia.org/wiki/Naval_Battle_of_Casablanca
+"Second Battle of Cape Finisterre, War of the Austrian Succession",Historical,Naval Battle,https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession
+"St. James' Day Battle, Second Anglo-Dutch War",Historical,Naval Battle,https://en.wikipedia.org/wiki/St._James%27_Day_Battle
 "Battle of Anzio, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Anzio
 "Battle of Attu, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Attu
 "Battle of Cape Gloucester, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Cape_Gloucester
@@ -795,12 +1291,15 @@ Action at Barfleur. War of the Grand Alliance,Historical,Naval Battle,https://en
 "Battle of Peleliu, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Peleliu
 "Battle of Port Royal, American Civil War",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Port_Royal
 "Battle of Roi, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Kwajalein
+"Battle of Saint Kitts, Anglo-French War (1778–1783)",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Saint_Kitts
 "Battle of Saipan, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Saipan
 "Battle of Tarawa, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Tarawa
+"Battle of the Taku Forts, Boxer Rebellion",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_the_Taku_Forts_(1900)
 "Battle of Tinian, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Tinian
 "Battle of Tulagi and Gavutu-Tanambogo, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Tulagi_and_Gavutu%E2%80%93Tanambogo
 "Battle of Wake Island, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Battle_of_Wake_Island
 "Bombardment of Sfax, French conquest of Tunisia",Historical,Naval Invasion,https://en.wikipedia.org/wiki/French_cruiser_Sfax
+"Capture of Belle Ile, Seven Years' War",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Capture_of_Belle_%C3%8Ele
 "Fishguard, Wales, UK",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Fishguard
 "Invasion of Lingayen Gulf, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Invasion_of_Lingayen_Gulf
 "Invasion of Salamaua-Lae, World War II",Historical,Naval Invasion,https://en.wikipedia.org/wiki/Invasion_of_Salamaua%E2%80%93Lae
@@ -812,17 +1311,17 @@ Action at Barfleur. War of the Grand Alliance,Historical,Naval Battle,https://en
 "Siboney, Spanish-American War",Historical,Naval Invasion,"https://en.wikipedia.org/wiki/Siboney,_Cuba"
 "Raid on Makin Island, World War II",Historical,Naval Raid,https://en.wikipedia.org/wiki/Raid_on_Makin_Island
 "Raid on Marcus Island, World War II",Historical,Naval Raid,https://en.wikipedia.org/wiki/Minamitorishima
-Orlando Furioso,Historical,Poem,https://en.wikipedia.org/wiki/Orlando_Furioso
+The Tetrarch,Historical,Racehorse,https://en.wikipedia.org/wiki/The_Tetrarch
 HMAS Canberra (D33),Historical,Ship,https://en.wikipedia.org/wiki/HMAS_Canberra_(D33)
 HMS Unicorn (1776),Historical,Ship,https://en.wikipedia.org/wiki/HMS_Unicorn_(1776)
 USS Constitution (1794),Historical,Ship,https://en.wikipedia.org/wiki/USS_Constitution
-Royal Oak,Historical,Tree,https://en.wikipedia.org/wiki/Royal_Oak
 Argentine Revolutionary War,Historical,War,https://en.wikipedia.org/wiki/May_Revolution
 Aaron Stanton Merrill,Individual,Admiral,https://en.wikipedia.org/wiki/Aaron_S._Merrill
 Aaron Ward,Individual,Admiral,https://en.wikipedia.org/wiki/Aaron_Ward_(sailor)
 Abraham Duquesne,Individual,Admiral,https://en.wikipedia.org/wiki/Abraham_Duquesne
 Abraham Whipple,Individual,Admiral,https://en.wikipedia.org/wiki/Abraham_Whipple
 "Adam Duncan, 1st Viscount Duncan",Individual,Admiral,"https://en.wikipedia.org/wiki/Adam_Duncan,_1st_Viscount_Duncan"
+Adriaen van Trappen Banckert,Individual,Admiral,https://en.wikipedia.org/wiki/Adriaen_Banckert
 Alain Emmanuel de Coetlogon,Individual,Admiral,https://en.wikipedia.org/wiki/Alain_Emmanuel_de_Co%C3%ABtlogon
 Albert Gleaves,Individual,Admiral,https://en.wikipedia.org/wiki/Albert_Gleaves
 Albert Mertz,Individual,Admiral,https://en.wikipedia.org/wiki/USS_Mertz#Namesake
@@ -847,8 +1346,10 @@ Arthur William Radford,Individual,Admiral,https://en.wikipedia.org/wiki/Arthur_W
 Auguste Leopold Protet,Individual,Admiral,https://en.wikipedia.org/wiki/Auguste_L%C3%A9opold_Protet
 Augustus Francis Fechteler,Individual,Admiral,https://en.wikipedia.org/wiki/Augustus_F._Fechteler
 Augustus Henry Kilty,Individual,Admiral,https://en.wikipedia.org/wiki/Augustus_Kilty
+"Augustus Keppel, 1st Viscount Keppel",Individual,Admiral,"https://en.wikipedia.org/wiki/Augustus_Keppel,_1st_Viscount_Keppel"
 Augustus Ludlow Case,Individual,Admiral,https://en.wikipedia.org/wiki/Augustus_Case
 Austin Melvin Knight,Individual,Admiral,https://en.wikipedia.org/wiki/Austin_M._Knight
+"Baldwin Wake Walker, 1st Baronet",Individual,Admiral,https://en.wikipedia.org/wiki/Baldwin_Wake_Walker
 Bancroft Gherardi,Individual,Admiral,https://en.wikipedia.org/wiki/Bancroft_Gherardi
 Benjamin Franklin Isherwood,Individual,Admiral,https://en.wikipedia.org/wiki/Benjamin_F._Isherwood
 Benjamin Peffer Lamberton,Individual,Admiral,https://en.wikipedia.org/wiki/Benjamin_P._Lamberton
@@ -866,9 +1367,12 @@ Cesar-Joseph Bourayne,Individual,Admiral,https://en.wikipedia.org/wiki/C%C3%A9sa
 Charles Bowers Momsen,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Momsen
 Charles Dwight Sigsbee,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Dwight_Sigsbee
 Charles Edgar Clark,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Edgar_Clark
+Charles Edmund Nugent,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Edmund_Nugent
 Charles Frederick Hughes,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Frederick_Hughes
 Charles Henry Davis,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Henry_Davis
 "Charles Howard, 1st Earl of Nottingham",Individual,Admiral,"https://en.wikipedia.org/wiki/Charles_Howard,_1st_Earl_of_Nottingham"
+Charles John Napier,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Napier_(Royal_Navy_officer)
+Charles John Napier,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Napier_(Royal_Navy_officer)
 Charles Johnston Badger,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Johnston_Badger
 "Charles Middleton, 1st Baron Barham",Individual,Admiral,"https://en.wikipedia.org/wiki/Charles_Middleton,_1st_Baron_Barham"
 Charles Morris,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Morris_(naval_officer)
@@ -877,13 +1381,17 @@ Charles Preston Nelson,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_
 Charles Purcell Cecil,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_P._Cecil
 Charles Rene Magon de Medine,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Ren%C3%A9_Magon_de_M%C3%A9dine
 Charles Rigault de Genouilly,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Rigault_de_Genouilly
+Charles Saunders,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Saunders_(Royal_Navy_officer)
 Charles Stewart,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Stewart_(United_States_Navy_officer)
 Charles Stewart Boggs,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_S._Boggs
 Charles Stillman Sperry,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Stillman_Sperry
 Charles Turner Joy,Individual,Admiral,https://en.wikipedia.org/wiki/C._Turner_Joy
+Charles Wager,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Wager
+Charles Watson,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Watson_(Royal_Navy_officer)
 Charles Wilkes,Individual,Admiral,https://en.wikipedia.org/wiki/Charles_Wilkes
 Charles-Alexandre Leon Durand Linois,Individual,Admiral,https://en.wikipedia.org/wiki/Charles-Alexandre_L%C3%A9on_Durand_Linois
 Chester W. Nimitz,Individual,Admiral,https://en.wikipedia.org/wiki/Chester_W._Nimitz
+Christopher Myngs,Individual,Admiral,https://en.wikipedia.org/wiki/Christopher_Myngs
 Claude Vernon Ricketts,Individual,Admiral,https://en.wikipedia.org/wiki/Claude_V._Ricketts
 "Claude, comte de Forbin-Gardanne",Individual,Admiral,https://en.wikipedia.org/wiki/Claude_de_Forbin
 Cornelius Kinchiloe Stribling,Individual,Admiral,https://en.wikipedia.org/wiki/Cornelius_Stribling
@@ -896,20 +1404,27 @@ David Conner,Individual,Admiral,https://en.wikipedia.org/wiki/David_Conner_(nava
 David Dixon Porter,Individual,Admiral,https://en.wikipedia.org/wiki/David_Dixon_Porter
 David F. Sellers,Individual,Admiral,https://en.wikipedia.org/wiki/David_F._Sellers
 David Glasgow Farragut,Individual,Admiral,https://en.wikipedia.org/wiki/David_Farragut
+David Milne,Individual,Admiral,https://en.wikipedia.org/wiki/David_Milne_(Royal_Navy_officer)
 David Stockton McDougal,Individual,Admiral,https://en.wikipedia.org/wiki/David_McDougal
 Donald McNeill Fairfax,Individual,Admiral,https://en.wikipedia.org/wiki/Donald_McNeill_Fairfax
 Dragut,Individual,Admiral,https://en.wikipedia.org/wiki/Dragut
 Edmund Ross Colhoun,Individual,Admiral,https://en.wikipedia.org/wiki/Edmund_Colhoun
+Edward Augustus Inglefield,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Augustus_Inglefield
 Edward Boscawen,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Boscawen
+Edward Codrington,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Codrington
 Edward David Taussig,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_D._Taussig
 "Edward Hawke, 1st Baron Hawke",Individual,Admiral,"https://en.wikipedia.org/wiki/Edward_Hawke,_1st_Baron_Hawke"
+Edward Hughes,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Hughes_(Royal_Navy_officer)
 Edward Lull Cochrane,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_L._Cochrane
 "Edward Pellew, 1st Viscount Exmouth",Individual,Admiral,"https://en.wikipedia.org/wiki/Edward_Pellew,_1st_Viscount_Exmouth"
 Edward Preble,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Preble
 "Edward Russell, 1st Earl of Orford",Individual,Admiral,"https://en.wikipedia.org/wiki/Edward_Russell,_1st_Earl_of_Orford"
 Edward Simpson,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Simpson_(naval_officer)
+Edward Spragge,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Spragge
 Edward Walter Eberle,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Walter_Eberle
+Edward Whitaker,Individual,Admiral,https://en.wikipedia.org/wiki/Edward_Whitaker
 Edwin Alexander Anderson Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Edwin_Anderson_Jr.
+Egbert Bartholomeuszoon Kortenaer,Individual,Admiral,https://en.wikipedia.org/wiki/Egbert_Bartholomeusz_Kortenaer
 Elie Augustus Frederick La Vallette,Individual,Admiral,https://en.wikipedia.org/wiki/Elie_A._F._La_Vallette
 Elmo Russell Zumwalt Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Elmo_Zumwalt
 Ernest Gregor Small,Individual,Admiral,https://en.wikipedia.org/wiki/Ernest_G._Small
@@ -940,8 +1455,10 @@ Franz von Hipper,Individual,Admiral,https://en.wikipedia.org/wiki/Franz_von_Hipp
 Frederick J. Horne,Individual,Admiral,https://en.wikipedia.org/wiki/Frederick_J._Horne
 Frederick Moosbrugger,Individual,Admiral,https://en.wikipedia.org/wiki/Frederick_Moosbrugger
 Frederick Vallette McNair,Individual,Admiral,https://en.wikipedia.org/wiki/Frederick_V._McNair
+Galvarino Riveros Cardenas,Individual,Admiral,https://en.wikipedia.org/wiki/Galvarino_Riveros_C%C3%A1rdenas
 George Albert Converse,Individual,Admiral,https://en.wikipedia.org/wiki/George_A._Converse
 "George Anson, 1st Baron Anson",Individual,Admiral,"https://en.wikipedia.org/wiki/George_Anson,_1st_Baron_Anson"
+George Augustus Westphal,Individual,Admiral,https://en.wikipedia.org/wiki/George_Augustus_Westphal
 George Balch,Individual,Admiral,https://en.wikipedia.org/wiki/George_Balch
 George Beall Balch,Individual,Admiral,https://en.wikipedia.org/wiki/George_Balch
 George Collier Remey,Individual,Admiral,https://en.wikipedia.org/wiki/George_C._Remey
@@ -949,8 +1466,11 @@ George Dewey,Individual,Admiral,https://en.wikipedia.org/wiki/George_Dewey
 George Foster Emmons,Individual,Admiral,https://en.wikipedia.org/wiki/George_F._Emmons
 George Hamilton Perkins,Individual,Admiral,https://en.wikipedia.org/wiki/George_H._Perkins
 George Henry Wadleigh,Individual,Admiral,https://en.wikipedia.org/wiki/George_H._Wadleigh
+"George Keith Elphinstone, 1st Viscount Keith",Individual,Admiral,"https://en.wikipedia.org/wiki/George_Elphinstone,_1st_Viscount_Keith"
 "George Rodney, 1st Baron Rodney",Individual,Admiral,"https://en.wikipedia.org/wiki/George_Rodney,_1st_Baron_Rodney"
+George Walton,Individual,Admiral,https://en.wikipedia.org/wiki/George_Walton_(Royal_Navy_officer)
 Georgios Sachtouris,Individual,Admiral,https://en.wikipedia.org/wiki/Georgios_Sachtouris
+Giovanni Dionigi Galeni,Individual,Admiral,https://en.wikipedia.org/wiki/Occhiali
 Gordon Paiʻea Chung-Hoon,Individual,Admiral,https://en.wikipedia.org/wiki/Gordon_Chung-Hoon
 Guert Gansevoort,Individual,Admiral,https://en.wikipedia.org/wiki/Guert_Gansevoort
 Guy-Victor Duperre,Individual,Admiral,https://en.wikipedia.org/wiki/Guy-Victor_Duperr%C3%A9
@@ -965,11 +1485,13 @@ Henry Braid Wilson Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_Br
 Henry Clay Taylor,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_Clay_Taylor
 Henry Erben,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_Erben
 "Henry FitzRoy, 1st Duke of Grafton",Individual,Admiral,"https://en.wikipedia.org/wiki/Henry_FitzRoy,_1st_Duke_of_Grafton"
+"Henry FitzRoy, 1st Duke of Grafton",Individual,Admiral,"https://en.wikipedia.org/wiki/Henry_FitzRoy,_1st_Duke_of_Grafton"
 Henry Haywood Bell,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_H._Bell
 Henry Kent Hewitt,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_Kent_Hewitt
 Henry Knox Thatcher,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_Thatcher
 Henry Maston Mullinnix,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_M._Mullinnix
 Henry Thomas Mayo,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_T._Mayo
+Henry Vansittart,Individual,Admiral,https://en.wikipedia.org/wiki/Henry_Vansittart_(Royal_Navy_officer)
 Herald Franklin Stout,Individual,Admiral,https://en.wikipedia.org/wiki/Herald_F._Stout
 Hermann Freiherr von Spaun,Individual,Admiral,https://en.wikipedia.org/wiki/Hermann_von_Spaun
 Hilary Pollard Jones Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Hilary_P._Jones
@@ -986,9 +1508,11 @@ Jacques Felix Emmanuel Hamelin,Individual,Admiral,https://en.wikipedia.org/wiki/
 James Alden Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/James_Alden_Jr.
 James Augustin Greer,Individual,Admiral,https://en.wikipedia.org/wiki/James_Augustin_Greer
 James Bond Stockdale,Individual,Admiral,https://en.wikipedia.org/wiki/James_Stockdale
+"James Douglas, 1st Baronet",Individual,Admiral,"https://en.wikipedia.org/wiki/Sir_James_Douglas,_1st_Baronet"
 James Edward Jouett,Individual,Admiral,https://en.wikipedia.org/wiki/James_Edward_Jouett
 James Fife Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/James_Fife_Jr.
 James Findlay Schenck,Individual,Admiral,https://en.wikipedia.org/wiki/James_F._Schenck
+"James Hawkins-Whitshed, 1st Baronet",Individual,Admiral,https://en.wikipedia.org/wiki/James_Hawkins-Whitshed
 James Henry Glennon,Individual,Admiral,https://en.wikipedia.org/wiki/James_H._Glennon
 James Hoban Sands,Individual,Admiral,https://en.wikipedia.org/wiki/James_H._Sands
 James Hooker Strong,Individual,Admiral,https://en.wikipedia.org/wiki/James_Hooker_Strong
@@ -996,7 +1520,10 @@ James Kelsey Cogswell,Individual,Admiral,https://en.wikipedia.org/wiki/James_Kel
 James Lawrence Lardner,Individual,Admiral,https://en.wikipedia.org/wiki/James_L._Lardner
 James Meredith Helm,Individual,Admiral,https://en.wikipedia.org/wiki/James_Meredith_Helm
 James Robert Madison Mullany,Individual,Admiral,https://en.wikipedia.org/wiki/James_Robert_Madison_Mullany
+"James Saumarez, 1st Baron de Saumarez",Individual,Admiral,"https://en.wikipedia.org/wiki/James_Saumarez,_1st_Baron_de_Saumarez"
 James Shedden Palmer,Individual,Admiral,https://en.wikipedia.org/wiki/James_Shedden_Palmer
+James Vashon,Individual,Admiral,https://en.wikipedia.org/wiki/James_Vashon
+James Wishart,Individual,Admiral,https://en.wikipedia.org/wiki/James_Wishart
 Jean Bart,Individual,Admiral,https://en.wikipedia.org/wiki/Jean_Bart
 Jean de Vienne,Individual,Admiral,https://en.wikipedia.org/wiki/Jean_de_Vienne
 Jean-Baptiste Cecille,Individual,Admiral,https://en.wikipedia.org/wiki/Jean-Baptiste_C%C3%A9cille
@@ -1006,15 +1533,18 @@ Jesse Barrett Oldendorf,Individual,Admiral,https://en.wikipedia.org/wiki/Jesse_B
 "Joaquim Marques Lisboa, Marquis of Tamandaré",Individual,Admiral,"https://en.wikipedia.org/wiki/Joaquim_Marques_Lisboa,_Marquis_of_Tamandar%C3%A9"
 Joel Abbot,Individual,Admiral,https://en.wikipedia.org/wiki/Joel_Abbot_(naval_officer)
 Joel Roberts Poinsett Pringle,Individual,Admiral,https://en.wikipedia.org/wiki/Joel_R._P._Pringle
+Johan van Galen,Individual,Admiral,https://en.wikipedia.org/wiki/Johan_van_Galen
 John Ancrum Winslow,Individual,Admiral,https://en.wikipedia.org/wiki/John_Ancrum_Winslow
 John Barry,Individual,Admiral,https://en.wikipedia.org/wiki/John_Barry_(naval_officer)
 John Benbow,Individual,Admiral,https://en.wikipedia.org/wiki/John_Benbow
 John Berrien Montgomery,Individual,Admiral,https://en.wikipedia.org/wiki/John_B._Montgomery
+John Donald Kelly,Individual,Admiral,https://en.wikipedia.org/wiki/John_Kelly_(Royal_Navy_officer)
 John Donaldson Ford,Individual,Admiral,https://en.wikipedia.org/wiki/John_D._Ford
 John Downes,Individual,Admiral,https://en.wikipedia.org/wiki/John_Downes_(naval_officer)
 John Drake Sloat,Individual,Admiral,https://en.wikipedia.org/wiki/John_D._Sloat
 John Duncan Bulkeley,Individual,Admiral,https://en.wikipedia.org/wiki/John_D._Bulkeley
 John Elliott Pillsbury,Individual,Admiral,https://en.wikipedia.org/wiki/John_E._Pillsbury
+John Goodwin Gregory Peyton,Individual,Admiral,https://en.wikipedia.org/wiki/John_Peyton_(Royal_Navy_officer)
 John Grimes Walker,Individual,Admiral,https://en.wikipedia.org/wiki/John_Grimes_Walker
 John Guest,Individual,Admiral,https://en.wikipedia.org/wiki/John_Guest_(naval_officer)
 John Halligan Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/John_Halligan_Jr.
@@ -1028,6 +1558,7 @@ John Hood,Individual,Admiral,https://en.wikipedia.org/wiki/John_Hood_(naval_offi
 John Kennedy Barton,Individual,Admiral,https://en.wikipedia.org/wiki/John_Kennedy_Barton
 John Lorimer Worden,Individual,Admiral,https://en.wikipedia.org/wiki/John_Lorimer_Worden
 John Manley,Individual,Admiral,https://en.wikipedia.org/wiki/John_Manley_(naval_officer)
+John Narborough,Individual,Admiral,https://en.wikipedia.org/wiki/John_Narborough
 John Pritchett Gillis,Individual,Admiral,https://en.wikipedia.org/wiki/John_P._Gillis
 John Sidney McCain Sr.,Individual,Admiral,https://en.wikipedia.org/wiki/John_S._McCain_Sr.
 John Woodward Philip,Individual,Admiral,https://en.wikipedia.org/wiki/John_Woodward_Philip
@@ -1057,6 +1588,7 @@ Louis-Rene Levassor de Latouche Treville,Individual,Admiral,https://en.wikipedia
 "Luc Urbain du Bouexic, comte de Guichen",Individual,Admiral,"https://en.wikipedia.org/wiki/Luc_Urbain_du_Bou%C3%ABxic,_comte_de_Guichen"
 Lucien Young,Individual,Admiral,https://en.wikipedia.org/wiki/Lucien_Young
 Luis Py,Individual,Admiral,https://en.wikipedia.org/wiki/Luis_Py
+Luis Uribe,Individual,Admiral,https://en.wikipedia.org/wiki/Luis_Uribe
 Lynde Dupuy McCormick,Individual,Admiral,https://en.wikipedia.org/wiki/Lynde_D._McCormick
 Manuel Domecq Garcia,Individual,Admiral,https://en.wikipedia.org/wiki/Manuel_Domecq_Garcia
 Marc Andrew Mitscher,Individual,Admiral,https://en.wikipedia.org/wiki/Marc_Mitscher
@@ -1069,6 +1601,7 @@ Montgomery Sicard,Individual,Admiral,https://en.wikipedia.org/wiki/Montgomery_Si
 Morton Lyndholm Deyo,Individual,Admiral,https://en.wikipedia.org/wiki/Morton_Deyo
 Nathan Crook Twining,Individual,Admiral,https://en.wikipedia.org/wiki/Nathan_Crook_Twining
 Nehemiah Mayo Dyer,Individual,Admiral,https://en.wikipedia.org/wiki/Nehemiah_Dyer
+Nesbit Josiah Willoughby,Individual,Admiral,https://en.wikipedia.org/wiki/Nesbit_Willoughby
 Noble Edward Irwin,Individual,Admiral,https://en.wikipedia.org/wiki/Noble_Edward_Irwin
 Norman Scott,Individual,Admiral,https://en.wikipedia.org/wiki/Norman_Scott_(admiral)
 Norman von Heldreich Farquhar,Individual,Admiral,https://en.wikipedia.org/wiki/Norman_von_Heldreich_Farquhar
@@ -1079,10 +1612,16 @@ Oscar Walter Farenholt,Individual,Admiral,https://en.wikipedia.org/wiki/Oscar_Wa
 Paul Frederick Foster,Individual,Admiral,https://en.wikipedia.org/wiki/Paul_Frederick_Foster
 Pavlos Kountouriotis,Individual,Admiral,https://en.wikipedia.org/wiki/Pavlos_Kountouriotis
 Peirce Crosby,Individual,Admiral,https://en.wikipedia.org/wiki/Peirce_Crosby
+"Peter Parker, 1st Baronet",Individual,Admiral,"https://en.wikipedia.org/wiki/Sir_Peter_Parker,_1st_Baronet"
+Peter Warren,Individual,Admiral,https://en.wikipedia.org/wiki/Peter_Warren_(Royal_Navy_officer)
+"Philip Bowes Vere Broke, 1st Baronet",Individual,Admiral,https://en.wikipedia.org/wiki/Philip_Broke
 Phormio,Individual,Admiral,https://en.wikipedia.org/wiki/Phormio
+Piali Pasha,Individual,Admiral,https://en.wikipedia.org/wiki/Piali_Pasha
 Piali Pasha,Individual,Admiral,https://en.wikipedia.org/wiki/Piali_Pasha
 Pierre Andre de Suffren,Individual,Admiral,https://en.wikipedia.org/wiki/Pierre_Andr%C3%A9_de_Suffren
 Pierre-Nicolas de Rolland,Individual,Admiral,https://en.wikipedia.org/wiki/Pierre-Nicolas_de_Rolland
+Piet Pieterszoon Hein,Individual,Admiral,https://en.wikipedia.org/wiki/Piet_Pieterszoon_Hein
+Pulteney Malcolm,Individual,Admiral,https://en.wikipedia.org/wiki/Pulteney_Malcolm
 Ralph Earle,Individual,Admiral,https://en.wikipedia.org/wiki/Ralph_Earle_(American_naval_officer)
 Raymond Ames Spruance,Individual,Admiral,https://en.wikipedia.org/wiki/Raymond_A._Spruance
 Reigert Bolivar Lowry,Individual,Admiral,https://en.wikipedia.org/wiki/Reigart_Bolivar_Lowry
@@ -1090,8 +1629,10 @@ Reinhard Scheer,Individual,Admiral,https://en.wikipedia.org/wiki/Reinhard_Scheer
 Remigio Elías Aguirre Romero,Individual,Admiral,https://en.wikipedia.org/wiki/El%C3%ADas_Aguirre
 Rene Duguay-Trouin,Individual,Admiral,https://en.wikipedia.org/wiki/Ren%C3%A9_Duguay-Trouin
 Richard Dale,Individual,Admiral,https://en.wikipedia.org/wiki/Richard_Dale
+Richard Grenville,Individual,Admiral,https://en.wikipedia.org/wiki/Richard_Grenville
 Richard Hetherington O'Kane,Individual,Admiral,https://en.wikipedia.org/wiki/Richard_O%27Kane
 "Richard Howe, 1st Earl Howe",Individual,Admiral,"https://en.wikipedia.org/wiki/Richard_Howe,_1st_Earl_Howe"
+Richard Kempenfelt,Individual,Admiral,https://en.wikipedia.org/wiki/Richard_Kempenfelt
 Richard Lansing Conolly,Individual,Admiral,https://en.wikipedia.org/wiki/Richard_L._Conolly
 Richard Phillips Leary,Individual,Admiral,https://en.wikipedia.org/wiki/Richard_Phillips_Leary
 Richard Stanislaus Edwards,Individual,Admiral,https://en.wikipedia.org/wiki/Richard_S._Edwards
@@ -1105,11 +1646,13 @@ Robert F. Stockton,Individual,Admiral,https://en.wikipedia.org/wiki/Robert_F._St
 Robert Henry English,Individual,Admiral,https://en.wikipedia.org/wiki/Robert_Henry_English
 Robert Pearce Briscoe,Individual,Admiral,https://en.wikipedia.org/wiki/Robert_P._Briscoe
 Robert Ward Hayler,Individual,Admiral,https://en.wikipedia.org/wiki/Robert_W._Hayler
+Roberto Simpson Winthrop,Individual,Admiral,https://en.wikipedia.org/wiki/Roberto_Simpson_Winthrop
 Robley Dunglison Evans,Individual,Admiral,https://en.wikipedia.org/wiki/Robley_D._Evans_(admiral)
 Roger Nelson Stembel,Individual,Admiral,https://en.wikipedia.org/wiki/Roger_N._Stembel
 Roland-Michel Barrin de La Galissoniere,Individual,Admiral,https://en.wikipedia.org/wiki/Roland-Michel_Barrin_de_La_Galissoni%C3%A8re
 Royal Eason Ingersoll,Individual,Admiral,https://en.wikipedia.org/wiki/Royal_E._Ingersoll
 Royal Rodney Ingersoll,Individual,Admiral,https://en.wikipedia.org/wiki/Royal_R._Ingersoll
+Samuel Barrington,Individual,Admiral,https://en.wikipedia.org/wiki/Samuel_Barrington
 Samuel Francis Du Pont,Individual,Admiral,https://en.wikipedia.org/wiki/USS_Du_Pont_(DD-152)
 "Samuel Hood, 1st Viscount Hood",Individual,Admiral,"https://en.wikipedia.org/wiki/Samuel_Hood,_1st_Viscount_Hood"
 Samuel Lee Gravely Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Samuel_L._Gravely_Jr.
@@ -1119,6 +1662,14 @@ Samuel Shelburne Robison,Individual,Admiral,https://en.wikipedia.org/wiki/Samuel
 Samuel Wood Bryant,Individual,Admiral,https://en.wikipedia.org/wiki/Samuel_W._Bryant
 Seaton Schroeder,Individual,Admiral,https://en.wikipedia.org/wiki/Seaton_Schroeder
 Silas Horton Stringham,Individual,Admiral,https://en.wikipedia.org/wiki/Silas_H._Stringham
+Sir Christopher Myngs,Individual,Admiral,https://en.wikipedia.org/wiki/Christopher_Myngs
+Sir David Milne,Individual,Admiral,https://en.wikipedia.org/wiki/David_Milne_(Royal_Navy_officer)
+Sir Fairfax Moresby,Individual,Admiral,https://en.wikipedia.org/wiki/Fairfax_Moresby
+"Sir Francis Laforey, 2nd Baronet",Individual,Admiral,https://en.wikipedia.org/wiki/Francis_Laforey
+Sir George Murray,Individual,Admiral,"https://en.wikipedia.org/wiki/George_Murray_(Royal_Navy_officer,_born_1759)"
+Sir John Lawford,Individual,Admiral,https://en.wikipedia.org/wiki/John_Lawford
+Sir Robert Moorsom,Individual,Admiral,https://en.wikipedia.org/wiki/Robert_Moorsom
+"Sir Thomas Louis, 1st Baronet",Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Louis
 Stepan Makarov,Individual,Admiral,https://en.wikipedia.org/wiki/Stepan_Makarov
 Stephen Bleecker Luce,Individual,Admiral,https://en.wikipedia.org/wiki/Stephen_Luce
 Stephen Clegg Rowan,Individual,Admiral,https://en.wikipedia.org/wiki/Stephen_Clegg_Rowan
@@ -1126,15 +1677,20 @@ Stephen Decatur,Individual,Admiral,https://en.wikipedia.org/wiki/Stephen_Decatur
 Theodore Edson Chandler,Individual,Admiral,https://en.wikipedia.org/wiki/Theodore_E._Chandler
 Theodore Stark Wilkinson,Individual,Admiral,https://en.wikipedia.org/wiki/Theodore_Stark_Wilkinson
 Theodorus Bailey,Individual,Admiral,https://en.wikipedia.org/wiki/Theodorus_Bailey_(officer)
+"Thomas Butler, 6th Earl of Ossory",Individual,Admiral,"https://en.wikipedia.org/wiki/Thomas_Butler,_6th_Earl_of_Ossory"
 Thomas Cassin Kinkaid,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_C._Kinkaid
 "Thomas Cochrane, 10th Earl of Dundonald",Individual,Admiral,"https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald"
 Thomas Jefferson Cowie,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Jefferson_Cowie
 Thomas Oliver Selfridge,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Oliver_Selfridge
 Thomas Oliver Selfridge Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Oliver_Selfridge_Jr.
+Thomas Pakenham,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Pakenham_(Royal_Navy_officer)
+"Thomas Pasley, 1st Baronet",Individual,Admiral,"https://en.wikipedia.org/wiki/Sir_Thomas_Pasley,_1st_Baronet"
 Thomas Stowell Phelps,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Phelps
 Thomas Tingey,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Tingey
+"Thomas Troubridge, 1st Baronet",Individual,Admiral,"https://en.wikipedia.org/wiki/Sir_Thomas_Troubridge,_1st_Baronet"
 Thomas Truxtun,Individual,Admiral,https://en.wikipedia.org/wiki/Thomas_Truxtun
 Thornton A. Jenkins,Individual,Admiral,https://en.wikipedia.org/wiki/Thornton_A._Jenkins
+Tjerk Hiddes de Vries,Individual,Admiral,https://en.wikipedia.org/wiki/Tjerk_Hiddes_de_Vries
 Toussaint-Guillaume Picquet de la Motte,Individual,Admiral,https://en.wikipedia.org/wiki/Toussaint-Guillaume_Picquet_de_la_Motte
 Victor Blue,Individual,Admiral,https://en.wikipedia.org/wiki/Victor_Blue
 "Victor-Marie d'Estrees, 5th Duke of Estrees",Individual,Admiral,https://en.wikipedia.org/wiki/Victor-Marie_d%27Estr%C3%A9es
@@ -1147,6 +1703,7 @@ William Bainbridge,Individual,Admiral,https://en.wikipedia.org/wiki/William_Bain
 William Banks Caperton,Individual,Admiral,https://en.wikipedia.org/wiki/William_Banks_Caperton
 William Branford Shubrick,Individual,Admiral,https://en.wikipedia.org/wiki/William_Shubrick
 William Brown,Individual,Admiral,https://en.wikipedia.org/wiki/William_Brown_(admiral)
+"William Carnegie, 7th Earl of Northesk",Individual,Admiral,"https://en.wikipedia.org/wiki/William_Carnegie,_7th_Earl_of_Northesk"
 William Cornwallis,Individual,Admiral,https://en.wikipedia.org/wiki/William_Cornwallis
 William D. Leahy,Individual,Admiral,https://en.wikipedia.org/wiki/William_D._Leahy
 William David Porter,Individual,Admiral,https://en.wikipedia.org/wiki/William_D._Porter
@@ -1158,6 +1715,7 @@ William Henry Purnell Blandy,Individual,Admiral,https://en.wikipedia.org/wiki/Wi
 William Maxwell Wood,Individual,Admiral,https://en.wikipedia.org/wiki/William_Maxwell_Wood
 William Mervine,Individual,Admiral,https://en.wikipedia.org/wiki/William_Mervine
 William Nicholson Jeffers,Individual,Admiral,https://en.wikipedia.org/wiki/William_Nicholson_Jeffers
+William Penn,Individual,Admiral,https://en.wikipedia.org/wiki/William_Penn_(Royal_Navy_officer)
 William Porter Lawrence,Individual,Admiral,https://en.wikipedia.org/wiki/William_P._Lawrence
 William Radford,Individual,Admiral,https://en.wikipedia.org/wiki/William_Radford
 William Rogers Taylor,Individual,Admiral,https://en.wikipedia.org/wiki/William_Rogers_Taylor
@@ -1166,16 +1724,24 @@ William Sowden Sims,Individual,Admiral,https://en.wikipedia.org/wiki/William_Sim
 William Sterling Parsons,Individual,Admiral,https://en.wikipedia.org/wiki/William_Sterling_Parsons
 William Thomas Sampson,Individual,Admiral,https://en.wikipedia.org/wiki/William_T._Sampson
 William Veazie Pratt,Individual,Admiral,https://en.wikipedia.org/wiki/William_V._Pratt
+"William Waldegrave, 1st Baron Radstock",Individual,Admiral,"https://en.wikipedia.org/wiki/William_Waldegrave,_1st_Baron_Radstock"
+"William Waldegrave, 1st Baron Radstock",Individual,Admiral,"https://en.wikipedia.org/wiki/William_Waldegrave,_1st_Baron_Radstock"
 William Wister McKean,Individual,Admiral,https://en.wikipedia.org/wiki/William_McKean
+William Wynter,Individual,Admiral,https://en.wikipedia.org/wiki/William_Wynter
 Willis Augustus Lee Jr.,Individual,Admiral,https://en.wikipedia.org/wiki/Willis_Augustus_Lee
 Winfield Scott Schley,Individual,Admiral,https://en.wikipedia.org/wiki/Winfield_Scott_Schley
 Yves-Joseph de Kerguelen-Tremarec,Individual,Admiral,https://en.wikipedia.org/wiki/Yves-Joseph_de_Kerguelen-Tr%C3%A9marec
 "Anne Hyde, Duchess of York and Albany",Individual,Aristocrat,https://en.wikipedia.org/wiki/Anne_Hyde
 "Armand Jean du Plessis, 1st Duke of Richelieu",Individual,Aristocrat,https://en.wikipedia.org/wiki/Cardinal_Richelieu
 "George Venables-Vernon, 5th Baron Vernon",Individual,Aristocrat,"https://en.wikipedia.org/wiki/George_Venables-Vernon,_5th_Baron_Vernon"
+Hereward the Wake,Individual,Aristocrat,https://en.wikipedia.org/wiki/Hereward_the_Wake
 "John Perceval, 2nd Earl of Egmont",Individual,Aristocrat,"https://en.wikipedia.org/wiki/John_Perceval,_2nd_Earl_of_Egmont"
+Octavia the Younger,Individual,Aristocrat,https://en.wikipedia.org/wiki/Octavia_the_Younger
 Otto von Bismarck,Individual,Aristocrat,https://en.wikipedia.org/wiki/Otto_von_Bismarck
 "Ralph Montagu, 1st Duke of Montagu",Individual,Aristocrat,"https://en.wikipedia.org/wiki/Ralph_Montagu,_1st_Duke_of_Montagu"
+"Richard de Clare, 2nd Earl of Pembroke",Individual,Aristocrat,"https://en.wikipedia.org/wiki/Richard_de_Clare,_2nd_Earl_of_Pembroke"
+Sir Henry Percy,Individual,Aristocrat,https://en.wikipedia.org/wiki/Henry_Percy_(Hotspur)
+William Wallace,Individual,Aristocrat,https://en.wikipedia.org/wiki/William_Wallace
 Alfred Austell Cunningham,Individual,Army Officer,https://en.wikipedia.org/wiki/Alfred_A._Cunningham
 Allen Melancthon Sumner Jr.,Individual,Army Officer,https://en.wikipedia.org/wiki/Allen_Melancthon_Sumner
 Aquilla James Dyess,Individual,Army Officer,https://en.wikipedia.org/wiki/Aquilla_J._Dyess
@@ -1215,8 +1781,11 @@ William Deane Hawkins,Individual,Army Officer,https://en.wikipedia.org/wiki/Will
 William Eaton,Individual,Army Officer,https://en.wikipedia.org/wiki/William_Eaton_(soldier)
 William Groom Leftwich Jr.,Individual,Army Officer,https://en.wikipedia.org/wiki/William_G._Leftwich_Jr.
 William Richard Higgins,Individual,Army Officer,https://en.wikipedia.org/wiki/William_R._Higgins
+Joseph Rudyard Kipling,Individual,Author,https://en.wikipedia.org/wiki/Rudyard_Kipling
+"Philips of Marnix, Lord of Saint-Aldegonde, Lord of West-Souburg",Individual,Author,"https://en.wikipedia.org/wiki/Philips_of_Marnix,_Lord_of_Saint-Aldegonde"
 Richard Saunders,Individual,Author,https://en.wikipedia.org/wiki/Poor_Richard%27s_Almanack
 Victor Hugo,Individual,Author,https://en.wikipedia.org/wiki/Victor_Hugo
+"Walter Scott, 1st Baronet",Individual,Author,https://en.wikipedia.org/wiki/Walter_Scott
 Allen Lang Seaman,Individual,Aviator,https://en.wikipedia.org/wiki/Allen_L._Seaman
 Benjamin White Norris,Individual,Aviator,https://en.wikipedia.org/wiki/USS_Norris#Namesake
 Bruce Lawrence Harwood,Individual,Aviator,https://en.wikipedia.org/wiki/USS_Harwood#Namesake
@@ -1276,8 +1845,10 @@ Aliheydar Huseynov,Individual,Child of Owner,https://en.wikipedia.org/wiki/HMS_A
 "Augusta of Saxe-Weimar-Eisenach, German Empress consort",Individual,Consort,https://en.wikipedia.org/wiki/Augusta_of_Saxe-Weimar-Eisenach
 "Augusta Victoria of Schleswig-Holstein, German Empress consort",Individual,Consort,https://en.wikipedia.org/wiki/Augusta_Victoria_of_Schleswig-Holstein
 "Blanche of Castile, Queen consort of France",Individual,Consort,https://en.wikipedia.org/wiki/Blanche_of_Castile
+Caroline of Brandenburg-Ansbach,Individual,Consort,https://en.wikipedia.org/wiki/Caroline_of_Ansbach
 "Franz August Karl Albert Emanuel, Prince consort of the United Kingdom",Individual,Consort,https://en.wikipedia.org/wiki/Prince_Albert_of_Saxe-Coburg_and_Gotha
 "Mary of Teck, Queen consort of the United Kingdom",Individual,Consort,https://en.wikipedia.org/wiki/Mary_of_Teck
+Rafael Leonidas Trujillo Molina,Individual,Dictator,https://en.wikipedia.org/wiki/Rafael_Trujillo
 Lewis Heermann,Individual,Doctor,https://en.wikipedia.org/wiki/USS_Heermann#Namesake
 William Longshaw Jr.,Individual,Doctor,https://en.wikipedia.org/wiki/William_Longshaw_Jr.
 Abraham Lincoln,Individual,Elected Leader,https://en.wikipedia.org/wiki/Abraham_Lincoln
@@ -1292,7 +1863,9 @@ Gerald R. Ford,Individual,Elected Leader,https://en.wikipedia.org/wiki/Gerald_Fo
 Harry S. Truman,Individual,Elected Leader,https://en.wikipedia.org/wiki/Harry_S._Truman
 John F. Kennedy,Individual,Elected Leader,https://en.wikipedia.org/wiki/John_F._Kennedy
 Lyndon Baines Johnson,Individual,Elected Leader,https://en.wikipedia.org/wiki/Lyndon_B._Johnson
+Manuel Blanco Encalada,Individual,Elected Leader,https://en.wikipedia.org/wiki/Manuel_Blanco_Encalada
 Manuel Jose Blanco y Calvo de Encalada,Individual,Elected Leader,https://en.wikipedia.org/wiki/Manuel_Blanco_Encalada
+Oliver Cromwell,Individual,Elected Leader,https://en.wikipedia.org/wiki/Oliver_Cromwell
 Ronald Reagan,Individual,Elected Leader,https://en.wikipedia.org/wiki/Ronald_Reagan
 Theodore Roosevelt,Individual,Elected Leader,https://en.wikipedia.org/wiki/Theodore_Roosevelt
 Benjamin Ryan Tillman,Individual,Elected Representative,https://en.wikipedia.org/wiki/Benjamin_Tillman
@@ -1323,7 +1896,9 @@ Antonio de Abreu,Individual,Explorer,https://en.wikipedia.org/wiki/Ant%C3%B3nio_
 Christopher Columbus,Individual,Explorer,https://en.wikipedia.org/wiki/Christopher_Columbus
 Dionisio Alcala Galiano,Individual,Explorer,"https://en.wikipedia.org/wiki/Dionisio_Alcal%C3%A1_Galiano#:~:text=Dionisio%20Alcal%C3%A1%20Galiano%20(8%20October,new%20technology%20such%20as%20chronometers."
 Edwin Jesse DeHaven,Individual,Explorer,https://en.wikipedia.org/wiki/Edwin_De_Haven
+Francis Rawdon Moira Crozier,Individual,Explorer,https://en.wikipedia.org/wiki/Francis_Crozier
 Gennady Nevelskoy,Individual,Explorer,https://en.wikipedia.org/wiki/Gennady_Nevelskoy
+George Vancouver,Individual,Explorer,https://en.wikipedia.org/wiki/George_Vancouver
 "Jean-Francois de Galaup, comte de Laperouse",Individual,Explorer,"https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_Galaup,_comte_de_Lap%C3%A9rouse"
 John Cabot,Individual,Explorer,https://en.wikipedia.org/wiki/John_Cabot
 Martin Frobisher,Individual,Explorer,https://en.wikipedia.org/wiki/Martin_Frobisher
@@ -1334,6 +1909,8 @@ Samuel de Champlain,Individual,Explorer,https://en.wikipedia.org/wiki/Samuel_de_
 Thomas Cavendish,Individual,Explorer,https://en.wikipedia.org/wiki/Thomas_Cavendish
 Belknap Family,Individual,Family,https://en.wikipedia.org/wiki/George_Belknap
 Ellet Family,Individual,Family,https://en.wikipedia.org/wiki/USS_Ellet
+Evertsen Family,Individual,Family,https://en.wikipedia.org/wiki/Evertsen_family
+Faulknor Family,Individual,Family,https://en.wikipedia.org/wiki/Faulknor_family
 Gearing Family,Individual,Family,https://en.wikipedia.org/wiki/Gearing_family
 Hollister Brothers,Individual,Family,https://en.wikipedia.org/wiki/Hollister_brothers
 John Rodgers,Individual,Family,"https://en.wikipedia.org/wiki/John_Rodgers_(naval_officer,_born_1772)#Influence_and_legacy"
@@ -1342,7 +1919,9 @@ Macomb Family,Individual,Family,https://en.wikipedia.org/wiki/Macomb_(surname)
 Marquis de Vaudreuil,Individual,Family,https://en.wikipedia.org/wiki/Vaudreuil#People
 Mustin Family,Individual,Family,https://en.wikipedia.org/wiki/Mustin_family
 Nicholson Family,Individual,Family,
+Onslow Family,Individual,Family,https://en.wikipedia.org/wiki/Earl_of_Onslow
 Rogers Brothers,Individual,Family,https://en.wikipedia.org/wiki/Rogers_brothers
+Seymour Family,Individual,Family,https://en.wikipedia.org/wiki/Admiral_Seymour
 Sullivan Brothers,Individual,Family,https://en.wikipedia.org/wiki/Sullivan_brothers
 Wainwright Family,Individual,Family,https://en.wikipedia.org/wiki/Jonathan_Mayhew_Wainwright_(naval_officer)
 "Abraham de Fabert, marquis d'Esternay",Individual,General,https://en.wikipedia.org/wiki/Abraham_de_Fabert
@@ -1369,6 +1948,7 @@ Francois Severin Marceau,Individual,General,https://en.wikipedia.org/wiki/Fran%C
 Frank Edgar Evans,Individual,General,https://en.wikipedia.org/wiki/Frank_Evans_(general)
 Frank Emmanuel Petersen Jr.,Individual,General,https://en.wikipedia.org/wiki/Frank_E._Petersen
 Friedrich Wilhelm von Seydlitz,Individual,General,https://en.wikipedia.org/wiki/Friedrich_Wilhelm_von_Seydlitz
+Gajah Mada,Individual,General,https://en.wikipedia.org/wiki/Gajah_Mada
 Gebhard Leberecht von Blucher,Individual,General,https://en.wikipedia.org/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher
 Georg von Derfflinger,Individual,General,https://en.wikipedia.org/wiki/Georg_von_Derfflinger
 "George Monck, 1st Duke of Albemarle",Individual,General,"https://en.wikipedia.org/wiki/George_Monck,_1st_Duke_of_Albemarle"
@@ -1378,7 +1958,10 @@ Gregorio del Pilar,Individual,General,https://en.wikipedia.org/wiki/Gregorio_del
 Hannibal,Individual,General,https://en.wikipedia.org/wiki/Hannibal
 Helmuth von Moltke the Elder,Individual,General,https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder
 "Henri de La Tour d'Auvergne, Viscount of Turenne",Individual,General,"https://en.wikipedia.org/wiki/Henri_de_La_Tour_d%27Auvergne,_Viscount_of_Turenne"
+Henry Havelock,Individual,General,https://en.wikipedia.org/wiki/Henry_Havelock
+Hugh Massy Wheeler,Individual,General,https://en.wikipedia.org/wiki/Hugh_Wheeler_(East_India_Company_officer)
 Jacob Zeilin,Individual,General,https://en.wikipedia.org/wiki/Jacob_Zeilin
+"James Graham, 1st Marquess of Montrose",Individual,General,"https://en.wikipedia.org/wiki/James_Graham,_1st_Marquess_of_Montrose"
 "Jean-Baptiste Donatien de Vimeur, comte de Rochambeau",Individual,General,"https://en.wikipedia.org/wiki/Jean-Baptiste_Donatien_de_Vimeur,_comte_de_Rochambeau"
 Jean-Baptiste Kleber,Individual,General,https://en.wikipedia.org/wiki/Jean-Baptiste_Kl%C3%A9ber
 "John Churchill, 1st Duke of Marlborough",Individual,General,"https://en.wikipedia.org/wiki/John_Churchill,_1st_Duke_of_Marlborough"
@@ -1398,9 +1981,11 @@ Ludwig Adolf Wilhelm von Lutzow,Individual,General,https://en.wikipedia.org/wiki
 Ludwig Freiherr von und zu der Tann-Rathsamhausen,Individual,General,https://en.wikipedia.org/wiki/Ludwig_Freiherr_von_und_zu_der_Tann-Rathsamhausen
 Ludwig Yorck von Wartenburg,Individual,General,https://en.wikipedia.org/wiki/Ludwig_Yorck_von_Wartenburg
 Ly Thuong Kiet,Individual,General,https://en.wikipedia.org/wiki/L%C3%BD_Th%C6%B0%E1%BB%9Dng_Ki%E1%BB%87t
+Lysander,Individual,General,https://en.wikipedia.org/wiki/Lysander
 Manuel Belgrano,Individual,General,https://en.wikipedia.org/wiki/Manuel_Belgrano
 Marcus Atilius Regulus,Individual,General,https://en.wikipedia.org/wiki/Marcus_Atilius_Regulus_(consul_267_BC)
 Merritt Austin Edson Sr.,Individual,General,https://en.wikipedia.org/wiki/Merritt_A._Edson
+Mohamed El-Fateh Karim,Individual,General,
 Ngo Quyen,Individual,General,https://en.wikipedia.org/wiki/Ng%C3%B4_Quy%E1%BB%81n
 Nicolas Catinat,Individual,General,https://en.wikipedia.org/wiki/Nicolas_Catinat
 Nikolay Muravyov-Amursky,Individual,General,https://en.wikipedia.org/wiki/Nikolay_Muravyov-Amursky
@@ -1411,6 +1996,7 @@ Randolph Carter Berkeley,Individual,General,https://en.wikipedia.org/wiki/Randol
 Robert Henry Dunlap,Individual,General,https://en.wikipedia.org/wiki/Robert_H._Dunlap
 Scipio Africanus,Individual,General,https://en.wikipedia.org/wiki/Scipio_Africanus
 Smedley Darlington Butler,Individual,General,https://en.wikipedia.org/wiki/Smedley_Butler
+Tariq ibn Ziyad,Individual,General,https://en.wikipedia.org/wiki/Tariq_ibn_Ziyad
 Tariq ibn Ziyad,Individual,General,https://en.wikipedia.org/wiki/Tariq_ibn_Ziyad
 Themistocles,Individual,General,https://en.wikipedia.org/wiki/Themistocles
 "Thomas Robert Bugeaud, marquis de la Piconnerie, duc d'Isly",Individual,General,https://en.wikipedia.org/wiki/Thomas_Robert_Bugeaud
@@ -1430,13 +2016,17 @@ John Adolphus Bernard Dahlgren,Individual,Inventor,https://en.wikipedia.org/wiki
 John Ericsson,Individual,Inventor,https://en.wikipedia.org/wiki/John_Ericsson
 Richard Jordan Gatling,Individual,Inventor,https://en.wikipedia.org/wiki/Richard_Jordan_Gatling
 Robert Fulton,Individual,Inventor,https://en.wikipedia.org/wiki/Robert_Fulton
+Robert Whitehead,Individual,Inventor,https://en.wikipedia.org/wiki/Robert_Whitehead_(engineer)
 Samuel Pierpont Langley,Individual,Inventor,https://en.wikipedia.org/wiki/Samuel_Langley
 Thomas Alva Edison,Individual,Inventor,https://en.wikipedia.org/wiki/Thomas_Edison
 Wright brothers,Individual,Inventor,https://en.wikipedia.org/wiki/Wright_brothers
+"First Battle of the Marne, World War I",Individual,Land Battle,https://en.wikipedia.org/wiki/First_Battle_of_the_Marne
 "Abdul Hamid II, Sultan of the Ottoman Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Abdul_Hamid_II
 "Abdulaziz, Sultan of the Ottoman Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Abdulaziz
+Abu Talib Muhammad Tughril ibn Mika'il,Individual,Monarch,https://en.wikipedia.org/wiki/Tughril_I
 "Abu Talib Muhammad Tughril ibn Mika'il, Sultan of the Seljuk Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Tughril_I
 Agamemnon,Individual,Monarch,https://en.wikipedia.org/wiki/Agamemnon
+Alamgir I,Individual,Monarch,https://en.wikipedia.org/wiki/Aurangzeb
 "Alamgir I, Mughal Emperor",Individual,Monarch,https://en.wikipedia.org/wiki/Aurangzeb
 "Albert Edward, King of the United Kingdom",Individual,Monarch,https://en.wikipedia.org/wiki/Edward_VII
 "Albert Frederick Arthur George, King of the United Kingdom",Individual,Monarch,https://en.wikipedia.org/wiki/George_VI
@@ -1457,6 +2047,7 @@ Cordelia of Britain,Individual,Monarch,https://en.wikipedia.org/wiki/Cordelia_of
 "Cyrus II, Emperor of Persia",Individual,Monarch,https://en.wikipedia.org/wiki/Cyrus_the_Great
 "Darius I, Emperor of the Achaemenid Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Darius_the_Great
 Dido,Individual,Monarch,https://en.wikipedia.org/wiki/Dido
+Diodotus Tryphon,Individual,Monarch,https://en.wikipedia.org/wiki/Diodotus_Tryphon
 "Edgar, King of England",Individual,Monarch,"https://en.wikipedia.org/wiki/Edgar,_King_of_England"
 "Elizabeth Tudor, Queen of England and Ireland",Individual,Monarch,https://en.wikipedia.org/wiki/Elizabeth_I
 "Fateh Ali Sahab Tipu, Sultan of Mysore",Individual,Monarch,https://en.wikipedia.org/wiki/Tipu_Sultan
@@ -1469,14 +2060,29 @@ Haakon VII,Individual,Monarch,https://en.wikipedia.org/wiki/Haakon_VII
 "Henry IV, King of France",Individual,Monarch,https://en.wikipedia.org/wiki/Henry_IV_of_France
 "Jalal-ud-Din Muhammad Akbar, Sultan of Hindustan",Individual,Monarch,https://en.wikipedia.org/wiki/Akbar
 "Khosrow I, Emperor of the Sasanian Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Khosrow_I
+Leonidas I,Individual,Monarch,https://en.wikipedia.org/wiki/Leonidas_I
+Llywelyn ap Gruffudd,Individual,Monarch,https://en.wikipedia.org/wiki/Llywelyn_ap_Gruffudd
 "Louis IX, King of France",Individual,Monarch,https://en.wikipedia.org/wiki/Louis_IX_of_France
 "Mehmed V Resad, Sultan of the Ottoman Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Mehmed_V
+Muhammad Alp Arslan bin Dawud Chaghri,Individual,Monarch,https://en.wikipedia.org/wiki/Alp_Arslan
 "Nader Shah Afshar, Emperor of Iran",Individual,Monarch,https://en.wikipedia.org/wiki/Nader_Shah
 "Netzahualcoyotl, Emperor of Texcoco",Individual,Monarch,https://en.wikipedia.org/wiki/Nezahualcoyotl_(tlatoani)
+Nur al-Din Muhammad Salim,Individual,Monarch,https://en.wikipedia.org/wiki/Jahangir
 "Nur al-Din Muhammad Salim, Emperor of the Mughal Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Jahangir
+Offa of Mercia,Individual,Monarch,https://en.wikipedia.org/wiki/Offa_of_Mercia
+"Osman Ali Khan, Asaf Jah VII",Individual,Monarch,https://en.wikipedia.org/wiki/Mir_Osman_Ali_Khan
+Pratap Singh I ,Individual,Monarch,https://en.wikipedia.org/wiki/Maharana_Pratap
+Ranjit Singh,Individual,Monarch,https://en.wikipedia.org/wiki/Ranjit_Singh
+Robert I,Individual,Monarch,https://en.wikipedia.org/wiki/Robert_the_Bruce
+Salah ad-Din Yusuf ibn Ayyub,Individual,Monarch,https://en.wikipedia.org/wiki/Saladin
+Seleucus I Nicator,Individual,Monarch,https://en.wikipedia.org/wiki/Seleucus_I_Nicator
 "Selim I, Sultan of the Ottoman Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Selim_I
+Shah Jahan I,Individual,Monarch,https://en.wikipedia.org/wiki/Shah_Jahan
 "Shah Jahan I, Mughal Emperor",Individual,Monarch,https://en.wikipedia.org/wiki/Shah_Jahan
+Timur,Individual,Monarch,https://en.wikipedia.org/wiki/Timur
 "Timur, Amir of the Timurid Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Timur
+Tipu Sultan,Individual,Monarch,https://en.wikipedia.org/wiki/Tipu_Sultan
+Vortigern,Individual,Monarch,https://en.wikipedia.org/wiki/Vortigern
 "Wilhelm I, German Emperor",Individual,Monarch,https://en.wikipedia.org/wiki/Wilhelm_I
 "Wilhelm II, German Emperor",Individual,Monarch,https://en.wikipedia.org/wiki/Wilhelm_II
 "Zahir ud-Din Muhammad, Emperor of the Mughal Empire",Individual,Monarch,https://en.wikipedia.org/wiki/Babur
@@ -1511,7 +2117,9 @@ Charles Flint Putnam,Individual,Naval Officer,https://en.wikipedia.org/wiki/Char
 Charles Foster Wedderburn,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Wedderburn#Namesake
 Charles H. Swasey,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Swasey
 Charles Hazeltine Hammann,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Hammann
+Charles John Moore Mansfield,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_John_Moore_Mansfield
 Charles Louis du Couedic de Kergoaler,Individual,Naval Officer,
+Charles Lydiard,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Lydiard
 Charles S. Kendrick,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Kendrick#Namesake
 Charles Satterlee,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Satterlee
 Charles Vernon Gridley,Individual,Naval Officer,https://en.wikipedia.org/wiki/Charles_Vernon_Gridley
@@ -1525,6 +2133,7 @@ Daniel Waters,Individual,Naval Officer,https://en.wikipedia.org/wiki/Daniel_Wate
 David Bernard Loveman Noa,Individual,Naval Officer,https://en.wikipedia.org/wiki/Loveman_Noa
 David McDermut,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_McDermut
 David Ross,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Ross_(DD-563)#Namesake
+Diego Ferré Sosa,Individual,Naval Officer,https://es.wikipedia.org/wiki/Diego_Ferr%C3%A9
 Donald Gilbert Cook,Individual,Naval Officer,https://en.wikipedia.org/wiki/Donald_Cook_(Medal_of_Honor)
 Donald Kirby Ross,Individual,Naval Officer,https://en.wikipedia.org/wiki/Donald_K._Ross
 Douglas Harold Fox,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Douglas_H._Fox#Namesake
@@ -1540,9 +2149,11 @@ Edward Lea,Individual,Naval Officer,https://en.wikipedia.org/wiki/Edward_Lea
 Edward Merritt Hughes,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Hughes#Namesake
 Edward Moale Jr.,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Moale#Namesake
 Edward R. McCall,Individual,Naval Officer,https://en.wikipedia.org/wiki/Edward_McCall
+Edward Rotheram,Individual,Naval Officer,https://en.wikipedia.org/wiki/Edward_Rotheram
 Elias K. Owen,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Owen#Namesake
 Elijah Hall,Individual,Naval Officer,https://en.wikipedia.org/wiki/Elijah_Hall_(naval_officer)
 Elisha Kent Kane,Individual,Naval Officer,https://en.wikipedia.org/wiki/Elisha_Kent_Kane
+Enrique Sixto Palacios de Mendiburu,Individual,Naval Officer,https://es.wikipedia.org/wiki/Enrique_Palacios_(militar)
 Eugene S. Sarsfield,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Sarsfield#Namesake
 Fitz Henry Babbitt,Individual,Naval Officer,https://en.wikipedia.org/wiki/Fitz_Babbitt
 Frank Bruce,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Bruce#Namesake
@@ -1552,12 +2163,14 @@ Franklin Van Valkenburgh,Individual,Naval Officer,https://en.wikipedia.org/wiki/
 Fred Thomas Berry,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Fred_T._Berry
 Frederick Warren Purdy,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Purdy#Namesake
 George A. Trever,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Trever
+George Blagdon Westcott,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_Blagdon_Westcott
 George Charrette,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_Charrette
 George Fleming Davis,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_Fleming_Davis
 George Fountain Parrott,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_Parrott
 George K. MacKenzie,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_George_K._MacKenzie
 George Little,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_Little_(naval_officer)
 George Mifflin Bache Jr. ,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_M._Bache
+George Morris,Individual,Naval Officer,
 George Washington De Long,Individual,Naval Officer,https://en.wikipedia.org/wiki/George_W._De_Long
 Gregory Caldwell Davison,Individual,Naval Officer,https://en.wikipedia.org/wiki/Gregory_C._Davison
 Gus Brynolf Lofberg Jr.,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Lofberg#Namesake
@@ -1619,12 +2232,14 @@ John Herbert Dent,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_H.
 John Houseal Furse,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_H._Furse
 John Joliffe Yarnall,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Yarnall
 John Joseph Shea,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Shea#Namesake
+John Manly,Individual,Naval Officer,
 John Mayrant,Individual,Naval Officer,
 John McLeod Murphy,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_McLeod_Murphy
 John Paul Jones,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Paul_Jones
 John Peck Rathbun,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Rathbun
 John Percival,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Percival
 John Pope,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Pope_(naval_officer)
+John Quilliam,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_Quilliam
 John R. Craig,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_John_R._Craig
 John R. Monaghan,Individual,Naval Officer,https://en.wikipedia.org/wiki/John_R._Monaghan
 John Reeves Pierce,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_John_R._Pierce#Namesake
@@ -1659,6 +2274,7 @@ LeRoy Fitch,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Fitch#Nam
 Lewis Broughton Porterfield,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Porterfield#Namesake
 Lewis Compton,Individual,Naval Officer,https://en.wikipedia.org/wiki/Lewis_Compton
 Lewis Hancock Jr.,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Lewis_Hancock
+Lord Robert Manners,Individual,Naval Officer,https://en.wikipedia.org/wiki/Lord_Robert_Manners_(Royal_Navy_officer)
 Louis-Antoine-Cyprien Infernet,Individual,Naval Officer,https://en.wikipedia.org/wiki/Louis-Antoine-Cyprien_Infernet
 Luis Piedrabuena,Individual,Naval Officer,https://en.wikipedia.org/wiki/Luis_Piedrabuena
 Lyman Atkinson Cotten,Individual,Naval Officer,https://en.wikipedia.org/wiki/Lyman_A._Cotten
@@ -1685,11 +2301,14 @@ Raphael Semmes,Individual,Naval Officer,https://en.wikipedia.org/wiki/Raphael_Se
 Reuben Chase,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Chase_(DD-323)#Namesake
 Richard Caswell Saufley,Individual,Naval Officer,https://en.wikipedia.org/wiki/Richard_C._Saufley
 Richard Delphy,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Delphy#Namesake
+Richard Hetherington,Individual,Naval Officer,https://en.wikipedia.org/wiki/Richard_Hetherington
 Richard McCall Elliot Jr.,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Elliot_(DD-146)#Namesake
 Richard Somers,Individual,Naval Officer,https://en.wikipedia.org/wiki/Richard_Somers
+Robert Faulknor the Younger,Individual,Naval Officer,https://en.wikipedia.org/wiki/Robert_Faulknor_the_younger
 Robert Henley,Individual,Naval Officer,https://en.wikipedia.org/wiki/Robert_Henley_(naval_officer)
 Robert Holmes Smith,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Robert_H._Smith#Namesake
 Robert Means Thompson,Individual,Naval Officer,https://en.wikipedia.org/wiki/Robert_Means_Thompson
+Robert Redmill,Individual,Naval Officer,https://en.wikipedia.org/wiki/Robert_Redmill
 Robert T. Spence,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Spence
 Robert William Uhlmann,Individual,Naval Officer,https://en.wikipedia.org/wiki/Robert_William_Uhlmann
 Roderick Sheldon McCook,Individual,Naval Officer,https://en.wikipedia.org/wiki/Roderick_S._McCook
@@ -1738,6 +2357,7 @@ William Edwin Hank,Individual,Naval Officer,https://en.wikipedia.org/wiki/Willia
 William Gwin,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_Gwin_(naval_officer)
 William Halford,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_Halford
 William Henry Allen,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_Henry_Allen
+"William Hoste, 1st Baronet",Individual,Naval Officer,https://en.wikipedia.org/wiki/William_Hoste
 William J. Sharkey,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_J._Sharkey_(US_Navy_officer)
 William L. Howorth,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Howorth#Namesake
 William Levereth Hudson,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_L._Hudson
@@ -1745,6 +2365,7 @@ William Lewis Herndon,Individual,Naval Officer,https://en.wikipedia.org/wiki/Wil
 William McCall Haynsworth Jr.,Individual,Naval Officer,https://en.wikipedia.org/wiki/USS_Haynsworth#Namesake
 William Merrill Corry Jr.,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_M._Corry_Jr.
 William Montgomery Crane,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_M._Crane
+William Mounsey,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_Mounsey_(Royal_Navy_officer)
 William Price Williamson,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_Price_Williamson
 William R. Hoel,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_R._Hoel
 William Rees Rush,Individual,Naval Officer,https://en.wikipedia.org/wiki/William_R._Rush
@@ -1756,8 +2377,10 @@ Worth Bagley,Individual,Naval Officer,https://en.wikipedia.org/wiki/Worth_Bagley
 Lenah H. Sutcliffe Higbee,Individual,Nurse,https://en.wikipedia.org/wiki/Lenah_Higbee
 "Abel Parker Upshur, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Abel_P._Upshur
 "Adolph Edward Borie, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Adolph_E._Borie
+Alexandrino Faria de Alencar,Individual,Official,https://en.wikipedia.org/wiki/Alexandrino_Faria_de_Alencar
 "Antonio Valdes y Fernandez Bazan, Secretary of State for Navy",Individual,Official,https://en.wikipedia.org/wiki/Antonio_Vald%C3%A9s_y_Fern%C3%A1ndez_Baz%C3%A1n
 "Antonios Kriezis, Prime Minister",Individual,Official,https://en.wikipedia.org/wiki/Antonios_Kriezis
+"Arthur Wellesley, 1st Duke of Wellington",Individual,Official,"https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington"
 "Benjamin Franklin Tracy, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Benjamin_F._Tracy
 "Benjamin Stoddert, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Benjamin_Stoddert
 "Benjamin Williams Crowninshield, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Benjamin_Williams_Crowninshield
@@ -1766,6 +2389,7 @@ Lenah H. Sutcliffe Higbee,Individual,Nurse,https://en.wikipedia.org/wiki/Lenah_H
 "Curtis Dwight Wilbur, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Curtis_D._Wilbur
 "David Henshaw, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/David_Henshaw_(American_politician)
 "Diego Jose Pedro Víctor Portales y Palazuelos, Minister of War",Individual,Official,https://en.wikipedia.org/wiki/Diego_Portales
+"Edward Russell, 1st Earl of Orford",Individual,Official,"https://en.wikipedia.org/wiki/Edward_Russell,_1st_Earl_of_Orford"
 "Esek Hopkins, Commander in Chief of the Continental Navy",Individual,Official,https://en.wikipedia.org/wiki/Esek_Hopkins
 "George Bancroft, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/George_Bancroft
 "George Edmund Badger, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/George_Edmund_Badger
@@ -1780,40 +2404,53 @@ Georges Leygues,Individual,Official,https://en.wikipedia.org/wiki/Georges_Leygue
 "James Kirke Paulding, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/James_Kirke_Paulding
 "Jean Baptiste Colbert, Marquis of Seignelay",Individual,Official,"https://en.wikipedia.org/wiki/Jean_Baptiste_Colbert,_Marquis_of_Seignelay"
 Jean-Baptiste Colbert,Individual,Official,https://en.wikipedia.org/wiki/Jean-Baptiste_Colbert
+Johan Anthoniszoon van Riebeeck,Individual,Official,
 "John Branch Jr., Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/John_Branch
 "John Davis Long, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/John_Davis_Long
+John Henry Whitley,Individual,Official,https://en.wikipedia.org/wiki/John_Henry_Whitley
 "John Lester Hubbard Chafee, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/John_Chafee
 "John Pendleton Kennedy, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/John_P._Kennedy
+"John Proby, 1st Baron Carysfort",Individual,Official,"https://en.wikipedia.org/wiki/John_Proby,_1st_Baron_Carysfort"
 "John Wingate Weeks, Secretary of War",Individual,Official,https://en.wikipedia.org/wiki/John_W._Weeks
 "John Young Mason, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/John_Y._Mason
 "Jose Ferrandiz y Nino, Minister of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Jos%C3%A9_Ferr%C3%A1ndiz_y_Ni%C3%B1o
 "Jose Ignacio Zenteno, Secretary of War and Navy",Individual,Official,https://en.wikipedia.org/wiki/Jos%C3%A9_Ignacio_Zenteno
 Joseph Francois Dupleix,Individual,Official,https://en.wikipedia.org/wiki/Governor-general
 "Josephus Daniels, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Josephus_Daniels
+Juan Williams Rebolledo,Individual,Official,https://en.wikipedia.org/wiki/Juan_Williams_Rebolledo
 Jules Ferry,Individual,Official,https://en.wikipedia.org/wiki/Jules_Ferry
 "Justin Napoléon Samuel Prosper de Chasseloup-Laubat, 4th Marquis of Chasseloup-Laubat",Individual,Official,https://en.wikipedia.org/wiki/Prosper_de_Chasseloup-Laubat
 Leon Gambetta,Individual,Official,https://en.wikipedia.org/wiki/L%C3%A9on_Gambetta
 "Levi Woodbury, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Levi_Woodbury
+Louis Botha,Individual,Official,https://en.wikipedia.org/wiki/Louis_Botha
+Luis Alberto Goni Simpson,Individual,Official,https://en.wikipedia.org/wiki/Luis_Go%C3%B1i
 "Mahlon Dickerson, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/USS_Dickerson
 "Maximilien de Bethune, Duke of Sully",Individual,Official,"https://en.wikipedia.org/wiki/Maximilien_de_B%C3%A9thune,_Duke_of_Sully"
+Mustafa Fevzi Cakmak,Individual,Official,https://en.wikipedia.org/wiki/Fevzi_%C3%87akmak
 "Mustafa Fevzi Cakmak, Chief of General Staff",Individual,Official,https://en.wikipedia.org/wiki/Fevzi_%C3%87akmak
 "Nathan Goff Jr., Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Nathan_Goff_Jr.
 "Paul Hamilton, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Paul_Hamilton_(politician)
 "Paul Henry Nitze, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Paul_Nitze
 "Paul Robert Ignatius, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Paul_Ignatius
 Pierre Waldeck-Rousseau,Individual,Official,https://en.wikipedia.org/wiki/Pierre_Waldeck-Rousseau
+"Richard Onslow, 1st Baron Onslow",Individual,Official,"https://en.wikipedia.org/wiki/Richard_Onslow,_1st_Baron_Onslow"
 "Richard Wigginton Thompson, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Richard_W._Thompson
 "Robert Smith, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Robert_Smith_(Maryland_politician)
+"Robert Walpole, 1st Earl of Orford",Individual,Official,https://en.wikipedia.org/wiki/Robert_Walpole
 "Samuel Dexter, Secretary of the Treasury",Individual,Official,https://en.wikipedia.org/wiki/Samuel_Dexter
 "Samuel Lewis Southard, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Samuel_L._Southard
 "Segundo Rosa Storni, Minister of Foreign Affairs",Individual,Official,https://en.wikipedia.org/wiki/Segundo_Storni
+Simon van der Stel,Individual,Official,https://en.wikipedia.org/wiki/Simon_van_der_Stel
+"Sir Evan Nepean, 1st Baronet",Individual,Official,https://en.wikipedia.org/wiki/Evan_Nepean
 "Sir Winston Leonard Spencer Churchill, Prime Minister of the United Kingdom",Individual,Official,https://en.wikipedia.org/wiki/Winston_Churchill
 "Smith Thompson, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Smith_Thompson
 "Thomas S. Gates Jr., Secretary of Defense",Individual,Official,https://en.wikipedia.org/wiki/Thomas_S._Gates_Jr.
 "Thomas Walker Gilmer, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Thomas_Walker_Gilmer
+Thomas Wolsey,Individual,Official,https://en.wikipedia.org/wiki/Thomas_Wolsey
 "Walter Q. Gresham, Secretary of the Treasury",Individual,Official,https://en.wikipedia.org/wiki/Walter_Q._Gresham
 "William Alexander Graham, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/William_Alexander_Graham
 "William Ballard Preston, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/William_B._Preston
+William Cavendish,Individual,Official,https://en.wikipedia.org/wiki/William_Cavendish_(courtier)
 "William Eaton Chandler, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/William_E._Chandler
 "William Franklin Knox, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/Frank_Knox
 "William Henry Hunt, Secretary of the Navy",Individual,Official,https://en.wikipedia.org/wiki/William_H._Hunt
@@ -1822,11 +2459,14 @@ Pierre Waldeck-Rousseau,Individual,Official,https://en.wikipedia.org/wiki/Pierre
 "Zenon de Somodevilla, 1st Marquess of Ensenada",Individual,Official,"https://en.wikipedia.org/wiki/Zen%C3%B3n_de_Somodevilla,_1st_Marquess_of_Ensenada"
 Denis Diderot,Individual,Philosopher,https://en.wikipedia.org/wiki/Denis_Diderot
 Ernest Renan,Individual,Philosopher,https://en.wikipedia.org/wiki/Ernest_Renan
+"Francis Bacon, 1st Viscount St Alban",Individual,Philosopher,https://en.wikipedia.org/wiki/Francis_Bacon
 Francois-Marie Arouet,Individual,Philosopher,https://en.wikipedia.org/wiki/Voltaire
 Jules Michelet,Individual,Philosopher,https://en.wikipedia.org/wiki/Jules_Michelet
 "Marie Jean Antoine Nicolas de Caritat, Marquis of Condorcet",Individual,Philosopher,https://en.wikipedia.org/wiki/Marquis_de_Condorcet
+Edmund Spenser,Individual,Poet,https://en.wikipedia.org/wiki/Edmund_Spenser
 Heinrich Frauenlob,Individual,Poet,https://en.wikipedia.org/wiki/Heinrich_Frauenlob
 Sappho,Individual,Poet,https://en.wikipedia.org/wiki/Sappho
+William Shakespeare,Individual,Poet,https://en.wikipedia.org/wiki/William_Shakespeare
 Gamaliel Bradford,Individual,Privateer,https://en.wikipedia.org/wiki/Gamaliel_Bradford_(privateersman)
 Gustavus Conyngham,Individual,Privateer,https://en.wikipedia.org/wiki/Gustavus_Conyngham
 Hippolyte Bouchard,Individual,Privateer,https://en.wikipedia.org/wiki/Hippolyte_Bouchard
@@ -1852,6 +2492,7 @@ Nikolis Apostolis,Individual,Revolutionary,https://en.wikipedia.org/wiki/Nikolis
 Owain Glyndwr,Individual,Revolutionary,https://en.wikipedia.org/wiki/Owain_Glynd%C5%B5r
 Peyton Randolph,Individual,Revolutionary,https://en.wikipedia.org/wiki/Peyton_Randolph
 Pierre Victurnien Vergniaud,Individual,Revolutionary,https://en.wikipedia.org/wiki/Pierre_Victurnien_Vergniaud
+Robert Roy MacGregor,Individual,Revolutionary,https://en.wikipedia.org/wiki/Rob_Roy_MacGregor
 "Albert, King of Saxony",Individual,Royal,"https://en.wikipedia.org/wiki/Albert,_King_of_Saxony"
 "Alfred Ernest Albert, Duke of Edinburgh",Individual,Royal,"https://en.wikipedia.org/wiki/Alfred,_Duke_of_Saxe-Coburg_and_Gotha"
 "Edward of Woodstock, Prince of Wales",Individual,Royal,https://en.wikipedia.org/wiki/Edward_the_Black_Prince
@@ -1907,9 +2548,13 @@ William Conway,Individual,Sailor,https://en.wikipedia.org/wiki/William_Conway_(U
 William Joseph Franks,Individual,Sailor,https://en.wikipedia.org/wiki/William_Joseph_Franks
 William Pinckney,Individual,Sailor,https://en.wikipedia.org/wiki/William_Pinckney
 William Wiley,Individual,Sailor,https://en.wikipedia.org/wiki/USS_Wiley#Namesake
+Anthony of Padua,Individual,Saint,https://en.wikipedia.org/wiki/Anthony_of_Padua
 Flavia Julia Helena,Individual,Saint,"https://en.wikipedia.org/wiki/Helena,_mother_of_Constantine_I"
 Saint Bonaventure,Individual,Saint,https://en.wikipedia.org/wiki/Bonaventure
+Saint Crispin,Individual,Saint,https://en.wikipedia.org/wiki/Crispin_and_Crispinian
 Saint George,Individual,Saint,https://en.wikipedia.org/wiki/Saint_George
+Saint Ursula,Individual,Saint,https://en.wikipedia.org/wiki/Saint_Ursula
+Saint Valentine,Individual,Saint,https://en.wikipedia.org/wiki/Saint_Valentine
 Antoine Lavoisier,Individual,Scientist,https://en.wikipedia.org/wiki/Antoine_Lavoisier
 Blaise Pascal,Individual,Scientist,https://en.wikipedia.org/wiki/Blaise_Pascal
 Charles-Francois Beautemps-Beaupre,Individual,Scientist,https://en.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Beautemps-Beaupr%C3%A9
@@ -1918,6 +2563,7 @@ Jorge Juan y Santacilia,Individual,Scientist,https://en.wikipedia.org/wiki/Jorge
 Joseph Jerome Lefrancois de Lalande,Individual,Scientist,https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lalande
 Josiah Willard Gibbs,Individual,Scientist,https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs
 Rene Descartes,Individual,Scientist,https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
+"William Thomson, 1st Baron Kelvin",Individual,Scientist,https://en.wikipedia.org/wiki/Lord_Kelvin
 Alfredo Cantu Gonzalez,Individual,Soldier,https://en.wikipedia.org/wiki/Alfredo_Cantu_Gonzalez
 Anthony Peter Damato,Individual,Soldier,https://en.wikipedia.org/wiki/Anthony_P._Damato
 Charles Howard Roan,Individual,Soldier,https://en.wikipedia.org/wiki/Charles_H._Roan
@@ -1965,10 +2611,12 @@ William Anthony,Individual,Soldier,https://en.wikipedia.org/wiki/William_Anthony
 William James Bordelon Jr.,Individual,Soldier,https://en.wikipedia.org/wiki/William_J._Bordelon
 William Richard Charette,Individual,Soldier,https://en.wikipedia.org/wiki/William_R._Charette
 Woodrow R. Thompson,Individual,Soldier,
+Mary,Individual,,"https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
 Altocumulus Cloud,Meteorological,Cloud Formation,https://en.wikipedia.org/wiki/Altocumulus_cloud
 Autumn Cloud,Meteorological,Cloud Formation,
 Blue Cloud,Meteorological,Cloud Formation,https://en.wikipedia.org/wiki/Cirrostratus_cloud
 Cirrus Clouds,Meteorological,Cloud Formation,https://en.wikipedia.org/wiki/Cirrus_cloud
+Cumulonimbus Cloud,Meteorological,Cloud Formation,https://en.wikipedia.org/wiki/Cumulonimbus_cloud
 Cumulus Cloud,Meteorological,Cloud Formation,https://en.wikipedia.org/wiki/Cumulus_cloud
 Dawn Clouds,Meteorological,Cloud Formation,
 Morning Cloud,Meteorological,Cloud Formation,
@@ -2013,6 +2661,7 @@ Fog Over Calm Waters,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Fog
 Haze,Meteorological,Phenomenon,
 Heavenly Wind,Meteorological,Phenomenon,
 High Tide,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tide
+Hurricane,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tropical_cyclone
 Island Snow,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Snow
 Island Wind,Meteorological,Phenomenon,
 King Tide,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tide
@@ -2058,6 +2707,7 @@ Snow Falling on Calm Waters,Meteorological,Phenomenon,https://en.wikipedia.org/w
 Snowy Beach,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Snow
 Snowy Pine Tree,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Snow
 Snowy Wind,Meteorological,Phenomenon,
+Spindrift,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Spindrift
 Spreading Waves,Meteorological,Phenomenon,
 Spring Snow,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Snow
 Spring Wind,Meteorological,Phenomenon,
@@ -2067,9 +2717,14 @@ Summer Tide,Meteorological,Phenomenon,
 Surf,Meteorological,Phenomenon,
 Swamp Fog,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Fog
 Swamp Wind,Meteorological,Phenomenon,
+Tempest,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Storm
 Thunder,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Thunder
 Tide,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tide
+Tornado,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Tornado
+Torrent,Meteorological,Phenomenon,
 Valley Wind,Meteorological,Phenomenon,
+Wave,Meteorological,Phenomenon,
+Whirlwind,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Whirlwind
 Whirlwind,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Whirlwind
 White Frost,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Frost
 Wind,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Wind
@@ -2089,23 +2744,37 @@ Winter Shower,Meteorological,Phenomenon,https://en.wikipedia.org/wiki/Shower_(pr
 Basilisk,Mythological,Creature,https://en.wikipedia.org/wiki/Basilisk
 Centaur,Mythological,Creature,https://en.wikipedia.org/wiki/Centaur
 Charybdis,Mythological,Creature,https://en.wikipedia.org/wiki/Charybdis
+Cockatrice,Mythological,Creature,https://en.wikipedia.org/wiki/Cockatrice
 Dragon,Mythological,Creature,https://en.wikipedia.org/wiki/Dragon
+Fairy,Mythological,Creature,https://en.wikipedia.org/wiki/Fairy
 Fenghuang,Mythological,Creature,https://en.wikipedia.org/wiki/Fenghuang
 Griffin,Mythological,Creature,https://en.wikipedia.org/wiki/Griffin
+Harpy,Mythological,Creature,https://en.wikipedia.org/wiki/Harpy
+Lernaean Hydra,Mythological,Creature,https://en.wikipedia.org/wiki/Lernaean_Hydra
 Leviathan,Mythological,Creature,https://en.wikipedia.org/wiki/Leviathan
+Mermaid,Mythological,Creature,https://en.wikipedia.org/wiki/Mermaid
 Minotaur,Mythological,Creature,https://en.wikipedia.org/wiki/Minotaur
+Ogre,Mythological,Creature,https://en.wikipedia.org/wiki/Ogre
 Pegasus,Mythological,Creature,https://en.wikipedia.org/wiki/Pegasus
 Phoenix,Mythological,Creature,https://en.wikipedia.org/wiki/Phoenix_(mythology)
 Prancing Dragon,Mythological,Creature,https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Ry%C5%ABj%C5%8D
 Scylla,Mythological,Creature,https://en.wikipedia.org/wiki/Scylla
+Siren,Mythological,Creature,https://en.wikipedia.org/wiki/Siren_(mythology)
 Unicorn,Mythological,Creature,https://en.wikipedia.org/wiki/Unicorn
+Vampire,Mythological,Creature,https://en.wikipedia.org/wiki/Vampire
+Werewolf,Mythological,Creature,https://en.wikipedia.org/wiki/Werewolf
+Wyvern,Mythological,Creature,https://en.wikipedia.org/wiki/Wyvern
+Wyvern (Fire),Mythological,Creature,https://en.wikipedia.org/wiki/Wyvern
 Aeolus,Mythological,God,https://en.wikipedia.org/wiki/Aeolus_(son_of_Hippotes)
 Amphitrite,Mythological,God,https://en.wikipedia.org/wiki/Amphitrite
+Aphrodite,Mythological,God,https://en.wikipedia.org/wiki/Aphrodite
 Apollo,Mythological,God,https://en.wikipedia.org/wiki/Apollo
+Artemis,Mythological,God,https://en.wikipedia.org/wiki/Artemis
 Astraea,Mythological,God,https://en.wikipedia.org/wiki/Astraea
 Athena,Mythological,God,https://en.wikipedia.org/wiki/Athena
 Aurora,Mythological,God,https://en.wikipedia.org/wiki/Aurora_(mythology)
 Bellona,Mythological,God,https://en.wikipedia.org/wiki/Bellona_(goddess)
+Boreas,Mythological,God,https://en.wikipedia.org/wiki/Boreas
 Calliope,Mythological,God,https://en.wikipedia.org/wiki/Calliope
 Ceres,Mythological,God,https://en.wikipedia.org/wiki/Ceres_(mythology)
 Clio,Mythological,God,https://en.wikipedia.org/wiki/Clio
@@ -2117,28 +2786,45 @@ Freyja,Mythological,God,https://en.wikipedia.org/wiki/Freyja
 Gefjon,Mythological,God,https://en.wikipedia.org/wiki/Gefjon
 Hephaestus,Mythological,God,https://en.wikipedia.org/wiki/Hephaestus
 Hermes,Mythological,God,https://en.wikipedia.org/wiki/Hermes
+Hesperus,Mythological,God,https://en.wikipedia.org/wiki/Hesperus
+Hyperion,Mythological,God,https://en.wikipedia.org/wiki/Hyperion_(Titan)
 Iris,Mythological,God,https://en.wikipedia.org/wiki/Iris_(mythology)
 Isis,Mythological,God,https://en.wikipedia.org/wiki/Isis
+Janus,Mythological,God,https://en.wikipedia.org/wiki/Janus
 Juno,Mythological,God,https://en.wikipedia.org/wiki/Juno_(mythology)
+Jupiter,Mythological,God,https://en.wikipedia.org/wiki/Jupiter_(god)
 Leto,Mythological,God,https://en.wikipedia.org/wiki/Leto
 Mars,Mythological,God,https://en.wikipedia.org/wiki/Mars_(mythology)
 Melpomene,Mythological,God,https://en.wikipedia.org/wiki/Melpomene
 Mercury,Mythological,God,https://en.wikipedia.org/wiki/Mercury_(mythology)
 Minerva,Mythological,God,https://en.wikipedia.org/wiki/Minerva
+Nemesis,Mythological,God,https://en.wikipedia.org/wiki/Nemesis
+Nereus,Mythological,God,https://en.wikipedia.org/wiki/Nereus
 Nerthus,Mythological,God,https://en.wikipedia.org/wiki/Nerthus
 Odin,Mythological,God,https://en.wikipedia.org/wiki/Odin
+Osiris,Mythological,God,https://en.wikipedia.org/wiki/Osiris
 Peloreus,Mythological,God,https://en.wikipedia.org/wiki/Peloreus_(mythology)
 Phaeton,Mythological,God,https://en.wikipedia.org/wiki/Phaethon
+Phoebe,Mythological,God,https://en.wikipedia.org/wiki/Phoebe_(Titaness)
 Phoebe (Titaness),Mythological,God,https://en.wikipedia.org/wiki/Phoebe_(Titaness)
 Pomona,Mythological,God,https://en.wikipedia.org/wiki/Pomona_(mythology)
 Poseidon,Mythological,God,https://en.wikipedia.org/wiki/Poseidon
 Prometheus,Mythological,God,https://en.wikipedia.org/wiki/Prometheus
 Proserpina,Mythological,God,https://en.wikipedia.org/wiki/Proserpina
 Quetzalcoatl,Mythological,God,https://en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl
+Saturn,Mythological,God,https://en.wikipedia.org/wiki/Saturn_(mythology)
+Serapis,Mythological,God,https://en.wikipedia.org/wiki/Serapis
 Terpsichore,Mythological,God,https://en.wikipedia.org/wiki/Terpsichore
+The Trinity,Mythological,God,https://en.wikipedia.org/wiki/Trinity
+Urania,Mythological,God,https://en.wikipedia.org/wiki/Urania
 Venus,Mythological,God,https://en.wikipedia.org/wiki/Venus_(mythology)
+Zephyrus,Mythological,God,https://en.wikipedia.org/wiki/Zephyrus
+Zephyrus,Mythological,God,https://en.wikipedia.org/wiki/Zephyrus
 Zeus,Mythological,God,https://en.wikipedia.org/wiki/Zeus
 Argonauts,Mythological,Group,https://en.wikipedia.org/wiki/Argonauts
+Paladins,Mythological,Group,https://en.wikipedia.org/wiki/Paladin
+Wizard,Mythological,Group,https://en.wikipedia.org/wiki/Magician_(fantasy)
+Achates,Mythological,Hero,https://en.wikipedia.org/wiki/Achates_(Aeneid)
 Achilles,Mythological,Hero,https://en.wikipedia.org/wiki/Achilles
 Ajax the Great,Mythological,Hero,https://en.wikipedia.org/wiki/Ajax_the_Great
 Amphion,Mythological,Hero,https://en.wikipedia.org/wiki/Amphion_and_Zethus
@@ -2155,48 +2841,108 @@ Castor,Mythological,Hero,https://en.wikipedia.org/wiki/Castor_and_Pollux
 Daedalus,Mythological,Hero,https://en.wikipedia.org/wiki/Daedalus
 Danae,Mythological,Hero,https://en.wikipedia.org/wiki/Dana%C3%AB
 Diomedes,Mythological,Hero,https://en.wikipedia.org/wiki/Diomedes
+Electra,Mythological,Hero,https://en.wikipedia.org/wiki/Electra
 Endymion,Mythological,Hero,https://en.wikipedia.org/wiki/Endymion_(mythology)
 Europa,Mythological,Hero,https://en.wikipedia.org/wiki/Europa_(consort_of_Zeus)
 Euryalus,Mythological,Hero,https://en.wikipedia.org/wiki/Argonauts
+Florizel,Mythological,Hero,https://en.wikipedia.org/wiki/Florizel_(The_Winter%27s_Tale)
+Hafren,Mythological,Hero,https://en.wikipedia.org/wiki/Hafren
 Hector,Mythological,Hero,https://en.wikipedia.org/wiki/Hector
 Heracles,Mythological,Hero,https://en.wikipedia.org/wiki/Heracles
 Hermione,Mythological,Hero,https://en.wikipedia.org/wiki/Hermione_(mythology)
 Hyacinth,Mythological,Hero,https://en.wikipedia.org/wiki/Hyacinth_(mythology)
+Icarus,Mythological,Hero,https://en.wikipedia.org/wiki/Icarus
+Imogen,Mythological,Hero,https://en.wikipedia.org/wiki/Imogen_(Cymbeline)
 Iphigenia,Mythological,Hero,https://en.wikipedia.org/wiki/Iphigenia
 "Jason, Leader of the Argonauts",Mythological,Hero,https://en.wikipedia.org/wiki/Jason
 King Arthur,Mythological,Hero,https://en.wikipedia.org/wiki/King_Arthur
+Laertes,Mythological,Hero,https://en.wikipedia.org/wiki/Laertes_(father_of_Odysseus)
 Leander,Mythological,Hero,https://en.wikipedia.org/wiki/Hero_and_Leander
 Magician,Mythological,Hero,https://en.wikipedia.org/wiki/Magician_(fantasy)
 Medea,Mythological,Hero,https://en.wikipedia.org/wiki/Medea
 Melampus,Mythological,Hero,https://en.wikipedia.org/wiki/Melampus
 Merlin,Mythological,Hero,https://en.wikipedia.org/wiki/Merlin
+Minos,Mythological,Hero,https://en.wikipedia.org/wiki/Minos
+Miranda,Mythological,Hero,https://en.wikipedia.org/wiki/Miranda_(The_Tempest)
 Narcissus,Mythological,Hero,https://en.wikipedia.org/wiki/Narcissus_(mythology)
+Nerissa,Mythological,Hero,https://en.wikipedia.org/wiki/The_Merchant_of_Venice
+Nessus,Mythological,Hero,https://en.wikipedia.org/wiki/Nessus_(centaur)
+Nestor,Mythological,Hero,https://en.wikipedia.org/wiki/Nestor_(mythology)
+Nimrod,Mythological,Hero,https://en.wikipedia.org/wiki/Nimrod
 Niobe,Mythological,Hero,https://en.wikipedia.org/wiki/Niobe
+Nisus,Mythological,Hero,https://en.wikipedia.org/wiki/Nisus_and_Euryalus
+Odysseus,Mythological,Hero,https://en.wikipedia.org/wiki/Odysseus
+Ophelia,Mythological,Hero,https://en.wikipedia.org/wiki/Ophelia
+Orestes,Mythological,Hero,https://en.wikipedia.org/wiki/Orestes
+Oriana,Mythological,Hero,https://en.wikipedia.org/wiki/Amad%C3%ADs_de_Gaula
 Orion,Mythological,Hero,https://en.wikipedia.org/wiki/Orion_(mythology)
+Orlando,Mythological,Hero,https://en.wikipedia.org/wiki/Orlando_(As_You_Like_It)
+Orpheus,Mythological,Hero,https://en.wikipedia.org/wiki/Orpheus
 Pandora,Mythological,Hero,https://en.wikipedia.org/wiki/Pandora
 Penelope,Mythological,Hero,https://en.wikipedia.org/wiki/Penelope
 Perseus,Mythological,Hero,https://en.wikipedia.org/wiki/Perseus
 Philomela,Mythological,Hero,https://en.wikipedia.org/wiki/Philomela
+Phra Ruang,Mythological,Hero,https://en.wikipedia.org/wiki/Phra_Ruang
+Portia,Mythological,Hero,https://en.wikipedia.org/wiki/Portia_(The_Merchant_of_Venice)
+Portia,Mythological,Hero,https://en.wikipedia.org/wiki/Portia_(The_Merchant_of_Venice)
 Psyche,Mythological,Hero,https://en.wikipedia.org/wiki/Psyche_(mythology)
+Pylades,Mythological,Hero,https://en.wikipedia.org/wiki/Pylades
 Pyramus,Mythological,Hero,https://en.wikipedia.org/wiki/Pyramus_and_Thisbe
+Quentin Durward,Mythological,Hero,https://en.wikipedia.org/wiki/Quentin_Durward
 Renaud de Montauban,Mythological,Hero,https://en.wikipedia.org/wiki/Renaud_de_Montauban
+Rhea Silvia,Mythological,Hero,https://en.wikipedia.org/wiki/Rhea_Silvia
+Romola,Mythological,Hero,https://en.wikipedia.org/wiki/Romola
+Rosalind,Mythological,Hero,https://en.wikipedia.org/wiki/Rosalind_(As_You_Like_It)
+Sarpedon,Mythological,Hero,https://en.wikipedia.org/wiki/Sarpedon_(Trojan_War_hero)
+Tancred,Mythological,Hero,https://en.wikipedia.org/wiki/Jerusalem_Delivered#Plot_summary
+Telemachus,Mythological,Hero,https://en.wikipedia.org/wiki/Telemachus
+The Lady Rowena,Mythological,Hero,https://en.wikipedia.org/wiki/Ivanhoe
 Theseus,Mythological,Hero,https://en.wikipedia.org/wiki/Theseus
+Thisbe,Mythological,Hero,https://en.wikipedia.org/wiki/Pyramus_and_Thisbe
 Till Eulenspiegel,Mythological,Hero,https://en.wikipedia.org/wiki/Till_Eulenspiegel
+Tristan,Mythological,Hero,https://en.wikipedia.org/wiki/Tristan
+Vanoc,Mythological,Hero,https://en.wikipedia.org/wiki/The_Bridal_of_Triermain
+Viola,Mythological,Hero,https://en.wikipedia.org/wiki/Viola_(Twelfth_Night)
+Young Lochinvar,Mythological,Hero,https://en.wikipedia.org/wiki/Marmion_(poem)
 Amazons,Mythological,People,https://en.wikipedia.org/wiki/Amazons
+Myrmidons,Mythological,People,https://en.wikipedia.org/wiki/Myrmidons
 Fusang,Mythological,Place,https://en.wikipedia.org/wiki/Fusang
 Shangri-La,Mythological,Place,https://en.wikipedia.org/wiki/Shangri-La
+Valhalla,Mythological,Place,https://en.wikipedia.org/wiki/Valhalla
 Vineta,Mythological,Place,https://en.wikipedia.org/wiki/Vineta
+Abdiel,Mythological,Spirit,https://en.wikipedia.org/wiki/Paradise_Lost
+Acaste,Mythological,Spirit,https://en.wikipedia.org/wiki/Acaste_(Oceanid)
 Arethusa,Mythological,Spirit,https://en.wikipedia.org/wiki/Arethusa_(nymph)
+Ariel,Mythological,Spirit,https://en.wikipedia.org/wiki/Ariel_(The_Tempest)
+Banshee,Mythological,Spirit,https://en.wikipedia.org/wiki/Banshee
 Calypso,Mythological,Spirit,https://en.wikipedia.org/wiki/Calypso_(mythology)
 Doris,Mythological,Spirit,https://en.wikipedia.org/wiki/Doris_(Oceanid)
 Dryad,Mythological,Spirit,https://en.wikipedia.org/wiki/Dryad
+Echo,Mythological,Spirit,https://en.wikipedia.org/wiki/Echo_(mythology)
+Gabriel,Mythological,Spirit,https://en.wikipedia.org/wiki/Gabriel
 Galatea,Mythological,Spirit,https://en.wikipedia.org/wiki/Acis_and_Galatea
+Ithuriel,Mythological,Spirit,https://en.wikipedia.org/wiki/Ithuriel
+Lady of the Lake,Mythological,Spirit,https://en.wikipedia.org/wiki/Lady_of_the_Lake
+Lucifer,Mythological,Spirit,https://en.wikipedia.org/wiki/Lucifer
 Maenad,Mythological,Spirit,https://en.wikipedia.org/wiki/Maenad
 Medusa,Mythological,Spirit,https://en.wikipedia.org/wiki/Medusa
+Michael,Mythological,Spirit,https://en.wikipedia.org/wiki/Michael_(archangel)
 Naiad,Mythological,Spirit,https://en.wikipedia.org/wiki/Naiad
+Nereids,Mythological,Spirit,https://en.wikipedia.org/wiki/Nereids
 Nymph,Mythological,Spirit,https://en.wikipedia.org/wiki/Nymph
+Oberon,Mythological,Spirit,https://en.wikipedia.org/wiki/Oberon
+Satyr,Mythological,Spirit,https://en.wikipedia.org/wiki/Satyr
+Seraph,Mythological,Spirit,https://en.wikipedia.org/wiki/Seraph
+Sylph,Mythological,Spirit,https://en.wikipedia.org/wiki/Sylph
 Thetis,Mythological,Spirit,https://en.wikipedia.org/wiki/Thetis
-Undines,Mythological,Spirit,https://en.wikipedia.org/wiki/Undine
+Undine,Mythological,Spirit,https://en.wikipedia.org/wiki/Undine
+Valkyrie,Mythological,Spirit,https://en.wikipedia.org/wiki/Valkyrie
+Ivanhoe,Mythological,Story,https://en.wikipedia.org/wiki/Ivanhoe
+Marmion,Mythological,Story,https://en.wikipedia.org/wiki/Marmion_(poem)
+Orlando Furioso,Mythological,Story,https://en.wikipedia.org/wiki/Orlando_Furioso
+Redgauntlet,Mythological,Story,https://en.wikipedia.org/wiki/Redgauntlet
+The Talisman,Mythological,Story,https://en.wikipedia.org/wiki/The_Talisman_(Scott_novel)
+Westward Ho!,Mythological,Story,https://en.wikipedia.org/wiki/Westward_Ho!_(novel)
 Devine Storm,Mythological,,https://en.wikipedia.org/wiki/Kamikaze_(typhoon)
 Fast Bird,Mythological,,https://ja.wikipedia.org/wiki/%E9%80%9F%E9%B3%A5
 Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_League
@@ -2219,6 +2965,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Bath, England, UK",Political,City,"https://en.wikipedia.org/wiki/Bath,_Somerset"
 "Belfast, Northern Ireland, UK",Political,City,https://en.wikipedia.org/wiki/Belfast
 "Belmont, England, UK",Political,City,"https://en.wikipedia.org/wiki/Belmont,_Lancashire"
+"Bergen, Norway",Political,City,https://en.wikipedia.org/wiki/Bergen
 "Berlin, Berlin, Germany",Political,City,https://en.wikipedia.org/wiki/Berlin
 "Beverley, England, UK",Political,City,https://en.wikipedia.org/wiki/Beverley
 "Biloxi, Mississippi, US",Political,City,"https://en.wikipedia.org/wiki/Biloxi,_Mississippi"
@@ -2243,6 +2990,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Burwell, England, UK",Political,City,"https://en.wikipedia.org/wiki/Burwell,_Cambridgeshire"
 "Busan, South Korea",Political,City,https://en.wikipedia.org/wiki/Busan
 "Buxton, England, UK",Political,City,https://en.wikipedia.org/wiki/Buxton
+"Cairo, Egypt",Political,City,https://en.wikipedia.org/wiki/Cairo
 "Cairo, Egypt",Political,City,https://en.wikipedia.org/wiki/Cairo
 "Caldwell, England, UK",Political,City,"https://en.wikipedia.org/wiki/Caldwell,_North_Yorkshire"
 "Cambridge, Massachusetts, US",Political,City,"https://en.wikipedia.org/wiki/Cambridge,_Massachusetts"
@@ -2270,6 +3018,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Chicago, Illinois, US",Political,City,https://en.wikipedia.org/wiki/Chicago
 "Churchill, England, UK",Political,City,"https://en.wikipedia.org/wiki/Churchill,_Oxfordshire"
 "Cincinnati, Ohio, US",Political,City,https://en.wikipedia.org/wiki/Cincinnati
+"City of Westminster, England, UK",Political,City,https://en.wikipedia.org/wiki/City_of_Westminster
 "Clare, England, UK",Political,City,"https://en.wikipedia.org/wiki/Clare,_Suffolk"
 "Cleveland, Ohio, US",Political,City,https://en.wikipedia.org/wiki/Cleveland
 "Colmar, Alsace, France",Political,City,https://en.wikipedia.org/wiki/Colmar
@@ -2299,6 +3048,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Durban, South Africa",Political,City,https://en.wikipedia.org/wiki/Durban
 "Edinburgh, Scotland, UK",Political,City,https://en.wikipedia.org/wiki/Edinburgh
 "Egremont, England, UK",Political,City,"https://en.wikipedia.org/wiki/Egremont,_Cumbria"
+"Elath, Isreal",Political,City,https://en.wikipedia.org/wiki/Elath
 "Elblag, Warmian-Masurian Voivodeship, Poland",Political,City,https://en.wikipedia.org/wiki/Elbl%C4%85g
 "Emden, Lower Saxony, Germany",Political,City,https://en.wikipedia.org/wiki/Emden
 "Ersatz Karlsruhe, Baden-Wurttemberg, Germany",Political,City,https://en.wikipedia.org/wiki/Karlsruhe
@@ -2328,9 +3078,11 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Hamburg, Hamburg, Germany",Political,City,https://en.wikipedia.org/wiki/Hamburg
 "Hamilton, Bermuda, UK",Political,City,"https://en.wikipedia.org/wiki/Hamilton,_Bermuda"
 "Hanyang, Hubei, China",Political,City,"https://en.wikipedia.org/wiki/Hanyang,_Wuhan"
+"Havant, England, UK",Political,City,https://en.wikipedia.org/wiki/Havant
 "Helena, Montana, US",Political,City,"https://en.wikipedia.org/wiki/Helena,_Montana"
 "Hengyang, Hunan, China",Political,City,https://en.wikipedia.org/wiki/Hengyang
 "Hirado, Nagasaki, Japan",Political,City,"https://en.wikipedia.org/wiki/Hirado,_Nagasaki"
+"Hobart, Tasmania, Australia",Political,City,https://en.wikipedia.org/wiki/Hobart
 "Honolulu, Hawaii, US",Political,City,https://en.wikipedia.org/wiki/Honolulu
 "Houston, Texas, US",Political,City,https://en.wikipedia.org/wiki/Houston
 "Huayang, Guangdong, China",Political,City,"https://en.wikipedia.org/wiki/Huayang,_Wuhua_County"
@@ -2342,6 +3094,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Istanbul, Istanbul, Turkey",Political,City,https://en.wikipedia.org/wiki/Istanbul
 "İzmir, İzmir, Turkey",Political,City,https://en.wikipedia.org/wiki/%C4%B0zmir
 "Izmit, Kocaeli, Turkey",Political,City,https://en.wikipedia.org/wiki/%C4%B0zmit
+"Jaffa, Israel",Political,City,https://en.wikipedia.org/wiki/Old_Jaffa
 "Jeonju, North Jeolla, South Korea",Political,City,https://en.wikipedia.org/wiki/Jeonju
 "Jianyang, Fujian, China",Political,City,"https://en.wikipedia.org/wiki/Jianyang,_Nanping"
 "Jiyuan, Henan, China",Political,City,https://en.wikipedia.org/wiki/Jiyuan
@@ -2351,10 +3104,14 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Kashihara, Nara, Japan",Political,City,"https://en.wikipedia.org/wiki/Kashihara,_Nara"
 "Katoomba, New South Wales, Australia",Political,City,https://en.wikipedia.org/wiki/Katoomba
 "Keelung, Taiwan",Political,City,https://en.wikipedia.org/wiki/Keelung
+"Khartoum, Khartoum, Sudan",Political,City,https://en.wikipedia.org/wiki/Khartoum
 "Kolberg, West Pomeranian Voivodeship, Poland",Political,City,https://en.wikipedia.org/wiki/West_Pomeranian_Voivodeship
 "Kolkata, West Bengal, India",Political,City,https://en.wikipedia.org/wiki/Kolkata
+"Kotor, Montenegro",Political,City,https://en.wikipedia.org/wiki/Kotor
 "Laiyang, Shandong, China",Political,City,https://en.wikipedia.org/wiki/Laiyang
 "Lancaster, England, UK",Political,City,"https://en.wikipedia.org/wiki/Lancaster,_Lancashire"
+"Larne, Northern Ireland, UK",Political,City,https://en.wikipedia.org/wiki/Larne
+"Larne, Northern Ireland, UK",Political,City,https://en.wikipedia.org/wiki/Larne
 "Leeds, England, UK",Political,City,https://en.wikipedia.org/wiki/Leeds
 "Leipzig, Saxony, Germany",Political,City,https://en.wikipedia.org/wiki/Leipzig
 "Lewes, England, UK",Political,City,https://en.wikipedia.org/wiki/Lewes
@@ -2383,6 +3140,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Metz, Grand Est, France",Political,City,https://en.wikipedia.org/wiki/Metz
 "Miami, Florida, US",Political,City,https://en.wikipedia.org/wiki/Miami
 "Mildura, Victoria, Australia",Political,City,https://en.wikipedia.org/wiki/Mildura
+"Millbrook, England, UK",Political,City,"https://en.wikipedia.org/wiki/Millbrook,_Southampton"
 "Milwaukee, Wisconsin, US",Political,City,https://en.wikipedia.org/wiki/Milwaukee
 "Minneapolis, Minnesota, US",Political,City,https://en.wikipedia.org/wiki/Minneapolis
 "Missoula, Montana, US",Political,City,"https://en.wikipedia.org/wiki/Missoula,_Montana"
@@ -2416,6 +3174,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Olympia, Washington, US",Political,City,"https://en.wikipedia.org/wiki/Olympia,_Washington"
 "Omaha, Nebraska, US",Political,City,"https://en.wikipedia.org/wiki/Omaha,_Nebraska"
 "Oregon City, Oregon, US",Political,City,"https://en.wikipedia.org/wiki/Oregon_City,_Oregon"
+"Oslo, Norway",Political,City,https://en.wikipedia.org/wiki/Oslo
 "Paris, Ile-de-France, France",Political,City,https://en.wikipedia.org/wiki/Paris
 "Pasadena, California, US",Political,City,"https://en.wikipedia.org/wiki/Pasadena,_California"
 "Pembroke, Wales, UK",Political,City,"https://en.wikipedia.org/wiki/Pembroke,_Pembrokeshire"
@@ -2430,7 +3189,9 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Pretoria, South Africa",Political,City,https://en.wikipedia.org/wiki/Pretoria
 "Providence, Rhode Island, US",Political,City,"https://en.wikipedia.org/wiki/Providence,_Rhode_Island"
 "Pueblo, Colorado, US",Political,City,"https://en.wikipedia.org/wiki/Pueblo,_Colorado"
+"Pula, Croatia",Political,City,https://en.wikipedia.org/wiki/Pula
 "Qingyang, Gansu, China",Political,City,"https://en.wikipedia.org/wiki/Qingyang_Subdistrict,_Jinjiang"
+"Queenborough, England, UK",Political,City,https://en.wikipedia.org/wiki/Queenborough
 "Quincy, Massachusetts, US",Political,City,"https://en.wikipedia.org/wiki/Quincy,_Massachusetts"
 "Rabaul, Papua New Guinea",Political,City,https://en.wikipedia.org/wiki/Rabaul
 "Raleigh, North Carolina, US",Political,City,"https://en.wikipedia.org/wiki/Raleigh,_North_Carolina"
@@ -2448,6 +3209,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Rostock, Mecklenburg-Western Pomerania, Germany",Political,City,https://en.wikipedia.org/wiki/Rostock
 "Rouen, Normandy, France",Political,City,https://en.wikipedia.org/wiki/Rouen
 "Roxburgh, Scotland, UK",Political,City,https://en.wikipedia.org/wiki/Roxburgh
+"Royal Borough of Kingston upon Thames, London, England, UK",Political,City,https://en.wikipedia.org/wiki/Royal_Borough_of_Kingston_upon_Thames
 "Royal Leamington Spa, England, UK",Political,City,https://en.wikipedia.org/wiki/Leamington_Spa
 "Saint Paul, Minnesota, US",Political,City,"https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota"
 "Salem, Massachusetts, US",Political,City,"https://en.wikipedia.org/wiki/Salem,_Massachusetts"
@@ -2476,6 +3238,8 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "St. Louis, Missouri, US",Political,City,https://en.wikipedia.org/wiki/St._Louis
 "St. Mary's, England, UK",Political,City,"https://en.wikipedia.org/wiki/St_Mary%27s,_Isles_of_Scilly"
 "Stanley, England, UK",Political,City,"https://en.wikipedia.org/wiki/Stanley,_County_Durham"
+"Stavanger, Norway",Political,City,https://en.wikipedia.org/wiki/Stavanger
+"Stirling, Scotland, UK",Political,City,https://en.wikipedia.org/wiki/Stirling
 "Stralsund, Mecklenburg-Western Pomerania, Germany",Political,City,https://en.wikipedia.org/wiki/Stralsund
 "Strasbourg, Grand Est, France",Political,City,https://en.wikipedia.org/wiki/Strasbourg
 "Stuttgart, Baden-Wurttemberg, Germany",Political,City,https://en.wikipedia.org/wiki/Stuttgart
@@ -2487,11 +3251,14 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Taranto, Apulia, Italy",Political,City,https://en.wikipedia.org/wiki/Taranto
 "Tauranga, New Zealand",Political,City,https://en.wikipedia.org/wiki/Tauranga
 "Thionville, Grand Est, France",Political,City,https://en.wikipedia.org/wiki/Thionville
+"Tilbury, England, UK",Political,City,https://en.wikipedia.org/wiki/Tilbury
 "Tınaztepe, Afyonkarahisar, Turkey",Political,City,"https://en.wikipedia.org/wiki/T%C4%B1naztepe,_Sinanpa%C5%9Fa"
 "Toledo, Ohio, US",Political,City,"https://en.wikipedia.org/wiki/Toledo,_Ohio"
 "Tongyeong, South Gyeongsang Province, South Korea",Political,City,https://en.wikipedia.org/wiki/Tongyeong
 "Topeka, Kansas, US",Political,City,"https://en.wikipedia.org/wiki/Topeka,_Kansas"
+"Torbay, England, UK",Political,City,https://en.wikipedia.org/wiki/Torbay
 "Trenton, New Jersey, US",Political,City,"https://en.wikipedia.org/wiki/Trenton,_New_Jersey"
+"Trondheim, Norway",Political,City,https://en.wikipedia.org/wiki/Trondheim
 "Tucson, Arizona, US",Political,City,"https://en.wikipedia.org/wiki/Tucson,_Arizona"
 "Tuscaloosa, Alabama, US",Political,City,"https://en.wikipedia.org/wiki/Tuscaloosa,_Alabama"
 "Vallejo, California, US",Political,City,"https://en.wikipedia.org/wiki/Vallejo,_California"
@@ -2499,6 +3266,7 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Vincennes, Indiana, US",Political,City,"https://en.wikipedia.org/wiki/Vincennes,_Indiana"
 "Wallaroo, South Australia, Australia",Political,City,"https://en.wikipedia.org/wiki/Wallaroo,_South_Australia"
 "Wallington, Victoria, Australia",Political,City,"https://en.wikipedia.org/wiki/Wallington,_Victoria"
+"Warwick, England, UK",Political,City,https://en.wikipedia.org/wiki/Warwick
 "Wells, England, UK",Political,City,"https://en.wikipedia.org/wiki/Wells,_Somerset"
 "Weymouth, England, UK",Political,City,"https://en.wikipedia.org/wiki/Weymouth,_Dorset"
 "Wichita, Kansas, US",Political,City,"https://en.wikipedia.org/wiki/Wichita,_Kansas"
@@ -2506,6 +3274,10 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "Wilkes-Barre, Pennsylvania, US",Political,City,"https://en.wikipedia.org/wiki/Wilkes-Barre,_Pennsylvania"
 "Wilmington, Delaware, US",Political,City,"https://en.wikipedia.org/wiki/Wilmington,_Delaware"
 "Wilmington, North Carolina, US",Political,City,"https://en.wikipedia.org/wiki/Wilmington,_North_Carolina"
+"Winchelsea, England, UK",Political,City,https://en.wikipedia.org/wiki/Winchelsea
+"Winchester, England, UK",Political,City,https://en.wikipedia.org/wiki/Winchester
+"Windsor, England, UK",Political,City,"https://en.wikipedia.org/wiki/Windsor,_Berkshire"
+"Worcester, England, UK",Political,City,"https://en.wikipedia.org/wiki/Worcester,_England"
 "Worcester, Massachusetts, US",Political,City,"https://en.wikipedia.org/wiki/Worcester,_Massachusetts"
 "Wrocław, Lower Silesian Voivodeship, Poland",Political,City,https://en.wikipedia.org/wiki/Wroc%C5%82aw
 "Xiangyang, Hubei, China",Political,City,https://en.wikipedia.org/wiki/Xiangyang
@@ -2515,16 +3287,6 @@ Hanseatic League,Political,Alliance,https://en.wikipedia.org/wiki/Hanseatic_Leag
 "York, Pennsylvania, US",Political,City,"https://en.wikipedia.org/wiki/York,_Pennsylvania"
 "Youngstown, Ohio, US",Political,City,"https://en.wikipedia.org/wiki/Youngstown,_Ohio"
 "Ziyang, Sichuan, China",Political,City,https://en.wikipedia.org/wiki/Ziyang
-Clan Henderson,Political,Clan,https://en.wikipedia.org/wiki/Clan_Henderson
-Clan MacAlpine,Political,Clan,https://en.wikipedia.org/wiki/Clan_MacAlpine
-Clan MacAndrew,Political,Clan,https://en.wikipedia.org/wiki/Clan_Anderson
-Clan MacCabe,Political,Clan,https://en.wikipedia.org/wiki/MacCallum
-Clan MacColl,Political,Clan,https://en.wikipedia.org/wiki/MacColl
-Clan MacDermott,Political,Clan,https://en.wikipedia.org/wiki/Mac_Diarmada
-Clan Mackay,Political,Clan,https://en.wikipedia.org/wiki/Clan_Mackay
-Clan MacMahon,Political,Clan,https://en.wikipedia.org/wiki/McMahon_clans
-Clan Macrae,Political,Clan,https://en.wikipedia.org/wiki/Clan_Macrae
-Clan Malcolm,Political,Clan,https://en.wikipedia.org/wiki/Clan_Malcolm
 "Bermuda, UK",Political,Colony,https://en.wikipedia.org/wiki/Bermuda
 British Ceylon,Political,Colony,https://en.wikipedia.org/wiki/British_Ceylon
 British Mauritius,Political,Colony,https://en.wikipedia.org/wiki/British_Mauritius
@@ -2545,13 +3307,16 @@ Trinidad and Tobago,Political,Colony,https://en.wikipedia.org/wiki/History_of_Tr
 "Caernarfonshire, Wales, UK",Political,County,https://en.wikipedia.org/wiki/Caernarfonshire
 "Cornwall, England, UK",Political,County,https://en.wikipedia.org/wiki/Cornwall
 "County Antrim, Northern Ireland, UK",Political,County,https://en.wikipedia.org/wiki/County_Antrim
+"County Antrim, Northern Ireland, UK",Political,County,https://en.wikipedia.org/wiki/County_Antrim
 "County Donegal, Northern Ireland, UK",Political,County,https://en.wikipedia.org/wiki/County_Donegal
 "Cumberland, England, UK",Political,County,https://en.wikipedia.org/wiki/Cumberland
 "Devonshire, England, UK",Political,County,https://en.wikipedia.org/wiki/Devon
 "Dorset, England, UK",Political,County,https://en.wikipedia.org/wiki/Dorset
 "Essex County, Massachusetts, US",Political,County,"https://en.wikipedia.org/wiki/Essex_County,_Massachusetts"
 "Essex, England, UK",Political,County,https://en.wikipedia.org/wiki/Essex
+"Fife, Scotland, UK",Political,County,https://en.wikipedia.org/wiki/Fife
 "Friesland, Lower Saxony, Germany",Political,County,https://en.wikipedia.org/wiki/Friesland_(district)
+"Glamorgan, Wales, UK",Political,County,https://en.wikipedia.org/wiki/Glamorgan
 "Hampshire, England, UK",Political,County,https://en.wikipedia.org/wiki/Hampshire
 "Huiyang District, Guangdong, China",Political,County,https://en.wikipedia.org/wiki/Huiyang_District
 "Kaiyang, Guizhou, China",Political,County,https://en.wikipedia.org/wiki/Kaiyang_County
@@ -2572,11 +3337,49 @@ Trinidad and Tobago,Political,Colony,https://en.wikipedia.org/wiki/History_of_Tr
 "Swabia, Bavaria, Germany",Political,County,https://en.wikipedia.org/wiki/Swabia
 "Ye County, Henan, China",Political,County,https://en.wikipedia.org/wiki/Ye_County
 "Yunyang, Chongqing, China",Political,County,https://en.wikipedia.org/wiki/Yunyang_County
+Manxman,Political,Demonym,https://en.wikipedia.org/wiki/Manxman
+Trojan,Political,Demonym,https://en.wikipedia.org/wiki/Troy
+Tuscan,Political,Demonym,https://en.wikipedia.org/wiki/Tuscany
+Tyrian,Political,Demonym,"https://en.wikipedia.org/wiki/Tyre,_Lebanon"
 "Osu, Nagoya, Aichi, Japan",Political,District,https://en.wikipedia.org/wiki/%C5%8Csu
+"Whitehall, London, England, UK",Political,District,https://en.wikipedia.org/wiki/Whitehall
+Dene,Political,Language Group,https://en.wikipedia.org/wiki/Athabaskan_languages
+Algonquin,Political,Nation,https://en.wikipedia.org/wiki/Algonquin_people
+Arabs,Political,Nation,https://en.wikipedia.org/wiki/Arabs
+Arrernte,Political,Nation,https://en.wikipedia.org/wiki/Arrernte_people
+Cossacks,Political,Nation,https://en.wikipedia.org/wiki/Cossacks
 Gauls,Political,Nation,https://en.wikipedia.org/wiki/Gauls
+Haida,Political,Nation,https://en.wikipedia.org/wiki/Haida_people
+Inuit,Political,Nation,https://en.wikipedia.org/wiki/Inuit
+Iroquois,Political,Nation,https://en.wikipedia.org/wiki/Iroquois
+Kurnai,Political,Nation,https://en.wikipedia.org/wiki/Gunaikurnai_people
+Maori,Political,Nation,https://en.wikipedia.org/wiki/M%C4%81ori_people
+Mi'kmaq,Political,Nation,https://en.wikipedia.org/wiki/Mi%27kmaq
+Nepali,Political,Nation,https://en.wikipedia.org/wiki/Nepalis
+Nepalis,Political,Nation,https://en.wikipedia.org/wiki/Nepalis
 Nihon,Political,Nation,https://en.wikipedia.org/wiki/Japan
+Normans,Political,Nation,https://en.wikipedia.org/wiki/Normans
+Norsemen,Political,Nation,https://en.wikipedia.org/wiki/Norsemen
+Nubian,Political,Nation,https://en.wikipedia.org/wiki/Nubians
+Nubians,Political,Nation,https://en.wikipedia.org/wiki/Nubians
+Nuu-chah-nulth,Political,Nation,https://en.wikipedia.org/wiki/Nuu-chah-nulth
 Ojibwe,Political,Nation,https://en.wikipedia.org/wiki/Ojibwe
+Parthian,Political,Nation,https://en.wikipedia.org/wiki/Parthia
 Persian,Political,Nation,https://en.wikipedia.org/wiki/Persians
+Punjabi,Political,Nation,https://en.wikipedia.org/wiki/Punjabis
+Rajput,Political,Nation,https://en.wikipedia.org/wiki/Rajput
+Romani,Political,Nation,https://en.wikipedia.org/wiki/Romani_people
+Scots,Political,Nation,https://en.wikipedia.org/wiki/Scottish_people
+Sikh,Political,Nation,https://en.wikipedia.org/wiki/Sikhs
+Sioux,Political,Nation,https://en.wikipedia.org/wiki/Sioux
+Somali,Political,Nation,https://en.wikipedia.org/wiki/Somalis
+Tatar,Political,Nation,https://en.wikipedia.org/wiki/Tatars
+Tatars,Political,Nation,https://en.wikipedia.org/wiki/Tatars
+Thracians,Political,Nation,https://en.wikipedia.org/wiki/Thracians
+Veneti,Political,Nation,https://en.wikipedia.org/wiki/Adriatic_Veneti
+Wyandot,Political,Nation,https://en.wikipedia.org/wiki/Wyandot_people
+Zulu,Political,Nation,https://en.wikipedia.org/wiki/Zulu_people
+Zulus,Political,Nation,https://en.wikipedia.org/wiki/Zulu_people
 Federated Malay States,Political,Protectorate,https://en.wikipedia.org/wiki/Federated_Malay_States
 Protectorate of Uganda,Political,Protectorate,https://en.wikipedia.org/wiki/Protectorate_of_Uganda
 "Aki Province, Japan",Political,Province,https://en.wikipedia.org/wiki/Aki_Province
@@ -2664,6 +3467,7 @@ Protectorate of Uganda,Political,Protectorate,https://en.wikipedia.org/wiki/Prot
 "Province of Pomerania, Prussia, Germany",Political,Province,https://en.wikipedia.org/wiki/Province_of_Pomerania_(1815%E2%80%931945)
 "Province of Posen, Prussia, Germany",Political,Province,https://en.wikipedia.org/wiki/Province_of_Posen
 "Province of Silesia, Prussia, Germany",Political,Province,https://en.wikipedia.org/wiki/Province_of_Silesia
+"Province of the Orange Free State, South Africa",Political,Province,https://en.wikipedia.org/wiki/Orange_Free_State_(province)
 "Province of Westphalia, Prussia, Germany",Political,Province,https://en.wikipedia.org/wiki/Prussia
 "Prussia, Germany",Political,Province,https://en.wikipedia.org/wiki/Prussia
 "Quebec, Canada",Political,Province,https://en.wikipedia.org/wiki/Quebec
@@ -2692,6 +3496,7 @@ Protectorate of Uganda,Political,Protectorate,https://en.wikipedia.org/wiki/Prot
 "Utah, US",Political,Province,https://en.wikipedia.org/wiki/Utah
 "Vermont, US",Political,Province,https://en.wikipedia.org/wiki/Vermont
 "Virginia, US",Political,Province,https://en.wikipedia.org/wiki/Virginia
+"Wales, UK",Political,Province,https://en.wikipedia.org/wiki/Wales
 "Washington, US",Political,Province,https://en.wikipedia.org/wiki/Washington_(state)
 "West Virginia, US",Political,Province,https://en.wikipedia.org/wiki/West_Virginia
 "Wisconsin, US",Political,Province,https://en.wikipedia.org/wiki/Wisconsin
@@ -2708,15 +3513,43 @@ Ethiopia,Political,State,https://en.wikipedia.org/wiki/Ethiopia
 France,Political,State,https://en.wikipedia.org/wiki/France
 Germany,Political,State,https://en.wikipedia.org/wiki/Germany
 Hindustan,Political,State,https://en.wikipedia.org/wiki/Hindustan
+Kingdom of the West Saxons,Political,State,https://en.wikipedia.org/wiki/Wessex
+Maratha Empire,Political,State,https://en.wikipedia.org/wiki/Maratha_Empire
+Nepal,Political,State,https://en.wikipedia.org/wiki/Nepal
 New Zealand,Political,State,https://en.wikipedia.org/wiki/New_Zealand
 Oglala Lakota,Political,State,https://en.wikipedia.org/wiki/Oglala
 United Kingdom,Political,State,https://en.wikipedia.org/wiki/United_Kingdom
 United States of America,Political,State,https://en.wikipedia.org/wiki/United_States
+Afridi,Political,Tribe,https://en.wikipedia.org/wiki/Afridi
+Asante,Political,Tribe,https://en.wikipedia.org/wiki/Asante_people
+Bedouin,Political,Tribe,https://en.wikipedia.org/wiki/Bedouin
+Cayuga,Political,Tribe,https://en.wikipedia.org/wiki/Cayuga_people
+Clan Campbell,Political,Tribe,https://en.wikipedia.org/wiki/Clan_Campbell
+Clan Henderson,Political,Tribe,https://en.wikipedia.org/wiki/Clan_Henderson
+Clan MacAlpine,Political,Tribe,https://en.wikipedia.org/wiki/Clan_MacAlpine
+Clan MacAndrew,Political,Tribe,https://en.wikipedia.org/wiki/Clan_Anderson
+Clan MacCabe,Political,Tribe,https://en.wikipedia.org/wiki/MacCallum
+Clan MacColl,Political,Tribe,https://en.wikipedia.org/wiki/MacColl
+Clan MacDermott,Political,Tribe,https://en.wikipedia.org/wiki/Mac_Diarmada
+Clan Mackay,Political,Tribe,https://en.wikipedia.org/wiki/Clan_Mackay
+Clan Mackay,Political,Tribe,https://en.wikipedia.org/wiki/Clan_Mackay
+Clan MacMahon,Political,Tribe,https://en.wikipedia.org/wiki/McMahon_clans
+Clan Macrae,Political,Tribe,https://en.wikipedia.org/wiki/Clan_Macrae
+Clan Malcolm,Political,Tribe,https://en.wikipedia.org/wiki/Clan_Malcolm
+Mohawk,Political,Tribe,https://en.wikipedia.org/wiki/Mohawk_people
+Shona,Political,Tribe,https://en.wikipedia.org/wiki/Shona_people
+Southern Ndebele,Political,Tribe,https://en.wikipedia.org/wiki/Southern_Ndebele_people
 Spartan,Political,Tribe,https://en.wikipedia.org/wiki/Sparta
+Warumungu,Political,Tribe,https://en.wikipedia.org/wiki/Warumungu
 "Chihaya Castle, Osaka Prefecture, Japan",Structure,Castle,https://en.wikipedia.org/wiki/Chihaya_Castle
+"White Tower, England, UK",Structure,Castle,https://en.wikipedia.org/wiki/White_Tower_(Tower_of_London)
 "Valley Forge, US",Structure,Fort,https://en.wikipedia.org/wiki/Valley_Forge
+Stonehenge,Structure,Heritage Site,https://en.wikipedia.org/wiki/Stonehenge
+The Crystal Palace,Structure,Heritage Site,https://en.wikipedia.org/wiki/The_Crystal_Palace
 "Su-Ao Naval Base, Taiwan",Structure,Naval Base,https://en.wikipedia.org/wiki/ROCS_Su_Ao
 "Tso Ying Naval Base, Taiwan",Structure,Naval Base,https://en.wikipedia.org/wiki/ROCS_Tso_Ying
+"Chequers Court, England, UK",Structure,Residence,https://en.wikipedia.org/wiki/Chequers
+"Woolston Shipyard, England, UK",Structure,Shipyard,https://en.wikipedia.org/wiki/Centenary_Quay
 "Itsukushima Shrine, Hiroshima Prefecture, Japan",Structure,Shrine,https://en.wikipedia.org/wiki/Itsukushima_Shrine
 "Kashii Shrine, Fukuoka, Japan",Structure,Shrine,https://en.wikipedia.org/wiki/Kashii-g%C5%AB
 "Kashima Shrine, Ibaraki Prefecture, Japan",Structure,Shrine,https://en.wikipedia.org/wiki/Kashima_Shrine
