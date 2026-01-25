@@ -6377,20 +6377,13 @@ dd_brazen|hms_electra,Electra,Electra
 dd_brazen|hms_recruit,Recruit,Recruit
 dd_brazen|hms_vulture,Vulture,Vulture
 dd_bristol|uss_aaron_ward,Aaron Ward,Aaron Ward
-dd_bristol|uss_bailey,Bailey,Theodorus Bailey
 dd_bristol|uss_baldwin,Baldwin,Charles H. Baldwin
-dd_bristol|uss_bancroft,Bancroft,"George Bancroft, Secretary of the Navy"
-dd_bristol|uss_barton,Barton,John Kennedy Barton
 dd_bristol|uss_beatty,Beatty,Frank Edmund Beatty
-dd_bristol|uss_boyle,Boyle,Thomas Boyle
 dd_bristol|uss_bristol,Bristol,Mark Lambert Bristol
 dd_bristol|uss_buchanan,Buchanan,Franklin Buchanan
 dd_bristol|uss_buchanan,Gelibolu,"Gelibolu, Canakkale, Turkey"
 dd_bristol|uss_butler,Butler,Smedley Darlington Butler
-dd_bristol|uss_caldwell,Caldwell,James R. Caldwell
 dd_bristol|uss_carmick,Carmick,Daniel Carmick
-dd_bristol|uss_champlin,Champlin,Stephen Champlin
-dd_bristol|uss_coghlan,Coghlan,Joseph Bullock Coghlan
 dd_bristol|uss_corry,Corry,William Merrill Corry Jr.
 dd_bristol|uss_cowie,Cowie,Thomas Jefferson Cowie
 dd_bristol|uss_davison,Davison,Gregory Caldwell Davison
@@ -6403,31 +6396,21 @@ dd_bristol|uss_ellyson,Asakaze,Morning Wind
 dd_bristol|uss_ellyson,Ellyson,Theodore Gordon Ellyson
 dd_bristol|uss_emmons,Emmons,George Foster Emmons
 dd_bristol|uss_endicott,Endicott,Samuel Endicott
-dd_bristol|uss_farenholt,Farenholt,Oscar Walter Farenholt
 dd_bristol|uss_fitch,Fitch,LeRoy Fitch
 dd_bristol|uss_forrest,Forrest,Dulany Forrest
 dd_bristol|uss_frankford,Frankford,John Frankford
-dd_bristol|uss_frazier,Frazier,Daniel Frazier
-dd_bristol|uss_gansevoort,Gansevoort,Guert Gansevoort
 dd_bristol|uss_gherardi,Gherardi,Bancroft Gherardi
-dd_bristol|uss_gillespie,Gillespie,Archibald H. Gillespie
 dd_bristol|uss_glennon,Glennon,James Henry Glennon
 dd_bristol|uss_hambleton,Hambleton,Samuel Hambleton
 dd_bristol|uss_harding,Harding,Seth Harding
 dd_bristol|uss_herndon,Herndon,William Lewis Herndon
-dd_bristol|uss_hobby,Hobby,James H. Hobby
 dd_bristol|uss_hobson,Hobson,Richmond Pearson Hobson
 dd_bristol|uss_jeffers,Jeffers,William Nicholson Jeffers
-dd_bristol|uss_kalk,Kalk,Stanton Frederick Kalk
-dd_bristol|uss_kendrick,Kendrick,Charles S. Kendrick
 dd_bristol|uss_knight,Knight,Austin Melvin Knight
-dd_bristol|uss_laffey,Laffey,Bartlett Laffey
 dd_bristol|uss_lansdowne,Gaziantep,"Gaziantep, Gaziantep, Turkey"
 dd_bristol|uss_lansdowne,Lansdowne,Zachary Lansdowne
 dd_bristol|uss_lardner,Gemlik,"Gemlik, Bursa, Turkey"
 dd_bristol|uss_lardner,Lardner,James Lawrence Lardner
-dd_bristol|uss_laub,Laub,Henry Laub
-dd_bristol|uss_mackenzie,Mackenzie,Alexander Slidell MacKenzie
 dd_bristol|uss_macomb,Hatakaze,Wind Blown Flag
 dd_bristol|uss_macomb,Hsien Yang,"Xianyang, Shaanxi, China"
 dd_bristol|uss_macomb,Macomb,Macomb Family
@@ -6435,14 +6418,8 @@ dd_bristol|uss_maddox,Maddox,William A. T. Maddox
 dd_bristol|uss_mccalla,Giresun,"Giresun, Giresun, Turkey"
 dd_bristol|uss_mccalla,McCalla,Bowman Hendry McCalla
 dd_bristol|uss_mccook,McCook,Roderick Sheldon McCook
-dd_bristol|uss_mclanahan,McLanahan,Tenant McLanahan
-dd_bristol|uss_meade,Meade,Richard Worsam Meade III
 dd_bristol|uss_mervine,Mervine,William Mervine
-dd_bristol|uss_murphy,Murphy,John McLeod Murphy
 dd_bristol|uss_nelson,Nelson,Charles Preston Nelson
-dd_bristol|uss_nields,Nields,Henry C. Nields
-dd_bristol|uss_ordronaux,Ordronaux,John Ordronaux
-dd_bristol|uss_parker,Parker,Foxhall A. Parker Jr.
 dd_bristol|uss_quick,Quick,John Henry Quick
 dd_bristol|uss_rodman,Hsien Yang,"Xianyang, Shaanxi, China"
 dd_bristol|uss_rodman,Hugh Rodman,Hugh Rodman
@@ -6455,8 +6432,6 @@ dd_bristol|uss_thorn,Thorn,Jonathan Thorn
 dd_bristol|uss_tillman,Tillman,Benjamin Ryan Tillman
 dd_bristol|uss_turner,Turner,Daniel Turner
 dd_bristol|uss_welles,Welles,"Gideon Welles, Secretary of the Navy"
-dd_bristol|uss_woodworth,Artigliere,Gunner
-dd_bristol|uss_woodworth,Woodworth,Selim E. Woodworth
 dd_buenos_aires|ara_buenos_aires,Buenos Aires,
 dd_buenos_aires|ara_corrientes,Corrientes,
 dd_buenos_aires|ara_entre_rios,Entre Rios,
@@ -7806,6 +7781,31 @@ dd_l_intrepide|l_opinietre,L'Opinietre,
 dd_l_intrepide|le_temeraire,Le Temeraire,Reckless
 dd_la_plata|ara_cordoba,Cordoba,
 dd_la_plata|ara_la_plata,La Plata,
+dd_laffey|uss_bailey,Bailey,Theodorus Bailey
+dd_laffey|uss_bancroft,Bancroft,"George Bancroft, Secretary of the Navy"
+dd_laffey|uss_barton,Barton,John Kennedy Barton
+dd_laffey|uss_boyle,Boyle,Thomas Boyle
+dd_laffey|uss_caldwell,Caldwell,James R. Caldwell
+dd_laffey|uss_champlin,Champlin,Stephen Champlin
+dd_laffey|uss_coghlan,Coghlan,Joseph Bullock Coghlan
+dd_laffey|uss_farenholt,Farenholt,Oscar Walter Farenholt
+dd_laffey|uss_frazier,Frazier,Daniel Frazier
+dd_laffey|uss_gansevoort,Gansevoort,Guert Gansevoort
+dd_laffey|uss_gillespie,Gillespie,Archibald H. Gillespie
+dd_laffey|uss_hobby,Hobby,James H. Hobby
+dd_laffey|uss_kalk,Kalk,Stanton Frederick Kalk
+dd_laffey|uss_kendrick,Kendrick,Charles S. Kendrick
+dd_laffey|uss_laffey,Laffey,Bartlett Laffey
+dd_laffey|uss_laub,Laub,Henry Laub
+dd_laffey|uss_mackenzie,Mackenzie,Alexander Slidell MacKenzie
+dd_laffey|uss_mclanahan,McLanahan,Tenant McLanahan
+dd_laffey|uss_meade,Meade,Richard Worsam Meade III
+dd_laffey|uss_murphy,Murphy,John McLeod Murphy
+dd_laffey|uss_nields,Nields,Henry C. Nields
+dd_laffey|uss_ordronaux,Ordronaux,John Ordronaux
+dd_laffey|uss_parker,Parker,Foxhall A. Parker Jr.
+dd_laffey|uss_woodworth,Artigliere,Gunner
+dd_laffey|uss_woodworth,Woodworth,Selim E. Woodworth
 dd_laforey_1913|hms_daring,Daring,Daring
 dd_laforey_1913|hms_daring,Lance,Lance
 dd_laforey_1913|hms_dragon,Dragon,Dragon
@@ -8621,13 +8621,6 @@ dd_rosolino_pilo|pilade_bronzetti,TA35,
 dd_rosolino_pilo|rosolino_pilo,Rosolino Pilo,
 dd_rosolino_pilo|simone_schiaffino,Simone Schiaffino,
 dd_rother|hms_rother,Rother,"River Rother, England, UK"
-dd_russell|uss_buck,Buck,James Buck
-dd_russell|uss_morris,Morris,Charles Morris
-dd_russell|uss_o'brien,O'Brien,Jeremiah O'Brien
-dd_russell|uss_roe,Roe,Francis Asbury Roe
-dd_russell|uss_russell,Russell,John Henry Russell
-dd_russell|uss_wainwright,Wainwright,Wainwright Family
-dd_russell|uss_walke,Walke,Henry A. Walke
 dd_rykov|karl_libknekht,Karl Libknekht,
 dd_rykov|rykov,Rykov,
 dd_rykov|rykov,Valerian Kuybyshev,
@@ -8783,10 +8776,17 @@ dd_simoom_1917|hms_swordsman,Swordsman,Swordsman
 dd_simoom_1917|hms_tribune,Tribune,Tribune
 dd_simoom_1917|hms_trinidad,Trinidad,"Trinidad, Trinidad and Tobago"
 dd_sims|uss_anderson,Anderson,Edwin Alexander Anderson Jr.
+dd_sims|uss_buck,Buck,James Buck
 dd_sims|uss_hammann,Hammann,Charles Hazeltine Hammann
 dd_sims|uss_hughes,Hughes,Edward Merritt Hughes
+dd_sims|uss_morris,Morris,Charles Morris
 dd_sims|uss_mustin,Mustin,Henry Croskey Mustin
+dd_sims|uss_o'brien,O'Brien,Jeremiah O'Brien
+dd_sims|uss_roe,Roe,Francis Asbury Roe
+dd_sims|uss_russell,Russell,John Henry Russell
 dd_sims|uss_sims,Sims,William Sowden Sims
+dd_sims|uss_wainwright,Wainwright,Wainwright Family
+dd_sims|uss_walke,Walke,Henry A. Walke
 dd_smith|uss_flusser,Flusser,Charles Williamson Flusser
 dd_smith|uss_lamson,Lamson,Roswell Hawkes Lamson
 dd_smith|uss_preston,Preston,Samuel William Preston
