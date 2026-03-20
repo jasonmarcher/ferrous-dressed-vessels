@@ -1,4 +1,4 @@
-BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,BowBeamArc,SternBeamArc,SternQuarterArc,OnSternArc,SternArc,,TotalMounts
+BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,BowBeamArc,SternBeamArc,SternQuarterArc,OnSternArc,SternArc,HighArc,TotalMounts
 622-tt-hull_x2-side,622,,622-tt-hull,0,0,0,1,1,0,0,0,0,2
 610-tt-tripple-jpn_x4,610,,610-tt-tripple-jpn,0,0,0,2,2,0,0,0,0,4
 610-tt-quad-jpn_x10,610,,610-tt-quad-jpn,0,0,0,5,5,0,0,0,0,10
@@ -234,6 +234,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 330-ag-2-mk3_ay,330,330-ag-2-mk3,,1,1,,2,2,,1,1,0,2
 330-ag-2-mk2_ay,330,330-ag-2-mk2,,1,1,,2,2,,1,1,0,2
 324-tt-tripple_x2,324,,324-tt-tripple,0,0,0,1,1,0,0,0,0,2
+324-mk108_x2-bx,323.9,,324-mk108,1,1,2,2,2,2,1,1,0,2
 324-mk108_x1-b,323.9,,324-mk108,1,1,1,1,1,1,0,0,0,1
 320-c-m1870-81_x4,320,320-c-m1870-81,,0,,,2,2,,,0,0,4
 320-bar-m1887_y,320,320-bar-m1887,,0,0,,1,1,,1,1,0,1
@@ -495,6 +496,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 203-bargs-p1885_apsy,203,203-bargs-p1885,,2,,,,3,,,2,0,4
 203-bar-p1885_apsy,203,203-bar-p1885,,2,,,,3,,,2,0,4
 203-bar-o1877_x2,203,203-bar-o1877,,1,,,,1,,,0,0,2
+203-at-mk71_x1-a,203,203-at-mk71,,1,1,1,1,1,1,0,0,1,1
 203-ag-tripple-turret_aby,203,203-ag-tripple-turret,,2,,,,3,,,1,,3
 203-ag-tripple_aby,203,203-ag-tripple,,2,,,,3,,,1,,3
 203-ag-tripple_bx,203,203-ag-tripple,,1,,,,2,,,1,,2
@@ -1321,6 +1323,11 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 127-cp-a1_y,127,127-cp-a1,,0,,,,1,,,1,,1
 127-cp-a1_r,127,127-cp-a1,,0,,,,1,,,0,,1
 127-c-m9_x10,127,127-c-m9,,0,,,,5,,,0,,10
+127-ag-mk42-late_x3-axy,127,127-ag-mk42-late,,1,1,3,3,3,3,2,2,3,3
+127-ag-mk42-late_x2-xy,127,127-ag-mk42-late,,0,0,2,2,2,2,2,2,3,2
+127-ag-mk42-late_x2-ay,127,127-ag-mk42-late,,1,1,2,2,2,2,1,1,2,2
+127-ag-mk42_x3-axy,127,127-ag-mk42,,1,1,3,3,3,3,2,2,3,3
+127-ag-mk42_x2-ay,127,127-ag-mk42,,1,1,2,2,2,2,1,1,2,2
 127-ag-mk39_x18,127,127-ag-mk39,,1,,,,9,,,1,,18
 127-ag-mk39_x10,127,127-ag-mk39,,1,,,,5,,,1,,10
 127-ag-mk39_x8,127,127-ag-mk39,,2,,,,4,,,2,,8
@@ -1328,6 +1335,8 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 127-ag-mk39_x4,127,127-ag-mk39,,1,,,,2,,,1,,4
 127-ag-mk39_x3-alt,127,127-ag-mk39,,0.5,,,,1.5,,,1,,3
 127-ag-mk39_x3,127,127-ag-mk39,,0.5,,,,1.25,,,1,,3
+127-ag-mk38-mod1_x3-aby-alt,127,127-ag-mk38-mod1,,2,2,2,3,3,3,1,1,3,3
+127-ag-mk38-mod1_x3-aby,127,127-ag-mk38-mod1,,2,2,3,3,3,3,1,1,3,3
 127-ag-mk32_abcpsxyz,127,127-ag-mk32,,4,,,7,7,,,4,,8
 127-ag-mk32_x6,127,127-ag-mk32,,3,,,4,4,,,3,,6
 127-ag-mk32_abcxyz,127,127-ag-mk32,,3,,,6,6,,,3,,6
@@ -1998,6 +2007,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 76-cp-p1914-aa_x4,76,76-cp-p1914-aa,,2,,,,2,,,2,,4
 76-cp-p1914-aa_x3-aft,76,76-cp-p1914-aa,,0,,,,3,,,3,,3
 76-cp-p1914-aa_x2-aft,76,76-cp-p1914-aa,,0,,,,1,,,2,,2
+76-cp-mk34_x2-allen-m-sumner,76,76-cp-mk34,,1,1,1,1,1,1,1,2,1,2
 76-cp-mk34_x2-aft,76,76-cp-mk34,,0,,,,1,,,2,,2
 76-cp-mk27_x20-midway,76,76-cp-mk27,,4,,,,9.5,,,3,,20
 76-cp-mk27_x18-midway,76,76-cp-mk27,,2,,,,9,,,3,,18
@@ -2033,7 +2043,12 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 76-cp-mk27_x3-fletcher,76,76-cp-mk27,,0,1,2,2,2,2,2,1,2,3
 76-cp-mk27_x2-rx,76,76-cp-mk27,,0,0,2,2,2,2,1,1,2,2
 76-cp-mk27_x2-fletcher,76,76-cp-mk27,,0,1,1.5,1.5,2,1.5,1,2,2,2
+76-cp-mk27_x2-bx,76,76-cp-mk27,,1,1,2,2,2,2,1,1,2,2
+76-cp-mk27_x2-br,76,76-cp-mk27,,1,1,1,2,2,1,0,0,2,2
 76-cp-mk27_x2-bonaventure,76,76-cp-mk27,,0,,,,1,,,0.5,,2
+76-cp-mk27_x2-allen-m-sumner-alt,76,76-cp-mk27,,0,0,0.5,2,1.5,1.5,1.5,1.5,2,2
+76-cp-mk27_x2-allen-m-sumner,76,76-cp-mk27,,0,0,1,2,2,2,1,1,2,2
+76-cp-mk27_x1-r,76,76-cp-mk27,,0,0,0,1,1,1,0,0,1,1
 76-cp-mk11_x10-wyo-2,76,76-cp-mk11,,2,,,,5,,,1,,10
 76-cp-mk11_x10-wyo,76,76-cp-mk11,,3,,,,5,,,2,,10
 76-cp-mk11_x10-ny,76,76-cp-mk11,,4,,,,5,,,4,,10
@@ -2117,7 +2132,9 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 76-c-41st-year_x8,76,76-c-41st-year,,2,,,,4,,,2,,8
 76-c-41st-year_x4,76,76-c-41st-year,,1,,,,2,,,1,,4
 76-ag-mmi-single_x3,76,76-ag-mmi-single,,1,,,,2,,,2,,3
-76-ag-mk35_x7,76,76-ag-mk35,,2,,,,3.5,,,4,,7
+76-ag-mk37_x7,76,76-ag-mk37,,2,,,,3.5,,,4,,7
+76-ag-mk37_x2-bx,76,76-ag-mk37,,1,1,2,2,2,2,1,1,2,2
+76-ag-mk37_x1-b,76,76-ag-mk37,,1,1,1,1,1,1,0,0,1,1
 75-p-p1906_x20,75,75-p-p1906,,2,,,,10,,,2,,20
 75-p-p1906_x16-alt,75,75-p-p1906,,2,,,,7,,,3,,16
 75-p-p1906_x16,75,75-p-p1906,,2,,,,8,,,2,,16
@@ -2589,6 +2606,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 40-t-mk3_x6,40,40-t-mk3,,2,,,,3,,,3,,6
 40-t-mk3_x3-sims,40,40-t-mk3,,0,1,2,2,2,1.5,1,0,3,3
 40-t-mk3_x2-fore,40,40-t-mk3,,2,,,,1,,,1,,2
+40-t-mk3_x2-allen-m-sumner,40,40-t-mk3,,0,1,1,1,1,2,2,2,2,2
 40-t-mk3_x2-aft,40,40-t-mk3,,0,,,,1,,,2,,2
 40-t-mk3_x1-fore,40,40-t-mk3,,1,,,,1,,,0,,1
 40-t-mk2_x23-lexington,40,40-t-mk2,,2,,,,15,,,1,,23
@@ -2678,6 +2696,8 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 40-t-mk2_x3-currituck-alt,40,40-t-mk2,,2,,,,3,,,1,,3
 40-t-mk2_x3-currituck,40,40-t-mk2,,1,,,,2,,,2,,3
 40-t-mk2_x3-commencement-bay,40,40-t-mk2,,1,,,,2,,,2,,3
+40-t-mk2_x3-allen-m-sumner-2,40,40-t-mk2,,0,0,2,2,2,2,2,2,3,3
+40-t-mk2_x3-allen-m-sumner,40,40-t-mk2,,0,0,1,2,2,2,1.5,1.5,3,3
 40-t-mk2_x2-sides,40,40-t-mk2,,0,,,,1,,,0,,2
 40-t-mk2_x2-no,40,40-t-mk2,,0,,,,1,,,2,,2
 40-t-mk2_x2-mahan,40,40-t-mk2,,0,0,1,1,1,2,2,2,2,2
@@ -2688,6 +2708,8 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 40-t-mk2_x2-f-a,40,40-t-mk2,,1,,,,1,,,1,2,2
 40-t-mk2_x2-currituck,40,40-t-mk2,,1,,,,2,,,1,2,2
 40-t-mk2_x2-brooklyn,40,40-t-mk2,,0,,,,1,,,2,2,2
+40-t-mk2_x2-allen-m-sumner-2,40,40-t-mk2,,0,0,0.5,1.5,1.5,1.5,1.5,1.5,2,2
+40-t-mk2_x2-allen-m-sumner,40,40-t-mk2,,0,0,1,1,1,1,1.5,1.5,2,2
 40-t-mk2_x2-aft,40,40-t-mk2,,0,,,,1,,,2,2,2
 40-t-mk2_x2-a-ps,40,40-t-mk2,,0,,,,1,,,1,2,2
 40-t-mk2_x1-x,40,40-t-mk2,,0,0,0,1,1,1,1,1,1,1
@@ -2774,6 +2796,8 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 40-t-mk1_x2-f-a,40,40-t-mk1,,1,,,,2,,,1,,2
 40-t-mk1_x2-currituck,40,40-t-mk1,,2,,,,1,,,1,,2
 40-t-mk1_x2-brooklyn,40,40-t-mk1,,2,,,,1,,,0,,2
+40-t-mk1_x2-allen-m-sumner-alt,40,40-t-mk1,,0,0,1,1,1,1,0,0,1,2
+40-t-mk1_x2-allen-m-sumner,40,40-t-mk1,,0,1,1,1,1,1,1,1,1,2
 40-t-mk1_x2-aft-alt,40,40-t-mk1,,0,,,,1,,,2,,2
 40-t-mk1_x2-aft,40,40-t-mk1,,0,,,,2,,,2,,2
 40-t-mk1_x2-a-ps,40,40-t-mk1,,0,,,,1,,,1,,2
@@ -3247,6 +3271,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 37-ag-46k_x8,37,37-ag-46k,,2,,,,4,,,2,,8
 37-ag-46k_x7,37,37-ag-46k,,2,,,,5,,,3,,7
 37-ag-46k_x1-fore,37,37-ag-46k,,1,,,,1,,,0,,1
+35-gdm-a_x1-aft,35,35-gdm-a,,0,0,1,1,1,1,1,1,1,1
 30-at-ak230_x8,30,30-at-ak230,,4,,,,4,,,0,,8
 28-p-quad_x12-lexington,28,28-p-quad,,3,,,,10,,,3,,12
 28-p-quad_x9-lexington,28,28-p-quad,,1,,,,5,,,1,,9
@@ -3697,6 +3722,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 20-p-mk6_x11-fletcher,20,20-p-mk6,,4,3,6,6,7,6,3,4,8,11
 20-p-mk6_x11-cleveland,20,20-p-mk6,,4,,,,6,,,3,,11
 20-p-mk6_x11-clemson,20,20-p-mk6,,1,,,,6,,,5,,11
+20-p-mk6_x11-allen-m-sumner,20,20-p-mk6,,2,2,4,4,5.5,5.5,4.5,4,9,11
 20-p-mk6_x10-tangier,20,20-p-mk6,,2,,,,5,,,2,,10
 20-p-mk6_x10-st-louis,20,20-p-mk6,,5,,,,5,,,3,,10
 20-p-mk6_x10-side-alt,20,20-p-mk6,,2,,,,5,,,2,,10
@@ -3718,6 +3744,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 20-p-mk6_x9-fletcher,20,20-p-mk6,,3,3,5,5,5,5,2,3,6,9
 20-p-mk6_x9-barnegat,20,20-p-mk6,,4,,,,5,,,4,,9
 20-p-mk6_x9-atlanta,20,20-p-mk6,,3,,,,5,,,2,,9
+20-p-mk6_x9-allen-m-sumner,20,20-p-mk6,,2,2,3,3,5,4,3.5,3,6,9
 20-p-mk6_x8-tamandare,20,20-p-mk6,,5,,,,4,,,2,,8
 20-p-mk6_x8-somers,20,20-p-mk6,,0,3,4,4,4,4,3,2,6,8
 20-p-mk6_x8-side,20,20-p-mk6,,0,,,,4,,,2,,8
@@ -3744,6 +3771,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 20-p-mk6_x8-barnegat-2,20,20-p-mk6,,2,,,,4,,,6,,8
 20-p-mk6_x8-barnegat,20,20-p-mk6,,3,,,,4,,,4,,8
 20-p-mk6_x8-atlanta,20,20-p-mk6,,1,,,,4,,,3,,8
+20-p-mk6_x8-allen-m-sumner,20,20-p-mk6,,2,2,3,3,3.5,3.5,2.5,2,6,8
 20-p-mk6_x7-somers,20,20-p-mk6,,2,4,5,5,5,4.5,2,2,5,7
 20-p-mk6_x7-mahan,20,20-p-mk6,,2,3,5,4,4,4,3,2,5,7
 20-p-mk6_x7-little,20,20-p-mk6,,2,,,,4,,,1,,7
@@ -3757,6 +3785,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 20-p-mk6_x7-benson,20,20-p-mk6,,2,3,4,4,4,4,1,0,5,7
 20-p-mk6_x7-bagley-2,20,20-p-mk6,,1,2,3,4,4,5,4,3,5,7
 20-p-mk6_x7-bagley,20,20-p-mk6,,2,3,4,4,4,4,2,1,4,7
+20-p-mk6_x7-allen-m-sumner,20,20-p-mk6,,2,2,3,3.5,3.5,2.5,2,2,4,7
 20-p-mk6_x6-wickes-4,20,20-p-mk6,,1,,,,5,,,1,,6
 20-p-mk6_x6-wickes-3,20,20-p-mk6,,0,,,,4,,,4,,6
 20-p-mk6_x6-wickes-2,20,20-p-mk6,,0,,,,4,,,2,,6
@@ -3897,6 +3926,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 20-p-mk24_x6-cleveland,20,20-p-mk24,,3,,,,3,,,1,,6
 20-p-mk24_x6-barnegat,20,20-p-mk24,,3,,,,3,,,3,,6
 20-p-mk24_x6,20,20-p-mk24,,1,,,,4,,,4,,6
+20-p-mk24_x4-mitscher,20,20-p-mk24,,1,2,2,2,2,3,3,2,3,4
 20-p-mk24_x4-mahan,20,20-p-mk24,,2,2,2,2,2,2,0,0,2,4
 20-p-mk24_x4-laffey,20,20-p-mk24,,1,1,2,2,2,3,2,2,3,4
 20-p-mk24_x4-independence,20,20-p-mk24,,1,,,2,2,,,0,,4
@@ -3906,12 +3936,14 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 20-p-mk24_x4-barnegat,20,20-p-mk24,,2,,,2,2,,,3,,4
 20-p-mk24_x4-ameer,20,20-p-mk24,,0,,,2,2,,,0,,4
 20-p-mk24_x4-alt,20,20-p-mk24,,1,,,2,2,,,1,,4
+20-p-mk24_x4-allen-m-sumner,20,20-p-mk24,,2,1,2,2,2,2,1,1,2,4
 20-p-mk24_x4,20,20-p-mk24,,2,,,2,2,,,2,,4
 20-p-mk24_x2-wings,20,20-p-mk24,,1,1,1,1,1,1,1,0,1,2
 20-p-mk24_x2-fore-alt,20,20-p-mk24,,1,1,1,1,1,1,0,0,1,2
 20-p-mk24_x2-fore,20,20-p-mk24,,2,,,1,1,,,0,,2
 20-p-mk24_x2-aft-2,20,20-p-mk24,,0,,,1,1,,,1,,2
 20-p-mk24_x2,20,20-p-mk24,,0,,,1,1,,,0,,2
+20-p-mk24_x1-allen-m-sumner,20,20-p-mk24,,0,0,0.5,0.5,0.5,0.5,0.5,0.5,1,1
 20-p-mk15_x1,20,20-p-mk15,,,,,1,1,,,,,1
 20-p-mg-151-20-tripple_x2-sides,20,20-p-mg-151-20-tripple,,0,,,1,1,,,0,,2
 20-p-markv_x21-illustrious,20,20-p-markv,,2,,,,11.5,,,3,,21
@@ -4274,6 +4306,7 @@ BatteryID,BatteryCaliber,GunMountID,LauncherMountID,BowArc,OnBowArc,BroadBowArc,
 20-cp-vierling-c38_x1-aft,20,20-cp-vierling-c38,,0,,,,1,,,1,,1
 20-cp-vierling-c38_x1,20,20-cp-vierling-c38,,0,,,,1,,,0,,1
 20-cp-sextuple_x21,20,20-cp-sextuple,,7.5,,,,14,,,6.5,,21
+20-at-cwis-b0_x1-r,20,20-at-cwis-b0,,0,0,0,1,1,1,0,0,1,1
 13-p-unknown-de_x2,13.2,13-p-unknown-de,,1,,,,1,,,1,,2
 13-p-m1931-twin_x6-alt,13.2,13-p-m1931-twin,,2,,,,3,,,2,,6
 13-p-m1931-twin_x6,13.2,13-p-m1931-twin,,2,,,,3,,,4,,6
@@ -4521,6 +4554,7 @@ placeholder_mines,,,,0,0,0,0,0,0,0,0,0,0
 placeholder_landingcraft,,,,0,0,0,0,0,0,0,0,0,0
 placeholder_boat,,,,0,0,0,0,0,0,0,0,0,0
 placeholder_aswrl,,,,0,0,0,0,0,0,0,0,0,0
+placeholder_asroc,,,,0,0,0,0,0,0,0,0,0,0
 placeholder_120-rl-jpn,,,,0,0,0,0,0,0,0,0,0,0
 placeholder_11.4/94-machinegun,,,,,,,,,,,,,
 placeholder_11.4/87-machinegun,,,,,,,,,,,,,
