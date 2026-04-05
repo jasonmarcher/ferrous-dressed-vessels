@@ -206,6 +206,12 @@ https://www.forposterityssake.ca/RCN-SHIP-INDEX.htm
 
 https://www.pdavis.nl/USM_Paddle.htm
 
+https://destroyerhistory.org/destroyers/
+
+https://www.hullnumber.com/index.htm
+
+https://weaponsystems.net/menu/94
+
 ### Ships TODO
 
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
