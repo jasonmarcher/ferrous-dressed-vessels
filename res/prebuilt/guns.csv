@@ -364,6 +364,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 120-bg-m1926,120mm/50 Model 1926,Gio. Ansaldo 120mm,italy,1926-01-01,120,50,5552,7,6,Breech,950,0,200,http://www.navweaps.com/Weapons/WNIT_47-50_m1926.php
 102-bg-m1914,102mm/35 Model 1914-1915,Schneider-Armstrong 102mm,italy,1914-01-01,102,34.8,1220,7,7,Breech,750,750,,http://www.navweaps.com/Weapons/WNIT_4-35_m1914.php
 90-bg-m1938,90mm/50 Model 1938,Gio. Ansaldo 90mm,italy,1938-01-01,90,50,1960,16,12,Breech,860,860,490,http://www.navweaps.com/Weapons/WNIT_35-50_m1939.php
+76-bg-compact,76mm/62 Compact,OTO-Melara 76mm,italy,1963-01-01,76,62,765,85,85,Breech Autoloader,925,925,80,http://www.navweaps.com/Weapons/WNUS_3-62_mk75.php
 76-bg-mmi,76mm/62 M.M.I.,OTO-Melara 76mm,italy,1960-01-01,76,62,765,60,60,Breech Autoloader,850,850,,http://www.navweaps.com/Weapons/WNIT_3-62_MMI.php
 65-bg-m1939,65mm/64 Model 1939,Ansaldo and Terni 65mm,italy,1939-01-01,65,64,126,20,20,Breech Autoloader,850,850,,http://www.navweaps.com/Weapons/WNIT_65mm-64_m1939.php
 37-mg-m1932,37mm/54 Model 1932,Breda 37mm,italy,1932-01-01,37,54,277,120,120,Breech Autoloader,800,800,1500,http://www.navweaps.com/Weapons/WNIT_37mm-54_m1932.php
@@ -409,9 +410,11 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 25-mg-bl-120,25mm/79 BL-120,Russian 25mm,russia,1948-01-01,25,79,101,285,240,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
 25-mg-110-pm,25mm/79 110-PM,Russian 25mm,russia,1948-01-01,25,79,101,300,285,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
 25-mg-72k,25mm/70 72-k,Kalinin Artillery Plant 25mm,russia,1939-01-01,25,70,,240,240,Breech Automatic,910,910,,https://en.wikipedia.org/wiki/25_mm_automatic_air_defense_gun_M1940_(72-K)
-12-mg-dshk-1938,12.7mm/79 DShK 1938,Tula Arms Plant 12.7mm,russia,1938-01-01,12.7,79,34,600,600,Breech Automatic,850,850,,https://en.wikipedia.org/wiki/DShK
+14-mg-2m7,14.5mm/93 2M-7,,russia,1944-01-01,14.5,93,,600,150,Breech Automatic,1000,1000,,http://www.navweaps.com/Weapons/WNRussian_145-93_2m-7.php
+12-mg-dshk-1938,12.7mm/79 DShK 1938,Tula Arms Plant 12.7mm,russia,1938-01-01,12.7,79,34,600,150,Breech Automatic,850,850,,https://en.wikipedia.org/wiki/DShK
 120-bg-hontoria-m1883,120mm/35 Hontoria M1883,Hontoria 12 cm,spain,1883-01-01,120,35,,,,Breech,612,0,,https://en.wikipedia.org/wiki/Gonzalez_Hontoria_de_12_cm_mod_1883
 75-bg-mark6,7.5cm/55 Mark 6,Bofors SP,sweden,1926-01-01,75,55,1120,15,12,Breech,895,895,,http://www.navweaps.com/Weapons/WNNeth_3-55_mk6.php
+57-mg-sak-mark2,57mm/70 SAK Mark 2,Bofors 57mm,sweden,1981-01-01,57,70,,220,80,Breech Autoloader,1025,1025,,http://www.navweaps.com/Weapons/WNSweden_57-70_mk123.php
 57-mg-m1951,57mm/60 Model 1951,Bofors 57mm,sweden,1951-01-01,57,60,,120,100,Breech Autoloader,865,865,1580,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
 40-mg-sak40,40mm/70 SAK-40,Bofors 40mm,sweden,1948-01-01,40,70,700,240,240,Breech Autoloader,1025,1025,,http://www.navweaps.com/Weapons/WNSweden_4cm-70_m1948.php
 40-bg-mk1,40mm/56 Mark 1,Bofors 40mm,sweden,1941-01-01,40,56,522,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
@@ -500,6 +503,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 76-bg-mk7,"3""/23 Mark 7","Erhardt 3""",usa,1900-01-01,76,23,,9,8.5,Breech,503,0,,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
 37-mg-maxim,37mm/30 Maxim gun,Maxim 37mm,usa,1883-01-01,37,30,246,250,90,Breech Automatic,610,610,,http://www.navweaps.com/Weapons/WNRussian_37mm-30_maxim.php
 28-bg-mk1,"1.1""/75 Mark 1","US 1.1""",usa,1929-01-01,28,75,260,150,100,Breech Autoloader,823,823,,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php
+20-mg-m61,20mm/76 Vulcan M61,US Vulcan,usa,1959-01-01,20,76,112,6000,6000,Breech Automatic,1050,1050,,https://en.wikipedia.org/wiki/M61_Vulcan
 20-mg-cwis,20mm/76 Phalanx Close-in Weaon System (Block 0),US Phalanx,usa,1969-01-01,20,76,,3000,3000,Breech Automatic,1113,1113,989,http://www.navweaps.com/Weapons/WNUS_Phalanx.php
 12-mg-mk3,"0.50""/90 Browning M2 MG","Browning 0.50""",usa,1930-01-01,12.7,90,,600,500,Breech Automatic,893,893,,http://navypedia.org/arms/usa/arms_usa_guns.htm
 11-mg-colt-1877-10,"0.45""/40.5 1877 Gatling Gun 10 Barrel",Colt 1877 Gatling Gun,usa,1877-01-01,11.4,40.5,77,1200,600,Breech Automatic,425,425,,https://usarmamentcorp.com/1877-gatling-gun/

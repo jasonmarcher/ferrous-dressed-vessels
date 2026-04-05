@@ -658,6 +658,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 76-p-mk7,76,"3""/50 Mark 7",usa,Pedestal,76-bg-mk5,1,15,http://www.navweaps.com/Weapons/WNUS_3-50_mk2.php
 76-ag-mk37,76,"3""/70 Mark 37",usa,Armored Gunhouse,76-bg-mk26,2,90,http://www.navweaps.com/Weapons/WNUS_3-70_mk37.php#Mount%2FTurret_Data
 76-cp-mk27,76,"3""/50 Mark 27",usa,Central Pivot,76-bg-mk22,2,85,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php#Mount%2FTurret_Data
+76-ag-mk33,76,"3""/50 Mark 33",usa,Armored Gunhouse,76-bg-mk22,2,85,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php#Mount%2FTurret_Data
 76-cp-mk34,76,"3""/50 Mark 34",usa,Central Pivot,76-bg-mk22,1,85,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php#Mount%2FTurret_Data
 76-p-mk2,76,"3""/50 Mark 2",usa,Pedestal,76-bg-mk2,1,15,http://www.navweaps.com/Weapons/WNUS_3-50_mk2.php
 76-gs-mk2,76,"3""/50 Mark 2",usa,Pedestal (Gun Shield),76-bg-mk2,1,15,http://www.navweaps.com/Weapons/WNUS_3-50_mk2.php
@@ -669,6 +670,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 76-p-elswick-n,76,12-pdr/40 Elswick N,britain,Pedestal,76-bg-elswick-n,1,,http://navypedia.org/arms/italy/arms_it_guns.htm
 76-gs-elswick-n,76,12-pdr/40 Elswick N,britain,Pedestal (Gun Shield),76-bg-elswick-n,1,,http://navypedia.org/arms/italy/arms_it_guns.htm
 76-c-elswick-n,76,12-pdr/40 Elswick N,britain,Pedestal (Casement),76-bg-elswick-n,1,,http://navypedia.org/arms/italy/arms_it_guns.htm
+76-at-compact,76,76mm/62 Compact,italy,Automated Turret,76-bg-compact,1,85,http://www.navweaps.com/Weapons/WNUS_3-62_mk75.php#Mount%2FTurret_Data
 76-p-a1917,76,"3""/40 Ansaldo 1917",italy,Pedestal,76-bg-a1906,1,75,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-p-a1909,76,"3""/40 Armstrong 1909",italy,Pedestal,76-bg-a1906,1,42,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-gs-a1909,76,"3""/40 Armstrong 1909",italy,Pedestal (Gun Shield),76-bg-a1906,1,42,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
@@ -720,6 +722,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 65-p-m1902,65,65mm/50 Model 1902,france,Pedestal,65-bg-m1902,1,20,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
 65-p-m1888,65,65mm/50 Model 1888,france,Pedestal,65-bg-m1888,1,20,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
 63-p-p1916,63,"2.5""/36 Pattern 1916",russia,Pedestal,63-bg-p1916,1,75,http://www.navweaps.com/Weapons/WNRussian_25-38_m1916.php
+57-at-sak-mark2,57,57mm/70 SAK Mark 2,sweden,Automated Turret,57-mg-sak-mark2,1,75,http://www.navweaps.com/Weapons/WNSweden_57-70_mk123.php#Mount%2FTurret_Data
 57-ag-acad-m1948,57,57mm/60 ACAD Model 1948,france,Armored Gunhouse,57-mg-m1951,2,94,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
 57-p-nord-aa,57,57mm/43 Nordenfelt Model 1887,russia,Pedestal,57-bg-nord-aa,1,65,http://www.navweaps.com/Weapons/WNRussian_57mm_Hotchkiss.php#Mount%2FTurret_Data
 57-p-n1885,57,57mm/43 Nordenfelt Model 1887,sweden,Pedestal,57-bg-n1885,1,15,http://navypedia.org/arms/italy/arms_it_guns.htm
@@ -825,6 +828,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 25-ag-bl-120,25,25mm/79 BL-120,russia,Armored Gunhouse,25-mg-bl-120,4,90,https://en.wikipedia.org/wiki/Stalingrad-class_battlecruiser#Armament
 25-gs-72k,25,25mm/70 72-k,russia,Central Pivot (Gun Shield),25-mg-72k,1,85,https://en.wikipedia.org/wiki/25_mm_automatic_air_defense_gun_M1940_(72-K)
 20-p-sif-1939,20,20mm/70 Scotti-Isotta Fraschini 1939,italy,Pedestal,20-mg-sif-1939,1,85,https://en.wikipedia.org/wiki/Cannone-Mitragliera_da_20/77_(Scotti)
+20-sm-sea-vulcan,20,20mm/76 Sea Vulcan,south_korea,Stabalized Mount,20-mg-m61,1,85,
 20-cp-sextuple,20,20mm/65 Unknown 6 Barrel Model,italy,Central Pivot,20-mg-m1935,6,90,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
 20-sm-m1935,20,20mm/65 Model 1935 Stabalized Twin,italy,Stabalized Mount,20-mg-m1935,2,100,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
 20-sm-m1940,20,20mm/65 Model 1940,italy,Central Pivot,20-mg-m1935,1,90,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
@@ -840,6 +844,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 20-p-mk6,20,20mm/70 Mark 6 Single,usa,Pedestal (Gun Shield),20-bg-mk2,1,90,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
 20-p-markv,20,20mm/70 Mark V Double,britain,Central Pivot,20-bg-mark1,2,85,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
 20-p-mark1,20,20mm/70 Mark I Single,britain,Pedestal,20-bg-mark1,1,85,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php#Mount%2FTurret_Data
+14-p-2m7-quad,14.5,14.5mm/93 2M-7 Quad,russia,Pedestal,14-mg-2m7,4,85,http://www.navweaps.com/Weapons/WNRussian_145-93_2m-7.php#Mount%2FTurret_Data
+14-p-2m7-single,14.5,14.5mm/93 2M-7 Single,russia,Pedestal,14-mg-2m7,1,85,http://www.navweaps.com/Weapons/WNRussian_145-93_2m-7.php#Mount%2FTurret_Data
 13-p-type93-quad,13.2,13mm/76 Quad,japan,Central Pivot,13-mg-type93,4,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
 13-p-type93-twin,13.2,13mm/76 Twin,japan,Pedestal,13-mg-type93,2,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php
 13-p-type93-single,13.2,13mm/76 Single,japan,Pedestal,13-mg-type93,1,85,http://www.navweaps.com/Weapons/WNJAP_13mm-76_mg.php

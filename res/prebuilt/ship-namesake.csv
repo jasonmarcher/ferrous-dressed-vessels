@@ -7143,14 +7143,6 @@ dd_framee|epee,Epee,
 dd_framee|framee,Framee,
 dd_framee|pique,Pique,Pique
 dd_framee|yatagan,Yatagan,
-dd_frank_knox|uss_dennis_j_buckley,Dennis J. Buckley,Dennis Joseph Buckley Jr.
-dd_frank_knox|uss_frank_knox,Frank Knox,"William Franklin Knox, Secretary of the Navy"
-dd_frank_knox|uss_frank_knox,Themistoklis,Themistocles
-dd_frank_knox|uss_rowan,Chao Yang,"Chaoyang, Beijing, China"
-dd_frank_knox|uss_rowan,Rowan,Stephen Clegg Rowan
-dd_frank_knox|uss_southerland,Southerland,William Henry Hudson Southerland
-dd_frank_knox|uss_vogelgesang,Quetzalcoatl,Quetzalcoatl
-dd_frank_knox|uss_vogelgesang,Vogelgesang,Carl Theodore Vogelgesang
 dd_freccia|dardo,Dardo,
 dd_freccia|dardo,TA31,
 dd_freccia|freccia,Freccia,
@@ -7238,12 +7230,15 @@ dd_gearing|uss_abner_read,Abner Read,Abner Read
 dd_gearing|uss_agerholm,Agerholm,Harold Christ Agerholm
 dd_gearing|uss_arnold_j_isbell,Arnold J. Isbell,Arnold J. Isbell
 dd_gearing|uss_arnold_j_isbell,Sachtouris,Georgios Sachtouris
-dd_gearing|uss_baussell,Baussell,Lewis Kenneth Bausell
+dd_gearing|uss_basilone,Basilone,John Basilone
+dd_gearing|uss_bausell,Bausell,Lewis Kenneth Bausell
 dd_gearing|uss_benner,Benner,Stanley Graves Benner
 dd_gearing|uss_bordelon,Bordelon,William James Bordelon Jr.
 dd_gearing|uss_brinkley_bass,Brinkley Bass,Harry Brinkley Bass
 dd_gearing|uss_brinkley_bass,Mariz e Barros,Antonio Carlos de Mariz e Barros
 dd_gearing|uss_brownson,Brownson,Willard Herbert Brownson
+dd_gearing|uss_carpenter,Anittepe,"Anittepe, Ankara, Turkey"
+dd_gearing|uss_carpenter,Carpenter,Donald Marshall Carpenter
 dd_gearing|uss_castle,Castle,Guy Wilkinson Stuart Castle
 dd_gearing|uss_charles_h_roan,Charles H. Roan,Charles Howard Roan
 dd_gearing|uss_charles_h_roan,Maresal Fevzi Cakmak,"Mustafa Fevzi Cakmak, Chief of General Staff"
@@ -7259,8 +7254,11 @@ dd_gearing|uss_corry,Kriezis,"Antonios Kriezis, Prime Minister"
 dd_gearing|uss_damato,Damato,Anthony Peter Damato
 dd_gearing|uss_damato,Tippu Sultan,"Fateh Ali Sahab Tipu, Sultan of Mysore"
 dd_gearing|uss_dd855,DD855,Hull Number
+dd_gearing|uss_dennis_j_buckley,Dennis J. Buckley,Dennis Joseph Buckley Jr.
 dd_gearing|uss_duncan,Duncan,Silas M. Duncan
 dd_gearing|uss_dyess,Dyess,Aquilla James Dyess
+dd_gearing|uss_epperson,Epperson,Harold Glenn Epperson
+dd_gearing|uss_epperson,Taimur,"Timur, Amir of the Timurid Empire"
 dd_gearing|uss_ernest_g_small,Ernest G. Small,Ernest Gregor Small
 dd_gearing|uss_ernest_g_small,Fu Yang,"Fuyang, Anhui, China"
 dd_gearing|uss_eugene_a_greene,Churucca,Cosme Damian de Churruca y Elorza
@@ -7275,11 +7273,13 @@ dd_gearing|uss_fiske,Piyale Pasha,Piali Pasha
 dd_gearing|uss_floyd_b_parks,Floyd B. Parks,Floyd Bruce Parks
 dd_gearing|uss_forrest_royal,Adatepe,"Battle of Dumlup?nar, Greco-Turkish War of 1919-1922"
 dd_gearing|uss_forrest_royal,Forrest Royal,Forrest Beton Royal
+dd_gearing|uss_frank_knox,Frank Knox,"William Franklin Knox, Secretary of the Navy"
+dd_gearing|uss_frank_knox,Themistoklis,Themistocles
 dd_gearing|uss_fred_t_berry,Fred T. Berry,Fred Thomas Berry
 dd_gearing|uss_furse,Furse,John Houseal Furse
 dd_gearing|uss_furse,Gravina,Federico Carlos Gravina y Napoli
 dd_gearing|uss_gearing,Gearing,Gearing Family
-dd_gearing|uss_george_k_mackenzie,George K. Mackenzie,George K. MacKenzie
+dd_gearing|uss_george_k_mackenzie,George K. MacKenzie,George K. MacKenzie
 dd_gearing|uss_glennon,Glennon,James Henry Glennon
 dd_gearing|uss_goodrich,Goodrich,Caspar Frederick Goodrich
 dd_gearing|uss_gurke,Gurke,Henry Gurke
@@ -7305,6 +7305,7 @@ dd_gearing|uss_herbert_j_thomas,Herbert J. Thomas,Herbert Joseph Thomas Jr.
 dd_gearing|uss_higbee,Higbee,Lenah H. Sutcliffe Higbee
 dd_gearing|uss_hoel,Hoel,William R. Hoel
 dd_gearing|uss_holder,Holder,Randolph Mitchell Holder
+dd_gearing|uss_holder,Presidente Eloy Alfaro,José Eloy Alfaro Delgado
 dd_gearing|uss_hollister,Hollister,Hollister Brothers
 dd_gearing|uss_hollister,Shao Yang,"Shaoyang, Hunan, China"
 dd_gearing|uss_james_e_kyes,Chien Yang,"Jianyang, Fujian, China"
@@ -7336,8 +7337,8 @@ dd_gearing|uss_noa,Blas de Lezo,Blas de Lezo y Olavarrieta
 dd_gearing|uss_noa,Noa,David Bernard Loveman Noa
 dd_gearing|uss_norris,Kocatepe,"Battle of Dumlup?nar, Greco-Turkish War of 1919-1922"
 dd_gearing|uss_norris,Norris,Benjamin White Norris
-dd_gearing|uss_o`hare,Mendez Nunez,Casto Secundino Maria Mendez Nunez
-dd_gearing|uss_o`hare,O`Hare,Edward Henry O'Hare
+dd_gearing|uss_o_hare,Mendez Nunez,Casto Secundino Maria Mendez Nunez
+dd_gearing|uss_o_hare,O'Hare,Edward Henry O'Hare
 dd_gearing|uss_orleck,Orleck,Joseph Orleck
 dd_gearing|uss_orleck,Yucetepe,
 dd_gearing|uss_ozbourn,Ozbourn,Joseph William Ozbourn
@@ -7351,11 +7352,15 @@ dd_gearing|uss_richard_b_anderson,Kai Yang,"Kaiyang, Guizhou, China"
 dd_gearing|uss_richard_b_anderson,Richard B. Anderson,Richard Beatty Anderson
 dd_gearing|uss_richard_e_kraus,Gwangju,"Gwangju, Gwangju, South Korea"
 dd_gearing|uss_richard_e_kraus,Richard E. Kraus,Richard Edward Kraus
+dd_gearing|uss_robert_a_owens,Alci Tepe,Gallipoli Campaign
+dd_gearing|uss_robert_a_owens,Robert A. Owens,Robert Allen Owens
 dd_gearing|uss_robert_h_mccard,Kilic Ali Pasa,Occhiali
 dd_gearing|uss_robert_h_mccard,Robert H. McCard,Robert Howard McCard
 dd_gearing|uss_robert_l_wilson,Robert L. Wilson,Robert Lee Wilson
 dd_gearing|uss_rogers,Jeonju,"Jeonju, North Jeolla, South Korea"
 dd_gearing|uss_rogers,Rogers,Rogers Brothers
+dd_gearing|uss_rowan,Chao Yang,"Chaoyang, Beijing, China"
+dd_gearing|uss_rowan,Rowan,Stephen Clegg Rowan
 dd_gearing|uss_rupertus,Kountouriotis,Pavlos Kountouriotis
 dd_gearing|uss_rupertus,Rupertus,William Henry Rupertus
 dd_gearing|uss_samuel_b_roberts,Samuel B. Roberts,Samuel Booker Roberts Jr.
@@ -7365,6 +7370,7 @@ dd_gearing|uss_seaman,Seaman,Allen Lang Seaman
 dd_gearing|uss_seymour_d_owens,Seymour D. Owens,Seymour D. Owens
 dd_gearing|uss_shelton,Shelton,James A. Shelton
 dd_gearing|uss_shelton,Sui Yang,"Shangqiu, Henan, China"
+dd_gearing|uss_southerland,Southerland,William Henry Hudson Southerland
 dd_gearing|uss_steinaker,Netzahualcoyotl,"Netzahualcoyotl, Emperor of Texcoco"
 dd_gearing|uss_steinaker,Steinaker,Donald Baur Steinaker
 dd_gearing|uss_stickell,Kanaris,Konstantinos Kanaris
@@ -7374,6 +7380,8 @@ dd_gearing|uss_theodore_e_chandler,Theodore E. Chandler,Theodore Edson Chandler
 dd_gearing|uss_timmerman,Timmerman,Grant Frederick Timmerman
 dd_gearing|uss_turner,Turner,Daniel Turner
 dd_gearing|uss_vesole,Vesole,Kay Kopl Vesole
+dd_gearing|uss_vogelgesang,Quetzalcoatl,Quetzalcoatl
+dd_gearing|uss_vogelgesang,Vogelgesang,Carl Theodore Vogelgesang
 dd_gearing|uss_warrington,Warrington,Lewis Warrington
 dd_gearing|uss_william_c_lawe,William C. Lawe,William Clare Lawe
 dd_gearing|uss_william_m_wood,William M. Wood,William Maxwell Wood
@@ -9449,9 +9457,6 @@ dd_zephyr_1943|hms_zephyr,Zephyr,Zephyrus
 dd_zephyr_1943|hms_zest,Zest,Zest
 dd_zephyr_1943|hms_zodiac,Yaffa,"Jaffa, Israel"
 dd_zephyr_1943|hms_zodiac,Zodiac,Zodiac
-dde_epperson|uss_basilone,Basilone,John Basilone
-dde_epperson|uss_epperson,Epperson,Harold Glenn Epperson
-dde_epperson|uss_epperson,Taimur,"Timur, Amir of the Timurid Empire"
 ddg_aconit|aconit,Aconit,
 ddg_akizuki|jds_akizuki,Akizuki,Autumn Moon
 ddg_akizuki|jds_fuyuzuki,Fuyuzuki,Winter Moon
@@ -9957,10 +9962,6 @@ ddk_ayanami|jds_oonami,Oonami,Big Wave
 ddk_ayanami|jds_shikinami,Shikinami,Spreading Waves
 ddk_ayanami|jds_takanami,Takanami,Crashing Wave
 ddk_ayanami|jds_uranami,Uranami,Bay Waves
-ddk_carpenter|uss_carpenter,Anittepe,"Anittepe, Ankara, Turkey"
-ddk_carpenter|uss_carpenter,Carpenter,Donald Marshall Carpenter
-ddk_carpenter|uss_robert_a_owens,Alci Tepe,Gallipoli Campaign
-ddk_carpenter|uss_robert_a_owens,Robert A. Owens,Robert Allen Owens
 ddk_makinami|jds_makinami,Makinami,Rolling Wave
 ddk_minegumo|jds_minegumo,Minegumo,Cumulus Cloud
 ddk_minegumo|jds_murakumo,Murakumo,Altocumulus Cloud

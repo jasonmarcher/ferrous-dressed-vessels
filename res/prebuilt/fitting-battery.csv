@@ -5957,12 +5957,12 @@ ca_portland|indianapolis_1942_4,20-p-mk6_x10-port,20-he-mk3,AA Battery,4
 ca_portland|1943_3,203-ag-tripple_aby,203-ap-mk19,Primary Gun,1
 ca_portland|1943_3,127-p-mk19_x8-port,127-hc-mk36_127-aac-mk28,Secondary Gun,2
 ca_portland|1943_3,40-t-mk2_x4-port,40-he-mk1,AA Battery,3
-ca_portland|1943_3,40-t-mk1_x2-aft-alt,40-he-mk1,AA Battery,3
+ca_portland|1943_3,40-t-mk1_x2-aft,40-he-mk1,AA Battery,3
 ca_portland|1943_3,20-p-mk6_x18-port,20-he-mk3,AA Battery,4
 ca_portland|indianapolis_1943_5,203-ag-tripple_aby,203-ap-mk19,Primary Gun,1
 ca_portland|indianapolis_1943_5,127-p-mk19_x8-port,127-hc-mk36_127-aac-mk28,Secondary Gun,2
 ca_portland|indianapolis_1943_5,40-t-mk2_x4-port,40-he-mk1,AA Battery,3
-ca_portland|indianapolis_1943_5,40-t-mk1_x2-aft-alt,40-he-mk1,AA Battery,3
+ca_portland|indianapolis_1943_5,40-t-mk1_x2-aft,40-he-mk1,AA Battery,3
 ca_portland|indianapolis_1943_5,20-p-mk6_x19-port,20-he-mk3,AA Battery,4
 ca_portland|1944_5,203-ag-tripple_aby,203-ap-mk19,Primary Gun,1
 ca_portland|1944_5,127-p-mk19_x8-port,127-hc-mk36_127-aac-mk28,Secondary Gun,2
@@ -6020,12 +6020,12 @@ ca_northampton|chicago_1942_11,20-p-mk6_x16-nh,20-he-mk3,AA Battery,4
 ca_northampton|augusta_1942_12,203-ag-tripple_aby,203-ap-mk19,Primary Gun,1
 ca_northampton|augusta_1942_12,127-p-mk19_x8-port,127-hc-mk36_127-aac-mk28,Secondary Gun,2
 ca_northampton|augusta_1942_12,40-t-mk2_x4-port,40-he-mk1,AA Battery,3
-ca_northampton|augusta_1942_12,40-t-mk1_x2-aft-alt,40-he-mk1,AA Battery,3
+ca_northampton|augusta_1942_12,40-t-mk1_x2-aft,40-he-mk1,AA Battery,3
 ca_northampton|augusta_1942_12,20-p-mk6_x19-nh-alt,20-he-mk3,AA Battery,4
 ca_northampton|1943,203-ag-tripple_aby,203-ap-mk19,Primary Gun,1
 ca_northampton|1943,127-p-mk19_x8-port,127-hc-mk36_127-aac-mk28,Secondary Gun,2
 ca_northampton|1943,40-t-mk2_x4-port,40-he-mk1,AA Battery,3
-ca_northampton|1943,40-t-mk1_x2-aft-alt,40-he-mk1,AA Battery,3
+ca_northampton|1943,40-t-mk1_x2-aft,40-he-mk1,AA Battery,3
 ca_northampton|1943,20-p-mk6_x25-nh,20-he-mk3,AA Battery,4
 ca_northampton|louisville_1943,203-ag-tripple_aby,203-ap-mk19,Primary Gun,1
 ca_northampton|louisville_1943,127-p-mk19_x8-port,127-hc-mk36_127-aac-mk28,Secondary Gun,2
@@ -6278,12 +6278,12 @@ cl_manchester_1952,76-cp-mk27_x8,76-aa-mk31,AA Battery,3
 cl_fargo,152-ag-tripple_abxy,152-ap-mk35,Primary Gun,1
 cl_fargo,127-ag-mk32_x6,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 cl_fargo,40-t-mk2_x6-pen,40-he-mk1,AA Battery,3
-cl_fargo,40-t-mk1_x2-aft-alt,40-he-mk1,AA Battery,3
+cl_fargo,40-t-mk1_x2-aft,40-he-mk1,AA Battery,3
 cl_fargo,20-p-mk24_x10-fargo,20-he-mk3,AA Battery,4
 cl_fargo|1948,152-ag-tripple_abxy,152-ap-mk35,Primary Gun,1
 cl_fargo|1948,127-ag-mk32_x6,127-spc-mk32_127-aac-mk34,Secondary Gun,2
 cl_fargo|1948,40-t-mk2_x6-pen,40-he-mk1,AA Battery,3
-cl_fargo|1948,40-t-mk1_x2-aft-alt,40-he-mk1,AA Battery,3
+cl_fargo|1948,40-t-mk1_x2-aft,40-he-mk1,AA Battery,3
 cl_fargo|1948,20-p-mk24_x6-fargo,20-he-mk3,AA Battery,4
 cl_atlanta,127-ag-mk32_abcpsxyz,127-spc-mk32_127-aac-mk34,Primary Gun,1
 cl_atlanta,28-p-quad_x3-atlanta,28-het-mk1,AA Battery,2
@@ -6401,7 +6401,7 @@ cl_brooklyn|savannah_1942,20-p-mk6_x15-brooklyn,20-he-mk3,AA Battery,4
 cl_brooklyn|phoenix_1943,152-ag-tripple_abcxy,152-ap-mk35,Primary Gun,1
 cl_brooklyn|phoenix_1943,127-p-mk19_x8-brooklyn-alt,127-hc-mk36_127-aac-mk28,Secondary Gun,2
 cl_brooklyn|phoenix_1943,40-t-mk1_x4-brooklyn,40-he-mk1,AA Battery,3
-cl_brooklyn|phoenix_1943,40-t-mk1_x2-aft-alt,40-he-mk1,AA Battery,3
+cl_brooklyn|phoenix_1943,40-t-mk1_x2-aft,40-he-mk1,AA Battery,3
 cl_brooklyn|phoenix_1943,20-p-mk6_x16-brooklyn-alt,20-he-mk3,AA Battery,4
 cl_brooklyn|nashville_1943,152-ag-tripple_abcxy,152-ap-mk35,Primary Gun,1
 cl_brooklyn|nashville_1943,127-p-mk19_x8-brooklyn-alt,127-hc-mk36_127-aac-mk28,Secondary Gun,2
@@ -18368,7 +18368,7 @@ dd_zafer_1977,placeholder_torpedo,,,
 dd_zafer_1977,183-hedgehog-mk10_x2-fore,,,
 dd_zafer_1977|1979,127-ag-mk38-mod1_x3-aby-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
 dd_zafer_1977|1979,40-t-mk1_x2-allen-m-sumner-alt,40-he-mk1,AA Battery,2
-dd_zafer_1977|1979,35-gdm-a_x1-aft,35-ahead,AA Battery,3
+dd_zafer_1977|1979,35-gdm-a_x1-x,35-ahead,AA Battery,3
 dd_zafer_1977|1979,324-tt-tripple_x2,,,
 dd_zafer_1977|1979,placeholder_torpedo,,,
 dd_zafer_1977|1979,183-hedgehog-mk10_x2-fore,,,
@@ -18469,3 +18469,595 @@ ddk_barry_1967,placeholder_asroc,,,
 ddk_barry_1967,324-tt-tripple_x2,,,
 ddk_barry_1967,placeholder_torpedo,,,
 ddk_barry_1967,dcr-unknown_x1,,,
+dl_norfolk,76-ag-mk33_x4-abxy,76-aa-mk31,Primary Gun,1
+dl_norfolk,20-p-mk24_x8-norfolk,20-he-mk3,AA Battery,2
+dl_norfolk,533-tt-hull_x8-side,,,
+dl_norfolk,placeholder_torpedo,,,
+dl_norfolk,324-mk108_x4-bbxx,,,
+dl_norfolk|final,76-ag-mk33_x4-abxy,76-aa-mk31,Primary Gun,1
+dl_norfolk|final,20-p-mk24_x8-norfolk,20-he-mk3,AA Battery,2
+dl_norfolk|final,533-tt-hull_x8-side,,,
+dl_norfolk|final,placeholder_torpedo,,,
+dl_norfolk|final,324-mk108_x4-bbxx,,,
+dl_norfolk|1956,76-ag-mk37_x4-abxy,76-aa-mk34,Primary Gun,1
+dl_norfolk|1956,20-p-mk24_x4-norfolk,20-he-mk3,AA Battery,2
+dl_norfolk|1956,533-tt-hull_x8-side,,,
+dl_norfolk|1956,placeholder_torpedo,,,
+dl_norfolk|1956,324-mk108_x4-bbxx,,,
+dl_norfolk|1958,76-ag-mk37_x4-abxy,76-aa-mk34,Primary Gun,1
+dl_norfolk|1958,533-tt-hull_x8-side,,,
+dl_norfolk|1958,placeholder_torpedo,,,
+dl_norfolk|1958,324-mk108_x4-bbxx,,,
+dl_norfolk|1960,76-ag-mk37_x4-abxy,76-aa-mk34,Primary Gun,1
+dl_norfolk|1960,placeholder_asroc,,,
+dl_norfolk|1960,324-mk108_x2-bb,,,
+dd_gearing,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing,40-t-mk2_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing,20-p-mk6_x11-allen-m-sumner,20-he-mk3,AA Battery,3
+dd_gearing,533-tt-mk15-quint_x2-centerline,,,
+dd_gearing,placeholder_torpedo,,,
+dd_gearing,dct-mk6-mk8_x6,,,
+dd_gearing,dcr-mk3-mk8_x2,,,
+dd_gearing|final,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|final,40-t-mk2_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|final,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|final,20-p-mk6_x11-allen-m-sumner,20-he-mk3,AA Battery,3
+dd_gearing|final,533-tt-mk15-quint_x1,,,
+dd_gearing|final,placeholder_torpedo,,,
+dd_gearing|final,dct-mk6-mk8_x6,,,
+dd_gearing|final,dcr-mk3-mk8_x2,,,
+dd_gearing|ddr,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|ddr,40-t-mk2_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|ddr,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|ddr,20-p-mk6_x11-allen-m-sumner,20-he-mk3,AA Battery,3
+dd_gearing|ddr,533-tt-mk15-quint_x1,,,
+dd_gearing|ddr,placeholder_torpedo,,,
+dd_gearing|ddr,dct-mk6-mk8_x6,,,
+dd_gearing|ddr,dcr-mk3-mk8_x2,,,
+dd_gearing|1945,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1945,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1945,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1945,20-p-mk24_x4-allen-m-sumner,20-he-mk3,AA Battery,3
+dd_gearing|1945,533-tt-mk15-quint_x1,,,
+dd_gearing|1945,placeholder_torpedo,,,
+dd_gearing|1945,dct-mk6-mk8_x6,,,
+dd_gearing|1945,dcr-mk3-mk8_x2,,,
+dd_gearing|1945_alt,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1945_alt,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1945_alt,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1945_alt,20-p-mk6_x11-allen-m-sumner,20-he-mk3,AA Battery,3
+dd_gearing|1945_alt,533-tt-mk15-quint_x1,,,
+dd_gearing|1945_alt,placeholder_torpedo,,,
+dd_gearing|1945_alt,dct-mk6-mk8_x6,,,
+dd_gearing|1945_alt,dcr-mk3-mk8_x2,,,
+dd_gearing|rba,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|rba,40-t-mk2_x1-gearing,40-he-mk1,AA Battery,2
+dd_gearing|rba,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|rba,20-p-mk24_x4-allen-m-sumner,20-he-mk3,AA Battery,3
+dd_gearing|rba,533-tt-mk15-quint_x1,,,
+dd_gearing|rba,placeholder_torpedo,,,
+dd_gearing|rba,dct-mk6-mk8_x6,,,
+dd_gearing|rba,dcr-mk3-mk8_x2,,,
+dd_gearing|rba_alt,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|rba_alt,40-t-mk2_x1-gearing,40-he-mk1,AA Battery,2
+dd_gearing|rba_alt,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|rba_alt,20-p-mk6_x8-gearing,20-he-mk3,AA Battery,3
+dd_gearing|rba_alt,533-tt-mk15-quint_x1,,,
+dd_gearing|rba_alt,placeholder_torpedo,,,
+dd_gearing|rba_alt,dct-mk6-mk8_x6,,,
+dd_gearing|rba_alt,dcr-mk3-mk8_x2,,,
+dd_gearing|1946,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1946,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1946,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1946,20-p-mk24_x7-gearing,20-he-mk3,AA Battery,3
+dd_gearing|1946,533-tt-mk15-quint_x1,,,
+dd_gearing|1946,placeholder_torpedo,,,
+dd_gearing|1946,dct-mk6-mk8_x6,,,
+dd_gearing|1946,dcr-mk3-mk8_x2,,,
+dd_gearing|1947,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1947,40-t-mk2_x2-gearing,40-he-mk1,AA Battery,2
+dd_gearing|1947,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1947,20-p-mk24_x4-allen-m-sumner,20-he-mk3,AA Battery,3
+dd_gearing|1947,533-tt-mk15-quint_x1,,,
+dd_gearing|1947,placeholder_torpedo,,,
+dd_gearing|1947,dct-mk6-mk8_x6,,,
+dd_gearing|1947,dcr-mk3-mk8_x2,,,
+dd_gearing|1947_76mm,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1947_76mm,76-cp-mk27_x1-x,76-aa-mk31,AA Battery,2
+dd_gearing|1947_76mm,40-t-mk2_x1-gearing,40-he-mk1,AA Battery,3
+dd_gearing|1947_76mm,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,3
+dd_gearing|1947_76mm,20-p-mk24_x4-allen-m-sumner,20-he-mk3,AA Battery,4
+dd_gearing|1947_76mm,533-tt-mk15-quint_x1,,,
+dd_gearing|1947_76mm,placeholder_torpedo,,,
+dd_gearing|1947_76mm,dct-mk6-mk8_x6,,,
+dd_gearing|1947_76mm,dcr-mk3-mk8_x2,,,
+dd_gearing|1954_76mm,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1954_76mm,76-cp-mk27_x1-x,76-aa-mk31,AA Battery,2
+dd_gearing|1954_76mm,40-t-mk2_x1-gearing,40-he-mk1,AA Battery,3
+dd_gearing|1954_76mm,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,3
+dd_gearing|1954_76mm,183-hedgehog-mk10_x2-fore,,,
+dd_gearing|1954_76mm,dct-mk6-mk8_x6,,,
+dd_gearing|1954_76mm,dcr-mk3-mk8_x1,,,
+dd_gearing|1950,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1950,40-t-mk2_x3-allen-m-sumner-2,40-he-mk1,AA Battery,2
+dd_gearing|1950,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1950,533-tt-mk15-quint_x1,,,
+dd_gearing|1950,placeholder_torpedo,,,
+dd_gearing|1950,183-hedgehog-mk10_x2-fore,,,
+dd_gearing|1950,dct-mk6-mk8_x6,,,
+dd_gearing|1950,dcr-mk3-mk8_x2,,,
+dd_gearing|1951,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1951,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1951,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1951,20-p-mk24_x4-allen-m-sumner,20-he-mk3,AA Battery,3
+dd_gearing|1951,533-tt-mk15-quint_x1,,,
+dd_gearing|1951,placeholder_torpedo,,,
+dd_gearing|1951,183-hedgehog-mk15_x1-b,,,
+dd_gearing|1951,dct-mk6-mk8_x6,,,
+dd_gearing|1951,dcr-mk3-mk8_x1,,,
+dd_gearing|1951_alt,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1951_alt,40-t-mk2_x2-gearing,40-he-mk1,AA Battery,2
+dd_gearing|1951_alt,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1951_alt,20-p-mk24_x4-gearing-4,20-he-mk3,AA Battery,3
+dd_gearing|1951_alt,533-tt-mk15-quint_x1,,,
+dd_gearing|1951_alt,placeholder_torpedo,,,
+dd_gearing|1951_alt,183-hedgehog-mk15_x1-b,,,
+dd_gearing|1951_alt,dct-mk6-mk8_x6,,,
+dd_gearing|1951_alt,dcr-mk3-mk8_x2,,,
+dd_gearing|1954,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1954,40-t-mk2_x3-allen-m-sumner-2,40-he-mk1,AA Battery,2
+dd_gearing|1954,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1954,533-tt-mk15-quint_x1,,,
+dd_gearing|1954,placeholder_torpedo,,,
+dd_gearing|1954,183-hedgehog-mk10_x2-fore,,,
+dd_gearing|1954,dcr-mk3-mk8_x1,,,
+dd_gearing|1955,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1955,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1955,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1955,533-tt-mk15-quint_x1,,,
+dd_gearing|1955,placeholder_torpedo,,,
+dd_gearing|1955,183-hedgehog-mk15_x1-b,,,
+dd_gearing|1955,183-hedgehog-mk10_x2-fore,,,
+dd_gearing|1955,dct-mk6-mk8_x6,,,
+dd_gearing|1955,dcr-mk3-mk8_x1,,,
+dd_gearing|1955_alt,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1955_alt,40-t-mk2_x2-gearing,40-he-mk1,AA Battery,2
+dd_gearing|1955_alt,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1955_alt,533-tt-mk15-quint_x1,,,
+dd_gearing|1955_alt,placeholder_torpedo,,,
+dd_gearing|1955_alt,183-hedgehog-mk15_x1-b,,,
+dd_gearing|1955_alt,dct-mk6-mk8_x6,,,
+dd_gearing|1955_alt,dcr-mk3-mk8_x1,,,
+dd_gearing|1956,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|1956,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1956,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_gearing|1956,533-tt-mk15-quint_x1,,,
+dd_gearing|1956,placeholder_torpedo,,,
+dd_gearing|1956,183-hedgehog-mk15_x1-b,,,
+dd_gearing|1956,dct-mk6-mk8_x6,,,
+dd_gearing|1956,dcr-mk3-mk8_x1,,,
+dd_gearing|76mm_1,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|76mm_1,76-cp-mk27_x1-x,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_1,76-cp-mk34_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_1,533-tt-mk15-quint_x1,,,
+dd_gearing|76mm_1,placeholder_torpedo,,,
+dd_gearing|76mm_1,183-hedgehog-mk10_x2-fore,,,
+dd_gearing|76mm_1,dct-mk6-mk8_x6,,,
+dd_gearing|76mm_1,dcr-mk3-mk8_x2,,,
+dd_gearing|76mm_1|alt,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|76mm_1|alt,76-cp-mk27_x1-x,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_1|alt,76-cp-mk34_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_1|alt,20-p-mk24_x2-gearing,20-he-mk3,AA Battery,3
+dd_gearing|76mm_1|alt,533-tt-mk15-quint_x1,,,
+dd_gearing|76mm_1|alt,placeholder_torpedo,,,
+dd_gearing|76mm_1|alt,dct-mk6-mk8_x6,,,
+dd_gearing|76mm_1|alt,dcr-mk3-mk8_x2,,,
+dd_gearing|76mm_2,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|76mm_2,76-cp-mk27_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_2,76-cp-mk34_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_2,533-tt-mk15-quint_x1,,,
+dd_gearing|76mm_2,placeholder_torpedo,,,
+dd_gearing|76mm_2,183-hedgehog-mk10_x2-fore,,,
+dd_gearing|76mm_2,dct-mk6-mk8_x6,,,
+dd_gearing|76mm_2,dcr-mk3-mk8_x1,,,
+dd_gearing|76mm_2_2,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|76mm_2_2,76-cp-mk27_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_2_2,76-cp-mk34_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_2_2,533-tt-mk15-quint_x1,,,
+dd_gearing|76mm_2_2,placeholder_torpedo,,,
+dd_gearing|76mm_2_2,183-hedgehog-mk10_x2-fore,,,
+dd_gearing|76mm_2_2,dcr-mk3-mk8_x1,,,
+dd_gearing|76mm_2_alt,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|76mm_2_alt,76-cp-mk27_x2-allen-m-sumner-alt,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_2_alt,76-cp-mk34_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_2_alt,533-tt-mk15-quint_x1,,,
+dd_gearing|76mm_2_alt,placeholder_torpedo,,,
+dd_gearing|76mm_2_alt,183-hedgehog-mk10_x2-fore,,,
+dd_gearing|76mm_2_alt,dct-mk6-mk8_x6,,,
+dd_gearing|76mm_2_alt,dcr-mk3-mk8_x1,,,
+dd_gearing|76mm_2_alt_2,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing|76mm_2_alt_2,76-cp-mk27_x2-allen-m-sumner-alt,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_2_alt_2,76-cp-mk34_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+dd_gearing|76mm_2_alt_2,533-tt-mk15-quint_x1,,,
+dd_gearing|76mm_2_alt_2,placeholder_torpedo,,,
+dd_gearing|76mm_2_alt_2,183-hedgehog-mk10_x2-fore,,,
+dd_gearing|76mm_2_alt_2,dcr-mk3-mk8_x1,,,
+edd_witek_1946,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+edd_witek_1946,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+edd_witek_1946,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+edd_witek_1946,20-p-mk24_x4-allen-m-sumner,20-he-mk3,AA Battery,3
+edd_witek_1946,533-tt-mk15-quint_x1,,,
+edd_witek_1946,placeholder_torpedo,,,
+edd_witek_1946,dct-mk6-mk8_x6,,,
+edd_witek_1946,dcr-mk3-mk8_x2,,,
+edd_witek_1946|1951,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+edd_witek_1946|1951,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+edd_witek_1946|1951,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+edd_witek_1946|1951,533-tt-mk15-quint_x1,,,
+edd_witek_1946|1951,placeholder_torpedo,,,
+edd_witek_1946|1951,183-hedgehog-mk15_x1-b,,,
+edd_witek_1946|1951,183-hedgehog-mk10_x2-fore,,,
+edd_witek_1946|1951,dct-mk6-mk8_x6,,,
+edd_witek_1946|1951,dcr-mk3-mk8_x1,,,
+edd_witek_1946|1960,127-ag-mk38-mod1_x1-a,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddk_carpenter,76-cp-mk27_x2-bx,76-aa-mk31,Primary Gun,1
+ddk_carpenter,20-p-mk24_x4-gearing-3,20-he-mk3,AA Battery,2
+ddk_carpenter,533-tt-hull_x4-side,,,
+ddk_carpenter,placeholder_torpedo,,,
+ddk_carpenter,324-mk108_x2-bx,,,
+ddk_carpenter,183-hedgehog-mk15_x1-b,,,
+ddk_carpenter,dct-mk6-mk8_x4,,,
+ddk_carpenter,dcr-mk3-mk8_x2,,,
+ddk_carpenter|1955,76-ag-mk33_x2-ay,76-aa-mk31,Primary Gun,1
+ddk_carpenter|1955,20-p-mk24_x4-alt,20-he-mk3,AA Battery,2
+ddk_carpenter|1955,533-tt-hull_x4-side,,,
+ddk_carpenter|1955,placeholder_torpedo,,,
+ddk_carpenter|1955,324-mk108_x2-bx,,,
+ddk_carpenter|1955,183-hedgehog-mk15_x1-b,,,
+ddk_carpenter|1955,dct-mk6-mk8_x4,,,
+ddk_carpenter|1955,dcr-mk3-mk8_x1,,,
+ddk_carpenter|1957,76-ag-mk37_x2-ay,76-aa-mk34,Primary Gun,1
+ddk_carpenter|1957,533-tt-hull_x4-side,,,
+ddk_carpenter|1957,placeholder_torpedo,,,
+ddk_carpenter|1957,324-mk108_x2-bx,,,
+ddk_carpenter|1957,dcr-mk3-mk8_x1,,,
+dde_epperson,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dde_epperson,76-cp-mk27_x2-allen-m-sumner-alt,76-aa-mk31,AA Battery,2
+dde_epperson,20-p-mk24_x4-gearing,20-he-mk3,AA Battery,3
+dde_epperson,324-mk108_x1-b,,,
+dde_epperson,183-hedgehog-mk15_x2-wing,,,
+dde_epperson,dcr-mk3-mk8_x1,,,
+dde_epperson|early,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dde_epperson|early,40-t-mk2_x3-allen-m-sumner-2,40-he-mk1,AA Battery,2
+dde_epperson|early,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dde_epperson|early,20-p-mk24_x4-gearing,20-he-mk3,AA Battery,3
+dde_epperson|early,324-mk108_x1-b,,,
+dde_epperson|early,183-hedgehog-mk15_x2-wing,,,
+dde_epperson|early,dcr-mk3-mk8_x1,,,
+dde_epperson|40mm,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dde_epperson|40mm,40-t-mk2_x3-allen-m-sumner-2,40-he-mk1,AA Battery,2
+dde_epperson|40mm,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dde_epperson|40mm,20-p-mk6_x8-gearing,20-he-mk3,AA Battery,3
+dde_epperson|40mm,324-mk108_x1-b,,,
+dde_epperson|40mm,dct-mk6-mk8_x6,,,
+dde_epperson|40mm,dcr-mk3-mk8_x2,,,
+dde_epperson|1953_40mm,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dde_epperson|1953_40mm,40-t-mk2_x3-allen-m-sumner-2,40-he-mk1,AA Battery,2
+dde_epperson|1953_40mm,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dde_epperson|1953_40mm,20-p-mk24_x4-gearing,20-he-mk3,AA Battery,3
+dde_epperson|1953_40mm,324-mk108_x1-b,,,
+dde_epperson|1953_40mm,dct-mk6-mk8_x6,,,
+dde_epperson|1953_40mm,dcr-mk3-mk8_x2,,,
+dde_epperson|1954,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dde_epperson|1954,76-cp-mk27_x2-allen-m-sumner-alt,76-aa-mk31,AA Battery,2
+dde_epperson|1954,20-p-mk24_x4-gearing-2,20-he-mk3,AA Battery,3
+dde_epperson|1954,324-mk108_x1-b,,,
+dde_epperson|1954,183-hedgehog-mk10_x2-fore,,,
+dde_epperson|1954,dct-mk6-mk8_x6,,,
+dde_epperson|1954,dcr-mk3-mk8_x1,,,
+dde_epperson|1955_40mm,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dde_epperson|1955_40mm,40-t-mk2_x3-allen-m-sumner-2,40-he-mk1,AA Battery,2
+dde_epperson|1955_40mm,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dde_epperson|1955_40mm,324-mk108_x1-b,,,
+dde_epperson|1955_40mm,dct-mk6-mk8_x6,,,
+dde_epperson|1955_40mm,dcr-mk3-mk8_x2,,,
+dde_epperson|1958,127-ag-mk38-mod1_x2-ay,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dde_epperson|1958,76-cp-mk27_x2-allen-m-sumner-alt,76-aa-mk31,AA Battery,2
+dde_epperson|1958,324-tt-tripple_x2,,,
+dde_epperson|1958,placeholder_torpedo,,,
+dde_epperson|1958,324-mk108_x1-b,,,
+dde_epperson|1958,183-hedgehog-mk10_x2-fore,,,
+dde_epperson|1958,dcr-mk3-mk8_x1,,,
+ddr_everett_f_larson_1945,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945,20-p-mk6_x9-gearing,20-he-mk3,AA Battery,3
+ddr_everett_f_larson_1945,dct-mk6-mk8_x6,,,
+ddr_everett_f_larson_1945,dcr-mk3-mk8_x2,,,
+ddr_everett_f_larson_1945|1946,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1946,40-t-mk2_x2-gearing,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945|1946,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945|1946,20-p-mk24_x4-allen-m-sumner,20-he-mk3,AA Battery,3
+ddr_everett_f_larson_1945|1946,dct-mk6-mk8_x6,,,
+ddr_everett_f_larson_1945|1946,dcr-mk3-mk8_x2,,,
+ddr_everett_f_larson_1945|1947,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1947,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945|1947,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945|1947,20-p-mk24_x4-allen-m-sumner,20-he-mk3,AA Battery,3
+ddr_everett_f_larson_1945|1947,dct-mk6-mk8_x6,,,
+ddr_everett_f_larson_1945|1947,dcr-mk3-mk8_x2,,,
+ddr_everett_f_larson_1945|1951,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1951,40-t-mk2_x3-allen-m-sumner,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945|1951,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945|1951,183-hedgehog-mk10_x2-fore,,,
+ddr_everett_f_larson_1945|1951,dct-mk6-mk8_x6,,,
+ddr_everett_f_larson_1945|1951,dcr-mk3-mk8_x2,,,
+ddr_everett_f_larson_1945|1952,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1952,76-cp-mk27_x3-gearing,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1952,183-hedgehog-mk10_x2-fore,,,
+ddr_everett_f_larson_1945|1952,dct-mk6-mk8_x4,,,
+ddr_everett_f_larson_1945|1952,dcr-mk3-mk8_x1,,,
+ddr_everett_f_larson_1945|1952_alt,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1952_alt,76-cp-mk27_x1-x,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1952_alt,76-cp-mk34_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1952_alt,183-hedgehog-mk10_x2-fore,,,
+ddr_everett_f_larson_1945|1952_alt,dct-mk6-mk8_x6,,,
+ddr_everett_f_larson_1945|1952_alt,dcr-mk3-mk8_x1,,,
+ddr_everett_f_larson_1945|1952_alt_2,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1952_alt_2,76-cp-mk27_x2-allen-m-sumner-alt,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1952_alt_2,183-hedgehog-mk10_x2-fore,,,
+ddr_everett_f_larson_1945|1952_alt_2,dct-mk6-mk8_x6,,,
+ddr_everett_f_larson_1945|1952_alt_2,dcr-mk3-mk8_x1,,,
+ddr_everett_f_larson_1945|1952_alt_3,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1952_alt_3,76-cp-mk27_x2-allen-m-sumner-alt,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1952_alt_3,76-cp-mk34_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1952_alt_3,183-hedgehog-mk10_x2-fore,,,
+ddr_everett_f_larson_1945|1952_alt_3,dct-mk6-mk8_x6,,,
+ddr_everett_f_larson_1945|1952_alt_3,dcr-mk3-mk8_x1,,,
+ddr_everett_f_larson_1945|1954_40mm,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1954_40mm,40-t-mk2_x2-gearing,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945|1954_40mm,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+ddr_everett_f_larson_1945|1954_40mm,dct-mk6-mk8_x6,,,
+ddr_everett_f_larson_1945|1954_40mm,dcr-mk3-mk8_x2,,,
+ddr_everett_f_larson_1945|1955,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1955,76-cp-mk27_x3-gearing,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1955,183-hedgehog-mk10_x2-fore,,,
+ddr_everett_f_larson_1945|1955,dcr-mk3-mk8_x1,,,
+ddr_everett_f_larson_1945|1956,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1956,76-cp-mk27_x1-x,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1956,76-cp-mk34_x2-allen-m-sumner,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1956,183-hedgehog-mk10_x2-fore,,,
+ddr_everett_f_larson_1945|1956,dcr-mk3-mk8_x1,,,
+ddr_everett_f_larson_1945|1959,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1959,76-cp-mk27_x1-x,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1959,183-hedgehog-mk10_x2-fore,,,
+ddr_everett_f_larson_1945|1959,dcr-mk3-mk8_x1,,,
+ddr_everett_f_larson_1945|1960,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|1960,76-cp-mk27_x1-x,76-aa-mk31,AA Battery,2
+ddr_everett_f_larson_1945|1960,324-tt-tripple_x2,,,
+ddr_everett_f_larson_1945|1960,placeholder_torpedo,,,
+ddr_everett_f_larson_1945|1960,183-hedgehog-mk10_x2-fore,,,
+ddr_everett_f_larson_1945|1960,dcr-mk3-mk8_x1,,,
+ddr_everett_f_larson_1945|fram_ii,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+ddr_everett_f_larson_1945|fram_ii,324-tt-tripple_x2,,,
+ddr_everett_f_larson_1945|fram_ii,placeholder_torpedo,,,
+ddr_everett_f_larson_1945|fram_ii,183-hedgehog-mk10_x2-fore,,,
+edd_timmerman_1950,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+edd_timmerman_1950,40-t-mk2_x2-gearing,40-he-mk1,AA Battery,2
+edd_timmerman_1950,40-t-mk1_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+edd_timmerman_1950,20-p-mk24_x4-allen-m-sumner,20-he-mk3,AA Battery,3
+dd_gearing_fram_i,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing_fram_i,placeholder_asroc,,,
+dd_gearing_fram_i,324-tt-tripple_x2,,,
+dd_gearing_fram_i,placeholder_torpedo,,,
+dd_gearing_fram_i|fram_ia,127-ag-mk38-mod1_x2-ab,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing_fram_i|fram_ia,placeholder_asroc,,,
+dd_gearing_fram_i|fram_ia,324-tt-tripple_x2,,,
+dd_gearing_fram_i|fram_ia,placeholder_torpedo,,,
+dd_gearing_fram_i|fram_ii,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing_fram_i|fram_ii,324-tt-tripple_x2,,,
+dd_gearing_fram_i|fram_ii,placeholder_torpedo,,,
+dd_gearing_fram_i|fram_ii,183-hedgehog-mk10_x2-fore,,,
+dd_gearing_fram_i|alt,127-ag-mk38-mod1_x1-a,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing_fram_i|alt,placeholder_asroc,,,
+dd_gearing_fram_i|alt,324-tt-tripple_x2,,,
+dd_gearing_fram_i|alt,placeholder_torpedo,,,
+dd_gearing_fram_i|dash_i,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing_fram_i|dash_i,533-tt-hull_x2-side,,,
+dd_gearing_fram_i|dash_i,324-tt-tripple_x2,,,
+dd_gearing_fram_i|dash_i,placeholder_torpedo,,,
+dd_gearing_fram_i|dash_i,183-hedgehog-mk15_x1-b,,,
+dd_gearing_fram_ii,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gearing_fram_ii,324-tt-tripple_x2,,,
+dd_gearing_fram_ii,placeholder_torpedo,,,
+dd_gearing_fram_ii,183-hedgehog-mk10_x2-fore,,,
+dd_churucca,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_churucca,placeholder_asroc,,,
+dd_churucca,324-tt-tripple_x2,,,
+dd_churucca,placeholder_torpedo,,,
+dd_churucca|blas_de_lezo,127-ag-mk38-mod1_x2-ab,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_churucca|blas_de_lezo,placeholder_asroc,,,
+dd_churucca|blas_de_lezo,324-tt-tripple_x2,,,
+dd_churucca|blas_de_lezo,placeholder_torpedo,,,
+dd_chungbuk_1972,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_chungbuk_1972,324-tt-tripple_x2,,,
+dd_chungbuk_1972,placeholder_torpedo,,,
+dd_chungbuk_1972,183-hedgehog-mk10_x2-fore,,,
+dd_chungbuk_1972|1976,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_chungbuk_1972|1976,20-sm-sea-vulcan_x1-x,20-he-mk3,AA Battery,2
+dd_chungbuk_1972|1976,324-tt-tripple_x2,,,
+dd_chungbuk_1972|1976,placeholder_torpedo,,,
+dd_chungbuk_1972|1976,183-hedgehog-mk10_x2-fore,,,
+dd_chungbuk_1972|jeonbuk,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_chungbuk_1972|jeonbuk,35-gdm-a_x1-x,35-ahead,AA Battery,2
+dd_chungbuk_1972|jeonbuk,324-tt-tripple_x2,,,
+dd_chungbuk_1972|jeonbuk,placeholder_torpedo,,,
+dd_chungbuk_1972|jeonbuk,183-hedgehog-mk10_x2-fore,,,
+dd_gangwon,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gangwon,placeholder_asroc,,,
+dd_gangwon,324-tt-tripple_x2,,,
+dd_gangwon,placeholder_torpedo,,,
+dd_gangwon,dcr-mk3-mk8_x1,,,
+dd_gangwon|1982,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_gangwon|1982,40-t-mk1_x1-f,40-he-mk1,AA Battery,2
+dd_gangwon|1982,20-sm-sea-vulcan_x2-aft,20-he-mk3,AA Battery,3
+dd_gangwon|1982,placeholder_asroc,,,
+dd_gangwon|1982,324-tt-tripple_x2,,,
+dd_gangwon|1982,placeholder_torpedo,,,
+dd_gangwon|1982,dcr-mk3-mk8_x1,,,
+dd_tariq_1977,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_tariq_1977,placeholder_asroc,,,
+dd_tariq_1977,324-tt-tripple_x2,,,
+dd_tariq_1977,placeholder_torpedo,,,
+gb_nazim_1990,127-ag-mk38-mod1_x1-a,127-spc-mk32_127-aac-mk34,Primary Gun,1
+gb_nazim_1990,14-p-2m7-quad_x4,14-b-rus,AA Battery,2
+gb_nazim_1990,324-tt-tripple_x2,,,
+gb_nazim_1990,placeholder_torpedo,,,
+gb_nazim_1990|1998,127-ag-mk38-mod1_x1-a,127-spc-mk32_127-aac-mk34,Primary Gun,1
+gb_nazim_1990|1998,14-p-2m7-quad_x2,14-b-rus,AA Battery,2
+gb_nazim_1990|1998,324-tt-tripple_x2,,,
+gb_nazim_1990|1998,placeholder_torpedo,,,
+dd_fu_yang,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_fu_yang,40-t-mk1_x4-gearing,40-he-mk1,AA Battery,2
+dd_fu_yang,324-tt-tripple_x2,,,
+dd_fu_yang,placeholder_torpedo,,,
+dd_fu_yang,183-hedgehog-mk10_x2-fore,,,
+dd_chien_yang,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_chien_yang,placeholder_asroc,,,
+dd_chien_yang,324-tt-tripple_x2,,,
+dd_chien_yang,placeholder_torpedo,,,
+dd_chien_yang|chen_yang,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_chien_yang|chen_yang,324-tt-tripple_x2,,,
+dd_chien_yang|chen_yang,placeholder_torpedo,,,
+dd_chien_yang|dang_yang,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_chien_yang|dang_yang,324-tt-tripple_x2,,,
+dd_chien_yang|dang_yang,placeholder_torpedo,,,
+dd_chien_yang|dang_yang,183-hedgehog-mk15_x1-b,,,
+dd_chien_yang|han_yang,127-ag-mk38-mod1_x2-ab,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_chien_yang|han_yang,324-tt-tripple_x2,,,
+dd_chien_yang|han_yang,placeholder_torpedo,,,
+dd_chien_yang|liao_yang,127-ag-mk38-mod1_x2-ab,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_chien_yang|liao_yang,40-t-mk1_x2-gearing,40-he-mk1,AA Battery,2
+dd_chien_yang|liao_yang,324-tt-tripple_x2,,,
+dd_chien_yang|liao_yang,placeholder_torpedo,,,
+dd_themistoklis,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_themistoklis,324-tt-tripple_x2,,,
+dd_themistoklis,placeholder_torpedo,,,
+dd_themistoklis,183-hedgehog-mk10_x2-fore,,,
+dd_kanaris,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_kanaris,placeholder_asroc,,,
+dd_kanaris,324-tt-tripple_x2,,,
+dd_kanaris,placeholder_torpedo,,,
+dd_kanaris,dcr-mk3-mk8_x1,,,
+dd_kanaris|1979,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_kanaris|1979,76-at-compact_x1-x,76-he-ita-modern,Primary Gun,2
+dd_kanaris|1979,40-gs-sak40-350_x1-fore,40-het_40-pfhe,AA Battery,3
+dd_kanaris|1979,placeholder_asroc,,,
+dd_kanaris|1979,324-tt-tripple_x2,,,
+dd_kanaris|1979,placeholder_torpedo,,,
+dd_kanaris|1979,dcr-mk3-mk8_x1,,,
+dd_kanaris|1979_kountouriotis,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_kanaris|1979_kountouriotis,76-at-compact_x1-x,76-he-ita-modern,Primary Gun,2
+dd_kanaris|1979_kountouriotis,placeholder_asroc,,,
+dd_kanaris|1979_kountouriotis,324-tt-tripple_x2,,,
+dd_kanaris|1979_kountouriotis,placeholder_torpedo,,,
+dd_kanaris|1979_kountouriotis,dcr-mk3-mk8_x1,,,
+dd_adatepe_1971,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971,placeholder_asroc,,,
+dd_adatepe_1971,324-tt-tripple_x2,,,
+dd_adatepe_1971,placeholder_torpedo,,,
+dd_adatepe_1971,dcr-mk3-mk8_x1,,,
+dd_adatepe_1971|anittepe,127-ag-mk38-mod1_x1-a,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|anittepe,placeholder_asroc,,,
+dd_adatepe_1971|anittepe,324-tt-tripple_x2,,,
+dd_adatepe_1971|anittepe,placeholder_torpedo,,,
+dd_adatepe_1971|kilic_ali_pasa,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|kilic_ali_pasa,35-gdm-a_x1-x,35-ahead,AA Battery,2
+dd_adatepe_1971|kilic_ali_pasa,placeholder_asroc,,,
+dd_adatepe_1971|kilic_ali_pasa,324-tt-tripple_x2,,,
+dd_adatepe_1971|kilic_ali_pasa,placeholder_torpedo,,,
+dd_adatepe_1971|kilic_ali_pasa,dcr-mk3-mk8_x1,,,
+dd_adatepe_1971|kocatepe,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|kocatepe,324-tt-tripple_x2,,,
+dd_adatepe_1971|kocatepe,placeholder_torpedo,,,
+dd_adatepe_1971|kocatepe,183-hedgehog-mk15_x1-b,,,
+dd_adatepe_1971|savastepe,127-ag-mk38-mod1_x2-ab,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|savastepe,35-gdm-a_x1-y,35-ahead,AA Battery,2
+dd_adatepe_1971|savastepe,placeholder_asroc,,,
+dd_adatepe_1971|savastepe,324-tt-tripple_x2,,,
+dd_adatepe_1971|savastepe,placeholder_torpedo,,,
+dd_adatepe_1971|savastepe,dcr-mk3-mk8_x1,,,
+dd_adatepe_1971|kocatepe_1974,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|kocatepe_1974,40-t-mk3_x2-gearing,40-he-mk1,AA Battery,2
+dd_adatepe_1971|kocatepe_1974,324-tt-tripple_x2,,,
+dd_adatepe_1971|kocatepe_1974,placeholder_torpedo,,,
+dd_adatepe_1971|kocatepe_1974,183-hedgehog-mk15_x1-b,,,
+dd_adatepe_1971|1975,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|1975,40-t-mk1_x1-f,40-he-mk1,AA Battery,2
+dd_adatepe_1971|1975,35-gdm-a_x1-x,35-ahead,AA Battery,3
+dd_adatepe_1971|1975,placeholder_asroc,,,
+dd_adatepe_1971|1975,324-tt-tripple_x2,,,
+dd_adatepe_1971|1975,placeholder_torpedo,,,
+dd_adatepe_1971|1975,dcr-mk3-mk8_x1,,,
+dd_adatepe_1971|kocatepe_1977,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|kocatepe_1977,40-t-mk1_x2-wing,40-he-mk1,AA Battery,2
+dd_adatepe_1971|kocatepe_1977,40-t-mk3_x2-gearing,40-he-mk1,AA Battery,2
+dd_adatepe_1971|kocatepe_1977,324-tt-tripple_x2,,,
+dd_adatepe_1971|kocatepe_1977,placeholder_torpedo,,,
+dd_adatepe_1971|kocatepe_1977,183-hedgehog-mk15_x1-b,,,
+dd_adatepe_1971|gayret,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|gayret,40-t-mk1_x1-f,40-he-mk1,AA Battery,2
+dd_adatepe_1971|gayret,40-t-mk3_x2-allen-m-sumner,40-he-mk1,AA Battery,2
+dd_adatepe_1971|gayret,placeholder_asroc,,,
+dd_adatepe_1971|gayret,324-tt-tripple_x2,,,
+dd_adatepe_1971|gayret,placeholder_torpedo,,,
+dd_adatepe_1971|gayret,dcr-mk3-mk8_x1,,,
+dd_adatepe_1971|kocatepe_1980,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|kocatepe_1980,40-t-mk1_x2-wing,40-he-mk1,AA Battery,2
+dd_adatepe_1971|kocatepe_1980,35-gdm-a_x1-x,35-ahead,AA Battery,3
+dd_adatepe_1971|kocatepe_1980,324-tt-tripple_x2,,,
+dd_adatepe_1971|kocatepe_1980,placeholder_torpedo,,,
+dd_adatepe_1971|kocatepe_1980,183-hedgehog-mk15_x1-b,,,
+dd_adatepe_1971|1982_anittepe,127-ag-mk38-mod1_x1-a,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|1982_anittepe,76-cp-mk27_x1-x,76-aa-mk31,AA Battery,2
+dd_adatepe_1971|1982_anittepe,35-gdm-a_x1-b-alt,35-ahead,AA Battery,3
+dd_adatepe_1971|1982_anittepe,placeholder_asroc,,,
+dd_adatepe_1971|1982_anittepe,324-tt-tripple_x2,,,
+dd_adatepe_1971|1982_anittepe,placeholder_torpedo,,,
+dd_adatepe_1971|1982_anittepe,dcr-mk3-mk8_x1,,,
+dd_adatepe_1971|1984_yucetepe,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|1984_yucetepe,35-gdm-a_x1-b-alt,35-ahead,AA Battery,3
+dd_adatepe_1971|1984_yucetepe,placeholder_asroc,,,
+dd_adatepe_1971|1984_yucetepe,324-tt-tripple_x2,,,
+dd_adatepe_1971|1984_yucetepe,placeholder_torpedo,,,
+dd_adatepe_1971|1984_yucetepe,dcr-mk3-mk8_x1,,,
+dd_adatepe_1971|1986,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_adatepe_1971|1986,35-gdm-a_x1-x,35-ahead,AA Battery,2
+dd_adatepe_1971|1986,placeholder_asroc,,,
+dd_adatepe_1971|1986,324-tt-tripple_x2,,,
+dd_adatepe_1971|1986,placeholder_torpedo,,,
+dd_adatepe_1971|1986,dcr-mk3-mk8_x1,,,
+dd_presidente_eloy_alfaro_1977,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_presidente_eloy_alfaro_1977,324-tt-tripple_x2,,,
+dd_presidente_eloy_alfaro_1977,placeholder_torpedo,,,
+dd_quetzalcoatl_1982,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_quetzalcoatl_1982,placeholder_asroc,,,
+dd_quetzalcoatl_1982,324-tt-tripple_x2,,,
+dd_quetzalcoatl_1982,placeholder_torpedo,,,
+dd_quetzalcoatl_1982|1993,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_quetzalcoatl_1982|1993,57-at-sak-mark2_x1-b,57-pfhe,AA Battery,2
+dd_quetzalcoatl_1982|1993,placeholder_asroc,,,
+dd_quetzalcoatl_1982|1993,324-tt-tripple_x2,,,
+dd_quetzalcoatl_1982|1993,placeholder_torpedo,,,
+pc_ilhuicamina_1994,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+pc_ilhuicamina_1994,57-at-sak-mark2_x1-b,57-pfhe,AA Battery,2
+pc_ilhuicamina_1994|Netzahualcoyotl,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_marcilio_dias,127-ag-mk38-mod1_x2-ay-alt,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_marcilio_dias,placeholder_asroc,,,
+dd_marcilio_dias,324-tt-tripple_x2,,,
+dd_marcilio_dias,placeholder_torpedo,,,
+dd_py,127-ag-mk38-mod1_x3-aby,127-spc-mk32_127-aac-mk34,Primary Gun,1
+dd_py,324-tt-tripple_x2,,,
+dd_py,placeholder_torpedo,,,
+dd_py,183-hedgehog-mk10_x2-fore,,,
