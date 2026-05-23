@@ -59,7 +59,6 @@ Tomahawk,_Lingual,Object,https://en.wikipedia.org/wiki/Tomahawk
 Torch,_Lingual,Object,
 Trident,_Lingual,Object,https://en.wikipedia.org/wiki/Trident
 Whip,_Lingual,Object,https://en.wikipedia.org/wiki/Whip
-Dread Nought,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/HMS_Dreadnought
 Eight-fold Clouds,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Kojiki
 Field of a Thousand Generations,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Chiyoda
 Girl of my Heart,_Lingual,Poetic Phrase,https://en.wikipedia.org/wiki/Manx_language
@@ -140,6 +139,7 @@ Bruizer,_Lingual,,
 Bullfighter,_Lingual,,https://en.wikipedia.org/wiki/Bullfighter
 Bulwark,_Lingual,,
 Caprice,_Lingual,,
+Captain,_Lingual,,https://en.wikipedia.org/wiki/Captain_(naval)
 Carefree,_Lingual,,
 Careful,_Lingual,,
 Cavalier,_Lingual,,https://en.wikipedia.org/wiki/Cavalier
@@ -1140,6 +1140,7 @@ House of Wettin,Historical,Dynasty,https://en.wikipedia.org/wiki/House_of_Wettin
 House of Wittelsbach,Historical,Dynasty,https://en.wikipedia.org/wiki/House_of_Wittelsbach
 House of Zahringen,Historical,Dynasty,https://en.wikipedia.org/wiki/House_of_Z%C3%A4hringen
 Diecisiete de Octubre,Historical,Event,https://en.wikipedia.org/wiki/Loyalty_Day_(Argentina)
+Independence of Brazil,Historical,Event,https://en.wikipedia.org/wiki/Independence_of_Brazil
 "Kitty Hawk, North Carolina",Historical,Event,"https://en.wikipedia.org/wiki/Kitty_Hawk,_North_Carolina"
 "Actions along the Matanikau, World War II",Historical,Land Battle,https://en.wikipedia.org/wiki/Actions_along_the_Matanikau
 "Battle of Agincourt, Hundred Years War",Historical,Land Battle,https://en.wikipedia.org/wiki/Battle_of_Agincourt
@@ -1863,6 +1864,7 @@ Georges Clemenceau,Individual,Elected Leader,https://en.wikipedia.org/wiki/Georg
 Gerald R. Ford,Individual,Elected Leader,https://en.wikipedia.org/wiki/Gerald_Ford
 Harry S. Truman,Individual,Elected Leader,https://en.wikipedia.org/wiki/Harry_S._Truman
 John F. Kennedy,Individual,Elected Leader,https://en.wikipedia.org/wiki/John_F._Kennedy
+José Eloy Alfaro Delgado,Individual,Elected Leader,https://en.wikipedia.org/wiki/Eloy_Alfaro
 Lyndon Baines Johnson,Individual,Elected Leader,https://en.wikipedia.org/wiki/Lyndon_B._Johnson
 Manuel Blanco Encalada,Individual,Elected Leader,https://en.wikipedia.org/wiki/Manuel_Blanco_Encalada
 Manuel Jose Blanco y Calvo de Encalada,Individual,Elected Leader,https://en.wikipedia.org/wiki/Manuel_Blanco_Encalada
@@ -1999,7 +2001,7 @@ Scipio Africanus,Individual,General,https://en.wikipedia.org/wiki/Scipio_African
 Smedley Darlington Butler,Individual,General,https://en.wikipedia.org/wiki/Smedley_Butler
 Tariq ibn Ziyad,Individual,General,https://en.wikipedia.org/wiki/Tariq_ibn_Ziyad
 Tariq ibn Ziyad,Individual,General,https://en.wikipedia.org/wiki/Tariq_ibn_Ziyad
-Themistocles,Individual,General,https://en.wikipedia.org/wiki/Themistocles
+Themistocles,Individual,Elected Leader,https://en.wikipedia.org/wiki/Themistocles
 "Thomas Robert Bugeaud, marquis de la Piconnerie, duc d'Isly",Individual,General,https://en.wikipedia.org/wiki/Thomas_Robert_Bugeaud
 Tran Binh Trong,Individual,General,https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_B%C3%ACnh_Tr%E1%BB%8Dng
 Tran Nhat Duat,Individual,General,https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Nh%E1%BA%ADt_Du%E1%BA%ADt
@@ -3401,7 +3403,6 @@ Protectorate of Uganda,Political,Protectorate,https://en.wikipedia.org/wiki/Prot
 "Commonwealth of Massachusetts, US",Political,Province,https://en.wikipedia.org/wiki/Massachusetts
 "Commonwealth of Pennsylvania, US",Political,Province,https://en.wikipedia.org/wiki/Pennsylvania
 "Connecticut, US",Political,Province,https://en.wikipedia.org/wiki/Connecticut
-"Dalaware, US",Political,Province,https://en.wikipedia.org/wiki/Delaware
 "Delaware, US",Political,Province,https://en.wikipedia.org/wiki/Delaware
 "Delhi, India",Political,Province,https://en.wikipedia.org/wiki/Delhi
 "Duchy of Nassau, Germany",Political,Province,https://en.wikipedia.org/wiki/Duchy_of_Nassau

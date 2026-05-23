@@ -780,27 +780,27 @@ bb_utah_1932|1940,28-p-quad_x2,28-het-mk1,2,AA Battery,F,F,T,T,F
 bb_utah_1932|1941,127-ag-mk30-mod0_ry,127-spc-mk32_127-aac-mk34,1,AA Battery,T,F,F,T,F
 bb_utah_1932|1941,127-p-mk19_x6-utah,127-hc-mk36_127-aac-mk28,2,AA Battery,T,F,F,T,F
 bb_utah_1932|1941,28-p-quad_x2,28-het-mk1,3,AA Battery,F,F,T,T,F
-bb_dalaware,305-ag-mk7_abqry,305-ap-mkviii-bp,1,Primary Gun,T,F,F,F,F
-bb_dalaware,127-c-m9_x10,127-ap-50,2,Secondary Gun,F,T,F,F,F
-bb_dalaware,127-p-m9_x4,127-ap-50,2,Secondary Gun,F,T,F,F,F
-bb_dalaware,533-tt-hull_x2-side,,,,F,F,F,F,F
-bb_dalaware,placeholder_torpedo,,,,T,F,F,F,F
-bb_dalaware|1912,305-ag-mk7_abqry,305-ap-mkviii-bp,1,Primary Gun,T,F,F,F,F
-bb_dalaware|1912,127-c-m9_x10,127-ap-50,2,Secondary Gun,F,T,F,F,F
-bb_dalaware|1912,127-p-m9_x4-alt,127-ap-50,2,Secondary Gun,F,T,F,F,F
-bb_dalaware|1912,533-tt-hull_x2-side,,,,F,F,F,F,F
-bb_dalaware|1912,placeholder_torpedo,,,,T,F,F,F,F
-bb_dalaware|1917,305-ag-mk7_abqry,305-ap-mkviii-bp,1,Primary Gun,T,F,F,F,F
-bb_dalaware|1917,127-c-m9_x10,127-ap-50,2,Secondary Gun,F,T,F,F,F
-bb_dalaware|1917,127-p-m9_x4-alt,127-ap-50,2,Secondary Gun,F,T,F,F,F
-bb_dalaware|1917,76-cp-mk11_x2-crane-alt,76-hc-mk24_76-aa-mk23,3,AA Battery,F,F,F,T,F
-bb_dalaware|1917,533-tt-hull_x2-side,,,,F,F,F,F,F
-bb_dalaware|1917,placeholder_torpedo,,,,T,F,F,F,F
-bb_dalaware|1920,305-ag-mk7_abqry,305-ap-mkviii-bp,1,Primary Gun,T,F,F,F,F
-bb_dalaware|1920,127-p-m9_x4-alt,127-ap-50,2,Secondary Gun,F,T,F,F,F
-bb_dalaware|1920,76-cp-mk11_x2-crane-alt,76-hc-mk24_76-aa-mk23,3,AA Battery,F,F,F,T,F
-bb_dalaware|1920,533-tt-hull_x2-side,,,,F,F,F,F,F
-bb_dalaware|1920,placeholder_torpedo,,,,T,F,F,F,F
+bb_delaware,305-ag-mk7_abqry,305-ap-mkviii-bp,1,Primary Gun,T,F,F,F,F
+bb_delaware,127-c-m9_x10,127-ap-50,2,Secondary Gun,F,T,F,F,F
+bb_delaware,127-p-m9_x4,127-ap-50,2,Secondary Gun,F,T,F,F,F
+bb_delaware,533-tt-hull_x2-side,,,,F,F,F,F,F
+bb_delaware,placeholder_torpedo,,,,T,F,F,F,F
+bb_delaware|1912,305-ag-mk7_abqry,305-ap-mkviii-bp,1,Primary Gun,T,F,F,F,F
+bb_delaware|1912,127-c-m9_x10,127-ap-50,2,Secondary Gun,F,T,F,F,F
+bb_delaware|1912,127-p-m9_x4-alt,127-ap-50,2,Secondary Gun,F,T,F,F,F
+bb_delaware|1912,533-tt-hull_x2-side,,,,F,F,F,F,F
+bb_delaware|1912,placeholder_torpedo,,,,T,F,F,F,F
+bb_delaware|1917,305-ag-mk7_abqry,305-ap-mkviii-bp,1,Primary Gun,T,F,F,F,F
+bb_delaware|1917,127-c-m9_x10,127-ap-50,2,Secondary Gun,F,T,F,F,F
+bb_delaware|1917,127-p-m9_x4-alt,127-ap-50,2,Secondary Gun,F,T,F,F,F
+bb_delaware|1917,76-cp-mk11_x2-crane-alt,76-hc-mk24_76-aa-mk23,3,AA Battery,F,F,F,T,F
+bb_delaware|1917,533-tt-hull_x2-side,,,,F,F,F,F,F
+bb_delaware|1917,placeholder_torpedo,,,,T,F,F,F,F
+bb_delaware|1920,305-ag-mk7_abqry,305-ap-mkviii-bp,1,Primary Gun,T,F,F,F,F
+bb_delaware|1920,127-p-m9_x4-alt,127-ap-50,2,Secondary Gun,F,T,F,F,F
+bb_delaware|1920,76-cp-mk11_x2-crane-alt,76-hc-mk24_76-aa-mk23,3,AA Battery,F,F,F,T,F
+bb_delaware|1920,533-tt-hull_x2-side,,,,F,F,F,F,F
+bb_delaware|1920,placeholder_torpedo,,,,T,F,F,F,F
 bb_south_carolina,305-ag-mk7_abxy,305-ap-mkviii-bp,1,Primary Gun,T,F,F,F,F
 bb_south_carolina,76-p-mk7_x22,76-com-mk3,2,Secondary Gun,F,F,T,F,F
 bb_south_carolina,533-tt-hull_x2-side,,,,F,F,F,F,F
@@ -2652,9 +2652,9 @@ bb_fuso|1923,152-c-41st-year-20_x16,152-he-com-type4,2,Secondary Gun,F,T,F,F,F
 bb_fuso|1923,76-cp-41st-year_x6,76-he-jpn,3,AA Battery,F,F,T,T,F
 bb_fuso|1923,533-tt-hull_x6-side,,,,F,F,F,F,F
 bb_fuso|1923,placeholder_torpedo,,,,T,F,F,F,F
-bb_fuso_mod_1930|1930,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,1,Primary Gun,T,F,F,F,F
-bb_fuso_mod_1930|1930,152-c-41st-year-30_x14,152-he-com-type4,2,Secondary Gun,F,T,F,F,F
-bb_fuso_mod_1930|1930,127-gs-a1_x4,127-he-type0,3,Secondary Gun,F,T,F,T,F
+bb_fuso_mod_1930,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,1,Primary Gun,T,F,F,F,F
+bb_fuso_mod_1930,152-c-41st-year-30_x14,152-he-com-type4,2,Secondary Gun,F,T,F,F,F
+bb_fuso_mod_1930,127-gs-a1_x4,127-he-type0,3,Secondary Gun,F,T,F,T,F
 bb_fuso_mod_1930|1938,356-ag-41st-year-bb-43_abqrxy,356-apc-type3,1,Primary Gun,T,F,F,F,F
 bb_fuso_mod_1930|1938,152-c-41st-year-30_x14,152-he-com-type4,2,Secondary Gun,F,T,F,F,F
 bb_fuso_mod_1930|1938,127-gs-a1_x4,127-he-type0,3,Secondary Gun,F,T,F,T,F
@@ -5403,17 +5403,31 @@ bbar_vauban|1898,37-p-revolver_x12-vauban,37-he-ita-early,5,Tertiary Gun,F,F,T,F
 bbar_vauban|1898,356-tt-hull_x2-side,,,,F,F,F,F,F
 bbar_vauban|1898,placeholder_torpedo,,,,T,F,F,F,F
 bbar_terrible,420-bar-m1875_ay,420-ap-fra-early,1,Primary Gun,T,F,F,F,F
-bbar_terrible,100-p-m1881_x4,100-ap-fra-1881,2,Secondary Gun,F,T,F,F,F
-bbar_terrible,47-p-m1885_x2,47-he-fra-1885,3,Tertiary Gun,F,F,T,F,F
-bbar_terrible,37-p-revolver_x16,37-he-ita-early,4,Tertiary Gun,F,F,T,F,F
+bbar_terrible,100-gs-m1881_x4,100-ap-fra-1881,2,Secondary Gun,F,T,F,F,F
+bbar_terrible,47-p-m1885_x2-fore,47-he-fra-1885,3,Tertiary Gun,F,F,T,F,F
+bbar_terrible,37-p-revolver_x16-terrible,37-he-ita-early,4,Tertiary Gun,F,F,T,F,F
 bbar_terrible,356-tt-hull_x4-side,,,,F,F,F,F,F
 bbar_terrible,placeholder_torpedo,,,,T,F,F,F,F
 bbar_terrible|terrible,420-bar-m1875-ter_ay,420-ap-fra-early,1,Primary Gun,T,F,F,F,F
-bbar_terrible|terrible,100-p-m1881_x4,100-ap-fra-1881,2,Secondary Gun,F,T,F,F,F
+bbar_terrible|terrible,100-gs-m1881_x4,100-ap-fra-1881,2,Secondary Gun,F,T,F,F,F
 bbar_terrible|terrible,47-p-m1885_x4,47-he-fra-1885,3,Tertiary Gun,F,F,T,F,F
-bbar_terrible|terrible,37-p-revolver_x16,37-he-ita-early,4,Tertiary Gun,F,F,T,F,F
+bbar_terrible|terrible,37-p-revolver_x16-terrible,37-he-ita-early,4,Tertiary Gun,F,F,T,F,F
 bbar_terrible|terrible,356-tt-hull_x4-side,,,,F,F,F,F,F
 bbar_terrible|terrible,placeholder_torpedo,,,,T,F,F,F,F
+bt_terrible_1896,274-ag-m1893-1895_ay,274-apc-fra-1887,1,Primary Gun,T,F,F,F,F
+bt_terrible_1896,100-gs-m1891_x6-terrible,100-he-fra-1891,2,Secondary Gun,F,T,F,F,F
+bt_terrible_1896,47-p-m1885_x12-terrible,47-he-fra-1885,3,Tertiary Gun,F,F,T,F,F
+bt_terrible_1896,356-tt-hull_x2-side,,,,F,F,F,F,F
+bt_terrible_1896,placeholder_torpedo,,,,T,F,F,F,F
+bt_terrible_1896|terrible,420-bar-m1875-ter_ay,420-ap-fra-early,1,Primary Gun,T,F,F,F,F
+bt_terrible_1896|terrible,100-gs-m1881_x4,100-ap-fra-1881,2,Secondary Gun,F,T,F,F,F
+bt_terrible_1896|terrible,47-p-m1885_x4,47-he-fra-1885,3,Tertiary Gun,F,F,T,F,F
+bt_terrible_1896|terrible,37-p-revolver_x16-terrible,37-he-ita-early,4,Tertiary Gun,F,F,T,F,F
+bt_terrible_1896|terrible,356-tt-hull_x4-side,,,,F,F,F,F,F
+bt_terrible_1896|terrible,placeholder_torpedo,,,,T,F,F,F,F
+bt_requin_1896,274-ag-m1893-1895_ay,274-apc-fra-1887,1,Primary Gun,T,F,F,F,F
+bt_requin_1896,100-gs-m1891_x6-terrible,100-he-fra-1891,2,Secondary Gun,F,T,F,F,F
+bt_requin_1896,47-p-m1885_x12-terrible,47-he-fra-1885,3,Tertiary Gun,F,F,T,F,F
 bbar_admiral_duperre,340-bar-m1875_psry,340-ap-fra-1875,1,Primary Gun,T,F,F,F,F
 bbar_admiral_duperre,139-piv-m1870_x14-side,139-he-fra-1870,2,Primary Gun,T,F,F,F,F
 bbar_admiral_duperre,37-p-revolver_x12-balanced,37-he-ita-early,3,Tertiary Gun,F,F,T,F,F

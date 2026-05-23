@@ -620,11 +620,12 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 100-cp-m1927,100,100mm/45 Model 1924,france,Central Pivot,100-bg-m1927,1,85,http://www.navweaps.com/Weapons/WNFR_39-45_m1927.php#Mount%2FTurret_Data
 100-gs-m1924,100,100mm/47 OTO Model 1924,italy,Central Pivot (Gun Shield),100-bg-m1924,2,85,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Mount%2FTurret_Data
 100-piv-m1891,100,100mm/45 Model 1891,france,Pivot,100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
-100-gs-m1891,100,100mm/45 Model 1891,france,Central Pivot (Gun Shield),100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
-100-cp-m1891,100,100mm/45 Model 1891,france,Central Pivot,100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
-100-c-m1891,100,100mm/45 Model 1891,france,Central Pivot (Casement),100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
+100-gs-m1891,100,100mm/45 Model 1891,france,Pedestal (Gun Shield),100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
+100-cp-m1891,100,100mm/45 Model 1891,france,Pedestal,100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
+100-c-m1891,100,100mm/45 Model 1891,france,Pedestal (Casement),100-bg-m1891,1,20,https://en.wikipedia.org/wiki/Canon_de_100_mm_Mod%C3%A8le_1891
 100-piv-m1881,100,100mm/26 Model 1881,france,Pivot,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 100-p-m1881,100,100mm/26 Model 1881,france,Pedestal,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
+100-gs-m1881,100,100mm/26 Model 1881,france,Pedestal (Gun Shield),100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 100-cp-m1881,100,100mm/26 Model 1881,france,Central Pivot,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 100-c-k10,100,10cm/47 L/50 K.10,ahn,Central Pivot (Casement),100-bg-k10,1,18,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Mount%2FTurret_Data
 100-sm-cm5,100,100mm/70 CM-5,russia,Stabalized Mount,100-bg-cm5,2,85,http://www.navweaps.com/Weapons/WNRussian_39-70_cm5.php#Mount%2FTurret_Data

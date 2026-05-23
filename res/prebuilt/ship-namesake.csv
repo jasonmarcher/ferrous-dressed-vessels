@@ -152,8 +152,8 @@ ac_prinz_adalbert|sms_prinz_adalbert,Prinz Adalbert,Prince Adalbert of Prussia
 ac_prinz_heinrich|sms_prinz_heinrich,Prinz Heinrich,Prince Henry of Prussia
 ac_proteus_1911|jason,Jason,"Jason, Leader of the Argonauts"
 ac_proteus_1911|jupiter,Langley,Samuel Pierpont Langley
-ac_riurik_1895|riurik,Riurik,
-ac_riurik|riurik,Riurik,
+ac_rurik_1895|rurik,Rurik,
+ac_rurik|rurik,Rurik,
 ac_roon|sms_roon,Roon,Albrecht von Roon
 ac_roon|sms_yorck,Yorck,Ludwig Yorck von Wartenburg
 ac_rossiya|rossiya,Rossiya,
@@ -3824,10 +3824,10 @@ bb_courbet|france,France,France
 bb_courbet|jean_bart,Jean Bart,Jean Bart
 bb_courbet|jean_bart,Ocean,Ocean
 bb_courbet|paris,Paris,"Paris, Ile-de-France, France"
-bb_dalaware|uss_dalaware,Dalaware,"Dalaware, US"
-bb_dalaware|uss_north_dakota,North Dakota,"North Dakota, US"
+bb_delaware|uss_delaware,Delaware,"Delaware, US"
+bb_delaware|uss_north_dakota,North Dakota,"North Dakota, US"
 bb_dante_aligieri|dante_alighieri,Dante Alighieri,
-bb_dreadnought|hms_dreadnought,Dreadnought,Dread Nought
+bb_dreadnought|hms_dreadnought,Dreadnought,Fearless
 bb_dunkerque|dunkerque,Dunkerque,"Dunkirk, Hauts-de-France, France"
 bb_espana|alfonso_xiii,Alfonso XIII,
 bb_espana|espana,Espana,
@@ -3852,6 +3852,7 @@ bb_helgoland|sms_helgoland,Helgoland,"Helgoland, Germany"
 bb_helgoland|sms_oldenburg,Oldenburg,"Grand Duchy of Oldenburg, Germany"
 bb_helgoland|sms_ostfriesland,Ostfriesland,"East Frisia, Germany"
 bb_helgoland|sms_thuringen,Thuringen,"Thuringia, Germany"
+bb_imperator_nikolai_i|imperator_nikolay_i,Demokraliya,
 bb_imperator_nikolai_i|imperator_nikolay_i,Imperator Nikolay I,
 bb_imperatritsa_mariya|imperator_alexandr_iii,Imperator Alexandr III,
 bb_imperatritsa_mariya|imperatritsa_mariya,Imperatritsa Mariya,
@@ -4111,14 +4112,16 @@ bi_hector|hms_valiant,Valiant,Valiant
 bi_heroine|heroine,Le Heroine,Hero
 bi_magenta|magenta,Le Magenta,"Battle of Magenta, Second Italian War of Independence"
 bi_magenta|solferino,Le Solferino,"Battle of Solferino, Second Italian War of Independence"
-bi_minotaur|hms_agincourt,Agincourt,"Battle of Agincourt, Hundred Years War"
-bi_minotaur|hms_agincourt,Boscawen III,Edward Boscawen
-bi_minotaur|hms_agincourt,C.109,Hull Number
-bi_minotaur|hms_agincourt,Ganges II,"Ganges, India"
-bi_minotaur|hms_minotaur,Boscawen II,Edward Boscawen
-bi_minotaur|hms_minotaur,Ganges,"Ganges, India"
-bi_minotaur|hms_minotaur,Ganges II,"Ganges, India"
-bi_minotaur|hms_minotaur,Minotaur,Minotaur
+bi_minotaur|hms_captain,Agincourt,"Battle of Agincourt, Hundred Years War"
+bi_minotaur|hms_captain,Boscawen III,Edward Boscawen
+bi_minotaur|hms_captain,Captain,Captain
+bi_minotaur|hms_captain,C.109,Hull Number
+bi_minotaur|hms_captain,Ganges II,"Ganges, India"
+bi_minotaur|hms_elephant,Boscawen II,Edward Boscawen
+bi_minotaur|hms_elephant,Elephant,Elephant
+bi_minotaur|hms_elephant,Ganges,"Ganges, India"
+bi_minotaur|hms_elephant,Ganges II,"Ganges, India"
+bi_minotaur|hms_elephant,Minotaur,Minotaur
 bi_minotaur|hms_northumberland,Acheron,"Acheron, Greece"
 bi_minotaur|hms_northumberland,C.68,Hull Number
 bi_minotaur|hms_northumberland,C.8,Hull Number
@@ -4149,10 +4152,12 @@ bmt_agamemnon|hms_ajax,Ajax,Ajax the Great
 bmt_aquidaba|aquidaba,Aquidaba,
 bmt_captain|hms_captain,Captain,Cowper Phipps Coles
 bmt_inflexible|hms_inflexible,Inflexible,Inflexible
-bmt_minin_1866|hms_monarch,Minin,
+bmt_minin_1866|minin,Ladoga,
+bmt_minin_1866|minin,Minin,
 bmt_monarch|hms_monarch,Monarch,Monarch
 bmt_monarch|hms_monarch,Simoom,Simoom
-bmt_neptune|hms_neptune,Neptune,Poseidon
+bmt_independencia|independencia,Independencia,Independence of Brazil
+bmt_independencia|independencia,Neptune,Poseidon
 bmt_riachuelo|riachuelo,Riachuelo,
 bpt_bpt21_1943|pt384,MTB396,Hull Number
 bpt_bpt21_1943|pt384,PT-384,Hull Number
@@ -4447,7 +4452,8 @@ bt_conqueror|hms_conqueror,Conqueror,Conqueror
 bt_conqueror|hms_hero,Hero,Hero
 bt_devastation|hms_devastation,Devastation,Devastation
 bt_devastation|hms_thunderer,Thunderer,Thunderer
-bt_dreadnought|hms_dreadnought,Dreadnought,Dread Nought
+bt_dreadnought|hms_fury,Fury,Fury
+bt_dreadnought|hms_fury,Dreadnought,Fearless
 bt_duilio|dandolo,Dandolo,
 bt_duilio|duilio,Duilio,
 bt_hoche|hoche,Hoche,Lazare Hoche
@@ -4669,8 +4675,9 @@ cb_peyk_i_sheref|peyk_i_sheref,Belleisle,"Belle Isle, France"
 cb_peyk_i_sheref|peyk_i_sheref,Peyk-i-Sheref,
 cb_redoutable|redoutable,Le Redoutable,Redoubtable
 cb_richelieu|richelieu,Le Richelieu,"Armand Jean du Plessis, 1st Duke of Richelieu"
-cb_sultan|hms_sultan,Fisgard IV,
-cb_sultan|hms_sultan,Sultan,"Abdulaziz, Sultan of the Ottoman Empire"
+cb_sultan|hms_triumph,Fisgard IV,
+cb_sultan|hms_triumph,Sultan,"Abdulaziz, Sultan of the Ottoman Empire"
+cb_sultan|hms_triumph,Triumph,Triumph
 cb_swiftsure|hms_swiftsure,Orontes,"Orontes River, Syria"
 cb_swiftsure|hms_swiftsure,Swiftsure,Swift and Sure
 cb_swiftsure|hms_triumph,Algiers,"Algiers, Algeria"
@@ -26212,7 +26219,7 @@ sol_edgar|hms_panther,Panther,Panther
 sol_egmont|hms_egmont,Egmont,
 sol_ejder_basli_1778|ejder_basli,Ejder Basli,
 sol_ejder_basli_1778|ejder_basli,Leontii Muchenik,
-sol_elephanten_1769|elephanten,Elephanten,
+sol_elephanten_1769|elephanten,Elephanten,Elephant
 sol_elisabeth_1723|elisabeth,L'Elisabeth,
 sol_elisaveta_1795|elisaveta,Elisaveta,
 sol_elizabeth|hms_berwick,Berwick,
@@ -26605,7 +26612,7 @@ sol_neptune_1723|neptune,Le Neptune,
 sol_neptune_1756|neptune,Neptune,
 sol_neptune_1756|union,Union,
 sol_neptune_1778|neptune,Le Neptune,
-sol_neptune|hms_dreadnought,Dreadnought,Dread Nought
+sol_neptune|hms_dreadnought,Dreadnought,Fearless
 sol_neptune|hms_neptune,Neptune,
 sol_neptune|hms_temaraire,Temaraire,
 sol_neptunus_1750|neptunus,Neptunus,
@@ -35218,7 +35225,7 @@ ssb_type_6631|yuanzheng_1101,Yuanzheng 200,
 ssbn_arihant|ins_arighat,Arighat,
 ssbn_arihant|ins_arihant,Arihant,
 ssbn_arihant|s4,S4,
-ssbn_dreadnought|hms_dreadnought,Dreadnought,Dread Nought
+ssbn_dreadnought|hms_dreadnought,Dreadnought,Fearless
 ssbn_dreadnought|hms_valiant,Valiant,Valiant
 ssbn_ethan_allen|uss_ethan_allen,Ethan Allen,
 ssbn_ethan_allen|uss_john_marshall,John Marshall,
@@ -35657,7 +35664,7 @@ ssn_astute|hms_anson,Anson,"George Anson, 1st Baron Anson"
 ssn_astute|hms_artful,Artful,
 ssn_astute|hms_astute,Astute,
 ssn_astute|hms_audacious,Audacious,Audacious
-ssn_dreadnought|hms_dreadnought,Dreadnought,Dread Nought
+ssn_dreadnought|hms_dreadnought,Dreadnought,Fearless
 ssn_flasher|uss_flasher,Flasher,
 ssn_flasher|uss_gato,Gato,
 ssn_flasher|uss_greenling,Greenling,
