@@ -76,7 +76,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 203-bg-elswick-w,"8""/45 Elswick W","Elswick 8""",britain,1890-01-01,203,45,19400,2,2,Breech,790,0,,http://www.navweaps.com/Weapons/WNIT_8-45_EOC.php
 203-bg-armstrong-u,"8""/45 Armstrong U","Elswick 8""",britain,1890-01-01,203,45,19400,2,1.5,Breech,790,0,,http://www.navweaps.com/Weapons/WNJAP_8-45_EOC.php
 203-bg-bl-markiv,"8""/30 BL Mark IV (EOC F)","Elswick 8""",britain,1880-01-01,203,29.6,,,,Breech,655,0,,http://www.navweaps.com/Weapons/WNBR_8-26_mk1.php#8%22%2F30_%2820.3_cm%29_Mark_IV
-203-bg-bl-markiii,"8""/26 BL Mark III (EOC E)","Elswick 8""",britain,1880-01-01,203,25.6,,,,Breech,595,0,,http://www.navweaps.com/Weapons/WNBR_8-26_mk1.php#8%22%2F26_%2820.3_cm%29_Mark_III
+203-bg-bl-markiii,"8""/26 BL Mark III (EOC E)","Elswick 8""",britain,1860-01-01,203,25.6,,,,Breech,595,0,,http://www.navweaps.com/Weapons/WNBR_8-26_mk1.php#8%22%2F26_%2820.3_cm%29_Mark_III
 190-bg-markii,"7.5""/50 Mark II","British 7.5""",britain,1905-01-01,190,50,14800,6,5,Breech,862,0,100,http://www.navweaps.com/Weapons/WNBR_75-50_mk3.php
 190-bg-markiv,"7.5""/50 Mark IV Vickers B","British 7.5""",britain,1902-01-01,190,50,16300,5,4,Breech,862,0,150,http://www.navweaps.com/Weapons/WNBR_75-50_mk3.php
 190-bg-markiii,"7.5""/50 Mark III Elswick A","British 7.5""",britain,1902-01-01,190,50,16000,5,4,Breech,862,0,150,http://www.navweaps.com/Weapons/WNBR_75-50_mk3.php
@@ -503,8 +503,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 76-bg-mk7,"3""/23 Mark 7","Erhardt 3""",usa,1900-01-01,76,23,,9,8.5,Breech,503,0,,http://www.navweaps.com/Weapons/WNUS_3-23_mk13.php
 37-mg-maxim,37mm/30 Maxim gun,Maxim 37mm,usa,1883-01-01,37,30,246,250,90,Breech Automatic,610,610,,http://www.navweaps.com/Weapons/WNRussian_37mm-30_maxim.php
 28-bg-mk1,"1.1""/75 Mark 1","US 1.1""",usa,1929-01-01,28,75,260,150,100,Breech Autoloader,823,823,,http://www.navweaps.com/Weapons/WNUS_1-1-75_mk1.php
-20-mg-m61,20mm/76 Vulcan M61,US Vulcan,usa,1959-01-01,20,76,112,6000,6000,Breech Automatic,1050,1050,,https://en.wikipedia.org/wiki/M61_Vulcan
 20-mg-cwis,20mm/76 Phalanx Close-in Weaon System (Block 0),US Phalanx,usa,1969-01-01,20,76,,3000,3000,Breech Automatic,1113,1113,989,http://www.navweaps.com/Weapons/WNUS_Phalanx.php
+20-mg-m61,20mm/76 Vulcan M61,US Vulcan,usa,1959-01-01,20,76,112,6000,6000,Breech Automatic,1050,1050,,https://en.wikipedia.org/wiki/M61_Vulcan
 12-mg-mk3,"0.50""/90 Browning M2 MG","Browning 0.50""",usa,1930-01-01,12.7,90,,600,500,Breech Automatic,893,893,,http://navypedia.org/arms/usa/arms_usa_guns.htm
 11-mg-colt-1877-10,"0.45""/40.5 1877 Gatling Gun 10 Barrel",Colt 1877 Gatling Gun,usa,1877-01-01,11.4,40.5,77,1200,600,Breech Automatic,425,425,,https://usarmamentcorp.com/1877-gatling-gun/
 7-mg-mg08,7.9mm/91 MG 08,Maxim Gun,usa,1908-01-01,7.9,91,69,500,450,Breech Automatic,878,878,,https://en.wikipedia.org/wiki/MG_08
