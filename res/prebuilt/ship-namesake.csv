@@ -152,11 +152,11 @@ ac_prinz_adalbert|sms_prinz_adalbert,Prinz Adalbert,Prince Adalbert of Prussia
 ac_prinz_heinrich|sms_prinz_heinrich,Prinz Heinrich,Prince Henry of Prussia
 ac_proteus_1911|jason,Jason,"Jason, Leader of the Argonauts"
 ac_proteus_1911|jupiter,Langley,Samuel Pierpont Langley
-ac_rurik_1895|rurik,Rurik,
-ac_rurik|rurik,Rurik,
 ac_roon|sms_roon,Roon,Albrecht von Roon
 ac_roon|sms_yorck,Yorck,Ludwig Yorck von Wartenburg
 ac_rossiya|rossiya,Rossiya,
+ac_rurik_1895|rurik,Rurik,
+ac_rurik|rurik,Rurik,
 ac_san_giorgio|san_giorgio,San Giorgio,
 ac_san_marco|san_marco,San Marco,
 ac_sankt_georg|sms_sankt_georg,Sankt Georg,Saint George
@@ -3824,9 +3824,9 @@ bb_courbet|france,France,France
 bb_courbet|jean_bart,Jean Bart,Jean Bart
 bb_courbet|jean_bart,Ocean,Ocean
 bb_courbet|paris,Paris,"Paris, Ile-de-France, France"
+bb_dante_aligieri|dante_alighieri,Dante Alighieri,
 bb_delaware|uss_delaware,Delaware,"Delaware, US"
 bb_delaware|uss_north_dakota,North Dakota,"North Dakota, US"
-bb_dante_aligieri|dante_alighieri,Dante Alighieri,
 bb_dreadnought|hms_dreadnought,Dreadnought,Fearless
 bb_dunkerque|dunkerque,Dunkerque,"Dunkirk, Hauts-de-France, France"
 bb_espana|alfonso_xiii,Alfonso XIII,
@@ -4114,8 +4114,8 @@ bi_magenta|magenta,Le Magenta,"Battle of Magenta, Second Italian War of Independ
 bi_magenta|solferino,Le Solferino,"Battle of Solferino, Second Italian War of Independence"
 bi_minotaur|hms_captain,Agincourt,"Battle of Agincourt, Hundred Years War"
 bi_minotaur|hms_captain,Boscawen III,Edward Boscawen
-bi_minotaur|hms_captain,Captain,Captain
 bi_minotaur|hms_captain,C.109,Hull Number
+bi_minotaur|hms_captain,Captain,Captain
 bi_minotaur|hms_captain,Ganges II,"Ganges, India"
 bi_minotaur|hms_elephant,Boscawen II,Edward Boscawen
 bi_minotaur|hms_elephant,Elephant,Elephant
@@ -4151,13 +4151,13 @@ bmt_agamemnon|hms_agamemnon,Agamemnon,Agamemnon
 bmt_agamemnon|hms_ajax,Ajax,Ajax the Great
 bmt_aquidaba|aquidaba,Aquidaba,
 bmt_captain|hms_captain,Captain,Cowper Phipps Coles
+bmt_independencia|independencia,Independencia,Independence of Brazil
+bmt_independencia|independencia,Neptune,Poseidon
 bmt_inflexible|hms_inflexible,Inflexible,Inflexible
 bmt_minin_1866|minin,Ladoga,
 bmt_minin_1866|minin,Minin,
 bmt_monarch|hms_monarch,Monarch,Monarch
 bmt_monarch|hms_monarch,Simoom,Simoom
-bmt_independencia|independencia,Independencia,Independence of Brazil
-bmt_independencia|independencia,Neptune,Poseidon
 bmt_riachuelo|riachuelo,Riachuelo,
 bpt_bpt21_1943|pt384,MTB396,Hull Number
 bpt_bpt21_1943|pt384,PT-384,Hull Number
@@ -4452,8 +4452,8 @@ bt_conqueror|hms_conqueror,Conqueror,Conqueror
 bt_conqueror|hms_hero,Hero,Hero
 bt_devastation|hms_devastation,Devastation,Devastation
 bt_devastation|hms_thunderer,Thunderer,Thunderer
-bt_dreadnought|hms_fury,Fury,Fury
 bt_dreadnought|hms_fury,Dreadnought,Fearless
+bt_dreadnought|hms_fury,Fury,Fury
 bt_duilio|dandolo,Dandolo,
 bt_duilio|duilio,Duilio,
 bt_hoche|hoche,Hoche,Lazare Hoche
@@ -5466,6 +5466,7 @@ cv_graf_zeppelin|b,B,Placeholder
 cv_graf_zeppelin|graf_zeppelin,Graf Zeppelin,Ferdinand von Zeppelin
 cv_hermes|hms_hermes,Hermes,Hermes
 cv_hiryu|hiryu,Hiryu,Dragon
+cv_ikoma|ikoma,Ikoma,"Mount Ikoma, Japan"
 cv_illustrious|hms_formidable,Formidable,Formidable
 cv_illustrious|hms_illustrious,Illustrious,Illustrious
 cv_illustrious|hms_victorious,Victorious,Victorious
@@ -5474,8 +5475,6 @@ cv_implacable|hms_indefatigable,Indefatigable,Indefatigable
 cv_indomitable|hms_indomitable,Indomitable,Indomitable
 cv_joffre|joffre,Joffre,Joseph Joffre
 cv_john_f_kennedy|uss_john_f_kennedy,John F. Kennedy,John F. Kennedy
-cv_katsuragi|aso,Aso,"Mount Aso, Japan"
-cv_katsuragi|katsuragi,Katsuragi,"Mount Yamato Katsuragi, Japan"
 cv_kitty_hawk|uss_america,America,United States of America
 cv_kitty_hawk|uss_constellation,Constellation,Flag of the United States
 cv_kitty_hawk|uss_kitty_hawk,Kitty Hawk,"Kitty Hawk, North Carolina"
@@ -5484,6 +5483,7 @@ cv_midway|uss_coral_sea,Franklin D. Roosevelt,Franklin D. Roosevelt
 cv_midway|uss_coral_sea_ii,Coral Sea,"Battle of the Coral Sea, World War II"
 cv_midway|uss_midway,Midway,"Battle of Midway, World War II"
 cv_project_11435|admiral_flota_sovetskogo_soyuza_kuznetsov,Admiral Flota Sovetskogo Soyuza Kuznetsov,
+cv_project_11435|variag,Liaoning,"Liaoning, China"
 cv_project_11435|variag,Variag,
 cv_queen_elizabeth|hms_prince_of_wales,Prince of Wales,Prince of Wales
 cv_queen_elizabeth|hms_queen_elizabeth,Queen Elizabeth,"Elizabeth Tudor, Queen of England and Ireland"
@@ -5496,14 +5496,13 @@ cv_shokaku|shokaku,Shokaku,Crane
 cv_shokaku|zuikaku,Zuikaku,Crane
 cv_soryu|soryu,Soryu,
 cv_taiho|taiho,Taiho,Fenghuang
-cv_type_001|liaoning,Liaoning,
-cv_type_002|shangdong,Shangdong,
-cv_type_003|fujian,Fujian,
+cv_type_002|shangdong,Shangdong,"Shangdong, China"
+cv_type_003|fujian,Fujian,"Fujian, China"
 cv_united_states|uss_united_states,United States,
 cv_unryu|amagi,Amagi,"Mount Amagi, Japan"
-cv_unryu|ikoma,Ikoma,"Mount Ikoma, Japan"
+cv_unryu|aso,Aso,"Mount Aso, Japan"
 cv_unryu|kasagi,Kasagi,"Mount Kasagi, Japan"
-cv_unryu|kurama,Kurama,"Mount Kurama, Japan"
+cv_unryu|katsuragi,Katsuragi,"Mount Yamato Katsuragi, Japan"
 cv_unryu|unryu,Unryu,Dragon
 cv_wasp|uss_wasp,Wasp,Wasp
 cv_yorktown|uss_enterprise,Enterprise,Enterprise
@@ -5581,6 +5580,7 @@ cve_commencement_bay|uss_frosty_bay,Frosty Bay,"Frosty Bay, Alaska, US"
 cve_commencement_bay|uss_frosty_bay,Siboney,"Siboney, Spanish-American War"
 cve_commencement_bay|uss_hobart_bay,Hobart Bay,"Hobart Bay, Alaska, US"
 cve_commencement_bay|uss_hobart_bay,Puget Sound,"Puget Sound, Washington, US"
+cve_commencement_bay|uss_kula_gulf,Kula Gulf,"Battle of Kula Gulf, World War II"
 cve_commencement_bay|uss_lingayen,Lingayen,"Invasion of Lingayen Gulf, World War II"
 cve_commencement_bay|uss_mindoro,Mindoro,"Battle of Mindoro, World War II"
 cve_commencement_bay|uss_okinawa,Okinawa,"Battle of Okinawa, World War II"
@@ -5602,8 +5602,6 @@ cve_commencement_bay|uss_sunset_bay,Sunset Bay,"Sunset Bay, Oregon, US"
 cve_commencement_bay|uss_tinian,Tinian,"Battle of Tinian, World War II"
 cve_commencement_bay|uss_totem_bay,Totem Bay,"Totem Bay, Alaska, US"
 cve_commencement_bay|uss_totem_bay,Vella Gulf,"Battle of Vella Gulf, World War II"
-cve_commencement_bay|uss_vermillion_bay,Kula Gulf,"Battle of Kula Gulf, World War II"
-cve_commencement_bay|uss_vermillion_bay,Vermillion Bay,"Vermilion Bay, Louisiana, US"
 cve_commencement_bay|uss_willapa_bay,Cape Gloucester,"Battle of Cape Gloucester, World War II"
 cve_commencement_bay|uss_willapa_bay,Willapa Bay,"Willapa Bay, Washington, US"
 cve_commencement_bay|uss_winjah_bay,Salerno Bay,"Operation Avalanche, World War II"
