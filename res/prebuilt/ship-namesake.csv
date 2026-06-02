@@ -5285,8 +5285,12 @@ cl_ping_hai|ping_hai,Ping Hai,
 cl_ping_hai|ping_hai,Yasoshima,
 cl_principe_alphonso|almirante_cervera,Almirante Cervera,
 cl_principe_alphonso|miguel_de_cervantes,Miguel de Cervantes,
+cl_principe_alphonso|principe_alfonso,Galicia,
+cl_principe_alphonso|principe_alfonso,Libertad,
 cl_principe_alphonso|principe_alfonso,Principe Alfonso,
+cl_reina_victoria_eugenia|reina_victoria_eugenia,Navarra,
 cl_reina_victoria_eugenia|reina_victoria_eugenia,Reina Victoria Eugenia,
+cl_reina_victoria_eugenia|reina_victoria_eugenia,Republica,
 cl_sendai|jintsu,Jintsu,"Jinzu River, Japan"
 cl_sendai|kako,Kako,"Kako River, Japan"
 cl_sendai|naka,Naka,"Naka River, Japan"
@@ -18726,10 +18730,8 @@ pc_ditmar_koel_1916|heinrich_jenevelt,Heinrich Jenevelt,
 pc_ditmar_koel_1916|kaiser_leopold,Kaiser Leopold,
 pc_ditmar_koel_1916|nikolaus_schoke,Nikolaus Schoke,
 pc_ditmar_koel_1916|sonnin,Sonnin,
-pc_dogali|dogali,25 de Agosto,
-pc_dogali|dogali,Dogali,
-pc_dogali|dogali,Montevideo,
 pc_drama|drama,Drama,
+pc_drama|drama,Libia,
 pc_dresden|sms_dresden,Dresden,"Dresden, Saxony, Germany"
 pc_eclipse|hms_diana,Diana,Diana
 pc_eclipse|hms_dido,Dido,Dido
@@ -20757,6 +20759,11 @@ pc_rml_492_1940|rml_552,RML552,
 pc_rml_492_1940|rml_553,RML553,
 pc_royal_arthur|hms_crescent,Crescent,Crescent
 pc_royal_arthur|hms_royal_arthur,Royal Arthur,King Arthur
+pc_salamis|salamis,25 de Agosto,
+pc_salamis|salamis,Angelo Emo,
+pc_salamis|salamis,Dogali,
+pc_salamis|salamis,Montevideo,
+pc_salamis|salamis,Salamis,
 pc_san_francisco|uss_san_francisco,San Francisco,"San Francisco, California, US"
 pc_san_francisco|uss_san_francisco,Tahoe,"Lake Tahoe, California, US"
 pc_san_francisco|uss_san_francisco,Yosemite,"Yosemite Valley, California, US"

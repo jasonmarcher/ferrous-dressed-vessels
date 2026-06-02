@@ -8250,10 +8250,26 @@ cl_antinavarchos_kountouriotis,140-gs-pi_x10,140-cpc-uk,1,Primary Gun,T,F,F,F,F
 cl_antinavarchos_kountouriotis,47-p-markiii-ha_x2-aft,47-he-uk,2,AA Battery,F,F,T,T,F
 cl_antinavarchos_kountouriotis,533-tt-hull_x2-side,,,,F,F,F,F,F
 cl_antinavarchos_kountouriotis,placeholder_torpedo,,,,T,F,F,F,F
-cl_antinavarchos_kountouriotis|birkenhead,140-gs-pi_x10,140-cpc-uk,1,Primary Gun,T,F,F,F,F
-cl_antinavarchos_kountouriotis|birkenhead,76-cp-ha-markii_x1-aft,76-he-uk-early,2,AA Battery,F,F,T,T,F
-cl_antinavarchos_kountouriotis|birkenhead,533-tt-hull_x2-side,,,,F,F,F,F,F
-cl_antinavarchos_kountouriotis|birkenhead,placeholder_torpedo,,,,T,F,F,F,F
+cl_birkenhead_1915,140-gs-pi_x10,140-cpc-uk,1,Primary Gun,T,F,F,F,F
+cl_birkenhead_1915,47-p-markiii-ha_x2-aft,47-he-uk,2,AA Battery,F,F,T,T,F
+cl_birkenhead_1915,533-tt-hull_x2-side,,,,F,F,F,F,F
+cl_birkenhead_1915,placeholder_torpedo,,,,T,F,F,F,F
+cl_birkenhead_1915|1916,140-gs-pi_x10,140-cpc-uk,1,Primary Gun,T,F,F,F,F
+cl_birkenhead_1915|1916,76-cp-ha-markii_x1-aft,76-he-uk-early,2,AA Battery,F,F,T,T,F
+cl_birkenhead_1915|1916,533-tt-hull_x2-side,,,,F,F,F,F,F
+cl_birkenhead_1915|1916,placeholder_torpedo,,,,T,F,F,F,F
+cl_lambros_katsonis,140-gs-pi_x10,140-cpc-uk,1,Primary Gun,T,F,F,F,F
+cl_lambros_katsonis,47-p-markiii-ha_x2-aft,47-he-uk,2,AA Battery,F,F,T,T,F
+cl_lambros_katsonis,533-tt-hull_x2-side,,,,F,F,F,F,F
+cl_lambros_katsonis,placeholder_torpedo,,,,T,F,F,F,F
+cl_chester_1915,140-gs-pi_x10,140-cpc-uk,1,Primary Gun,T,F,F,F,F
+cl_chester_1915,47-p-markiii-ha_x2-aft,47-he-uk,2,AA Battery,F,F,T,T,F
+cl_chester_1915,533-tt-hull_x2-side,,,,F,F,F,F,F
+cl_chester_1915,placeholder_torpedo,,,,T,F,F,F,F
+cl_chester_1915|1916,140-gs-pi_x10,140-cpc-uk,1,Primary Gun,T,F,F,F,F
+cl_chester_1915|1916,76-cp-ha-markii_x1-aft,76-he-uk-early,2,AA Battery,F,F,T,T,F
+cl_chester_1915|1916,533-tt-hull_x2-side,,,,F,F,F,F,F
+cl_chester_1915|1916,placeholder_torpedo,,,,T,F,F,F,F
 cl_arethusa_1913,152-gs-pvii_ay,152-cpbc-2crh,1,Primary Gun,T,F,F,F,F
 cl_arethusa_1913,102-gs-pxi_x6,102-he-uk,2,Primary Gun,T,F,F,F,F
 cl_arethusa_1913,47-p-markiii-ha_x1-aft,47-he-uk,3,AA Battery,F,F,T,T,F
@@ -12364,6 +12380,11 @@ pc_etna|vesuvio_1906,37-gs-h-corto_x1-aft,37-com-mk4,2,Tertiary Gun,F,F,T,F,F
 pc_etna|vesuvio_1906,37-p-h-corto_x1-fore,37-com-mk4,2,Tertiary Gun,F,F,T,F,F
 pc_etna|vesuvio_1906,356-tt-hull_x2-side,,,,F,F,F,F,F
 pc_etna|vesuvio_1906,placeholder_torpedo,,,,T,F,F,F,F
+pc_salamis,152-gs-m1887_x6,152-ap-ita-early-early,1,Primary Gun,T,F,F,F,F
+pc_salamis,57-p-h_x9,57-he-uk,2,Tertiary Gun,F,F,T,F,F
+pc_salamis,37-gs-h-corto_x2-mast,37-com-mk4,3,Tertiary Gun,F,F,T,F,F
+pc_salamis,356-tt-hull_x4-side,,,,F,F,F,F,F
+pc_salamis,placeholder_torpedo,,,,T,F,F,F,F
 pc_dogali,152-gs-m1887_x6,152-ap-ita-early-early,1,Primary Gun,T,F,F,F,F
 pc_dogali,57-p-h_x9,57-he-uk,2,Tertiary Gun,F,F,T,F,F
 pc_dogali,37-gs-h-corto_x2-mast,37-com-mk4,3,Tertiary Gun,F,F,T,F,F
