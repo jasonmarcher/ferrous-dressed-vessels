@@ -1,24 +1,86 @@
 LocationID,LocationName,LocationType,LocationLat,LocationLong,LocationURL
+hulk_hms_bronnington,HMS Bronnington,Mooring,53.40321985,-3.046315032,
+m_131_nanjing,131 Nanjing Ship,Museum,29.26032576,121.9734661,
 m_aurora,Cruiser Aurora,Museum,59.95574409,30.33756504,https://navalmuseum.ru/filials/cruiser_aurora/
+m_australian_nationa_maritime,Australian National Maritime Museum,Museum,-33.86931077,151.1986822,http://www.sea.museum/
+m_b_413,B-413 Submarine,Museum,54.70665047,20.49373205,
 m_battleship_cove,Battleship Cove,Museum,41.70514661,-71.16179322,https://www.battleshipcove.org/
 m_battleship_oregon_memorial_park,Battleship Oregon Memorial Park,Museum,45.516,-122.6726,
+m_bespokoyny,Destroyer Bespokoyny,Museum,59.98357806,29.76161703,
+m_blyskawica,ORP Blyskawica,Museum,54.51975893,18.55031806,https://muzeummw.pl/
+m_buffalo_naval_park,Buffalo Naval Park,Museum,42.87756341,-78.8795524,http://buffalonavalpark.org/
+m_c_189,Submarine C-189,Museum,59.93225287,30.27550324,http://museum-s-189.ru/
+m_chatham_historic_dockyard,Historic Dockyard Chatham,Museum,51.39707102,0.5290220503,http://thedockyard.co.uk/
+m_deyang_ship_park,Navy Destroyer Deyang Ship Park,Museum,22.98921963,120.15659,http://www.teyang925.com.tw/
+m_galveston_naval_museum,Galveston Naval Museum,Museum,29.33468446,-94.77942772,http://www.galvestonnavalmuseum.com/
+m_gangneung_unification_park,Gangneung Unification Park,Museum,37.71771236,129.0054191,
+m_gayret_gemi,Gayret Gemi Museum,Museum,40.76101071,29.91710819,https://denizmuzeleri.dzkk.tsk.tr/v1/izmit-muze-gemiler-mudurlugu
+m_historic_ships_baltimore,Historic Ships in Baltimore,Museum,39.2856779,-76.61101026,http://historicships.org/
+m_hmas_castlemaine,HMAS Castlemaine,Museum,-37.86099543,144.9056395,http://hmascastlemaine.org.au/
+m_hmcs_haida,HMCS Haida,Museum,43.27547455,-79.85541701,https://parks.canada.ca/lhn-nhs/on/haida
+m_hmcs_ojibwa,Museum Of Naval History - HMCS Ojibwa,Museum,42.64650252,-80.8079022,http://www.hmcsojibwa.ca/
+m_hmcs_onondaga,Sous-marin Onondaga,Museum,48.51704405,-68.47061426,https://www.shmp.qc.ca/
 m_hms_belfast,HMS Belfast,Museum,51.50663865,-0.08140574623,https://www.iwm.org.uk/visits/hms-belfast
+m_hms_bronnington_salford,HMS Bronnington (Salford Quays),Museum,53.46817046,-2.286046105,
 m_hms_caroline,Royal Navy Museums: HMS Caroline,Museum,54.61377558,-5.902626237,https://tickets.royalnavymuseums.org.uk/en/hms-caroline/hmsc-tickets?date=2026-05-30&session_id=338703722&utm_medium=ttd--&utm_campaign=394510_bfs_maps_nav&utm_source=google&utm_term=en-US
+m_hs_velos,HS Velos (D-16) Museum Ship,Museum,40.63182996,22.9344175,https://velos.hellenicnavy.gr/
+m_jmsdf_kure_museum,Japan Maritime Self-Defense Force Kure Museum,Museum,34.24225996,132.5552245,https://www.jmsdf-kure-museum.go.jp/
+m_k_g_sakharov_park,K.G. Sakharov History of Technology Park Complex ,Museum,53.55314912,49.25004557,https://pkitis.tltsu.ru/
+m_karlskrona_naval_museum,Karlskrona Naval Museum,Museum,56.16111401,15.59914211,https://www.marinmuseum.se/
+m_memorial_odessa,Memorial to heroic defence of Odessa - 411th Battery,Museum,46.37299381,30.71967514,
 m_mikasa,Mikasa Memorial Warship,Museum,35.28517326,139.674338,http://www.kinenkan-mikasa.or.jp/
+m_mikhail_kutuzov,Mikhail Kutuzov Cruiser,Museum,44.7213515,37.7820182,http://www.navalmuseum.ru/filials/cruiser_mikhail_kutuzov
+m_muskogee_war_memorial,Muskogee War Memorial Park: Home of the USS Batfish,Museum,35.79363732,-95.31047305,http://www.ussbatfish.com/
+m_nanchang_naval_vessel_theme_park,Nanchang Naval Vessel Theme Park,Museum,28.71871623,115.8909146,
 m_nauticus_national_museum,Nauticus National Maritime Center,Museum,36.84778456,-76.29510147,http://www.nauticus.org/
+m_navy_museum_den_helder,Navy Museum in Den Helder,Museum,52.96388137,4.771647798,http://www.marinemuseum.nl/
+m_new_jersey_naval_museum,New Jersey Naval Museum,Museum,40.8801077,-74.0399165,
 m_olympia_becuna_museum,Cruiser Olympia and Submarine Becuna at Independence Seaport Museum,Museum,39.94366808,-75.14136092,https://www.phillyseaport.org/
 m_pacific_battleship_center,Pacific Battleship Center,Museum,33.74244515,-118.2774309,http://www.pacificbattleship.com/
+m_pacific_fleet_submarine_museum,Pacific Fleet Submarine Museum,Museum,21.36854628,-157.9388975,https://www.bowfin.org/
+m_parque_jaime_duque,Parque Jaime Duque,Museum,4.948843965,-73.96348556,http://www.parquejaimeduque.com/
 m_patriots_point,Patriots Point Naval & Maritime Museum,Museum,32.79078991,-79.90557873,http://www.patriotspoint.org/
+m_port_natal,Port Natal Maritime Museum,Museum,-29.8621047,31.02898023,http://www.durban.gov.za/
+m_portsmouth_historic_dockyard,Portsmouth Historic Dockyard,Museum,50.7989691,-1.10754528,https://www.historicdockyard.co.uk/
+m_pretoria,Pretoria,Museum,-34.05392804,18.34779033,https://tcaminesweepers.co.uk/ship-details/ton-class/dunkerton-m1144/
+m_qingdao_naval_museum,Qingdao Naval Museum,Museum,36.054207,120.326851,http://www.hjbwg.com/
+m_queensland_maritime,Queensland Maritime Museum,Museum,-27.48175367,153.0255572,https://www.maritimemuseum.com.au/
+m_royal_navy_submarines,Royal Navy Museums: Submarines,Museum,50.7883225,-1.119586653,https://historicdockyard.co.uk/discover/rn-submarine-museum/
+m_sacrario_delle_bandiere,Sacrario delle Bandiere,Museum,41.89504217,12.48367668,https://www.difesa.it/smd/ramdife/sacrariodellebandiere/index/28855.html
+m_saginaw_velley,Saginaw Valley Naval Ship Museum,Museum,43.61463497,-83.86851807,http://www.svnsm.com/
 m_san_jacinto_battleground,San Jacinto Battleground State Historic Site,Museum,29.75035522,-95.08086628,https://thc.texas.gov/historic-sites/san-jacinto-battleground
+m_sapgyoho_ship_park,Sapgyoho Ship Park ,Museum,36.89143079,126.8250944,
+m_submarine_force_museum,Submarine Force Library & Museum,Museum,41.38763698,-72.08685051,http://ussnautilus.org/
+m_submarine_heritage_centre,Submarine Heritage Centre,Museum,54.10800768,-3.225225703,
+m_sukellusvene,Sukellusvene Vesikko,Museum,60.14273015,24.98954674,https://sotamuseo.fi/sukellusvene-vesikko
+m_taizhou_naval_museum,Taizhou Naval Museum,Museum,32.24348572,119.8961779,
 m_uss_alabama,USS Alabama Battleship Memorial Park,Museum,30.68200635,-88.01478015,https://www.ussalabama.com/
+m_uss_cassin_young,USS Cassin Young,Museum,42.3722833,-71.05444004,http://www.nps.gov/bost/learn/historyculture/usscassinyoung.htm
+m_uss_cod,USS Cod Submarine Memorial,Museum,41.51016383,-81.69155062,https://usscod.org/
 m_uss_hornet,"USS Hornet - Sea, Air and Space Museum",Museum,37.77285768,-122.3025199,https://www.uss-hornet.org/
 m_uss_intrepid,Intrepid Museum,Museum,40.76502439,-74.00085374,https://intrepidmuseum.org/
+m_uss_kidd,USS Kidd,Museum,30.44440711,-91.19145688,https://www.usskidd.com/
 m_uss_lexington,USS Lexington,Museum,27.815256,-97.38870936,https://www.usslexington.com/
 m_uss_midway_museum,USS Midway Museum,Museum,32.71393842,-117.1751121,https://www.midway.org/
 m_uss_missouri_museum,USS Missouri (BB-63) - Battleship Museum,Museum,21.36219629,-157.9533955,http://www.ussmissouri.org/
 m_uss_new_jersey,Battleship New Jersey Museum & Memorial,Museum,39.93953896,-75.13286143,http://www.battleshipnewjersey.org/
 m_uss_north_carolina,Battleship North Carolina,Museum,34.23664104,-77.95417728,https://battleshipnc.com/
 m_uss_oregon_museum,USS Oregon Museum,Museum,45.51250724,-122.6736932,
+m_uss_orleck,USS Orleck Naval Museum,Museum,30.32311651,-81.65085029,https://www.jaxnavalmuseum.org/
+m_uss_requin,USS Requin,Museum,40.44540751,-80.01850469,http://www.carnegiesciencecenter.org/exhibits/requin-submarine/
+m_uss_salem,United States Naval Shipbuilding Museum & USS Salem,Museum,42.24239788,-70.97167717,http://www.uss-salem.org/
+m_uss_silversides,USS Silversides Submarine Museum,Museum,43.22984518,-86.33239689,http://www.silversidesmuseum.org/
+m_uss_turner_joy,USS Turner Joy,Museum,47.56493367,-122.622035,https://ussturnerjoy.org/
+m_victorian_museum_centre,Victorian Maritime Centre,Museum,-38.34717564,145.2160615,http://maritimecentre.com.au/
+m_vittoriale,Vittoriale,Museum,45.62479829,10.56559479,https://www.vittoriale.it/luoghi-del-vittoriale/mas-96/
+m_wa_maritime_museum,WA Maritime Museum,Museum,-32.05458814,115.7393511,https://visit.museum.wa.gov.au/maritime
+m_warship_preservation_trust,Warship Preservation Trust,Museum,53.40466289,-3.028885843,
+m_weapons_of_victory,Weapons of Victory Museum,Museum,45.02139638,38.95578239,
+m_wisconsin_maritime,Wisconsin Maritime Museum,Museum,44.09300449,-87.65562769,http://www.wisconsinmaritime.org/
+m_yellow_river_military_park,Yellow River Military Cultural Expo Park,Museum,38.39850044,106.4899812,
+m_yintan_maritime_park,Yintan Maritime Park,Museum,37.49497967,122.1395223,
+nb_algiers_naval_station,"Algiers Naval Station, Louisiana",Navy Base,29.94933478,-90.0326453,
+nb_haakonsvern,Haakonsvern Naval Base,Navy Base,60.33880245,5.226946017,
 nsy_arsenal_de_cartagena,Arsenal de Cartagena,Navy Shipyard,37.59808441,-0.9920512607,https://en.wikipedia.org/wiki/Cartagena_Naval_Base
 nsy_arsenal_de_ferrol,Arsenal del Ferrol,Navy Shipyard,43.4797,-8.2371,https://en.wikipedia.org/wiki/Ferrol_Naval_Base
 nsy_arsenal_de_la_carraca,Arsenal de La Carraca,Navy Shipyard,36.49386543,-6.179771223,https://en.wikipedia.org/wiki/Arsenal_de_La_Carraca
@@ -39,6 +101,7 @@ nsy_la_spezia_naval_base,La Spezia Naval Base,Navy Shipyard,44.10059236,9.814997
 nsy_lorient_arsenal,Lorient Arsenal,Navy Shipyard,47.75099949,-3.350849636,https://fr.wikipedia.org/wiki/Arsenal_de_Lorient
 nsy_malta,Malta Dockyard,Navy Shipyard,35.88276893,14.51640769,https://en.wikipedia.org/wiki/Malta_Dockyard
 nsy_mare_island_naval_shipyard,Mare Island Naval Shipyard,Navy Shipyard,38.09,-122.263333,https://en.wikipedia.org/wiki/Mare_Island_Naval_Shipyard
+nsy_mumbai,Naval Dockyard Mumbai,Navy Shipyard,18.92601033,72.83646704,https://en.wikipedia.org/wiki/Naval_Dockyard_(Mumbai)
 nsy_mykolayiv_shipyard,"Mykolayiv Shipyard (200, 61)",Navy Shipyard,46.9764,32.0042,https://en.wikipedia.org/wiki/Mykolayiv_Shipyard
 nsy_new_york_navy_yard,New York Navy Yard,Navy Shipyard,40.70340093,-73.9743493,https://en.wikipedia.org/wiki/Brooklyn_Navy_Yard
 nsy_norfolk_navy_shipyard,Norfolk Naval Shipyard,Navy Shipyard,36.815278,-76.297222,https://en.wikipedia.org/wiki/Norfolk_Naval_Shipyard
@@ -60,7 +123,11 @@ nsy_venezia_arsenal,Venezia Arsenal,Navy Shipyard,45.43669732,12.35666573,https:
 nsy_woolwich,Woolwich Dockyard,Navy Shipyard,51.494444,0.056111,https://en.wikipedia.org/wiki/Woolwich_Dockyard
 nsy_yokosuka_naval_arsenal,Yokosuka Naval Arsenal,Navy Shipyard,35.28670882,139.6611429,https://en.wikipedia.org/wiki/Yokosuka_Naval_Arsenal
 port_barcelona,"Barcelona, Spain",Port,41.35150266,2.171243249,https://en.wikipedia.org/wiki/Port_of_Barcelona
+port_brownsville,"Brownsville, Texas",Port,25.95216641,-97.39968959,
+port_galveston,"Galveston, Texas, US",Port,29.31192311,-94.79455898,
 port_greenhithe_england_uk,"Greenhithe, England, UK",Port,51.45447505,0.2817434646,"https://en.wikipedia.org/wiki/Greenhithe,_Kent"
+port_greenock_great_harbor,"Great Harbour, Greenock, Scotland",Port,55.94603667,-4.722097506,
+port_new_orleans,"New Orleans, Louisiana",Port,29.9540126,-90.06176875,
 sy_ac_saint_nazaire_penhoet,AC Saint-Nazaire Penhoet,Commercial Shipyard,47.28634094,-2.193246012,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_Saint-Nazaire_Penho%C3%ABt
 sy_acl_saint_nazaire,ACL Saint-Nazaire,Commercial Shipyard,47.28970366,-2.189971462,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_la_Loire
 sy_amur,Amur Shipbuilding Plant (199),Commercial Shipyard,50.54770929,137.0459456,https://en.wikipedia.org/wiki/Amur_Shipbuilding_Plant
@@ -70,6 +137,7 @@ sy_armstrong_elswick,"Armstrong, Elswick",Commercial Shipyard,54.96276909,-1.649
 sy_asano_yokohama,Asano Shipbuilding Company,Commercial Shipyard,35.49304309,139.6913644,https://en.wikipedia.org/wiki/Asano_Shipbuilding_Company
 sy_associated_seattle,Puget Sound Bridge and Dredging Company,Commercial Shipyard,47.57579522,-122.3567849,https://en.wikipedia.org/wiki/Puget_Sound_Bridge_and_Dredging_Company
 sy_atlantic_basin_iron_works,Atlantic Basin Iron Works,Commercial Shipyard,40.68263,-74.01186,"https://en.wikipedia.org/wiki/Atlantic_Basin_Iron_Works#:~:text=The%20Atlantic%20Basin%20Iron%20Works,at%2018%E2%80%9320%20Summit%20Street."
+sy_avondale,Avondale Shipyard,Commercial Shipyard,29.923889,-90.185,https://en.wikipedia.org/wiki/Avondale_Shipyard
 sy_baltic_shipyard,Baltic Shipyard (189),Commercial Shipyard,59.92346955,30.26073679,https://en.wikipedia.org/wiki/Baltic_Shipyard
 sy_barrow_shipyard,Barrow Shipyard,Commercial Shipyard,54.10556086,-3.236379677,https://en.wikipedia.org/wiki/Vickers_Shipbuilding_and_Engineering
 sy_bath_iron_works,Bath Iron Works,Commercial Shipyard,43.904494,-69.814746,https://en.wikipedia.org/wiki/Bath_Iron_Works
@@ -88,10 +156,13 @@ sy_city_pont_boston,City Point Iron Works,Commercial Shipyard,42.33996773,-71.01
 sy_cochin_shipyard,Cochin Shipyard,Commercial Shipyard,9.953145898,76.2890368,https://en.wikipedia.org/wiki/Cochin_Shipyard
 sy_columbian_iron_works_baltimore,Columbian Iron Works and Dry Dock Co.,Commercial Shipyard,39.269742,-76.585667,https://en.wikipedia.org/wiki/Columbian_Iron_Works_and_Dry_Dock_Co.
 sy_commercial_iron_works,Commercial Iron Works,Commercial Shipyard,45.4996,-122.66749,https://en.wikipedia.org/wiki/Commercial_Iron_Works
+sy_consolidated_orange,"Consolidated Steel Corporation, Orange",Commercial Shipyard,30.086351,-93.72434,https://en.wikipedia.org/wiki/Consolidated_Steel_Corporation
+sy_consolidated_wilmington,"Consolidated Steel Corporation, Wilmington",Commercial Shipyard,33.76767,-118.27254,https://en.wikipedia.org/wiki/Consolidated_Steel_Corporation
 sy_crescent_newark,Crescent Shipyard,Commercial Shipyard,40.64512234,-74.18846788,https://en.wikipedia.org/wiki/Crescent_Shipyard
 sy_dalmuir_shipyard,Dalmuir Shipyard,Commercial Shipyard,55.90751309,-4.434768666,https://en.wikipedia.org/wiki/William_Beardmore_and_Company
 sy_danzig,Danzig Shipyard,Commercial Shipyard,54.36977183,18.64321175,https://en.wikipedia.org/wiki/Schichau-Werke
 sy_danzig_kw,Imperial Shipyard Danzig,Commercial Shipyard,54.3632082,18.65546272,
+sy_defoe_shipbuilding,Defoe Shipbuilding Company,Commercial Shipyard,43.60761153,-83.88453267,https://en.wikipedia.org/wiki/Defoe_Shipbuilding_Company
 sy_delaware_river,Delaware River Iron Ship Building and Engine Works,Commercial Shipyard,39.837964,-75.368153,https://en.wikipedia.org/wiki/Delaware_River_Iron_Ship_Building_and_Engine_Works
 sy_dixon_middlesbrough,"Dixon, Sir Raylton & Co. Ltd.",Commercial Shipyard,54.58164344,-1.221556038,https://en.wikipedia.org/wiki/Raylton_Dixon
 sy_earle_hull,Earle's Shipbuilding,Commercial Shipyard,53.74380174,-0.3032569204,https://en.wikipedia.org/wiki/Earle%27s_Shipbuilding
@@ -105,11 +176,14 @@ sy_fiume_shipyard,Fiume Shipyard,Commercial Shipyard,45.33669288,14.39344006,htt
 sy_fore_river_shipyard,Fore River Shipyard,Commercial Shipyard,42.238819,-70.972389,https://en.wikipedia.org/wiki/Fore_River_Shipyard
 sy_franco_russkiy,Franco-Russkiy Plant,Commercial Shipyard,59.92296265,30.27325313,
 sy_galerny_island,Galerny Island Shipyard,Commercial Shipyard,59.917289,30.27082042,
+sy_gas_engine_power_morris_heights,Gas Engine & Power and CL Seabury,Commercial Shipyard,40.85470167,-73.9207267,https://en.wikipedia.org/wiki/Consolidated_Yachts
 sy_german_hamburg,German Shipyard,Commercial Shipyard,53.53823324,9.86525037,https://en.wikipedia.org/wiki/Deutsche_Werft
 sy_germania_kiel,Germania Shipyard,Commercial Shipyard,54.31404132,10.13762188,https://en.wikipedia.org/wiki/Friedrich_Krupp_Germaniawerft
+sy_gulf_chickasaw,Gulf Shipbuilding Corporation,Commercial Shipyard,30.767,-88.059,https://en.wikipedia.org/wiki/Gulf_Shipbuilding_Corporation
 sy_gulf_copper,Gulf Copper Dry Dock & Rig Repair,Commercial Shipyard,29.31699936,-94.79721776,https://www.gulfcopper.com/?utm_source=google&utm_medium=referral&utm_campaign=gmb
 sy_h_c_stulcken_sohn_hamburg,H. C. Stulcken Sohn,Commercial Shipyard,53.541019,9.970864,https://en.wikipedia.org/wiki/H._C._St%C3%BClcken_Sohn
 sy_harima_aioi,Harima Shipyard,Commercial Shipyard,34.78979004,134.4634561,
+sy_harlan_hollingsworth,Harlan and Hollingsworth,Commercial Shipyard,39.73712392,-75.55714279,https://en.wikipedia.org/wiki/Harlan_and_Hollingsworth
 sy_harland_and_wolff,Harland & Wolff,Commercial Shipyard,54.605,-5.905,https://en.wikipedia.org/wiki/Harland_%26_Wolff
 sy_hebburn_shipyard,"R. & W. Hawthorn, Leslie and Company",Commercial Shipyard,54.98248182,-1.525458014,"https://en.wikipedia.org/wiki/R._%26_W._Hawthorn,_Leslie_and_Company"
 sy_high_walker_naval_yard,High Walker Naval Yard,Commercial Shipyard,54.96460509,-1.540039955,https://www.tynebuiltships.co.uk/VickersArmstrong.html
@@ -162,6 +236,7 @@ sy_seattle_tacoma_commencement_bay,"Seattle-Tacoma Shipbuilding, Tacoma",Commerc
 sy_seattle_tacoma_harbor_island,"Seattle-Tacoma Shipbuilding, Seattle",Commercial Shipyard,47.58700719,-122.3480035,https://en.wikipedia.org/wiki/Seattle%E2%80%93Tacoma_Shipbuilding_Corporation
 sy_severodvinsk,Severodvinsk Shipyard (402),Commercial Shipyard,64.57860934,39.81412537,https://en.wikipedia.org/wiki/Sevmash
 sy_smiths_dock_north_shields,Smith's Dock Company,Commercial Shipyard,55.00108555,-1.446999006,https://en.wikipedia.org/wiki/Smith%27s_Dock_Company
+sy_sparrows_point,Bethlehem Sparrows Point Shipyard,Commercial Shipyard,39.21836368,-76.49403022,https://en.wikipedia.org/wiki/Bethlehem_Sparrows_Point_Shipyard
 sy_stephenson_newcastle,Robert Stephenson and Company,Commercial Shipyard,54.98443613,-1.515446099,https://en.wikipedia.org/wiki/Robert_Stephenson_and_Company
 sy_sudomekh,Sudomekh Shipyard (196),Commercial Shipyard,59.92971563,30.2794779,https://en.wikipedia.org/wiki/Sudomekh_Shipyard
 sy_sun_shipbuilding,Sun Shipbuilding & Drydock Company,Commercial Shipyard,39.84898,-75.351409,https://en.wikipedia.org/wiki/Sun_Shipbuilding_%26_Drydock_Co.
@@ -172,6 +247,7 @@ sy_trieste_shipyard,Trieste Shipyard,Commercial Shipyard,45.63583792,13.77158945
 sy_union_iron_works,Union Iron Works,Commercial Shipyard,37.760744,-122.384447,https://en.wikipedia.org/wiki/Union_Iron_Works
 sy_uraga_shipyard,Uraga Shipyard,Commercial Shipyard,35.24651041,139.7163878,"https://en.wikipedia.org/wiki/Uraga,_Kanagawa"
 sy_vea_murguia_cadiz,Vea-Murguia Cadiz,Commercial Shipyard,36.52792966,-6.280200096,
+sy_victory_squantum,Victory Destroyer Plant,Commercial Shipyard,42.29879026,-71.02880356,https://en.wikipedia.org/wiki/Victory_Destroyer_Plant
 sy_vulcan_bremen,Bremer Vulkan,Commercial Shipyard,53.17406354,8.59834862,https://en.wikipedia.org/wiki/Bremer_Vulkan
 sy_vulcan_hamberg,Vulkanwerft Hamburg,Commercial Shipyard,53.52779955,9.951955508,https://en.wikipedia.org/wiki/AG_Vulcan_Stettin
 sy_w_h_webb_new_york,William H. Webb Shipyard,Commercial Shipyard,40.72135197,-73.97392391,https://en.wikipedia.org/wiki/William_H._Webb
@@ -184,5 +260,8 @@ sy_wilhelmshaven,Imperial Shipyard Wilhelmshaven,Commercial Shipyard,53.51997403
 sy_willamette_iron_and_steel_works,Willamette Iron and Steel Works,Commercial Shipyard,45.54387,-122.69674,https://en.wikipedia.org/wiki/Willamette_Iron_and_Steel_Works
 sy_william_cramp_and_sons,William Cramp & Sons Shipbuilding Company,Commercial Shipyard,39.9717,-75.1183,https://en.wikipedia.org/wiki/William_Cramp_%26_Sons
 sy_william_denny_dumbarton,William Denny and Brothers,Commercial Shipyard,55.93978526,-4.561666474,https://en.wikipedia.org/wiki/William_Denny_and_Brothers
+sy_william_trigg,William R. Trigg Company,Commercial Shipyard,37.52825946,-77.42530664,https://en.wikipedia.org/wiki/William_R._Trigg_Company
+sy_wolff_zwicker,Wolff & Zwicker Iron Works,Commercial Shipyard,45.51271133,-122.6673604,https://en.wikipedia.org/wiki/Wolff_%26_Zwicker_Iron_Works
 sy_workman_belfast,"Workman, Clark and Company",Commercial Shipyard,54.61433964,-5.910464075,"https://en.wikipedia.org/wiki/Workman,_Clark_and_Company"
 sy_yokohama_shipyard,Yokohama Shipyard,Commercial Shipyard,35.41741191,139.6763111,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+uss_pampanito,USS Pampanito Museum and Memorial,Museum,37.81016778,-122.4164498,http://maritime.org/
