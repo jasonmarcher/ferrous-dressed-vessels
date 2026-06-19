@@ -67,6 +67,7 @@ m_uss_new_jersey,Battleship New Jersey Museum & Memorial,Museum,39.93953896,-75.
 m_uss_north_carolina,Battleship North Carolina,Museum,34.23664104,-77.95417728,https://battleshipnc.com/
 m_uss_oregon_museum,USS Oregon Museum,Museum,45.51250724,-122.6736932,
 m_uss_orleck,USS Orleck Naval Museum,Museum,30.32311651,-81.65085029,https://www.jaxnavalmuseum.org/
+m_uss_pampanito,USS Pampanito Museum and Memorial,Museum,37.81016778,-122.4164498,http://maritime.org/
 m_uss_requin,USS Requin,Museum,40.44540751,-80.01850469,http://www.carnegiesciencecenter.org/exhibits/requin-submarine/
 m_uss_salem,United States Naval Shipbuilding Museum & USS Salem,Museum,42.24239788,-70.97167717,http://www.uss-salem.org/
 m_uss_silversides,USS Silversides Submarine Museum,Museum,43.22984518,-86.33239689,http://www.silversidesmuseum.org/
@@ -120,6 +121,7 @@ nsy_sheerness,Sheerness Dockyard,Navy Shipyard,51.4449995,0.7464151263,https://e
 nsy_taranto_arsenal,Tananto Arsenal,Navy Shipyard,40.47112362,17.25542767,
 nsy_toulon_arsenal,Toulon Arsenal,Navy Shipyard,43.1194,5.9164,https://en.wikipedia.org/wiki/Toulon_arsenal
 nsy_venezia_arsenal,Venezia Arsenal,Navy Shipyard,45.43669732,12.35666573,https://en.wikipedia.org/wiki/Venetian_Arsenal
+nsy_williamstown_dockyard,Williamstown Dockyard,Navy Shipyard,-37.863889,144.911389,https://en.wikipedia.org/wiki/Williamstown_Dockyard
 nsy_woolwich,Woolwich Dockyard,Navy Shipyard,51.494444,0.056111,https://en.wikipedia.org/wiki/Woolwich_Dockyard
 nsy_yokosuka_naval_arsenal,Yokosuka Naval Arsenal,Navy Shipyard,35.28670882,139.6611429,https://en.wikipedia.org/wiki/Yokosuka_Naval_Arsenal
 port_barcelona,"Barcelona, Spain",Port,41.35150266,2.171243249,https://en.wikipedia.org/wiki/Port_of_Barcelona
@@ -152,6 +154,7 @@ sy_caledon_yard_dundee,"Caledon Shipbuilding & Engineering Company",Commercial 
 sy_cammell_laird,Cammell Laird,Commercial Shipyard,53.385236,-3.012503,https://en.wikipedia.org/wiki/Cammell_Laird
 sy_cartsdyke_yard,Cartsdyke Yard,Commercial Shipyard,55.94502488,-4.738197109,https://en.wikipedia.org/wiki/Greenock_Dockyard_Company
 sy_chester,Chester Shipyard,Commercial Shipyard,39.84963634,-75.34705574,https://en.wikipedia.org/wiki/John_Roach_%26_Sons
+sy_chiswick,Chiswick Shipyard,Commercial Shipyard,51.48461488,-0.2507291291,https://en.wikipedia.org/wiki/John_I._Thornycroft_%26_Company
 sy_city_pont_boston,City Point Iron Works,Commercial Shipyard,42.33996773,-71.01684785,
 sy_cochin_shipyard,Cochin Shipyard,Commercial Shipyard,9.953145898,76.2890368,https://en.wikipedia.org/wiki/Cochin_Shipyard
 sy_columbian_iron_works_baltimore,Columbian Iron Works and Dry Dock Co.,Commercial Shipyard,39.269742,-76.585667,https://en.wikipedia.org/wiki/Columbian_Iron_Works_and_Dry_Dock_Co.
@@ -182,6 +185,7 @@ sy_germania_kiel,Germania Shipyard,Commercial Shipyard,54.31404132,10.13762188,h
 sy_gulf_chickasaw,Gulf Shipbuilding Corporation,Commercial Shipyard,30.767,-88.059,https://en.wikipedia.org/wiki/Gulf_Shipbuilding_Corporation
 sy_gulf_copper,Gulf Copper Dry Dock & Rig Repair,Commercial Shipyard,29.31699936,-94.79721776,https://www.gulfcopper.com/?utm_source=google&utm_medium=referral&utm_campaign=gmb
 sy_h_c_stulcken_sohn_hamburg,H. C. Stulcken Sohn,Commercial Shipyard,53.541019,9.970864,https://en.wikipedia.org/wiki/H._C._St%C3%BClcken_Sohn
+sy_halifax,Halifax Shipyard Limited,Commercial Shipyard,44.66628963,-63.59452547,https://en.wikipedia.org/wiki/Halifax_Shipyard
 sy_harima_aioi,Harima Shipyard,Commercial Shipyard,34.78979004,134.4634561,
 sy_harlan_hollingsworth,Harlan and Hollingsworth,Commercial Shipyard,39.73712392,-75.55714279,https://en.wikipedia.org/wiki/Harlan_and_Hollingsworth
 sy_harland_and_wolff,Harland & Wolff,Commercial Shipyard,54.605,-5.905,https://en.wikipedia.org/wiki/Harland_%26_Wolff
@@ -192,6 +196,7 @@ sy_hog_island,Hog Island Shipyard,Commercial Shipyard,39.86837772,-75.23404562,"
 sy_howaldtswerke_kiel,Howaldtswerke Kiel,Commercial Shipyard,54.33755582,10.1763536,https://en.wikipedia.org/wiki/Howaldtswerke-Deutsche_Werft
 sy_ihi_yokohama,IHI Yohkohama Works,Commercial Shipyard,35.39120542,139.6323298,https://en.wikipedia.org/wiki/IHI_Corporation
 sy_ingalls_shipbuilding,Ingalls Shipbuilding,Commercial Shipyard,30.347371,-88.575017,https://en.wikipedia.org/wiki/Ingalls_Shipbuilding
+sy_inglis,A. & J. Inglis,Commercial Shipyard,55.86597353,-4.305735973,https://en.wikipedia.org/wiki/A._%26_J._Inglis
 sy_j_w_dudgeon,J & W Dudgeon,Commercial Shipyard,51.49228,-0.00419,https://en.wikipedia.org/wiki/J_%26_W_Dudgeon
 sy_james_pollock_faversham,"James Pollock, Sons and Co",Commercial Shipyard,51.42131081,0.7371494197,"https://www.gracesguide.co.uk/James_Pollock,_Sons_and_Co"
 sy_john_brown_clydebank_shipyard,Clydebank Shipyard,Commercial Shipyard,55.897786,-4.404423,https://en.wikipedia.org/wiki/John_Brown_%26_Company
@@ -210,7 +215,6 @@ sy_mitsubishi_nagasaki,Mitsubishi Heavy Industries,Commercial Shipyard,32.742046
 sy_monfalcone_shipyard,Monfalcone Shipyard,Commercial Shipyard,45.79664171,13.54154946,https://en.wikipedia.org/wiki/Cantiere_Navale_Triestino
 sy_moore_oakland,Moore Dry Dock Company,Commercial Shipyard,37.796972,-122.290139,https://en.wikipedia.org/wiki/Moore_Dry_Dock_Company
 sy_muggiano,Muggiano Shipyard,Commercial Shipyard,44.09081979,9.86996828,https://en.wikipedia.org/wiki/Cantiere_navale_del_Muggiano
-sy_napier_govan,Govan East Iron Shipbuilding Yard,Commercial Shipyard,55.86067069,-4.301342073,https://en.wikipedia.org/wiki/Robert_Napier_and_Sons
 sy_neafie_levy_philadelphia,Neafie & Levy,Commercial Shipyard,39.968514,-75.123922,https://en.wikipedia.org/wiki/Neafie_%26_Levy
 sy_nevsky_plant,Nevsky Plant,Commercial Shipyard,59.86301705,30.47948816,https://www.encspb.ru/object/2855712771?lc=en
 sy_new_york_shipbuilding_corp,New York Shipbuilding Corporation,Commercial Shipyard,39.910833,-75.122222,https://en.wikipedia.org/wiki/New_York_Shipbuilding_Corporation
@@ -219,8 +223,11 @@ sy_norderwerft_hamburg,Norderwerft Koser & Meyer,Commercial Shipyard,53.53908575
 sy_odero_shipyard,Odero Shipyard,Commercial Shipyard,44.42095827,8.847817309,https://en.wikipedia.org/wiki/Cantieri_navali_Odero
 sy_oderwerke_stettin,Oderwerke Stettin,Commercial Shipyard,53.4419329,14.58051899,https://en.wikipedia.org/wiki/Oderwerke
 sy_orlando_shipyard,Orlando Brothers Shipyard,Commercial Shipyard,43.54381559,10.30276244,https://en.wikipedia.org/wiki/Cantiere_navale_fratelli_Orlando
+sy_paisley,"Hanna, Donald & Wilson",Commercial Shipyard,55.85648385,-4.422553406,"https://en.wikipedia.org/wiki/Hanna,_Donald_%26_Wilson"
 sy_palermo,Palermo Shipyard,Commercial Shipyard,38.13761752,13.36981485,https://en.wikipedia.org/wiki/Cantiere_navale_di_Palermo
+sy_pallion,William Doxford & Sons,Commercial Shipyard,54.91385444,-1.412993375,https://en.wikipedia.org/wiki/William_Doxford_%26_Sons
 sy_palmers_jarrow,"Palmers' Shipbuilding & Iron Company Ltd, Jarrow",Commercial Shipyard,54.98530186,-1.491179244,https://en.wikipedia.org/wiki/Palmers_Shipbuilding_and_Iron_Company
+sy_poplar,Yarrow Poplar,Commercial Shipyard,51.49901661,-0.008096228048,https://en.wikipedia.org/wiki/Yarrow_Shipbuilders
 sy_putilov,Putilov Shipyard (190),Commercial Shipyard,59.88036133,30.23021146,https://en.wikipedia.org/wiki/Severnaya_Verf
 sy_refshaleoen_island,"Burmeister & Wain, Copenhagen",Commercial Shipyard,55.69163673,12.61050313,"https://en.wikipedia.org/wiki/Refshale%C3%B8en,_Copenhagen"
 sy_reiherstieg_hamburg,Reiherstieg Schiffswerfte & Maschinenfabrik,Commercial Shipyard,53.53768915,9.980330212,https://en.wikipedia.org/wiki/Reiherstieg_Schiffswerfte_%26_Maschinenfabrik
@@ -240,8 +247,7 @@ sy_sparrows_point,Bethlehem Sparrows Point Shipyard,Commercial Shipyard,39.21836
 sy_stephenson_newcastle,Robert Stephenson and Company,Commercial Shipyard,54.98443613,-1.515446099,https://en.wikipedia.org/wiki/Robert_Stephenson_and_Company
 sy_sudomekh,Sudomekh Shipyard (196),Commercial Shipyard,59.92971563,30.2794779,https://en.wikipedia.org/wiki/Sudomekh_Shipyard
 sy_sun_shipbuilding,Sun Shipbuilding & Drydock Company,Commercial Shipyard,39.84898,-75.351409,https://en.wikipedia.org/wiki/Sun_Shipbuilding_%26_Drydock_Co.
-sy_thames_ironworks,Thames Ironworks and Shipbuilding Company,Commercial Shipyard,51.509444,0.009111,https://en.wikipedia.org/wiki/Thames_Ironworks_and_Shipbuilding_Company
-sy_thomson_clydebank,J&G Thomson Clydebank,Commercial Shipyard,55.89581561,-4.405112601,https://en.wikipedia.org/wiki/George_Thomson_(shipbuilder)
+sy_thames_ironworks,Thames Ironworks and Shipbuilding Company,Commercial Shipyard,51.51004369,0.009367543924,https://en.wikipedia.org/wiki/Thames_Ironworks_and_Shipbuilding_Company
 sy_thornycroft_woolston,"Thornycroft, Woolston",Commercial Shipyard,50.89512876,-1.382610967,https://en.wikipedia.org/wiki/John_I._Thornycroft_%26_Company
 sy_trieste_shipyard,Trieste Shipyard,Commercial Shipyard,45.63583792,13.77158945,https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino
 sy_union_iron_works,Union Iron Works,Commercial Shipyard,37.760744,-122.384447,https://en.wikipedia.org/wiki/Union_Iron_Works
@@ -250,6 +256,7 @@ sy_vea_murguia_cadiz,Vea-Murguia Cadiz,Commercial Shipyard,36.52792966,-6.280200
 sy_victory_squantum,Victory Destroyer Plant,Commercial Shipyard,42.29879026,-71.02880356,https://en.wikipedia.org/wiki/Victory_Destroyer_Plant
 sy_vulcan_bremen,Bremer Vulkan,Commercial Shipyard,53.17406354,8.59834862,https://en.wikipedia.org/wiki/Bremer_Vulkan
 sy_vulcan_hamberg,Vulkanwerft Hamburg,Commercial Shipyard,53.52779955,9.951955508,https://en.wikipedia.org/wiki/AG_Vulcan_Stettin
+sy_vulcan_stettin,Vulkanwerft Stettin,Commercial Shipyard,53.48214282,14.61211862,https://en.wikipedia.org/wiki/AG_Vulcan_Stettin
 sy_w_h_webb_new_york,William H. Webb Shipyard,Commercial Shipyard,40.72135197,-73.97392391,https://en.wikipedia.org/wiki/William_H._Webb
 sy_wallsend_west_yard,Wallsend West Yard,Commercial Shipyard,54.98675,-1.52856,https://en.wikipedia.org/wiki/Swan_Hunter
 sy_weser_bremen,Weser Bremen,Commercial Shipyard,53.11159549,8.746797456,https://en.wikipedia.org/wiki/AG_Weser
@@ -263,5 +270,5 @@ sy_william_denny_dumbarton,William Denny and Brothers,Commercial Shipyard,55.939
 sy_william_trigg,William R. Trigg Company,Commercial Shipyard,37.52825946,-77.42530664,https://en.wikipedia.org/wiki/William_R._Trigg_Company
 sy_wolff_zwicker,Wolff & Zwicker Iron Works,Commercial Shipyard,45.51271133,-122.6673604,https://en.wikipedia.org/wiki/Wolff_%26_Zwicker_Iron_Works
 sy_workman_belfast,"Workman, Clark and Company",Commercial Shipyard,54.61433964,-5.910464075,"https://en.wikipedia.org/wiki/Workman,_Clark_and_Company"
+sy_yarrow_scotstoun,"Yarrow, Scotstoun",Commercial Shipyard,55.87856903,-4.360295548,https://en.wikipedia.org/wiki/Yarrow_Shipbuilders
 sy_yokohama_shipyard,Yokohama Shipyard,Commercial Shipyard,35.41741191,139.6763111,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
-uss_pampanito,USS Pampanito Museum and Memorial,Museum,37.81016778,-122.4164498,http://maritime.org/
