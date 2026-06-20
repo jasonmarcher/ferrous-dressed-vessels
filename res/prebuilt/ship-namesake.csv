@@ -5747,13 +5747,13 @@ cvt_blackburn|hms_walrus,Skua,
 cvt_blackburn|hms_walrus,Walrus,
 d_d1|d1,D1,
 d_d1|d2,D2,
+d_d10|d10,D10,
 d_d3|d3,D3,
 d_d3|d4,D4,
 d_d5|d5,D5,
 d_d5|d6,D6,
 d_d7|d7,D7,
 d_d7|d8,D8,
-d_d10|d10,D10,
 d_d9|d9,D9,
 dbi_stonewall|css_cheops,Cheops,
 dbi_stonewall|css_cheops,Prinz Adalbert,
@@ -7197,20 +7197,30 @@ dd_fubuki|akebono,Akebono,Dawn
 dd_fubuki|amagiri,Amagiri,Sky Fog
 dd_fubuki|asagiri,Asagiri,Morning Mist
 dd_fubuki|ayanami,Ayanami,Beautiful Waves
+dd_fubuki|fubuki,Dai-35,
 dd_fubuki|fubuki,Fubuki,Blizzard
+dd_fubuki|hatsuyuki,Dai-37,
 dd_fubuki|hatsuyuki,Hatsuyuki,First Snow
+dd_fubuki|isonami,Dai-43,
 dd_fubuki|isonami,Isonami,Rocky Waves
+dd_fubuki|miyuki,Dai-38,
 dd_fubuki|miyuki,Miyuki,Deep Snow
+dd_fubuki|murakumo,Dai-39,
 dd_fubuki|murakumo,Murakumo,Altocumulus Cloud
 dd_fubuki|oboro,Oboro,Moonlight
 dd_fubuki|sagiri,Sagiri,Fog
 dd_fubuki|sazanami,Sazanami,Capillary Wave
 dd_fubuki|shikinami,Shikinami,Spreading Waves
+dd_fubuki|shinonome,Dai-40,
 dd_fubuki|shinonome,Shinonome,Dawn Clouds
+dd_fubuki|shirakumo,Dai-42,
 dd_fubuki|shirakumo,Shirakumo,Cumulus Cloud
+dd_fubuki|shirayuki,Dai-36,
 dd_fubuki|shirayuki,Shirayuki,Powder Snow
+dd_fubuki|uranami,Dai-44,
 dd_fubuki|uranami,Uranami,Bay Waves
 dd_fubuki|ushio,Ushio,Tide
+dd_fubuki|usugumo,Dai-41,
 dd_fubuki|usugumo,Usugumo,Stratus Cloud
 dd_fubuki|yugiri,Yugiri,Evening Mist
 dd_fulmine|fulmine,Fulmine,
@@ -7544,12 +7554,14 @@ dd_hatfield|uss_fox,Fox,"Gustavus Vasa Fox, Assistant Secretary of the Union Nav
 dd_hatfield|uss_gilmer,Gilmer,"Thomas Walker Gilmer, Secretary of the Navy"
 dd_hatfield|uss_hatfield,Hatfield,John Hatfield
 dd_hatfield|uss_kane,Kane,Elisha Kent Kane
+dd_hatsuharu|ariake,Ariake,Waning Moon
 dd_hatsuharu|hatsuharu,Hatsuharu,First Lunar Month
+dd_hatsuharu|hatsushimo,Hatsushimo,First Frost
 dd_hatsuharu|nenohi,Nenohi,First Day of the Month
-dd_hatsushimo|ariake,Ariake,Waning Moon
-dd_hatsushimo|hatsushimo,Hatsushimo,First Frost
-dd_hatsushimo|wakaba,Wakaba,New Leaves
-dd_hatsushimo|yugure,Yugure,Dusk
+dd_hatsuharu|shigure,Shigure,Winter Shower
+dd_hatsuharu|shiratsuyu,Shiratsuyu,Fifteenth Solar Term
+dd_hatsuharu|wakaba,Wakaba,New Leaves
+dd_hatsuharu|yugure,Yugure,Dusk
 dd_haughty|hms_hardy,Hardy,Hardy
 dd_haughty|hms_haughty,Haughty,Haughty
 dd_havock|hms_havock,Havock,Havock
@@ -8773,8 +8785,6 @@ dd_shiratsuyu|harusame,Harusame,April Shower
 dd_shiratsuyu|kawakaze,Kawakaze,River Wind
 dd_shiratsuyu|murasame,Murasame,Rain Shower
 dd_shiratsuyu|samidare,Samidare,Scattered Showers
-dd_shiratsuyu|shigure,Shigure,Winter Shower
-dd_shiratsuyu|shiratsuyu,Shiratsuyu,Fifteenth Solar Term
 dd_shiratsuyu|suzukaze,Suzukaze,Cool Wind
 dd_shiratsuyu|umikaze,Umikaze,Sea Wind
 dd_shiratsuyu|yamakaze,Yamakaze,Mountain Wind

@@ -100,6 +100,7 @@ nsy_jsc_admiralty_shipyards,JSC Admiralty Shipyards (194),Navy Shipyard,59.91916
 nsy_kure_naval_arsenal,Kure Naval Arsenal,Navy Shipyard,34.232,132.554,https://en.wikipedia.org/wiki/Kure_Naval_Arsenal
 nsy_la_spezia_naval_base,La Spezia Naval Base,Navy Shipyard,44.10059236,9.814997821,https://en.wikipedia.org/wiki/La_Spezia_Naval_Base
 nsy_lorient_arsenal,Lorient Arsenal,Navy Shipyard,47.75099949,-3.350849636,https://fr.wikipedia.org/wiki/Arsenal_de_Lorient
+nsy_maizuru_naval_arsenal,Maizuru Naval Arsenal,Navy Shipyard,35.48282936,135.3768289,https://en.wikipedia.org/wiki/Maizuru_Naval_Arsenal
 nsy_malta,Malta Dockyard,Navy Shipyard,35.88276893,14.51640769,https://en.wikipedia.org/wiki/Malta_Dockyard
 nsy_mare_island_naval_shipyard,Mare Island Naval Shipyard,Navy Shipyard,38.09,-122.263333,https://en.wikipedia.org/wiki/Mare_Island_Naval_Shipyard
 nsy_mumbai,Naval Dockyard Mumbai,Navy Shipyard,18.92601033,72.83646704,https://en.wikipedia.org/wiki/Naval_Dockyard_(Mumbai)
@@ -178,6 +179,7 @@ sy_ferrol,Ferrol Shipyard,Commercial Shipyard,43.47797715,-8.220265111,https://e
 sy_fiume_shipyard,Fiume Shipyard,Commercial Shipyard,45.33669288,14.39344006,https://en.wikipedia.org/wiki/3._Maj
 sy_fore_river_shipyard,Fore River Shipyard,Commercial Shipyard,42.238819,-70.972389,https://en.wikipedia.org/wiki/Fore_River_Shipyard
 sy_franco_russkiy,Franco-Russkiy Plant,Commercial Shipyard,59.92296265,30.27325313,
+sy_fujinagata_taisho,"Fujinagata Shipyards, Taisho",Commercial Shipyard,34.62408891,135.465935,https://en.wikipedia.org/wiki/Fujinagata_Shipyards
 sy_galerny_island,Galerny Island Shipyard,Commercial Shipyard,59.917289,30.27082042,
 sy_gas_engine_power_morris_heights,Gas Engine & Power and CL Seabury,Commercial Shipyard,40.85470167,-73.9207267,https://en.wikipedia.org/wiki/Consolidated_Yachts
 sy_german_hamburg,German Shipyard,Commercial Shipyard,53.53823324,9.86525037,https://en.wikipedia.org/wiki/Deutsche_Werft
@@ -197,6 +199,7 @@ sy_howaldtswerke_kiel,Howaldtswerke Kiel,Commercial Shipyard,54.33755582,10.1763
 sy_ihi_yokohama,IHI Yohkohama Works,Commercial Shipyard,35.39120542,139.6323298,https://en.wikipedia.org/wiki/IHI_Corporation
 sy_ingalls_shipbuilding,Ingalls Shipbuilding,Commercial Shipyard,30.347371,-88.575017,https://en.wikipedia.org/wiki/Ingalls_Shipbuilding
 sy_inglis,A. & J. Inglis,Commercial Shipyard,55.86597353,-4.305735973,https://en.wikipedia.org/wiki/A._%26_J._Inglis
+sy_ishikawajima,Ishikawajima Shipyard,Commercial Shipyard,35.65522112,139.7929975,
 sy_j_w_dudgeon,J & W Dudgeon,Commercial Shipyard,51.49228,-0.00419,https://en.wikipedia.org/wiki/J_%26_W_Dudgeon
 sy_james_pollock_faversham,"James Pollock, Sons and Co",Commercial Shipyard,51.42131081,0.7371494197,"https://www.gracesguide.co.uk/James_Pollock,_Sons_and_Co"
 sy_john_brown_clydebank_shipyard,Clydebank Shipyard,Commercial Shipyard,55.897786,-4.404423,https://en.wikipedia.org/wiki/John_Brown_%26_Company
@@ -211,7 +214,9 @@ sy_london_glasgow_govan,London and Glasgow Shipbuilding Company,Commercial Shipy
 sy_maxson_fish_co,"Maxson, Fish & Co.",Commercial Shipyard,41.34381041,-71.97478479,
 sy_milford_haven,Milford Haven,Commercial Shipyard,51.71390325,-5.041920708,
 sy_millwall_iron_works,Millwall Iron Works,Commercial Shipyard,51.488692,-0.005664,https://en.wikipedia.org/wiki/Millwall_Iron_Works
-sy_mitsubishi_nagasaki,Mitsubishi Heavy Industries,Commercial Shipyard,32.74204658,129.8579754,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+sy_mitsubishi_kobe,"Mitsubishi Heavy Industries, Kobe",Commercial Shipyard,34.65645335,135.1787128,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+sy_mitsubishi_nagasaki,"Mitsubishi Heavy Industries, Nagasaki",Commercial Shipyard,32.74204658,129.8579754,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+sy_mitsui_tamano,Mitsui Zosen,Commercial Shipyard,34.47709014,133.936527,
 sy_monfalcone_shipyard,Monfalcone Shipyard,Commercial Shipyard,45.79664171,13.54154946,https://en.wikipedia.org/wiki/Cantiere_Navale_Triestino
 sy_moore_oakland,Moore Dry Dock Company,Commercial Shipyard,37.796972,-122.290139,https://en.wikipedia.org/wiki/Moore_Dry_Dock_Company
 sy_muggiano,Muggiano Shipyard,Commercial Shipyard,44.09081979,9.86996828,https://en.wikipedia.org/wiki/Cantiere_navale_del_Muggiano
@@ -223,6 +228,7 @@ sy_norderwerft_hamburg,Norderwerft Koser & Meyer,Commercial Shipyard,53.53908575
 sy_odero_shipyard,Odero Shipyard,Commercial Shipyard,44.42095827,8.847817309,https://en.wikipedia.org/wiki/Cantieri_navali_Odero
 sy_oderwerke_stettin,Oderwerke Stettin,Commercial Shipyard,53.4419329,14.58051899,https://en.wikipedia.org/wiki/Oderwerke
 sy_orlando_shipyard,Orlando Brothers Shipyard,Commercial Shipyard,43.54381559,10.30276244,https://en.wikipedia.org/wiki/Cantiere_navale_fratelli_Orlando
+sy_osaka_iron_works,Sakurajima Shipyard Osaka,Commercial Shipyard,34.66231519,135.4349565,https://en.wikipedia.org/wiki/Kanadevia
 sy_paisley,"Hanna, Donald & Wilson",Commercial Shipyard,55.85648385,-4.422553406,"https://en.wikipedia.org/wiki/Hanna,_Donald_%26_Wilson"
 sy_palermo,Palermo Shipyard,Commercial Shipyard,38.13761752,13.36981485,https://en.wikipedia.org/wiki/Cantiere_navale_di_Palermo
 sy_pallion,William Doxford & Sons,Commercial Shipyard,54.91385444,-1.412993375,https://en.wikipedia.org/wiki/William_Doxford_%26_Sons
