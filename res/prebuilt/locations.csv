@@ -113,7 +113,7 @@ nsy_philadelphia_naval_shipyard,Philadelphia Naval Shipyard,Navy Shipyard,39.889
 nsy_pola_arsenal,Pola Arsenal,Navy Shipyard,44.87292361,13.83627544,
 nsy_portsmouth,Portsmouth Dockyard,Navy Shipyard,50.80021381,-1.108593342,https://en.wikipedia.org/wiki/HMNB_Portsmouth
 nsy_puget_sound,Puget Sound Navy Yard,Navy Shipyard,47.56047067,-122.6343533,https://en.wikipedia.org/wiki/Puget_Sound_Naval_Shipyard
-nsy_rochefort_arsenal,Rochefort Arsenal,Navy Shipyard,45.9351,-0.9579,https://en.wikipedia.org/wiki/Rochefort_Arsenal
+nsy_rochefort_arsenal,Rochefort Arsenal,Navy Shipyard,45.93419814,-0.9560814737,https://en.wikipedia.org/wiki/Rochefort_Arsenal
 nsy_sasebo_naval_arsenal,Sasebo Naval Arsenal,Navy Shipyard,33.16236077,129.6989327,https://en.wikipedia.org/wiki/Sasebo_Naval_Arsenal
 nsy_sevastopol_shipyard,Sevastopol Shipyard,Navy Shipyard,44.612519,33.534931,https://en.wikipedia.org/wiki/Sevastopol_Shipyard
 nsy_shanghai,Jiangnan Shipyard,Navy Shipyard,31.354114,121.737414,https://en.wikipedia.org/wiki/Jiangnan_Shipyard
@@ -132,7 +132,10 @@ port_greenhithe_england_uk,"Greenhithe, England, UK",Port,51.45447505,0.28174346
 port_greenock_great_harbor,"Great Harbour, Greenock, Scotland",Port,55.94603667,-4.722097506,
 port_new_orleans,"New Orleans, Louisiana",Port,29.9540126,-90.06176875,
 sy_ac_saint_nazaire_penhoet,AC Saint-Nazaire Penhoet,Commercial Shipyard,47.28634094,-2.193246012,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_Saint-Nazaire_Penho%C3%ABt
+sy_acf_dunkerque,"Ateliers et Chantiers de France, Dunkerque",Commercial Shipyard,51.04683157,2.376611995,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_France
+sy_acl_nantes,ACL Nantes,Commercial Shipyard,47.20556474,-1.568897055,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_la_Loire
 sy_acl_saint_nazaire,ACL Saint-Nazaire,Commercial Shipyard,47.28970366,-2.189971462,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_la_Loire
+sy_acsm_le_trait,"Ateliers et Chantiers de la Seine-Maritime, Le Trait",Commercial Shipyard,49.48010486,0.8004186907,
 sy_amur,Amur Shipbuilding Plant (199),Commercial Shipyard,50.54770929,137.0459456,https://en.wikipedia.org/wiki/Amur_Shipbuilding_Plant
 sy_ancona,Ancona Shipyard,Commercial Shipyard,43.62770076,13.50513327,
 sy_ansaldo_genoa,Ansaldo Energia Genoa,Commercial Shipyard,44.42217966,8.841130466,https://en.wikipedia.org/wiki/Ansaldo_Energia
@@ -154,9 +157,12 @@ sy_caan_le_havre,Chantiers et Ateliers Augustin Normand,Commercial Shipyard,49.4
 sy_caledon_yard_dundee,"Caledon Shipbuilding & Engineering Company",Commercial Shipyard,56.46620198,-2.931340886,https://en.wikipedia.org/wiki/Caledon_Shipbuilding_%26_Engineering_Company
 sy_cammell_laird,Cammell Laird,Commercial Shipyard,53.385236,-3.012503,https://en.wikipedia.org/wiki/Cammell_Laird
 sy_cartsdyke_yard,Cartsdyke Yard,Commercial Shipyard,55.94502488,-4.738197109,https://en.wikipedia.org/wiki/Greenock_Dockyard_Company
+sy_chantiers_claparede,Chantiers Claparede,Commercial Shipyard,49.43494591,1.092495213,
 sy_chester,Chester Shipyard,Commercial Shipyard,39.84963634,-75.34705574,https://en.wikipedia.org/wiki/John_Roach_%26_Sons
 sy_chiswick,Chiswick Shipyard,Commercial Shipyard,51.48461488,-0.2507291291,https://en.wikipedia.org/wiki/John_I._Thornycroft_%26_Company
 sy_city_pont_boston,City Point Iron Works,Commercial Shipyard,42.33996773,-71.01684785,
+sy_cnf_caen,"Chantiers Navals Français, Caen",Commercial Shipyard,49.21318853,-0.3041534538,https://en.wikipedia.org/wiki/Chantiers_Navals_Fran%C3%A7ais
+sy_cnr_ancona,"Cantieri Navali Riuniti, Ancona",Commercial Shipyard,43.62745133,13.50570727,https://en.wikipedia.org/wiki/Cantiere_navale_di_Ancona
 sy_cochin_shipyard,Cochin Shipyard,Commercial Shipyard,9.953145898,76.2890368,https://en.wikipedia.org/wiki/Cochin_Shipyard
 sy_columbian_iron_works_baltimore,Columbian Iron Works and Dry Dock Co.,Commercial Shipyard,39.269742,-76.585667,https://en.wikipedia.org/wiki/Columbian_Iron_Works_and_Dry_Dock_Co.
 sy_commercial_iron_works,Commercial Iron Works,Commercial Shipyard,45.4996,-122.66749,https://en.wikipedia.org/wiki/Commercial_Iron_Works
@@ -166,13 +172,16 @@ sy_crescent_newark,Crescent Shipyard,Commercial Shipyard,40.64512234,-74.1884678
 sy_dalmuir_shipyard,Dalmuir Shipyard,Commercial Shipyard,55.90751309,-4.434768666,https://en.wikipedia.org/wiki/William_Beardmore_and_Company
 sy_danzig,Danzig Shipyard,Commercial Shipyard,54.36977183,18.64321175,https://en.wikipedia.org/wiki/Schichau-Werke
 sy_danzig_kw,Imperial Shipyard Danzig,Commercial Shipyard,54.3632082,18.65546272,
+sy_dbf_prairie_au_duc,"De la Brosse et Fouché, Prairie-au-Duc",Commercial Shipyard,47.20662289,-1.566280267,
 sy_defoe_shipbuilding,Defoe Shipbuilding Company,Commercial Shipyard,43.60761153,-83.88453267,https://en.wikipedia.org/wiki/Defoe_Shipbuilding_Company
 sy_delaware_river,Delaware River Iron Ship Building and Engine Works,Commercial Shipyard,39.837964,-75.368153,https://en.wikipedia.org/wiki/Delaware_River_Iron_Ship_Building_and_Engine_Works
 sy_dixon_middlesbrough,"Dixon, Sir Raylton & Co. Ltd.",Commercial Shipyard,54.58164344,-1.221556038,https://en.wikipedia.org/wiki/Raylton_Dixon
+sy_dyle_bacalan_bordeaux,"Dyle et Bacalan, Bordeaux",Commercial Shipyard,44.87082555,-0.5454287376,https://en.wikipedia.org/wiki/Dyle_et_Bacalan
 sy_earle_hull,Earle's Shipbuilding,Commercial Shipyard,53.74380174,-0.3032569204,https://en.wikipedia.org/wiki/Earle%27s_Shipbuilding
 sy_fairfield_shipbuilding,Fairfield Shipbuilding and Engineering Company,Commercial Shipyard,55.86585057,-4.320037768,https://en.wikipedia.org/wiki/Fairfield_Shipbuilding_and_Engineering_Company
 sy_falmouth_shipyard,Falmouth Shipyard,Commercial Shipyard,50.15246267,-5.054831067,
 sy_fcg_bordeaux,Forges et Chantiers de la Gironde,Commercial Shipyard,44.86192835,-0.539581341,https://en.wikipedia.org/wiki/Forges_et_Chantiers_de_la_Gironde
+sy_fcm_graville,FCM Graville,Commercial Shipyard,49.47710358,0.1594194785,https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Nouvelle_des_Forges_et_Chantiers_de_la_M%C3%A9diterran%C3%A9e
 sy_fcm_la_seyne,FCM La Seyne,Commercial Shipyard,43.1024863,5.890019067,https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Nouvelle_des_Forges_et_Chantiers_de_la_M%C3%A9diterran%C3%A9e
 sy_federal_kearny,Federal Shipbuilding and Drydock Company,Commercial Shipyard,40.72379,-74.106168,https://en.wikipedia.org/wiki/Federal_Shipbuilding_and_Drydock_Company
 sy_ferrol,Ferrol Shipyard,Commercial Shipyard,43.47797715,-8.220265111,https://en.wikipedia.org/wiki/Sociedad_Espa%C3%B1ola_de_Construcci%C3%B3n_Naval
@@ -233,6 +242,7 @@ sy_paisley,"Hanna, Donald & Wilson",Commercial Shipyard,55.85648385,-4.422553406
 sy_palermo,Palermo Shipyard,Commercial Shipyard,38.13761752,13.36981485,https://en.wikipedia.org/wiki/Cantiere_navale_di_Palermo
 sy_pallion,William Doxford & Sons,Commercial Shipyard,54.91385444,-1.412993375,https://en.wikipedia.org/wiki/William_Doxford_%26_Sons
 sy_palmers_jarrow,"Palmers' Shipbuilding & Iron Company Ltd, Jarrow",Commercial Shipyard,54.98530186,-1.491179244,https://en.wikipedia.org/wiki/Palmers_Shipbuilding_and_Iron_Company
+sy_pattison,Cantieri Navali Pattison,Commercial Shipyard,40.8351918,14.29745619,https://it.wikipedia.org/wiki/Cantiere_Pattison
 sy_poplar,Yarrow Poplar,Commercial Shipyard,51.49901661,-0.008096228048,https://en.wikipedia.org/wiki/Yarrow_Shipbuilders
 sy_putilov,Putilov Shipyard (190),Commercial Shipyard,59.88036133,30.23021146,https://en.wikipedia.org/wiki/Severnaya_Verf
 sy_refshaleoen_island,"Burmeister & Wain, Copenhagen",Commercial Shipyard,55.69163673,12.61050313,"https://en.wikipedia.org/wiki/Refshale%C3%B8en,_Copenhagen"
@@ -243,6 +253,7 @@ sy_russo_baltic_reval,Russo-Baltic Shipyard,Commercial Shipyard,59.46033678,24.6
 sy_samuda_brothers,Samuda Brothers,Commercial Shipyard,51.49602307,-0.007304071692,https://en.wikipedia.org/wiki/Samuda_Brothers
 sy_san_pedro,San Pedro Shipyard,Commercial Shipyard,33.753,-118.28,"https://en.wikipedia.org/wiki/Todd_Pacific_Shipyards,_Los_Angeles_Division"
 sy_san_rocco,San Rocco Shipyard,Commercial Shipyard,45.60709124,13.75231606,https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino
+sy_schneider_chalon_sur_saone,"Schneider-Creusot, Chalon-sur-Saône",Commercial Shipyard,46.79646777,4.878137891,https://en.wikipedia.org/wiki/Schneider-Creusot
 sy_scotts_greenock,Scotts Shipbuilding and Engineering Company,Commercial Shipyard,55.94572984,-4.747062337,https://en.wikipedia.org/wiki/Scotts_Shipbuilding_and_Engineering_Company
 sy_seattle_construction,Seattle Construction and Drydock Company,Commercial Shipyard,47.594979,-122.337502,https://en.wikipedia.org/wiki/Seattle_Construction_and_Drydock_Company
 sy_seattle_tacoma_commencement_bay,"Seattle-Tacoma Shipbuilding, Tacoma",Commercial Shipyard,47.28064461,-122.4096701,https://en.wikipedia.org/wiki/Seattle%E2%80%93Tacoma_Shipbuilding_Corporation

@@ -6504,6 +6504,7 @@ dd_chacal|tigre,Tigre,
 dd_charger|hms_charger,Charger,Charger
 dd_charger|hms_dasher,Dasher,Dasher
 dd_charger|hms_hasty,Hasty,Hasty
+dd_chasseur|actee,Actee,
 dd_chasseur|actee,Teniente Rodriguez,
 dd_chasseur|chasseur,Chasseur,
 dd_cheerful|hms_cheerful,Cheerful,Cheerful
@@ -6676,7 +6677,7 @@ dd_comandanti|comandante_borsini,Comandante Borsini,
 dd_comandanti|comandante_botti,Comandante Botti,
 dd_comandanti|comandante_casana,Comandante Casana,
 dd_comandanti|comandante_de_cristofaro,Comandante De Cristofaro,
-dd_comandanti|comandante_dell`anno,Comandante Dell`Anno,
+dd_comandanti|comandante_dell_anno,Comandante Dell'Anno,
 dd_comandanti|comandante_fontana,Comandante Fontana,
 dd_comandanti|comandante_margottini,Comandante Margottini,
 dd_comandanti|comandante_ruta,Comandante Ruta,
@@ -8903,8 +8904,20 @@ dd_success|hms_success,Success,Success
 dd_sunfish|hms_opossum,Opossum,Opossum
 dd_sunfish|hms_ranger,Ranger,Ranger
 dd_sunfish|hms_sunfish,Sunfish,Sunfish
-dd_surcouf|duquesne,Duquesne,
-dd_surcouf|suffren,Suffren,
+dd_surcouf|bouvet,Bouvet,
+dd_surcouf|casabianca,Casabianca,
+dd_surcouf|cassard,Cassard,
+dd_surcouf|chevalier_paul,Chevalier Paul,
+dd_surcouf|d_estrees,D'Estrees,
+dd_surcouf|du_chayla,Du Chayla,
+dd_surcouf|dupetit_thouars,Dupetit-Thouars,
+dd_surcouf|guepratte,Guepratte,
+dd_surcouf|kersaint,Kersaint,
+dd_surcouf|maille_breze,Maille-Breze,
+dd_surcouf|surcouf,Surcouf,
+dd_surcouf|vauquelin,Vauquelin,
+ddg_suffren|duquesne,Duquesne,
+ddg_suffren|suffren,Suffren,
 dd_swale|hms_swale,Swale,"River Swale, England, UK"
 dd_swale|hms_ure,Ure,"River Ure, England, UK"
 dd_swale|hms_wear,Wear,"River Wear, England, UK"
@@ -9500,13 +9513,14 @@ ddg_alsace|lorraine,Lorraine,
 ddg_amatsukaze|jds_amatsukaze,Amatsukaze,Heavenly Wind
 ddg_andrea_doria|andrea_doria,Andrea Doria,
 ddg_andrea_doria|caio_duilio,Caio Duilio,
-ddg_aquitaine|aquitaine,Aquitaine,
-ddg_aquitaine|auvergne,Auvergne,
-ddg_aquitaine|bretagne,Bretagne,
-ddg_aquitaine|languedoc,Languedoc,
-ddg_aquitaine|normandie,Normandie,
-ddg_aquitaine|normandie,Tahya Misr,
-ddg_aquitaine|provence,Provence,
+ffg_aquitaine|aquitaine,Aquitaine,
+ffg_aquitaine|auvergne,Auvergne,
+ffg_aquitaine|bretagne,Bretagne,
+ffg_aquitaine|languedoc,Languedoc,
+ffg_aquitaine|normandie,Normandie,
+ffg_aquitaine|normandie,Tahya Misr,
+ffg_aquitaine|normandie_ii,Normandie,
+ffg_aquitaine|provence,Provence,
 ddg_ardito|ardito,Ardito,
 ddg_ardito|audace,Audace,
 ddg_arleigh_burke_i|uss_arleigh_burke,Arleigh Burke,Arleigh Albert Burke
@@ -11014,7 +11028,7 @@ dl_mitscher|uss_john_s_mccain,John S. McCain,John Sidney McCain Sr.
 dl_mitscher|uss_mitscher,Mitscher,Marc Andrew Mitscher
 dl_mitscher|uss_wilkinson,Wilkinson,Theodore Stark Wilkinson
 dl_mitscher|uss_willis_a_lee,Willis A. Lee,Willis Augustus Lee Jr.
-dl_navigatori|alvise_da_mosto_(ex_alvise_cadamosto),Alvise da Mosto,
+dl_navigatori|alvise_da_mosto,Alvise da Mosto,
 dl_navigatori|antonio_da_noli,Antonio da Noli,
 dl_navigatori|antonio_pigafetta,Antonio Pigafetta,
 dl_navigatori|antonio_pigafetta,TA44,
