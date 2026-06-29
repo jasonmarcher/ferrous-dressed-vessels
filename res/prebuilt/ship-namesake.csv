@@ -1976,6 +1976,7 @@ ams_coniston_1953|golden_butterfly,Caunton,
 ams_coniston_1953|green_ant,Alfriston,
 ams_coniston_1953|green_aphis,Beachampton,
 ams_coniston_1953|green_bee,Edderton,
+ams_coniston_1953|green_beetle,Bronington,
 ams_coniston_1953|green_beetle,Humber,
 ams_coniston_1953|green_butterfly,Carhampton,
 ams_coniston_1953|hazleton,Hazleton,
@@ -5744,7 +5745,15 @@ cvt_blackburn|hms_sea_gladiator,Sea Gladiator,
 cvt_blackburn|hms_sea_hurricane,Sea Hurricane,
 cvt_blackburn|hms_walrus,Skua,
 cvt_blackburn|hms_walrus,Walrus,
+d_d1|d1,D1,
+d_d1|d2,D2,
 d_d10|d10,D10,
+d_d3|d3,D3,
+d_d3|d4,D4,
+d_d5|d5,D5,
+d_d5|d6,D6,
+d_d7|d7,D7,
+d_d7|d8,D8,
 d_d9|d9,D9,
 dbi_stonewall|css_cheops,Cheops,
 dbi_stonewall|css_cheops,Prinz Adalbert,
@@ -6495,6 +6504,7 @@ dd_chacal|tigre,Tigre,
 dd_charger|hms_charger,Charger,Charger
 dd_charger|hms_dasher,Dasher,Dasher
 dd_charger|hms_hasty,Hasty,Hasty
+dd_chasseur|actee,Actee,
 dd_chasseur|actee,Teniente Rodriguez,
 dd_chasseur|chasseur,Chasseur,
 dd_cheerful|hms_cheerful,Cheerful,Cheerful
@@ -6667,7 +6677,7 @@ dd_comandanti|comandante_borsini,Comandante Borsini,
 dd_comandanti|comandante_botti,Comandante Botti,
 dd_comandanti|comandante_casana,Comandante Casana,
 dd_comandanti|comandante_de_cristofaro,Comandante De Cristofaro,
-dd_comandanti|comandante_dell`anno,Comandante Dell`Anno,
+dd_comandanti|comandante_dell_anno,Comandante Dell'Anno,
 dd_comandanti|comandante_fontana,Comandante Fontana,
 dd_comandanti|comandante_margottini,Comandante Margottini,
 dd_comandanti|comandante_ruta,Comandante Ruta,
@@ -7188,20 +7198,30 @@ dd_fubuki|akebono,Akebono,Dawn
 dd_fubuki|amagiri,Amagiri,Sky Fog
 dd_fubuki|asagiri,Asagiri,Morning Mist
 dd_fubuki|ayanami,Ayanami,Beautiful Waves
+dd_fubuki|fubuki,Dai-35,
 dd_fubuki|fubuki,Fubuki,Blizzard
+dd_fubuki|hatsuyuki,Dai-37,
 dd_fubuki|hatsuyuki,Hatsuyuki,First Snow
+dd_fubuki|isonami,Dai-43,
 dd_fubuki|isonami,Isonami,Rocky Waves
+dd_fubuki|miyuki,Dai-38,
 dd_fubuki|miyuki,Miyuki,Deep Snow
+dd_fubuki|murakumo,Dai-39,
 dd_fubuki|murakumo,Murakumo,Altocumulus Cloud
 dd_fubuki|oboro,Oboro,Moonlight
 dd_fubuki|sagiri,Sagiri,Fog
 dd_fubuki|sazanami,Sazanami,Capillary Wave
 dd_fubuki|shikinami,Shikinami,Spreading Waves
+dd_fubuki|shinonome,Dai-40,
 dd_fubuki|shinonome,Shinonome,Dawn Clouds
+dd_fubuki|shirakumo,Dai-42,
 dd_fubuki|shirakumo,Shirakumo,Cumulus Cloud
+dd_fubuki|shirayuki,Dai-36,
 dd_fubuki|shirayuki,Shirayuki,Powder Snow
+dd_fubuki|uranami,Dai-44,
 dd_fubuki|uranami,Uranami,Bay Waves
 dd_fubuki|ushio,Ushio,Tide
+dd_fubuki|usugumo,Dai-41,
 dd_fubuki|usugumo,Usugumo,Stratus Cloud
 dd_fubuki|yugiri,Yugiri,Evening Mist
 dd_fulmine|fulmine,Fulmine,
@@ -7535,12 +7555,14 @@ dd_hatfield|uss_fox,Fox,"Gustavus Vasa Fox, Assistant Secretary of the Union Nav
 dd_hatfield|uss_gilmer,Gilmer,"Thomas Walker Gilmer, Secretary of the Navy"
 dd_hatfield|uss_hatfield,Hatfield,John Hatfield
 dd_hatfield|uss_kane,Kane,Elisha Kent Kane
+dd_hatsuharu|ariake,Ariake,Waning Moon
 dd_hatsuharu|hatsuharu,Hatsuharu,First Lunar Month
+dd_hatsuharu|hatsushimo,Hatsushimo,First Frost
 dd_hatsuharu|nenohi,Nenohi,First Day of the Month
-dd_hatsushimo|ariake,Ariake,Waning Moon
-dd_hatsushimo|hatsushimo,Hatsushimo,First Frost
-dd_hatsushimo|wakaba,Wakaba,New Leaves
-dd_hatsushimo|yugure,Yugure,Dusk
+dd_hatsuharu|shigure,Shigure,Winter Shower
+dd_hatsuharu|shiratsuyu,Shiratsuyu,Fifteenth Solar Term
+dd_hatsuharu|wakaba,Wakaba,New Leaves
+dd_hatsuharu|yugure,Yugure,Dusk
 dd_haughty|hms_hardy,Hardy,Hardy
 dd_haughty|hms_haughty,Haughty,Haughty
 dd_havock|hms_havock,Havock,Havock
@@ -7990,6 +8012,7 @@ dd_maestrale|scirocco,Scirocco,
 dd_magne|magne,Magne,
 dd_mahan|uss_case,Case,Augustus Ludlow Case
 dd_mahan|uss_cassin,Cassin,Stephen Cassin
+dd_mahan|uss_cassin_ii,Cassin,Stephen Cassin
 dd_mahan|uss_conyngham,Conyngham,Gustavus Conyngham
 dd_mahan|uss_cummings,Cummings,Andrew Boyd Cummings
 dd_mahan|uss_cushing,Cushing,William Barker Cushing
@@ -8013,7 +8036,7 @@ dd_mandate|hms_marigold,Marigold,Marigold
 dd_mandate|hms_mary_rose,Mary Rose,Mary
 dd_mandate|hms_menace,Menace,Menace
 dd_mandate|hms_moresby,Moresby,Sir Fairfax Moresby
-dd_marksman_1939|hms_mahratta,Mahratta,Maratha Empire
+dd_marksman_1939|hms_marksman,Mahratta,Maratha Empire
 dd_marksman_1939|hms_marksman,Marksman,Marksman
 dd_marksman_1939|hms_marne,Maresal Fevzi Cakmak,Mustafa Fevzi Cakmak
 dd_marksman_1939|hms_marne,Marne,"First Battle of the Marne, World War I"
@@ -8763,8 +8786,6 @@ dd_shiratsuyu|harusame,Harusame,April Shower
 dd_shiratsuyu|kawakaze,Kawakaze,River Wind
 dd_shiratsuyu|murasame,Murasame,Rain Shower
 dd_shiratsuyu|samidare,Samidare,Scattered Showers
-dd_shiratsuyu|shigure,Shigure,Winter Shower
-dd_shiratsuyu|shiratsuyu,Shiratsuyu,Fifteenth Solar Term
 dd_shiratsuyu|suzukaze,Suzukaze,Cool Wind
 dd_shiratsuyu|umikaze,Umikaze,Sea Wind
 dd_shiratsuyu|yamakaze,Yamakaze,Mountain Wind
@@ -8883,8 +8904,20 @@ dd_success|hms_success,Success,Success
 dd_sunfish|hms_opossum,Opossum,Opossum
 dd_sunfish|hms_ranger,Ranger,Ranger
 dd_sunfish|hms_sunfish,Sunfish,Sunfish
-dd_surcouf|duquesne,Duquesne,
-dd_surcouf|suffren,Suffren,
+dd_surcouf|bouvet,Bouvet,
+dd_surcouf|casabianca,Casabianca,
+dd_surcouf|cassard,Cassard,
+dd_surcouf|chevalier_paul,Chevalier Paul,
+dd_surcouf|d_estrees,D'Estrees,
+dd_surcouf|du_chayla,Du Chayla,
+dd_surcouf|dupetit_thouars,Dupetit-Thouars,
+dd_surcouf|guepratte,Guepratte,
+dd_surcouf|kersaint,Kersaint,
+dd_surcouf|maille_breze,Maille-Breze,
+dd_surcouf|surcouf,Surcouf,
+dd_surcouf|vauquelin,Vauquelin,
+ddg_suffren|duquesne,Duquesne,
+ddg_suffren|suffren,Suffren,
 dd_swale|hms_swale,Swale,"River Swale, England, UK"
 dd_swale|hms_ure,Ure,"River Ure, England, UK"
 dd_swale|hms_wear,Wear,"River Wear, England, UK"
@@ -9480,13 +9513,14 @@ ddg_alsace|lorraine,Lorraine,
 ddg_amatsukaze|jds_amatsukaze,Amatsukaze,Heavenly Wind
 ddg_andrea_doria|andrea_doria,Andrea Doria,
 ddg_andrea_doria|caio_duilio,Caio Duilio,
-ddg_aquitaine|aquitaine,Aquitaine,
-ddg_aquitaine|auvergne,Auvergne,
-ddg_aquitaine|bretagne,Bretagne,
-ddg_aquitaine|languedoc,Languedoc,
-ddg_aquitaine|normandie,Normandie,
-ddg_aquitaine|normandie,Tahya Misr,
-ddg_aquitaine|provence,Provence,
+ffg_aquitaine|aquitaine,Aquitaine,
+ffg_aquitaine|auvergne,Auvergne,
+ffg_aquitaine|bretagne,Bretagne,
+ffg_aquitaine|languedoc,Languedoc,
+ffg_aquitaine|normandie,Normandie,
+ffg_aquitaine|normandie,Tahya Misr,
+ffg_aquitaine|normandie_ii,Normandie,
+ffg_aquitaine|provence,Provence,
 ddg_ardito|ardito,Ardito,
 ddg_ardito|audace,Audace,
 ddg_arleigh_burke_i|uss_arleigh_burke,Arleigh Burke,Arleigh Albert Burke
@@ -10994,7 +11028,7 @@ dl_mitscher|uss_john_s_mccain,John S. McCain,John Sidney McCain Sr.
 dl_mitscher|uss_mitscher,Mitscher,Marc Andrew Mitscher
 dl_mitscher|uss_wilkinson,Wilkinson,Theodore Stark Wilkinson
 dl_mitscher|uss_willis_a_lee,Willis A. Lee,Willis Augustus Lee Jr.
-dl_navigatori|alvise_da_mosto_(ex_alvise_cadamosto),Alvise da Mosto,
+dl_navigatori|alvise_da_mosto,Alvise da Mosto,
 dl_navigatori|antonio_da_noli,Antonio da Noli,
 dl_navigatori|antonio_pigafetta,Antonio Pigafetta,
 dl_navigatori|antonio_pigafetta,TA44,

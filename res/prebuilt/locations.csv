@@ -1,188 +1,309 @@
-LocationID,LocationName,LocationType,LocationLat,LocationLong,LocationURL
-m_aurora,Cruiser Aurora,Museum,59.95574409,30.33756504,https://navalmuseum.ru/filials/cruiser_aurora/
-m_battleship_cove,Battleship Cove,Museum,41.70514661,-71.16179322,https://www.battleshipcove.org/
-m_battleship_oregon_memorial_park,Battleship Oregon Memorial Park,Museum,45.516,-122.6726,
-m_hms_belfast,HMS Belfast,Museum,51.50663865,-0.08140574623,https://www.iwm.org.uk/visits/hms-belfast
-m_hms_caroline,Royal Navy Museums: HMS Caroline,Museum,54.61377558,-5.902626237,https://tickets.royalnavymuseums.org.uk/en/hms-caroline/hmsc-tickets?date=2026-05-30&session_id=338703722&utm_medium=ttd--&utm_campaign=394510_bfs_maps_nav&utm_source=google&utm_term=en-US
-m_mikasa,Mikasa Memorial Warship,Museum,35.28517326,139.674338,http://www.kinenkan-mikasa.or.jp/
-m_nauticus_national_museum,Nauticus National Maritime Center,Museum,36.84778456,-76.29510147,http://www.nauticus.org/
-m_olympia_becuna_museum,Cruiser Olympia and Submarine Becuna at Independence Seaport Museum,Museum,39.94366808,-75.14136092,https://www.phillyseaport.org/
-m_pacific_battleship_center,Pacific Battleship Center,Museum,33.74244515,-118.2774309,http://www.pacificbattleship.com/
-m_patriots_point,Patriots Point Naval & Maritime Museum,Museum,32.79078991,-79.90557873,http://www.patriotspoint.org/
-m_san_jacinto_battleground,San Jacinto Battleground State Historic Site,Museum,29.75035522,-95.08086628,https://thc.texas.gov/historic-sites/san-jacinto-battleground
-m_uss_alabama,USS Alabama Battleship Memorial Park,Museum,30.68200635,-88.01478015,https://www.ussalabama.com/
-m_uss_hornet,"USS Hornet - Sea, Air and Space Museum",Museum,37.77285768,-122.3025199,https://www.uss-hornet.org/
-m_uss_intrepid,Intrepid Museum,Museum,40.76502439,-74.00085374,https://intrepidmuseum.org/
-m_uss_lexington,USS Lexington,Museum,27.815256,-97.38870936,https://www.usslexington.com/
-m_uss_midway_museum,USS Midway Museum,Museum,32.71393842,-117.1751121,https://www.midway.org/
-m_uss_missouri_museum,USS Missouri (BB-63) - Battleship Museum,Museum,21.36219629,-157.9533955,http://www.ussmissouri.org/
-m_uss_new_jersey,Battleship New Jersey Museum & Memorial,Museum,39.93953896,-75.13286143,http://www.battleshipnewjersey.org/
-m_uss_north_carolina,Battleship North Carolina,Museum,34.23664104,-77.95417728,https://battleshipnc.com/
-m_uss_oregon_museum,USS Oregon Museum,Museum,45.51250724,-122.6736932,
-nsy_arsenal_de_cartagena,Arsenal de Cartagena,Navy Shipyard,37.59808441,-0.9920512607,https://en.wikipedia.org/wiki/Cartagena_Naval_Base
-nsy_arsenal_de_ferrol,Arsenal del Ferrol,Navy Shipyard,43.4797,-8.2371,https://en.wikipedia.org/wiki/Ferrol_Naval_Base
-nsy_arsenal_de_la_carraca,Arsenal de La Carraca,Navy Shipyard,36.49386543,-6.179771223,https://en.wikipedia.org/wiki/Arsenal_de_La_Carraca
-nsy_boston_navy_yard,Boston Navy Yard,Navy Shipyard,42.376111,-71.0525,https://en.wikipedia.org/wiki/Boston_Navy_Yard
-nsy_brest_arsenal,Brest Arsenal,Navy Shipyard,48.3867,-4.4967,https://en.wikipedia.org/wiki/Brest_Arsenal
-nsy_castellammare_di_stabia,Castellammare di Stabia Shipyard,Navy Shipyard,40.69206601,14.46745988,https://en.wikipedia.org/wiki/Regio_Cantiere_di_Castellammare_di_Stabia
-nsy_charleston_navy_shipyard,Charleston Naval Shipyard,Navy Shipyard,32.863056,-79.966389,https://en.wikipedia.org/wiki/Charleston_Naval_Shipyard
-nsy_chatham,Chatham Dockyard,Navy Shipyard,51.39709804,0.5280785094,https://en.wikipedia.org/wiki/Chatham_Dockyard
-nsy_cherbourg_arsenal,Cherbourg Arsenal,Navy Shipyard,49.65319917,-1.63688213,https://en.wikipedia.org/wiki/Cherbourg_Naval_Base
-nsy_cockatoo_island_dockyard,Cockatoo Island Dockyard,Navy Shipyard,-33.84762829,151.171668,https://en.wikipedia.org/wiki/Cockatoo_Island_Dockyard
-nsy_dalian,Dalian Shipbuilding Industry Company,Navy Shipyard,38.940919,121.60861,https://en.wikipedia.org/wiki/Dalian_Shipbuilding_Industry_Company
-nsy_deptford,Deptford Dockyard,Navy Shipyard,51.486389,-0.0275,https://en.wikipedia.org/wiki/Deptford_Dockyard
-nsy_devonport,Devonport Dockyard,Navy Shipyard,50.36874874,-4.182777924,https://en.wikipedia.org/wiki/HMNB_Devonport
-nsy_esteiro_royal_dockyards,Esteiro Royal Dockyards,Navy Shipyard,43.48052153,-8.229860972,https://en.wikipedia.org/wiki/Reales_Astilleros_de_Esteiro
-nsy_jsc_admiralty_shipyards,JSC Admiralty Shipyards (194),Navy Shipyard,59.919167,30.2725,https://en.wikipedia.org/wiki/Admiralty_Shipyards
-nsy_kure_naval_arsenal,Kure Naval Arsenal,Navy Shipyard,34.232,132.554,https://en.wikipedia.org/wiki/Kure_Naval_Arsenal
-nsy_la_spezia_naval_base,La Spezia Naval Base,Navy Shipyard,44.10059236,9.814997821,https://en.wikipedia.org/wiki/La_Spezia_Naval_Base
-nsy_lorient_arsenal,Lorient Arsenal,Navy Shipyard,47.75099949,-3.350849636,https://fr.wikipedia.org/wiki/Arsenal_de_Lorient
-nsy_malta,Malta Dockyard,Navy Shipyard,35.88276893,14.51640769,https://en.wikipedia.org/wiki/Malta_Dockyard
-nsy_mare_island_naval_shipyard,Mare Island Naval Shipyard,Navy Shipyard,38.09,-122.263333,https://en.wikipedia.org/wiki/Mare_Island_Naval_Shipyard
-nsy_mykolayiv_shipyard,"Mykolayiv Shipyard (200, 61)",Navy Shipyard,46.9764,32.0042,https://en.wikipedia.org/wiki/Mykolayiv_Shipyard
-nsy_new_york_navy_yard,New York Navy Yard,Navy Shipyard,40.70340093,-73.9743493,https://en.wikipedia.org/wiki/Brooklyn_Navy_Yard
-nsy_norfolk_navy_shipyard,Norfolk Naval Shipyard,Navy Shipyard,36.815278,-76.297222,https://en.wikipedia.org/wiki/Norfolk_Naval_Shipyard
-nsy_pearl_harbor,Pearl Harbor,Navy Shipyard,21.35185873,-157.9564484,https://en.wikipedia.org/wiki/Pearl_Harbor_Naval_Shipyard
-nsy_pembroke,Pembroke Dockyard,Navy Shipyard,51.6952,-4.9548,https://en.wikipedia.org/wiki/Pembroke_Dockyard
-nsy_philadelphia_naval_shipyard,Philadelphia Naval Shipyard,Navy Shipyard,39.88967917,-75.17933233,https://en.wikipedia.org/wiki/Philadelphia_Naval_Shipyard
-nsy_pola_arsenal,Pola Arsenal,Navy Shipyard,44.87292361,13.83627544,
-nsy_portsmouth,Portsmouth Dockyard,Navy Shipyard,50.80021381,-1.108593342,https://en.wikipedia.org/wiki/HMNB_Portsmouth
-nsy_puget_sound,Puget Sound Navy Yard,Navy Shipyard,47.56047067,-122.6343533,https://en.wikipedia.org/wiki/Puget_Sound_Naval_Shipyard
-nsy_rochefort_arsenal,Rochefort Arsenal,Navy Shipyard,45.9351,-0.9579,https://en.wikipedia.org/wiki/Rochefort_Arsenal
-nsy_sasebo_naval_arsenal,Sasebo Naval Arsenal,Navy Shipyard,33.16236077,129.6989327,https://en.wikipedia.org/wiki/Sasebo_Naval_Arsenal
-nsy_sevastopol_shipyard,Sevastopol Shipyard,Navy Shipyard,44.612519,33.534931,https://en.wikipedia.org/wiki/Sevastopol_Shipyard
-nsy_shanghai,Jiangnan Shipyard,Navy Shipyard,31.354114,121.737414,https://en.wikipedia.org/wiki/Jiangnan_Shipyard
-nsy_shanghai_new,Changxing Shipyard,Navy Shipyard,31.3445357,121.7555134,https://en.wikipedia.org/wiki/Jiangnan_Shipyard
-nsy_sheerness,Sheerness Dockyard,Navy Shipyard,51.4449995,0.7464151263,https://en.wikipedia.org/wiki/Sheerness_Dockyard
-nsy_taranto_arsenal,Tananto Arsenal,Navy Shipyard,40.47112362,17.25542767,
-nsy_toulon_arsenal,Toulon Arsenal,Navy Shipyard,43.1194,5.9164,https://en.wikipedia.org/wiki/Toulon_arsenal
-nsy_venezia_arsenal,Venezia Arsenal,Navy Shipyard,45.43669732,12.35666573,https://en.wikipedia.org/wiki/Venetian_Arsenal
-nsy_woolwich,Woolwich Dockyard,Navy Shipyard,51.494444,0.056111,https://en.wikipedia.org/wiki/Woolwich_Dockyard
-nsy_yokosuka_naval_arsenal,Yokosuka Naval Arsenal,Navy Shipyard,35.28670882,139.6611429,https://en.wikipedia.org/wiki/Yokosuka_Naval_Arsenal
-port_barcelona,"Barcelona, Spain",Port,41.35150266,2.171243249,https://en.wikipedia.org/wiki/Port_of_Barcelona
-port_greenhithe_england_uk,"Greenhithe, England, UK",Port,51.45447505,0.2817434646,"https://en.wikipedia.org/wiki/Greenhithe,_Kent"
-sy_ac_saint_nazaire_penhoet,AC Saint-Nazaire Penhoet,Commercial Shipyard,47.28634094,-2.193246012,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_Saint-Nazaire_Penho%C3%ABt
-sy_acl_saint_nazaire,ACL Saint-Nazaire,Commercial Shipyard,47.28970366,-2.189971462,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_la_Loire
-sy_amur,Amur Shipbuilding Plant (199),Commercial Shipyard,50.54770929,137.0459456,https://en.wikipedia.org/wiki/Amur_Shipbuilding_Plant
-sy_ancona,Ancona Shipyard,Commercial Shipyard,43.62770076,13.50513327,
-sy_ansaldo_genoa,Ansaldo Energia Genoa,Commercial Shipyard,44.42217966,8.841130466,https://en.wikipedia.org/wiki/Ansaldo_Energia
-sy_armstrong_elswick,"Armstrong, Elswick",Commercial Shipyard,54.96276909,-1.649166876,https://en.wikipedia.org/wiki/Armstrong_Whitworth
-sy_asano_yokohama,Asano Shipbuilding Company,Commercial Shipyard,35.49304309,139.6913644,https://en.wikipedia.org/wiki/Asano_Shipbuilding_Company
-sy_associated_seattle,Puget Sound Bridge and Dredging Company,Commercial Shipyard,47.57579522,-122.3567849,https://en.wikipedia.org/wiki/Puget_Sound_Bridge_and_Dredging_Company
-sy_atlantic_basin_iron_works,Atlantic Basin Iron Works,Commercial Shipyard,40.68263,-74.01186,"https://en.wikipedia.org/wiki/Atlantic_Basin_Iron_Works#:~:text=The%20Atlantic%20Basin%20Iron%20Works,at%2018%E2%80%9320%20Summit%20Street."
-sy_baltic_shipyard,Baltic Shipyard (189),Commercial Shipyard,59.92346955,30.26073679,https://en.wikipedia.org/wiki/Baltic_Shipyard
-sy_barrow_shipyard,Barrow Shipyard,Commercial Shipyard,54.10556086,-3.236379677,https://en.wikipedia.org/wiki/Vickers_Shipbuilding_and_Engineering
-sy_bath_iron_works,Bath Iron Works,Commercial Shipyard,43.904494,-69.814746,https://en.wikipedia.org/wiki/Bath_Iron_Works
-sy_bethlehem_staten_island,Bethlehem Staten Island,Commercial Shipyard,40.639118,-74.162221,https://en.wikipedia.org/wiki/Bethlehem_Staten_Island
-sy_black_sea_shipyard,"Black Sea Shipyard (198, 444)",Commercial Shipyard,46.9467,31.98,https://en.wikipedia.org/wiki/Black_Sea_Shipyard
-sy_blackwall_yard,Blackwall Yard,Commercial Shipyard,51.50601395,-0.005347994755,https://en.wikipedia.org/wiki/Blackwall_Yard#Greens
-sy_blohm_voss,Blohm & Voss,Commercial Shipyard,53.53993841,9.95948121,https://en.wikipedia.org/wiki/Blohm%2BVoss
-sy_blyth_shipbuilding,Blyth Shipbuilding Company,Commercial Shipyard,55.1307302,-1.509292473,https://en.wikipedia.org/wiki/Blyth_Shipbuilding_Company
-sy_burntisland_shipyard,Burntisland Shipbuilding Company,Commercial Shipyard,56.0575037,-3.240118844,https://en.wikipedia.org/wiki/Burntisland_Shipbuilding_Company
-sy_caan_le_havre,Chantiers et Ateliers Augustin Normand,Commercial Shipyard,49.48866371,0.09915005392,https://en.wikipedia.org/wiki/Chantiers_et_Ateliers_Augustin_Normand
-sy_caledon_yard_dundee,"Caledon Shipbuilding & Engineering Company",Commercial Shipyard,56.46620198,-2.931340886,https://en.wikipedia.org/wiki/Caledon_Shipbuilding_%26_Engineering_Company
-sy_cammell_laird,Cammell Laird,Commercial Shipyard,53.385236,-3.012503,https://en.wikipedia.org/wiki/Cammell_Laird
-sy_cartsdyke_yard,Cartsdyke Yard,Commercial Shipyard,55.94502488,-4.738197109,https://en.wikipedia.org/wiki/Greenock_Dockyard_Company
-sy_chester,Chester Shipyard,Commercial Shipyard,39.84963634,-75.34705574,https://en.wikipedia.org/wiki/John_Roach_%26_Sons
-sy_city_pont_boston,City Point Iron Works,Commercial Shipyard,42.33996773,-71.01684785,
-sy_cochin_shipyard,Cochin Shipyard,Commercial Shipyard,9.953145898,76.2890368,https://en.wikipedia.org/wiki/Cochin_Shipyard
-sy_columbian_iron_works_baltimore,Columbian Iron Works and Dry Dock Co.,Commercial Shipyard,39.269742,-76.585667,https://en.wikipedia.org/wiki/Columbian_Iron_Works_and_Dry_Dock_Co.
-sy_commercial_iron_works,Commercial Iron Works,Commercial Shipyard,45.4996,-122.66749,https://en.wikipedia.org/wiki/Commercial_Iron_Works
-sy_crescent_newark,Crescent Shipyard,Commercial Shipyard,40.64512234,-74.18846788,https://en.wikipedia.org/wiki/Crescent_Shipyard
-sy_dalmuir_shipyard,Dalmuir Shipyard,Commercial Shipyard,55.90751309,-4.434768666,https://en.wikipedia.org/wiki/William_Beardmore_and_Company
-sy_danzig,Danzig Shipyard,Commercial Shipyard,54.36977183,18.64321175,https://en.wikipedia.org/wiki/Schichau-Werke
-sy_danzig_kw,Imperial Shipyard Danzig,Commercial Shipyard,54.3632082,18.65546272,
-sy_delaware_river,Delaware River Iron Ship Building and Engine Works,Commercial Shipyard,39.837964,-75.368153,https://en.wikipedia.org/wiki/Delaware_River_Iron_Ship_Building_and_Engine_Works
-sy_dixon_middlesbrough,"Dixon, Sir Raylton & Co. Ltd.",Commercial Shipyard,54.58164344,-1.221556038,https://en.wikipedia.org/wiki/Raylton_Dixon
-sy_earle_hull,Earle's Shipbuilding,Commercial Shipyard,53.74380174,-0.3032569204,https://en.wikipedia.org/wiki/Earle%27s_Shipbuilding
-sy_fairfield_shipbuilding,Fairfield Shipbuilding and Engineering Company,Commercial Shipyard,55.86585057,-4.320037768,https://en.wikipedia.org/wiki/Fairfield_Shipbuilding_and_Engineering_Company
-sy_falmouth_shipyard,Falmouth Shipyard,Commercial Shipyard,50.15246267,-5.054831067,
-sy_fcg_bordeaux,Forges et Chantiers de la Gironde,Commercial Shipyard,44.86192835,-0.539581341,https://en.wikipedia.org/wiki/Forges_et_Chantiers_de_la_Gironde
-sy_fcm_la_seyne,FCM La Seyne,Commercial Shipyard,43.1024863,5.890019067,https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Nouvelle_des_Forges_et_Chantiers_de_la_M%C3%A9diterran%C3%A9e
-sy_federal_kearny,Federal Shipbuilding and Drydock Company,Commercial Shipyard,40.72379,-74.106168,https://en.wikipedia.org/wiki/Federal_Shipbuilding_and_Drydock_Company
-sy_ferrol,Ferrol Shipyard,Commercial Shipyard,43.47797715,-8.220265111,https://en.wikipedia.org/wiki/Sociedad_Espa%C3%B1ola_de_Construcci%C3%B3n_Naval
-sy_fiume_shipyard,Fiume Shipyard,Commercial Shipyard,45.33669288,14.39344006,https://en.wikipedia.org/wiki/3._Maj
-sy_fore_river_shipyard,Fore River Shipyard,Commercial Shipyard,42.238819,-70.972389,https://en.wikipedia.org/wiki/Fore_River_Shipyard
-sy_franco_russkiy,Franco-Russkiy Plant,Commercial Shipyard,59.92296265,30.27325313,
-sy_galerny_island,Galerny Island Shipyard,Commercial Shipyard,59.917289,30.27082042,
-sy_german_hamburg,German Shipyard,Commercial Shipyard,53.53823324,9.86525037,https://en.wikipedia.org/wiki/Deutsche_Werft
-sy_germania_kiel,Germania Shipyard,Commercial Shipyard,54.31404132,10.13762188,https://en.wikipedia.org/wiki/Friedrich_Krupp_Germaniawerft
-sy_gulf_copper,Gulf Copper Dry Dock & Rig Repair,Commercial Shipyard,29.31699936,-94.79721776,https://www.gulfcopper.com/?utm_source=google&utm_medium=referral&utm_campaign=gmb
-sy_h_c_stulcken_sohn_hamburg,H. C. Stulcken Sohn,Commercial Shipyard,53.541019,9.970864,https://en.wikipedia.org/wiki/H._C._St%C3%BClcken_Sohn
-sy_harima_aioi,Harima Shipyard,Commercial Shipyard,34.78979004,134.4634561,
-sy_harland_and_wolff,Harland & Wolff,Commercial Shipyard,54.605,-5.905,https://en.wikipedia.org/wiki/Harland_%26_Wolff
-sy_hebburn_shipyard,"R. & W. Hawthorn, Leslie and Company",Commercial Shipyard,54.98248182,-1.525458014,"https://en.wikipedia.org/wiki/R._%26_W._Hawthorn,_Leslie_and_Company"
-sy_high_walker_naval_yard,High Walker Naval Yard,Commercial Shipyard,54.96460509,-1.540039955,https://www.tynebuiltships.co.uk/VickersArmstrong.html
-sy_hoboken_shipyard,Hoboken Shipyard,Commercial Shipyard,40.75477084,-74.02483394,https://en.wikipedia.org/wiki/Todd_Shipyards#Hoboken
-sy_hog_island,Hog Island Shipyard,Commercial Shipyard,39.86837772,-75.23404562,"https://en.wikipedia.org/wiki/Hog_Island,_Philadelphia"
-sy_howaldtswerke_kiel,Howaldtswerke Kiel,Commercial Shipyard,54.33755582,10.1763536,https://en.wikipedia.org/wiki/Howaldtswerke-Deutsche_Werft
-sy_ihi_yokohama,IHI Yohkohama Works,Commercial Shipyard,35.39120542,139.6323298,https://en.wikipedia.org/wiki/IHI_Corporation
-sy_ingalls_shipbuilding,Ingalls Shipbuilding,Commercial Shipyard,30.347371,-88.575017,https://en.wikipedia.org/wiki/Ingalls_Shipbuilding
-sy_j_w_dudgeon,J & W Dudgeon,Commercial Shipyard,51.49228,-0.00419,https://en.wikipedia.org/wiki/J_%26_W_Dudgeon
-sy_james_pollock_faversham,"James Pollock, Sons and Co",Commercial Shipyard,51.42131081,0.7371494197,"https://www.gracesguide.co.uk/James_Pollock,_Sons_and_Co"
-sy_john_brown_clydebank_shipyard,Clydebank Shipyard,Commercial Shipyard,55.897786,-4.404423,https://en.wikipedia.org/wiki/John_Brown_%26_Company
-sy_kaiser_vancouver,"Kaiser Company, Vancouver",Commercial Shipyard,45.612138,-122.638952,https://en.wikipedia.org/wiki/Vancouver_Shipyard
-sy_kawasaki_kobe,Kawasaki Shipbuilding Corporation,Commercial Shipyard,34.67260256,135.186228,https://en.wikipedia.org/wiki/Kawasaki_Shipbuilding_Corporation
-sy_kiel,Imperial Shipyard Kiel,Commercial Shipyard,54.32009063,10.1527337,https://en.wikipedia.org/wiki/Deutsche_Werke
-sy_lake_washington_shipyard,Lake Washington Shipyard,Commercial Shipyard,47.656667,-122.207222,https://en.wikipedia.org/wiki/Lake_Washington_Shipyard
-sy_leith_docks,Leith Docks,Commercial Shipyard,55.98094719,-3.176749212,https://en.wikipedia.org/wiki/Henry_Robb
-sy_linthouse_shipyard,Alexander Stephen and Sons,Commercial Shipyard,55.86713021,-4.330025657,https://en.wikipedia.org/wiki/Alexander_Stephen_and_Sons
-sy_lithgows,Lithgows,Commercial Shipyard,55.94478144,-4.740070012,https://en.wikipedia.org/wiki/Lithgows
-sy_london_glasgow_govan,London and Glasgow Shipbuilding Company,Commercial Shipyard,55.86320457,-4.308066569,https://en.wikipedia.org/wiki/London_and_Glasgow_Shipbuilding_Company
-sy_maxson_fish_co,"Maxson, Fish & Co.",Commercial Shipyard,41.34381041,-71.97478479,
-sy_milford_haven,Milford Haven,Commercial Shipyard,51.71390325,-5.041920708,
-sy_millwall_iron_works,Millwall Iron Works,Commercial Shipyard,51.488692,-0.005664,https://en.wikipedia.org/wiki/Millwall_Iron_Works
-sy_mitsubishi_nagasaki,Mitsubishi Heavy Industries,Commercial Shipyard,32.74204658,129.8579754,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
-sy_monfalcone_shipyard,Monfalcone Shipyard,Commercial Shipyard,45.79664171,13.54154946,https://en.wikipedia.org/wiki/Cantiere_Navale_Triestino
-sy_moore_oakland,Moore Dry Dock Company,Commercial Shipyard,37.796972,-122.290139,https://en.wikipedia.org/wiki/Moore_Dry_Dock_Company
-sy_muggiano,Muggiano Shipyard,Commercial Shipyard,44.09081979,9.86996828,https://en.wikipedia.org/wiki/Cantiere_navale_del_Muggiano
-sy_napier_govan,Govan East Iron Shipbuilding Yard,Commercial Shipyard,55.86067069,-4.301342073,https://en.wikipedia.org/wiki/Robert_Napier_and_Sons
-sy_neafie_levy_philadelphia,Neafie & Levy,Commercial Shipyard,39.968514,-75.123922,https://en.wikipedia.org/wiki/Neafie_%26_Levy
-sy_nevsky_plant,Nevsky Plant,Commercial Shipyard,59.86301705,30.47948816,https://www.encspb.ru/object/2855712771?lc=en
-sy_new_york_shipbuilding_corp,New York Shipbuilding Corporation,Commercial Shipyard,39.910833,-75.122222,https://en.wikipedia.org/wiki/New_York_Shipbuilding_Corporation
-sy_newport_news_shipbuilding,Newport News Shipbuilding,Commercial Shipyard,36.99208,-76.44507,https://en.wikipedia.org/wiki/Newport_News_Shipbuilding
-sy_norderwerft_hamburg,Norderwerft Koser & Meyer,Commercial Shipyard,53.53908575,9.976771853,
-sy_odero_shipyard,Odero Shipyard,Commercial Shipyard,44.42095827,8.847817309,https://en.wikipedia.org/wiki/Cantieri_navali_Odero
-sy_oderwerke_stettin,Oderwerke Stettin,Commercial Shipyard,53.4419329,14.58051899,https://en.wikipedia.org/wiki/Oderwerke
-sy_orlando_shipyard,Orlando Brothers Shipyard,Commercial Shipyard,43.54381559,10.30276244,https://en.wikipedia.org/wiki/Cantiere_navale_fratelli_Orlando
-sy_palermo,Palermo Shipyard,Commercial Shipyard,38.13761752,13.36981485,https://en.wikipedia.org/wiki/Cantiere_navale_di_Palermo
-sy_palmers_jarrow,"Palmers' Shipbuilding & Iron Company Ltd, Jarrow",Commercial Shipyard,54.98530186,-1.491179244,https://en.wikipedia.org/wiki/Palmers_Shipbuilding_and_Iron_Company
-sy_putilov,Putilov Shipyard (190),Commercial Shipyard,59.88036133,30.23021146,https://en.wikipedia.org/wiki/Severnaya_Verf
-sy_refshaleoen_island,"Burmeister & Wain, Copenhagen",Commercial Shipyard,55.69163673,12.61050313,"https://en.wikipedia.org/wiki/Refshale%C3%B8en,_Copenhagen"
-sy_reiherstieg_hamburg,Reiherstieg Schiffswerfte & Maschinenfabrik,Commercial Shipyard,53.53768915,9.980330212,https://en.wikipedia.org/wiki/Reiherstieg_Schiffswerfte_%26_Maschinenfabrik
-sy_riva_trigoso_shipyard,Riva Trigoso Shipyard,Commercial Shipyard,44.25671696,9.428245607,
-sy_rosyth_dockyard,Rosyth Dockyard,Commercial Shipyard,56.0254815,-3.449923105,https://en.wikipedia.org/wiki/Rosyth_Dockyard
-sy_russo_baltic_reval,Russo-Baltic Shipyard,Commercial Shipyard,59.46033678,24.66109376,https://en.wikipedia.org/wiki/Kopli
-sy_samuda_brothers,Samuda Brothers,Commercial Shipyard,51.49602307,-0.007304071692,https://en.wikipedia.org/wiki/Samuda_Brothers
-sy_san_pedro,San Pedro Shipyard,Commercial Shipyard,33.753,-118.28,"https://en.wikipedia.org/wiki/Todd_Pacific_Shipyards,_Los_Angeles_Division"
-sy_san_rocco,San Rocco Shipyard,Commercial Shipyard,45.60709124,13.75231606,https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino
-sy_scotts_greenock,Scotts Shipbuilding and Engineering Company,Commercial Shipyard,55.94572984,-4.747062337,https://en.wikipedia.org/wiki/Scotts_Shipbuilding_and_Engineering_Company
-sy_seattle_construction,Seattle Construction and Drydock Company,Commercial Shipyard,47.594979,-122.337502,https://en.wikipedia.org/wiki/Seattle_Construction_and_Drydock_Company
-sy_seattle_tacoma_commencement_bay,"Seattle-Tacoma Shipbuilding, Tacoma",Commercial Shipyard,47.28064461,-122.4096701,https://en.wikipedia.org/wiki/Seattle%E2%80%93Tacoma_Shipbuilding_Corporation
-sy_seattle_tacoma_harbor_island,"Seattle-Tacoma Shipbuilding, Seattle",Commercial Shipyard,47.58700719,-122.3480035,https://en.wikipedia.org/wiki/Seattle%E2%80%93Tacoma_Shipbuilding_Corporation
-sy_severodvinsk,Severodvinsk Shipyard (402),Commercial Shipyard,64.57860934,39.81412537,https://en.wikipedia.org/wiki/Sevmash
-sy_smiths_dock_north_shields,Smith's Dock Company,Commercial Shipyard,55.00108555,-1.446999006,https://en.wikipedia.org/wiki/Smith%27s_Dock_Company
-sy_stephenson_newcastle,Robert Stephenson and Company,Commercial Shipyard,54.98443613,-1.515446099,https://en.wikipedia.org/wiki/Robert_Stephenson_and_Company
-sy_sudomekh,Sudomekh Shipyard (196),Commercial Shipyard,59.92971563,30.2794779,https://en.wikipedia.org/wiki/Sudomekh_Shipyard
-sy_sun_shipbuilding,Sun Shipbuilding & Drydock Company,Commercial Shipyard,39.84898,-75.351409,https://en.wikipedia.org/wiki/Sun_Shipbuilding_%26_Drydock_Co.
-sy_thames_ironworks,Thames Ironworks and Shipbuilding Company,Commercial Shipyard,51.509444,0.009111,https://en.wikipedia.org/wiki/Thames_Ironworks_and_Shipbuilding_Company
-sy_thomson_clydebank,J&G Thomson Clydebank,Commercial Shipyard,55.89581561,-4.405112601,https://en.wikipedia.org/wiki/George_Thomson_(shipbuilder)
-sy_thornycroft_woolston,"Thornycroft, Woolston",Commercial Shipyard,50.89512876,-1.382610967,https://en.wikipedia.org/wiki/John_I._Thornycroft_%26_Company
-sy_trieste_shipyard,Trieste Shipyard,Commercial Shipyard,45.63583792,13.77158945,https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino
-sy_union_iron_works,Union Iron Works,Commercial Shipyard,37.760744,-122.384447,https://en.wikipedia.org/wiki/Union_Iron_Works
-sy_uraga_shipyard,Uraga Shipyard,Commercial Shipyard,35.24651041,139.7163878,"https://en.wikipedia.org/wiki/Uraga,_Kanagawa"
-sy_vea_murguia_cadiz,Vea-Murguia Cadiz,Commercial Shipyard,36.52792966,-6.280200096,
-sy_vulcan_bremen,Bremer Vulkan,Commercial Shipyard,53.17406354,8.59834862,https://en.wikipedia.org/wiki/Bremer_Vulkan
-sy_vulcan_hamberg,Vulkanwerft Hamburg,Commercial Shipyard,53.52779955,9.951955508,https://en.wikipedia.org/wiki/AG_Vulcan_Stettin
-sy_w_h_webb_new_york,William H. Webb Shipyard,Commercial Shipyard,40.72135197,-73.97392391,https://en.wikipedia.org/wiki/William_H._Webb
-sy_wallsend_west_yard,Wallsend West Yard,Commercial Shipyard,54.98675,-1.52856,https://en.wikipedia.org/wiki/Swan_Hunter
-sy_weser_bremen,Weser Bremen,Commercial Shipyard,53.11159549,8.746797456,https://en.wikipedia.org/wiki/AG_Weser
-sy_western_pipe,Western Pipe and Steel Company,Commercial Shipyard,37.66669,-122.39315,https://en.wikipedia.org/wiki/Western_Pipe_and_Steel_Company
-sy_westwood_baillie,"Westwood, Baillie and Company",Commercial Shipyard,51.49468,-0.00687,"https://en.wikipedia.org/wiki/Westwood,_Baillie"
-sy_white_cowes,J. Samuel White,Commercial Shipyard,50.75649742,-1.29001829,https://en.wikipedia.org/wiki/J._Samuel_White
-sy_wilhelmshaven,Imperial Shipyard Wilhelmshaven,Commercial Shipyard,53.51997403,8.127129914,https://en.wikipedia.org/wiki/Kaiserliche_Werft_Wilhelmshaven
-sy_willamette_iron_and_steel_works,Willamette Iron and Steel Works,Commercial Shipyard,45.54387,-122.69674,https://en.wikipedia.org/wiki/Willamette_Iron_and_Steel_Works
-sy_william_cramp_and_sons,William Cramp & Sons Shipbuilding Company,Commercial Shipyard,39.9717,-75.1183,https://en.wikipedia.org/wiki/William_Cramp_%26_Sons
-sy_william_denny_dumbarton,William Denny and Brothers,Commercial Shipyard,55.93978526,-4.561666474,https://en.wikipedia.org/wiki/William_Denny_and_Brothers
-sy_workman_belfast,"Workman, Clark and Company",Commercial Shipyard,54.61433964,-5.910464075,"https://en.wikipedia.org/wiki/Workman,_Clark_and_Company"
-sy_yokohama_shipyard,Yokohama Shipyard,Commercial Shipyard,35.41741191,139.6763111,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+LocationID,LocationName,LocationType,LocationNation,PinID,LocationURL
+hulk_hms_bronnington,HMS Bronnington,Wreck,britain,hulk_hms_bronnington,
+m_131_nanjing,131 Nanjing Ship,Museum,china,m_131_nanjing,
+m_aurora,Cruiser Aurora,Museum,russia,m_aurora,https://navalmuseum.ru/filials/cruiser_aurora/
+m_australian_nationa_maritime,Australian National Maritime Museum,Museum,australia,m_australian_nationa_maritime,http://www.sea.museum/
+m_b_413,B-413 Submarine,Museum,china,m_b_413,
+m_battleship_cove,Battleship Cove,Museum,usa,m_battleship_cove,https://www.battleshipcove.org/
+m_battleship_oregon_memorial_park,Battleship Oregon Memorial Park,Museum,usa,m_battleship_oregon_memorial_park,
+m_bespokoyny,Destroyer Bespokoyny,Museum,russia,m_bespokoyny,
+m_blyskawica,ORP Blyskawica,Museum,poland,m_blyskawica,https://muzeummw.pl/
+m_buffalo_naval_park,Buffalo Naval Park,Museum,usa,m_buffalo_naval_park,http://buffalonavalpark.org/
+m_c_189,Submarine C-189,Museum,russia,m_c_189,http://museum-s-189.ru/
+m_chatham_historic_dockyard,Historic Dockyard Chatham,Museum,britain,m_chatham_historic_dockyard,http://thedockyard.co.uk/
+m_deyang_ship_park,Navy Destroyer Deyang Ship Park,Museum,taiwan,m_deyang_ship_park,http://www.teyang925.com.tw/
+m_galveston_naval_museum,Galveston Naval Museum,Museum,usa,m_galveston_naval_museum,http://www.galvestonnavalmuseum.com/
+m_gangneung_unification_park,Gangneung Unification Park,Museum,south_korea,m_gangneung_unification_park,
+m_gayret_gemi,Gayret Gemi Museum,Museum,turkey,m_gayret_gemi,https://denizmuzeleri.dzkk.tsk.tr/v1/izmit-muze-gemiler-mudurlugu
+m_historic_ships_baltimore,Historic Ships in Baltimore,Museum,usa,m_historic_ships_baltimore,http://historicships.org/
+m_hmas_castlemaine,HMAS Castlemaine,Museum,australia,m_hmas_castlemaine,http://hmascastlemaine.org.au/
+m_hmcs_haida,HMCS Haida,Museum,canada,m_hmcs_haida,https://parks.canada.ca/lhn-nhs/on/haida
+m_hmcs_ojibwa,Museum Of Naval History - HMCS Ojibwa,Museum,canada,m_hmcs_ojibwa,http://www.hmcsojibwa.ca/
+m_hmcs_onondaga,Sous-marin Onondaga,Museum,canada,m_hmcs_onondaga,https://www.shmp.qc.ca/
+m_hms_belfast,HMS Belfast,Museum,britain,m_hms_belfast,https://www.iwm.org.uk/visits/hms-belfast
+m_hms_bronnington_salford,HMS Bronnington (Salford Quays),Museum,britain,m_hms_bronnington_salford,
+m_hms_caroline,Royal Navy Museums: HMS Caroline,Museum,britain,m_hms_caroline,https://tickets.royalnavymuseums.org.uk/en/hms-caroline/hmsc-tickets?date=2026-05-30&session_id=338703722&utm_medium=ttd--&utm_campaign=394510_bfs_maps_nav&utm_source=google&utm_term=en-US
+m_hs_velos,HS Velos (D-16) Museum Ship,Museum,greece,m_hs_velos,https://velos.hellenicnavy.gr/
+m_jmsdf_kure_museum,Japan Maritime Self-Defense Force Kure Museum,Museum,japan,m_jmsdf_kure_museum,https://www.jmsdf-kure-museum.go.jp/
+m_k_g_sakharov_park,K.G. Sakharov History of Technology Park Complex ,Museum,russia,m_k_g_sakharov_park,https://pkitis.tltsu.ru/
+m_karlskrona_naval_museum,Karlskrona Naval Museum,Museum,sweden,m_karlskrona_naval_museum,https://www.marinmuseum.se/
+m_memorial_odessa,Memorial to heroic defence of Odessa - 411th Battery,Museum,ukraine,m_memorial_odessa,
+m_mikasa,Mikasa Memorial Warship,Museum,japan,m_mikasa,http://www.kinenkan-mikasa.or.jp/
+m_mikhail_kutuzov,Mikhail Kutuzov Cruiser,Museum,russia,m_mikhail_kutuzov,http://www.navalmuseum.ru/filials/cruiser_mikhail_kutuzov
+m_muskogee_war_memorial,Muskogee War Memorial Park: Home of the USS Batfish,Museum,usa,m_muskogee_war_memorial,http://www.ussbatfish.com/
+m_nanchang_naval_vessel_theme_park,Nanchang Naval Vessel Theme Park,Museum,china,m_nanchang_naval_vessel_theme_park,
+m_nauticus_national_museum,Nauticus National Maritime Center,Museum,usa,m_nauticus_national_museum,http://www.nauticus.org/
+m_navy_museum_den_helder,Navy Museum in Den Helder,Museum,netherlands,m_navy_museum_den_helder,http://www.marinemuseum.nl/
+m_new_jersey_naval_museum,New Jersey Naval Museum,Museum,usa,m_new_jersey_naval_museum,
+m_olympia_becuna_museum,Cruiser Olympia and Submarine Becuna at Independence Seaport Museum,Museum,usa,m_olympia_becuna_museum,https://www.phillyseaport.org/
+m_pacific_battleship_center,Pacific Battleship Center,Museum,usa,m_pacific_battleship_center,http://www.pacificbattleship.com/
+m_pacific_fleet_submarine_museum,Pacific Fleet Submarine Museum,Museum,usa,m_pacific_fleet_submarine_museum,https://www.bowfin.org/
+m_parque_jaime_duque,Parque Jaime Duque,Museum,colombia,m_parque_jaime_duque,http://www.parquejaimeduque.com/
+m_patriots_point,Patriots Point Naval & Maritime Museum,Museum,usa,m_patriots_point,http://www.patriotspoint.org/
+m_port_natal,Port Natal Maritime Museum,Museum,south_africa,m_port_natal,http://www.durban.gov.za/
+m_portsmouth_historic_dockyard,Portsmouth Historic Dockyard,Museum,britain,m_portsmouth_historic_dockyard,https://www.historicdockyard.co.uk/
+m_pretoria,Pretoria,Museum,south_africa,m_pretoria,https://tcaminesweepers.co.uk/ship-details/ton-class/dunkerton-m1144/
+m_qingdao_naval_museum,Qingdao Naval Museum,Museum,china,m_qingdao_naval_museum,http://www.hjbwg.com/
+m_queensland_maritime,Queensland Maritime Museum,Museum,australia,m_queensland_maritime,https://www.maritimemuseum.com.au/
+m_royal_navy_submarines,Royal Navy Museums: Submarines,Museum,britain,m_royal_navy_submarines,https://historicdockyard.co.uk/discover/rn-submarine-museum/
+m_sacrario_delle_bandiere,Sacrario delle Bandiere,Museum,italy,m_sacrario_delle_bandiere,https://www.difesa.it/smd/ramdife/sacrariodellebandiere/index/28855.html
+m_saginaw_velley,Saginaw Valley Naval Ship Museum,Museum,usa,m_saginaw_velley,http://www.svnsm.com/
+m_san_jacinto_battleground,San Jacinto Battleground State Historic Site,Museum,usa,m_san_jacinto_battleground,https://thc.texas.gov/historic-sites/san-jacinto-battleground
+m_sapgyoho_ship_park,Sapgyoho Ship Park ,Museum,south_korea,m_sapgyoho_ship_park,
+m_submarine_force_museum,Submarine Force Library & Museum,Museum,usa,m_submarine_force_museum,http://ussnautilus.org/
+m_submarine_heritage_centre,Submarine Heritage Centre,Museum,britain,m_submarine_heritage_centre,
+m_sukellusvene,Sukellusvene Vesikko,Museum,finland,m_sukellusvene,https://sotamuseo.fi/sukellusvene-vesikko
+m_taizhou_naval_museum,Taizhou Naval Museum,Museum,china,m_taizhou_naval_museum,
+m_uss_alabama,USS Alabama Battleship Memorial Park,Museum,usa,m_uss_alabama,https://www.ussalabama.com/
+m_uss_cassin_young,USS Cassin Young,Museum,usa,m_uss_cassin_young,http://www.nps.gov/bost/learn/historyculture/usscassinyoung.htm
+m_uss_cod,USS Cod Submarine Memorial,Museum,usa,m_uss_cod,https://usscod.org/
+m_uss_hornet,"USS Hornet - Sea, Air and Space Museum",Museum,usa,m_uss_hornet,https://www.uss-hornet.org/
+m_uss_intrepid,Intrepid Museum,Museum,usa,m_uss_intrepid,https://intrepidmuseum.org/
+m_uss_kidd,USS Kidd,Museum,usa,m_uss_kidd,https://www.usskidd.com/
+m_uss_lexington,USS Lexington,Museum,usa,m_uss_lexington,https://www.usslexington.com/
+m_uss_midway_museum,USS Midway Museum,Museum,usa,m_uss_midway_museum,https://www.midway.org/
+m_uss_missouri_museum,USS Missouri (BB-63) - Battleship Museum,Museum,usa,m_uss_missouri_museum,http://www.ussmissouri.org/
+m_uss_new_jersey,Battleship New Jersey Museum & Memorial,Museum,usa,m_uss_new_jersey,http://www.battleshipnewjersey.org/
+m_uss_north_carolina,Battleship North Carolina,Museum,usa,m_uss_north_carolina,https://battleshipnc.com/
+m_uss_oregon_museum,USS Oregon Museum,Museum,usa,m_uss_oregon_museum,
+m_uss_orleck,USS Orleck Naval Museum,Museum,usa,m_uss_orleck,https://www.jaxnavalmuseum.org/
+m_uss_pampanito,USS Pampanito Museum and Memorial,Museum,usa,m_uss_pampanito,http://maritime.org/
+m_uss_requin,USS Requin,Museum,usa,m_uss_requin,http://www.carnegiesciencecenter.org/exhibits/requin-submarine/
+m_uss_salem,United States Naval Shipbuilding Museum & USS Salem,Museum,usa,m_uss_salem,http://www.uss-salem.org/
+m_uss_silversides,USS Silversides Submarine Museum,Museum,usa,m_uss_silversides,http://www.silversidesmuseum.org/
+m_uss_turner_joy,USS Turner Joy,Museum,usa,m_uss_turner_joy,https://ussturnerjoy.org/
+m_victorian_museum_centre,Victorian Maritime Centre,Museum,australia,m_victorian_museum_centre,http://maritimecentre.com.au/
+m_vittoriale,Vittoriale,Museum,italy,m_vittoriale,https://www.vittoriale.it/luoghi-del-vittoriale/mas-96/
+m_wa_maritime_museum,WA Maritime Museum,Museum,australia,m_wa_maritime_museum,https://visit.museum.wa.gov.au/maritime
+m_warship_preservation_trust,Warship Preservation Trust,Museum,britain,m_warship_preservation_trust,
+m_weapons_of_victory,Weapons of Victory Museum,Museum,russia,m_weapons_of_victory,
+m_wisconsin_maritime,Wisconsin Maritime Museum,Museum,usa,m_wisconsin_maritime,http://www.wisconsinmaritime.org/
+m_yellow_river_military_park,Yellow River Military Cultural Expo Park,Museum,china,m_yellow_river_military_park,
+m_yintan_maritime_park,Yintan Maritime Park,Museum,china,m_yintan_maritime_park,
+nb_algiers_naval_station,"Algiers Naval Station, Louisiana",Navy Base,usa,nb_algiers_naval_station,
+nb_haakonsvern,Haakonsvern Naval Base,Navy Base,norway,nb_haakonsvern,
+nsy_arsenal_de_cartagena,Arsenal de Cartagena,Navy Shipyard,spain,nsy_arsenal_de_cartagena,https://en.wikipedia.org/wiki/Cartagena_Naval_Base
+nsy_arsenal_de_ferrol,Arsenal del Ferrol,Navy Shipyard,spain,nsy_arsenal_de_ferrol,https://en.wikipedia.org/wiki/Ferrol_Naval_Base
+nsy_arsenal_de_la_carraca,Arsenal de La Carraca,Navy Shipyard,spain,nsy_arsenal_de_la_carraca,https://en.wikipedia.org/wiki/Arsenal_de_La_Carraca
+nsy_boston_navy_yard,Boston Navy Yard,Navy Shipyard,usa,nsy_boston_navy_yard,https://en.wikipedia.org/wiki/Boston_Navy_Yard
+nsy_brest_arsenal,Brest Arsenal,Navy Shipyard,france,nsy_brest_arsenal,https://en.wikipedia.org/wiki/Brest_Arsenal
+nsy_castellammare_di_stabia,Castellammare di Stabia Shipyard,Navy Shipyard,italy,nsy_castellammare_di_stabia,https://en.wikipedia.org/wiki/Regio_Cantiere_di_Castellammare_di_Stabia
+nsy_charleston_navy_shipyard,Charleston Naval Shipyard,Navy Shipyard,usa,nsy_charleston_navy_shipyard,https://en.wikipedia.org/wiki/Charleston_Naval_Shipyard
+nsy_chatham,Chatham Dockyard,Navy Shipyard,britain,nsy_chatham,https://en.wikipedia.org/wiki/Chatham_Dockyard
+nsy_cherbourg_arsenal,Cherbourg Arsenal,Navy Shipyard,france,nsy_cherbourg_arsenal,https://en.wikipedia.org/wiki/Cherbourg_Naval_Base
+nsy_cockatoo_island_dockyard,Cockatoo Island Dockyard,Navy Shipyard,britain,nsy_cockatoo_island_dockyard,https://en.wikipedia.org/wiki/Cockatoo_Island_Dockyard
+nsy_dalian,Dalian Shipbuilding Industry Company,Navy Shipyard,china,nsy_dalian,https://en.wikipedia.org/wiki/Dalian_Shipbuilding_Industry_Company
+nsy_deptford,Deptford Dockyard,Navy Shipyard,britain,nsy_deptford,https://en.wikipedia.org/wiki/Deptford_Dockyard
+nsy_devonport,Devonport Dockyard,Navy Shipyard,britain,nsy_devonport,https://en.wikipedia.org/wiki/HMNB_Devonport
+nsy_esteiro_royal_dockyards,Esteiro Royal Dockyards,Navy Shipyard,spain,nsy_esteiro_royal_dockyards,https://en.wikipedia.org/wiki/Reales_Astilleros_de_Esteiro
+nsy_jsc_admiralty_shipyards,Admiralty Shipyard (194),Navy Shipyard,russia,nsy_jsc_admiralty_shipyards,https://en.wikipedia.org/wiki/Admiralty_Shipyards
+nsy_kure_naval_arsenal,Kure Naval Arsenal,Navy Shipyard,japan,nsy_kure_naval_arsenal,https://en.wikipedia.org/wiki/Kure_Naval_Arsenal
+nsy_la_spezia_naval_base,La Spezia Naval Base,Navy Shipyard,italy,nsy_la_spezia_naval_base,https://en.wikipedia.org/wiki/La_Spezia_Naval_Base
+nsy_lorient_arsenal,Lorient Arsenal,Navy Shipyard,france,nsy_lorient_arsenal,https://fr.wikipedia.org/wiki/Arsenal_de_Lorient
+nsy_maizuru_naval_arsenal,Maizuru Naval Arsenal,Navy Shipyard,japan,nsy_maizuru_naval_arsenal,https://en.wikipedia.org/wiki/Maizuru_Naval_Arsenal
+nsy_malta,Malta Dockyard,Navy Shipyard,britain,nsy_malta,https://en.wikipedia.org/wiki/Malta_Dockyard
+nsy_mare_island_naval_shipyard,Mare Island Naval Shipyard,Navy Shipyard,usa,nsy_mare_island_naval_shipyard,https://en.wikipedia.org/wiki/Mare_Island_Naval_Shipyard
+nsy_mumbai,Naval Dockyard Mumbai,Navy Shipyard,india,nsy_mumbai,https://en.wikipedia.org/wiki/Naval_Dockyard_(Mumbai)
+nsy_mykolayiv_shipyard,"Mykolayiv Shipyard (200, 61)",Navy Shipyard,russia,nsy_mykolayiv_shipyard,https://en.wikipedia.org/wiki/Mykolayiv_Shipyard
+nsy_new_york_navy_yard,New York Navy Yard,Navy Shipyard,usa,nsy_new_york_navy_yard,https://en.wikipedia.org/wiki/Brooklyn_Navy_Yard
+nsy_norfolk_navy_shipyard,Norfolk Naval Shipyard,Navy Shipyard,usa,nsy_norfolk_navy_shipyard,https://en.wikipedia.org/wiki/Norfolk_Naval_Shipyard
+nsy_pearl_harbor,Pearl Harbor,Navy Shipyard,usa,nsy_pearl_harbor,https://en.wikipedia.org/wiki/Pearl_Harbor_Naval_Shipyard
+nsy_pembroke,Pembroke Dockyard,Navy Shipyard,britain,nsy_pembroke,https://en.wikipedia.org/wiki/Pembroke_Dockyard
+nsy_philadelphia_naval_shipyard,Philadelphia Naval Shipyard,Navy Shipyard,usa,nsy_philadelphia_naval_shipyard,https://en.wikipedia.org/wiki/Philadelphia_Naval_Shipyard
+nsy_pola_arsenal,Pola Arsenal,Navy Shipyard,austria_hungary,nsy_pola_arsenal,
+nsy_portsmouth,Portsmouth Dockyard,Navy Shipyard,britain,nsy_portsmouth,https://en.wikipedia.org/wiki/HMNB_Portsmouth
+nsy_puget_sound,Puget Sound Navy Yard,Navy Shipyard,usa,nsy_puget_sound,https://en.wikipedia.org/wiki/Puget_Sound_Naval_Shipyard
+nsy_rochefort_arsenal,Rochefort Arsenal,Navy Shipyard,france,nsy_rochefort_arsenal,https://en.wikipedia.org/wiki/Rochefort_Arsenal
+nsy_sasebo_naval_arsenal,Sasebo Naval Arsenal,Navy Shipyard,japan,nsy_sasebo_naval_arsenal,https://en.wikipedia.org/wiki/Sasebo_Naval_Arsenal
+nsy_sevastopol_shipyard,Sevastopol Shipyard,Navy Shipyard,russia,nsy_sevastopol_shipyard,https://en.wikipedia.org/wiki/Sevastopol_Shipyard
+nsy_shanghai,Jiangnan Shipyard,Navy Shipyard,china,nsy_shanghai,https://en.wikipedia.org/wiki/Jiangnan_Shipyard
+nsy_shanghai_new,Changxing Shipyard,Navy Shipyard,china,nsy_shanghai_new,https://en.wikipedia.org/wiki/Jiangnan_Shipyard
+nsy_sheerness,Sheerness Dockyard,Navy Shipyard,britain,nsy_sheerness,https://en.wikipedia.org/wiki/Sheerness_Dockyard
+nsy_taranto_arsenal,Tananto Arsenal,Navy Shipyard,italy,nsy_taranto_arsenal,
+nsy_toulon_arsenal,Toulon Arsenal,Navy Shipyard,france,nsy_toulon_arsenal,https://en.wikipedia.org/wiki/Toulon_arsenal
+nsy_venezia_arsenal,Venezia Arsenal,Navy Shipyard,italy,nsy_venezia_arsenal,https://en.wikipedia.org/wiki/Venetian_Arsenal
+nsy_williamstown_dockyard,Williamstown Dockyard,Navy Shipyard,britain,nsy_williamstown_dockyard,https://en.wikipedia.org/wiki/Williamstown_Dockyard
+nsy_woolwich,Woolwich Dockyard,Navy Shipyard,britain,nsy_woolwich,https://en.wikipedia.org/wiki/Woolwich_Dockyard
+nsy_yokosuka_naval_arsenal,Yokosuka Naval Arsenal,Navy Shipyard,japan,nsy_yokosuka_naval_arsenal,https://en.wikipedia.org/wiki/Yokosuka_Naval_Arsenal
+port_barcelona,"Barcelona, Spain",Port,spain,port_barcelona,https://en.wikipedia.org/wiki/Port_of_Barcelona
+port_brownsville,"Brownsville, Texas, US",Port,usa,port_brownsville,
+port_galveston,"Galveston, Texas, US",Port,usa,port_galveston,
+port_greenhithe_england_uk,"Greenhithe, England, UK",Port,britain,port_greenhithe_england_uk,"https://en.wikipedia.org/wiki/Greenhithe,_Kent"
+port_greenock_great_harbor,"Great Harbour, Greenock, Scotland",Port,britain,port_greenock_great_harbor,
+port_new_orleans,"New Orleans, Louisiana",Port,usa,port_new_orleans,
+sy_ac_saint_nazaire_penhoet,AC Saint-Nazaire Penhoet,Commercial Shipyard,france,sy_saint_nazaire_penhoet,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_Saint-Nazaire_Penho%C3%ABt
+sy_acb_nantes,Ateliers et Chantiers de Bretagne,Commercial Shipyard,france,sy_dbf_prairie_au_duc,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_Bretagne
+sy_acf_dunkerque,"Ateliers et Chantiers de France, Dunkerque",Commercial Shipyard,france,sy_dunkerque,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_France
+sy_acl_nantes,"Ateliers et Chantiers de la Loire, Nantes",Commercial Shipyard,france,sy_nantes_west,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_la_Loire
+sy_acl_saint_nazaire,"Ateliers et Chantiers de la Loire, Saint-Nazaire",Commercial Shipyard,france,sy_saint_nazaire,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_la_Loire
+sy_acsm_le_trait,"Ateliers et Chantiers de la Seine-Maritime, Le Trait",Commercial Shipyard,france,sy_le_trait,
+sy_alexander_stephen,Alexander Stephen and Sons,Commercial Shipyard,britain,sy_linthouse_shipyard,https://en.wikipedia.org/wiki/Alexander_Stephen_and_Sons
+sy_amur,OJSC Amur Shipbuilding Plant (199),Commercial Shipyard,russia,sy_amur,https://en.wikipedia.org/wiki/Amur_Shipbuilding_Plant
+sy_ansaldo_genoa,"Ansaldo, Genoa",Commercial Shipyard,italy,sy_genoa,https://en.wikipedia.org/wiki/Ansaldo_(1853%E2%80%931993)
+sy_armstrong_elswick,"Armstrong Whitworth, Elswick",Commercial Shipyard,britain,sy_elswick,https://en.wikipedia.org/wiki/Armstrong_Whitworth
+sy_asano_yokohama,Asano Shipbuilding Company,Commercial Shipyard,japan,sy_yokohama,https://en.wikipedia.org/wiki/Asano_Shipbuilding_Company
+sy_associated_seattle,Puget Sound Bridge and Dredging Company,Commercial Shipyard,usa,sy_associated_seattle,https://en.wikipedia.org/wiki/Puget_Sound_Bridge_and_Dredging_Company
+sy_atlantic_basin_iron_works,Atlantic Basin Iron Works,Commercial Shipyard,usa,sy_atlantic_basin_iron_works,https://en.wikipedia.org/wiki/Atlantic_Basin_Iron_Works
+sy_avondale,Avondale Shipyard,Commercial Shipyard,usa,sy_avondale,https://en.wikipedia.org/wiki/Avondale_Shipyard
+sy_baltic_shipyard,Baltic Shipyard (189),Commercial Shipyard,russia,sy_baltic_shipyard,https://en.wikipedia.org/wiki/Baltic_Shipyard
+sy_bath_iron_works,Bath Iron Works,Commercial Shipyard,usa,sy_bath_iron_works,https://en.wikipedia.org/wiki/Bath_Iron_Works
+sy_bethlehem_fore_river,"Bethlehem Steel, Fore River",Commercial Shipyard,usa,sy_fore_river_shipyard,https://en.wikipedia.org/wiki/Fore_River_Shipyard
+sy_bethlehem_san_francisco,"Bethlehem Steel, San Francisco",Commercial Shipyard,usa,sy_union_iron_works,https://en.wikipedia.org/wiki/Union_Iron_Works
+sy_bethlehem_staten_island,"Bethlehem Steel, Staten Island",Commercial Shipyard,usa,sy_bethlehem_staten_island,https://en.wikipedia.org/wiki/Bethlehem_Staten_Island
+sy_black_sea_shipyard,"Black Sea Shipyard (198, 444)",Commercial Shipyard,russia,sy_black_sea_shipyard,https://en.wikipedia.org/wiki/Black_Sea_Shipyard
+sy_blohm_voss,Blohm & Voss,Commercial Shipyard,germany,sy_blohm_voss,https://en.wikipedia.org/wiki/Blohm%2BVoss
+sy_blohm_voss_stulcken,"Blohm & Voss, Stulcken",Commercial Shipyard,germany,sy_h_c_stulcken_sohn_hamburg,https://en.wikipedia.org/wiki/H._C._St%C3%BClcken_Sohn
+sy_blyth_shipbuilding,Blyth Shipbuilding & Dry Docks Company,Commercial Shipyard,britain,sy_blyth_shipbuilding,https://en.wikipedia.org/wiki/Blyth_Shipbuilding_Company
+sy_british_shipbuilders_barrow,"British Shipbuilders, Barrow",Commercial Shipyard,britain,sy_barrow_shipyard,https://en.wikipedia.org/wiki/Vickers_Shipbuilding_and_Engineering
+sy_burmeister_wain_copenhagen,"Burmeister & Wain, Copenhagen",Commercial Shipyard,denmark,sy_refshaleoen_island,"https://en.wikipedia.org/wiki/Refshale%C3%B8en,_Copenhagen"
+sy_burntisland_shipyard,Burntisland Shipbuilding Company,Commercial Shipyard,britain,sy_burntisland_shipyard,https://en.wikipedia.org/wiki/Burntisland_Shipbuilding_Company
+sy_ca_saint_nazaire,"Chantiers de l'Atlantique, Saint-Nazaire",Commercial Shipyard,france,sy_saint_nazaire,https://en.wikipedia.org/wiki/Chantiers_de_l%27Atlantique
+sy_caan_le_havre,Chantiers et Ateliers Augustin Normand,Commercial Shipyard,france,sy_caan_le_havre,https://en.wikipedia.org/wiki/Chantiers_et_Ateliers_Augustin_Normand
+sy_caledon_yard_dundee,"Caledon Shipbuilding & Engineering Company",Commercial Shipyard,britain,sy_caledon_yard_dundee,https://en.wikipedia.org/wiki/Caledon_Shipbuilding_%26_Engineering_Company
+sy_cammell_laird,Cammell Laird,Commercial Shipyard,britain,sy_cammell_laird,https://en.wikipedia.org/wiki/Cammell_Laird
+sy_chantiers_claparede,Chantiers Claparede,Commercial Shipyard,france,sy_chantiers_claparede,
+sy_city_pont_boston,City Point Iron Works,Commercial Shipyard,usa,sy_city_pont_boston,
+sy_cnf_caen,"Chantiers Navals Francais, Caen",Commercial Shipyard,france,sy_caen,https://en.wikipedia.org/wiki/Chantiers_Navals_Fran%C3%A7ais
+sy_cnr_ancona,"Cantieri Navali Riuniti, Ancona",Commercial Shipyard,italy,sy_ancona,https://en.wikipedia.org/wiki/Cantiere_navale_di_Ancona
+sy_cnt_monfalcone,Cantiere Navale Triestino,Commercial Shipyard,austria_hungary,sy_monfalcone_shipyard,https://en.wikipedia.org/wiki/Cantiere_Navale_Triestino
+sy_cnt_monfalcone_it,Cantiere Navale Triestino (Italy),Commercial Shipyard,italy,sy_monfalcone_shipyard,https://en.wikipedia.org/wiki/Cantiere_Navale_Triestino
+sy_cnt_palermo,"Cantieri Navali del Tirreno, Palermo",Commercial Shipyard,italy,sy_palermo,https://en.wikipedia.org/wiki/Cantiere_navale_di_Palermo
+sy_cochin_shipyard,Cochin Shipyard,Commercial Shipyard,india,sy_cochin_shipyard,https://en.wikipedia.org/wiki/Cochin_Shipyard
+sy_columbian_iron_works_baltimore,Columbian Iron Works and Dry Dock Co.,Commercial Shipyard,usa,sy_columbian_iron_works_baltimore,https://en.wikipedia.org/wiki/Columbian_Iron_Works_and_Dry_Dock_Co.
+sy_commercial_iron_works,Commercial Iron Works,Commercial Shipyard,usa,sy_commercial_iron_works,https://en.wikipedia.org/wiki/Commercial_Iron_Works
+sy_consolidated_orange,"Consolidated Steel Corporation, Orange",Commercial Shipyard,usa,sy_consolidated_orange,https://en.wikipedia.org/wiki/Consolidated_Steel_Corporation
+sy_consolidated_wilmington,"Consolidated Steel Corporation, Wilmington",Commercial Shipyard,usa,sy_consolidated_wilmington,https://en.wikipedia.org/wiki/Consolidated_Steel_Corporation
+sy_crda_monfalcone,Cantieri Riuniti dell'Adriatico,Commercial Shipyard,italy,sy_monfalcone_shipyard,https://en.wikipedia.org/wiki/Cantieri_Riuniti_dell%27Adriatico
+sy_crda_trieste,"Cantieri Riuniti dell'Adriatico, Trieste",Commercial Shipyard,italy,sy_trieste_shipyard,https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino
+sy_crescent_newark,Crescent Shipyard,Commercial Shipyard,usa,sy_crescent_newark,https://en.wikipedia.org/wiki/Crescent_Shipyard
+sy_danzig_kw,Imperial Shipyard Danzig,Commercial Shipyard,germany,sy_danzig_kw,https://en.wikipedia.org/wiki/Kaiserliche_Werft_Danzig
+sy_dbf_prairie_au_duc,"De la Brosse et Fouché, Prairie-au-Duc",Commercial Shipyard,france,sy_dbf_prairie_au_duc,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_Bretagne
+sy_defoe_shipbuilding,Defoe Shipbuilding Company,Commercial Shipyard,usa,sy_defoe_shipbuilding,https://en.wikipedia.org/wiki/Defoe_Shipbuilding_Company
+sy_delaware_river,Delaware River Iron Ship Building and Engine Works,Commercial Shipyard,usa,sy_delaware_river,https://en.wikipedia.org/wiki/Delaware_River_Iron_Ship_Building_and_Engine_Works
+sy_dixon_middlesbrough,"Dixon, Sir Raylton & Co. Ltd.",Commercial Shipyard,britain,sy_dixon_middlesbrough,https://en.wikipedia.org/wiki/Raylton_Dixon
+sy_dyle_bacalan_bordeaux,"Dyle et Bacalan, Bordeaux",Commercial Shipyard,france,sy_dyle_bacalan_bordeaux,https://en.wikipedia.org/wiki/Dyle_et_Bacalan
+sy_earle_hull,Earle's Shipbuilding,Commercial Shipyard,britain,sy_earle_hull,https://en.wikipedia.org/wiki/Earle%27s_Shipbuilding
+sy_fairfield_shipbuilding,Fairfield Shipbuilding and Engineering Company,Commercial Shipyard,britain,sy_fairfield_shipbuilding,https://en.wikipedia.org/wiki/Fairfield_Shipbuilding_and_Engineering_Company
+sy_falmouth_shipyard,Falmouth Shipyard,Commercial Shipyard,britain,sy_falmouth_shipyard,
+sy_fcg_bordeaux,Forges et Chantiers de la Gironde,Commercial Shipyard,france,sy_fcg_bordeaux,https://en.wikipedia.org/wiki/Forges_et_Chantiers_de_la_Gironde
+sy_fcm_graville,"Forges et Chantiers de la Mediterranee, Graville",Commercial Shipyard,france,sy_fcm_graville,https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Nouvelle_des_Forges_et_Chantiers_de_la_M%C3%A9diterran%C3%A9e
+sy_fcm_la_seyne,"Forges et Chantiers de la Mediterranee, La Seyne",Commercial Shipyard,france,sy_fcm_la_seyne,https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Nouvelle_des_Forges_et_Chantiers_de_la_M%C3%A9diterran%C3%A9e
+sy_federal_kearny,Federal Shipbuilding and Drydock Company,Commercial Shipyard,usa,sy_federal_kearny,https://en.wikipedia.org/wiki/Federal_Shipbuilding_and_Drydock_Company
+sy_fore_river_shipyard,Fore River Shipyard,Commercial Shipyard,usa,sy_fore_river_shipyard,https://en.wikipedia.org/wiki/Fore_River_Shipyard
+sy_franco_russkiy,Franco-Russkiy Plant,Commercial Shipyard,russia,sy_franco_russkiy,
+sy_fujinagata_taisho,"Fujinagata Shipyards, Taisho",Commercial Shipyard,japan,sy_fujinagata_taisho,https://en.wikipedia.org/wiki/Fujinagata_Shipyards
+sy_galerny_island,Galerny Island Shipyard,Commercial Shipyard,russia,sy_galerny_island,
+sy_ganz_danubius,Ganz & Co. Danubius,Commercial Shipyard,austria_hungary,sy_fiume_shipyard,https://en.wikipedia.org/wiki/3._Maj
+sy_gas_engine_power_morris_heights,Gas Engine & Power and CL Seabury,Commercial Shipyard,usa,sy_gas_engine_power_morris_heights,https://en.wikipedia.org/wiki/Consolidated_Yachts
+sy_german_hamburg,German Shipyard,Commercial Shipyard,germany,sy_german_hamburg,https://en.wikipedia.org/wiki/Deutsche_Werft
+sy_greenock_dockyard,"Greenock Dockyard Company, Cartsdyke East Yard",Commercial Shipyard,britain,sy_cartsdyke_east_yard,https://en.wikipedia.org/wiki/Greenock_Dockyard_Company
+sy_gulf_chickasaw,Gulf Shipbuilding Corporation,Commercial Shipyard,usa,sy_gulf_chickasaw,https://en.wikipedia.org/wiki/Gulf_Shipbuilding_Corporation
+sy_gulf_copper,Gulf Copper Dry Dock & Rig Repair,Commercial Shipyard,usa,sy_gulf_copper,https://www.gulfcopper.com/?utm_source=google&utm_medium=referral&utm_campaign=gmb
+sy_h_c_stulcken_sohn_hamburg,H. C. Stulcken Sohn,Commercial Shipyard,germany,sy_h_c_stulcken_sohn_hamburg,https://en.wikipedia.org/wiki/H._C._St%C3%BClcken_Sohn
+sy_halifax,Halifax Shipyard Limited,Commercial Shipyard,britain,sy_halifax,https://en.wikipedia.org/wiki/Halifax_Shipyard
+sy_hanna_donald_wilson,"Hanna, Donald & Wilson",Commercial Shipyard,britain,sy_paisley,"https://en.wikipedia.org/wiki/Hanna,_Donald_%26_Wilson"
+sy_harima_aioi,"Harima, Aioi",Commercial Shipyard,japan,sy_harima_aioi,https://en.wikipedia.org/wiki/IHI_Corporation
+sy_harlan_hollingsworth,Harlan and Hollingsworth,Commercial Shipyard,usa,sy_harlan_hollingsworth,https://en.wikipedia.org/wiki/Harlan_and_Hollingsworth
+sy_harland_and_wolff,Harland & Wolff,Commercial Shipyard,britain,sy_harland_and_wolff,https://en.wikipedia.org/wiki/Harland_%26_Wolff
+sy_hebburn_shipyard,"R. & W. Hawthorn, Leslie and Company",Commercial Shipyard,britain,sy_hebburn_shipyard,"https://en.wikipedia.org/wiki/R._%26_W._Hawthorn,_Leslie_and_Company"
+sy_henry_robb_leith,"Henry Robb, Leith",Commercial Shipyard,britain,sy_leith_docks,https://en.wikipedia.org/wiki/Henry_Robb
+sy_hitachi_zosen_maizuru,"Hitachi Zosen Corporation, Maizuru",Commercial Shipyard,japan,nsy_maizuru_naval_arsenal,https://en.wikipedia.org/wiki/Maizuru_Naval_Arsenal
+sy_hog_island,Hog Island Shipyard,Commercial Shipyard,usa,sy_hog_island,"https://en.wikipedia.org/wiki/Hog_Island,_Philadelphia"
+sy_howaldtswerke_kiel,Howaldtswerke Kiel,Commercial Shipyard,germany,sy_howaldtswerke_kiel,https://en.wikipedia.org/wiki/Howaldtswerke-Deutsche_Werft
+sy_ihi_aioi,"IHI, Aioi",Commercial Shipyard,japan,sy_harima_aioi,https://en.wikipedia.org/wiki/IHI_Corporation
+sy_ihi_ishikawajima,"IHI, Ishikawajima",Commercial Shipyard,japan,sy_ishikawajima,https://en.wikipedia.org/wiki/IHI_Corporation
+sy_ihi_yokohama,IHI Yohkohama Works,Commercial Shipyard,japan,sy_ihi_yokohama,https://en.wikipedia.org/wiki/IHI_Corporation
+sy_ingalls_shipbuilding,Ingalls Shipbuilding,Commercial Shipyard,usa,sy_ingalls_shipbuilding,https://en.wikipedia.org/wiki/Ingalls_Shipbuilding
+sy_inglis,A. & J. Inglis,Commercial Shipyard,britain,sy_inglis,https://en.wikipedia.org/wiki/A._%26_J._Inglis
+sy_ishikawajima,Ishikawajima Hirano Shipyard,Commercial Shipyard,japan,sy_ishikawajima,
+sy_j_w_dudgeon,J & W Dudgeon,Commercial Shipyard,britain,sy_j_w_dudgeon,https://en.wikipedia.org/wiki/J_%26_W_Dudgeon
+sy_james_pollock_faversham,"James Pollock, Sons and Co",Commercial Shipyard,britain,sy_james_pollock_faversham,"https://www.gracesguide.co.uk/James_Pollock,_Sons_and_Co"
+sy_john_brown_clydebank_shipyard,John Brown and Company,Commercial Shipyard,britain,sy_john_brown_clydebank_shipyard,https://en.wikipedia.org/wiki/John_Brown_%26_Company
+sy_john_roach,John Roach & Sons,Commercial Shipyard,britain,sy_chester,https://en.wikipedia.org/wiki/John_Roach_%26_Sons
+sy_kaiser_vancouver,"Kaiser Company, Vancouver",Commercial Shipyard,usa,sy_kaiser_vancouver,https://en.wikipedia.org/wiki/Vancouver_Shipyard
+sy_kawasaki_kobe,"Kawasaki Shipbuilding Corporation, Kobe",Commercial Shipyard,japan,sy_kawasaki_kobe,https://en.wikipedia.org/wiki/Kawasaki_Shipbuilding_Corporation
+sy_kiel,Imperial Shipyard Kiel,Commercial Shipyard,germany,sy_kiel,https://en.wikipedia.org/wiki/Deutsche_Werke
+sy_krupp_germania_kiel,Friedrich Krupp Germania,Commercial Shipyard,germany,sy_germania_kiel,https://en.wikipedia.org/wiki/Friedrich_Krupp_Germaniawerft
+sy_lake_washington_shipyard,Lake Washington Shipyard,Commercial Shipyard,usa,sy_lake_washington_shipyard,https://en.wikipedia.org/wiki/Lake_Washington_Shipyard
+sy_lithgows_kingston,"Lithgows, Kingston",Commercial Shipyard,britain,sy_kingston_yard,https://en.wikipedia.org/wiki/Lithgows
+sy_london_glasgow_govan,London and Glasgow Shipbuilding Company,Commercial Shipyard,britain,sy_london_glasgow_govan,https://en.wikipedia.org/wiki/London_and_Glasgow_Shipbuilding_Company
+sy_maxson_fish_co,"Maxson, Fish & Co.",Commercial Shipyard,usa,sy_maxson_fish_co,
+sy_milford_haven,Milford Haven,Commercial Shipyard,britain,sy_milford_haven,
+sy_millwall_iron_works,Millwall Iron Works,Commercial Shipyard,britain,sy_millwall_iron_works,https://en.wikipedia.org/wiki/Millwall_Iron_Works
+sy_mitsubishi_kobe,"Mitsubishi Heavy Industries, Kobe",Commercial Shipyard,japan,sy_mitsubishi_kobe,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+sy_mitsubishi_nagasaki,"Mitsubishi Heavy Industries, Nagasaki",Commercial Shipyard,japan,sy_mitsubishi_nagasaki,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+sy_mitsubishi_yokohama,"Mitsubishi Heavy Industries, Yokohama",Commercial Shipyard,japan,sy_yokohama_shipyard,https://en.wikipedia.org/wiki/Mitsubishi_Heavy_Industries
+sy_mitsui_tamano,Mitsui Zosen,Commercial Shipyard,japan,sy_mitsui_tamano,
+sy_moore_oakland,Moore Dry Dock Company,Commercial Shipyard,usa,sy_moore_oakland,https://en.wikipedia.org/wiki/Moore_Dry_Dock_Company
+sy_neafie_levy_philadelphia,Neafie & Levy,Commercial Shipyard,usa,sy_neafie_levy_philadelphia,https://en.wikipedia.org/wiki/Neafie_%26_Levy
+sy_nevsky_plant,Nevsky Plant,Commercial Shipyard,russia,sy_nevsky_plant,https://www.encspb.ru/object/2855712771?lc=en
+sy_new_york_shipbuilding_corp,New York Shipbuilding Corporation,Commercial Shipyard,usa,sy_new_york_shipbuilding_corp,https://en.wikipedia.org/wiki/New_York_Shipbuilding_Corporation
+sy_newport_news_shipbuilding,Newport News Shipbuilding,Commercial Shipyard,usa,sy_newport_news_shipbuilding,https://en.wikipedia.org/wiki/Newport_News_Shipbuilding
+sy_norderwerft_hamburg,Norderwerft Koser & Meyer,Commercial Shipyard,germany,sy_norderwerft_hamburg,
+sy_odero_shipyard,Cantieri navali Odero,Commercial Shipyard,italy,sy_odero_shipyard,https://en.wikipedia.org/wiki/Cantieri_navali_Odero
+sy_oderwerke_stettin,Oderwerke Stettin,Commercial Shipyard,germany,sy_oderwerke_stettin,https://en.wikipedia.org/wiki/Oderwerke
+sy_orlando_shipyard,Orlando Brothers Shipyard,Commercial Shipyard,italy,sy_orlando_shipyard,https://en.wikipedia.org/wiki/Cantiere_navale_fratelli_Orlando
+sy_osaka_iron_works,Sakurajima Shipyard Osaka,Commercial Shipyard,japan,sy_osaka_iron_works,https://en.wikipedia.org/wiki/Kanadevia
+sy_oto_livorno,"OTO, Livorno",Commercial Shipyard,italy,sy_orlando_shipyard,https://en.wikipedia.org/wiki/Cantiere_navale_fratelli_Orlando
+sy_oto_muggiano,"Odero-Terni-Orlando, Muggiano",Commercial Shipyard,italy,sy_muggiano,https://en.wikipedia.org/wiki/Cantiere_navale_del_Muggiano
+sy_oto_odero,"Odero-Terni-Orlando, Odero",Commercial Shipyard,italy,sy_odero_shipyard,https://en.wikipedia.org/wiki/Cantieri_navali_Odero
+sy_palmers_jarrow,"Palmers' Shipbuilding & Iron Company Ltd, Jarrow",Commercial Shipyard,britain,sy_palmers_jarrow,https://en.wikipedia.org/wiki/Palmers_Shipbuilding_and_Iron_Company
+sy_pattison,Cantieri Navali Pattison,Commercial Shipyard,italy,sy_pattison,https://it.wikipedia.org/wiki/Cantiere_Pattison
+sy_putilov,Putilov Shipyard (190),Commercial Shipyard,russia,sy_putilov,https://en.wikipedia.org/wiki/Severnaya_Verf
+sy_reiherstieg_hamburg,Reiherstieg Schiffswerfte & Maschinenfabrik,Commercial Shipyard,germany,sy_reiherstieg_hamburg,https://en.wikipedia.org/wiki/Reiherstieg_Schiffswerfte_%26_Maschinenfabrik
+sy_riva_trigoso_shipyard,Riva Trigoso Shipyard,Commercial Shipyard,italy,sy_riva_trigoso_shipyard,https://en.wikipedia.org/wiki/Cantiere_navale_di_Riva_Trigoso
+sy_rosyth_dockyard,Rosyth Dockyard,Commercial Shipyard,britain,sy_rosyth_dockyard,https://en.wikipedia.org/wiki/Rosyth_Dockyard
+sy_russo_baltic_reval,Russo-Baltic Shipyard,Commercial Shipyard,russia,sy_russo_baltic_reval,https://en.wikipedia.org/wiki/Kopli
+sy_samuda_brothers,Samuda Brothers,Commercial Shipyard,britain,sy_samuda_brothers,https://en.wikipedia.org/wiki/Samuda_Brothers
+sy_schichau_danzig,"Schichau-Werke, Danzig",Commercial Shipyard,germany,sy_danzig,https://en.wikipedia.org/wiki/Schichau-Werke
+sy_schneider_chalon_sur_saone,"Schneider-Creusot, Chalon-sur-Saône",Commercial Shipyard,france,sy_schneider_chalon_sur_saone,https://en.wikipedia.org/wiki/Schneider-Creusot
+sy_scotts_greenock,Scotts Shipbuilding and Engineering Company,Commercial Shipyard,britain,sy_cartsburn_yard,https://en.wikipedia.org/wiki/Scotts_Shipbuilding_and_Engineering_Company
+sy_seattle_construction,Seattle Construction and Drydock Company,Commercial Shipyard,usa,sy_seattle_construction,https://en.wikipedia.org/wiki/Seattle_Construction_and_Drydock_Company
+sy_seattle_tacoma_commencement_bay,"Seattle-Tacoma Shipbuilding, Tacoma",Commercial Shipyard,usa,sy_seattle_tacoma_commencement_bay,https://en.wikipedia.org/wiki/Seattle%E2%80%93Tacoma_Shipbuilding_Corporation
+sy_seattle_tacoma_harbor_island,"Seattle-Tacoma Shipbuilding, Seattle",Commercial Shipyard,usa,sy_seattle_tacoma_harbor_island,https://en.wikipedia.org/wiki/Seattle%E2%80%93Tacoma_Shipbuilding_Corporation
+sy_secn_ferrol,"Sociedad Espanola de Construcción Naval, Ferrol",Commercial Shipyard,spain,sy_ferrol,https://en.wikipedia.org/wiki/Sociedad_Espa%C3%B1ola_de_Construcci%C3%B3n_Naval
+sy_severodvinsk,Severodvinsk Shipyard (402),Commercial Shipyard,russia,sy_severodvinsk,https://en.wikipedia.org/wiki/Sevmash
+sy_smag_germania,SMAG Germania,Commercial Shipyard,germany,sy_germania_kiel,https://en.wikipedia.org/wiki/Friedrich_Krupp_Germaniawerft
+sy_smiths_dock_north_shields,Smith's Dock Company,Commercial Shipyard,britain,sy_smiths_dock_north_shields,https://en.wikipedia.org/wiki/Smith%27s_Dock_Company
+sy_sparrows_point,Sparrows Point Shipyard,Commercial Shipyard,usa,sy_sparrows_point,https://en.wikipedia.org/wiki/Bethlehem_Sparrows_Point_Shipyard
+sy_stephenson_newcastle,Robert Stephenson and Company,Commercial Shipyard,britain,sy_stephenson_newcastle,https://en.wikipedia.org/wiki/Robert_Stephenson_and_Company
+sy_stt_san_rocco,"Stabilimento Tecnico Triestino, San Rocco",Commercial Shipyard,austria_hungary,sy_san_rocco,https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino
+sy_stt_trieste,"Stabilimento Tecnico Triestino, Trieste",Commercial Shipyard,austria_hungary,sy_trieste_shipyard,https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino
+sy_stt_trieste_it,"Stabilimento Tecnico Triestino, Trieste",Commercial Shipyard,italy,sy_trieste_shipyard,https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino
+sy_sudomekh,Sudomekh Shipyard (196),Commercial Shipyard,russia,sy_sudomekh,https://en.wikipedia.org/wiki/Sudomekh_Shipyard
+sy_sun_shipbuilding,Sun Shipbuilding & Drydock Company,Commercial Shipyard,usa,sy_sun_shipbuilding,https://en.wikipedia.org/wiki/Sun_Shipbuilding_%26_Drydock_Co.
+sy_swan_hunter_wallsend,"Swan Hunter, Wallsend",Commercial Shipyard,britain,sy_wallsend_west_yard,https://en.wikipedia.org/wiki/Swan_Hunter
+sy_thames_ironworks,Thames Ironworks and Shipbuilding Company,Commercial Shipyard,britain,sy_thames_ironworks,https://en.wikipedia.org/wiki/Thames_Ironworks_and_Shipbuilding_Company
+sy_thornycroft_chiswick,"Thornycroft, Chiswick",Commercial Shipyard,britain,sy_chiswick,https://en.wikipedia.org/wiki/John_I._Thornycroft_%26_Company
+sy_thornycroft_woolston,"Thornycroft, Woolston",Commercial Shipyard,britain,sy_thornycroft_woolston,https://en.wikipedia.org/wiki/John_I._Thornycroft_%26_Company
+sy_todd_san_pedro,"Todd Pacific Shipyards, San Pedro",Commercial Shipyard,usa,sy_san_pedro,"https://en.wikipedia.org/wiki/Todd_Pacific_Shipyards,_Los_Angeles_Division"
+sy_todd_shipyards_hoboken,"Todd Shipyards, Hoboken",Commercial Shipyard,usa,sy_hoboken_shipyard,https://en.wikipedia.org/wiki/Todd_Shipyards#Hoboken
+sy_union_iron_works,Union Iron Works,Commercial Shipyard,usa,sy_union_iron_works,https://en.wikipedia.org/wiki/Union_Iron_Works
+sy_united_shipyards_staten_island,"United Shipyards, Staten Island",Commercial Shipyard,usa,sy_bethlehem_staten_island,https://en.wikipedia.org/wiki/Bethlehem_Staten_Island
+sy_uraga_shipyard,Uraga Dock Company,Commercial Shipyard,japan,sy_uraga_shipyard,https://en.wikipedia.org/wiki/Uraga_Dock_Company
+sy_vea_murguia_cadiz,Vea-Murguia Cadiz,Commercial Shipyard,spain,sy_vea_murguia_cadiz,
+sy_vickers_armstrongs_barrow,"Vickers-Armstrongs, Barrow",Commercial Shipyard,britain,sy_barrow_shipyard,https://en.wikipedia.org/wiki/Vickers_Shipbuilding_and_Engineering
+sy_vickers_armstrongs_elswick,"Vickers-Armstrongs, Elswick",Commercial Shipyard,britain,sy_elswick,https://en.wikipedia.org/wiki/Armstrong_Whitworth
+sy_vickers_armstrongs_high_walker,"Vickers-Armstrongs, High Walker",Commercial Shipyard,britain,sy_high_walker_naval_yard,https://www.tynebuiltships.co.uk/VickersArmstrong.html
+sy_vickers_barrow,"Vickers Shipbuilding and Engineering, Barrow",Commercial Shipyard,britain,sy_barrow_shipyard,https://en.wikipedia.org/wiki/Vickers_Shipbuilding_and_Engineering
+sy_victory_squantum,Victory Destroyer Plant,Commercial Shipyard,usa,sy_victory_squantum,https://en.wikipedia.org/wiki/Victory_Destroyer_Plant
+sy_vulcan_bremen,Bremer Vulkan,Commercial Shipyard,germany,sy_vulcan_bremen,https://en.wikipedia.org/wiki/Bremer_Vulkan
+sy_vulcan_hamberg,"Vulkanwerft, Hamburg",Commercial Shipyard,germany,sy_vulcan_hamberg,https://en.wikipedia.org/wiki/AG_Vulcan_Stettin
+sy_vulcan_stettin,"Vulkanwerft, Stettin",Commercial Shipyard,germany,sy_vulcan_stettin,https://en.wikipedia.org/wiki/AG_Vulcan_Stettin
+sy_w_h_webb_new_york,William H. Webb Shipyard,Commercial Shipyard,usa,sy_w_h_webb_new_york,https://en.wikipedia.org/wiki/William_H._Webb
+sy_weser_bremen,"Weser, Bremen",Commercial Shipyard,germany,sy_weser_bremen,https://en.wikipedia.org/wiki/AG_Weser
+sy_western_pipe,Western Pipe and Steel Company,Commercial Shipyard,usa,sy_western_pipe,https://en.wikipedia.org/wiki/Western_Pipe_and_Steel_Company
+sy_westwood_baillie,"Westwood, Baillie and Company",Commercial Shipyard,britain,sy_westwood_baillie,"https://en.wikipedia.org/wiki/Westwood,_Baillie"
+sy_white_cowes,J. Samuel White,Commercial Shipyard,britain,sy_white_cowes,https://en.wikipedia.org/wiki/J._Samuel_White
+sy_wigrams_blackwall,"Wigrams, Blackwall",Commercial Shipyard,britain,sy_blackwall_yard,https://en.wikipedia.org/wiki/Blackwall_Yard#Greens
+sy_wilhelmshaven,Imperial Shipyard Wilhelmshaven,Commercial Shipyard,germany,sy_wilhelmshaven,https://en.wikipedia.org/wiki/Kaiserliche_Werft_Wilhelmshaven
+sy_willamette_iron_and_steel_works,Willamette Iron and Steel Works,Commercial Shipyard,usa,sy_willamette_iron_and_steel_works,https://en.wikipedia.org/wiki/Willamette_Iron_and_Steel_Works
+sy_william_beardmore,William Beardmore and Company,Commercial Shipyard,britain,sy_dalmuir_shipyard,https://en.wikipedia.org/wiki/William_Beardmore_and_Company
+sy_william_cramp_and_sons,William Cramp & Sons Shipbuilding Company,Commercial Shipyard,usa,sy_william_cramp_and_sons,https://en.wikipedia.org/wiki/William_Cramp_%26_Sons
+sy_william_denny_dumbarton,William Denny and Brothers,Commercial Shipyard,britain,sy_william_denny_dumbarton,https://en.wikipedia.org/wiki/William_Denny_and_Brothers
+sy_william_doxford,William Doxford & Sons,Commercial Shipyard,britain,sy_pallion,https://en.wikipedia.org/wiki/William_Doxford_%26_Sons
+sy_william_trigg,William R. Trigg Company,Commercial Shipyard,usa,sy_william_trigg,https://en.wikipedia.org/wiki/William_R._Trigg_Company
+sy_wolff_zwicker,Wolff & Zwicker Iron Works,Commercial Shipyard,usa,sy_wolff_zwicker,https://en.wikipedia.org/wiki/Wolff_%26_Zwicker_Iron_Works
+sy_workman_belfast,"Workman, Clark and Company",Commercial Shipyard,britain,sy_workman_belfast,"https://en.wikipedia.org/wiki/Workman,_Clark_and_Company"
+sy_yarrow_poplar,"Yarrow, Poplar",Commercial Shipyard,britain,sy_poplar,https://en.wikipedia.org/wiki/Yarrow_Shipbuilders
+sy_yarrow_scotstoun,"Yarrow, Scotstoun",Commercial Shipyard,britain,sy_yarrow_scotstoun,https://en.wikipedia.org/wiki/Yarrow_Shipbuilders
