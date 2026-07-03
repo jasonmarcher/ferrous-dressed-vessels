@@ -2,4 +2,5 @@
 .project
 .settings
 .vscode
-build
+temp/
+build/
