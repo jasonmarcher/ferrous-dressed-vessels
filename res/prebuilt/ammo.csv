@@ -1,16 +1,16 @@
 AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,SurfaceShellChargeType,AAShellWeight,AAShellCharge,AAShellChargeType,AmmoSource
-305-ap-l34-2crh,"30.5cm AP L/3,4 2crh",ahn,305,450,4,TNT,0,0,None,http://www.navweaps.com/Weapons/WNAust_12-45.php
-305-ap-ahn,30.5cm AP,ahn,305,450,,,0,0,None,https://en.wikipedia.org/wiki/SMS_Kronprinzessin_Erzherzogin_Stephanie#Armament_and_armor
-238-apc-l35,24cm APC L/3.5,ahn,238,229,2.3,,0,0,None,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
-238-apc-m08-l35,24cm APC M08 L/3.5,ahn,238,215,2.4,,0,0,None,http://www.navweaps.com/Weapons/WNAust_945-45.php
-238-ap-c80,24cm AP C/80,ahn,238,215,3.76,,0,0,None,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php#Ammunition
-190-apc-ahn,19cm APC,ahn,190,97,2,,0,0,None,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
-150-ap-ahn,15cm AP,ahn,150,45.5,,,0,0,None,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
-100-ap-ahn,10cm AP,ahn,100,13.8,,,0,0,None,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
-66-he-ahn,7cm HE,ahn,66,4.5,,,4.5,,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
-47-he-ahn,47mm HE,ahn,47,1.5,,,0,0,None,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Austro-Hungarian_service
-37-he-ahn,1.5-pdr HE,ahn,37,0.7,0.07,,0.7,0.07,,http://www.navweaps.com/Weapons/WNBR_1-5pounder_m1.php
-8-b-mannlicher,8x50mmR Mannlicher,ahn,8,0.016,0,None,0.016,0,None,https://en.wikipedia.org/wiki/8%C3%9750mmR_Mannlicher
+305-ap-l34-2crh,"30.5cm AP L/3,4 2crh",austria_hungary,305,450,4,TNT,0,0,None,http://www.navweaps.com/Weapons/WNAust_12-45.php
+305-ap-ahn,30.5cm AP,austria_hungary,305,450,,,0,0,None,https://en.wikipedia.org/wiki/SMS_Kronprinzessin_Erzherzogin_Stephanie#Armament_and_armor
+238-apc-l35,24cm APC L/3.5,austria_hungary,238,229,2.3,,0,0,None,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
+238-apc-m08-l35,24cm APC M08 L/3.5,austria_hungary,238,215,2.4,,0,0,None,http://www.navweaps.com/Weapons/WNAust_945-45.php
+238-ap-c80,24cm AP C/80,austria_hungary,238,215,3.76,,0,0,None,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php#Ammunition
+190-apc-ahn,19cm APC,austria_hungary,190,97,2,,0,0,None,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
+150-ap-ahn,15cm AP,austria_hungary,150,45.5,,,0,0,None,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
+100-ap-ahn,10cm AP,austria_hungary,100,13.8,,,0,0,None,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
+66-he-ahn,7cm HE,austria_hungary,66,4.5,,,4.5,,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
+47-he-ahn,47mm HE,austria_hungary,47,1.5,,,0,0,None,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Austro-Hungarian_service
+37-he-ahn,1.5-pdr HE,austria_hungary,37,0.7,0.07,,0.7,0.07,,http://www.navweaps.com/Weapons/WNBR_1-5pounder_m1.php
+8-b-mannlicher,8x50mmR Mannlicher,austria_hungary,8,0.016,0,None,0.016,0,None,https://en.wikipedia.org/wiki/8%C3%9750mmR_Mannlicher
 120-he-bra,"4"" HE (BRA)",brazil,120,20.4,,,0,0,None,http://www.navweaps.com/Weapons/WNBZL_47-50_EOC.php
 457-apc-4crh,"APC 18"" 4crh",britain,457,1506,54,,0,0,None,http://www.navweaps.com/Weapons/WNBR_18-40_mk1.php
 412-ap-uk,"16.25"" AP",britain,412,816,,,0,0,None,http://www.navweaps.com/Weapons/WNBR_162-30_mk1.php
@@ -262,6 +262,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 152-ap-b35,152mm AP B-35,russia,152,55,1.1,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
 152-ap-old-model-rus,152mm AP old model,russia,152,41.4,1.23,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_6-45_m1892.php
 130-he-m1911,130mm HE mod 1911,russia,130,36.9,4.71,,36.9,4.71,,http://www.navweaps.com/Weapons/WNRussian_51-55_m1913.php
+130-sap-pb46a_aa_zs46r,130mm SAP PB-46A + AA ZS-46,russia,130,33.5,2.35,,33.4,2.64,,https://www.navweaps.com/Weapons/WNRussian_51-50_m1936.php#Ammunition
 130-sap-pb42_130-aa-zs42,130mm SAP PB-42 + 130mm AA ZS42,russia,130,33.4,1.4,,32.7,2.5,,http://www.navweaps.com/Weapons/WNRussian_51-58_m1957.php
 120-sap-m1911,120mm SAP mod 1911,russia,120,29,3.73,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_47-50_m1905.php
 120-he-m1907,120mm HE mod 1907,russia,120,20.5,2.56,,0,0,None,http://www.navweaps.com/Weapons/WNRussian_47-45_m1892.php

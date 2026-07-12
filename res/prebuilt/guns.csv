@@ -1,17 +1,17 @@
 GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight,GunMaxRateOfFire,GunNominalRateOfFire,GunLoading,SurfaceShellVelocity,AAShellVelocity,GunAmmo,GunsSource
-305-bg-k10,30.5cm/45 L/45 K.10,Skoda 30.5cm,ahn,1910-01-01,305,43,54250,3,2,Breech,800,0,80,http://www.navweaps.com/Weapons/WNAust_12-45.php
-305-bg-l45,30.5cm/45 L/45,Skoda 30.5cm,ahn,1908-01-01,305,43,54250,3,2,Breech,800,0,75,http://www.navweaps.com/Weapons/WNAust_12-45.php
-238-bg-l45,24cm/42 L/45,"Skoda 24""",ahn,1907-01-01,238,42,27701,2.5,2.5,Breech,800,0,100,http://www.navweaps.com/Weapons/WNAust_945-45.php
-238-bg-l40-k01,24cm/37 L/40 K/01,"Skoda 24""",ahn,1901-01-01,238,37,29300,2.5,2.5,Breech,705,0,80,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
-190-bg-l42,19cm/40 L/42,Skoda 19cm,ahn,1903-01-01,190,40,13150,4,4,Breech,825,0,120,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
-150-bg-k10,15cm/50 L/50 K.10,Skoda 15cm,ahn,1910-01-01,149,47,,6,6,Breech,880,0,,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
-100-bg-m1931,100mm/47 OTO Model 1931,Skoda 10cm,ahn,1931-01-01,100,47,2177,10,8,Breech,850,0,500,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
-100-bg-m1924,100mm/47 OTO Model 1924,Skoda 10cm,ahn,1924-01-01,100,47,2177,10,8,Breech,850,0,500,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
-100-bg-k10,10cm/47 L/50 K.10,Skoda 10cm,ahn,1910-01-01,100,47,2020,10,8,Breech,880,0,500,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
-66-bg-k10,7cm/50 L/50 K.10,Skoda 7cm,ahn,1910-01-01,66,47,520,15,12,Breech,880,880,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
-66-bg-sfk-l45,7cm/42 SFK L/45,Skoda 7cm,ahn,1892-01-01,66,42,630,15,12,Breech,700,0,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
-66-bg-g-bag,7cm/45 G. L/45 BAG,Skoda 7cm,ahn,1910-01-01,66,33,520,15,12,Breech,725,725,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
-66-bg-l18,7cm/16 L/18,Skoda 7cm,ahn,1895-01-01,66,16,98,20,20,Breech,320,320,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
+305-bg-k10,30.5cm/45 L/45 K.10,Skoda 30.5cm,austria_hungary,1910-01-01,305,43,54250,3,2,Breech,800,0,80,http://www.navweaps.com/Weapons/WNAust_12-45.php
+305-bg-l45,30.5cm/45 L/45,Skoda 30.5cm,austria_hungary,1908-01-01,305,43,54250,3,2,Breech,800,0,75,http://www.navweaps.com/Weapons/WNAust_12-45.php
+238-bg-l45,24cm/42 L/45,"Skoda 24""",austria_hungary,1907-01-01,238,42,27701,2.5,2.5,Breech,800,0,100,http://www.navweaps.com/Weapons/WNAust_945-45.php
+238-bg-l40-k01,24cm/37 L/40 K/01,"Skoda 24""",austria_hungary,1901-01-01,238,37,29300,2.5,2.5,Breech,705,0,80,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
+190-bg-l42,19cm/40 L/42,Skoda 19cm,austria_hungary,1903-01-01,190,40,13150,4,4,Breech,825,0,120,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
+150-bg-k10,15cm/50 L/50 K.10,Skoda 15cm,austria_hungary,1910-01-01,149,47,,6,6,Breech,880,0,,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
+100-bg-m1931,100mm/47 OTO Model 1931,Skoda 10cm,austria_hungary,1931-01-01,100,47,2177,10,8,Breech,850,0,500,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
+100-bg-m1924,100mm/47 OTO Model 1924,Skoda 10cm,austria_hungary,1924-01-01,100,47,2177,10,8,Breech,850,0,500,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
+100-bg-k10,10cm/47 L/50 K.10,Skoda 10cm,austria_hungary,1910-01-01,100,47,2020,10,8,Breech,880,0,500,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php
+66-bg-k10,7cm/50 L/50 K.10,Skoda 7cm,austria_hungary,1910-01-01,66,47,520,15,12,Breech,880,880,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
+66-bg-sfk-l45,7cm/42 SFK L/45,Skoda 7cm,austria_hungary,1892-01-01,66,42,630,15,12,Breech,700,0,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
+66-bg-g-bag,7cm/45 G. L/45 BAG,Skoda 7cm,austria_hungary,1910-01-01,66,33,520,15,12,Breech,725,725,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
+66-bg-l18,7cm/16 L/18,Skoda 7cm,austria_hungary,1895-01-01,66,16,98,20,20,Breech,320,320,,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
 457-bg-marki,"18""/40 Mark I","British 18""",britain,1915-01-01,457,40,148000,1,1,Breech,683,0,60,http://www.navweaps.com/Weapons/WNBR_18-40_mk1.php
 412-bg-marki,"16.25""/30 Mark 1",Elswick 110-ton,britain,1885-01-01,412,30,112000,0.33,0.29,Breech,636,0,43,http://www.navweaps.com/Weapons/WNBR_162-30_mk1.php
 406-ml-rml-80ton,"16""/18 RML 80-ton",Royal Gun Factory 80-ton,britain,1874-01-01,406.4,18,80000,0.33,0.25,Muzzle,480,0,,https://en.wikipedia.org/wiki/RML_16-inch_80-ton_gun
@@ -164,7 +164,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 47-bg-vickers-qf-mark1,3-pdr Vickers QF Mark 1,Vickers 3-pdr,britain,1885-01-01,47,50,295,25,25,Breech Semi-Automatic,785,785,300,http://www.navweaps.com/Weapons/WNBR_3pounder_V_mk1.php
 40-mg-qf-markviii-lv,2-pdr/39 QF Mark VIII (Low Velocity),Vickers 2-pdr,britain,1923-01-01,40,39,385,98,98,Breech Autoloader,585,585,2000,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
 40-mg-qf-markviii-hv,2-pdr/39 QF Mark VIII (High Velocity),Vickers 2-pdr,britain,1923-01-01,40,39,385,98,98,Breech Autoloader,732,732,2000,http://www.navweaps.com/Weapons/WNBR_2pounder_m8.php
-40-mg-bi-type91,"40mm/39 ""BI"" Type 91",Vickers 2-pdr,britain,1923-01-01,40,39,281,200,100,Breech Autoloader,600,600,5000,http://www.navweaps.com/Weapons/WNJAP_40mm-62_HI.php
+40-mg-bi-type91,"40mm/39 ""BI"" Type 91",Vickers 2-pdr,britain,1923-01-01,40,39,281,200,100,Breech Autoloader,600,600,,http://www.navweaps.com/Weapons/WNJAP_40mm-62_HI.php
 40-mg-vt-1915,40mm/39 Vickers-Terni 1915/1917,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,610,610,1500,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 40-mg-v1915,40mm/39 Vickers 1915,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,610,610,1500,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
 40-mg-v1914,40mm/39 Vickers Automatic Model 1914,Vickers 2-pdr,britain,1914-01-01,40,39,246,75,65,Breech Autoloader,601,601,1500,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
@@ -380,9 +380,13 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-41st-year,15cm/50 41st Year Type,Japanse 15cm,japan,1910-01-01,152,50,8360,6,5,Breech,850,0,,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
 140-bg-3rd-year-type-b,14cm/50 3rd Year Type,Japanse 140mm,japan,1914-01-01,140,50,5700,10,8,Breech,850,0,,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 140-bg-3rd-year-type,14cm/50 3rd Year Type,Japanse 140mm,japan,1914-01-01,140,50,5700,8,6,Breech,850,0,,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
+127-bg-3rd-year-type-b,12.7cm/50 3rd Year Type B,Japanese 127mm,japan,1926-01-01,127,50,4245,10,5,Breech,915,915,150,https://www.navweaps.com/Weapons/WNJAP_5-50_3ns.php
+127-bg-3rd-year-type-a,12.7cm/50 3rd Year Type A,Japanese 127mm,japan,1926-01-01,127,50,4245,5,5,Breech,915,915,150,https://www.navweaps.com/Weapons/WNJAP_5-50_3ns.php
 127-bg-type-89,12.7cm/40 Type 89,Japanese 127mm,japan,1929-01-01,127,40,3100,14,8,Breech,700,700,250,http://www.navweaps.com/Weapons/WNJAP_5-40_t89.php
+120-bg-3rd-year-type,12cm/45 3rd Year Type,"Elswick 4.7""",japan,1914-01-01,120,45,2900,6,5,Breech,825,825,250,https://www.navweaps.com/Weapons/WNJAP_47-45_11ns.php
 100-bg-type-98,10cm/65 Type 98,Japanese 100mm,japan,1937-01-01,100,65,3053,15,15,Breech,1000,1000,300,http://www.navweaps.com/Weapons/WNJAP_39-65_t98.php
 76-bg-type-98,8cm/60 Type 98,Japanese 76mm,japan,1938-01-01,76,60,1320,25,12,Breech,910,910,250,http://www.navweaps.com/Weapons/WNJAP_3-60_t98.php
+76-bg-short-gun,"3""/25 Type I",Japanese 76mm,japan,1902-01-01,76,23.1,316,15,15,Breech,455,455,,https://www.navweaps.com/Weapons/WNJAP_3-25_Short.php
 406-bg-b37-p1937,406mm/50 B-37 Pattern 1937,Bolshevik 406mm,russia,1937-01-01,406,50,136690,2,1.8,Breech,830,0,100,http://www.navweaps.com/Weapons/WNRussian_16-50_m1937.php
 305-bg-sm33-p1948,305mm/62 SM-33 Pattern 1948,"Russian 12""",russia,1948-01-01,305,62,101580,3.26,2.8,Breech,950,0,80,http://www.navweaps.com/Weapons/WNRussian_12-62_m1948.php
 305-bg-b50-p1940,305mm/55 B-50 Pattern 1940,Russian 305mm,russia,1938-01-01,305,55,74800,3.24,2.8,Breech,900,0,100,http://www.navweaps.com/Weapons/WNRussian_12-55_B-50.php
@@ -396,6 +400,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-o1885,152mm/35 Obukhoff 1885,"Obukhoff 6""",russia,1885-01-01,152,35,8500,1,1,Breech,700,700,,https://en.wikipedia.org/wiki/6_inch_35_caliber_naval_gun_1877
 152-bg-o1877,152mm/25 Obukhoff 1877,"Obukhoff 6""",russia,1877-01-01,152,25,,1,1,Breech,,,,
 130-bg-p1948,130mm/58 Pattern 1948,Russian 130mm,russia,1948-01-01,130,58,4990,12,12,Breech,950,955,400,http://www.navweaps.com/Weapons/WNRussian_51-58_m1957.php
+130-bg-b13-p1936,130mm/50 B13 Pattern 1936,Russian 130mm,russia,1929-01-01,130,49.6,5070,12,10,Breech,870,870,150,https://www.navweaps.com/Weapons/WNRussian_51-50_m1936.php
 102-bg-b2-p1930,102mm/45 B-2 Pattern 1930,"Obukhoff 4""",russia,1927-01-01,102,42,2120,6,4,Breech,755,755,200,http://www.navweaps.com/Weapons/WNRussian_4-45_m1930.php
 100-bg-cm5,100mm/70 CM-5,,russia,1947-01-01,100,70,3972,18,15,Breech,1000,1000,320,http://www.navweaps.com/Weapons/WNRussian_39-70_cm5.php
 100-bg-b34-p1940,100mm/54 B-34 Pattern 1940,Bolshevik 100mm,russia,1937-01-01,100,53.5,2463,12,10,Breech,895,900,300,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php
