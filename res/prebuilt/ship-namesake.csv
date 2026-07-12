@@ -5833,6 +5833,9 @@ dd_akizuki_1940|akizuki,Akizuki,Autumn Moon
 dd_akizuki_1940|fuyutsuki,Fuyutsuki,Winter Moon
 dd_akizuki_1940|hanatsuki,Hanatsuki,Third Month
 dd_akizuki_1940|harutsuki,Harutsuki,Spring Moon
+dd_akizuki_1940|harutsuki,Oskol,
+dd_akizuki_1940|harutsuki,PKZ-37,
+dd_akizuki_1940|harutsuki,TSL-64,
 dd_akizuki_1940|harutsuki,Vnezapnyy,Sudden
 dd_akizuki_1940|hatsuzuki,Hatsuzuki,First Month
 dd_akizuki_1940|michitsuki,Michitsuki,Full Moon
@@ -5990,10 +5993,6 @@ dd_alpino|pontiere,Pontiere,
 dd_alsedo|alsedo,Alsedo,
 dd_alsedo|lazaga,Lazaga,
 dd_alsedo|velasco,Velasco,
-dd_amatsukaze|amatsukaze,Amatsukaze,Heavenly Wind
-dd_amatsukaze|hamakaze,Hamakaze,Beach Wind
-dd_amatsukaze|isokaze,Isokaze,Rocky Coast Wind
-dd_amatsukaze|tokitsukaze,Tokitsukaze,Favorable Wind
 dd_amazon|hms_amazon,Amazon,Amazons
 dd_amazonas|acre,Acre,
 dd_amazonas|ajuricaba,Ajuricaba,
@@ -6081,38 +6080,6 @@ dd_artigliere|granatiere,Granatiere,
 dd_artigliere|lanciere,Lanciere,
 dd_arun|hms_arun,Arun,"River Arun, England, UK"
 dd_arun|hms_blackwater,Blackwater,"River Blackwater, England, UK"
-dd_asakaze|asakaze,Asakaze,Morning Wind
-dd_asakaze|asatsuyu,Asatsuyu,Morning Dew
-dd_asakaze|ayanami,Ayanami,Beautiful Waves
-dd_asakaze|harukaze,Harukaze,Spring Wind
-dd_asakaze|hatsuharu,Hatsuharu,First Lunar Month
-dd_asakaze|hatsushimo,Hatsushimo,First Frost
-dd_asakaze|hatsuyuki,Hatsuyuki,First Snow
-dd_asakaze|hayate,Hayate,Windblast
-dd_asakaze|hibiki,Hibiki,Echo
-dd_asakaze|isonami,Isonami,Rocky Waves
-dd_asakaze|kamikaze,Kamikaze,Devine Storm
-dd_asakaze|kikutsuki,Kikutsuki,Nineth Month
-dd_asakaze|kisaragi,Kisaragi,Second Month
-dd_asakaze|matsukaze,Matsukaze,Wind through a Pine Forest
-dd_asakaze|mikazuki,Mikazuki,Waxing Crescent
-dd_asakaze|minatsuki,Minatsuki,Sixth Month
-dd_asakaze|nagatsuki,Nagatsuki,Nineth Month
-dd_asakaze|nenohi,Nenohi,First Day of the Month
-dd_asakaze|nowaki,Nowaki,Autumn Typhoon
-dd_asakaze|oite,Oite,Pursuer
-dd_asakaze|shigure,Shigure,Winter Shower
-dd_asakaze|shiratsuyu,Shiratsuyu,Fifteenth Solar Term
-dd_asakaze|shirayuki,Shirayuki,Powder Snow
-dd_asakaze|shirotae,Shirotae,White Cloth
-dd_asakaze|uranami,Uranami,Bay Waves
-dd_asakaze|ushio,Ushio,Tide
-dd_asakaze|uzuki,Uzuki,Fourth Month
-dd_asakaze|wakaba,Wakaba,New Leaves
-dd_asakaze|yayoi,Yayoi,Third Month
-dd_asakaze|yudachi,Yudachi,Evening Shower
-dd_asakaze|yugure,Yugure,Dusk
-dd_asakaze|yunagi,Yunagi,Evening Calm
 dd_asashio|arare,Arare,Sleet
 dd_asashio|arashio,Arashio,Storm Surge
 dd_asashio|asagumo,Asagumo,Morning Cloud
@@ -6839,10 +6806,12 @@ dd_emir_bukharskiy|emir_bukharskiy,Yakov Sverdlov,
 dd_emir_bukharskiy|finn,Finn,
 dd_emir_bukharskiy|finn,Karl Libknekht,
 dd_emir_bukharskiy|moskvityanin,Moskvityanin,
+dd_enoki|enoki,10-go,
 dd_enoki|enoki,Enoki,Clerodendrum Tree
 dd_enoki|keyaki,Keyaki,Japanese Elm
 dd_enoki|kuwa,Kuwa,Mulberry Tree
 dd_enoki|maki,Maki,Hinoki Cypress
+dd_enoki|nara,9-go,
 dd_enoki|nara,Nara,Oak Wood
 dd_enoki|tsubaki,Tsubaki,Camellia Tree
 dd_enseigne_gabolde|enseigne_gabolde,Enseigne Gabolde,
@@ -7633,6 +7602,10 @@ dd_inzhener_mekhanik_zverev|vnushitelnyy,Martynov,
 dd_inzhener_mekhanik_zverev|vnushitelnyy,Vnushitelnyy,
 dd_inzhener_mekhanik_zverev|vynoslivyy,Artemyev,
 dd_inzhener_mekhanik_zverev|vynoslivyy,Vynoslivyy,
+dd_isokaze|amatsukaze,Amatsukaze,Heavenly Wind
+dd_isokaze|hamakaze,Hamakaze,Beach Wind
+dd_isokaze|isokaze,Isokaze,Rocky Coast Wind
+dd_isokaze|tokitsukaze,Tokitsukaze,Favorable Wind
 dd_izyaslav|avtroil,Almirante Guise,
 dd_izyaslav|avtroil,Avtroil,
 dd_izyaslav|bryachislav,Bryachislav,
@@ -7699,6 +7672,43 @@ dd_kagero|tokitsukaze,Tokitsukaze,Favorable Wind
 dd_kagero|urakaze,Urakaze,Bay Wind
 dd_kagero|yukikaze,Tan Yang,"Danyang, Jiangsu, China"
 dd_kagero|yukikaze,Yukikaze,Snowy Wind
+dd_kamikaze_1904|asakaze,Asakaze,Morning Wind
+dd_kamikaze_1904|asatsuyu,Asatsuyu,Morning Dew
+dd_kamikaze_1904|ayanami,Ayanami,Beautiful Waves
+dd_kamikaze_1904|ayanami,W-9,
+dd_kamikaze_1904|harukaze,Harukaze,Spring Wind
+dd_kamikaze_1904|hatsuharu,Hatsuharu,First Lunar Month
+dd_kamikaze_1904|hatsushimo,Hatsushimo,First Frost
+dd_kamikaze_1904|hatsuyuki,Hatsuyuki,First Snow
+dd_kamikaze_1904|hayate,Hayate,Windblast
+dd_kamikaze_1904|hibiki,Hibiki,Echo
+dd_kamikaze_1904|isonami,Isonami,Rocky Waves
+dd_kamikaze_1904|kamikaze,Kamikaze,Devine Storm
+dd_kamikaze_1904|kikutsuki,Kikutsuki,Nineth Month
+dd_kamikaze_1904|kikutsuki,W-12,
+dd_kamikaze_1904|kisaragi,Kisaragi,Second Month
+dd_kamikaze_1904|matsukaze,Matsukaze,Wind through a Pine Forest
+dd_kamikaze_1904|mikazuki,Mikazuki,Waxing Crescent
+dd_kamikaze_1904|minatsuki,Minatsuki,Sixth Month
+dd_kamikaze_1904|minatsuki,W-10,
+dd_kamikaze_1904|nagatsuki,Nagatsuki,Nineth Month
+dd_kamikaze_1904|nagatsuki,W-11,
+dd_kamikaze_1904|nenohi,Nenohi,First Day of the Month
+dd_kamikaze_1904|nowaki,Nowaki,Autumn Typhoon
+dd_kamikaze_1904|oite,Oite,Pursuer
+dd_kamikaze_1904|shigure,Shigure,Winter Shower
+dd_kamikaze_1904|shiratsuyu,Shiratsuyu,Fifteenth Solar Term
+dd_kamikaze_1904|shirayuki,Shirayuki,Powder Snow
+dd_kamikaze_1904|shirotae,Shirotae,White Cloth
+dd_kamikaze_1904|uranami,Uranami,Bay Waves
+dd_kamikaze_1904|uranami,W-8,
+dd_kamikaze_1904|ushio,Ushio,Tide
+dd_kamikaze_1904|uzuki,Uzuki,Fourth Month
+dd_kamikaze_1904|wakaba,Wakaba,New Leaves
+dd_kamikaze_1904|yayoi,Yayoi,Third Month
+dd_kamikaze_1904|yudachi,Yudachi,Evening Shower
+dd_kamikaze_1904|yugure,Yugure,Dusk
+dd_kamikaze_1904|yunagi,Yunagi,Evening Calm
 dd_kamikaze|asakaze,Asakaze,Morning Wind
 dd_kamikaze|asakaze,Dai-3,
 dd_kamikaze|asanagi,Asanagi,Morning Calm
@@ -7731,6 +7741,7 @@ dd_kapitan_izylmetyev|leytenant_ilyin,Trotskiy,
 dd_kapitan_izylmetyev|leytenant_ilyin,Voykov,
 dd_kapitan_izylmetyev|rykov,Rykov,
 dd_kawakaze|kawakaze,Kawakaze,River Wind
+dd_kawakaze|tanikaze,Haikan No. 19,
 dd_kawakaze|tanikaze,Tanikaze,Valley Wind
 dd_kazanets|donskoy_kazak,Donskoy Kazak,
 dd_kazanets|kazanets,Kazanets,
@@ -8075,6 +8086,7 @@ dd_minekaze|akikaze,Akikaze,Autumn Wind
 dd_minekaze|hakaze,Hakaze,Wind of a Flapping Bird
 dd_minekaze|hokaze,Hokaze,Wind in a Sail
 dd_minekaze|minekaze,Minekaze,Mountain Peak Wind
+dd_minekaze|nadakaze,Dai-2-go Shokaitei,
 dd_minekaze|nadakaze,Nadakaze,Beach Wind
 dd_minekaze|namikaze,Namikaze,Wind on the Waves
 dd_minekaze|namikaze,Shen Yang,"Shenyang, Liaoning, China"
@@ -8082,6 +8094,7 @@ dd_minekaze|nokaze,Nokaze,Wind Over the Field
 dd_minekaze|numakaze,Numakaze,Marsh Wind
 dd_minekaze|okikaze,Okikaze,Offshore Wind
 dd_minekaze|sawakaze,Sawakaze,Swamp Wind
+dd_minekaze|shimakaze,Dai-1-go Shokaitei,
 dd_minekaze|shimakaze,Shimakaze,Island Wind
 dd_minekaze|shiokaze,Shiokaze,Evening Tide Wind
 dd_minekaze|tachikaze,Tachikaze,Wind of a Sweeping Sword
@@ -8094,28 +8107,43 @@ dd_mode|mode,Mode,
 dd_mogador|mogador,Mogador,
 dd_mogador|volta,Volta,
 dd_momi|aoi,Aoi,Sunflower
+dd_momi|aoi,Dai-32-go Shokaitei,
 dd_momi|ashi,Ashi,Reed
+dd_momi|ashi,Dai-2-go Tomariura,
+dd_momi|fuji,Dai-36-go Shokaitei,
 dd_momi|fuji,Fuji,Wisteria
+dd_momi|hagi,Dai-33-go Shokaitei,
 dd_momi|hagi,Hagi,Bush Clover
 dd_momi|hasu,Hasu,Lotus
+dd_momi|hishi,Dai-37-go Shokaitei,
 dd_momi|hishi,Hishi,Water Caltrop
 dd_momi|kaki,Kaki,Persimmon Tree
 dd_momi|kaki,Osu,"Osu, Nagoya, Aichi, Japan"
 dd_momi|kaya,Kaya,Chinese Torreya
+dd_momi|kiku,Dai-31-go Shokaitei,
 dd_momi|kiku,Kiku,Chrysanthemum
 dd_momi|kuri,Kuri,Chestnut Tree
+dd_momi|momi,Haiku 2-go,
 dd_momi|momi,Momi,Fir Tree
 dd_momi|nashi,Nashi,Pear Tree
+dd_momi|nire,Dai-1-go Tomariura,
 dd_momi|nire,Nire,Elm Tree
+dd_momi|sumire,Mitaka,"Third Higher School, Kyoto, Japan"
 dd_momi|sumire,Sumire,Violet
+dd_momi|susuki,Dai-34-go Shokaitei,
 dd_momi|susuki,Susuki,Chinese Silver Grass
+dd_momi|tade,Dai-39-go Shokaitei,
 dd_momi|tade,Tade,Asian Knotweed
 dd_momi|take,Take,Bamboo
 dd_momi|tsuga,Tsuga,Tsuga Tree
+dd_momi|tsuta,Dai-35-go Shokaitei,
 dd_momi|tsuta,Tsuta,Ivy
 dd_momi|warabi,Warabi,Bracken
+dd_momi|yomogi,Dai-38-go Shokaitei,
 dd_momi|yomogi,Yomogi,Mugwort
 dd_momo|hinoki,Hinoki,Japanese Cypress
+dd_momo|kashi,Hai Wei,Ocean Might
+dd_momo|kashi,Kari,Goose
 dd_momo|kashi,Kashi,Live Oak Tree
 dd_momo|momo,Momo,Peach Tree
 dd_momo|yanagi,Yanagi,Willow Tree
@@ -8215,10 +8243,14 @@ dd_moon_1914|hms_relentless,Relentless,Relentless
 dd_moon_1914|hms_rival,Rival,Rival
 dd_murakumo|kagero,Kagero,Heat Haze
 dd_murakumo|murakumo,Murakumo,Altocumulus Cloud
+dd_murakumo|murakumo,Murakumo Maru,Altocumulus Cloud
 dd_murakumo|shinonome,Shinonome,Dawn Clouds
+dd_murakumo|shiranui,No. 2526,
 dd_murakumo|shiranui,Shiranui,Unknown Fire
+dd_murakumo|usugumo,No. 2525,
 dd_murakumo|usugumo,Usugumo,Stratus Cloud
 dd_murakumo|yugiri,Yugiri,Evening Mist
+dd_murakumo|yugiri,Yugiri Maru,Evening Mist
 dd_murasame|jds_harusame,Harusame,April Shower
 dd_murasame|jds_murasame,Murasame,Rain Shower
 dd_murasame|jds_yudachi,Yudachi,Evening Shower
@@ -8916,8 +8948,6 @@ dd_surcouf|kersaint,Kersaint,
 dd_surcouf|maille_breze,Maille-Breze,
 dd_surcouf|surcouf,Surcouf,
 dd_surcouf|vauquelin,Vauquelin,
-ddg_suffren|duquesne,Duquesne,
-ddg_suffren|suffren,Suffren,
 dd_swale|hms_swale,Swale,"River Swale, England, UK"
 dd_swale|hms_ure,Ure,"River Ure, England, UK"
 dd_swale|hms_wear,Wear,"River Wear, England, UK"
@@ -9081,11 +9111,14 @@ dd_ulster_1941|hms_urania,Urania,Urania
 dd_ulster_1941|hms_urchin,Urchin,Hedgehog
 dd_ulster_1941|hms_ursa,Ursa,Bear
 dd_umikaze|umikaze,Umikaze,Sea Wind
+dd_umikaze|umikaze,W-7,
+dd_umikaze|yamakaze,W-8,
 dd_umikaze|yamakaze,Yamakaze,Mountain Wind
 dd_urakaze|kawakaze,Audace,Audacity
 dd_urakaze|kawakaze,Intrepido,Intrepid
 dd_urakaze|kawakaze,Kawakaze,River Wind
 dd_urakaze|kawakaze,TA20,Hull Number
+dd_urakaze|urakaze,Decommissioned Destroyer No. 18,
 dd_urakaze|urakaze,Urakaze,Bay Wind
 dd_usk|hms_ribble,Ribble,"River Ribble, England, UK"
 dd_usk|hms_teviot,Teviot,"River Teviot, Scotland, UK"
@@ -9513,14 +9546,6 @@ ddg_alsace|lorraine,Lorraine,
 ddg_amatsukaze|jds_amatsukaze,Amatsukaze,Heavenly Wind
 ddg_andrea_doria|andrea_doria,Andrea Doria,
 ddg_andrea_doria|caio_duilio,Caio Duilio,
-ffg_aquitaine|aquitaine,Aquitaine,
-ffg_aquitaine|auvergne,Auvergne,
-ffg_aquitaine|bretagne,Bretagne,
-ffg_aquitaine|languedoc,Languedoc,
-ffg_aquitaine|normandie,Normandie,
-ffg_aquitaine|normandie,Tahya Misr,
-ffg_aquitaine|normandie_ii,Normandie,
-ffg_aquitaine|provence,Provence,
 ddg_ardito|ardito,Ardito,
 ddg_ardito|audace,Audace,
 ddg_arleigh_burke_i|uss_arleigh_burke,Arleigh Burke,Arleigh Albert Burke
@@ -9893,6 +9918,8 @@ ddg_spruance|uss_peterson,Peterson,Carl Jerrold Peterson
 ddg_spruance|uss_spruance,Spruance,Raymond Ames Spruance
 ddg_spruance|uss_stump,Stump,Felix Budwell Stump
 ddg_suffren|duquesne,Duquesne,
+ddg_suffren|duquesne,Duquesne,
+ddg_suffren|suffren,Suffren,
 ddg_suffren|suffren,Suffren,
 ddg_tachikaze|jds_asakaze,Asakaze,Morning Wind
 ddg_tachikaze|jds_sawakaze,Sawakaze,Swamp Wind
@@ -9999,22 +10026,22 @@ ddg_visakhapatnam|ins_visakhapatnam,Visakhapatnam,
 ddg_zumwalt|uss_lyndon_b_johnson,Lyndon B. Johnson,Lyndon Baines Johnson
 ddg_zumwalt|uss_michael_monsoor,Michael Monsoor,Michael Anthony Monsoor
 ddg_zumwalt|uss_zumwalt,Zumwalt,Elmo Russell Zumwalt Jr.
+ddk_aokumo_1970|jds_akigumo,Akigumo,Autumn Cloud
+ddk_aokumo_1970|jds_aokumo,Aokumo,Blue Cloud
+ddk_aokumo_1970|jds_yugumo,Yugumo,Evening Cloud
 ddk_ayanami|jds_ayanami,Ayanami,Beautiful Waves
 ddk_ayanami|jds_isonami,Isonami,Rocky Waves
+ddk_ayanami|jds_makinami,Makinami,Rolling Wave
 ddk_ayanami|jds_oonami,Oonami,Big Wave
 ddk_ayanami|jds_shikinami,Shikinami,Spreading Waves
 ddk_ayanami|jds_takanami,Takanami,Crashing Wave
 ddk_ayanami|jds_uranami,Uranami,Bay Waves
-ddk_makinami|jds_makinami,Makinami,Rolling Wave
 ddk_minegumo|jds_minegumo,Minegumo,Cumulus Cloud
 ddk_minegumo|jds_murakumo,Murakumo,Altocumulus Cloud
 ddk_minegumo|jds_natsugumo,Natsugumo,Summer Cloud
-ddk_yamagumo|jds_akigumo,Akigumo,Autumn Cloud
-ddk_yamagumo|jds_aokumo,Aokumo,Blue Cloud
 ddk_yamagumo|jds_asagumo,Asagumo,Morning Cloud
 ddk_yamagumo|jds_makigumo,Makigumo,Cirrus Clouds
 ddk_yamagumo|jds_yamagumo,Yamagumo,Mountain Cloud
-ddk_yamagumo|jds_yugumo,Yugumo,Evening Cloud
 de_alcione_1938|airone,Airone,
 de_alcione_1938|alcione,Alcione,
 de_alcione_1938|aretusa,Aretusa,
@@ -11480,6 +11507,14 @@ ffg_anzac|hmas_perth,Perth,
 ffg_anzac|hmas_stuart,Stuart,
 ffg_anzac|hmas_toowoomba,Toowoomba,
 ffg_anzac|hmas_warramunga,Warramunga,
+ffg_aquitaine|aquitaine,Aquitaine,
+ffg_aquitaine|auvergne,Auvergne,
+ffg_aquitaine|bretagne,Bretagne,
+ffg_aquitaine|languedoc,Languedoc,
+ffg_aquitaine|normandie,Normandie,
+ffg_aquitaine|normandie,Tahya Misr,
+ffg_aquitaine|normandie_ii,Normandie,
+ffg_aquitaine|provence,Provence,
 ffg_baden_wurttemberg|baden_wurttemberg,Baden-Wurttemberg,
 ffg_baden_wurttemberg|nordrhein_westfalen,Nordrhein-Westfalen,
 ffg_baden_wurttemberg|rheinland_pfalz,Rheinland-Pfalz,

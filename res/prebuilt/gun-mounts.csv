@@ -47,10 +47,10 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 356-ag-marki,356,"14""/45 Mark I",britain,Armored Gunhouse,356-bg-markvii,2,20,http://www.navweaps.com/Weapons/WNBR_14-45_mk1.php
 356-ag-bethlehem,356,"14""/45 Bethlehem",greece,Armored Gunhouse,356-bg-bethlehem,2,15,http://www.navweaps.com/Weapons/WNUS_14-45_mk1.php#Mount%2FTurret_Data
 356-ag-41st-year-bc-43,356,36cm/45 41st Year Type (BC),japan,Armored Gunhouse,356-bg-41st-year,2,43,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
-356-ag-41st-year-bb-43,356,36cm/45 41st Year Type (BB),japan,Armored Gunhouse,356-bg-41st-year,2,43,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
 356-ag-41st-year-bc-33,356,36cm/45 41st Year Type (BC),japan,Armored Gunhouse,356-bg-41st-year,2,33,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
-356-ag-41st-year-bb-30,356,36cm/45 41st Year Type (BB),japan,Armored Gunhouse,356-bg-41st-year,2,30,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
 356-ag-41st-year-bc,356,36cm/45 41st Year Type (BC),japan,Armored Gunhouse,356-bg-41st-year,2,25,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
+356-ag-41st-year-bb-43,356,36cm/45 41st Year Type (BB),japan,Armored Gunhouse,356-bg-41st-year,2,43,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
+356-ag-41st-year-bb-30,356,36cm/45 41st Year Type (BB),japan,Armored Gunhouse,356-bg-41st-year,2,30,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
 356-ag-41st-year-bb,356,36cm/45 41st Year Type (BB),japan,Armored Gunhouse,356-bg-41st-year,2,25,http://www.navweaps.com/Weapons/WNJAP_14-45_t41.php
 355-ag-drh-lc1914,355,35cm/42 Drh L. C/1914,germany,Armored Gunhouse,355-bg-sk-l45,2,16,http://www.navweaps.com/Weapons/WNGER_14-45_skc14.php
 343-ag-markii-l,343,"13.5""/45 Mark II (L)",britain,Armored Gunhouse,343-bg-markv-l,2,20,http://www.navweaps.com/Weapons/WNBR_135-45_mk5.php
@@ -121,9 +121,9 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 305-ct-m1893-single,305,305mm/40 Model 1893 Single,france,Coles Turret,305-bg-m1893,2,15,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
 305-ag-m1893-single,305,305mm/40 Model 1893 Single,france,Armored Gunhouse,305-bg-m1893,2,15,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
 305-ct-m1887-single,305,305mm/45 Model 1887,france,Coles Turret,305-bg-m1887,1,15,http://www.navweaps.com/Weapons/WNFR_12-40_m1893.php
-305-ag-l45,305,30.5cm/45 L/45,ahn,Armored Gunhouse,305-bg-l45,3,20,http://www.navweaps.com/Weapons/WNAust_12-45.php
+305-ag-l45,305,30.5cm/45 L/45,austria_hungary,Armored Gunhouse,305-bg-l45,3,20,http://www.navweaps.com/Weapons/WNAust_12-45.php
 305-bar-l35-c80,305,30.5cm/32 G. L/35 C.80,britain,Barbette,305-bg-l35-c80,1,,https://en.wikipedia.org/wiki/SMS_Kronprinzessin_Erzherzogin_Stephanie#Armament_and_armor
-305-ag-k10,305,30.5cm/45 L/45 K.10,ahn,Armored Gunhouse,305-bg-k10,3,20,http://www.navweaps.com/Weapons/WNAust_12-45.php
+305-ag-k10,305,30.5cm/45 L/45 K.10,austria_hungary,Armored Gunhouse,305-bg-k10,3,20,http://www.navweaps.com/Weapons/WNAust_12-45.php
 305-ag-elswick-l-special,305,"12""/45 Elswick L ""Special""",brazil,Armored Gunhouse,305-bg-elswick-l,2,13,http://www.navweaps.com/Weapons/WNBZL_12-45_PL.php
 305-ag-elswick-i-twin,305,"12""/40 Elswick I Twin Turret",italy,Armored Gunhouse,305-bg-elswick-i,2,20,http://www.navweaps.com/Weapons/WNIT_12-40.php
 305-ag-elswick-i-single,305,"12""/40 Elswick I Single Turret",italy,Armored Gunhouse,305-bg-elswick-i,1,20,http://www.navweaps.com/Weapons/WNIT_12-40.php
@@ -139,7 +139,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 283-ag-drh-lc28,283,28cm/49 Drh L. C/28,germany,Armored Gunhouse,283-bg-sk-c28,3,40,http://www.navweaps.com/Weapons/WNGER_11-52_skc28.php
 283-ag-drh-lc92-40,283,28cm/37 Drh L. C/92,germany,Armored Gunhouse,283-bg-mrk-l40,2,25,http://www.navweaps.com/Weapons/WNGER_11-40_skc90.php
 283-ag-drh-lc92,283,28cm/31 Drh L. C/92,germany,Armored Gunhouse,283-bg-mrk-l35,2,25,http://www.navweaps.com/Weapons/WNGER_11-35_skc92.php
-283-c-l18-krupp-bl,283,28cm/18 L/18 Krupp BL,ahn,Pivot (Casement),283-bg-l18-krupp-bl,1,8.25,https://en.wikipedia.org/wiki/SMS_Tegetthoff_(1878)#Armament_and_armor
+283-c-l18-krupp-bl,283,28cm/18 L/18 Krupp BL,austria_hungary,Pivot (Casement),283-bg-l18-krupp-bl,1,8.25,https://en.wikipedia.org/wiki/SMS_Tegetthoff_(1878)#Armament_and_armor
 279-c-rml-25ton-marki,279,"11""/12 RML 25-ton Mark I",britain,Pivot (Casement),279-ml-rml-25ton-marki,1,,https://en.wikipedia.org/wiki/RML_11-inch_25-ton_gun
 279-bd-rml-25ton-marki,279,"11""/12 RML 25-ton Mark I",britain,Barbette (Disappearing),279-ml-rml-25ton-marki,1,,https://en.wikipedia.org/wiki/RML_11-inch_25-ton_gun
 274-c-m1864,274,274mm/18 Model 1864-66,france,Pivot (Casement),274-ml-m1864,1,,https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ironclad#Armament
@@ -161,8 +161,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 254-piv-rml-18ton-marki,254,"10""/15 RML 18-ton Mark I",britain,Pivot,254-ml-rml-18ton-marki,1,,https://en.wikipedia.org/wiki/RML_10-inch_18-ton_gun
 254-c-rml-18ton-marki,254,"10""/15 RML 18-ton Mark I",britain,Pivot (Casement),254-ml-rml-18ton-marki,1,,https://en.wikipedia.org/wiki/RML_10-inch_18-ton_gun
 254-ag-p1908,254,"10""/50 Pattern 1908",russia,Armored Gunhouse,254-bg-p1908,2,35,http://www.navweaps.com/Weapons/WNRussian_10-50_m1908.php#Mount%2FTurret_Data
-254-ag-p1891-ha,254,"10""/45 Pattern 1891",russia,Armored Gunhouse,254-bg-p1891,2,35,http://www.navweaps.com/Weapons/WNRussian_10-45_m1891.php
 254-ag-p1891-la,254,"10""/45 Pattern 1891",russia,Armored Gunhouse,254-bg-p1891,2,15,http://www.navweaps.com/Weapons/WNRussian_10-45_m1891.php
+254-ag-p1891-ha,254,"10""/45 Pattern 1891",russia,Armored Gunhouse,254-bg-p1891,2,35,http://www.navweaps.com/Weapons/WNRussian_10-45_m1891.php
 254-ag-mk6,254,"10""/40 Mark 6",usa,Armored Gunhouse,254-bg-mk3,2,,http://www.navweaps.com/Weapons/WNUS_10-40_mk3.php#Mount%2FTurret_Data
 254-ag-mk3,254,"10""/30 Mark 3 2-Gun Turret",usa,Armored Gunhouse,254-bg-mk2,2,10,http://www.navweaps.com/Weapons/WNUS_10-30_mk1.php#Mount%2FTurret_Data
 254-ag-bv,254,"10""/45 BV",britain,Armored Gunhouse,254-bg-markvii-vickers-a,2,13.5,http://www.navweaps.com/Weapons/WNBR_10-45_mk6-7.php
@@ -188,10 +188,10 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 240-piv-m1864,240,240mm/18 Model 1864,france,Pivot,240-bg-m1864,1,,https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ironclad#Armament
 240-c-m1864,240,240mm/18 Model 1864,france,Pivot (Casement),240-bg-m1864,1,,https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ironclad#Armament
 240-bar-m1864,240,240mm/18 Model 1864,france,Barbette,240-bg-m1864,1,,https://en.wikipedia.org/wiki/Oc%C3%A9an-class_ironclad#Armament
-238-ag-l45,238,24cm/42 L/45,ahn,Armored Gunhouse,238-bg-l45,2,20,http://www.navweaps.com/Weapons/WNAust_945-45.php
-238-ag-l40-k97-twin,238,24cm/37 L/40 K97 Twin,ahn,Armored Gunhouse,238-bg-l40-k97,2,20,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
-238-ag-l40-k97-single,238,24cm/37 L/40 K97 Single,ahn,Armored Gunhouse,238-bg-l40-k97,1,20,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
-238-ag-l40-k01,238,24cm/37 L/40 K/01,ahn,Armored Gunhouse,238-bg-l40-k01,2,20,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
+238-ag-l45,238,24cm/42 L/45,austria_hungary,Armored Gunhouse,238-bg-l45,2,20,http://www.navweaps.com/Weapons/WNAust_945-45.php
+238-ag-l40-k97-twin,238,24cm/37 L/40 K97 Twin,austria_hungary,Armored Gunhouse,238-bg-l40-k97,2,20,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
+238-ag-l40-k97-single,238,24cm/37 L/40 K97 Single,austria_hungary,Armored Gunhouse,238-bg-l40-k97,1,20,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
+238-ag-l40-k01,238,24cm/37 L/40 K/01,austria_hungary,Armored Gunhouse,238-bg-l40-k01,2,20,http://www.navweaps.com/Weapons/WNAust_945-40_K94.php
 238-ag-drh-lc98-pusher,238,24cm/37 Drh.L. C/98,germany,Armored Gunhouse,238-bg-l40-c97-pusher,2,30,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php
 238-ag-drh-lc99,238,24cm/37 Drh.L. C/99,germany,Armored Gunhouse,238-bg-l40-c97-pusher,1,30,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php#Mount_%2F_Turret_Data
 238-ag-drh-lc98,238,24cm/37 Drh.L. C/98,germany,Armored Gunhouse,238-bg-l40-c97,2,30,http://www.navweaps.com/Weapons/WNGER_945-40_skc94.php
@@ -201,9 +201,9 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 234-ag-markv,234,"9.2""/47 Mark V",britain,Armored Gunhouse,234-bg-markx,1,15,http://www.navweaps.com/Weapons/WNBR_92-47_mk10.php
 234-ag-cpiv,234,"9.2""/40 CP IV",britain,Armored Gunhouse,234-bg-markviii,1,15,http://www.navweaps.com/Weapons/WNBR_92-40_mk8.php#Mount%2FTurret_Data
 234-piv-vcpi,234,"9.2""/31.5 VCP I",britain,Pivot,234-bg-markiii,1,15,http://www.navweaps.com/Weapons/WNBR_92-31_mk3.php#Mount%2FTurret_Data
+234-gs-vcpii,234,"9.2""/31.5 VCP II",britain,Central Pivot (Gun Shield),234-bg-markiii,1,12,http://www.navweaps.com/Weapons/WNBR_92-31_mk3.php#Mount%2FTurret_Data
 234-gs-vcpi,234,"9.2""/31.5 VCP I",britain,Central Pivot (Gun Shield),234-bg-markiii,1,15,http://www.navweaps.com/Weapons/WNBR_92-31_mk3.php#Mount%2FTurret_Data
 234-bar-vcpi,234,"9.2""/31.5 VCP I",britain,Barbette,234-bg-markiii,1,15,http://www.navweaps.com/Weapons/WNBR_92-31_mk3.php#Mount%2FTurret_Data
-234-gs-vcpii,234,"9.2""/31.5 VCP II",britain,Central Pivot (Gun Shield),234-bg-markiii,1,12,http://www.navweaps.com/Weapons/WNBR_92-31_mk3.php#Mount%2FTurret_Data
 233-ccar-100pdr-somerset,233,"9.2""/15 100-pdr Somerset",britain,Carriage (Casement),233-ml-100pdr-somerset,1,,https://en.wikipedia.org/wiki/Somerset_cannon
 233-c-100pdr-somerset,233,"9.2""/15 100-pdr Somerset",britain,Pivot (Casement),233-ml-100pdr-somerset,1,,https://en.wikipedia.org/wiki/Somerset_cannon
 229-piv-rml-12ton-marki,229,"9""/14 RML 12-ton Mark I",britain,Pivot,229-ml-rml-12ton-marki,1,,https://en.wikipedia.org/wiki/RML_9-inch_12-ton_gun
@@ -255,8 +255,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 203-gs-central-pivot,203,"8""/30 Half-Turret",usa,Central Pivot (Gun Shield),203-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_8-30_mk1.php#Mount%2FTurret_Data
 203-ag-half-turret,203,"8""/30 Half-Turret",usa,Central Pivot,203-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_8-30_mk1.php#Mount%2FTurret_Data
 203-ag-barbette,203,"8""/30 Barbette",usa,Barbette (Gun Shield),203-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_8-30_mk1.php#Mount%2FTurret_Data
-203-bg-marki,203,"8""/50 Mark I",britain,Armored Gunhouse,203-bg-markviii,2,70,http://www.navweaps.com/Weapons/WNBR_8-50_mk8.php#Mount%2FTurret_Data
 203-bg-markii*,203,"8""/50 Mark II*",britain,Armored Gunhouse,203-bg-markviii,2,50,http://www.navweaps.com/Weapons/WNBR_8-50_mk8.php#Mount%2FTurret_Data
+203-bg-marki,203,"8""/50 Mark I",britain,Armored Gunhouse,203-bg-markviii,2,70,http://www.navweaps.com/Weapons/WNBR_8-50_mk8.php#Mount%2FTurret_Data
 203-ag-m1931,203,203mm/55 Model 1931,france,Armored Gunhouse,203-bg-m1931,2,45,http://www.navweaps.com/Weapons/WNFR_8-55_m1931.php#Mount%2FTurret_Data
 203-ag-m1927,203,203mm/53 Twin Turret,italy,Armored Gunhouse,203-bg-m1927,2,45,http://www.navweaps.com/Weapons/WNIT_8-53_m1927.php#Mount%2FTurret_Data
 203-ag-m1924-fra,203,203mm/50 Model 1924,france,Armored Gunhouse,203-bg-m1924-fra,2,45,http://www.navweaps.com/Weapons/WNFR_8-50_m1924.php#Mount%2FTurret_Data
@@ -296,8 +296,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 190-ag-markiii-ii,190,"7.5""/50 CP Mark III",britain,Armored Gunhouse,190-bg-markii,1,15,http://www.navweaps.com/Weapons/WNBR_75-50_mk2.php#Mount%2FTurret_Data
 190-ag-vickers-twin,190,"7.5""/45 Vickers D",italy,Armored Gunhouse,190-bg-marki,2,15,http://www.navweaps.com/Weapons/WNBR_75-45_mk1.php#Mount%2FTurret_Data
 190-ag-cp-marki,190,"7.5""/45 CP Mark I",britain,Armored Gunhouse,190-bg-marki,1,15,http://www.navweaps.com/Weapons/WNBR_75-45_mk1.php#Mount%2FTurret_Data
-190-c-l42,190,19cm/40 L/42,ahn,Central Pivot (Casement),190-bg-l42,1,15,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
-190-ag-l42,190,19cm/40 L/42 Turret,ahn,Armored Gunhouse,190-bg-l42,1,15,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
+190-c-l42,190,19cm/40 L/42,austria_hungary,Central Pivot (Casement),190-bg-l42,1,15,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
+190-ag-l42,190,19cm/40 L/42 Turret,austria_hungary,Armored Gunhouse,190-bg-l42,1,15,http://www.navweaps.com/Weapons/WNAust_75-42_Skoda.php
 180-ag-mk3-180,180,180mm/57 MK-3-180,russia,Armored Gunhouse,180-bg-b1P-p1932-3,3,48,http://www.navweaps.com/Weapons/WNRussian_71-57_m1932.php#Mount%2FTurret_Data
 180-ag-mk1-180,180,180mm/57 MK-1-180,russia,Armored Gunhouse,180-bg-b1P-p1932-3,1,60,http://www.navweaps.com/Weapons/WNRussian_71-57_m1932.php#Mount%2FTurret_Data
 178-piv-rml-7ton-armstrong,178,"7""/16 RML 7.5-ton Armstrong",britain,Pivot,178-ml-rml-7ton-armstrong,1,,https://en.wikipedia.org/wiki/RML_7-inch_Armstrong_Gun
@@ -311,8 +311,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 178-c-rbl-110pdr-82cwt,178,"7""/14 RBL 110-pdr 82 cwt",britain,Pivot (Casement),178-bg-rbl-110pdr-82cwt,1,,https://en.wikipedia.org/wiki/RBL_7-inch_Armstrong_gun
 178-p-mk2,178,"7""/45 Mark 2",usa,Central Pivot (Casement),178-bg-mk2,1,15,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
 178-p-mk1,178,"7""/45 Mark 1",usa,Central Pivot (Casement),178-bg-mk1,1,15,http://www.navweaps.com/Weapons/WNUS_7-45_mk2.php
-173-c-drl-c01,173,17cm/37 DrL C/01,germany,Armored Gunhouse,173-bg-sk-l40,1,30,http://www.navweaps.com/Weapons/WNGER_675-40_skc04.php
 173-c-mpl-c02,173,17cm/37 MPL C/02,germany,Central Pivot (Casement),173-bg-sk-l40,1,22,http://www.navweaps.com/Weapons/WNGER_675-40_skc04.php
+173-c-drl-c01,173,17cm/37 DrL C/01,germany,Armored Gunhouse,173-bg-sk-l40,1,30,http://www.navweaps.com/Weapons/WNGER_675-40_skc04.php
 173-piv-rk-l25-c72,173,17cm/22 RK L/25 C/72,germany,Pivot,173-bg-rk-l25-c72,1,,https://en.wikipedia.org/wiki/17_cm_RK_L/25
 173-piv-rk-l20-c67,173,17cm/37 RK L/20 C/67,germany,Pivot,173-bg-rk-l20-c67,1,15,https://en.wikipedia.org/wiki/17_cm_RK_L/25
 165-piv-m1864,165,165mm/18 Model 1864,france,Pivot,165-ml-m1864,1,,https://en.wikipedia.org/wiki/French_ironclad_Belliqueuse#Armament
@@ -355,8 +355,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 152-piv-qfc-markiii,152,"6""/26 QFC Mark III/III",britain,Pivot,152-bg-qfc-markiii,1,12,http://www.navweaps.com/Weapons/WNBR_6-26_mk6.php
 152-gs-qfc-markiii,152,"6""/26 QFC Mark III/III",britain,Central Pivot (Gun Shield),152-bg-qfc-markiii,1,12,http://www.navweaps.com/Weapons/WNBR_6-26_mk6.php
 152-c-qfc-markiii,152,"6""/26 QFC Mark III/III",britain,Central Pivot (Casement),152-bg-qfc-markiii,1,12,http://www.navweaps.com/Weapons/WNBR_6-26_mk6.php
-152-p-pii,152,"6""/40 PII",britain,Pedestal,152-bg-qf-marki,1,20,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
 152-piv-cpi,152,"6""/40 CPI",britain,Pivot,152-bg-qf-marki,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
+152-p-pii,152,"6""/40 PII",britain,Pedestal,152-bg-qf-marki,1,20,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
 152-gs-cpi,152,"6""/40 CPI",britain,Central Pivot (Gun Shield),152-bg-qf-marki,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
 152-c-cpi,152,"6""/40 CPI",britain,Central Pivot (Casement),152-bg-qf-marki,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
 152-bar-cpi,152,"6""/40 CPI",britain,Barbette (Gun Shield),152-bg-qf-marki,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
@@ -370,9 +370,9 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 152-cp-o1885,152,152mm/35 Obukhoff 1885,russia,Central Pivot,152-bg-o1885,1,15,
 152-piv-o1877,152,152mm/25 Obukhoff 1877,russia,Pivot,152-bg-o1877,1,15,
 152-c-o1877,152,152mm/25 Obukhoff 1877,russia,Central Pivot (Casement),152-bg-o1877,1,15,
-152-ag-mk6,152,"6""/44 Mark 9",greece,Central Pivot (Casement),152-bg-mk6,1,20,
 152-cp-mk10,152,"6""/50 Central-Pivot",usa,Central Pivot,152-bg-mk6,1,15,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php#Mount_%2F_Turret_Data
 152-c-mk10,152,"6""/50 Casement",usa,Central Pivot (Casement),152-bg-mk6,1,15,http://www.navweaps.com/Weapons/WNUS_6-50_mk8.php#Mount_%2F_Turret_Data
+152-ag-mk6,152,"6""/44 Mark 9",greece,Central Pivot (Casement),152-bg-mk6,1,20,
 152-gs-mk5,152,"6""/50 Mark 5",britain,Central Pivot (Gun Shield),152-bg-mk5,1,20,http://www.navweaps.com/Weapons/WNUS_6-50_mk5.php#Mount%2FTurret_Data
 152-gs-mk6-early,152,"6""/40 Mark 6",usa,Central Pivot,152-bg-mk3-mod2-early,1,12,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php#Mount%2FTurret_Data
 152-p-mk6,152,"6""/40 Mark 6",usa,Pedestal,152-bg-mk3-mod2,1,12,http://www.navweaps.com/Weapons/WNUS_6-30_mk1.php#Mount%2FTurret_Data
@@ -396,9 +396,9 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 152-c-ab-marki,152,"6""/26 AB Mark I",britain,Central Pivot (Casement),152-bg-markiii,1,12,http://www.navweaps.com/Weapons/WNBR_6-26_mk1.php
 152-ag-m1934,152,152mm/55 Model 1934,italy,Armored Gunhouse,152-bg-m1934,3,45,http://www.navweaps.com/Weapons/WNIT_6-55_m1936.php#Mount%2FTurret_Data
 152-ag-m1934-twin,152,152mm/55 Model 1934,italy,Armored Gunhouse,152-bg-m1934,2,45,http://www.navweaps.com/Weapons/WNIT_6-55_m1936.php#Mount%2FTurret_Data
+152-ag-m1936-dp,152,152mm/55 Model 1936 DP,france,Armored Gunhouse,152-bg-m1930-dp,3,70,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-ag-bb-m1936-dp-planned,152,152mm/55 Battleship Model 1936 DP (planned),france,Armored Gunhouse,152-bg-m1930-dp,3,90,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-ag-bb-m1936-dp,152,152mm/55 Battleship Model 1936 DP,france,Armored Gunhouse,152-bg-m1930-dp,3,75,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
-152-ag-m1936-dp,152,152mm/55 Model 1936 DP,france,Armored Gunhouse,152-bg-m1930-dp,3,70,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-ag-m1930,152,152mm/55 Model 1930,france,Armored Gunhouse,152-bg-m1930,3,45,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-ag-m1926,152,152mm/53 Model 1926,italy,Armored Gunhouse,152-bg-m1926,2,45,http://www.navweaps.com/Weapons/WNIT_6-53_m1926.php#Mount%2FTurret_Data
 152-cp-m1911,152,152mm/45 Model 1911,italy,Central Pivot,152-bg-m1911,1,20,https://en.wikipedia.org/wiki/Cannone_da_152/45
@@ -415,59 +415,59 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 152-c-pxii,152,"6""/45 PXII",britain,Central Pivot (Casement),152-bg-bl-markxvii,1,15,http://www.navweaps.com/Weapons/WNBR_6-50_mk17.php
 152-c-px,152,"6""/50 PX",britain,Central Pivot (Casement),152-bg-bl-markxvi,1,15,http://www.navweaps.com/Weapons/WNBR_6-50_mk16.php
 152-c-pxi,152,"6""/50 PXI",britain,Central Pivot (Casement),152-bg-bl-markxiii,1,13,http://www.navweaps.com/Weapons/WNBR_6-50_mk13.php
-152-gs-cpxiii,152,"6""/45 CPXIII",britain,Pedestal (Gun Shield),152-bg-bl-markxii,1,30,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php#Mount%2FTurret_Data
 152-gs-pvii,152,"6""/45 PVII",britain,Pedestal (Gun Shield),152-bg-bl-markxii,1,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php#Mount%2FTurret_Data
-152-ag-pvii,152,"6""/45 PVII",britain,Armored Gunhouse,152-bg-bl-markxii,1,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php#Mount%2FTurret_Data
 152-gs-pix,152,"6""/45 PIX",britain,Pedestal (Gun Shield),152-bg-bl-markxii,1,14,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php#Mount%2FTurret_Data
+152-gs-cpxiii,152,"6""/45 CPXIII",britain,Pedestal (Gun Shield),152-bg-bl-markxii,1,30,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php#Mount%2FTurret_Data
 152-c-pix,152,"6""/45 PIX",britain,Pedestal (Casement),152-bg-bl-markxii,1,14,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php#Mount%2FTurret_Data
+152-ag-pvii,152,"6""/45 PVII",britain,Armored Gunhouse,152-bg-bl-markxii,1,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk12.php#Mount%2FTurret_Data
 152-gs-pv,152,"6""/50 PV",britain,Pedestal (Gun Shield),152-bg-bl-markxi,1,20,http://www.navweaps.com/Weapons/WNBR_6-50_mk11.php#Mount%2FTurret_Data
 152-c-pv,152,"6""/50 PV",britain,Pedestal (Casement),152-bg-bl-markxi,1,20,http://www.navweaps.com/Weapons/WNBR_6-50_mk11.php#Mount%2FTurret_Data
 152-ag-marki,152,"6""/45 Mark I",britain,Armored Gunhouse,152-bg-bl-markvii,2,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php#Mount%2FTurret_Data
 152-gs-piii,152,"6""/45 PIII",britain,Central Pivot (Gun Shield),152-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php#Mount%2FTurret_Data
-152-c-piii,152,"6""/45 PIII",britain,Central Pivot (Casement),152-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php#Mount%2FTurret_Data
 152-c-pviii,152,"6""/45 PVIII",britain,Central Pivot (Casement),152-bg-bl-markvii,1,14,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php#Mount%2FTurret_Data
+152-c-piii,152,"6""/45 PIII",britain,Central Pivot (Casement),152-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_6-45_mk7.php#Mount%2FTurret_Data
 152-ag-mk-5,152,152mm/57 MK-5,russia,Armored Gunhouse,152-bg-b38-p1938-mk4,3,45,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php#Mount%2FTurret_Data
 152-ag-mk-4,152,152mm/57 MK-4,russia,Armored Gunhouse,152-bg-b38-p1938-mk4,2,45,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php#Mount%2FTurret_Data
 152-ag-mk-17,152,152mm/57 MK-17,russia,Armored Gunhouse,152-bg-b38-p1938-mk4,2,45,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php#Mount%2FTurret_Data
 152-p-armstrong-z,152,"6""/40 Armstrong Z",japan,Pedestal (Gun Shield),152-bg-armstrong-z,1,20,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
+152-gs-a91,152,"6""/40 Armstrong 91",italy,Pedestal (Gun Shield),152-bg-armstrong-z,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
 152-gs-41st-year,152,15 cm/40 41st Year Type,japan,Pedestal (Gun Shield),152-bg-armstrong-z,1,20,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
 152-c-armstrong-z,152,"6""/40 Armstrong Z",japan,Pedestal (Casement),152-bg-armstrong-z,1,20,http://www.navweaps.com/Weapons/WNJAP_6-40_EOC.php
-152-gs-a91,152,"6""/40 Armstrong 91",italy,Pedestal (Gun Shield),152-bg-armstrong-z,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
 152-c-a91,152,"6""/40 Armstrong 91",italy,Pedestal (Casement),152-bg-armstrong-z,1,15,http://www.navweaps.com/Weapons/WNBR_6-40_mk1.php
 152-c-a1918,152,152mm/50 Armstrong Model 1918,italy,Pedestal (Casement),152-bg-a1918,1,,https://en.wikipedia.org/wiki/Francesco_Caracciolo-class_battleship
 152-ag-41st-year,152,15cm/50 41st Year Type,japan,Armored Gunhouse,152-bg-41st-year,2,55,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
-152-c-41st-year-30,152,15cm/50 41st Year Type,japan,Pedestal (Casement),152-bg-41st-year,1,30,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
 152-gs-41st-year,152,15cm/50 41st Year Type,japan,Pedestal (Gun Shield),152-bg-41st-year,1,20,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
+152-c-41st-year-30,152,15cm/50 41st Year Type,japan,Pedestal (Casement),152-bg-41st-year,1,30,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
 152-c-41st-year-20,152,15cm/50 41st Year Type,japan,Pedestal (Casement),152-bg-41st-year,1,20,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
-150-c-k10,150,15cm/50 L/50 K.10,ahn,Pedestal (Casement),150-bg-k10,1,15,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
+150-c-k10,150,15cm/50 L/50 K.10,austria_hungary,Pedestal (Casement),150-bg-k10,1,15,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
 149-gs-tbs-kc36,149,15cm/48 Tbts KC/36,germany,Pedestal (Gun Shield),149-bg-tbts-kc36,1,30,http://www.navweaps.com/Weapons/WNGER_59-48_skc36.php#Mount%2FTurret_Data
-149-c-mpl-c06,149,15cm/42.5 MPL C/06,germany,Pedestal (Casement),149-bg-sk-l45,1,20,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-gs-mpl-c13,149,15cm/42.5 MPL C/13,germany,Pedestal (Gun Shield),149-bg-sk-l45,1,19,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-c-mpl-c13,149,15cm/42.5 MPL C/13,germany,Pedestal (Casement),149-bg-sk-l45,1,19,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
+149-c-mpl-c06,149,15cm/42.5 MPL C/06,germany,Pedestal (Casement),149-bg-sk-l45,1,20,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-c-mpl,149,15cm/37 MPL,germany,Pedestal (Casement),149-bg-sk-l40,1,20,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
 149-ag-mpl-turret,149,15cm/37 MPL Turret,germany,Armored Gunhouse,149-bg-sk-l40,1,20,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
 149-piv-sk-l35,149,15cm/33 SK L/35,germany,Pivot,149-bg-sk-l35,1,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
 149-gs-sk-l35,149,15cm/33 SK L/35,germany,Pedestal (Gun Shield),149-bg-sk-l35,1,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
 149-c-sk-l35,149,15cm/33 SK L/35,germany,Pedestal (Casement),149-bg-sk-l35,1,,https://en.wikipedia.org/wiki/15_cm_SK_L/35
-149-ag-drh-lc34,149,15cm/52 Drh L. C/34,germany,Armored Gunhouse,149-bg-sk-c28,2,40,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php#Mount_%2F_Turret_Data
 149-c-mpl36,149,15cm/52 MPL/36,germany,Central Pivot (Casement),149-bg-sk-c28,2,37,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php#Mount_%2F_Turret_Data
+149-ag-drh-lc34,149,15cm/52 Drh L. C/34,germany,Armored Gunhouse,149-bg-sk-c28,2,40,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php#Mount_%2F_Turret_Data
 149-ag-mpl35,149,15cm/52 MPL/35,germany,Armored Gunhouse,149-bg-sk-c28,1,35,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php#Mount_%2F_Turret_Data
 149-ag-mpl28,149,15cm/52 MPL/28,germany,Armored Gunhouse,149-bg-sk-c28,1,35,http://www.navweaps.com/Weapons/WNGER_59-55_skc28.php#Mount_%2F_Turret_Data
 149-ag-drh-tr-c25,149,15cm/60 Drh Tr C/25,germany,Armored Gunhouse,149-bg-sk-c25,3,40,http://www.navweaps.com/Weapons/WNGER_59-60_skc25.php#Mount_%2F_Turret_Data
 149-piv-rk-l25-c74,149,15cm/25 RK L/25 C/74,germany,Pivot,149-bg-rk-l25-c74,1,13,Identification of the Parameters of Naval Artillery
 149-piv-rk-l22-c72,149,15cm/20 RK L/22 C/72,germany,Pivot,149-bg-rk-l22-c72,1,13,Identification of the Parameters of Naval Artillery
 149-cp-rk-l22-c72,149,15cm/20 RK L/22 C/72,germany,Central Pivot,149-bg-rk-l22-c72,1,13,Identification of the Parameters of Naval Artillery
-140-cpii,140,"5.5""/50 CPII",britain,Central Pivot,140-bg-bl-markI,1,30,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php#Mount%2FTurret_Data
 140-pi*,140,"5.5""/50 PI*",britain,Pedestal,140-bg-bl-markI,1,25,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php#Mount%2FTurret_Data
 140-gs-pi,140,"5.5""/50 PI",britain,Pedestal (Gun Shield),140-bg-bl-markI,1,25,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php#Mount%2FTurret_Data
+140-cpii,140,"5.5""/50 CPII",britain,Central Pivot,140-bg-bl-markI,1,30,http://www.navweaps.com/Weapons/WNBR_55-50_mk1.php#Mount%2FTurret_Data
 140-ag-3rd-35,140,14cm/50 3rd Year Type A2,japan,Armored Gunhouse,140-bg-3rd-year-type-b,2,35,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 140-ag-3rd-30,140,14cm/50 3rd Year Type A,japan,Armored Gunhouse,140-bg-3rd-year-type-b,2,30,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 140-pgs-3rd-30-b,140,14cm/50 3rd Year Type,japan,Pedestal (Gun Shield),140-bg-3rd-year-type-b,1,30,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
-140-c-3rd-35,140,14cm/50 3rd Year Type,japan,Pedestal (Casement),140-bg-3rd-year-type,1,35,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 140-pgs-3rd-30,140,14cm/50 3rd Year Type,japan,Pedestal (Gun Shield),140-bg-3rd-year-type,1,30,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 140-pgs-3rd-25,140,14cm/50 3rd Year Type,japan,Pedestal (Gun Shield),140-bg-3rd-year-type,1,25,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
-140-c-3rd-25,140,14cm/50 3rd Year Type,japan,Pedestal (Casement),140-bg-3rd-year-type,1,25,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 140-pgs-3rd-20,140,14cm/50 3rd Year Type,japan,Pedestal (Gun Shield),140-bg-3rd-year-type,1,20,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
+140-c-3rd-35,140,14cm/50 3rd Year Type,japan,Pedestal (Casement),140-bg-3rd-year-type,1,35,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
+140-c-3rd-25,140,14cm/50 3rd Year Type,japan,Pedestal (Casement),140-bg-3rd-year-type,1,25,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 140-c-3rd-20,140,14cm/50 3rd Year Type,japan,Pedestal (Casement),140-bg-3rd-year-type,1,20,http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.php
 139-ag-model-1887,139,139mm/45 Model 1887,france,Armored Gunhouse,139-bg-model-1888,2,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
 139-gs-model-1893,139,139mm/45 Model 1893,france,Central Pivot (Gun Shield),139-bg-model-1888,1,25,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
@@ -495,6 +495,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 130-c-p1913,130,130mm/54 Pattern 1913,russia,Pedestal (Casement),130-bg-p1913,1,20,http://www.navweaps.com/Weapons/WNRussian_51-55_m1913.php#Mount%2FTurret_Data
 130-ag-m1932-quad,130,130mm/45 Model 1932 Quad,france,Armored Gunhouse,130-bg-m1932,4,75,http://www.navweaps.com/Weapons/WNFR_51-45_m1932.php
 130-ag-m1932-double,130,130mm/45 Model 1932 Double,france,Armored Gunhouse,130-bg-m1932,2,75,http://www.navweaps.com/Weapons/WNFR_51-45_m1932.php
+130-ag-b-2lm,130,130mm/50 B-2LM,russia,Armored Gunhouse,130-bg-b13-p1936,2,45,https://www.navweaps.com/Weapons/WNRussian_51-50_m1936.php#Mount%2FTurret_Data
 127-gs-a1,127,12.7cm/40 A1,japan,Central Pivot (Gun Shield),127-bg-type-89,2,90,http://www.navweaps.com/Weapons/WNJAP_5-40_t89.php
 127-cp-a1,127,12.7cm/40 A1,japan,Central Pivot,127-bg-type-89,2,90,http://www.navweaps.com/Weapons/WNJAP_5-40_t89.php
 127-ag-a1-mod3,127,12.7cm/40 A1 Mod 3,japan,Armored Gunhouse,127-bg-type-89,2,90,http://www.navweaps.com/Weapons/WNJAP_5-40_t89.php
@@ -514,22 +515,27 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 127-ag-mk32,127,"5""/38 Mark 32",usa,Armored Gunhouse,127-bg-mk12-hoist,2,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
 127-ag-mk28,127,"5""/38 Mark 28",usa,Armored Gunhouse,127-bg-mk12-hoist,2,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
 127-ag-mk22,127,"5""/38 Mark 22",usa,Armored Gunhouse,127-bg-mk12-hoist,2,35,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
+127-cp-mk30-mod80,127,"5""/38 Mark 30 Mod 80",usa,Central Pivot,127-bg-mk12-hoist,1,27,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
 127-cp-mk30-mod8,127,"5""/38 Mark 30 Mod 8",usa,Central Pivot,127-bg-mk12-hoist,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
 127-cp-mk30-mod1,127,"5""/38 Mark 30 Mod 1",usa,Central Pivot,127-bg-mk12-hoist,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
 127-ag-mk30-mod0,127,"5""/38 Mark 30 Mod 0",usa,Armored Gunhouse,127-bg-mk12-hoist,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
 127-ag-mk25,127,"5""/38 Mark 25",usa,Armored Gunhouse,127-bg-mk12-hoist,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
-127-cp-mk30-mod80,127,"5""/38 Mark 30 Mod 80",usa,Central Pivot,127-bg-mk12-hoist,1,27,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
 127-p-mk24,127,"5""/38 Mark 24",usa,Central Pivot,127-bg-mk12,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
 127-p-mk21,127,"5""/38 Mark 21",usa,Central Pivot,127-bg-mk12,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
 127-gs-mk21,127,"5""/38 Mark 21",usa,Central Pivot (Gun Shield),127-bg-mk12,1,85,http://www.navweaps.com/Weapons/WNUS_5-38_mk12.php#Mount%2FTurret_Data
+127-p-mk40,127,"5""/25 Mark 40",usa,Central Pivot,127-bg-mk10,1,40,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
 127-p-mk23,127,"5""/25 Mark 23",usa,Central Pivot,127-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
 127-p-mk19,127,"5""/25 Mark 19",usa,Central Pivot,127-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
 127-gs-mk19,127,"5""/25 Mark 19",usa,Central Pivot (Gun Shield),127-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
-127-p-mk40,127,"5""/25 Mark 40",usa,Central Pivot,127-bg-mk10,1,40,http://www.navweaps.com/Weapons/WNUS_5-25_mk10.php#Mount%2FTurret_Data
 127-piv-mk1,127,"5""/31 Mark 1",usa,Pivot,127-bg-mk1,1,12,http://www.navweaps.com/Weapons/WNUS_5-31_mk1.php#Mount%2FTurret_Data
 127-ag-m1948,127,127mm/54 Model 1948,france,Armored Gunhouse,127-bg-m1948,2,80,http://www.navweaps.com/Weapons/WNFR_5-54_m1948.php#Mount%2FTurret_Data
 127-piv-vbi,127,"5""/25 VBI",britain,Pivot,127-bg-bl-marki,1,15,http://www.navweaps.com/Weapons/WNBR_5-25_mk1.php#Mount%2FTurret_Data
 127-gs-vbi,127,"5""/25 VBI",britain,Central Pivot (Gun Shield),127-bg-bl-marki,1,15,http://www.navweaps.com/Weapons/WNBR_5-25_mk1.php#Mount%2FTurret_Data
+127-ag-3rd-year-type-c,127,12.7cm/50 3rd Year Type C,japan,Armored Gunhouse,127-bg-3rd-year-type-b,2,55,https://www.navweaps.com/Weapons/WNJAP_5-50_3ns.php#Mount%2FTurret_Data
+127-ag-3rd-year-type-b,127,12.7cm/50 3rd Year Type B,japan,Armored Gunhouse,127-bg-3rd-year-type-b,2,75,https://www.navweaps.com/Weapons/WNJAP_5-50_3ns.php#Mount%2FTurret_Data
+127-ag-3rd-year-type-b-single,127,12.7cm/50 3rd Year Type B (Single),japan,Armored Gunhouse,127-bg-3rd-year-type-b,1,55,https://www.navweaps.com/Weapons/WNJAP_5-50_3ns.php#Mount%2FTurret_Data
+127-ag-3rd-year-type-a-single,127,12.7cm/50 3rd Year Type A (Single),japan,Armored Gunhouse,127-bg-3rd-year-type-b,1,75,https://www.navweaps.com/Weapons/WNJAP_5-50_3ns.php#Mount%2FTurret_Data
+127-ag-3rd-year-type-a,127,12.7cm/50 3rd Year Type A,japan,Armored Gunhouse,127-bg-3rd-year-type-a,2,40,https://www.navweaps.com/Weapons/WNJAP_5-50_3ns.php#Mount%2FTurret_Data
 121-car-ml-12pdr,121,121mm/19 12-pdr,france,Carriage,121-ml-12pdr,1,,
 120-ag-vickers-bl,120,120mm/50 Vickers BL Twin Turret,italy,Armored Gunhouse,120-bg-vickers-bl,2,15,https://en.wikipedia.org/wiki/Conte_di_Cavour-class_battleship#cite_note-c12-15
 120-c-vickers-bl,120,120mm/50 Vickers BL,italy,Pedestal (Casement),120-bg-vickers-bl,1,15,https://en.wikipedia.org/wiki/Conte_di_Cavour-class_battleship#cite_note-c12-15
@@ -558,6 +564,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 120-gs-armstrong-p,120,"4.7""/40 Armstrong P",japan,Pedestal (Gun Shield),120-bg-armstrong-p,1,20,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-c-armstrong-p,120,"4.7""/40 Armstrong P",japan,Pedestal (Casement),120-bg-armstrong-p,1,20,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-piv-armstrong-m,120,"4.7""/32 Armstrong M",britain,Pivot,120-bg-armstrong-m,1,,Identification of the Parameters of Naval Artillery
+120-gs-3rd-year-g,120,12cm/45 3rd Year Type G,japan,Pedestal (Gun Shield),120-bg-3rd-year-type,1,33,https://www.navweaps.com/Weapons/WNJAP_47-45_11ns.php#Mount%2FTurret_Data
 120-cp-10th-year-a2,120,12cm/45 10th Year Type A2,japan,Central Pivot,120-bg-10th-year-type,2,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php#Mount%2FTurret_Data
 120-ag-10th-year-a2,120,12cm/45 10th Year Type A2,japan,Armored Gunhouse,120-bg-10th-year-type,2,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php#Mount%2FTurret_Data
 120-p-10th-year-b2,120,12cm/45 10th Year Type B2,japan,Pedestal,120-bg-10th-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_47-45_10ns.php#Mount%2FTurret_Data
@@ -582,8 +589,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 102-cp-twin-ha-markxix,102,"4""/45 Twin HA Mark XIX",britain,Central Pivot (Gun Shield),102-bg-qf-markxvi,2,80,http://www.navweaps.com/Weapons/WNBR_4-45_mk16.php#Mount%2FTurret_Data
 102-ag-twin-hala-bd-markxviii,102,"4""/45 Twin HA/LA BD Mark XVIII",britain,Armored Gunhouse,102-bg-qf-markxv,2,85,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php#Mount%2FTurret_Data
 102-gs-markxxiii,102,"4""/40 CP Mark XXIII",britain,Central Pivot (Gun Shield),102-bg-qf-markxix,1,60,http://www.navweaps.com/Weapons/WNBR_4-40_mk19.php#Mount%2FTurret_Data
-102-cp-ha-markiii,102,"4""/45 HA Mark III",britain,Central Pivot,102-bg-qf-markv,1,80,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php#Mount%2FTurret_Data
 102-gs-pxi,102,"4""/45 PXI",britain,Pedestal (Gun Shield),102-bg-qf-markv,1,20,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php#Mount%2FTurret_Data
+102-cp-ha-markiii,102,"4""/45 HA Mark III",britain,Central Pivot,102-bg-qf-markv,1,80,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php#Mount%2FTurret_Data
 102-p-pix,102,"4""/40 PIX",britain,Pedestal,102-bg-qf-markiv,1,20,http://www.navweaps.com/Weapons/WNBR_4-40_mk4.php#Mount%2FTurret_Data
 102-gs-pi,102,"4""/40 PI",britain,Pedestal (Gun Shield),102-bg-qf-marki,1,20,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
 102-cp-pi*,102,"4""/40 PI*",britain,Pedestal (Casement),102-bg-qf-marki,1,20,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
@@ -596,10 +603,10 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 102-c-mk4,102,"4""/40 Mark 4",usa,Pedestal (Casement),102-bg-mk1,1,20,http://www.navweaps.com/Weapons/WNUS_4-40_mk1.php
 102-p-m1914-aa,102,102mm/35 Model 1914-1915 AA,italy,Pedestal,102-bg-m1914,1,85,http://www.navweaps.com/Weapons/WNIT_4-35_m1914.php#Mount%2FTurret_Data
 102-p-m1914,102,102mm/35 Model 1914-1915,italy,Pedestal,102-bg-m1914,1,45,http://www.navweaps.com/Weapons/WNIT_4-35_m1914.php#Mount%2FTurret_Data
-102-gs-ha-markii,102,"4""/50 HA Mark II",britain,Central Pivot (Gun Shield),102-bg-bl-markvii,1,60,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php#Mount%2FTurret_Data
-102-cp-ha-markii,102,"4""/50 HA Mark II",britain,Central Pivot,102-bg-bl-markvii,1,60,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php#Mount%2FTurret_Data
 102-gs-pii,102,"4""/50 PII",britain,Pedestal (Gun Shield),102-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php#Mount%2FTurret_Data
+102-gs-ha-markii,102,"4""/50 HA Mark II",britain,Central Pivot (Gun Shield),102-bg-bl-markvii,1,60,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php#Mount%2FTurret_Data
 102-cp-pii,102,"4""/50 PII",britain,Pedestal,102-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php#Mount%2FTurret_Data
+102-cp-ha-markii,102,"4""/50 HA Mark II",britain,Central Pivot,102-bg-bl-markvii,1,60,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php#Mount%2FTurret_Data
 102-c-pii,102,"4""/50 PII",britain,Pedestal (Casement),102-bg-bl-markvii,1,15,http://www.navweaps.com/Weapons/WNBR_4-50_mk7.php#Mount%2FTurret_Data
 102-gs-ti-marki,102,"4""/45 T.I. Mark I",britain,Central Pivot (Gun Shield),102-bg-bl-markix,3,30,http://www.navweaps.com/Weapons/WNBR_4-45_mk9.php
 102-gs-cpi*,102,"4""/45 CPI*",britain,Central Pivot (Casement),102-bg-bl-markix,1,30,http://www.navweaps.com/Weapons/WNBR_4-45_mk9.php
@@ -613,8 +620,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 100-ag-m1953,100,100mm/55 Model 1953,france,Armored Gunhouse,100-bg-m1953,1,90,http://www.navweaps.com/Weapons/WNFR_39-55_m1953.php#Mount%2FTurret_Data
 100-ag-cad-m1945,100,100mm/55 CAD Model 1945,france,Armored Gunhouse,100-bg-m1945,2,70,http://www.navweaps.com/Weapons/WNFR_39-55_m1945.php
 100-gs-m1937,100,100mm/47 OTO Model 1937,italy,Central Pivot (Gun Shield),100-bg-m1931,1,60,http://www.navweaps.com/Weapons/WNIT_39-47_m1931.php#Mount%2FTurret_Data
-100-ag-m1937-bb,100,100mm/45 Model 1937,france,Armored Gunhouse,100-bg-m1930-bb,2,90,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php#Mount%2FTurret_Data
 100-cp-m1931-bb,100,100mm/45 Model 1931,france,Central Pivot,100-bg-m1930-bb,2,80,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php#Mount%2FTurret_Data
+100-ag-m1937-bb,100,100mm/45 Model 1937,france,Armored Gunhouse,100-bg-m1930-bb,2,90,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php#Mount%2FTurret_Data
 100-gs-m1931,100,100mm/45 Model 1931,france,Central Pivot (Gun Shield),100-bg-m1930,2,80,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php#Mount%2FTurret_Data
 100-gs-m1927,100,100mm/45 Model 1924,france,Central Pivot (Gun Shield),100-bg-m1927,1,85,http://www.navweaps.com/Weapons/WNFR_39-45_m1927.php#Mount%2FTurret_Data
 100-cp-m1927,100,100mm/45 Model 1924,france,Central Pivot,100-bg-m1927,1,85,http://www.navweaps.com/Weapons/WNFR_39-45_m1927.php#Mount%2FTurret_Data
@@ -627,7 +634,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 100-p-m1881,100,100mm/26 Model 1881,france,Pedestal,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 100-gs-m1881,100,100mm/26 Model 1881,france,Pedestal (Gun Shield),100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 100-cp-m1881,100,100mm/26 Model 1881,france,Central Pivot,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
-100-c-k10,100,10cm/47 L/50 K.10,ahn,Central Pivot (Casement),100-bg-k10,1,18,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Mount%2FTurret_Data
+100-c-k10,100,10cm/47 L/50 K.10,austria_hungary,Central Pivot (Casement),100-bg-k10,1,18,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Mount%2FTurret_Data
 100-sm-cm5,100,100mm/70 CM-5,russia,Stabalized Mount,100-bg-cm5,2,85,http://www.navweaps.com/Weapons/WNRussian_39-70_cm5.php#Mount%2FTurret_Data
 100-ag-mz-14,100,100mm/54 MZ-14,russia,Armored Gunhouse,100-bg-b34-p1940,2,85,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php#Mount%2FTurret_Data
 100-gs-b34usm,100,100mm/54 B-34-USM,russia,Central Pivot (Gun Shield),100-bg-b34-p1940,1,85.5,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php#Mount%2FTurret_Data
@@ -644,10 +651,10 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 88-gs,88,88cm/32 CP,germany,Pedestal (Gun Shield),88-bg-sk-l35,1,25,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
 88-cp,88,88cm/32 CP,germany,Pedestal,88-bg-sk-l35,1,25,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
 88-c,88,88cm/32 CP,germany,Pedestal (Casement),88-bg-sk-l35,1,25,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
+88-piv-sk-l30,88,8.8cm/27 SK L/30,germany,Pivot,88-bg-sk-l30,1,,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-p-ubts-l,88,8.8cm/27 Ubts.L,germany,Pedestal,88-bg-sk-l30,1,30,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-gs-mpl-c89,88,8.8cm/27 MPL C/89,germany,Pedestal (Gun Shield),88-bg-sk-l30,1,20,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-c-mpl-c89,88,8.8cm/27 MPL C/89,germany,Pedestal (Casement),88-bg-sk-l30,1,20,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
-88-piv-sk-l30,88,8.8cm/27 SK L/30,germany,Pivot,88-bg-sk-l30,1,,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-cp-doppl-c31,88,8.8cm/72 Dopp L. C/31,germany,Stabalized Mount,88-bg-sk-c31,2,80,http://www.navweaps.com/Weapons/WNGER_88mm-78_skc31.php#Mount_%2F_Turret_Data
 88-cp-flak-lm41,88,8.8cm/45 Flak LM41,germany,Central Pivot,88-bg-sk-c30,1,75,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc30.php#Mount_%2F_Turret_Data
 88-cp-doppl-c25,88,8.8cm/72 Dop. L. C/25,germany,Stabalized Mount,88-bg-sk-c25,2,85,http://www.navweaps.com/Weapons/WNGER_88mm-75_skc25.php#Mount_%2F_Turret_Data
@@ -660,11 +667,13 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 76-p-v1909-aa,76,76mm/50 Model 1909 AA,italy,Pedestal,76-bg-v1909-aa,1,,http://www.navweaps.com/Weapons/WNIT_3-50_m1909.php
 76-p-v1909,76,76mm/50 Model 1909,italy,Pedestal,76-bg-v1909,1,20,http://www.navweaps.com/Weapons/WNIT_3-50_m1909.php
 76-gs-type-a,76,8 cm/60 Type A,japan,Central Pivot (Gun Shield),76-bg-type-98,2,90,http://www.navweaps.com/Weapons/WNJAP_3-60_t98.php
+76-p-short-gun,76,"3""/25 Type I",japan,Pedestal,76-bg-short-gun,1,,https://www.navweaps.com/Weapons/WNJAP_3-25_Short.php#Mount%2FTurret_Data
 76-car-rbl-12pdr-8cwt,76,76mm/20 RBL 12-pdr 8 cwt,britain,Carriage,76-bg-rbl-12pdr-8cwt,1,,https://en.wikipedia.org/wiki/RBL_12-pounder_8_cwt_Armstrong_gun#United_Kingdom_service
 76-cp-p1914-aa,76,76.2mm/30 Pattern 1914/15 AA,russia,Central Pivot,76-bg-p1914-8k,1,65,http://www.navweaps.com/Weapons/WNRussian_3-30_Lender.php#Mount%2FTurret_Data
 76-ag-mmi-single,76,76mm/62 M.M.I. (Single),italy,Armored Gunhouse,76-bg-mmi,1,85,http://www.navweaps.com/Weapons/WNIT_3-62_MMI.php#Mount%2FTurret_Data
 76-p-mk7,76,"3""/50 Mark 7",usa,Pedestal,76-bg-mk5,1,15,http://www.navweaps.com/Weapons/WNUS_3-50_mk2.php
 76-ag-mk37,76,"3""/70 Mark 37",usa,Armored Gunhouse,76-bg-mk26,2,90,http://www.navweaps.com/Weapons/WNUS_3-70_mk37.php#Mount%2FTurret_Data
+76-gs-mk33,76,"3""/50 Mark 33",usa,Central Pivot (Gun Shield),76-bg-mk22,2,85,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php#Mount%2FTurret_Data
 76-cp-mk27,76,"3""/50 Mark 27",usa,Central Pivot,76-bg-mk22,2,85,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php#Mount%2FTurret_Data
 76-ag-mk33,76,"3""/50 Mark 33",usa,Armored Gunhouse,76-bg-mk22,2,85,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php#Mount%2FTurret_Data
 76-cp-mk34,76,"3""/50 Mark 34",usa,Central Pivot,76-bg-mk22,1,85,http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.php#Mount%2FTurret_Data
@@ -676,19 +685,19 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 76-cp-mk11,76,"3""/50 Mark 11",usa,Central Pivot,76-bg-mk10,1,85,http://www.navweaps.com/Weapons/WNUS_3-50_mk10-22.php#Mount%2FTurret_Data
 76-sg-mark-6,76,"3""/70 Mark 6",britain,Stabalized Gunhouse,76-bg-mark6,2,90,http://www.navweaps.com/Weapons/WNBR_3-70_mk6.php#Mount%2FTurret_Data
 76-p-rm-m1916,76,76mm/40 Model 1916,italy,Pedestal,76-bg-m1916,1,65,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
-76-p-elswick-n,76,12-pdr/40 Elswick N,britain,Pedestal,76-bg-elswick-n,1,,http://navypedia.org/arms/italy/arms_it_guns.htm
-76-gs-elswick-n,76,12-pdr/40 Elswick N,britain,Pedestal (Gun Shield),76-bg-elswick-n,1,,http://navypedia.org/arms/italy/arms_it_guns.htm
-76-c-elswick-n,76,12-pdr/40 Elswick N,britain,Pedestal (Casement),76-bg-elswick-n,1,,http://navypedia.org/arms/italy/arms_it_guns.htm
+76-p-elswick-n,76,12-pdr/40 Elswick N,britain,Pedestal,76-bg-elswick-n,1,,https://www.navweaps.com/Weapons/WNBR_3-40_mk1.php#Mount%2FTurret_Data
+76-gs-elswick-n,76,12-pdr/40 Elswick N,britain,Pedestal (Gun Shield),76-bg-elswick-n,1,,https://www.navweaps.com/Weapons/WNBR_3-40_mk1.php#Mount%2FTurret_Data
+76-c-elswick-n,76,12-pdr/40 Elswick N,britain,Pedestal (Casement),76-bg-elswick-n,1,,https://www.navweaps.com/Weapons/WNBR_3-40_mk1.php#Mount%2FTurret_Data
 76-at-compact,76,76mm/62 Compact,italy,Automated Turret,76-bg-compact,1,85,http://www.navweaps.com/Weapons/WNUS_3-62_mk75.php#Mount%2FTurret_Data
 76-p-a1917,76,"3""/40 Ansaldo 1917",italy,Pedestal,76-bg-a1906,1,75,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
-76-cp-rm1916,76,"3""/40 RM1916",italy,Central Pivot,76-bg-a1906,1,65,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-p-a1909,76,"3""/40 Armstrong 1909",italy,Pedestal,76-bg-a1906,1,42,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-gs-a1909,76,"3""/40 Armstrong 1909",italy,Pedestal (Gun Shield),76-bg-a1906,1,42,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-cp-rm1916,76,"3""/40 RM1916",italy,Central Pivot,76-bg-a1906,1,65,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-c-a1909,76,"3""/40 Armstrong 1909",italy,Pedestal (Casement),76-bg-a1906,1,42,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-p-9pdr-armstrong,76,9-pdr/19 Armstrong,britain,Pedestal,76-bg-9pdr-armstrong,1,,Identification of the Parameters of Naval Artillery
-76-cp-41st-year,76,8cm/40 41st Year Type,japan,Central Pivot,76-bg-41st-year,1,75,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-p-41st-year,76,8cm/40 41st Year Type,japan,Pedestal,76-bg-41st-year,1,20,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-gs-41st-year,76,8cm/40 41st Year Type,japan,Pedestal (Gun Shield),76-bg-41st-year,1,20,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-cp-41st-year,76,8cm/40 41st Year Type,japan,Central Pivot,76-bg-41st-year,1,75,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-c-41st-year,76,8cm/40 41st Year Type,japan,Pedestal (Casement),76-bg-41st-year,1,20,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-p-3rd-year,76,8cm/40 3rd Year Type,japan,Pedestal,76-bg-3rd-year-type,1,75,http://www.navweaps.com/Weapons/WNJAP_3-40_3ns.php
 76-gs-81k,76,76.2mm/55 81-K,russia,Pedestal (Gun Shield),76-bg-34k-p1935,2,85,http://www.navweaps.com/Weapons/WNRussian_3-55_m1935.php#Mount%2FTurret_Data
@@ -700,19 +709,19 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 76-p-piv,76,12-pdr/50 PIV,britain,Pedestal,76-bg-18-qf-marki,1,20,http://www.navweaps.com/Weapons/WNBR_3-50_mk1.php
 76-p-markii,76,14-pdr/50 Mark II,britain,Pedestal,76-bg-14-qf-markii,1,30,https://en.wikipedia.org/wiki/QF_14-pounder_naval_gun_Mk_I_%26_II
 76-p-marki,76,14-pdr/50 Mark I,britain,Pedestal,76-bg-14-qf-marki,1,30,https://en.wikipedia.org/wiki/QF_14-pounder_naval_gun_Mk_I_%26_II
-76-gs-ha-viii,76,12-pdr/40 HA VIII,britain,Central Pivot (Gun Shield),76-bg-12-qf-marki,1,90,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
-76-p-ha,76,12-pdr/40 HA,britain,Pedestal,76-bg-12-qf-marki,1,70,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-p-pi,76,12-pdr/40 PI,britain,Central Pivot,76-bg-12-qf-marki,1,30,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-p-ha,76,12-pdr/40 HA,britain,Pedestal,76-bg-12-qf-marki,1,70,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-gs-pi,76,12-pdr/40 PI,britain,Central Pivot (Gun Shield),76-bg-12-qf-marki,1,30,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-gs-ha-viii,76,12-pdr/40 HA VIII,britain,Central Pivot (Gun Shield),76-bg-12-qf-marki,1,90,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-c-pi,76,12-pdr/40 PI,britain,Central Pivot (Casement),76-bg-12-qf-marki,1,30,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 75-cp-ein-lc34,75,7.5cm/36 Ein L C/34,germany,Central Pivot,75-bg-sk-c34,1,80,http://www.navweaps.com/Weapons/WNGER_3-36_skc34.php#Mount_%2F_Turret_Data
-75-cp-osz-m1916,75,75mm/48.2 OSZ mod 1916,russia,Central Pivot,75-bg-p1892,1,70,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
-75-c-m1906,75,75mm/48.2 Casement mod 1906,russia,Central Pivot (Casement),75-bg-p1892,1,25,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-p-p1906,75,75mm/48.2 Pattern 1906,russia,Pedestal,75-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-p-osz-m1911,75,75mm/48.2 OSZ mod 1911,russia,Pedestal,75-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-p-canet,75,75mm/48.2 Canet,russia,Pedestal,75-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-gs-osz-m1911,75,75mm/48.2 OSZ mod 1911,russia,Pedestal (Gun Shield),75-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-gs-canet,75,75mm/48.2 Canet,russia,Pedestal (Gun Shield),75-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
+75-cp-osz-m1916,75,75mm/48.2 OSZ mod 1916,russia,Central Pivot,75-bg-p1892,1,70,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
+75-c-m1906,75,75mm/48.2 Casement mod 1906,russia,Central Pivot (Casement),75-bg-p1892,1,25,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-c-canet,75,75mm/48.2 Canet,russia,Pedestal (Casement),75-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-cp-mark6,75,7.5cm/55 Mark 6,netherlands,Central Pivot,75-bg-mark6,1,95,http://www.navweaps.com/Weapons/WNNeth_3-55_mk6.php#Mount%2FTurret_Data
 75-gs-m1922,75,75mm/50 Model 1922,france,Central Pivot (Gun Shield),75-bg-m1922,1,90,http://www.navweaps.com/Weapons/WNFR_3-50_m1922.php
@@ -721,12 +730,12 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 75-p-m1908,75,75mm/62.5 Model 1908 AA,france,Pedestal,75-bg-m1908,1,70,http://www.navweaps.com/Weapons/WNFR_3-62_m1908.php
 75-c-m1908,75,75mm/62.5 Model 1908,france,Pedestal (Casement),75-bg-m1908,1,25,http://www.navweaps.com/Weapons/WNFR_3-62_m1908.php
 75-p-m1897,75,75mm/36 Model 1897 G,france,Pedestal,75-bg-m1897,1,70,https://en.wikipedia.org/wiki/Canon_de_75_mod%C3%A8le_1897
-66-p-sfk-l45,66,7cm/42 SFK L/45,ahn,Pedestal,66-bg-sfk-l45,1,20,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
-66-p-l18-aa,66,7cm/16 L/18 AA,ahn,Pedestal,66-bg-l18,1,90,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
-66-p-l18,66,7cm/16 L/18,ahn,Pedestal,66-bg-l18,1,20,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
-66-p-k16,66,7cm/50 L/50 K.16,ahn,Pedestal,66-bg-k10,1,90,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
-66-p-k10,66,7cm/50 L/50 K.10,ahn,Pedestal,66-bg-k10,1,20,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
-66-p-g-bag,66,7cm/45 G. L/45 BAG,ahn,Pedestal,66-bg-g-bag,1,90,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
+66-p-sfk-l45,66,7cm/42 SFK L/45,austria_hungary,Pedestal,66-bg-sfk-l45,1,20,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
+66-p-l18-aa,66,7cm/16 L/18 AA,austria_hungary,Pedestal,66-bg-l18,1,90,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
+66-p-l18,66,7cm/16 L/18,austria_hungary,Pedestal,66-bg-l18,1,20,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
+66-p-k16,66,7cm/50 L/50 K.16,austria_hungary,Pedestal,66-bg-k10,1,90,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
+66-p-k10,66,7cm/50 L/50 K.10,austria_hungary,Pedestal,66-bg-k10,1,20,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_K10
+66-p-g-bag,66,7cm/45 G. L/45 BAG,austria_hungary,Pedestal,66-bg-g-bag,1,90,https://en.wikipedia.org/wiki/%C5%A0koda_7_cm_guns
 65-cp-m1939,65,65mm/64 Model 1939,italy,Central Pivot (Gun Shield),65-bg-m1939,1,80,http://www.navweaps.com/Weapons/WNIT_65mm-64_m1939.php#Mount%2FTurret_Data
 65-p-m1902-aa,65,65mm/50 Model 1902,france,Pedestal,65-bg-m1902,1,70,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
 65-p-m1902,65,65mm/50 Model 1902,france,Pedestal,65-bg-m1902,1,20,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
@@ -738,9 +747,9 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 57-p-n1885,57,57mm/43 Nordenfelt Model 1887,sweden,Pedestal,57-bg-n1885,1,15,http://navypedia.org/arms/italy/arms_it_guns.htm
 57-p-mk1,57,6-pdr Hotchkiss Mark 1,usa,Pedestal,57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 57-p-markic-ha,57,6-pdr Mark IC HA,britain,Pedestal,57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php#Mount%2FTurret_Data
-57-gs-mk1,57,6-pdr Hotchkiss Mark 1,usa,Pedestal (Gun Shield),57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 57-p-marki-recoil,57,6-pdr Mark I Recoil,britain,Pedestal,57-bg-mk1,1,25,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php#Mount%2FTurret_Data
 57-p-h,57,6-pdr H,italy,Pedestal,57-bg-mk1,1,25,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php#Mount%2FTurret_Data
+57-gs-mk1,57,6-pdr Hotchkiss Mark 1,usa,Pedestal (Gun Shield),57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 57-gs-marki-recoil,57,6-pdr Mark I Recoil,britain,Pedestal (Gun Shield),57-bg-mk1,1,25,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php#Mount%2FTurret_Data
 57-gs-h,57,6-pdr H,italy,Pedestal (Gun Shield),57-bg-mk1,1,25,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php#Mount%2FTurret_Data
 57-p-d-s-mark8,57,6-pdr/45 Driggs-Schroeder Mark 8,usa,Pedestal,57-bg-d-s-mark8,1,38,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php#Mount%2FTurret_Data
@@ -752,8 +761,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 47-p-yamanouchi-mk1,47,2.5-pdr Yamanouchi Mark 1,japan,Pedestal (Gun Shield),47-bg-yamanouchi-mk1,1,20,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Japanese_service
 47-p-markiii-ha,47,3-pdr Vickers Mark III HA,britain,Pedestal,47-bg-vickers-qf-mark1,1,80,http://www.navweaps.com/Weapons/WNBR_3pounder_V_mk1.php#Mount%2FTurret_Data
 47-p-marki-la,47,3-pdr Vickers Mark I LA,britain,Pedestal,47-bg-vickers-qf-mark1,1,30,http://www.navweaps.com/Weapons/WNBR_3pounder_V_mk1.php#Mount%2FTurret_Data
-47-p-sfk-l44,47,47mm/40 SFK L/44,ahn,Pedestal,47-bg-sfk-l44,1,20,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Austro-Hungarian_service
-47-p-sfk-l33,47,47mm/30 SFK L/33,ahn,Pedestal,47-bg-sfk-l33,1,20,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Austro-Hungarian_service
+47-p-sfk-l44,47,47mm/40 SFK L/44,austria_hungary,Pedestal,47-bg-sfk-l44,1,20,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Austro-Hungarian_service
+47-p-sfk-l33,47,47mm/30 SFK L/33,austria_hungary,Pedestal,47-bg-sfk-l33,1,20,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#Austro-Hungarian_service
 47-p-revolver-m1885,47,47mm/20 Hotchkiss Revolving Cannon Model 1885,france,Pedestal,47-bg-revolver-m1885,1,,https://en.wikipedia.org/wiki/Hotchkiss_gun
 47-p-markv-ha,47,3-pdr Hotchkiss Mark V HA,britain,Pedestal,47-bg-qf-mark1,1,70,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php#Mount%2FTurret_Data
 47-p-markiv-ha,47,3-pdr Hotchkiss Mark IV HA,britain,Pedestal,47-bg-qf-mark1,1,60,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php#Mount%2FTurret_Data
@@ -761,13 +770,13 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 47-gs-marki,47,3-pdr Hotchkiss Mark I,britain,Pedestal (Gun Shield),47-bg-qf-mark1,1,25,http://www.navweaps.com/Weapons/WNBR_3pounder_H_mk1.php#Mount%2FTurret_Data
 47-p-mk1-gatling,47,3-pdr Hotchkiss Mark 1 Gatling,usa,Pedestal,47-bg-mk1-gatling,1,50,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php#Mount%2FTurret_Data
 47-p-mk1,47,3-pdr Hotchkiss Mark 1,usa,Pedestal,47-bg-mk1,1,50,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php#Mount%2FTurret_Data
-47-p-m1902-ha,47,47mm/50 Model 1902 HA,france,Pedestal,47-bg-m1902,1,75,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
 47-p-v1908,47,47mm/50 V1908,italy,Pedestal,47-bg-m1902,1,30,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
 47-p-m1902-la,47,47mm/50 Model 1902 LA,france,Pedestal,47-bg-m1902,1,30,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
+47-p-m1902-ha,47,47mm/50 Model 1902 HA,france,Pedestal,47-bg-m1902,1,75,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
 47-p-m1886,47,3-pdr Hotchkiss M1886,italy,Pedestal,47-bg-m1886,1,25,http://navypedia.org/arms/italy/arms_it_guns.htm
 47-p-m1885,47,47mm/40 Model 1885,france,Pedestal,47-bg-m1885,1,20,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss
-47-p-aa,47,47mm/40 AA,russia,Pedestal,47-bg-hotchkiss,1,85,http://www.navweaps.com/Weapons/WNRussian_47mm_Hotchkiss.php#Mount%2FTurret_Data
 47-p-h,47,47mm/40 H,italy,Pedestal,47-bg-hotchkiss,1,25,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss
+47-p-aa,47,47mm/40 AA,russia,Pedestal,47-bg-hotchkiss,1,85,http://www.navweaps.com/Weapons/WNRussian_47mm_Hotchkiss.php#Mount%2FTurret_Data
 47-p-1,47,47mm/40 /1,russia,Pedestal,47-bg-hotchkiss,1,25,http://www.navweaps.com/Weapons/WNRussian_47mm_Hotchkiss.php#Mount%2FTurret_Data
 47-p-d-s,47,3-pdr/45 Mark 2,usa,Pedestal,47-bg-d-s,1,50,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php#Mount%2FTurret_Data
 45-cp-21k,45,45mm/46 21-K,russia,Pedestal,45-sa-21k,1,85,http://www.navweaps.com/Weapons/WNRussian_45mm-46.php#Mount%2FTurret_Data
@@ -810,12 +819,12 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 37-cp-70k,37,37mm/63 70-K,russia,Central Pivot,37-mg-70k,1,85,http://www.navweaps.com/Weapons/WNRussian_37mm-67_70-K.php#Mount%2FTurret_Data
 37-p-rv-l30,37,3.7cm/27 RV L/30,germany,Pedestal,37-bg-rv-l30,1,25,
 37-p-revolver,37,37mm/20 /5,france,Pedestal,37-bg-revolver,1,25,http://www.navweaps.com/Weapons/WNRussian_37mm_Hotchkiss.php
-37-gs-h-corto,37,37mm/20 H corto,italy,Pedestal,37-bg-revolver,1,25,http://www.navweaps.com/Weapons/WNRussian_37mm_Hotchkiss.php
 37-p-mk1-gatling,37,37mm/20 Mark 1 Gatlling,usa,Pedestal,37-bg-revolver,1,15,http://www.navweaps.com/Weapons/WNUS_3pounder_m1.php#Mount%2FTurret_Data
+37-gs-h-corto,37,37mm/20 H corto,italy,Pedestal,37-bg-revolver,1,25,http://www.navweaps.com/Weapons/WNRussian_37mm_Hotchkiss.php
 37-p-mk7,37,1-pdr Mark 7,usa,Pedestal,37-bg-mk7,1,70,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php#Mount%2FTurret_Data
 37-p-mk6,37,1-pdr Mark 3,usa,Pedestal,37-bg-mk3,1,40,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php#Mount%2FTurret_Data
-37-p-marki-aa,37,1.5-pdr/43 Mark I,ahn,Pedestal,37-bg-marki,1,80,http://www.navweaps.com/Weapons/WNBR_1-5pounder_m1.php
-37-p-marki,37,1.5-pdr/43 Mark I,ahn,Pedestal,37-bg-marki,1,20,http://www.navweaps.com/Weapons/WNBR_1-5pounder_m1.php
+37-p-marki-aa,37,1.5-pdr/43 Mark I,austria_hungary,Pedestal,37-bg-marki,1,80,http://www.navweaps.com/Weapons/WNBR_1-5pounder_m1.php
+37-p-marki,37,1.5-pdr/43 Mark I,austria_hungary,Pedestal,37-bg-marki,1,20,http://www.navweaps.com/Weapons/WNBR_1-5pounder_m1.php
 37-ag-cad-m1935,37,37mm/50 CAD Model 1935,france,Armored Gunhouse,37-bg-m1933,4,80,http://www.navweaps.com/Weapons/WNFR_37-50_cail_m1933.php#Mount%2FTurret_Data
 37-cp-cad-m1933,37,37mm/50 CAD Model 1933,france,Central Pivot,37-bg-m1933,2,80,http://www.navweaps.com/Weapons/WNFR_37-50_cail_m1933.php#Mount%2FTurret_Data
 37-cp-m1925,37,37mm/50 CA/SMCA Model 1925,france,Pedestal,37-bg-m1924,1,80,http://www.navweaps.com/Weapons/WNFR_37-50_cail_m1933.php#Mount%2FTurret_Data
@@ -874,7 +883,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 12-p-bi-type,12.7,"12 mm/62 ""BI"" Type",japan,Pedestal,12-mg-bi-type,1,70,http://www.navweaps.com/Weapons/WNBR_5-62_mk3.php
 11-p-colt-1877-10,11.4,"0.45""/40.5 1877 Gatling Gun 10 Barrel",usa,Pedestal,11-mg-colt-1877-10,1,80,https://www.nramuseum.org/guns/the-galleries/robert-e-petersen-collection/gatlings/colt-gatling-us-navy-model-45-70-cal.aspx
 8-p-unknown,8,8mm Unknown Machinegun,unknown,Pedestal,8-mg-unknown,1,,
-8-p-m07-12,8,8mm/ Schwarzlose M.07/12,ahn,Pedestal,8-mg-m07-12,1,,https://en.wikipedia.org/wiki/Schwarzlose_machine_gun
+8-p-m07-12,8,8mm/ Schwarzlose M.07/12,austria_hungary,Pedestal,8-mg-m07-12,1,,https://en.wikipedia.org/wiki/Schwarzlose_machine_gun
 8-p-hotchkiss-m1914,8,8mm/98 Hotchkiss Mle 1914,france,Pedestal,8-mg-hotchkiss-m1914,1,,https://en.wikipedia.org/wiki/Hotchkiss_Mle_1914_machine_gun
 7-p-unknown,7.9,7.9mm/79 Unknown,unknown,Pedestal,7-p-unknown,1,,
 7-p-mg34,7.9,7.9mm/79 MG 34,germany,Pedestal,7-mg-mg34,1,70,https://en.wikipedia.org/wiki/MG_34
