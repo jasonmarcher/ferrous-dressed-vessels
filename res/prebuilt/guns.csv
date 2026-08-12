@@ -136,6 +136,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 102-bg-a1917,102mm/45 Armstrong Model 1917,"Armstrong 4""",britain,1917-01-01,102,45,2327,12,7,Breech,850,850,,http://www.navweaps.com/Weapons/WNIT_4-45_m1917.php
 102-bg-qf-markv,"4""/45 QF Mark V","Armstrong 4""",britain,1913-01-01,102,45,2172,15,10,Breech,805,805,200,http://www.navweaps.com/Weapons/WNBR_4-45_mk5.php
 102-bg-bl-markix,"4""/45 BL Mark IX","British 4""",britain,1913-01-01,102,45,2154,12,10,Breech,800,800,200,http://www.navweaps.com/Weapons/WNBR_4-45_mk9.php
+102-bg-bl-markviii,"4""/40 BL Mark VIII","British 4""",britain,1904-01-01,102,40,1317,8,6,Breech,697,697,,https://www.navweaps.com/Weapons/WNBR_4-40_mk8.php
 102-bg-qf-markxix,"4""/40 QF Mark XIX","British 4""",britain,1938-01-01,102,40,1309,15,15,Breech,396,396,160,http://www.navweaps.com/Weapons/WNBR_4-40_mk19.php
 102-bg-qf-markiv,"4""/40 QF Mark IV","British 4""",britain,1904-01-01,102,40,1245,13,10,Breech,722,0,100,http://www.navweaps.com/Weapons/WNBR_4-40_mk4.php
 102-bg-qf-marki,"4""/40 QF Mark I","British 4""",britain,1894-01-01,102,40,1339,10,8,Breech,722,0,100,http://www.navweaps.com/Weapons/WNBR_4-40_mk3.php
@@ -153,11 +154,12 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 76-bg-14-qf-marki,14-pdr/50 QF Mark I Elswick,British 14-pdr,britain,1900-01-01,76,50,864,10,10,Breech,777,0,,https://en.wikipedia.org/wiki/QF_14-pounder_naval_gun_Mk_I_%26_II
 76-bg-23-qf-marki,12-pdr/45 23cwt QF Mark I,British 12-pdr,britain,1910-01-01,76,45,1020,14,12,Breech,762,0,150,http://www.navweaps.com/Weapons/WNBR_3-45_mk1.php
 76-bg-20-qf-ha-marki,12-pdr/45 20cwt QF HA Mark I,British 12-pdr,britain,1910-01-01,76,45,1020,14,12,Breech,762,762,150,http://www.navweaps.com/Weapons/WNBR_3-45_mk1.php
-76-bg-a1906,"3""/40 Armstrong 1909",British 12-pdr,britain,1909-01-01,76,40,510,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
-76-bg-vickers-markz,12-pdr/40 Vickers Mark Z,British 12-pdr,britain,1893-01-01,76,40,510,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
-76-bg-m1916,76mm/40 Model 1916,British 12-pdr,britain,1893-01-01,76,40,510,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
-76-bg-elswick-n,12-pdr/40 Elswick N,British 12-pdr,britain,1893-01-01,76,40,510,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
-76-bg-12-qf-marki,12-pdr/40 12cwt QF Mark I,British 12-pdr,britain,1893-01-01,76,40,510,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-bg-a1906,"3""/40 Armstrong 1909",British 12-pdr,britain,1909-01-01,76,40,610,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-bg-vickers-markz,12-pdr/40 Vickers Mark Z,British 12-pdr,britain,1893-01-01,76,40,610,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-bg-m1916,76mm/40 Model 1916,British 12-pdr,britain,1893-01-01,76,40,610,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-bg-elswick-n,12-pdr/40 Elswick N,British 12-pdr,britain,1893-01-01,76,40,610,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-bg-12-qf-marki,12-pdr/40 12cwt QF Mark I,British 12-pdr,britain,1893-01-01,76,40,610,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
+76-bg-8-qf-marki,12-pdr/28 8cwt QF Mark I,British 12-pdr,britain,1893-01-01,76,27.6,406,15,15,Breech,483,0,,https://en.wikipedia.org/wiki/QF_12-pounder_8_cwt_gun
 76-bg-9pdr-armstrong,9-pdr/19 Armstrong,Armstrong 9-pdr,britain,,76,19,,,,Breech,,,,Identification of the Parameters of Naval Artillery
 57-bg-nord-aa,57mm/43 Nordenfelt AA,Nordenfelt 6-pdr,britain,1885-01-01,57,43,289,15,12,Breech,740,740,,http://www.navweaps.com/Weapons/WNRussian_57mm_Hotchkiss.php
 57-bg-n1885,57mm/43 Nordenfelt Model 1887,Nordenfelt 6-pdr,britain,1885-01-01,57,43,289,20,18,Breech,554,0,,https://en.wikipedia.org/wiki/QF_6-pounder_Nordenfelt
@@ -279,7 +281,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 37-bg-m1924,37mm/50 Model 1924,French 37mm,france,1924-01-01,37,50,300,21,15,Breech,810,810,1000,http://www.navweaps.com/Weapons/WNFR_37-50_cail_m1933.php
 37-bg-mk3,"1-pdr Hotchkiss Heavy, Long, Mark 1",Hotchkiss 1-pdr,france,1885-01-01,37,40,,25,20,Breech Semi-Automatic,610,0,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
 37-bg-d-s,1-pdr/40 Mark 2 Mod 1,Hotchkiss 1-pdr,france,1885-01-01,37,40,,25,25,Breech Semi-Automatic,610,0,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
-37-bg-mk7,"1-pdr Maxim-Nordenfeldt Heavy, automatic AA",Hotchkiss 1-pdr,france,1885-01-01,37,30,,300,300,Breech Semi-Automatic,550,550,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
+37-mg-qf-pom-pom,1-pdr QF Pom-Pom,Maxim 37mm,usa,1889-01-01,37,30,186,300,300,Breech Semi-Automatic,550,550,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
+37-bg-mk7,"1-pdr Maxim-Nordenfeldt Heavy, automatic AA",Maxim 37mm,usa,1885-01-01,37,30,186,300,300,Breech Semi-Automatic,550,550,,http://www.navweaps.com/Weapons/WNUS_1pounder_m1.php
 37-bg-rv-l30,3.7cm/27 RV L/30,Hotchkiss 1-pdr Revolver,france,1872-01-01,37,27,210,68,32,Breech Hand-Crank,442,0,780,https://military-history.fandom.com/wiki/Hotchkiss_gun
 37-bg-m1884,1-pdr Hotchkiss M1884,Hotchkiss 1-pdr,france,1884-01-01,37,23,,25,20,Breech Semi-Automatic,442,0,780,http://navypedia.org/arms/italy/arms_it_guns.htm
 37-bg-m1885,1-pdr Hotchkiss M1885,Hotchkiss 1-pdr,france,1885-01-01,37,20,,25,20,Breech Semi-Automatic,,0,780,
