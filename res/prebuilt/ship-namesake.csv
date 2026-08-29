@@ -5388,7 +5388,7 @@ claa_dido|hms_scylla,Scylla,Scylla
 claa_dido|hms_sirius,Sirius,"Sirius, Canis Major"
 clm_brummer|sms_bremse,Bremse,
 clm_brummer|sms_brummer,Brummer,
-cm_abdiel|hms_abdiel,Abdiel,
+cm_abdiel|hms_abdiel,Abdiel,Abdiel
 cm_abdiel|hms_latona,Latona,
 cm_abdiel|hms_manxman,Manxman,Manxman
 cm_abdiel|hms_welshman,Welshman,
@@ -8961,10 +8961,8 @@ dd_talisman|hms_napier,Napier,Charles John Napier
 dd_talisman|hms_napier,Talisman,Talisman
 dd_talisman|hms_narborough,Narborough,John Narborough
 dd_talisman|hms_narborough,Termagant,Termagant
-dd_talisman|hms_offa,Offa,Offa of Mercia
-dd_talisman|hms_offa,Trident,Trident
-dd_talisman|hms_ogre,Ogre,Ogre
-dd_talisman|hms_ogre,Turbulent,Turbulent
+dd_talisman|hms_trident,Trident,Trident
+dd_talisman|hms_turbulent,Turbulent,Turbulent
 dd_tatra|sms_balaton,Balaton,
 dd_tatra|sms_balaton,Zenson,
 dd_tatra|sms_csepel,Csepel,
@@ -9139,13 +9137,29 @@ dd_van_ghent|hnlms_de_ruyter,Van Ghent,
 dd_van_ghent|hnlms_evertsen,Evertsen,
 dd_van_ghent|hnlms_kortenaer,Kortenaer,
 dd_van_ghent|hnlms_piet_hein,Piet Hein,
+dd_vanoc_1916|hms_vancouver,Vancouver,George Vancouver
+dd_vanoc_1916|hms_vancouver,Vimy,"Battle of Vimy Ridge, World War I"
+dd_vanoc_1916|hms_vanessa,Vanessa,Vanessa
+dd_vanoc_1916|hms_vanity,Vanity,Vanity
 dd_vanoc_1916|hms_vanoc,Vanoc,Vanoc
 dd_vanoc_1916|hms_vanquisher,Vanquisher,Vanquisher
+dd_vanoc_1916|hms_vectis,Vectis,"Isle of Wight, England, UK"
+dd_vanoc_1916|hms_vega,Vega,Vega
 dd_vanoc_1916|hms_vehement,Vehement,Vehement
 dd_vanoc_1916|hms_velox,Velox,Swift
+dd_vanoc_1916|hms_vendetta,Vendetta,Vengeance
+dd_vanoc_1916|hms_venetia,Venetia,Veneti
 dd_vanoc_1916|hms_venturous,Venturous,Venturous
+dd_vanoc_1916|hms_verdun,Verdun,"Battle of Verdun, World War I"
 dd_vanoc_1916|hms_versatile,Versatile,Versatile
+dd_vanoc_1916|hms_verulam,Verulam,"Francis Bacon, 1st Viscount St Alban"
+dd_vanoc_1916|hms_vesper,Vesper,Hesperus
+dd_vanoc_1916|hms_vidette,Vidette,Vidette
 dd_vanoc_1916|hms_vimiera,Vimiera,"Battle of Vimeiro, Peninsular War"
+dd_vanoc_1916|hms_violent,Violent,Violent
+dd_vanoc_1916|hms_vittoria,Vittoria,"Battle of Vitoria, War of the Sixth Coalition"
+dd_vanoc_1916|hms_vivacious,Vivacious,Vivacious
+dd_vanoc_1916|hms_vivien,Vivien,Lady of the Lake
 dd_vanoc_1916|hms_vortigern,Vortigern,Vortigern
 dd_vasilefs_georgios_i|vasilefs_georgios_i,Vasilefs Georgios I,
 dd_vasilefs_georgios_i|vasilefs_georgios_i,ZG3,
@@ -9187,22 +9201,6 @@ dd_vijelie|vijelie,Sparviero,
 dd_vijelie|vijelie,Vijelie,
 dd_vijelie|viscul,Falco,
 dd_vijelie|viscul,Melilla,
-dd_violent_1916|hms_vancouver,Vancouver,George Vancouver
-dd_violent_1916|hms_vancouver,Vimy,"Battle of Vimy Ridge, World War I"
-dd_violent_1916|hms_vanessa,Vanessa,Vanessa
-dd_violent_1916|hms_vanity,Vanity,Vanity
-dd_violent_1916|hms_vectis,Vectis,"Isle of Wight, England, UK"
-dd_violent_1916|hms_vega,Vega,Vega
-dd_violent_1916|hms_vendetta,Vendetta,Vengeance
-dd_violent_1916|hms_venetia,Venetia,Veneti
-dd_violent_1916|hms_verdun,Verdun,"Battle of Verdun, World War I"
-dd_violent_1916|hms_verulam,Verulam,"Francis Bacon, 1st Viscount St Alban"
-dd_violent_1916|hms_vesper,Vesper,Hesperus
-dd_violent_1916|hms_vidette,Vidette,Vidette
-dd_violent_1916|hms_violent,Violent,Violent
-dd_violent_1916|hms_vittoria,Vittoria,"Battle of Vitoria, War of the Sixth Coalition"
-dd_violent_1916|hms_vivacious,Vivacious,Vivacious
-dd_violent_1916|hms_vivien,Vivien,Lady of the Lake
 dd_violet|hms_sylvia,Sylvia,Rhea Silvia
 dd_violet|hms_violet,Violet,Violet
 dd_viper|hms_viper,Viper,Viper
@@ -11133,11 +11131,6 @@ dl_valkyrie|hms_montrose,Montrose,"James Graham, 1st Marquess of Montrose"
 dl_valkyrie|hms_montrose,Valorous,Valorous
 dl_valkyrie|hms_wallace,Vampire,Vampire
 dl_valkyrie|hms_wallace,Wallace,William Wallace
-dm_walker|hms_walker,Walker,
-dm_walker|hms_walrus,Walrus,
-dm_walker|hms_warwick,Warwick,
-dm_walker|hms_watchman,Watchman,
-dm_walker|hms_whirlwind,Whirlwind,Whirlwind
 dt_van_kinsbergen|hnlms_van_kinsbergen,Van Kinsbergen,
 fa_brahmaputra|ins_beas,Beas,
 fa_brahmaputra|ins_betwa,Betwa,
