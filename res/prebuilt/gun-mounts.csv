@@ -545,6 +545,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 120-c-type41,120,"4.7""/40 Type 41",japan,Pedestal (Casement),120-bg-type41,1,20,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-car-rbl-40pdr-35cwt,120,120mm/20 RBL 40-pdr 35 cwt,britain,Carriage,120-bg-rbl-40pdr-35cwt,1,,https://en.wikipedia.org/wiki/RBL_40-pounder_Armstrong_gun
 120-cp-ha-markxii,120,"4.7""/40 HA Mark XII",britain,Central Pivot,120-bg-qf-markviii,1,90,http://www.navweaps.com/Weapons/WNBR_47-40_mk8.php
+120-gs-cpxvii,120,"4.7""/45 CPXVII",britain,Central Pivot (Gun Shield),120-bg-qf-markix,1,40,https://www.navweaps.com/Weapons/WNBR_47-45_mk9.php#Mount%2FTurret_Data
+120-gs-cpxiv,120,"4.7""/45 CPXIV",britain,Central Pivot (Gun Shield),120-bg-qf-markix,1,30,https://www.navweaps.com/Weapons/WNBR_47-45_mk9.php#Mount%2FTurret_Data
 120-gs-bdi,120,"4.7""/40 BDI",britain,Central Pivot (Gun Shield),120-bg-qf-marki,1,15,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-cp-bdi,120,"4.7""/40 BDI",britain,Central Pivot,120-bg-qf-marki,1,15,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-c-p1905,120,120mm/50 Pattern 1905,russia,Pedestal (Casement),120-bg-p1905,1,20,http://www.navweaps.com/Weapons/WNRussian_47-50_m1905.php
@@ -749,8 +751,10 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 63-p-p1916,63,"2.5""/36 Pattern 1916",russia,Pedestal,63-bg-p1916,1,75,http://www.navweaps.com/Weapons/WNRussian_25-38_m1916.php
 57-at-sak-mark2,57,57mm/70 SAK Mark 2,sweden,Automated Turret,57-mg-sak-mark2,1,75,http://www.navweaps.com/Weapons/WNSweden_57-70_mk123.php#Mount%2FTurret_Data
 57-ag-acad-m1948,57,57mm/60 ACAD Model 1948,france,Armored Gunhouse,57-mg-m1951,2,94,http://www.navweaps.com/Weapons/WNFR_57-60_m1951.php
+57-cp-markvii,57,57mm/43 Mark VII,britain,Central Pivot,57-bg-qf-markiia,1,12,https://www.navweaps.com/Weapons/WNBR_6pounder_m2a.php#Mount%2FTurret_Data
 57-p-nord-aa,57,57mm/43 Nordenfelt Model 1887,russia,Pedestal,57-bg-nord-aa,1,65,http://www.navweaps.com/Weapons/WNRussian_57mm_Hotchkiss.php#Mount%2FTurret_Data
 57-p-n1885,57,57mm/43 Nordenfelt Model 1887,sweden,Pedestal,57-bg-n1885,1,15,http://navypedia.org/arms/italy/arms_it_guns.htm
+57-p-non-recoil,57,6-pdr Non-Recoil,britain,Pedestal,57-bg-mk1,1,38,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php#Mount%2FTurret_Data
 57-p-mk1,57,6-pdr Hotchkiss Mark 1,usa,Pedestal,57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 57-p-markic-ha,57,6-pdr Mark IC HA,britain,Pedestal,57-bg-mk1,1,60,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php#Mount%2FTurret_Data
 57-p-marki-recoil,57,6-pdr Mark I Recoil,britain,Pedestal,57-bg-mk1,1,25,http://www.navweaps.com/Weapons/WNBR_6pounder_m1.php#Mount%2FTurret_Data

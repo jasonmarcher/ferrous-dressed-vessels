@@ -6805,6 +6805,7 @@ dd_erne|hms_exe,Exe,"River Exe, England, UK"
 dd_express|hms_express,Express,Express
 dd_fame_1933|hms_fame,Fame,Fame
 dd_fame_1933|hms_fame,Generalisimo,Generalissimo
+dd_fame_1933|hms_fame,Sanchez,Francisco del Rosario Sanchez
 dd_fame_1933|hms_fearless,Fearless,Fearless
 dd_fame_1933|hms_firedrake,Firedrake,Wyvern (Fire)
 dd_fame_1933|hms_foresight,Foresight,Foresight
@@ -7509,8 +7510,9 @@ dd_hasty_1935|hms_hereward,Hereward,Hereward the Wake
 dd_hasty_1935|hms_hero,Chaudiere,"Chaudiere River, Quebec, Canada"
 dd_hasty_1935|hms_hero,Hero,Hero
 dd_hasty_1935|hms_hostile,Hostile,Hostile
-dd_hasty_1935|hms_hostile,Trujillo,Rafael Leonidas Trujillo Molina
+dd_hasty_1935|hms_hotspur,Duarte,Juan Pablo Duarte
 dd_hasty_1935|hms_hotspur,Hotspur,Sir Henry Percy
+dd_hasty_1935|hms_hotspur,Trujillo,Rafael Leonidas Trujillo Molina
 dd_hasty_1935|hms_hunter,Hunter,Hunter
 dd_hasty_1935|hms_hyperion,Hyperion,Hyperion
 dd_hatfield|uss_brooks,Brooks,John Brooks Jr.
@@ -8768,39 +8770,6 @@ dd_scorpion_1941|hms_shark,Svenner,Svenner Islands
 dd_scorpion_1941|hms_success,Stord,"Stord, Norway"
 dd_scorpion_1941|hms_success,Success,Success
 dd_scorpion_1941|hms_swift,Swift,Swift
-dd_scythe_1917|hms_sardonyx,Sardonyx,Onyx (Sardonyx)
-dd_scythe_1917|hms_saturn,Saturn,Saturn
-dd_scythe_1917|hms_scythe,Scythe,Scythe
-dd_scythe_1917|hms_seabear,Seabear,Polar Bear
-dd_scythe_1917|hms_seafire,Seafire,Marine Bioluminescence
-dd_scythe_1917|hms_searcher,Searcher,Searcher
-dd_scythe_1917|hms_seawolf,Seawolf,Wolffish
-dd_scythe_1917|hms_serapis,Serapis,Serapis
-dd_scythe_1917|hms_serene,Serene,Serene
-dd_scythe_1917|hms_sesame,Sesame,Sesame
-dd_scythe_1917|hms_spear,Spear,Spear
-dd_scythe_1917|hms_spindrift,Spindrift,Spindrift
-dd_scythe_1917|hms_sportive,Sportive,Sportive
-dd_scythe_1917|hms_stalwart,Stalwart,Stalwart
-dd_scythe_1917|hms_stonehenge,Stonehenge,Stonehenge
-dd_scythe_1917|hms_stormcloud,Stormcloud,Cumulonimbus Cloud
-dd_scythe_1917|hms_strenuous,Strenuous,Strenuous
-dd_scythe_1917|hms_stronghold,Stronghold,Stronghold
-dd_scythe_1917|hms_sturdy,Sturdy,Sturdy
-dd_scythe_1917|hms_sycamore,Sycamore,Sycamore Tree
-dd_scythe_1917|hms_tactician,Tactician,Tactician
-dd_scythe_1917|hms_tara,Tara,
-dd_scythe_1917|hms_tasmania,Tasmania,"Tasmania, Australia"
-dd_scythe_1917|hms_tattoo,Tattoo,Military Tattoo
-dd_scythe_1917|hms_tenedos,Tenedos,"Tenedos, Turkey"
-dd_scythe_1917|hms_thanet,Thanet,"Isle of Thanet, England, UK"
-dd_scythe_1917|hms_thracian,Thracian,Thracians
-dd_scythe_1917|hms_tilbury,Tilbury,"Tilbury, England, UK"
-dd_scythe_1917|hms_tintagel,Tintagel,"Tintagel Castle, England, UK"
-dd_scythe_1917|hms_trojan,Trojan,Trojan
-dd_scythe_1917|hms_truant,Truant,Truant
-dd_scythe_1917|hms_trusty,Trusty,Trusty
-dd_scythe_1917|hms_turbulent,Turbulent,Turbulent
 dd_serrano|capitan_orella,Capitan Orella,
 dd_serrano|cirujano_videla,Cirujano Videla,
 dd_serrano|guardiamarina_riquelme,Guardiamarina Riquelme,
@@ -8820,12 +8789,22 @@ dd_shiratsuyu|yamakaze,Yamakaze,Mountain Wind
 dd_shiratsuyu|yudachi,Yudachi,Evening Shower
 dd_simoom_1917|hms_sabre,Sabre,Sabre
 dd_simoom_1917|hms_saladin,Saladin,Salah ad-Din Yusuf ibn Ayyub
+dd_simoom_1917|hms_sardonyx,Sardonyx,Onyx (Sardonyx)
+dd_simoom_1917|hms_saturn,Saturn,Saturn
 dd_simoom_1917|hms_scimitar,Scimitar,Scimitar
 dd_simoom_1917|hms_scotsman,Scotsman,Scots
 dd_simoom_1917|hms_scout,Scout,Scout
+dd_simoom_1917|hms_scythe,Scythe,Scythe
+dd_simoom_1917|hms_seabear,Seabear,Polar Bear
+dd_simoom_1917|hms_seafire,Seafire,Marine Bioluminescence
+dd_simoom_1917|hms_searcher,Searcher,Searcher
+dd_simoom_1917|hms_seawolf,Seawolf,Wolffish
 dd_simoom_1917|hms_senator,Senator,Senator
 dd_simoom_1917|hms_sepoy,Sepoy,Sepoy
 dd_simoom_1917|hms_seraph,Seraph,Seraph
+dd_simoom_1917|hms_serapis,Serapis,Serapis
+dd_simoom_1917|hms_serene,Serene,Serene
+dd_simoom_1917|hms_sesame,Sesame,Sesame
 dd_simoom_1917|hms_shamrock,Shamrock,Shamrock
 dd_simoom_1917|hms_shark,Shark,Shark
 dd_simoom_1917|hms_shikari,Shikari,Hunter
@@ -8834,14 +8813,38 @@ dd_simoom_1917|hms_simoom,Simoom,Simoom
 dd_simoom_1917|hms_sirdar,Sirdar,Sirdar
 dd_simoom_1917|hms_somme,Somme,"Battle of the Somme, World War I"
 dd_simoom_1917|hms_sparrowhawk,Sparrowhawk,Sparrowhawk
+dd_simoom_1917|hms_spear,Spear,Spear
+dd_simoom_1917|hms_spindrift,Spindrift,Spindrift
 dd_simoom_1917|hms_splendid,Splendid,Splendid
+dd_simoom_1917|hms_sportive,Sportive,Sportive
+dd_simoom_1917|hms_stalwart,Stalwart,Stalwart
 dd_simoom_1917|hms_steadfast,Steadfast,Steadfast
 dd_simoom_1917|hms_sterling,Sterling,"Stirling, Scotland, UK"
+dd_simoom_1917|hms_stonehenge,Stonehenge,Stonehenge
+dd_simoom_1917|hms_stormcloud,Stormcloud,Cumulonimbus Cloud
+dd_simoom_1917|hms_strenuous,Strenuous,Strenuous
+dd_simoom_1917|hms_stronghold,Stronghold,Stronghold
+dd_simoom_1917|hms_sturdy,Sturdy,Sturdy
 dd_simoom_1917|hms_success,Success,Success
 dd_simoom_1917|hms_swallow,Swallow,Swallow
 dd_simoom_1917|hms_swordsman,Swordsman,Swordsman
+dd_simoom_1917|hms_sycamore,Sycamore,Sycamore Tree
+dd_simoom_1917|hms_tactician,Tactician,Tactician
+dd_simoom_1917|hms_tara,Tara,
+dd_simoom_1917|hms_tasmania,Tasmania,"Tasmania, Australia"
+dd_simoom_1917|hms_tattoo,Tattoo,Military Tattoo
+dd_simoom_1917|hms_tenedos,Tenedos,"Tenedos, Turkey"
+dd_simoom_1917|hms_thanet,Thanet,"Isle of Thanet, England, UK"
+dd_simoom_1917|hms_thracian,101-go,Hull Number
+dd_simoom_1917|hms_thracian,Thracian,Thracians
+dd_simoom_1917|hms_tilbury,Tilbury,"Tilbury, England, UK"
+dd_simoom_1917|hms_tintagel,Tintagel,"Tintagel Castle, England, UK"
 dd_simoom_1917|hms_tribune,Tribune,Tribune
 dd_simoom_1917|hms_trinidad,Trinidad,"Trinidad, Trinidad and Tobago"
+dd_simoom_1917|hms_trojan,Trojan,Trojan
+dd_simoom_1917|hms_truant,Truant,Truant
+dd_simoom_1917|hms_trusty,Trusty,Trusty
+dd_simoom_1917|hms_turbulent,Turbulent,Turbulent
 dd_sims|uss_anderson,Anderson,Edwin Alexander Anderson Jr.
 dd_sims|uss_buck,Buck,James Buck
 dd_sims|uss_hammann,Hammann,Charles Hazeltine Hammann
