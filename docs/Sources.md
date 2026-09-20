@@ -89,6 +89,9 @@ https://webarchive.nationalarchives.gov.uk/ukgwa/20110802041558/http://www.nmm.a
 
 https://web.archive.org/web/20150216013059/http://www.giuseppemarchese.it/articoli/art_56/art56_5.html
 
+UK DD flotillas WWI
+http://www.gwpda.org/naval/wrndd004.htm
+
 ### Submarines
 http://www.designed4submariners.com/Welcome_Page.html
 
@@ -211,6 +214,9 @@ https://destroyerhistory.org/destroyers/
 https://www.hullnumber.com/index.htm
 
 https://weaponsystems.net/menu/94
+
+UK WWI
+http://www.gwpda.org/naval/n0000000.htm
 
 ### Ships TODO
 
