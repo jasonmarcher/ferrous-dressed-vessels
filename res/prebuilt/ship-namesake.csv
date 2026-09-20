@@ -6659,10 +6659,9 @@ dd_cossack|hms_cossack,Cossack,Cossacks
 dd_cossack|hms_ghurka,Ghurka,Nepalis
 dd_cossack|hms_mohawk,Mohawk,Mohawk
 dd_cossack|hms_tartar,Tartar,Tatars
-dd_crescent_1943|hmcs_crescent,Crescent,Crescent
-dd_crescent_1943|hmcs_crusader,Crusader,Crusader
 dd_crescent_1943|hms_creole,Alamgir,Alamgir I
 dd_crescent_1943|hms_creole,Creole,Creole
+dd_crescent_1943|hms_crescent,Crescent,Crescent
 dd_crescent_1943|hms_crispin,Crispin,Saint Crispin
 dd_crescent_1943|hms_crispin,Jahangir,Nur al-Din Muhammad Salim
 dd_crescent_1943|hms_cromwell,Bergen,"Bergen, Norway"
@@ -6671,6 +6670,7 @@ dd_crescent_1943|hms_crown,Crown,Crown
 dd_crescent_1943|hms_crown,Oslo,"Oslo, Norway"
 dd_crescent_1943|hms_croziers,Croziers,Francis Rawdon Moira Crozier
 dd_crescent_1943|hms_croziers,Trondheim,"Trondheim, Norway"
+dd_crescent_1943|hms_crusader,Crusader,Crusader
 dd_crescent_1943|hms_crystal,Crystal,The Crystal Palace
 dd_crescent_1943|hms_crystal,Stavanger,"Stavanger, Norway"
 dd_curtalone|calatafimi,Achilles,Achilles
@@ -7638,6 +7638,16 @@ dd_juruena|juruena,Hesperus,Hesperus
 dd_juruena|juruena,Juruena,"Juruena River, Mato Grosso, Brazil"
 dd_juruena|jutahy,Havelock,Henry Havelock
 dd_juruena|jutahy,Jutahy,"Jutai River, Brazil"
+dd_jutland_1944|hmas_anzac,Anzac,Australian and New Zealand Army Corps
+dd_jutland_1944|hmas_tobruk,Tobruk,"Siege of Tobruk, World War II"
+dd_jutland_1944|hms_jutland,Jutland,"Battle of Jutland, World War I"
+dd_jutland_1944|hms_poictiers,Poictiers,"Battle of Poitiers, Hundred Years' War"
+dd_jutland_1944|hms_river_platte,River Platte,"Battle of the River Plate, World War II"
+dd_jutland_1944|hms_somme,Somme,"Battle of the Somme, World War I"
+dd_jutland_1944|hms_st_lucia,St. Lucia,"Battle of St. Lucia, Anglo-French War (1778–1783)"
+dd_jutland_1944|hms_talavera,Talavera,"Battle of Talavera, Peninsular War"
+dd_jutland_1944|hms_trincomalee,Trincomalee,"Battle of Trincomalee, Anglo-French War (1778–1783)"
+dd_jutland_1944|hms_waterloo,Waterloo,"Battle of Waterloo, War of the Seventh Coalition"
 dd_kaba|kaba,Kaba,Birch Tree
 dd_kaba|kaede,Kaede,Maple Tree
 dd_kaba|kashiwa,Kashiwa,Cypress Tree
@@ -7892,20 +7902,20 @@ dd_laforey_1912|hms_ulysses,Lysander,Lysander
 dd_laforey_1912|hms_ulysses,Ulysses,Odysseus
 dd_laforey_1912|hms_viola,Legion,Legion
 dd_laforey_1912|hms_viola,Viola,Viola
-dd_laforey|hms_laforey,Laforey,"Sir Francis Laforey, 2nd Baronet"
-dd_laforey|hms_lightning,Lightning,Lightning
-dd_laforey|hms_lookout,Lookout,Lookout
-dd_laforey|hms_loyal,Loyal,Loyal
+dd_laforey_1938|hms_laforey,Laforey,"Sir Francis Laforey, 2nd Baronet"
+dd_laforey_1938|hms_lance,Lance,Lance
+dd_laforey_1938|hms_larne,Gurkha,Nepali
+dd_laforey_1938|hms_larne,Larne,"Larne, Northern Ireland, UK"
+dd_laforey_1938|hms_legion,Legion,Legion
+dd_laforey_1938|hms_lightning,Lightning,Lightning
+dd_laforey_1938|hms_lively,Lively,Lively
+dd_laforey_1938|hms_lookout,Lookout,Lookout
+dd_laforey_1938|hms_loyal,Loyal,Loyal
 dd_lampo|dardo,Dardo,
 dd_lampo|euro,Euro,
 dd_lampo|euro,Strale,
 dd_lampo|freccia,Freccia,
 dd_lampo|lampo,Lampo,
-dd_larne_1938|hms_lance,Lance,Lance
-dd_larne_1938|hms_larne,Gurkha,Nepali
-dd_larne_1938|hms_larne,Larne,"Larne, Northern Ireland, UK"
-dd_larne_1938|hms_legion,Legion,Legion
-dd_larne_1938|hms_lively,Lively,Lively
 dd_lawrence|uss_lawrence,Lawrence,James Lawrence
 dd_lawrence|uss_macdonough,MacDonough,Thomas Macdonough Jr.
 dd_le_fantasque|l_audacieux,L'Audacieux,
@@ -8290,6 +8300,7 @@ dd_niki|niki,Niki,
 dd_niki|velos,Velos,
 dd_noble_1939|hms_napier,Napier,Charles John Napier
 dd_noble_1939|hms_nerissa,Nerissa,Nerissa
+dd_noble_1939|hms_nerissa,Noble,Noble (Coin)
 dd_noble_1939|hms_nerissa,Piorun,Lightning
 dd_noble_1939|hms_nestor,Nestor,Nestor
 dd_noble_1939|hms_nizam,Nizam,"Osman Ali Khan, Asaf Jah VII"
@@ -8305,16 +8316,16 @@ dd_novik|yakov_sverdlov,Yakov Sverdlov,
 dd_o_brien|uss_nicholson,Nicholson,Samuel Nicholson
 dd_o_brien|uss_o_brien,O'Brien,Jeremiah O'Brien
 dd_o_brien|uss_winslow,Winslow,John Ancrum Winslow
-dd_obdurate_1940|hms_obdurate,Obdurate,Obdurate
-dd_obdurate_1940|hms_obedient,Obedient,Obedient
-dd_obdurate_1940|hms_opportune,Opportune,Opportune
-dd_obdurate_1940|hms_orwell,Orwell,"River Orwell, England, UK"
+dd_offa_1940|hms_obdurate,Obdurate,Obdurate
+dd_offa_1940|hms_obedient,Obedient,Obedient
 dd_offa_1940|hms_offa,Offa,Offa of Mercia
 dd_offa_1940|hms_offa,Tariq,Tariq ibn Ziyad
 dd_offa_1940|hms_onslaught,Onslaught,Onslaught
 dd_offa_1940|hms_onslaught,Tughril,Abu Talib Muhammad Tughril ibn Mika'il
+dd_offa_1940|hms_opportune,Opportune,Opportune
 dd_offa_1940|hms_oribi,Gayret,Endeavor
 dd_offa_1940|hms_oribi,Oribi,Oribi
+dd_offa_1940|hms_orwell,Orwell,"River Orwell, England, UK"
 dd_offa_1940|hms_pakenham,Onslow,"Richard Onslow, 1st Baron Onslow"
 dd_offa_1940|hms_pakenham,Pakenham,Thomas Pakenham
 dd_offa_1940|hms_pakenham,Tippu Sultan,Tipu Sultan
@@ -9004,16 +9015,6 @@ dd_thyella|lonchi,Lonchi,
 dd_thyella|nafkratoussa,Nafkratoussa,
 dd_thyella|sfendoni,Sfendoni,
 dd_thyella|thyella,Thyella,
-dd_tobruk|hmas_anzac,Anzac,Australian and New Zealand Army Corps
-dd_tobruk|hmas_tobruk,Tobruk,"Siege of Tobruk, World War II"
-dd_tobruk|hms_jutland,Jutland,"Battle of Jutland, World War I"
-dd_tobruk|hms_poictiers,Poictiers,"Battle of Poitiers, Hundred Years' War"
-dd_tobruk|hms_river_platte,River Platte,"Battle of the River Plate, World War II"
-dd_tobruk|hms_somme,Somme,"Battle of the Somme, World War I"
-dd_tobruk|hms_st_lucia,St. Lucia,"Battle of St. Lucia, Anglo-French War (1778–1783)"
-dd_tobruk|hms_talavera,Talavera,"Battle of Talavera, Peninsular War"
-dd_tobruk|hms_trincomalee,Trincomalee,"Battle of Trincomalee, Anglo-French War (1778–1783)"
-dd_tobruk|hms_waterloo,Waterloo,"Battle of Waterloo, War of the Seventh Coalition"
 dd_tochnyy|inzhener_mekhanik_anastasov,Inzhener-Mekhanik Anastasov,
 dd_tochnyy|leytenant_maleev,Leytenant Maleev,
 dd_tochnyy|tochnyy,Potapenko,
@@ -9028,20 +9029,20 @@ dd_torch_1917|hms_tumult,Tumult,Tumult
 dd_torch_1917|hms_turquoise,Turquoise,Turquoise
 dd_torch_1917|hms_tuscan,Tuscan,Tuscan
 dd_torch_1917|hms_tyrian,Tyrian,Tyrian
-dd_tribal_ran|hmas_arunta,Arunta,Arrernte
-dd_tribal_ran|hmas_kurnai,Bataan,"Battle of Bataan, World War II"
-dd_tribal_ran|hmas_kurnai,Kurnai,Kurnai
-dd_tribal_ran|hmas_warramunga,Warramunga,Warumungu
-dd_tribal_rcn_ii|hmcs_athabaskan,Athabaskan,Dene
-dd_tribal_rcn_ii|hmcs_cayuga,Cayuga,Cayuga
-dd_tribal_rcn_ii|hmcs_micmac,Micmac,Mi'kmaq
-dd_tribal_rcn_ii|hmcs_nootka,Nootka,Nuu-chah-nulth
 dd_tribal_rcn|hmcs_athabaskan,Athabaskan,Dene
 dd_tribal_rcn|hmcs_athabaskan,Iroquois,Iroquois
+dd_tribal_rcn|hmcs_athabaskan_ii,Athabaskan,Dene
+dd_tribal_rcn|hmcs_cayuga,Cayuga,Cayuga
 dd_tribal_rcn|hmcs_haida,Haida,Haida
 dd_tribal_rcn|hmcs_huron,Huron,Wyandot
 dd_tribal_rcn|hmcs_iroquois,Athabaskan,Dene
 dd_tribal_rcn|hmcs_iroquois,Iroquois,Iroquois
+dd_tribal_rcn|hmcs_micmac,Micmac,Mi'kmaq
+dd_tribal_rcn|hmcs_nootka,Nootka,Nuu-chah-nulth
+dd_tribal|hmas_arunta,Arunta,Arrernte
+dd_tribal|hmas_kurnai,Bataan,"Battle of Bataan, World War II"
+dd_tribal|hmas_kurnai,Kurnai,Kurnai
+dd_tribal|hmas_warramunga,Warramunga,Warumungu
 dd_tribal|hms_afridi,Afridi,Afridi
 dd_tribal|hms_ashanti,Ashanti,Asante
 dd_tribal|hms_bedouin,Bedouin,Bedouin
@@ -9266,19 +9267,19 @@ dd_wakeful_1917|hms_wryneck,Wryneck,Wryneck
 dd_wale|wale,Wale,
 dd_warasdiner|sms_warasdiner,Warasdiner,
 dd_welland|hms_welland,Welland,"River Welland, England, UK"
-dd_whelp_1943|hms_kempenfelt,Kempenfelt,Richard Kempenfelt
-dd_whelp_1943|hms_kempenfelt,Kotor,"Kotor, Montenegro"
-dd_whelp_1943|hms_wager,Pula,"Pula, Croatia"
-dd_whelp_1943|hms_wager,Wager,Charles Wager
-dd_whelp_1943|hms_wakeful,Wakeful,Wakeful
-dd_whelp_1943|hms_wessex,Jan van Riebeeck,Johan Anthoniszoon van Riebeeck
-dd_whelp_1943|hms_wessex,Wessex,Kingdom of the West Saxons
-dd_whelp_1943|hms_whelp,Simon van der Stel,Simon van der Stel
-dd_whelp_1943|hms_whelp,Whelp,Dog (Puppy)
-dd_whelp_1943|hms_whirlwind,Whirlwind,Whirlwind
-dd_whelp_1943|hms_wizard,Wizard,Wizard
-dd_whelp_1943|hms_wrangler,Vrystaat,"Province of the Orange Free State, South Africa"
-dd_whelp_1943|hms_wrangler,Wrangler,Wrangler (University)
+dd_whelp_1942|hms_kempenfelt,Kempenfelt,Richard Kempenfelt
+dd_whelp_1942|hms_kempenfelt,Kotor,"Kotor, Montenegro"
+dd_whelp_1942|hms_wager,Pula,"Pula, Croatia"
+dd_whelp_1942|hms_wager,Wager,Charles Wager
+dd_whelp_1942|hms_wakeful,Wakeful,Wakeful
+dd_whelp_1942|hms_wessex,Jan van Riebeeck,Johan Anthoniszoon van Riebeeck
+dd_whelp_1942|hms_wessex,Wessex,Kingdom of the West Saxons
+dd_whelp_1942|hms_whelp,Simon van der Stel,Simon van der Stel
+dd_whelp_1942|hms_whelp,Whelp,Dog (Puppy)
+dd_whelp_1942|hms_whirlwind,Whirlwind,Whirlwind
+dd_whelp_1942|hms_wizard,Wizard,Wizard
+dd_whelp_1942|hms_wrangler,Vrystaat,"Province of the Orange Free State, South Africa"
+dd_whelp_1942|hms_wrangler,Wrangler,Wrangler (University)
 dd_whitehead_1918|hms_vansittart,Vansittart,Henry Vansittart
 dd_whitehead_1918|hms_vashon,Vashon,James Vashon
 dd_whitehead_1918|hms_vengeful,Vengeful,Vengeful
@@ -9522,18 +9523,18 @@ dd_z_1944|z56,Z56,
 dd_zafer|tinaztepe,Tinaztepe,
 dd_zafer|zafer,Zafer,
 dd_zebra|hms_zebra,Zebra,Zebra
-dd_zephyr_1943|hms_myngs,El Qaher,"Cairo, Egypt"
-dd_zephyr_1943|hms_myngs,Myngs,Christopher Myngs
-dd_zephyr_1943|hms_zambesi,Zambesi,"Zambezi, Mozambique"
-dd_zephyr_1943|hms_zealous,Eilath,"Elath, Isreal"
-dd_zephyr_1943|hms_zealous,Zealous,Zealous
-dd_zephyr_1943|hms_zebra,Zebra,Zebra
-dd_zephyr_1943|hms_zenith,El Fateh,El Fateh
-dd_zephyr_1943|hms_zenith,Zenith,Zenith
-dd_zephyr_1943|hms_zephyr,Zephyr,Zephyrus
-dd_zephyr_1943|hms_zest,Zest,Zest
-dd_zephyr_1943|hms_zodiac,Yaffa,"Jaffa, Israel"
-dd_zephyr_1943|hms_zodiac,Zodiac,Zodiac
+dd_zephyr_1942|hms_myngs,El Qaher,"Cairo, Egypt"
+dd_zephyr_1942|hms_myngs,Myngs,Christopher Myngs
+dd_zephyr_1942|hms_zambesi,Zambesi,"Zambezi, Mozambique"
+dd_zephyr_1942|hms_zealous,Eilat,"Eilat, Israel"
+dd_zephyr_1942|hms_zealous,Zealous,Zealous
+dd_zephyr_1942|hms_zebra,Zebra,Zebra
+dd_zephyr_1942|hms_zenith,El Fateh,El Fateh
+dd_zephyr_1942|hms_zenith,Zenith,Zenith
+dd_zephyr_1942|hms_zephyr,Zephyr,Zephyrus
+dd_zephyr_1942|hms_zest,Zest,Zest
+dd_zephyr_1942|hms_zodiac,Yaffo,"Jaffa, Israel"
+dd_zephyr_1942|hms_zodiac,Zodiac,Zodiac
 ddg_aconit|aconit,Aconit,
 ddg_akizuki|jds_akizuki,Akizuki,Autumn Moon
 ddg_akizuki|jds_fuyuzuki,Fuyuzuki,Winter Moon
