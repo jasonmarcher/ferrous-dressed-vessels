@@ -442,6 +442,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 152-c-41st-year-20,152,15cm/50 41st Year Type,japan,Pedestal (Casement),152-bg-41st-year,1,20,http://www.navweaps.com/Weapons/WNJAP_6-50_t41.php
 150-c-k10,150,15cm/50 L/50 K.10,austria_hungary,Pedestal (Casement),150-bg-k10,1,15,http://www.navweaps.com/Weapons/WNAust_59-50_Skoda.php
 149-gs-tbs-kc36,149,15cm/48 Tbts KC/36,germany,Pedestal (Gun Shield),149-bg-tbts-kc36,1,30,http://www.navweaps.com/Weapons/WNGER_59-48_skc36.php#Mount%2FTurret_Data
+149-gs-mpl-c16,149,15cm/42.5 MPL C/16,germany,Pedestal (Gun Shield),149-bg-sk-l45,1,27,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-gs-mpl-c13,149,15cm/42.5 MPL C/13,germany,Pedestal (Gun Shield),149-bg-sk-l45,1,19,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-c-mpl-c13,149,15cm/42.5 MPL C/13,germany,Pedestal (Casement),149-bg-sk-l45,1,19,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-c-mpl-c06,149,15cm/42.5 MPL C/06,germany,Pedestal (Casement),149-bg-sk-l45,1,20,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
@@ -558,6 +559,8 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 120-c-p1892,120,120mm/45 Canet Casement,russia,Pedestal (Casement),120-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_47-45_m1892.php
 120-gs-mk3,120,"4.7""/50 Mark 3 (EOC AA)",britain,Central Pivot (Gun Shield),120-bg-mk3,1,20,http://www.navweaps.com/Weapons/WNUS_47-50_mk3.php#Mount%2FTurret_Data
 120-ag-oto-m1933,120,120mm/50 OTO Model 1933,italy,Armored Gunhouse,120-bg-m1926,2,42,http://www.navweaps.com/Weapons/WNIT_47-50_m1926.php#Mount%2FTurret_Data
+120-gs-m1918-19,120,120mm/45 Model 1918/19,italy,Central Pivot (Gun Shield),120-bg-m1918,2,32,https://www.navweaps.com/Weapons/WNIT_47-45_m1918.php#Mount%2FTurret_Data
+120-gs-m1918,120,120mm/45 Model 1918,italy,Central Pivot (Gun Shield),120-bg-m1918,1,30,https://www.navweaps.com/Weapons/WNIT_47-45_m1918.php#Mount%2FTurret_Data
 120-gs-m1891,120,120mm/40 Model 1891,italy,Central Pivot (Gun Shield),120-bg-m1889,1,32,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-cp-m1891,120,120mm/40 Model 1891,italy,Central Pivot,120-bg-m1889,1,32,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
 120-cp-m1889,120,120mm/40 Model 1889,italy,Pedestal (Gun Shield),120-bg-m1889,1,20,http://www.navweaps.com/Weapons/WNBR_47-40_mk1.php
@@ -583,6 +586,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 114-gs-markv,114,"4.5""/45 Mark V",britain,Central Pivot (Gun Shield),114-bg-qf-marki-single,1,55,http://www.navweaps.com/Weapons/WNBR_45-45_mk1.php#Mount%2FTurret_Data
 114-gs-markiii-ud,114,"4.5""/45 Mark III UD",britain,Central Pivot (Gun Shield),114-bg-qf-marki,2,80,http://www.navweaps.com/Weapons/WNBR_45-45_mk1.php#Mount%2FTurret_Data
 114-ag-markii-bd,114,"4.5""/45 Mark II BD",britain,Armored Gunhouse,114-bg-qf-marki,2,80,http://www.navweaps.com/Weapons/WNBR_45-45_mk1.php#Mount%2FTurret_Data
+105-p-tbts-lc16,105,10.5cm/42 Tbts LC/16,germany,Pedestal,105-bg-sk-l45,1,50,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php#Mount_%2F_Turret_Data
 105-gs-sk-c11,105,10.5cm/42 MPL C/06,germany,Pedestal (Gun Shield),105-bg-sk-l45,1,30,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php#Mount_%2F_Turret_Data
 105-c-sk-c11,105,10.5cm/42 MPL C/06,germany,Pedestal (Casement),105-bg-sk-l45,1,30,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php#Mount_%2F_Turret_Data
 105-gs-sk-l40,105,10.5cm/37 MPL C/97,germany,Pedestal (Gun Shield),105-bg-sk-l40,1,10,http://www.navweaps.com/Weapons/WNGER_41-40_skc00.php#Mount_%2F_Turret_Data
@@ -650,6 +654,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 100-p-m1881,100,100mm/26 Model 1881,france,Pedestal,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 100-gs-m1881,100,100mm/26 Model 1881,france,Pedestal (Gun Shield),100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
 100-cp-m1881,100,100mm/26 Model 1881,france,Central Pivot,100-bg-m1881,1,15,https://en.wikipedia.org/wiki/Terrible-class_ironclad#Characteristics
+100-cp-k10,100,10cm/47 L/50 K.10,austria_hungary,Central Pivot,100-bg-k10,1,18,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Mount%2FTurret_Data
 100-c-k10,100,10cm/47 L/50 K.10,austria_hungary,Central Pivot (Casement),100-bg-k10,1,18,http://www.navweaps.com/Weapons/WNIT_39-47_m1924.php#Mount%2FTurret_Data
 100-sm-cm5,100,100mm/70 CM-5,russia,Stabalized Mount,100-bg-cm5,2,85,http://www.navweaps.com/Weapons/WNRussian_39-70_cm5.php#Mount%2FTurret_Data
 100-ag-mz-14,100,100mm/54 MZ-14,russia,Armored Gunhouse,100-bg-b34-p1940,2,85,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php#Mount%2FTurret_Data
@@ -662,6 +667,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 90-p-m1881,90,90mm/22 Model 1881,france,Pedestal,90-bg-m1881,1,,
 90-p-m1877,90,90mm/23 De Bange Model 1877,france,Pedestal,90-bg-m1877,1,35,https://en.wikipedia.org/wiki/De_Bange_90_mm_cannon
 89-piv-l25-krupp,89,9cm/24 L/25 Krupp,germany,Pivot,89-bg-l25-krupp,1,,http://navalhistory.flixco.info/H/291319x53535/8330/a0.htm
+88-p-tbts-lc13,88,8.8cm/45 Tbts LC/13,germany,Pedestal,88-bg-tbts-k-l45,1,25,https://www.navweaps.com/Weapons/WNGER_88mm-45_tbts.php#Mount_%2F_Turret_Data
 88-cp-mpl-c06,88,8.8cm/45 MPL C/06,germany,Pedestal (Gun Shield),88-bg-sk-l45,1,25,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-c-mpl-c01,88,8.8cm/45 MPL C/01,germany,Pedestal (Casement),88-bg-sk-l45,1,25,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-gs,88,88cm/32 CP,germany,Pedestal (Gun Shield),88-bg-sk-l35,1,25,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
@@ -669,6 +675,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 88-c,88,88cm/32 CP,germany,Pedestal (Casement),88-bg-sk-l35,1,25,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
 88-piv-sk-l30,88,8.8cm/27 SK L/30,germany,Pivot,88-bg-sk-l30,1,,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-p-ubts-l,88,8.8cm/27 Ubts.L,germany,Pedestal,88-bg-sk-l30,1,30,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
+88-p-mpl-c89,88,8.8cm/27 MPL C/89,germany,Pedestal,88-bg-sk-l30,1,20,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-gs-mpl-c89,88,8.8cm/27 MPL C/89,germany,Pedestal (Gun Shield),88-bg-sk-l30,1,20,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-c-mpl-c89,88,8.8cm/27 MPL C/89,germany,Pedestal (Casement),88-bg-sk-l30,1,20,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-cp-doppl-c31,88,8.8cm/72 Dopp L. C/31,germany,Stabalized Mount,88-bg-sk-c31,2,80,http://www.navweaps.com/Weapons/WNGER_88mm-78_skc31.php#Mount_%2F_Turret_Data
@@ -925,4 +932,5 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 7-p-m1895,7.6,"0.30""/94 M1895 Colt-Browning Machine Gun",usa,Pedestal,7-mg-m1895,1,50,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
 7-cp-browning,7.6,"0.30""/94 Unknown",usa,Central Pivot,7-mg-browning,6,,
 7-p-browning,7.6,"0.30""/94 Browning Machine Gun",usa,Pedestal,7-mg-browning,1,80,http://www.navweaps.com/Weapons/WNUS_30cal_MG.php#Mount%2FTurret_Data
+6-p-m1895,6.77,6.5mm/80 M1895/14 Colt-Browning Machine Gun,italy,Pedestal,6-mg-m1895,1,80,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
 6-p-3rd-year-type,6.5,6.5mm/115 3rd Year Type Kiho,japan,Pedestal,6-mg-3rd-year-type,1,85,http://www.navweaps.com/Weapons/WNJAP_65mm-115_Kiho.php

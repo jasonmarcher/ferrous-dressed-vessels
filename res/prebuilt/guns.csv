@@ -344,6 +344,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 89-bg-l25-krupp,9cm/24 L/25 Krupp,Krupp 9cm,germany,,89,24,,,,Breech,,0,,http://navalhistory.flixco.info/H/291319x53535/8330/a0.htm
 88-bg-sk-c31,8.8cm/72 SK C/31,Krupp 8.8cm,germany,1931-01-01,88,72,4255,20,15,Breech,950,950,500,http://www.navweaps.com/Weapons/WNGER_88mm-78_skc31.php
 88-bg-sk-c25,8.8cm/72 SK C/25,Krupp 8.8cm,germany,1925-01-01,88,72,5980,15,15,Breech,1060,1060,400,http://www.navweaps.com/Weapons/WNGER_88mm-75_skc25.php
+88-bg-tbts-k-l45,8.8cm/45 Tbts K L/45,Krupp 8.8cm,germany,1913-01-01,88,45.5,752,15,10,Breech,650,0,300,https://www.navweaps.com/Weapons/WNGER_88mm-45_tbts.php
 88-bg-sk-l45,8.8cm/45 SK L/45,Krupp 8.8cm,germany,1905-01-01,88,45,2500,15,15,Breech,650,0,300,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-bg-flak-l45,8.8cm/45 Flak L/45,Krupp 8.8cm,germany,1905-01-01,88,45,2500,15,15,Breech,890,890,300,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc13.php
 88-bg-sk-c30,8.8cm/45 SK C/30,Krupp 8.8cm,germany,1930-01-01,88,42,1230,15,15,Breech,790,790,,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc30.php
@@ -372,6 +373,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-m1911,152mm/45 Model 1911,Gio. Ansaldo 152mm,italy,1911-01-01,152,45,7100,1,1,Breech,830,0,,https://en.wikipedia.org/wiki/Cannone_da_152/45
 135-bg-m1937,135mm/45 Model 1937,Gio. Ansaldo 135mm,italy,1938-01-01,135,45,6532,7,6,Breech,825,825,320,http://www.navweaps.com/Weapons/WNIT_53-45_m1938.php
 120-bg-m1926,120mm/50 Model 1926,Gio. Ansaldo 120mm,italy,1926-01-01,120,50,5552,7,6,Breech,950,0,200,http://www.navweaps.com/Weapons/WNIT_47-50_m1926.php
+120-bg-m1918,120mm/45 Model 1918/19,Schneider-Canet-Armstrong 120mm,italy,1918-01-01,120,45,4354,7,7,Breech,750,750,,https://www.navweaps.com/Weapons/WNIT_47-45_m1918.php
 102-bg-m1914,102mm/35 Model 1914-1915,Schneider-Armstrong 102mm,italy,1914-01-01,102,34.8,1220,7,7,Breech,750,750,,http://www.navweaps.com/Weapons/WNIT_4-35_m1914.php
 90-bg-m1938,90mm/50 Model 1938,Gio. Ansaldo 90mm,italy,1938-01-01,90,50,1960,16,12,Breech,860,860,490,http://www.navweaps.com/Weapons/WNIT_35-50_m1939.php
 76-bg-compact,76mm/62 Compact,OTO-Melara 76mm,italy,1963-01-01,76,62,765,85,85,Breech Autoloader,925,925,80,http://www.navweaps.com/Weapons/WNUS_3-62_mk75.php
@@ -530,3 +532,4 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 7-mg-browning,"0.30""/94 Browning Machine Gun","Browning 0.30""",usa,1925-01-01,7.62,94,,450,400,Breech Automatic,853,853,,http://www.navweaps.com/Weapons/WNUS_30cal_MG.php
 7-mg-m1895,"0.30""/94 M1895 Colt-Browning Machine Gun","Browning 0.30""",usa,1895-01-01,7.6,94,15.8,450,400,Breech Automatic,853,853,,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
 7-mg-maxim,7.62mm/94 Maxim MG,Maxim Gun,usa,1884-01-01,7.6,94,26.5,580,520,Breech Automatic,610,610,7000,http://www.navweaps.com/Weapons/WNRussian_7.62mm_Maxim_MG.php
+6-mg-m1895,6.5mm/80 M1895/14 Colt-Browning Machine Gun,"Browning 0.30""",usa,1914-01-01,6.77,80,15.8,450,400,Breech Automatic,700,700,,https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
