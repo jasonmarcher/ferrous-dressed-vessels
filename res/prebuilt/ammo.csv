@@ -172,11 +172,13 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 149-apc-l37,"15cm APC L/3,7",germany,149,45.5,1.32,TNT,0,0,None,http://www.navweaps.com/Weapons/WNGER_59-60_skc25.php#Ammunition
 149-ap-l37,"15cm AP L/3,7",germany,149,45.3,0.99,,0,0,None,http://www.navweaps.com/Weapons/WNGER_59-45_skc16.php
 149-ap-c01,15cm AP C/01,germany,149,40,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_59-40_skc96.php
+128-he-l4,12.8cm HE L/4,germany,128,28,1.27,TNT,28,1.27,TNT,https://www.navweaps.com/Weapons/WNGER_5-45_skc34.php#Ammunition
 105-ap-1891,10.5cm AP 1891,germany,105,18.2,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_41-35_skc91.php
 105-he-1907,10.5cm HE 1907,germany,105,17.5,,,17.5,,,http://www.navweaps.com/Weapons/WNGER_41-45_skc06.php#Ammunition
 105-ap-early,10.5cm AP,germany,105,16,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_41-40_skc00.php#Ammunition
 105-ap_105-he-ger,10.5cm AP + 10.5cm HE,germany,105,15.8,,,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
 105-he-l44,"10.5cm HE L/4,4",germany,105,15.1,1.4,FP02,15.1,1.4,FP02,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Ammunition
+105-he-l41,"10.5cm HE L/4,1",germany,105,14.7,0.95,TNT,14.7,0.95,TNT,https://www.navweaps.com/Weapons/WNGER_41-55_skc28.php#Ammunition
 105-he-aa-ger,10.5cm HE,germany,105,0,0,None,15.1,,,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php
 88-ap-30_88-he-l45,"8.8cm AP 30 + 8.8cm HE L/4,5",germany,88,10.2,0.064,TNT,9,0.698,TNT,http://www.navweaps.com/Weapons/WNGER_88mm-45_skc30.php#Ammunition
 88-he-tbts-l39,"8.8cm Tbts HE L/3,9",germany,88,9.75,0.513,TNT,0,0,None,https://www.navweaps.com/Weapons/WNGER_88mm-45_tbts.php#Ammunition
@@ -186,10 +188,14 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 88-sap-l280-c01,8.8cm SAP L/2.80 C/01,germany,88,7,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 88-he-early,8.8cm HE (Early),germany,88,7,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
 75-he-l46,"7.5cm Spgr. Patr. 34 L/4,6",germany,75,5.8,0.39,TNT,5.8,0.39,TNT,http://www.navweaps.com/Weapons/WNGER_3-36_skc34.php#Ammunition
+55-he-aa,5.5cm AA Minengeschoss,germany,55,2,0.45,HTA 41,2,0.45,HTA 41,https://www.navweaps.com/Weapons/WNGER_55_Gerat58.php#Ammunition
 52-he-ger,5.2cm HE,germany,52,1.75,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_52cm-55_skc06.php#Ammunition
 50-he-ger,5cm HE,germany,50,1.75,,,0,0,None,http://www.navweaps.com/Weapons/WNGER_5cm-40_skc93.php#Ammunition
 40-he-t,4cm HE-T,germany,40,1,,,1,,,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php#Ammunition
 37-he-t,3.7cm HE-T,germany,37,0.74,0.03,FP02,0.74,0.03,FP02,http://www.navweaps.com/Weapons/WNGER_37mm-83_skc30.php
+37-he-br-spgr-vk,3.7cm Br Sprg. vk L'spur.,germany,37,0.644,0.013,NP 15,0.644,0.013,NP 15,https://www.navweaps.com/Weapons/WNGER_37mm-57_mk43.php#Ammunition
+37-he-br-spgr-42-lh3,3.7cm Br Spgr. 42 Lh 3,germany,37,0.635,0.026,FP02,0.635,0.026,FP02,https://www.navweaps.com/Weapons/WNGER_37mm-69_mk42.php#Ammunition
+30-ap-t_30-he-t,3cm AP-T + 3cm HE-T,germany,30,0.5,0,None,0.33,0.1,RDX,https://www.navweaps.com/Weapons/WNGER_30mm-53_m103.php#Ammunition
 20-api-i_20-he-i,2cm AP-I + 2cm HE-I,germany,20,0.15,0,None,0.12,0.01,PETN,http://www.navweaps.com/Weapons/WNGER_20mm-65_c30.php
 20-hei-hc,2cm HEI-HC,germany,20,0.09,0.019,PETN,0.09,0.019,PETN,https://en.wikipedia.org/wiki/20%C3%9782mm
 7-b-79-mauser,7.9mm Mauser,germany,7.9,0.01,0,None,0.01,0,None,https://en.wikipedia.org/wiki/MG_08
@@ -216,6 +222,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 76-ap-ita,76mm AP,italy,76,6,,,0,0,None,http://www.navweaps.com/Weapons/WNIT_3-50_m1909.php
 65-he-ita,65mm he,italy,65,4,,,4,,,http://www.navweaps.com/Weapons/WNIT_65mm-64_m1939.php#Ammunition
 40-he-ita,40mm HE,italy,40,0.9,0.1,,0.9,0.1,,http://www.navweaps.com/Weapons/WNBR_2pounder_m2.php
+40-pfhe,40mm PFHE,italy,40,0.88,0.115,,0.88,0.115,,https://www.navweaps.com/Weapons/WNIT_4cm-70_Breda.php#Ammunition
 37-he-ita,37mm HE,italy,37,0.82,0.02,TNT,0.82,0.02,TNT,http://www.navweaps.com/Weapons/WNIT_37mm-54_m1932.php
 37-he-ita-early,37mm HE (Early),italy,37,0.51,0.01,Black Powder,0.51,,,http://navypedia.org/arms/italy/arms_it_guns.htm
 20-he-ita,20mm HE,italy,20,0.13,,,0.13,,,http://www.navweaps.com/Weapons/WNIT_20mm-65.php

@@ -8245,6 +8245,7 @@ dd_mons_1914|hms_redmill,Medina,"River Medina, England, UK"
 dd_mons_1914|hms_redmill,Redmill,Robert Redmill
 dd_mons_1914|hms_redwing,Medway,"River Medway, England, UK"
 dd_mons_1914|hms_redwing,Redwing,Redwing
+dd_mowe_1926|mowe,Mowe,
 dd_murakumo|kagero,Kagero,Heat Haze
 dd_murakumo|murakumo,Murakumo,Altocumulus Cloud
 dd_murakumo|murakumo,Murakumo Maru,Altocumulus Cloud
@@ -8702,6 +8703,14 @@ dd_rosolino_pilo|simone_schiaffino,Simone Schiaffino,
 dd_rykov|karl_libknekht,Karl Libknekht,
 dd_rykov|rykov,Rykov,
 dd_rykov|rykov,Valerian Kuybyshev,
+dd_s178|s178,S178,Hull Number
+dd_s178|s179,S179,Hull Number
+dd_s178|s180,S180,Hull Number
+dd_s178|s181,S181,Hull Number
+dd_s178|s182,S182,Hull Number
+dd_s178|s183,S183,Hull Number
+dd_s178|s184,S184,Hull Number
+dd_s178|s185,S185,Hull Number
 dd_sabrina_1915|hms_sabrina,Sabrina,Hafren
 dd_sabrina_1915|hms_strongbow,Strongbow,"Richard de Clare, 2nd Earl of Pembroke"
 dd_sabrina_1915|hms_surprise,Surprise,Surprise
@@ -9082,6 +9091,17 @@ dd_tuscan_1941|hms_troubridge,Troubridge,"Thomas Troubridge, 1st Baronet"
 dd_tuscan_1941|hms_tumult,Tumult,Tumult
 dd_tuscan_1941|hms_tuscan,Tuscan,Tuscan
 dd_tuscan_1941|hms_tyrian,Tyrian,Tyrian
+dd_type_1923_1926|albatros,Albatros,
+dd_type_1923_1926|falke,Falke,
+dd_type_1923_1926|greif,Greif,
+dd_type_1923_1926|kondor,Kondor,
+dd_type_1923_1926|seeadler,Seeadler,
+dd_type_1924_1928|iltis,Iltis,
+dd_type_1924_1928|jaguar,Jaguar,
+dd_type_1924_1928|leopard,Leopard,Leopard
+dd_type_1924_1928|luchs,Luchs,
+dd_type_1924_1928|tiger,Tiger,Tiger
+dd_type_1924_1928|wolf,Wolf,Wolf
 dd_ukrayna|trukhmenets,Altfater,
 dd_ukrayna|trukhmenets,Mirza Kuchuk,
 dd_ukrayna|trukhmenets,Sovetskiy Dagestan,
@@ -9453,65 +9473,67 @@ dd_yugumo|suzunami,Suzunami,Cool Wave
 dd_yugumo|takanami,Takanami,Crashing Wave
 dd_yugumo|tamanami,Tamanami,Moonlight Ripples
 dd_yugumo|yugumo,Yugumo,Evening Cloud
-dd_z_1934_a|z10_hans_lody,Z10 Hans Lody,
-dd_z_1934_a|z11_bernd_von_arnim,Z11 Bernd von Arnim,
-dd_z_1934_a|z12_erich_giese,Z12 Erich Giese,
-dd_z_1934_a|z13_erich_koellner,Z13 Erich Koellner,
-dd_z_1934_a|z14_friedrich_ihn,Prytkiy,
-dd_z_1934_a|z14_friedrich_ihn,Z14 Friedrich Ihn,
-dd_z_1934_a|z15_erich_steinbrinck,Pylkiy,
-dd_z_1934_a|z15_erich_steinbrinck,Z15 Erich Steinbrinck,
-dd_z_1934_a|z16_friedrich_eckoldt,Z16 Friedrich Eckoldt,
 dd_z_1934_a|z5_paul_jacobi,Desaix,
 dd_z_1934_a|z5_paul_jacobi,Z5 Paul Jacobi,
 dd_z_1934_a|z6_theodor_riedel,Kleber,
 dd_z_1934_a|z6_theodor_riedel,Z6 Theodor Riedel,
 dd_z_1934_a|z7_hermann_schoemann,Z7 Hermann Schoemann,
 dd_z_1934_a|z8_bruno_heinemann,Z8 Bruno Heinemann,
-dd_z_1934_a|z9_wolfgang_zenker,Z9 Wolfgang Zenker,
 dd_z_1934|z1_leberecht_maass,Z1 Leberecht Maass,
 dd_z_1934|z2_georg_thiele,Z2 Georg Thiele,
 dd_z_1934|z3_max_schultz,Z3 Max Schultz,
 dd_z_1934|z4_richard_beitzen,Z4 Richard Beitzen,
-dd_z_1936_a|z23,Z23,
-dd_z_1936_a|z24,Z24,
+dd_z_1936_a|z23,Z23,Hull Number
+dd_z_1936_a|z24,Z24,Hull Number
 dd_z_1936_a|z25,Hoche,
-dd_z_1936_a|z25,Z25,
-dd_z_1936_a|z26,Z26,
-dd_z_1936_a|z27,Z27,
-dd_z_1936_a|z28,Z28,
-dd_z_1936_a|z29,Z29,
-dd_z_1936_a|z30,Z30,
+dd_z_1936_a|z25,Z25,Hull Number
+dd_z_1936_a|z26,Z26,Hull Number
+dd_z_1936_a|z27,Z27,Hull Number
 dd_z_1936_am|z31,Marceau,
-dd_z_1936_am|z31,Z31,
-dd_z_1936_am|z32,Z32,
-dd_z_1936_am|z33,Provornyy,
-dd_z_1936_am|z33,Z33,
-dd_z_1936_am|z34,Z34,
-dd_z_1936_am|z37,Z37,
+dd_z_1936_am|z31,Z31,Hull Number
+dd_z_1936_am|z32,Z32,Hull Number
+dd_z_1936_am|z33,Provornyy,Nimble
+dd_z_1936_am|z33,Z33,Hull Number
+dd_z_1936_am|z34,Z34,Hull Number
+dd_z_1936_am|z37,Z37,Hull Number
 dd_z_1936_am|z38,Nonsuch,
-dd_z_1936_am|z38,Z38,
-dd_z_1936_am|z39,Z39,
-dd_z_1936_b|z35,Z35,
-dd_z_1936_b|z36,Z36,
-dd_z_1936_b|z43,Z43,
-dd_z_1936_b|z44,Z44,
-dd_z_1936_b|z45,Z45,
-dd_z_1936_c|z46,Z46,
-dd_z_1936_c|z47,Z47,
+dd_z_1936_am|z38,Z38,Hull Number
+dd_z_1936_am|z39,Z39,Hull Number
+dd_z_1936_b|z35,Z35,Hull Number
+dd_z_1936_b|z36,Z36,Hull Number
+dd_z_1936_b|z43,Z43,Hull Number
+dd_z_1936_b|z44,Z44,Hull Number
+dd_z_1936_b|z45,Z45,Hull Number
+dd_z_1936_c|z46,Z46,Hull Number
+dd_z_1936_c|z47,Z47,Hull Number
 dd_z_1936|z17_diether_von_roeder,Z17 Diether von Roeder,
 dd_z_1936|z18_hans_ludemann,Z18 Hans Ludemann,
 dd_z_1936|z19_hermann_kunne,Z19 Hermann Kunne,
-dd_z_1936|z20_karl_galster,Prochnyy,
-dd_z_1936|z20_karl_galster,Z20 Karl Galster,
-dd_z_1936|z21_wilhelm_heidkamp,Z21 Wilhelm Heidkamp,
-dd_z_1936|z22_anton_schmitt,Z22 Anton Schmitt,
-dd_z_1942|z51,Z51,
-dd_z_1944|z52,Z52,
-dd_z_1944|z53,Z53,
-dd_z_1944|z54,Z54,
-dd_z_1944|z55,Z55,
-dd_z_1944|z56,Z56,
+dd_z_1942|z51,Z51,Hull Number
+dd_z_1944|z52,Z52,Hull Number
+dd_z_1944|z53,Z53,Hull Number
+dd_z_1944|z54,Z54,Hull Number
+dd_z_1944|z55,Z55,Hull Number
+dd_z_1944|z56,Z56,Hull Number
+dd_z20_1937|z20_karl_galster,PKZ-99,Hull Number
+dd_z20_1937|z20_karl_galster,Prochnyy,
+dd_z20_1937|z20_karl_galster,Z20 Karl Galster,
+dd_z20_1937|z21_wilhelm_heidkamp,Z21 Wilhelm Heidkamp,
+dd_z20_1937|z22_anton_schmitt,Z22 Anton Schmitt,
+dd_z28_1939|z28,Z28,Hull Number
+dd_z29_1940|z29,Z29,Hull Number
+dd_z29_1940|z30,Z30,Hull Number
+dd_z9_1935|z10_hans_lody,Z10 Hans Lody,
+dd_z9_1935|z11_bernd_von_arnim,Z11 Bernd von Arnim,
+dd_z9_1935|z12_erich_giese,Z12 Erich Giese,
+dd_z9_1935|z13_erich_koellner,Z13 Erich Koellner,
+dd_z9_1935|z14_friedrich_ihn,Prytkiy,
+dd_z9_1935|z14_friedrich_ihn,Z14 Friedrich Ihn,
+dd_z9_1935|z15_erich_steinbrinck,PKZ-2,Hull Number
+dd_z9_1935|z15_erich_steinbrinck,Pylkiy,
+dd_z9_1935|z15_erich_steinbrinck,Z15 Erich Steinbrinck,
+dd_z9_1935|z16_friedrich_eckoldt,Z16 Friedrich Eckoldt,
+dd_z9_1935|z9_wolfgang_zenker,Z9 Wolfgang Zenker,
 dd_zafer|tinaztepe,Tinaztepe,
 dd_zafer|zafer,Zafer,
 dd_zebra|hms_zebra,Zebra,Zebra
@@ -13558,7 +13580,6 @@ ltb_h166|h166,H166,Hull Number
 ltb_h166|h167,H167,Hull Number
 ltb_h166|h168,H168,Hull Number
 ltb_h166|h169,H169,Hull Number
-ltb_mowe_1926|mowe,Mowe,
 ltb_s102|s102,S102,Hull Number
 ltb_s102|s102,T102,Hull Number
 ltb_s102|s103,S103,Hull Number
@@ -13682,14 +13703,6 @@ ltb_s176|s178,S178,Hull Number
 ltb_s176|s178,T178,Hull Number
 ltb_s176|s179,S179,Hull Number
 ltb_s176|s179,T179,Hull Number
-ltb_s178|s178,S178,Hull Number
-ltb_s178|s179,S179,Hull Number
-ltb_s178|s180,S180,Hull Number
-ltb_s178|s181,S181,Hull Number
-ltb_s178|s182,S182,Hull Number
-ltb_s178|s183,S183,Hull Number
-ltb_s178|s184,S184,Hull Number
-ltb_s178|s185,S185,Hull Number
 ltb_s31|s31,S31,Hull Number
 ltb_s31|s32,S32,Hull Number
 ltb_s31|s33,S33,Hull Number
@@ -13811,17 +13824,6 @@ ltb_t9_1940|t11,T11,Hull Number
 ltb_t9_1940|t12,Podvizhnyy,
 ltb_t9_1940|t12,T12,Hull Number
 ltb_t9_1940|t9,T9,Hull Number
-ltb_type_1923_1926|albatros,Albatros,
-ltb_type_1923_1926|falke,Falke,
-ltb_type_1923_1926|greif,Greif,
-ltb_type_1923_1926|kondor,Kondor,
-ltb_type_1923_1926|seeadler,Seeadler,
-ltb_type_1924_1928|iltis,Iltis,
-ltb_type_1924_1928|jaguar,Jaguar,
-ltb_type_1924_1928|leopard,Leopard,Leopard
-ltb_type_1924_1928|luchs,Luchs,
-ltb_type_1924_1928|tiger,Tiger,Tiger
-ltb_type_1924_1928|wolf,Wolf,Wolf
 ltb_v1|v1,V1,Hull Number
 ltb_v1|v2,V2,Hull Number
 ltb_v1|v3,V3,Hull Number
