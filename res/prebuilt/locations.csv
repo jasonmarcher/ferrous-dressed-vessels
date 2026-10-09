@@ -102,6 +102,7 @@ nsy_deptford,Deptford Dockyard,Navy Shipyard,britain,nsy_deptford,https://en.wik
 nsy_devonport,Devonport Dockyard,Navy Shipyard,britain,nsy_devonport,https://en.wikipedia.org/wiki/HMNB_Devonport
 nsy_esteiro_royal_dockyards,Esteiro Royal Dockyards,Navy Shipyard,spain,nsy_esteiro_royal_dockyards,https://en.wikipedia.org/wiki/Reales_Astilleros_de_Esteiro
 nsy_jsc_admiralty_shipyards,Admiralty Shipyard (194),Navy Shipyard,russia,nsy_jsc_admiralty_shipyards,https://en.wikipedia.org/wiki/Admiralty_Shipyards
+nsy_kaiserliche_werft_antwerpen,Imperial Shipyard Antwerp,Navy Shipyard,germany,sy_cockerill_yards,https://nl.wikipedia.org/wiki/Cockerill_Yards
 nsy_kure_naval_arsenal,Kure Naval Arsenal,Navy Shipyard,japan,nsy_kure_naval_arsenal,https://en.wikipedia.org/wiki/Kure_Naval_Arsenal
 nsy_la_spezia_naval_base,La Spezia Naval Base,Navy Shipyard,italy,nsy_la_spezia_naval_base,https://en.wikipedia.org/wiki/La_Spezia_Naval_Base
 nsy_lorient_arsenal,Lorient Arsenal,Navy Shipyard,france,nsy_lorient_arsenal,https://fr.wikipedia.org/wiki/Arsenal_de_Lorient
@@ -181,10 +182,12 @@ sy_consolidated_wilmington,"Consolidated Steel Corporation, Wilmington",Commerci
 sy_crda_monfalcone,Cantieri Riuniti dell'Adriatico,Commercial Shipyard,italy,sy_monfalcone_shipyard,https://en.wikipedia.org/wiki/Cantieri_Riuniti_dell%27Adriatico
 sy_crda_trieste,"Cantieri Riuniti dell'Adriatico, Trieste",Commercial Shipyard,italy,sy_trieste_shipyard,https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino
 sy_crescent_newark,Crescent Shipyard,Commercial Shipyard,usa,sy_crescent_newark,https://en.wikipedia.org/wiki/Crescent_Shipyard
-sy_danzig_kw,Imperial Shipyard Danzig,Commercial Shipyard,germany,sy_danzig_kw,https://en.wikipedia.org/wiki/Kaiserliche_Werft_Danzig
+sy_danzig_kw,Imperial Shipyard Danzig,Navy Shipyard,germany,sy_danzig_kw,https://en.wikipedia.org/wiki/Kaiserliche_Werft_Danzig
 sy_dbf_prairie_au_duc,"De la Brosse et Fouché, Prairie-au-Duc",Commercial Shipyard,france,sy_dbf_prairie_au_duc,https://en.wikipedia.org/wiki/Ateliers_et_Chantiers_de_Bretagne
+sy_de_schelde,"De Schelde, Vlissingen",Commercial Shipyard,netherlands,sy_de_schelde,https://en.wikipedia.org/wiki/Damen_Schelde_Naval_Shipbuilding
 sy_defoe_shipbuilding,Defoe Shipbuilding Company,Commercial Shipyard,usa,sy_defoe_shipbuilding,https://en.wikipedia.org/wiki/Defoe_Shipbuilding_Company
 sy_delaware_river,Delaware River Iron Ship Building and Engine Works,Commercial Shipyard,usa,sy_delaware_river,https://en.wikipedia.org/wiki/Delaware_River_Iron_Ship_Building_and_Engine_Works
+sy_deschimag_bremen,"Deschimag, Bremen",Commercial Shipyard,germany,sy_weser_bremen,https://en.wikipedia.org/wiki/AG_Weser
 sy_dixon_middlesbrough,"Dixon, Sir Raylton & Co. Ltd.",Commercial Shipyard,britain,sy_dixon_middlesbrough,https://en.wikipedia.org/wiki/Raylton_Dixon
 sy_dyle_bacalan_bordeaux,"Dyle et Bacalan, Bordeaux",Commercial Shipyard,france,sy_dyle_bacalan_bordeaux,https://en.wikipedia.org/wiki/Dyle_et_Bacalan
 sy_earle_hull,Earle's Shipbuilding,Commercial Shipyard,britain,sy_earle_hull,https://en.wikipedia.org/wiki/Earle%27s_Shipbuilding
@@ -227,7 +230,7 @@ sy_john_brown_clydebank_shipyard,John Brown and Company,Commercial Shipyard,brit
 sy_john_roach,John Roach & Sons,Commercial Shipyard,britain,sy_chester,https://en.wikipedia.org/wiki/John_Roach_%26_Sons
 sy_kaiser_vancouver,"Kaiser Company, Vancouver",Commercial Shipyard,usa,sy_kaiser_vancouver,https://en.wikipedia.org/wiki/Vancouver_Shipyard
 sy_kawasaki_kobe,"Kawasaki Shipbuilding Corporation, Kobe",Commercial Shipyard,japan,sy_kawasaki_kobe,https://en.wikipedia.org/wiki/Kawasaki_Shipbuilding_Corporation
-sy_kiel,Imperial Shipyard Kiel,Commercial Shipyard,germany,sy_kiel,https://en.wikipedia.org/wiki/Deutsche_Werke
+sy_kiel,Imperial Shipyard Kiel,Navy Shipyard,germany,sy_kiel,https://en.wikipedia.org/wiki/Deutsche_Werke
 sy_krupp_germania_kiel,Friedrich Krupp Germania,Commercial Shipyard,germany,sy_germania_kiel,https://en.wikipedia.org/wiki/Friedrich_Krupp_Germaniawerft
 sy_lake_washington_shipyard,Lake Washington Shipyard,Commercial Shipyard,usa,sy_lake_washington_shipyard,https://en.wikipedia.org/wiki/Lake_Washington_Shipyard
 sy_lithgows_kingston,"Lithgows, Kingston",Commercial Shipyard,britain,sy_kingston_yard,https://en.wikipedia.org/wiki/Lithgows
@@ -258,9 +261,12 @@ sy_putilov,Putilov Shipyard (190),Commercial Shipyard,russia,sy_putilov,https://
 sy_reiherstieg_hamburg,Reiherstieg Schiffswerfte & Maschinenfabrik,Commercial Shipyard,germany,sy_reiherstieg_hamburg,https://en.wikipedia.org/wiki/Reiherstieg_Schiffswerfte_%26_Maschinenfabrik
 sy_riva_trigoso_shipyard,Riva Trigoso Shipyard,Commercial Shipyard,italy,sy_riva_trigoso_shipyard,https://en.wikipedia.org/wiki/Cantiere_navale_di_Riva_Trigoso
 sy_rosyth_dockyard,Rosyth Dockyard,Commercial Shipyard,britain,sy_rosyth_dockyard,https://en.wikipedia.org/wiki/Rosyth_Dockyard
+sy_rotterdam_droogdok_mij,Rotterdam Droogdok Mij,Commercial Shipyard,netherlands,sy_rotterdam_droogdok_mij,https://en.wikipedia.org/wiki/Rotterdamsche_Droogdok_Maatschappij
 sy_russo_baltic_reval,Russo-Baltic Shipyard,Commercial Shipyard,russia,sy_russo_baltic_reval,https://en.wikipedia.org/wiki/Kopli
+sy_sachsenberg_werft,Sachsenberg Werft,Commercial Shipyard,germany,sy_rosslau,https://de.wikipedia.org/wiki/Sachsenberg-Werke
 sy_samuda_brothers,Samuda Brothers,Commercial Shipyard,britain,sy_samuda_brothers,https://en.wikipedia.org/wiki/Samuda_Brothers
 sy_schichau_danzig,"Schichau-Werke, Danzig",Commercial Shipyard,germany,sy_danzig,https://en.wikipedia.org/wiki/Schichau-Werke
+sy_schichau_elbing,"Schichau-Werke, Elbing",Commercial Shipyard,germany,sy_elbing,https://en.wikipedia.org/wiki/Schichau-Werke
 sy_schneider_chalon_sur_saone,"Schneider-Creusot, Chalon-sur-Saône",Commercial Shipyard,france,sy_schneider_chalon_sur_saone,https://en.wikipedia.org/wiki/Schneider-Creusot
 sy_scotts_greenock,Scotts Shipbuilding and Engineering Company,Commercial Shipyard,britain,sy_cartsburn_yard,https://en.wikipedia.org/wiki/Scotts_Shipbuilding_and_Engineering_Company
 sy_seattle_construction,Seattle Construction and Drydock Company,Commercial Shipyard,usa,sy_seattle_construction,https://en.wikipedia.org/wiki/Seattle_Construction_and_Drydock_Company
@@ -301,13 +307,14 @@ sy_western_pipe,Western Pipe and Steel Company,Commercial Shipyard,usa,sy_wester
 sy_westwood_baillie,"Westwood, Baillie and Company",Commercial Shipyard,britain,sy_westwood_baillie,"https://en.wikipedia.org/wiki/Westwood,_Baillie"
 sy_white_cowes,J. Samuel White,Commercial Shipyard,britain,sy_white_cowes,https://en.wikipedia.org/wiki/J._Samuel_White
 sy_wigrams_blackwall,"Wigrams, Blackwall",Commercial Shipyard,britain,sy_blackwall_yard,https://en.wikipedia.org/wiki/Blackwall_Yard#Greens
-sy_wilhelmshaven,Imperial Shipyard Wilhelmshaven,Commercial Shipyard,germany,sy_wilhelmshaven,https://en.wikipedia.org/wiki/Kaiserliche_Werft_Wilhelmshaven
+sy_wilhelmshaven,Imperial Shipyard Wilhelmshaven,Navy Shipyard,germany,sy_wilhelmshaven,https://en.wikipedia.org/wiki/Kaiserliche_Werft_Wilhelmshaven
 sy_willamette_iron_and_steel_works,Willamette Iron and Steel Works,Commercial Shipyard,usa,sy_willamette_iron_and_steel_works,https://en.wikipedia.org/wiki/Willamette_Iron_and_Steel_Works
 sy_william_beardmore,William Beardmore and Company,Commercial Shipyard,britain,sy_dalmuir_shipyard,https://en.wikipedia.org/wiki/William_Beardmore_and_Company
 sy_william_cramp_and_sons,William Cramp & Sons Shipbuilding Company,Commercial Shipyard,usa,sy_william_cramp_and_sons,https://en.wikipedia.org/wiki/William_Cramp_%26_Sons
 sy_william_denny_dumbarton,William Denny and Brothers,Commercial Shipyard,britain,sy_william_denny_dumbarton,https://en.wikipedia.org/wiki/William_Denny_and_Brothers
 sy_william_doxford,William Doxford & Sons,Commercial Shipyard,britain,sy_pallion,https://en.wikipedia.org/wiki/William_Doxford_%26_Sons
 sy_william_trigg,William R. Trigg Company,Commercial Shipyard,usa,sy_william_trigg,https://en.wikipedia.org/wiki/William_R._Trigg_Company
+sy_wilton_fijenoord,"Wilton-Fijenoord, Schiedam",Commercial Shipyard,netherlands,sy_wilton_fijenoord,https://en.wikipedia.org/wiki/Wilton-Fijenoord
 sy_wolff_zwicker,Wolff & Zwicker Iron Works,Commercial Shipyard,usa,sy_wolff_zwicker,https://en.wikipedia.org/wiki/Wolff_%26_Zwicker_Iron_Works
 sy_workman_belfast,"Workman, Clark and Company",Commercial Shipyard,britain,sy_workman_belfast,"https://en.wikipedia.org/wiki/Workman,_Clark_and_Company"
 sy_yarrow_poplar,"Yarrow, Poplar",Commercial Shipyard,britain,sy_poplar,https://en.wikipedia.org/wiki/Yarrow_Shipbuilders

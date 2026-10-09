@@ -6084,9 +6084,6 @@ dd_aylwin|uss_aylwin,Aylwin,John Cushing Aylwin
 dd_aylwin|uss_balch,Balch,George Balch
 dd_aylwin|uss_benham,Benham,Andrew Ellicott Kennedy Benham
 dd_aylwin|uss_parker,Parker,Foxhall A. Parker Jr.
-dd_b122|b122,B122,
-dd_b122|b123,B123,
-dd_b122|b124,B124,
 dd_b97|b109,B109,
 dd_b97|b110,B110,
 dd_b97|b111,B111,
@@ -7197,9 +7194,6 @@ dd_furor_1950|relampago,Relampago,
 dd_furor_1950|temerario,Temerario,
 dd_furor|furor,Furor,
 dd_furor|terror,Terror,
-dd_g119|g119,G119,
-dd_g119|g120,G120,
-dd_g119|g121,G121,
 dd_gala|hms_gala,Gala,"Gala Water, Scotland, UK"
 dd_gala|hms_garry,Garry,"River Garry, Scotland, UK"
 dd_gallant_1934|hms_gallant,Gallant,Gallant
@@ -7478,6 +7472,8 @@ dd_guepard|valmy,FR24,
 dd_guepard|valmy,Valmy,
 dd_guepard|vauban,Vauban,
 dd_guepard|verdun,Verdun,
+dd_h186|h186,H186,Hull Number
+dd_h186|h187,H187,Hull Number
 dd_hai_lung|hai_hoha,Hai Hoha,
 dd_hai_lung|hai_hoha,Leytenant Burakov,
 dd_hai_lung|hai_hse,Hai Hse,
@@ -8249,6 +8245,7 @@ dd_mons_1914|hms_redmill,Medina,"River Medina, England, UK"
 dd_mons_1914|hms_redmill,Redmill,Robert Redmill
 dd_mons_1914|hms_redwing,Medway,"River Medway, England, UK"
 dd_mons_1914|hms_redwing,Redwing,Redwing
+dd_mowe_1926|mowe,Mowe,
 dd_murakumo|kagero,Kagero,Heat Haze
 dd_murakumo|murakumo,Murakumo,Altocumulus Cloud
 dd_murakumo|murakumo,Murakumo Maru,Altocumulus Cloud
@@ -8706,12 +8703,14 @@ dd_rosolino_pilo|simone_schiaffino,Simone Schiaffino,
 dd_rykov|karl_libknekht,Karl Libknekht,
 dd_rykov|rykov,Rykov,
 dd_rykov|rykov,Valerian Kuybyshev,
-dd_s113|s113,Amiral Senes,
-dd_s113|s113,S113,
-dd_s113|s114,S114,
-dd_s113|s115,S115,
-dd_s35|s_i,s-i,
-dd_s35|s_ii,s-ii,
+dd_s178|s178,S178,Hull Number
+dd_s178|s179,S179,Hull Number
+dd_s178|s180,S180,Hull Number
+dd_s178|s181,S181,Hull Number
+dd_s178|s182,S182,Hull Number
+dd_s178|s183,S183,Hull Number
+dd_s178|s184,S184,Hull Number
+dd_s178|s185,S185,Hull Number
 dd_sabrina_1915|hms_sabrina,Sabrina,Hafren
 dd_sabrina_1915|hms_strongbow,Strongbow,"Richard de Clare, 2nd Earl of Pembroke"
 dd_sabrina_1915|hms_surprise,Surprise,Surprise
@@ -8735,14 +8734,14 @@ dd_samsun|basra,Basra,
 dd_samsun|samsun,Samsun,
 dd_samsun|tasoz,Tasoz,
 dd_samsun|yarhisar,Yarhisar,
-dd_san_luis_1914|ara_san_luis,G102,
+dd_san_luis_1914|ara_san_luis,G102,Hull Number
 dd_san_luis_1914|ara_san_luis,San Luis,
-dd_san_luis_1914|ara_santiago,G101,
+dd_san_luis_1914|ara_santa_fe,G103,Hull Number
+dd_san_luis_1914|ara_santa_fe,Santa Fe,
+dd_san_luis_1914|ara_santiago,G101,Hull Number
 dd_san_luis_1914|ara_santiago,Santiago,
-dd_san_luis_1914|ara_tucuman,G104,
+dd_san_luis_1914|ara_tucuman,G104,Hull Number
 dd_san_luis_1914|ara_tucuman,Tucuman,
-dd_san_luis|ara_1914_santa_fe,G103,
-dd_san_luis|ara_1914_santa_fe,Santa Fe,
 dd_san_luis|ara_san_luis,Aetos,
 dd_san_luis|ara_san_luis,San Luis,
 dd_san_luis|ara_santa_fe,Ierax,
@@ -9092,6 +9091,17 @@ dd_tuscan_1941|hms_troubridge,Troubridge,"Thomas Troubridge, 1st Baronet"
 dd_tuscan_1941|hms_tumult,Tumult,Tumult
 dd_tuscan_1941|hms_tuscan,Tuscan,Tuscan
 dd_tuscan_1941|hms_tyrian,Tyrian,Tyrian
+dd_type_1923_1926|albatros,Albatros,
+dd_type_1923_1926|falke,Falke,
+dd_type_1923_1926|greif,Greif,
+dd_type_1923_1926|kondor,Kondor,
+dd_type_1923_1926|seeadler,Seeadler,
+dd_type_1924_1928|iltis,Iltis,
+dd_type_1924_1928|jaguar,Jaguar,
+dd_type_1924_1928|leopard,Leopard,Leopard
+dd_type_1924_1928|luchs,Luchs,
+dd_type_1924_1928|tiger,Tiger,Tiger
+dd_type_1924_1928|wolf,Wolf,Wolf
 dd_ukrayna|trukhmenets,Altfater,
 dd_ukrayna|trukhmenets,Mirza Kuchuk,
 dd_ukrayna|trukhmenets,Sovetskiy Dagestan,
@@ -9113,8 +9123,8 @@ dd_ulster_1941|hms_urania,Urania,Urania
 dd_ulster_1941|hms_urchin,Urchin,Hedgehog
 dd_ulster_1941|hms_ursa,Ursa,Bear
 dd_umikaze|umikaze,Umikaze,Sea Wind
-dd_umikaze|umikaze,W-7,
-dd_umikaze|yamakaze,W-8,
+dd_umikaze|umikaze,W-7,Hull Number
+dd_umikaze|yamakaze,W-8,Hull Number
 dd_umikaze|yamakaze,Yamakaze,Mountain Wind
 dd_urakaze|kawakaze,Audace,Audacity
 dd_urakaze|kawakaze,Intrepido,Intrepid
@@ -9125,12 +9135,14 @@ dd_urakaze|urakaze,Urakaze,Bay Wind
 dd_usk|hms_ribble,Ribble,"River Ribble, England, UK"
 dd_usk|hms_teviot,Teviot,"River Teviot, Scotland, UK"
 dd_usk|hms_usk,Usk,"River Usk, Wales, UK"
-dd_v116|v116,Premuda,
-dd_v116|v116,V116,
-dd_v116|v117,V117,
-dd_v116|v118,V118,
-dd_v99|v100,V100,
-dd_v99|v99,V99,
+dd_v170|v170,V170,Hull Number
+dd_v170|v171,V171,Hull Number
+dd_v170|v172,V172,Hull Number
+dd_v170|v173,V173,Hull Number
+dd_v170|v174,V174,Hull Number
+dd_v170|v175,V175,Hull Number
+dd_v99|v100,V100,Hull Number
+dd_v99|v99,V99,Hull Number
 dd_valkyrjen|valkyrjen,Valkyrjen,
 dd_van_galen|hnlms_banckert,Banckert,
 dd_van_galen|hnlms_van_galen,Van Galen,
@@ -9461,65 +9473,67 @@ dd_yugumo|suzunami,Suzunami,Cool Wave
 dd_yugumo|takanami,Takanami,Crashing Wave
 dd_yugumo|tamanami,Tamanami,Moonlight Ripples
 dd_yugumo|yugumo,Yugumo,Evening Cloud
-dd_z_1934_a|z10_hans_lody,Z10 Hans Lody,
-dd_z_1934_a|z11_bernd_von_arnim,Z11 Bernd von Arnim,
-dd_z_1934_a|z12_erich_giese,Z12 Erich Giese,
-dd_z_1934_a|z13_erich_koellner,Z13 Erich Koellner,
-dd_z_1934_a|z14_friedrich_ihn,Prytkiy,
-dd_z_1934_a|z14_friedrich_ihn,Z14 Friedrich Ihn,
-dd_z_1934_a|z15_erich_steinbrinck,Pylkiy,
-dd_z_1934_a|z15_erich_steinbrinck,Z15 Erich Steinbrinck,
-dd_z_1934_a|z16_friedrich_eckoldt,Z16 Friedrich Eckoldt,
 dd_z_1934_a|z5_paul_jacobi,Desaix,
 dd_z_1934_a|z5_paul_jacobi,Z5 Paul Jacobi,
 dd_z_1934_a|z6_theodor_riedel,Kleber,
 dd_z_1934_a|z6_theodor_riedel,Z6 Theodor Riedel,
 dd_z_1934_a|z7_hermann_schoemann,Z7 Hermann Schoemann,
 dd_z_1934_a|z8_bruno_heinemann,Z8 Bruno Heinemann,
-dd_z_1934_a|z9_wolfgang_zenker,Z9 Wolfgang Zenker,
 dd_z_1934|z1_leberecht_maass,Z1 Leberecht Maass,
 dd_z_1934|z2_georg_thiele,Z2 Georg Thiele,
 dd_z_1934|z3_max_schultz,Z3 Max Schultz,
 dd_z_1934|z4_richard_beitzen,Z4 Richard Beitzen,
-dd_z_1936_a|z23,Z23,
-dd_z_1936_a|z24,Z24,
+dd_z_1936_a|z23,Z23,Hull Number
+dd_z_1936_a|z24,Z24,Hull Number
 dd_z_1936_a|z25,Hoche,
-dd_z_1936_a|z25,Z25,
-dd_z_1936_a|z26,Z26,
-dd_z_1936_a|z27,Z27,
-dd_z_1936_a|z28,Z28,
-dd_z_1936_a|z29,Z29,
-dd_z_1936_a|z30,Z30,
+dd_z_1936_a|z25,Z25,Hull Number
+dd_z_1936_a|z26,Z26,Hull Number
+dd_z_1936_a|z27,Z27,Hull Number
 dd_z_1936_am|z31,Marceau,
-dd_z_1936_am|z31,Z31,
-dd_z_1936_am|z32,Z32,
-dd_z_1936_am|z33,Provornyy,
-dd_z_1936_am|z33,Z33,
-dd_z_1936_am|z34,Z34,
-dd_z_1936_am|z37,Z37,
+dd_z_1936_am|z31,Z31,Hull Number
+dd_z_1936_am|z32,Z32,Hull Number
+dd_z_1936_am|z33,Provornyy,Nimble
+dd_z_1936_am|z33,Z33,Hull Number
+dd_z_1936_am|z34,Z34,Hull Number
+dd_z_1936_am|z37,Z37,Hull Number
 dd_z_1936_am|z38,Nonsuch,
-dd_z_1936_am|z38,Z38,
-dd_z_1936_am|z39,Z39,
-dd_z_1936_b|z35,Z35,
-dd_z_1936_b|z36,Z36,
-dd_z_1936_b|z43,Z43,
-dd_z_1936_b|z44,Z44,
-dd_z_1936_b|z45,Z45,
-dd_z_1936_c|z46,Z46,
-dd_z_1936_c|z47,Z47,
+dd_z_1936_am|z38,Z38,Hull Number
+dd_z_1936_am|z39,Z39,Hull Number
+dd_z_1936_b|z35,Z35,Hull Number
+dd_z_1936_b|z36,Z36,Hull Number
+dd_z_1936_b|z43,Z43,Hull Number
+dd_z_1936_b|z44,Z44,Hull Number
+dd_z_1936_b|z45,Z45,Hull Number
+dd_z_1936_c|z46,Z46,Hull Number
+dd_z_1936_c|z47,Z47,Hull Number
 dd_z_1936|z17_diether_von_roeder,Z17 Diether von Roeder,
 dd_z_1936|z18_hans_ludemann,Z18 Hans Ludemann,
 dd_z_1936|z19_hermann_kunne,Z19 Hermann Kunne,
-dd_z_1936|z20_karl_galster,Prochnyy,
-dd_z_1936|z20_karl_galster,Z20 Karl Galster,
-dd_z_1936|z21_wilhelm_heidkamp,Z21 Wilhelm Heidkamp,
-dd_z_1936|z22_anton_schmitt,Z22 Anton Schmitt,
-dd_z_1942|z51,Z51,
-dd_z_1944|z52,Z52,
-dd_z_1944|z53,Z53,
-dd_z_1944|z54,Z54,
-dd_z_1944|z55,Z55,
-dd_z_1944|z56,Z56,
+dd_z_1942|z51,Z51,Hull Number
+dd_z_1944|z52,Z52,Hull Number
+dd_z_1944|z53,Z53,Hull Number
+dd_z_1944|z54,Z54,Hull Number
+dd_z_1944|z55,Z55,Hull Number
+dd_z_1944|z56,Z56,Hull Number
+dd_z20_1937|z20_karl_galster,PKZ-99,Hull Number
+dd_z20_1937|z20_karl_galster,Prochnyy,
+dd_z20_1937|z20_karl_galster,Z20 Karl Galster,
+dd_z20_1937|z21_wilhelm_heidkamp,Z21 Wilhelm Heidkamp,
+dd_z20_1937|z22_anton_schmitt,Z22 Anton Schmitt,
+dd_z28_1939|z28,Z28,Hull Number
+dd_z29_1940|z29,Z29,Hull Number
+dd_z29_1940|z30,Z30,Hull Number
+dd_z9_1935|z10_hans_lody,Z10 Hans Lody,
+dd_z9_1935|z11_bernd_von_arnim,Z11 Bernd von Arnim,
+dd_z9_1935|z12_erich_giese,Z12 Erich Giese,
+dd_z9_1935|z13_erich_koellner,Z13 Erich Koellner,
+dd_z9_1935|z14_friedrich_ihn,Prytkiy,
+dd_z9_1935|z14_friedrich_ihn,Z14 Friedrich Ihn,
+dd_z9_1935|z15_erich_steinbrinck,PKZ-2,Hull Number
+dd_z9_1935|z15_erich_steinbrinck,Pylkiy,
+dd_z9_1935|z15_erich_steinbrinck,Z15 Erich Steinbrinck,
+dd_z9_1935|z16_friedrich_eckoldt,Z16 Friedrich Eckoldt,
+dd_z9_1935|z9_wolfgang_zenker,Z9 Wolfgang Zenker,
 dd_zafer|tinaztepe,Tinaztepe,
 dd_zafer|zafer,Zafer,
 dd_zebra|hms_zebra,Zebra,Zebra
@@ -10716,7 +10730,7 @@ de_project_50|zubr,Zubr,
 de_sleipner_1937|aeger,Aeger,
 de_sleipner_1937|gyller,Gyller,
 de_sleipner_1937|gyller,Lowe,
-de_sleipner_1937|sleipner,Sleipner,
+de_sleipner_1937|sleipner,Sleipner,Sleipnir
 de_spica_1935|astore,Astore,
 de_spica_1935|astore,Remus,
 de_spica_1935|spica,Romulus,
@@ -11035,12 +11049,18 @@ dl_alessandro_poerio|alessandro_poerio,Huesca,
 dl_alessandro_poerio|cesare_rossarol,Cesare Rossarol,
 dl_alessandro_poerio|guglielmo_pepe,Guglielmo Pepe,
 dl_alessandro_poerio|guglielmo_pepe,Teruel,
+dl_b122|b122,B122,
+dl_b122|b123,B123,
+dl_b122|b124,B124,
 dl_carlo_mirabello|augusto_riboty,Augusto Riboty,
 dl_carlo_mirabello|carlo_alberto_racchia,Carlo Alberto Racchia,
 dl_carlo_mirabello|carlo_mirabello,Carlo Mirabello,
 dl_codrington_1928|hms_codrington,Codrington,Edward Codrington
 dl_exmouth_1933|hms_exmouth,Exmouth,"Edward Pellew, 1st Viscount Exmouth"
 dl_exmouth_1933|hms_faulknor,Faulknor,Robert Faulknor the Younger
+dl_g119|g119,G119,
+dl_g119|g120,G120,
+dl_g119|g121,G121,
 dl_greenville_1934|hms_grenville,Grenville,Richard Grenville
 dl_hardy_1935|hms_hardy,Hardy,Hardy
 dl_inglefield_1936|hms_inglefield,Inglefield,Edward Augustus Inglefield
@@ -11102,6 +11122,10 @@ dl_project_48|perekop,Perekop,
 dl_project_48|petrozavodsk,Petrozavodsk,
 dl_project_48|stalinabad,Stalinabad,
 dl_project_48|yerevan,Yerevan,
+dl_s113|s113,Amiral Senes,
+dl_s113|s113,S113,Hull Number
+dl_s113|s114,S114,Hull Number
+dl_s113|s115,S115,Hull Number
 dl_scott|hms_barrington,Barrington,Samuel Barrington
 dl_scott|hms_bruce,Bruce,Robert I
 dl_scott|hms_campbell,Campbell,Clan Campbell
@@ -11125,6 +11149,10 @@ dl_somers|uss_sampson,Sampson,William Thomas Sampson
 dl_somers|uss_somers,Somers,Richard Somers
 dl_somers|uss_warrington,Warrington,Lewis Warrington
 dl_swift|hms_swift,Swift,Swift
+dl_v116|v116,Premuda,
+dl_v116|v116,V116,Hull Number
+dl_v116|v117,V117,Hull Number
+dl_v116|v118,V118,Hull Number
 dl_valkyrie|hms_bruce,Bruce,Robert I
 dl_valkyrie|hms_bruce,Valentine,Saint Valentine
 dl_valkyrie|hms_douglas,Douglas,"James Douglas, 1st Baronet"
@@ -12789,7 +12817,7 @@ fs_shearwater_1939|guillemot,Guillemot,
 fs_shearwater_1939|pintail,Pintail,
 fs_shearwater_1939|shearwater,Shearwater,Shearwater
 fs_sleipner|hnoms_aeger,Aeger,
-fs_sleipner|hnoms_sleipner,Sleipner,
+fs_sleipner|hnoms_sleipner,Sleipner,Sleipnir
 fs_stuart|hmas_derwent,Derwent,
 fs_stuart|hmas_stuart,Stuart,
 fs_thetis|hermes,Hermes,Hermes
@@ -13461,476 +13489,458 @@ lhp_iwo_jima|uss_new_orleans,New Orleans,
 lhp_iwo_jima|uss_okinawa,Okinawa,"Battle of Okinawa, World War II"
 lhp_iwo_jima|uss_tripoli,Tripoli,"Battle of Derna, First Barbary War"
 lhp_jeanne_d_arc|jeanne_d_arc,Jeanne d'Arc,
-ltb_g108|g108,G108,
-ltb_g108|g108,T108,
-ltb_g108|g109,G109,
-ltb_g108|g109,T109,
-ltb_g108|g110,G110,
-ltb_g108|g110,T110,
-ltb_g108|g111,G111,
-ltb_g108|g111,T111,
-ltb_g108|g112,G112,
-ltb_g108|g112,T112,
-ltb_g108|g113,G113,
-ltb_g108|g113,T113,
-ltb_g132|g132,G132,
-ltb_g132|g132,T132,
-ltb_g132|g133,G133,
-ltb_g132|g133,T133,
-ltb_g132|g134,G134,
-ltb_g132|g134,T134,
-ltb_g132|g136,G136,
-ltb_g132|g136,T136,
-ltb_g135|g135,G135,
-ltb_g135|g135,T135,
-ltb_g137|g137,G137,
-ltb_g137|g137,T137,
-ltb_g148|g148,G148,
-ltb_g148|g149,G149,
-ltb_g148|g150,G150,
-ltb_g148|ww151,WW151,
-ltb_g169|g169,G169,
-ltb_g169|g169,T169,
-ltb_g169|g170,G170,
-ltb_g169|g170,T170,
-ltb_g169|g171,G171,
-ltb_g169|g172,G172,
-ltb_g169|g172,T172,
-ltb_g169|g173,G173,
-ltb_g169|g173,T173,
-ltb_g174|g174,G174,
-ltb_g174|g174,T174,
-ltb_g174|g175,G175,
-ltb_g174|g175,T175,
-ltb_g192|g192,G192,
-ltb_g192|g192,T192,
-ltb_g192|g193,G193,
-ltb_g192|g193,T193,
-ltb_g192|g194,G194,
-ltb_g192|g195,G195,
-ltb_g192|g195,T195,
-ltb_g192|g196,G196,
-ltb_g192|g196,T196,
-ltb_g192|g197,G197,
-ltb_g192|g197,T197,
-ltb_g37|g37,G37,
-ltb_g37|g38,G38,
-ltb_g37|g39,G39,
-ltb_g37|g40,G40,
-ltb_g37|g41,G41,
-ltb_g37|g42,G42,
-ltb_g7|g10,G10,
-ltb_g7|g10,T110,
-ltb_g7|g11,G11,
-ltb_g7|g11,T111,
-ltb_g7|g12,G12,
-ltb_g7|g7,G7,
+ltb_g108|g108,G108,Hull Number
+ltb_g108|g108,T108,Hull Number
+ltb_g108|g109,G109,Hull Number
+ltb_g108|g109,T109,Hull Number
+ltb_g108|g110,G110,Hull Number
+ltb_g108|g110,T110,Hull Number
+ltb_g108|g111,G111,Hull Number
+ltb_g108|g111,T111,Hull Number
+ltb_g108|g112,G112,Hull Number
+ltb_g108|g112,T112,Hull Number
+ltb_g108|g113,G113,Hull Number
+ltb_g108|g113,T113,Hull Number
+ltb_g132|g132,G132,Hull Number
+ltb_g132|g132,T132,Hull Number
+ltb_g132|g133,G133,Hull Number
+ltb_g132|g133,T133,Hull Number
+ltb_g132|g134,G134,Hull Number
+ltb_g132|g134,T134,Hull Number
+ltb_g132|g135,G135,Hull Number
+ltb_g132|g135,T135,Hull Number
+ltb_g132|g136,G136,Hull Number
+ltb_g132|g136,T136,Hull Number
+ltb_g137|g137,G137,Hull Number
+ltb_g137|g137,T137,Hull Number
+ltb_g148|g148,G148,Hull Number
+ltb_g148|g149,G149,Hull Number
+ltb_g148|g150,G150,Hull Number
+ltb_g148|ww151,WW151,Hull Number
+ltb_g169|g169,G169,Hull Number
+ltb_g169|g169,T169,Hull Number
+ltb_g169|g170,G170,Hull Number
+ltb_g169|g170,T170,Hull Number
+ltb_g169|g171,G171,Hull Number
+ltb_g169|g172,G172,Hull Number
+ltb_g169|g172,T172,Hull Number
+ltb_g169|g173,G173,Hull Number
+ltb_g169|g173,T173,Hull Number
+ltb_g174|g174,G174,Hull Number
+ltb_g174|g174,T174,Hull Number
+ltb_g174|g175,G175,Hull Number
+ltb_g174|g175,Sleipner,Sleipnir
+ltb_g174|g175,T175,Hull Number
+ltb_g192|g192,G192,Hull Number
+ltb_g192|g192,T192,Hull Number
+ltb_g192|g193,G193,Hull Number
+ltb_g192|g193,T193,Hull Number
+ltb_g192|g194,G194,Hull Number
+ltb_g192|g195,G195,Hull Number
+ltb_g192|g195,T195,Hull Number
+ltb_g192|g196,G196,Hull Number
+ltb_g192|g196,T196,Hull Number
+ltb_g192|g197,G197,Hull Number
+ltb_g192|g197,T197,Hull Number
+ltb_g37|g37,G37,Hull Number
+ltb_g37|g38,G38,Hull Number
+ltb_g37|g39,G39,Hull Number
+ltb_g37|g40,G40,Hull Number
+ltb_g41|g41,G41,Hull Number
+ltb_g41|g42,G42,Hull Number
+ltb_g7|g10,G10,Hull Number
+ltb_g7|g10,T110,Hull Number
+ltb_g7|g11,G11,Hull Number
+ltb_g7|g11,T111,Hull Number
+ltb_g7|g12,G12,Hull Number
+ltb_g7|g7,G7,Hull Number
 ltb_g7|g7,Porazhayushchiy,
-ltb_g7|g7,T107,
-ltb_g7|g8,G8,
-ltb_g7|g8,T108,
-ltb_g7|g9,G9,
-ltb_g85|g85,G85,
-ltb_g85|g86,G86,
-ltb_g85|g87,G87,
-ltb_g85|g88,G88,
-ltb_g85|g89,G89,
-ltb_g85|g90,G90,
-ltb_g85|g91,G91,
-ltb_g92|g92,G92,
-ltb_g92|g93,G93,
-ltb_g92|g94,G94,
-ltb_g92|g95,G95,
-ltb_g96|g96,G96,
-ltb_h145|h145,H145,
-ltb_h145|h146,H146,
+ltb_g7|g7,T107,Hull Number
+ltb_g7|g8,G8,Hull Number
+ltb_g7|g8,T108,Hull Number
+ltb_g7|g9,G9,Hull Number
+ltb_g85|g85,G85,Hull Number
+ltb_g85|g86,G86,Hull Number
+ltb_g85|g87,G87,Hull Number
+ltb_g85|g88,G88,Hull Number
+ltb_g85|g89,G89,Hull Number
+ltb_g85|g90,G90,Hull Number
+ltb_g85|g91,G91,Hull Number
+ltb_g85|g92,G92,Hull Number
+ltb_g85|g93,G93,Hull Number
+ltb_g85|g94,G94,Hull Number
+ltb_g85|g95,G95,Hull Number
+ltb_g96|g96,G96,Hull Number
+ltb_h145|h145,H145,Hull Number
+ltb_h145|h146,H146,Hull Number
 ltb_h145|h146,Rageot de la Touche,
-ltb_h145|h147,H147,
+ltb_h145|h147,H147,Hull Number
 ltb_h145|h147,Marcel Delage,
-ltb_h166|h166,H166,
-ltb_h166|h167,H167,
-ltb_h166|h168,H168,
-ltb_h166|h169,H169,
-ltb_h186|h186,H186,
-ltb_h186|h187,H187,
-ltb_mowe_1926|mowe,Mowe,
-ltb_s102|s102,S102,
-ltb_s102|s102,T102,
-ltb_s102|s103,S103,
-ltb_s102|s103,T103,
-ltb_s102|s104,S104,
-ltb_s102|s104,T104,
-ltb_s102|s105,S105,
-ltb_s102|s105,T105,
-ltb_s102|s106,S106,
-ltb_s102|s106,T106,
-ltb_s102|s107,S107,
-ltb_s102|s107,T107,
-ltb_s114|s114,S114,
-ltb_s114|s114,T114,
-ltb_s114|s115,S115,
-ltb_s114|s116,S116,
-ltb_s114|s117,S117,
-ltb_s114|s118,S118,
-ltb_s114|s119,S119,
-ltb_s120|s120,S120,
-ltb_s120|s120,T120,
-ltb_s120|s121,S121,
-ltb_s120|s121,T121,
-ltb_s120|s122,S122,
-ltb_s120|s122,T122,
-ltb_s120|s123,S123,
-ltb_s120|s124,S124,
-ltb_s125|s125,S125,
-ltb_s125|s125,T125,
-ltb_s126|s126,S126,
-ltb_s126|s126,T126,
-ltb_s126|s127,S127,
-ltb_s126|s127,T127,
-ltb_s126|s128,S128,
-ltb_s126|s128,T128,
-ltb_s126|s129,S129,
-ltb_s126|s130,S130,
-ltb_s126|s130,T130,
-ltb_s126|s131,S131,
-ltb_s126|s131,T131,
-ltb_s13|s13,S13,
-ltb_s13|s14,S14,
-ltb_s13|s15,S15,
-ltb_s13|s16,S16,
-ltb_s13|s17,S17,
-ltb_s13|s18,S18,
-ltb_s13|s19,S19,
-ltb_s13|s20,S20,
-ltb_s13|s21,S21,
-ltb_s13|s22,S22,
-ltb_s13|s23,S23,
-ltb_s13|s23,T23,
-ltb_s13|s24,S24,
-ltb_s131|s131,S131,
-ltb_s131|s132,S132,
+ltb_h166|h166,H166,Hull Number
+ltb_h166|h167,H167,Hull Number
+ltb_h166|h168,H168,Hull Number
+ltb_h166|h169,H169,Hull Number
+ltb_s102|s102,S102,Hull Number
+ltb_s102|s102,T102,Hull Number
+ltb_s102|s103,S103,Hull Number
+ltb_s102|s103,T103,Hull Number
+ltb_s102|s104,S104,Hull Number
+ltb_s102|s104,T104,Hull Number
+ltb_s102|s105,S105,Hull Number
+ltb_s102|s105,T105,Hull Number
+ltb_s102|s106,S106,Hull Number
+ltb_s102|s106,T106,Hull Number
+ltb_s102|s107,S107,Hull Number
+ltb_s102|s107,T107,Hull Number
+ltb_s114|s114,S114,Hull Number
+ltb_s114|s114,T114,Hull Number
+ltb_s114|s115,S115,Hull Number
+ltb_s114|s116,S116,Hull Number
+ltb_s114|s117,S117,Hull Number
+ltb_s114|s118,S118,Hull Number
+ltb_s114|s119,S119,Hull Number
+ltb_s120|s120,S120,Hull Number
+ltb_s120|s120,T120,Hull Number
+ltb_s120|s121,S121,Hull Number
+ltb_s120|s121,T121,Hull Number
+ltb_s120|s122,S122,Hull Number
+ltb_s120|s122,T122,Hull Number
+ltb_s120|s123,S123,Hull Number
+ltb_s120|s124,S124,Hull Number
+ltb_s125|s125,S125,Hull Number
+ltb_s125|s125,T125,Hull Number
+ltb_s126|s126,S126,Hull Number
+ltb_s126|s126,T126,Hull Number
+ltb_s126|s127,S127,Hull Number
+ltb_s126|s127,T127,Hull Number
+ltb_s126|s128,S128,Hull Number
+ltb_s126|s128,T128,Hull Number
+ltb_s126|s129,S129,Hull Number
+ltb_s126|s130,S130,Hull Number
+ltb_s126|s130,T130,Hull Number
+ltb_s126|s131,S131,Hull Number
+ltb_s126|s131,T131,Hull Number
+ltb_s13|s13,S13,Hull Number
+ltb_s13|s14,S14,Hull Number
+ltb_s13|s15,S15,Hull Number
+ltb_s13|s16,S16,Hull Number
+ltb_s13|s17,S17,Hull Number
+ltb_s13|s18,S18,Hull Number
+ltb_s13|s19,S19,Hull Number
+ltb_s13|s20,S20,Hull Number
+ltb_s13|s21,S21,Hull Number
+ltb_s13|s22,S22,Hull Number
+ltb_s13|s23,Komet,
+ltb_s13|s23,S23,Hull Number
+ltb_s13|s23,T123,Hull Number
+ltb_s13|s23,T23,Hull Number
+ltb_s13|s24,S24,Hull Number
+ltb_s131|s131,S131,Hull Number
+ltb_s131|s132,S132,Hull Number
 ltb_s131|s133,Chastang,
-ltb_s131|s133,S133,
-ltb_s131|s134,S134,
+ltb_s131|s133,S133,Hull Number
+ltb_s131|s134,S134,Hull Number
 ltb_s131|s134,Vesco,
 ltb_s131|s135,Mazare,
-ltb_s131|s135,S135,
-ltb_s131|s136,S136,
-ltb_s131|s137,S137,
-ltb_s131|s138,S138,
+ltb_s131|s135,S135,Hull Number
+ltb_s131|s136,S136,Hull Number
+ltb_s131|s137,S137,Hull Number
+ltb_s131|s138,S138,Hull Number
 ltb_s131|s139,Deligny,
-ltb_s131|s139,S139,
-ltb_s138|s138,S138,
-ltb_s138|s138,T138,
+ltb_s131|s139,S139,Hull Number
+ltb_s138|s138,S138,Hull Number
+ltb_s138|s138,T138,Hull Number
 ltb_s138|s139,Pfeil,
-ltb_s138|s139,S139,
-ltb_s138|s139,T139,
-ltb_s138|s140,S140,
-ltb_s138|s140,T140,
+ltb_s138|s139,S139,Hull Number
+ltb_s138|s139,T139,Hull Number
+ltb_s138|s140,S140,Hull Number
+ltb_s138|s140,T140,Hull Number
 ltb_s138|s141,Blitz,
-ltb_s138|s141,S141,
-ltb_s138|s141,T141,
-ltb_s138|s142,S142,
-ltb_s138|s142,T142,
-ltb_s138|s143,S143,
-ltb_s138|s143,T143,
-ltb_s138|s144,S144,
-ltb_s138|s144,T144,
-ltb_s138|s145,S145,
-ltb_s138|s145,T145,
-ltb_s138|s146,S146,
-ltb_s138|s146,T146,
-ltb_s138|s147,S147,
-ltb_s138|s147,T147,
-ltb_s138|s148,S148,
-ltb_s138|s148,T148,
-ltb_s138|s149,S149,
-ltb_s138|s149,T149,
-ltb_s152|s152,S152,
-ltb_s152|s153,S153,
-ltb_s152|s154,S154,
-ltb_s152|s155,S155,
-ltb_s152|s156,S156,
-ltb_s152|s157,S157,
-ltb_s165|s165,S165,
-ltb_s165|s165,T165,
-ltb_s165|s166,S166,
-ltb_s165|s166,T166,
-ltb_s165|s167,S167,
-ltb_s165|s167,T167,
-ltb_s165|s168,S168,
-ltb_s165|s168,T168,
-ltb_s165a|s165,Muavenet-i Milliye,
-ltb_s165a|s165,S165,
-ltb_s165a|s166,S166,
-ltb_s165a|s166,Yadigar-i Millet,
-ltb_s165a|s167,Numune-Hamiyet,
-ltb_s165a|s167,S167,
-ltb_s165a|s168,Gayret-i Vataniye,
-ltb_s165a|s168,S168,
-ltb_s176|s176,S176,
-ltb_s176|s176,T176,
-ltb_s176|s177,S177,
-ltb_s176|s178,S178,
-ltb_s176|s178,T178,
-ltb_s176|s179,S179,
-ltb_s176|s179,T179,
-ltb_s178|s178,S178,
-ltb_s178|s179,S179,
-ltb_s178|s180,S180,
-ltb_s178|s181,S181,
-ltb_s178|s182,S182,
-ltb_s178|s183,S183,
-ltb_s178|s184,S184,
-ltb_s178|s185,S185,
-ltb_s31|s31,S31,
-ltb_s31|s32,S32,
-ltb_s31|s33,S33,
-ltb_s31|s34,S34,
-ltb_s31|s35,S35,
-ltb_s31|s36,S36,
-ltb_s49|s49,S49,
-ltb_s49|s50,S50,
-ltb_s49|s51,S51,
-ltb_s49|s52,S52,
-ltb_s49|s53,S53,
-ltb_s49|s54,S54,
-ltb_s49|s55,S55,
-ltb_s49|s56,S56,
-ltb_s49|s57,S57,
-ltb_s49|s58,S58,
-ltb_s49|s59,S59,
-ltb_s60|s60,S60,
-ltb_s60|s61,S61,
-ltb_s60|s62,S62,
-ltb_s60|s63,Ardimentoso,
-ltb_s60|s63,S63,
-ltb_s60|s64,S64,
-ltb_s60|s65,S65,
-ltb_s60|s66,S66,
-ltb_s90|s100,S100,
-ltb_s90|s100,T100,
-ltb_s90|s101,S101,
-ltb_s90|s101,T101,
-ltb_s90|s90,S90,
-ltb_s90|s91,S91,
-ltb_s90|s91,T91,
-ltb_s90|s92,S92,
-ltb_s90|s92,T92,
-ltb_s90|s93,S93,
-ltb_s90|s93,T93,
-ltb_s90|s94,S94,
-ltb_s90|s94,T94,
-ltb_s90|s95,S95,
-ltb_s90|s95,T95,
-ltb_s90|s96,S96,
-ltb_s90|s96,T96,
-ltb_s90|s98,S98,
-ltb_s90|s98,T98,
-ltb_s90|s99,S99,
-ltb_s90|s99,T99,
-ltb_s90|sleipner,Sleipner,
-ltb_s90|sleipner,T97,
-ltb_t1_1939|t1,T1,
-ltb_t1_1939|t2,T2,
-ltb_t1_1939|t3,T3,
-ltb_t1_1939|t4,T4,
-ltb_t1_1939|t5,T5,
-ltb_t1_1939|t6,T6,
-ltb_t1_1939|t7,T7,
-ltb_t1_1939|t8,T8,
-ltb_t13_1941|t13,T13,
-ltb_t13_1941|t14,Dompaire,
-ltb_t13_1941|t14,T14,
-ltb_t13_1941|t15,T15,
-ltb_t13_1941|t16,T16,
-ltb_t13_1941|t17,Poryvistyy,
-ltb_t13_1941|t17,T17,
-ltb_t13_1941|t18,T18,
-ltb_t13_1941|t19,T19,
-ltb_t13_1941|t20,Baccarat,
-ltb_t13_1941|t20,T20,
-ltb_t13_1941|t21,T21,
-ltb_t22_1942|t22,T22,
-ltb_t22_1942|t23,L'Alsacien,
-ltb_t22_1942|t23,T23,
-ltb_t22_1942|t24,T24,
-ltb_t22_1942|t25,T25,
-ltb_t22_1942|t26,T26,
-ltb_t22_1942|t27,T27,
-ltb_t22_1942|t28,Le Lorrain,
-ltb_t22_1942|t28,T28,
-ltb_t22_1942|t29,T29,
-ltb_t22_1942|t30,T30,
-ltb_t22_1942|t31,T31,
-ltb_t22_1942|t32,T32,
-ltb_t22_1942|t33,Primernyy,
-ltb_t22_1942|t33,T33,
-ltb_t22_1942|t34,T34,
-ltb_t22_1942|t35,T35,
-ltb_t22_1942|t36,T36,
-ltb_t37_1943|t37,T37,
-ltb_t37_1943|t38,T38,
-ltb_t37_1943|t39,T39,
-ltb_t37_1943|t40,T40,
-ltb_t37_1943|t41,T41,
-ltb_t37_1943|t42,T42,
-ltb_t37_1943|t43,T43,
-ltb_t37_1943|t44,T44,
-ltb_t37_1943|t45,T45,
-ltb_t37_1943|t46,T46,
-ltb_t37_1943|t47,T47,
-ltb_t37_1943|t48,T48,
-ltb_t37_1943|t49,T49,
-ltb_t37_1943|t50,T50,
-ltb_t61_1942|t61,T61,
-ltb_t61_1942|t62,T62,
-ltb_t61_1942|t63,T63,
-ltb_t61_1942|t64,T64,
-ltb_t61_1942|t65,T65,
-ltb_t61_1942|t66,T66,
-ltb_t61_1942|t67,T67,
-ltb_t61_1942|t68,T68,
-ltb_t61_1942|t69,T69,
-ltb_t61_1942|t70,T70,
+ltb_s138|s141,S141,Hull Number
+ltb_s138|s141,T141,Hull Number
+ltb_s138|s142,S142,Hull Number
+ltb_s138|s142,T142,Hull Number
+ltb_s138|s143,S143,Hull Number
+ltb_s138|s143,T143,Hull Number
+ltb_s138|s144,S144,Hull Number
+ltb_s138|s144,T144,Hull Number
+ltb_s138|s145,S145,Hull Number
+ltb_s138|s145,T145,Hull Number
+ltb_s138|s146,S146,Hull Number
+ltb_s138|s146,T146,Hull Number
+ltb_s138|s147,S147,Hull Number
+ltb_s138|s147,T147,Hull Number
+ltb_s138|s148,S148,Hull Number
+ltb_s138|s148,T148,Hull Number
+ltb_s138|s149,S149,Hull Number
+ltb_s138|s149,T149,Hull Number
+ltb_s152|s152,S152,Hull Number
+ltb_s152|s153,S153,Hull Number
+ltb_s152|s154,S154,Hull Number
+ltb_s152|s155,S155,Hull Number
+ltb_s152|s156,S156,Hull Number
+ltb_s152|s157,S157,Hull Number
+ltb_s165|s165,S165,Hull Number
+ltb_s165|s165,T165,Hull Number
+ltb_s165|s166,S166,Hull Number
+ltb_s165|s166,T166,Hull Number
+ltb_s165|s167,S167,Hull Number
+ltb_s165|s167,T167,Hull Number
+ltb_s165|s168,S168,Hull Number
+ltb_s165|s168,T168,Hull Number
+ltb_s165a|s165,Muavenet-i Milliye,Navy Association I Donanma Cemiyeti
+ltb_s165a|s165,S165,Hull Number
+ltb_s165a|s166,S166,Hull Number
+ltb_s165a|s166,Yadigar-i Millet,Legacy of the Nation
+ltb_s165a|s167,Numune-Hamiyet,Symbol of Patriotism
+ltb_s165a|s167,S167,Hull Number
+ltb_s165a|s168,Gayret-i Vataniye,Patriotic Zeal
+ltb_s165a|s168,S168,Hull Number
+ltb_s176|s176,S176,Hull Number
+ltb_s176|s176,T176,Hull Number
+ltb_s176|s177,S177,Hull Number
+ltb_s176|s178,S178,Hull Number
+ltb_s176|s178,T178,Hull Number
+ltb_s176|s179,S179,Hull Number
+ltb_s176|s179,T179,Hull Number
+ltb_s31|s31,S31,Hull Number
+ltb_s31|s32,S32,Hull Number
+ltb_s31|s33,S33,Hull Number
+ltb_s31|s34,S34,Hull Number
+ltb_s31|s35,I,Placeholder
+ltb_s31|s35,S35,Hull Number
+ltb_s31|s36,II,Placeholder
+ltb_s31|s36,S36,Hull Number
+ltb_s49|s49,S49,Hull Number
+ltb_s49|s50,S50,Hull Number
+ltb_s49|s51,S51,Hull Number
+ltb_s49|s52,S52,Hull Number
+ltb_s53|s53,S53,Hull Number
+ltb_s53|s54,S54,Hull Number
+ltb_s53|s55,S55,Hull Number
+ltb_s53|s56,S56,Hull Number
+ltb_s53|s57,S57,Hull Number
+ltb_s53|s58,S58,Hull Number
+ltb_s53|s59,S59,Hull Number
+ltb_s53|s60,S60,Hull Number
+ltb_s53|s61,S61,Hull Number
+ltb_s53|s62,S62,Hull Number
+ltb_s53|s63,Ardimentoso,
+ltb_s53|s63,S63,Hull Number
+ltb_s53|s64,S64,Hull Number
+ltb_s53|s65,S65,Hull Number
+ltb_s53|s66,S66,Hull Number
+ltb_s90|s100,S100,Hull Number
+ltb_s90|s100,T100,Hull Number
+ltb_s90|s101,S101,Hull Number
+ltb_s90|s101,T101,Hull Number
+ltb_s90|s90,S90,Hull Number
+ltb_s90|s91,S91,Hull Number
+ltb_s90|s91,T91,Hull Number
+ltb_s90|s92,S92,Hull Number
+ltb_s90|s92,T92,Hull Number
+ltb_s90|s93,S93,Hull Number
+ltb_s90|s93,T93,Hull Number
+ltb_s90|s94,S94,Hull Number
+ltb_s90|s94,T94,Hull Number
+ltb_s90|s95,S95,Hull Number
+ltb_s90|s95,T95,Hull Number
+ltb_s90|s96,S96,Hull Number
+ltb_s90|s96,T96,Hull Number
+ltb_s90|s97,S97,Hull Number
+ltb_s90|s97,Sleipner,Sleipnir
+ltb_s90|s97,T97,Hull Number
+ltb_s90|s98,S98,Hull Number
+ltb_s90|s98,T98,Hull Number
+ltb_s90|s99,S99,Hull Number
+ltb_s90|s99,T99,Hull Number
+ltb_t1_1936|t1,T1,Hull Number
+ltb_t1_1936|t2,T2,Hull Number
+ltb_t1_1936|t3,T3,Hull Number
+ltb_t1_1936|t4,T4,Hull Number
+ltb_t1_1936|t5,T5,Hull Number
+ltb_t1_1936|t6,T6,Hull Number
+ltb_t1_1936|t7,T7,Hull Number
+ltb_t1_1936|t8,T8,Hull Number
+ltb_t13_1938|t13,T13,Hull Number
+ltb_t13_1938|t14,Dompaire,
+ltb_t13_1938|t14,T14,Hull Number
+ltb_t13_1938|t15,T15,Hull Number
+ltb_t13_1938|t16,T16,Hull Number
+ltb_t13_1938|t17,Poryvistyy,
+ltb_t13_1938|t17,T17,Hull Number
+ltb_t13_1938|t17,UTS-6,Hull Number
+ltb_t13_1938|t18,T18,Hull Number
+ltb_t13_1938|t19,T19,Hull Number
+ltb_t13_1938|t20,Baccarat,
+ltb_t13_1938|t20,T20,Hull Number
+ltb_t13_1938|t21,T21,Hull Number
+ltb_t22_1940|t22,T22,Hull Number
+ltb_t22_1940|t23,L'Alsacien,
+ltb_t22_1940|t23,T23,Hull Number
+ltb_t22_1940|t24,T24,Hull Number
+ltb_t22_1940|t25,T25,Hull Number
+ltb_t22_1940|t26,T26,Hull Number
+ltb_t22_1940|t27,T27,Hull Number
+ltb_t22_1940|t28,Le Lorrain,
+ltb_t22_1940|t28,T28,Hull Number
+ltb_t22_1940|t29,T29,Hull Number
+ltb_t22_1940|t30,T30,Hull Number
+ltb_t22_1940|t31,T31,Hull Number
+ltb_t22_1940|t32,T32,Hull Number
+ltb_t22_1940|t33,Primernyy,
+ltb_t22_1940|t33,T33,Hull Number
+ltb_t22_1940|t34,T34,Hull Number
+ltb_t22_1940|t35,DD-935,Hull Number
+ltb_t22_1940|t35,T35,Hull Number
+ltb_t22_1940|t36,T36,Hull Number
+ltb_t37_1943|t37,T37,Hull Number
+ltb_t37_1943|t38,T38,Hull Number
+ltb_t37_1943|t39,T39,Hull Number
+ltb_t37_1943|t40,T40,Hull Number
+ltb_t37_1943|t41,T41,Hull Number
+ltb_t37_1943|t42,T42,Hull Number
+ltb_t37_1943|t43,T43,Hull Number
+ltb_t37_1943|t44,T44,Hull Number
+ltb_t37_1943|t45,T45,Hull Number
+ltb_t37_1943|t46,T46,Hull Number
+ltb_t37_1943|t47,T47,Hull Number
+ltb_t37_1943|t48,T48,Hull Number
+ltb_t37_1943|t49,T49,Hull Number
+ltb_t37_1943|t50,T50,Hull Number
+ltb_t61_1942|t61,T61,Hull Number
+ltb_t61_1942|t62,T62,Hull Number
+ltb_t61_1942|t63,T63,Hull Number
+ltb_t61_1942|t64,T64,Hull Number
+ltb_t61_1942|t65,T65,Hull Number
+ltb_t61_1942|t66,T66,Hull Number
+ltb_t61_1942|t67,T67,Hull Number
+ltb_t61_1942|t68,T68,Hull Number
+ltb_t61_1942|t69,T69,Hull Number
+ltb_t61_1942|t70,T70,Hull Number
 ltb_t61_1942|t71,T71,Hull Number
-ltb_t61_1942|t72,T72,
-ltb_t9_1940|t10,T10,
-ltb_t9_1940|t11,Bir Hakeim,
-ltb_t9_1940|t11,T11,
-ltb_t9_1940|t12,Podvizhnyy,
-ltb_t9_1940|t12,T12,
-ltb_t9_1940|t9,T9,
-ltb_type_1923_1926|albatros,Albatros,
-ltb_type_1923_1926|falke,Falke,
-ltb_type_1923_1926|greif,Greif,
-ltb_type_1923_1926|kondor,Kondor,
-ltb_type_1923_1926|seeadler,Seeadler,
-ltb_type_1924_1928|iltis,Iltis,
-ltb_type_1924_1928|jaguar,Jaguar,
-ltb_type_1924_1928|leopard,Leopard,Leopard
-ltb_type_1924_1928|luchs,Luchs,
-ltb_type_1924_1928|tiger,Tiger,Tiger
-ltb_type_1924_1928|wolf,Wolf,Wolf
-ltb_v1|v1,V1,
-ltb_v1|v2,V2,
-ltb_v1|v3,V3,
-ltb_v1|v4,V4,
+ltb_t61_1942|t72,T72,Hull Number
+ltb_t9_1936|t10,T10,Hull Number
+ltb_t9_1936|t11,Bir Hakeim,
+ltb_t9_1936|t11,T11,Hull Number
+ltb_t9_1936|t12,Kit,
+ltb_t9_1936|t12,Podvizhnyy,
+ltb_t9_1936|t12,T12,Hull Number
+ltb_t9_1936|t9,T9,Hull Number
+ltb_v1|v1,V1,Hull Number
+ltb_v1|v2,V2,Hull Number
+ltb_v1|v3,V3,Hull Number
+ltb_v1|v4,V4,Hull Number
 ltb_v1|v5,Nea Genea,
-ltb_v1|v5,V5,
-ltb_v1|v5_ii,V5,
+ltb_v1|v5,V5,Hull Number
+ltb_v1|v5_ii,V5,Hull Number
 ltb_v1|v6,Keravnos,
-ltb_v1|v6,V6,
-ltb_v1|v6_ii,V6,
-ltb_v125|v125,V125,
-ltb_v125|v126,V126,
-ltb_v125|v127,V127,
-ltb_v125|v128,V128,
-ltb_v125|v129,V129,
+ltb_v1|v6,V6,Hull Number
+ltb_v1|v6_ii,V6,Hull Number
+ltb_v125|v125,V125,Hull Number
+ltb_v125|v126,V126,Hull Number
+ltb_v125|v127,V127,Hull Number
+ltb_v125|v128,V128,Hull Number
+ltb_v125|v129,V129,Hull Number
 ltb_v125|v130,Buino,
-ltb_v125|v130,V130,
-ltb_v125|v140,V140,
-ltb_v125|v141,V141,
-ltb_v125|v142,V142,
-ltb_v125|v143,V143,
-ltb_v125|v144,V144,
-ltb_v150|v150,V150,
-ltb_v150|v151,T151,
-ltb_v150|v151,V151,
-ltb_v150|v152,T152,
-ltb_v150|v152,V152,
+ltb_v125|v130,V130,Hull Number
+ltb_v125|v140,V140,Hull Number
+ltb_v125|v141,V141,Hull Number
+ltb_v125|v142,V142,Hull Number
+ltb_v125|v143,V143,Hull Number
+ltb_v125|v144,V144,Hull Number
+ltb_v150|v150,V150,Hull Number
+ltb_v150|v151,Comet,
+ltb_v150|v151,T151,Hull Number
+ltb_v150|v151,V151,Hull Number
+ltb_v150|v152,T152,Hull Number
+ltb_v150|v152,V152,Hull Number
 ltb_v150|v153,Eduard Jungmann,
-ltb_v150|v153,T153,
-ltb_v150|v153,V153,
-ltb_v150|v154,T154,
-ltb_v150|v154,V154,
-ltb_v150|v155,T155,
-ltb_v150|v155,V155,
-ltb_v150|v156,T156,
-ltb_v150|v156,V156,
-ltb_v150|v157,T157,
-ltb_v150|v157,V157,
-ltb_v150|v158,T158,
-ltb_v150|v158,V158,
-ltb_v150|v159,T159,
-ltb_v150|v159,V159,
-ltb_v150|v160,T160,
-ltb_v150|v160,V160,
-ltb_v158|v158,V158,
-ltb_v158|v159,V159,
-ltb_v158|v160,V160,
-ltb_v158|v161,V161,
-ltb_v158|v162,V162,
-ltb_v158|v163,V163,
-ltb_v158|v164,V164,
-ltb_v158|v165,V165,
-ltb_v161|v161,T161,
-ltb_v161|v161,V161,
-ltb_v162|v162,V162,
-ltb_v162|v163,T163,
-ltb_v162|v163,V163,
-ltb_v162|v164,T164,
-ltb_v162|v164,V164,
-ltb_v170|v170,V170,
-ltb_v170|v171,V171,
-ltb_v170|v172,V172,
-ltb_v170|v173,V173,
-ltb_v170|v174,V174,
-ltb_v170|v175,V175,
-ltb_v180|v180,T180,
-ltb_v180|v180,V180,
-ltb_v180|v181,T181,
-ltb_v180|v181,V181,
-ltb_v180|v182,T182,
-ltb_v180|v182,V182,
-ltb_v180|v183,T183,
-ltb_v180|v183,V183,
-ltb_v180|v184,T184,
-ltb_v180|v184,V184,
+ltb_v150|v153,T153,Hull Number
+ltb_v150|v153,V153,Hull Number
+ltb_v150|v154,T154,Hull Number
+ltb_v150|v154,V154,Hull Number
+ltb_v150|v155,T155,Hull Number
+ltb_v150|v155,V155,Hull Number
+ltb_v150|v156,T156,Hull Number
+ltb_v150|v156,V156,Hull Number
+ltb_v150|v157,T157,Hull Number
+ltb_v150|v157,V157,Hull Number
+ltb_v150|v158,T158,Hull Number
+ltb_v150|v158,V158,Hull Number
+ltb_v150|v159,T159,Hull Number
+ltb_v150|v159,V159,Hull Number
+ltb_v150|v160,T160,Hull Number
+ltb_v150|v160,V160,Hull Number
+ltb_v158|v158,V158,Hull Number
+ltb_v158|v159,V159,Hull Number
+ltb_v158|v160,V160,Hull Number
+ltb_v158|v161,V161,Hull Number
+ltb_v158|v162,V162,Hull Number
+ltb_v158|v163,V163,Hull Number
+ltb_v158|v164,V164,Hull Number
+ltb_v158|v165,V165,Hull Number
+ltb_v161|v161,T161,Hull Number
+ltb_v161|v161,V161,Hull Number
+ltb_v162|v162,V162,Hull Number
+ltb_v162|v163,T163,Hull Number
+ltb_v162|v163,V163,Hull Number
+ltb_v162|v164,T164,Hull Number
+ltb_v162|v164,V164,Hull Number
+ltb_v180|v180,T180,Hull Number
+ltb_v180|v180,V180,Hull Number
+ltb_v180|v181,T181,Hull Number
+ltb_v180|v181,V181,Hull Number
+ltb_v180|v182,T182,Hull Number
+ltb_v180|v182,V182,Hull Number
+ltb_v180|v183,T183,Hull Number
+ltb_v180|v183,V183,Hull Number
+ltb_v180|v184,T184,Hull Number
+ltb_v180|v184,V184,Hull Number
 ltb_v180|v185,Blitz,
-ltb_v180|v185,T185,
-ltb_v180|v185,V185,
-ltb_v180|v186,T186,
-ltb_v180|v186,V186,
-ltb_v180|v187,V187,
-ltb_v180|v188,V188,
-ltb_v180|v189,T189,
-ltb_v180|v189,V189,
-ltb_v180|v190,Claus von Bevern,
-ltb_v180|v190,T190,
-ltb_v180|v190,V190,
-ltb_v180|v191,V191,
-ltb_v25|v25,V25,
-ltb_v25|v26,V26,
-ltb_v25|v27,V27,
-ltb_v25|v28,V28,
-ltb_v25|v29,V29,
-ltb_v25|v30,V30,
-ltb_v43|v43,V43,
-ltb_v43|v44,V44,
-ltb_v43|v45,V45,
-ltb_v43|v46,V46,
-ltb_v43|v47,V47,
-ltb_v43|v48,V48,
-ltb_v67|v67,V67,
-ltb_v67|v68,V68,
-ltb_v67|v69,V69,
-ltb_v67|v70,V70,
-ltb_v67|v71,V71,
-ltb_v67|v72,V72,
-ltb_v67|v73,V73,
-ltb_v67|v74,V74,
-ltb_v67|v75,V75,
-ltb_v67|v76,V76,
-ltb_v67|v77,V77,
-ltb_v67|v78,V78,
+ltb_v180|v185,T185,Hull Number
+ltb_v180|v185,V185,Hull Number
+ltb_v186|v186,T186,Hull Number
+ltb_v186|v186,V186,Hull Number
+ltb_v186|v187,V187,Hull Number
+ltb_v186|v188,V188,Hull Number
+ltb_v186|v189,T189,Hull Number
+ltb_v186|v189,V189,Hull Number
+ltb_v186|v190,Claus von Bevern,
+ltb_v186|v190,T190,Hull Number
+ltb_v186|v190,V190,Hull Number
+ltb_v186|v191,V191,Hull Number
+ltb_v25|v25,V25,Hull Number
+ltb_v25|v26,V26,Hull Number
+ltb_v25|v27,V27,Hull Number
+ltb_v25|v28,V28,Hull Number
+ltb_v25|v29,V29,Hull Number
+ltb_v25|v30,V30,Hull Number
+ltb_v43|v43,V43,Hull Number
+ltb_v43|v44,V44,Hull Number
+ltb_v43|v45,V45,Hull Number
+ltb_v43|v46,V46,Hull Number
+ltb_v47|v47,V47,Hull Number
+ltb_v47|v48,V48,Hull Number
+ltb_v67|v67,V67,Hull Number
+ltb_v67|v68,V68,Hull Number
+ltb_v67|v69,V69,Hull Number
+ltb_v67|v70,V70,Hull Number
+ltb_v67|v71,V71,Hull Number
+ltb_v67|v72,V72,Hull Number
+ltb_v67|v73,V73,Hull Number
+ltb_v67|v74,V74,Hull Number
+ltb_v67|v75,V75,Hull Number
+ltb_v67|v76,V76,Hull Number
+ltb_v67|v77,V77,Hull Number
+ltb_v67|v78,V78,Hull Number
 ltb_v67|v79,Pierre Durand,
-ltb_v67|v79,V79,
-ltb_v67|v80,V80,
-ltb_v67|v81,V81,
-ltb_v82|v82,V82,
-ltb_v82|v83,V83,
-ltb_v82|v84,V84,
+ltb_v67|v79,V79,Hull Number
+ltb_v67|v80,V80,Hull Number
+ltb_v67|v81,V81,Hull Number
+ltb_v67|v82,V82,Hull Number
+ltb_v67|v83,V83,Hull Number
+ltb_v67|v84,V84,Hull Number
 m_abyssinia|hms_abyssinia,Abyssinia,
 m_alfredo_cappellini|alfredo_cappellini,Alfredo Cappellini,
 m_amphitrite|uss_amphitrite,Amphitrite,Amphitrite
@@ -36834,13 +36844,18 @@ tb_a_1894|h,H,Hull Number
 tb_a_1894|i,I,Hull Number
 tb_a1_1914|a1,A1,Hull Number
 tb_a1_1914|a10,A10,Hull Number
+tb_a1_1914|a11,A10,Hull Number
 tb_a1_1914|a11,A11,Hull Number
+tb_a1_1914|a11,A7,Hull Number
 tb_a1_1914|a11,A7 PC,Hull Number
 tb_a1_1914|a12,A12,Hull Number
 tb_a1_1914|a12,A2 PC,Hull Number
+tb_a1_1914|a12,A2 Prince Charles,"Charles Théodore Henri Antoine Meinrad, Count of Flanders"
 tb_a1_1914|a13,A13,Hull Number
 tb_a1_1914|a14,A1 PC,Hull Number
+tb_a1_1914|a14,A12,Hull Number
 tb_a1_1914|a14,A14,Hull Number
+tb_a1_1914|a14,Prince Leopold,"Léopold Ferdinand Élie Victor Albert Marie, Duke of Brabant"
 tb_a1_1914|a15,A15,Hull Number
 tb_a1_1914|a16,A16,Hull Number
 tb_a1_1914|a16,A8 PC,Hull Number
@@ -36850,6 +36865,9 @@ tb_a1_1914|a19,A19,Hull Number
 tb_a1_1914|a2,A2,Hull Number
 tb_a1_1914|a20,A20,Hull Number
 tb_a1_1914|a20,A9 PC,Hull Number
+tb_a1_1914|a20,Reiher,Heron
+tb_a1_1914|a20,Warendorp,Bruno von Warendorp
+tb_a1_1914|a20,West Diep,"Westdiep, Belgium"
 tb_a1_1914|a21,A21,Hull Number
 tb_a1_1914|a22,A22,Hull Number
 tb_a1_1914|a23,A23,Hull Number
@@ -36857,23 +36875,30 @@ tb_a1_1914|a24,A24,Hull Number
 tb_a1_1914|a25,A25,Hull Number
 tb_a1_1914|a3,A3,Hull Number
 tb_a1_1914|a4,A3 PC,Hull Number
+tb_a1_1914|a4,A3 Princesse Marie-Jose,Marie-José Charlotte Sophie Amélie Henriette Gabrielle
 tb_a1_1914|a4,A4,Hull Number
+tb_a1_1914|a5,A4,Hull Number
 tb_a1_1914|a5,A4 PC,Hull Number
 tb_a1_1914|a5,A5,Hull Number
 tb_a1_1914|a6,A6,Hull Number
 tb_a1_1914|a7,A7,Hull Number
+tb_a1_1914|a8,A5,Hull Number
 tb_a1_1914|a8,A5 PC,Hull Number
 tb_a1_1914|a8,A8,Hull Number
+tb_a1_1914|a8,Oever,Shore
+tb_a1_1914|a9,A6,Hull Number
 tb_a1_1914|a9,A6 PC,Hull Number
 tb_a1_1914|a9,A9,Hull Number
 tb_a26_1916|a26,A26,Hull Number
 tb_a26_1916|a27,A27,Hull Number
 tb_a26_1916|a28,A28,Hull Number
 tb_a26_1916|a29,A29,Hull Number
+tb_a26_1916|a30,A29,Hull Number
+tb_a26_1916|a30,A29 PC,Hull Number
 tb_a26_1916|a30,A30,Hull Number
-tb_a26_1916|a31,A29 PC,Hull Number
 tb_a26_1916|a31,A31,Hull Number
 tb_a26_1916|a32,A32,Hull Number
+tb_a26_1916|a32,Sulev,
 tb_a26_1916|a33,A33,Hull Number
 tb_a26_1916|a34,A34,Hull Number
 tb_a26_1916|a35,A35,Hull Number
@@ -36881,16 +36906,22 @@ tb_a26_1916|a36,A36,Hull Number
 tb_a26_1916|a37,A37,Hull Number
 tb_a26_1916|a38,A38,Hull Number
 tb_a26_1916|a39,A39,Hull Number
+tb_a26_1916|a40,A22,Hull Number
 tb_a26_1916|a40,A22 PC,Hull Number
 tb_a26_1916|a40,A40,Hull Number
 tb_a26_1916|a41,A41,Hull Number
+tb_a26_1916|a42,A23,Hull Number
 tb_a26_1916|a42,A23 PC,Hull Number
 tb_a26_1916|a42,A42,Hull Number
+tb_a26_1916|a42,Zand,"Zand, Belgium"
+tb_a26_1916|a43,A24,Hull Number
 tb_a26_1916|a43,A24 PC,Hull Number
 tb_a26_1916|a43,A43,Hull Number
+tb_a26_1916|a43,Wielingen,"Wielingen, Belgium"
 tb_a26_1916|a44,A44,Hull Number
 tb_a26_1916|a45,A45,Hull Number
 tb_a26_1916|a46,A46,Hull Number
+tb_a26_1916|a47,A25,Hull Number
 tb_a26_1916|a47,A25 PC,Hull Number
 tb_a26_1916|a47,A47,Hull Number
 tb_a26_1916|a48,A48,Hull Number
@@ -37319,7 +37350,9 @@ tb_g13_1914|g14,G14,Hull Number
 tb_g13_1914|g15,G15,Hull Number
 tb_g13_1914|g16,G16,Hull Number
 tb_g88_1897|g88,S88,Hull Number
+tb_g88_1897|g88,T88,Hull Number
 tb_g88_1897|g89,S89,Hull Number
+tb_g88_1897|g89,T89,Hull Number
 tb_gabbiano_1907|gabbiano,Gabbiano,
 tb_gagry_1884|gagry,Gagry,
 tb_galka_1878|galka,Galka,
@@ -38207,86 +38240,154 @@ tb_rigel_1883|rigel,Rigel,
 tb_rolf_1882|rolf,Rolf,
 tb_rowan_1899|rowan,Rowan,
 tb_s24_1886|s24,S24,Hull Number
+tb_s24_1886|s24,T24,Hull Number
 tb_s24_1886|s25,S25,Hull Number
+tb_s24_1886|s25,T25,Hull Number
 tb_s24_1886|s26,S26,Hull Number
 tb_s24_1886|s27,S27,Hull Number
+tb_s24_1886|s27,T27,Hull Number
 tb_s24_1886|s28,S28,Hull Number
+tb_s24_1886|s28,T28,Hull Number
 tb_s24_1886|s29,S29,Hull Number
+tb_s24_1886|s29,T29,Hull Number
 tb_s24_1886|s30,S30,Hull Number
+tb_s24_1886|s30,T30,Hull Number
 tb_s24_1886|s31,S31,Hull Number
+tb_s24_1886|s31,T31,Hull Number
 tb_s32_1886|s32,S32,Hull Number
 tb_s33_1886|s33,S33,Hull Number
+tb_s33_1886|s33,T33,Hull Number
 tb_s33_1886|s34,S34,Hull Number
+tb_s33_1886|s34,T34,Hull Number
 tb_s33_1886|s35,S35,Hull Number
+tb_s33_1886|s35,T35,Hull Number
 tb_s33_1886|s36,S36,Hull Number
+tb_s33_1886|s36,T36,Hull Number
 tb_s33_1886|s37,S37,Hull Number
+tb_s33_1886|s37,T37,Hull Number
 tb_s33_1886|s38,S38,Hull Number
+tb_s33_1886|s38,T38,Hull Number
 tb_s33_1886|s39,S39,Hull Number
+tb_s33_1886|s39,T39,Hull Number
 tb_s33_1886|s40,S40,Hull Number
+tb_s33_1886|s40,T40,Hull Number
 tb_s33_1886|s41,S41,Hull Number
 tb_s42_1889|s42,S42,Hull Number
+tb_s42_1889|s42,T42,Hull Number
 tb_s43_1889|s43,S43,Hull Number
+tb_s43_1889|s43,T43,Hull Number
 tb_s43_1889|s44,S44,Hull Number
+tb_s43_1889|s44,T44,Hull Number
 tb_s43_1889|s45,S45,Hull Number
+tb_s43_1889|s45,T45,Hull Number
 tb_s43_1889|s46,S46,Hull Number
+tb_s43_1889|s46,T46,Hull Number
 tb_s43_1889|s47,S47,Hull Number
+tb_s43_1889|s47,T47,Hull Number
 tb_s43_1889|s48,S48,Hull Number
 tb_s43_1889|s49,S49,Hull Number
+tb_s43_1889|s49,T49,Hull Number
 tb_s43_1889|s50,S50,Hull Number
+tb_s43_1889|s50,T50,Hull Number
 tb_s43_1889|s51,S51,Hull Number
+tb_s43_1889|s51,T51,Hull Number
 tb_s43_1889|s52,S52,Hull Number
+tb_s43_1889|s52,T52,Hull Number
 tb_s43_1889|s53,S53,Hull Number
+tb_s43_1889|s53,T53,Hull Number
 tb_s43_1889|s54,S54,Hull Number
+tb_s43_1889|s54,T54,Hull Number
 tb_s43_1889|s55,S55,Hull Number
+tb_s43_1889|s55,T55,Hull Number
 tb_s43_1889|s56,S56,Hull Number
+tb_s43_1889|s56,T56,Hull Number
 tb_s43_1889|s57,S57,Hull Number
+tb_s43_1889|s57,T57,Hull Number
 tb_s58_1892|s58,S58,Hull Number
+tb_s58_1892|s58,T58,Hull Number
 tb_s58_1892|s59,S59,Hull Number
+tb_s58_1892|s59,T59,Hull Number
 tb_s58_1892|s60,S60,Hull Number
+tb_s58_1892|s60,T60,Hull Number
 tb_s58_1892|s61,S61,Hull Number
+tb_s58_1892|s61,T61,Hull Number
 tb_s58_1892|s62,S62,Hull Number
+tb_s58_1892|s62,T62,Hull Number
 tb_s58_1892|s63,S63,Hull Number
+tb_s58_1892|s63,T63,Hull Number
 tb_s58_1892|s64,S64,Hull Number
+tb_s58_1892|s64,T64,Hull Number
 tb_s58_1892|s65,S65,Hull Number
+tb_s58_1892|s65,T65,Hull Number
 tb_s66_1893|s66,S66,Hull Number
+tb_s66_1893|s66,T66,Hull Number
 tb_s67_1893|s67,S67,Hull Number
+tb_s67_1893|s67,T67,Hull Number
 tb_s67_1893|s68,S68,Hull Number
+tb_s67_1893|s68,T68,Hull Number
 tb_s67_1893|s69,S69,Hull Number
+tb_s67_1893|s69,T69,Hull Number
 tb_s67_1893|s70,S70,Hull Number
+tb_s67_1893|s70,T70,Hull Number
 tb_s67_1893|s71,S71,Hull Number
+tb_s67_1893|s71,T71,Hull Number
 tb_s67_1893|s72,S72,Hull Number
+tb_s67_1893|s72,T72,Hull Number
 tb_s67_1893|s73,S73,Hull Number
+tb_s67_1893|s73,T73,Hull Number
 tb_s7_1885|s10,S10,Hull Number
 tb_s7_1885|s11,S11,Hull Number
+tb_s7_1885|s11,T11,Hull Number
 tb_s7_1885|s12,S12,Hull Number
 tb_s7_1885|s13,S13,Hull Number
+tb_s7_1885|s13,T13,Hull Number
 tb_s7_1885|s14,S14,Hull Number
+tb_s7_1885|s14,T14,Hull Number
 tb_s7_1885|s15,S15,Hull Number
+tb_s7_1885|s15,T15,Hull Number
 tb_s7_1885|s16,S16,Hull Number
+tb_s7_1885|s16,T16,Hull Number
 tb_s7_1885|s17,S17,Hull Number
 tb_s7_1885|s18,S18,Hull Number
 tb_s7_1885|s19,S19,Hull Number
 tb_s7_1885|s20,S20,Hull Number
+tb_s7_1885|s20,T20,Hull Number
 tb_s7_1885|s21,S21,Hull Number
+tb_s7_1885|s21,T21,Hull Number
 tb_s7_1885|s22,S22,Hull Number
+tb_s7_1885|s22,T22,Hull Number
 tb_s7_1885|s23,S23,Hull Number
 tb_s7_1885|s7,S7,Hull Number
 tb_s7_1885|s8,S8,Hull Number
 tb_s7_1885|s9,S9,Hull Number
 tb_s74_1895|s74,S74,Hull Number
+tb_s74_1895|s74,T74,Hull Number
 tb_s75_1895|s75,S75,Hull Number
+tb_s75_1895|s75,T75,Hull Number
 tb_s75_1895|s76,S76,Hull Number
+tb_s75_1895|s76,T76,Hull Number
 tb_s75_1895|s77,S77,Hull Number
+tb_s75_1895|s77,T77,Hull Number
 tb_s75_1895|s78,S78,Hull Number
+tb_s75_1895|s78,T78,Hull Number
 tb_s75_1895|s79,S79,Hull Number
+tb_s75_1895|s79,T79,Hull Number
 tb_s75_1895|s80,S80,Hull Number
+tb_s75_1895|s80,T80,Hull Number
 tb_s75_1895|s81,S81,Hull Number
+tb_s75_1895|s81,T81,Hull Number
 tb_s82_1897|s82,S82,Hull Number
+tb_s82_1897|s82,T82,Hull Number
 tb_s82_1897|s83,S83,Hull Number
+tb_s82_1897|s83,T83,Hull Number
 tb_s82_1897|s84,S84,Hull Number
+tb_s82_1897|s84,T84,Hull Number
 tb_s82_1897|s85,S85,Hull Number
+tb_s82_1897|s85,T85,Hull Number
 tb_s82_1897|s86,S86,Hull Number
+tb_s82_1897|s86,T86,Hull Number
 tb_s82_1897|s87,S87,Hull Number
+tb_s82_1897|s87,T87,Hull Number
 tb_sabino_voera_1884|sabino_voera,Sabino Voera,
 tb_samopal_1878|raketa,Raketa,
 tb_samopal_1878|samopal,Samopal,
