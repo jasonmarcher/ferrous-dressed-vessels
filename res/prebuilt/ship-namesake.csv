@@ -13754,44 +13754,46 @@ ltb_s90|s98,S98,Hull Number
 ltb_s90|s98,T98,Hull Number
 ltb_s90|s99,S99,Hull Number
 ltb_s90|s99,T99,Hull Number
-ltb_t1_1939|t1,T1,Hull Number
-ltb_t1_1939|t2,T2,Hull Number
-ltb_t1_1939|t3,T3,Hull Number
-ltb_t1_1939|t4,T4,Hull Number
-ltb_t1_1939|t5,T5,Hull Number
-ltb_t1_1939|t6,T6,Hull Number
-ltb_t1_1939|t7,T7,Hull Number
-ltb_t1_1939|t8,T8,Hull Number
-ltb_t13_1941|t13,T13,Hull Number
-ltb_t13_1941|t14,Dompaire,
-ltb_t13_1941|t14,T14,Hull Number
-ltb_t13_1941|t15,T15,Hull Number
-ltb_t13_1941|t16,T16,Hull Number
-ltb_t13_1941|t17,Poryvistyy,
-ltb_t13_1941|t17,T17,Hull Number
-ltb_t13_1941|t18,T18,Hull Number
-ltb_t13_1941|t19,T19,Hull Number
-ltb_t13_1941|t20,Baccarat,
-ltb_t13_1941|t20,T20,Hull Number
-ltb_t13_1941|t21,T21,Hull Number
-ltb_t22_1942|t22,T22,Hull Number
-ltb_t22_1942|t23,L'Alsacien,
-ltb_t22_1942|t23,T23,Hull Number
-ltb_t22_1942|t24,T24,Hull Number
-ltb_t22_1942|t25,T25,Hull Number
-ltb_t22_1942|t26,T26,Hull Number
-ltb_t22_1942|t27,T27,Hull Number
-ltb_t22_1942|t28,Le Lorrain,
-ltb_t22_1942|t28,T28,Hull Number
-ltb_t22_1942|t29,T29,Hull Number
-ltb_t22_1942|t30,T30,Hull Number
-ltb_t22_1942|t31,T31,Hull Number
-ltb_t22_1942|t32,T32,Hull Number
-ltb_t22_1942|t33,Primernyy,
-ltb_t22_1942|t33,T33,Hull Number
-ltb_t22_1942|t34,T34,Hull Number
-ltb_t22_1942|t35,T35,Hull Number
-ltb_t22_1942|t36,T36,Hull Number
+ltb_t1_1936|t1,T1,Hull Number
+ltb_t1_1936|t2,T2,Hull Number
+ltb_t1_1936|t3,T3,Hull Number
+ltb_t1_1936|t4,T4,Hull Number
+ltb_t1_1936|t5,T5,Hull Number
+ltb_t1_1936|t6,T6,Hull Number
+ltb_t1_1936|t7,T7,Hull Number
+ltb_t1_1936|t8,T8,Hull Number
+ltb_t13_1938|t13,T13,Hull Number
+ltb_t13_1938|t14,Dompaire,
+ltb_t13_1938|t14,T14,Hull Number
+ltb_t13_1938|t15,T15,Hull Number
+ltb_t13_1938|t16,T16,Hull Number
+ltb_t13_1938|t17,Poryvistyy,
+ltb_t13_1938|t17,T17,Hull Number
+ltb_t13_1938|t17,UTS-6,Hull Number
+ltb_t13_1938|t18,T18,Hull Number
+ltb_t13_1938|t19,T19,Hull Number
+ltb_t13_1938|t20,Baccarat,
+ltb_t13_1938|t20,T20,Hull Number
+ltb_t13_1938|t21,T21,Hull Number
+ltb_t22_1940|t22,T22,Hull Number
+ltb_t22_1940|t23,L'Alsacien,
+ltb_t22_1940|t23,T23,Hull Number
+ltb_t22_1940|t24,T24,Hull Number
+ltb_t22_1940|t25,T25,Hull Number
+ltb_t22_1940|t26,T26,Hull Number
+ltb_t22_1940|t27,T27,Hull Number
+ltb_t22_1940|t28,Le Lorrain,
+ltb_t22_1940|t28,T28,Hull Number
+ltb_t22_1940|t29,T29,Hull Number
+ltb_t22_1940|t30,T30,Hull Number
+ltb_t22_1940|t31,T31,Hull Number
+ltb_t22_1940|t32,T32,Hull Number
+ltb_t22_1940|t33,Primernyy,
+ltb_t22_1940|t33,T33,Hull Number
+ltb_t22_1940|t34,T34,Hull Number
+ltb_t22_1940|t35,DD-935,Hull Number
+ltb_t22_1940|t35,T35,Hull Number
+ltb_t22_1940|t36,T36,Hull Number
 ltb_t37_1943|t37,T37,Hull Number
 ltb_t37_1943|t38,T38,Hull Number
 ltb_t37_1943|t39,T39,Hull Number
@@ -13818,12 +13820,13 @@ ltb_t61_1942|t69,T69,Hull Number
 ltb_t61_1942|t70,T70,Hull Number
 ltb_t61_1942|t71,T71,Hull Number
 ltb_t61_1942|t72,T72,Hull Number
-ltb_t9_1940|t10,T10,Hull Number
-ltb_t9_1940|t11,Bir Hakeim,
-ltb_t9_1940|t11,T11,Hull Number
-ltb_t9_1940|t12,Podvizhnyy,
-ltb_t9_1940|t12,T12,Hull Number
-ltb_t9_1940|t9,T9,Hull Number
+ltb_t9_1936|t10,T10,Hull Number
+ltb_t9_1936|t11,Bir Hakeim,
+ltb_t9_1936|t11,T11,Hull Number
+ltb_t9_1936|t12,Kit,
+ltb_t9_1936|t12,Podvizhnyy,
+ltb_t9_1936|t12,T12,Hull Number
+ltb_t9_1936|t9,T9,Hull Number
 ltb_v1|v1,V1,Hull Number
 ltb_v1|v2,V2,Hull Number
 ltb_v1|v3,V3,Hull Number
@@ -36841,13 +36844,18 @@ tb_a_1894|h,H,Hull Number
 tb_a_1894|i,I,Hull Number
 tb_a1_1914|a1,A1,Hull Number
 tb_a1_1914|a10,A10,Hull Number
+tb_a1_1914|a11,A10,Hull Number
 tb_a1_1914|a11,A11,Hull Number
+tb_a1_1914|a11,A7,Hull Number
 tb_a1_1914|a11,A7 PC,Hull Number
 tb_a1_1914|a12,A12,Hull Number
 tb_a1_1914|a12,A2 PC,Hull Number
+tb_a1_1914|a12,A2 Prince Charles,"Charles Théodore Henri Antoine Meinrad, Count of Flanders"
 tb_a1_1914|a13,A13,Hull Number
 tb_a1_1914|a14,A1 PC,Hull Number
+tb_a1_1914|a14,A12,Hull Number
 tb_a1_1914|a14,A14,Hull Number
+tb_a1_1914|a14,Prince Leopold,"Léopold Ferdinand Élie Victor Albert Marie, Duke of Brabant"
 tb_a1_1914|a15,A15,Hull Number
 tb_a1_1914|a16,A16,Hull Number
 tb_a1_1914|a16,A8 PC,Hull Number
@@ -36857,6 +36865,9 @@ tb_a1_1914|a19,A19,Hull Number
 tb_a1_1914|a2,A2,Hull Number
 tb_a1_1914|a20,A20,Hull Number
 tb_a1_1914|a20,A9 PC,Hull Number
+tb_a1_1914|a20,Reiher,Heron
+tb_a1_1914|a20,Warendorp,Bruno von Warendorp
+tb_a1_1914|a20,West Diep,"Westdiep, Belgium"
 tb_a1_1914|a21,A21,Hull Number
 tb_a1_1914|a22,A22,Hull Number
 tb_a1_1914|a23,A23,Hull Number
@@ -36864,23 +36875,30 @@ tb_a1_1914|a24,A24,Hull Number
 tb_a1_1914|a25,A25,Hull Number
 tb_a1_1914|a3,A3,Hull Number
 tb_a1_1914|a4,A3 PC,Hull Number
+tb_a1_1914|a4,A3 Princesse Marie-Jose,Marie-José Charlotte Sophie Amélie Henriette Gabrielle
 tb_a1_1914|a4,A4,Hull Number
+tb_a1_1914|a5,A4,Hull Number
 tb_a1_1914|a5,A4 PC,Hull Number
 tb_a1_1914|a5,A5,Hull Number
 tb_a1_1914|a6,A6,Hull Number
 tb_a1_1914|a7,A7,Hull Number
+tb_a1_1914|a8,A5,Hull Number
 tb_a1_1914|a8,A5 PC,Hull Number
 tb_a1_1914|a8,A8,Hull Number
+tb_a1_1914|a8,Oever,Shore
+tb_a1_1914|a9,A6,Hull Number
 tb_a1_1914|a9,A6 PC,Hull Number
 tb_a1_1914|a9,A9,Hull Number
 tb_a26_1916|a26,A26,Hull Number
 tb_a26_1916|a27,A27,Hull Number
 tb_a26_1916|a28,A28,Hull Number
 tb_a26_1916|a29,A29,Hull Number
+tb_a26_1916|a30,A29,Hull Number
+tb_a26_1916|a30,A29 PC,Hull Number
 tb_a26_1916|a30,A30,Hull Number
-tb_a26_1916|a31,A29 PC,Hull Number
 tb_a26_1916|a31,A31,Hull Number
 tb_a26_1916|a32,A32,Hull Number
+tb_a26_1916|a32,Sulev,
 tb_a26_1916|a33,A33,Hull Number
 tb_a26_1916|a34,A34,Hull Number
 tb_a26_1916|a35,A35,Hull Number
@@ -36888,16 +36906,22 @@ tb_a26_1916|a36,A36,Hull Number
 tb_a26_1916|a37,A37,Hull Number
 tb_a26_1916|a38,A38,Hull Number
 tb_a26_1916|a39,A39,Hull Number
+tb_a26_1916|a40,A22,Hull Number
 tb_a26_1916|a40,A22 PC,Hull Number
 tb_a26_1916|a40,A40,Hull Number
 tb_a26_1916|a41,A41,Hull Number
+tb_a26_1916|a42,A23,Hull Number
 tb_a26_1916|a42,A23 PC,Hull Number
 tb_a26_1916|a42,A42,Hull Number
+tb_a26_1916|a42,Zand,"Zand, Belgium"
+tb_a26_1916|a43,A24,Hull Number
 tb_a26_1916|a43,A24 PC,Hull Number
 tb_a26_1916|a43,A43,Hull Number
+tb_a26_1916|a43,Wielingen,"Wielingen, Belgium"
 tb_a26_1916|a44,A44,Hull Number
 tb_a26_1916|a45,A45,Hull Number
 tb_a26_1916|a46,A46,Hull Number
+tb_a26_1916|a47,A25,Hull Number
 tb_a26_1916|a47,A25 PC,Hull Number
 tb_a26_1916|a47,A47,Hull Number
 tb_a26_1916|a48,A48,Hull Number
@@ -37326,7 +37350,9 @@ tb_g13_1914|g14,G14,Hull Number
 tb_g13_1914|g15,G15,Hull Number
 tb_g13_1914|g16,G16,Hull Number
 tb_g88_1897|g88,S88,Hull Number
+tb_g88_1897|g88,T88,Hull Number
 tb_g88_1897|g89,S89,Hull Number
+tb_g88_1897|g89,T89,Hull Number
 tb_gabbiano_1907|gabbiano,Gabbiano,
 tb_gagry_1884|gagry,Gagry,
 tb_galka_1878|galka,Galka,
@@ -38214,86 +38240,154 @@ tb_rigel_1883|rigel,Rigel,
 tb_rolf_1882|rolf,Rolf,
 tb_rowan_1899|rowan,Rowan,
 tb_s24_1886|s24,S24,Hull Number
+tb_s24_1886|s24,T24,Hull Number
 tb_s24_1886|s25,S25,Hull Number
+tb_s24_1886|s25,T25,Hull Number
 tb_s24_1886|s26,S26,Hull Number
 tb_s24_1886|s27,S27,Hull Number
+tb_s24_1886|s27,T27,Hull Number
 tb_s24_1886|s28,S28,Hull Number
+tb_s24_1886|s28,T28,Hull Number
 tb_s24_1886|s29,S29,Hull Number
+tb_s24_1886|s29,T29,Hull Number
 tb_s24_1886|s30,S30,Hull Number
+tb_s24_1886|s30,T30,Hull Number
 tb_s24_1886|s31,S31,Hull Number
+tb_s24_1886|s31,T31,Hull Number
 tb_s32_1886|s32,S32,Hull Number
 tb_s33_1886|s33,S33,Hull Number
+tb_s33_1886|s33,T33,Hull Number
 tb_s33_1886|s34,S34,Hull Number
+tb_s33_1886|s34,T34,Hull Number
 tb_s33_1886|s35,S35,Hull Number
+tb_s33_1886|s35,T35,Hull Number
 tb_s33_1886|s36,S36,Hull Number
+tb_s33_1886|s36,T36,Hull Number
 tb_s33_1886|s37,S37,Hull Number
+tb_s33_1886|s37,T37,Hull Number
 tb_s33_1886|s38,S38,Hull Number
+tb_s33_1886|s38,T38,Hull Number
 tb_s33_1886|s39,S39,Hull Number
+tb_s33_1886|s39,T39,Hull Number
 tb_s33_1886|s40,S40,Hull Number
+tb_s33_1886|s40,T40,Hull Number
 tb_s33_1886|s41,S41,Hull Number
 tb_s42_1889|s42,S42,Hull Number
+tb_s42_1889|s42,T42,Hull Number
 tb_s43_1889|s43,S43,Hull Number
+tb_s43_1889|s43,T43,Hull Number
 tb_s43_1889|s44,S44,Hull Number
+tb_s43_1889|s44,T44,Hull Number
 tb_s43_1889|s45,S45,Hull Number
+tb_s43_1889|s45,T45,Hull Number
 tb_s43_1889|s46,S46,Hull Number
+tb_s43_1889|s46,T46,Hull Number
 tb_s43_1889|s47,S47,Hull Number
+tb_s43_1889|s47,T47,Hull Number
 tb_s43_1889|s48,S48,Hull Number
 tb_s43_1889|s49,S49,Hull Number
+tb_s43_1889|s49,T49,Hull Number
 tb_s43_1889|s50,S50,Hull Number
+tb_s43_1889|s50,T50,Hull Number
 tb_s43_1889|s51,S51,Hull Number
+tb_s43_1889|s51,T51,Hull Number
 tb_s43_1889|s52,S52,Hull Number
+tb_s43_1889|s52,T52,Hull Number
 tb_s43_1889|s53,S53,Hull Number
+tb_s43_1889|s53,T53,Hull Number
 tb_s43_1889|s54,S54,Hull Number
+tb_s43_1889|s54,T54,Hull Number
 tb_s43_1889|s55,S55,Hull Number
+tb_s43_1889|s55,T55,Hull Number
 tb_s43_1889|s56,S56,Hull Number
+tb_s43_1889|s56,T56,Hull Number
 tb_s43_1889|s57,S57,Hull Number
+tb_s43_1889|s57,T57,Hull Number
 tb_s58_1892|s58,S58,Hull Number
+tb_s58_1892|s58,T58,Hull Number
 tb_s58_1892|s59,S59,Hull Number
+tb_s58_1892|s59,T59,Hull Number
 tb_s58_1892|s60,S60,Hull Number
+tb_s58_1892|s60,T60,Hull Number
 tb_s58_1892|s61,S61,Hull Number
+tb_s58_1892|s61,T61,Hull Number
 tb_s58_1892|s62,S62,Hull Number
+tb_s58_1892|s62,T62,Hull Number
 tb_s58_1892|s63,S63,Hull Number
+tb_s58_1892|s63,T63,Hull Number
 tb_s58_1892|s64,S64,Hull Number
+tb_s58_1892|s64,T64,Hull Number
 tb_s58_1892|s65,S65,Hull Number
+tb_s58_1892|s65,T65,Hull Number
 tb_s66_1893|s66,S66,Hull Number
+tb_s66_1893|s66,T66,Hull Number
 tb_s67_1893|s67,S67,Hull Number
+tb_s67_1893|s67,T67,Hull Number
 tb_s67_1893|s68,S68,Hull Number
+tb_s67_1893|s68,T68,Hull Number
 tb_s67_1893|s69,S69,Hull Number
+tb_s67_1893|s69,T69,Hull Number
 tb_s67_1893|s70,S70,Hull Number
+tb_s67_1893|s70,T70,Hull Number
 tb_s67_1893|s71,S71,Hull Number
+tb_s67_1893|s71,T71,Hull Number
 tb_s67_1893|s72,S72,Hull Number
+tb_s67_1893|s72,T72,Hull Number
 tb_s67_1893|s73,S73,Hull Number
+tb_s67_1893|s73,T73,Hull Number
 tb_s7_1885|s10,S10,Hull Number
 tb_s7_1885|s11,S11,Hull Number
+tb_s7_1885|s11,T11,Hull Number
 tb_s7_1885|s12,S12,Hull Number
 tb_s7_1885|s13,S13,Hull Number
+tb_s7_1885|s13,T13,Hull Number
 tb_s7_1885|s14,S14,Hull Number
+tb_s7_1885|s14,T14,Hull Number
 tb_s7_1885|s15,S15,Hull Number
+tb_s7_1885|s15,T15,Hull Number
 tb_s7_1885|s16,S16,Hull Number
+tb_s7_1885|s16,T16,Hull Number
 tb_s7_1885|s17,S17,Hull Number
 tb_s7_1885|s18,S18,Hull Number
 tb_s7_1885|s19,S19,Hull Number
 tb_s7_1885|s20,S20,Hull Number
+tb_s7_1885|s20,T20,Hull Number
 tb_s7_1885|s21,S21,Hull Number
+tb_s7_1885|s21,T21,Hull Number
 tb_s7_1885|s22,S22,Hull Number
+tb_s7_1885|s22,T22,Hull Number
 tb_s7_1885|s23,S23,Hull Number
 tb_s7_1885|s7,S7,Hull Number
 tb_s7_1885|s8,S8,Hull Number
 tb_s7_1885|s9,S9,Hull Number
 tb_s74_1895|s74,S74,Hull Number
+tb_s74_1895|s74,T74,Hull Number
 tb_s75_1895|s75,S75,Hull Number
+tb_s75_1895|s75,T75,Hull Number
 tb_s75_1895|s76,S76,Hull Number
+tb_s75_1895|s76,T76,Hull Number
 tb_s75_1895|s77,S77,Hull Number
+tb_s75_1895|s77,T77,Hull Number
 tb_s75_1895|s78,S78,Hull Number
+tb_s75_1895|s78,T78,Hull Number
 tb_s75_1895|s79,S79,Hull Number
+tb_s75_1895|s79,T79,Hull Number
 tb_s75_1895|s80,S80,Hull Number
+tb_s75_1895|s80,T80,Hull Number
 tb_s75_1895|s81,S81,Hull Number
+tb_s75_1895|s81,T81,Hull Number
 tb_s82_1897|s82,S82,Hull Number
+tb_s82_1897|s82,T82,Hull Number
 tb_s82_1897|s83,S83,Hull Number
+tb_s82_1897|s83,T83,Hull Number
 tb_s82_1897|s84,S84,Hull Number
+tb_s82_1897|s84,T84,Hull Number
 tb_s82_1897|s85,S85,Hull Number
+tb_s82_1897|s85,T85,Hull Number
 tb_s82_1897|s86,S86,Hull Number
+tb_s82_1897|s86,T86,Hull Number
 tb_s82_1897|s87,S87,Hull Number
+tb_s82_1897|s87,T87,Hull Number
 tb_sabino_voera_1884|sabino_voera,Sabino Voera,
 tb_samopal_1878|raketa,Raketa,
 tb_samopal_1878|samopal,Samopal,

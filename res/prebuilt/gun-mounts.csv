@@ -602,11 +602,11 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 105-c-mpl-c91,105,10.5cm/32 MPL C/91,germany,Pedestal,105-bg-sk-l35-c91,1,30.3,http://www.navweaps.com/Weapons/WNGER_41-35_skc91.php#Mount_%2F_Turret_Data
 105-sm-dop-lc37,105,10.5cm/60 Dop. L. C/37,germany,Stabalized Mount,105-bg-sk-c33,2,80,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php#Mount%2FTurret_Data
 105-sm-dop-lc31,105,10.5cm/60 Dop. L. C/31,germany,Stabalized Mount,105-bg-sk-c33,2,80,http://www.navweaps.com/Weapons/WNGER_41-65_skc33.php#Mount%2FTurret_Data
-105-p-mpl-c30,105,10.5cm/42 MPL C/30,germany,Pedestal,105-bg-sk-c32,1,80,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Mount%2FTurret_Data
-105-gs-mpl-c30,105,10.5cm/42 MPL C/30,germany,Pedestal (Gun Shield),105-bg-sk-c32,1,80,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Mount%2FTurret_Data
-105-cp-mpl-c32ge,105,10.5cm/42 MPL C/32gE,germany,Pedestal (Gun Shield),105-bg-sk-c32,1,70,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Mount%2FTurret_Data
-105-cp-mpl-c32,105,10.5cm/42 MPL C/32,germany,Pedestal (Gun Shield),105-bg-sk-c32,1,50,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Mount%2FTurret_Data
-105-gs-mpl-c28,105,10.5cm/51 MPL C/28,germany,Pedestal (Gun Shield),105-bg-sk-c28,1,30,https://www.navweaps.com/Weapons/WNGER_41-55_skc28.php#Mount_%2F_Turret_Data
+105-p-mpl-c30,105,10.5cm/42 MPL C/30,germany,Central Pivot,105-bg-sk-c32,1,80,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Mount%2FTurret_Data
+105-gs-mpl-c30,105,10.5cm/42 MPL C/30,germany,Central Pivot (Gun Shield),105-bg-sk-c32,1,80,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Mount%2FTurret_Data
+105-cp-mpl-c32ge,105,10.5cm/42 MPL C/32gE,germany,Central Pivot (Gun Shield),105-bg-sk-c32,1,70,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Mount%2FTurret_Data
+105-cp-mpl-c32,105,10.5cm/42 MPL C/32,germany,Central Pivot (Gun Shield),105-bg-sk-c32,1,50,http://www.navweaps.com/Weapons/WNGER_41-45_skc32.php#Mount%2FTurret_Data
+105-gs-mpl-c28,105,10.5cm/51 MPL C/28,germany,Central Pivot (Gun Shield),105-bg-sk-c28,1,30,https://www.navweaps.com/Weapons/WNGER_41-55_skc28.php#Mount_%2F_Turret_Data
 102-c-vickers-e,102,10.2cm/50 Vickers E,spain,Pedestal (Casement),102-bg-vickers-e,1,15,http://www.navypedia.org/ships/spain/sp_bb_espana.htm
 102-cp-twin-ha-markxix,102,"4""/45 Twin HA Mark XIX",britain,Central Pivot (Gun Shield),102-bg-qf-markxvi,2,80,http://www.navweaps.com/Weapons/WNBR_4-45_mk16.php#Mount%2FTurret_Data
 102-cp-rp-51-markxix,102,"4""/45 RP 51 Mark XIX",britain,Central Pivot (Gun Shield),102-bg-qf-markxvi,2,80,http://www.navweaps.com/Weapons/WNBR_4-45_mk16.php#Mount%2FTurret_Data
@@ -746,6 +746,7 @@ GunMountID,MountCaliber,GunMountName,GunMountNation,GunMountType,GunID,NumberOfG
 76-gs-pi,76,12-pdr/40 PI,britain,Central Pivot (Gun Shield),76-bg-12-qf-marki,1,30,https://www.navweaps.com/Weapons/WNBR_3-40_mk1.php#Mount%2FTurret_Data
 76-gs-ha-viii,76,12-pdr/40 HA VIII,britain,Central Pivot (Gun Shield),76-bg-12-qf-marki,1,90,https://www.navweaps.com/Weapons/WNBR_3-40_mk1.php#Mount%2FTurret_Data
 75-cp-ein-lc34,75,7.5cm/36 Ein L C/34,germany,Central Pivot,75-bg-sk-c34,1,80,http://www.navweaps.com/Weapons/WNGER_3-36_skc34.php#Mount_%2F_Turret_Data
+75-p-p1908,75,75mm/48.2 Pattern 1908,russia,Pedestal,75-bg-p1892,1,25,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-p-p1906,75,75mm/48.2 Pattern 1906,russia,Pedestal,75-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-p-osz-m1911,75,75mm/48.2 OSZ mod 1911,russia,Pedestal,75-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
 75-p-canet,75,75mm/48.2 Canet,russia,Pedestal,75-bg-p1892,1,20,http://www.navweaps.com/Weapons/WNRussian_29-50_m1891.php#Mount%2FTurret_Data
