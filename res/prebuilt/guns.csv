@@ -271,7 +271,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 75-bg-m1897,75mm/36 Model 1897 G,French 75mm,france,1891-01-01,75,36,1544,6,4,Breech,500,0,,https://en.wikipedia.org/wiki/Canon_de_75_mod%C3%A8le_1897
 65-bg-m1902,65mm/50 Model 1902,Schneider et Cie 9-pdr,france,1902-01-01,65,50,594,20,15,Breech,870,840,,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
 65-bg-m1888,65mm/50 Model 1888,Schneider et Cie 9-pdr,france,1888-01-01,65,50,540,20,15,Breech,715,0,,https://en.wikipedia.org/wiki/Canon_de_65_mm_Mod%C3%A8le_1891
-57-bg-d-s-mark8,6-pdr/45 Driggs-Schroeder Mark 8,Hotchkiss 6-pdr,france,1885-01-01,57,50,,20,20,Breech,,0,,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
+57-bg-hotchkiss-50,57mm/50 Hotchkiss Gun,Hotchkiss 6-pdr,france,1885-01-01,57,50,441,15,15,Breech,770,0,,https://www.navweaps.com/Weapons/WNRussian_57mm_Hotchkiss.php
+57-bg-d-s-mark8,6-pdr/50 Driggs-Schroeder Mark 8,Hotchkiss 6-pdr,france,1885-01-01,57,50,,20,20,Breech,,0,,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 57-bg-d-s,6-pdr/45 Driggs-Schroeder Mark 3,Hotchkiss 6-pdr,france,1885-01-01,57,45,,20,20,Breech,,0,,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 57-bg-mk1,6-pdr Hotchkiss Mark 1,Hotchkiss 6-pdr,france,1883-01-01,57,40,385,20,20,Breech,683,0,250,http://www.navweaps.com/Weapons/WNUS_6pounder_m1.php
 47-bg-m1902,47mm/50 Hotchkiss L/50 Model 1902,Hotchkiss 3-pdr,france,1902-01-01,47,50,594,25,20,Breech Semi-Automatic,590,0,,https://en.wikipedia.org/wiki/QF_3-pounder_Hotchkiss#French_service
@@ -421,6 +422,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-o1877,152mm/25 Obukhoff 1877,"Obukhoff 6""",russia,1877-01-01,152,25,,1,1,Breech,,,,
 130-bg-p1948,130mm/58 Pattern 1948,Russian 130mm,russia,1948-01-01,130,58,4990,12,12,Breech,950,955,400,http://www.navweaps.com/Weapons/WNRussian_51-58_m1957.php
 130-bg-b13-p1936,130mm/50 B13 Pattern 1936,Russian 130mm,russia,1929-01-01,130,49.6,5070,12,10,Breech,870,870,150,https://www.navweaps.com/Weapons/WNRussian_51-50_m1936.php
+102-bg-p1911,102mm/60 Pattern 1911,"Obukhoff 4""",russia,1911-01-01,102,60,2850,12,12,Breech,823,823,150,https://www.navweaps.com/Weapons/WNRussian_4-60_m1911.php
 102-bg-b2-p1930,102mm/45 B-2 Pattern 1930,"Obukhoff 4""",russia,1927-01-01,102,42,2120,6,4,Breech,755,755,200,http://www.navweaps.com/Weapons/WNRussian_4-45_m1930.php
 100-bg-cm5,100mm/70 CM-5,,russia,1947-01-01,100,70,3972,18,15,Breech,1000,1000,320,http://www.navweaps.com/Weapons/WNRussian_39-70_cm5.php
 100-bg-b34-p1940,100mm/54 B-34 Pattern 1940,Bolshevik 100mm,russia,1937-01-01,100,53.5,2463,12,10,Breech,895,900,300,http://www.navweaps.com/Weapons/WNRussian_39-56_m1940.php
