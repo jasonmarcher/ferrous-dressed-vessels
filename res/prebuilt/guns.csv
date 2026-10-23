@@ -356,7 +356,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 88-bg-sk-l35,8.8cm/32 SK L/35,Krupp 8.8cm,germany,1900-01-01,88,32,3080,12,12,Breech,690,0,150,http://www.navweaps.com/Weapons/WNGER_88mm-35_skc00.php
 88-bg-sk-l30,8.8cm/27 SK L/30,Krupp 8.8cm,germany,1890-01-01,88,27,644,15,15,Breech,616,0,200,http://www.navweaps.com/Weapons/WNGER_88mm-30_skc97.php
 87-bg-rk-l24-c82,8.7cm RK L/24 C/82,Krupp 8.7cm,germany,,87,22,,,,Breech,471,0,,Identification of the Parameters of Naval Artillery
-76-bg-34k-p1935,76.2mm/55 34-K Pattern 1935,,germany,1930-01-01,76.2,55,1263,18,15,Breech,813,813,300,http://www.navweaps.com/Weapons/WNRussian_3-55_m1935.php
+76-bg-34k-p1935,76.2mm/55 34-K Pattern 1935,Rheinmetall 76.2cm,germany,1930-01-01,76.2,55,1263,18,15,Breech,813,813,300,http://www.navweaps.com/Weapons/WNRussian_3-55_m1935.php
 75-bg-sk-c34,7.5cm/36 SK C/34,,germany,1934-01-01,75,36.2,,15,15,Breech,616,616,,http://www.navweaps.com/Weapons/WNGER_3-36_skc34.php
 55-mg-gerat-58,5.5cm/77 Gerat 58,,germany,1944-01-01,55,76.7,650,150,140,Breech Autoloader,1020,1020,,https://www.navweaps.com/Weapons/WNGER_55_Gerat58.php
 52-bg-sk-l55,5.2cm/51 SK L/55,,germany,1905-01-01,52,51,3900,10,10,Breech,850,0,500,http://www.navweaps.com/Weapons/WNGER_52cm-55_skc06.php
@@ -420,8 +420,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 152-bg-b38-p1938-mk4,152mm/57 B-38 Pattern 1938 MK-4,Bolshevik 152mm,russia,1938-01-01,152,57,17500,7.5,7.5,Breech,950,0,160,http://www.navweaps.com/Weapons/WNRussian_6-57_m1938.php
 152-bg-o1885,152mm/35 Obukhoff 1885,"Obukhoff 6""",russia,1885-01-01,152,35,8500,1,1,Breech,700,700,,https://en.wikipedia.org/wiki/6_inch_35_caliber_naval_gun_1877
 152-bg-o1877,152mm/25 Obukhoff 1877,"Obukhoff 6""",russia,1877-01-01,152,25,,1,1,Breech,,,,
-130-bg-p1948,130mm/58 Pattern 1948,Russian 130mm,russia,1948-01-01,130,58,4990,12,12,Breech,950,955,400,http://www.navweaps.com/Weapons/WNRussian_51-58_m1957.php
-130-bg-b13-p1936,130mm/50 B13 Pattern 1936,Russian 130mm,russia,1929-01-01,130,49.6,5070,12,10,Breech,870,870,150,https://www.navweaps.com/Weapons/WNRussian_51-50_m1936.php
+130-bg-p1948,130mm/58 Pattern 1948,Russian 130mm,russia,1948-01-01,130,54,4990,15,15,Breech,950,955,400,http://www.navweaps.com/Weapons/WNRussian_51-58_m1957.php
+130-bg-b13-p1936,130mm/50 B13 Pattern 1936,Russian 130mm,russia,1929-01-01,130,49.6,5070,10,8,Breech,870,870,150,https://www.navweaps.com/Weapons/WNRussian_51-50_m1936.php
 102-bg-p1911,102mm/60 Pattern 1911,"Obukhoff 4""",russia,1911-01-01,102,60,2850,12,12,Breech,823,823,150,https://www.navweaps.com/Weapons/WNRussian_4-60_m1911.php
 102-bg-b2-p1930,102mm/45 B-2 Pattern 1930,"Obukhoff 4""",russia,1927-01-01,102,42,2120,6,4,Breech,755,755,200,http://www.navweaps.com/Weapons/WNRussian_4-45_m1930.php
 100-bg-cm5,100mm/70 CM-5,,russia,1947-01-01,100,70,3972,18,15,Breech,1000,1000,320,http://www.navweaps.com/Weapons/WNRussian_39-70_cm5.php
@@ -430,12 +430,16 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 85-bg-90k,85mm/52 90-K,,russia,1941-01-01,85,52,2100,18,15,Breech Semi-Automatic,792,792,400,http://www.navweaps.com/Weapons/WNRussian_85mm-52_90k.php
 76-bg-p1914-8k,76.2mm/30 Pattern 1914/15 (8-K),Putilov 76.2mm,russia,1913-01-01,76.2,28,440,12,10,Breech,588,588,,http://www.navweaps.com/Weapons/WNRussian_3-30_Lender.php
 63-bg-p1916,"2.5""/36 Pattern 1916","Obukhov 2.5""",russia,1914-01-01,63.3,36,,30,30,Breech Semi-Automatic,686,686,200,http://www.navweaps.com/Weapons/WNRussian_25-38_m1916.php
+57-mg-zif-75,57mm/81 ZIF-75,,russia,1960-01-01,57,75,275,160,100,Breech Autoloader,1020,1020,,https://www.navweaps.com/Weapons/WNRussian_57mm-81_zif-71.php
+57-mg-zif-71,57mm/81 ZIF-71,,russia,1957-01-01,57,75,275,160,28,Breech Autoloader,1020,1020,,https://www.navweaps.com/Weapons/WNRussian_57mm-81_zif-71.php
+57-mg-zif-31,57mm/78.7 ZIF-31,,russia,1954-01-01,57,75,620,50,28,Breech Autoloader,1020,1020,,https://www.navweaps.com/Weapons/WNRussian_57mm-78_zif-31.php
 45-mg-sm7,45mm/78 SM-7,Russian 45mm,russia,1952-01-01,45,78,402.8,640,540,Breech Autoloader,1080,1080,,http://www.navweaps.com/Weapons/WNRussian_45mm-78_SM-7.php
 45-sa-21k,45mm/46 21-K,19-K Anti-Tank Gun,russia,1932-01-01,45,46,115,30,25,Breech Semi-Automatic,343,343,500,http://www.navweaps.com/Weapons/WNRussian_45mm-46.php
 37-mg-70k,37mm/63 70-K,Russian 37mm,russia,1938-01-01,37,62.5,126,170,150,Breech Automatic,880,880,2000,http://www.navweaps.com/Weapons/WNRussian_37mm-67_70-K.php
 30-mg-ak230,30mm/63 AK-230,,russia,1956-01-01,30,63,156,1000,1000,Breech Automatic,1060,1060,500,http://www.navweaps.com/Weapons/WNRussian_30mm-63_ak-230.php
-25-mg-bl-120,25mm/79 BL-120,Russian 25mm,russia,1948-01-01,25,79,101,285,240,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
-25-mg-110-pm,25mm/79 110-PM,Russian 25mm,russia,1948-01-01,25,79,101,300,285,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
+25-mg-bl-120,25mm/79 BL-120,Russian 25mm,russia,1948-01-01,25,79,101,450,240,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
+25-mg-type-61,25mm/60 Type 61,Russian 25mm,russia,1948-01-01,25,71,101,450,285,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
+25-mg-110-pm,25mm/79 110-PM,Russian 25mm,russia,1948-01-01,25,71,101,450,285,Breech Automatic,900,900,1200,http://www.navweaps.com/Weapons/WNRussian_25mm-79_2m-3.php
 25-mg-72k,25mm/70 72-k,Kalinin Artillery Plant 25mm,russia,1939-01-01,25,70,,240,240,Breech Automatic,910,910,,https://en.wikipedia.org/wiki/25_mm_automatic_air_defense_gun_M1940_(72-K)
 14-mg-2m7,14.5mm/93 2M-7,,russia,1944-01-01,14.5,93,,600,150,Breech Automatic,1000,1000,,http://www.navweaps.com/Weapons/WNRussian_145-93_2m-7.php
 12-mg-dshk-1938,12.7mm/79 DShK 1938,Tula Arms Plant 12.7mm,russia,1938-01-01,12.7,79,34,600,150,Breech Automatic,850,850,,https://en.wikipedia.org/wiki/DShK
