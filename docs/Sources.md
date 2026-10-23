@@ -218,6 +218,12 @@ https://weaponsystems.net/menu/94
 UK WWI
 http://www.gwpda.org/naval/n0000000.htm
 
+https://www.and-kin2008.narod.ru/ships.html
+
+https://navsource.narod.ru/index.html
+
+https://studfile.net/preview/16672137/
+
 ### Ships TODO
 
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
