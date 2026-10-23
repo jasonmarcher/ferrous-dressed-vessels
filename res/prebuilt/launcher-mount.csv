@@ -48,6 +48,8 @@ dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,9,http://www.navweaps.com/Weapons/WAMUS_ASW.p
 450-tt-dual-jpn,450mm Dual (Japan),japan,Mount,2,1,
 406-tt-hull,Unknown 406mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 400-tt-hull,Unknown 400mm Hull Mount Torpedo Tube,_,Fixed,1,1,
+381-tt-twin,Unknown 381mm Twin,_,Mount,2,1,
+381-tt-single,Unknown 381mm Single,_,Mount,1,1,
 381-tt-hull,Unknown 381mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 380-tt-hull,Unknown 380mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 375-bofors-m50-b4-aswrl,375mm Bofors M/50 B4 ASWRL,sweden,Mount,4,1,https://weaponsystems.net/system/1111-Bofors%20M/50
@@ -63,6 +65,7 @@ dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,9,http://www.navweaps.com/Weapons/WAMUS_ASW.p
 305-aswm-squid,305mm Squid,britain,Mount,3,1,https://www.navweaps.com/Weapons/WAMBR_ASW.php#Squid
 305-aswm-limbo,305mm A/S Mk.10 Limbo,britain,Mount,3,1,https://www.navweaps.com/Weapons/WAMBR_ASW.php#Squid
 305-aswm-lancia-bas,305mm Lancia Bas ASW Mortar,italy,Mount,3,1,http://www.navweaps.com/Weapons/WAMIT_ASW.php#Lancia_Bas
+302-rku-36u-burun-aswrl,302mm RKU-36U Burun ASWRL,russia,Fixed,6,1,
 183-split-hedgehog,Hedgehog Mark 10 ASWRL,britain,Fixed,12,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Marks_10_and_11
 183-mousetrap-mk20,Mousetrap Mark 20 ASWRL,usa,Fixed,4,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_20
 183-hedgehog-mk15,Hedgehog Mark 15 ASWRL,usa,Mount,24,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_152
@@ -70,3 +73,5 @@ dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,9,http://www.navweaps.com/Weapons/WAMUS_ASW.p
 178-up,"7"" UP Launcher",britain,Mount,20,1,https://en.wikipedia.org/wiki/Unrotated_Projectile#7-inch_rocket
 150-aswrl-ijn,15cm ASW mortar,japan,Mount,9,1,http://www.navweaps.com/Weapons/WAMJAP_ASW.php#ASW_Mortars
 120-aa-rocket,12cm AA Rocket,japan,Mount,8,1,http://www.navweaps.com/Weapons/WNJAP_12cm_AA_Rocket.php
+212-rbu-2500-aswrl,212mm RBU-2500 Uragan-2 ASWRL,russia,Mount,16,1,https://weaponsystems.net/system/1543-RBU-2500+Smerch
+212-rbu-6000-aswrl,212mm RBU-6000 Smerch-2 ASWRL,russia,Mount,12,1,https://en.wikipedia.org/wiki/RBU-6000
