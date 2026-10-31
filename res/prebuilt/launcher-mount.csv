@@ -32,6 +32,7 @@ dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,9,http://www.navweaps.com/Weapons/WAMUS_ASW.p
 533-tt-dual-uk,533mm Dual (Britain),britain,Mount,2,1,
 533-tt-dual-jpn,533mm Dual (Japan),japan,Mount,2,1,
 533-tt-dual,Unknown 533mm Dual Mount Torpedo Tube,_,Mount,2,1,
+533-asum-malafon,Malafon ASuM,france,Mount,1,1,https://en.missilery.info/missile/malafon
 500-tt-tripple,Unknown 500mm Tripple Mount Torpedo Tube,_,Mount,3,1,
 500-tt-single-ger,500mm Single (Germany),germany,Mount,1,1,
 500-tt-single,Unknown 500mm Single,_,Mount,1,1,
@@ -52,6 +53,7 @@ dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,9,http://www.navweaps.com/Weapons/WAMUS_ASW.p
 381-tt-single,Unknown 381mm Single,_,Mount,1,1,
 381-tt-hull,Unknown 381mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 380-tt-hull,Unknown 380mm Hull Mount Torpedo Tube,_,Fixed,1,1,
+375-bofors-mk54-aswrl,375mm Bofors Mk 54 ASWRL,france,Mount,6,1,https://weaponsystems.net/system/1111-Bofors%20M/50
 375-bofors-m50-b4-aswrl,375mm Bofors M/50 B4 ASWRL,sweden,Mount,4,1,https://weaponsystems.net/system/1111-Bofors%20M/50
 360-tt-hull,Unknown 360mm Hull Mount Torpedo Tube,_,Fixed,1,1,
 356-tt-twin,Unknown 356mm Twin Mount Torpedo Tube,_,Mount,2,1,
@@ -65,7 +67,10 @@ dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,9,http://www.navweaps.com/Weapons/WAMUS_ASW.p
 305-aswm-squid,305mm Squid,britain,Mount,3,1,https://www.navweaps.com/Weapons/WAMBR_ASW.php#Squid
 305-aswm-limbo,305mm A/S Mk.10 Limbo,britain,Mount,3,1,https://www.navweaps.com/Weapons/WAMBR_ASW.php#Squid
 305-aswm-lancia-bas,305mm Lancia Bas ASW Mortar,italy,Mount,3,1,http://www.navweaps.com/Weapons/WAMIT_ASW.php#Lancia_Bas
+305-aswm-creusot-loire,305mm Creusot-Loire ASW Mortar,france,Mount,4,18,https://www.navweaps.com/Weapons/WAMFR_ASW.php#305_mm_Mortar
 302-rku-36u-burun-aswrl,302mm RKU-36U Burun ASWRL,russia,Fixed,6,1,
+212-rbu-6000-aswrl,212mm RBU-6000 Smerch-2 ASWRL,russia,Mount,12,1,https://en.wikipedia.org/wiki/RBU-6000
+212-rbu-2500-aswrl,212mm RBU-2500 Uragan-2 ASWRL,russia,Mount,16,1,https://weaponsystems.net/system/1543-RBU-2500+Smerch
 183-split-hedgehog,Hedgehog Mark 10 ASWRL,britain,Fixed,12,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Marks_10_and_11
 183-mousetrap-mk20,Mousetrap Mark 20 ASWRL,usa,Fixed,4,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_20
 183-hedgehog-mk15,Hedgehog Mark 15 ASWRL,usa,Mount,24,1,http://www.navweaps.com/Weapons/WAMUS_ASW.php#Mark_152
@@ -73,5 +78,3 @@ dcr-mk3-mk8,DCR Mark 3,usa,Fixed,1,9,http://www.navweaps.com/Weapons/WAMUS_ASW.p
 178-up,"7"" UP Launcher",britain,Mount,20,1,https://en.wikipedia.org/wiki/Unrotated_Projectile#7-inch_rocket
 150-aswrl-ijn,15cm ASW mortar,japan,Mount,9,1,http://www.navweaps.com/Weapons/WAMJAP_ASW.php#ASW_Mortars
 120-aa-rocket,12cm AA Rocket,japan,Mount,8,1,http://www.navweaps.com/Weapons/WNJAP_12cm_AA_Rocket.php
-212-rbu-2500-aswrl,212mm RBU-2500 Uragan-2 ASWRL,russia,Mount,16,1,https://weaponsystems.net/system/1543-RBU-2500+Smerch
-212-rbu-6000-aswrl,212mm RBU-6000 Smerch-2 ASWRL,russia,Mount,12,1,https://en.wikipedia.org/wiki/RBU-6000

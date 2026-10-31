@@ -125,13 +125,16 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 155-sapbc-m1924,155mm SAPBC Model 1924,france,155,56.5,3.3,Melinite,0,0,None,http://www.navweaps.com/Weapons/WNFR_61-50_m1920.php#Ammunition
 152-sapc-m1937_152-he-m1937,152mm SAPC Model 1937 + 152 HE Model 1937,france,152,57.1,1.7,Melinite,49.7,,Melinite,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
 152-sapc-m1931_152-he-m1936,152mm SAPC Model 1931 + 152 HE Model 1936,france,152,54.5,1.7,Melinite,55,,Melinite,http://www.navweaps.com/Weapons/WNFR_6-55_m1930.php
-139-sap-fra-1910,138.6mm SAP 1910,france,139,36.5,2.66,Melinite,0,0,None,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
-139-ap-fra-1888,139mm AP 1888,france,139,36.5,,,0,0,None,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
-139-he-fra-1884,139mm HE 1884,france,139,35,,,0,0,None,
-139-he-fra-1881,139mm HE 1881,france,139,30,,,0,0,None,
-139-he-fra-1870,139mm HE 1870,france,139,23,,,0,0,None,
-139-he-fra-1858,139mm HE 1858,france,139,18.7,,,0,0,None,
+139-sap-fra-1910,138.6mm SAP 1910,france,138.6,36.5,2.66,Melinite,0,0,None,http://www.navweaps.com/Weapons/WNFR_55-55_m1910.php
+139-ap-fra-1888,139mm AP 1888,france,138.6,36.5,,,0,0,None,http://www.navweaps.com/Weapons/WNFR_55-45_m1891.php
+139-he-fra-1932,139mm HE 1932,france,138.6,40.2,4.1,Melinite,0,0,None,https://www.navweaps.com/Weapons/WNFR_55-40_m1923.php#Ammunition
+139-he-fra-1928,139mm HE 1928,france,138.6,40.6,4.1,Melinite,0,0,None,https://www.navweaps.com/Weapons/WNFR_55-40_m1923.php#Ammunition
+139-he-fra-1884,139mm HE 1884,france,138.6,35,,,0,0,None,
+139-he-fra-1881,139mm HE 1881,france,138.6,30,,,0,0,None,
+139-he-fra-1870,139mm HE 1870,france,138.6,23,,,0,0,None,
+139-he-fra-1858,139mm HE 1858,france,138.6,18.7,,,0,0,None,
 130-sap_130-he-fra,130mm SAP + 130mm HE,france,130,32.1,1.6,,29.5,3.2,,http://www.navweaps.com/Weapons/WNFR_51-45_m1932.php
+130-he-m1923,130mm HE M1923,france,130,34.9,3.6,,34.9,3.6,,https://www.navweaps.com/Weapons/WNFR_51-40_m1919.php#Ammunition
 121-he-fra-12pdr,121mm HE 12-pdr,france,121,4.1,,,0,0,None,https://en.wikipedia.org/wiki/Canon_obusier_de_12
 100-he-fra-1891,100mm HE 1891,france,100,16,,,0,0,None,
 100-sap_100-he-fra,100mm SAP + 100mm HE (FRA),france,100,15,,,13.5,,,http://www.navweaps.com/Weapons/WNFR_39-45_m1930.php
@@ -154,6 +157,7 @@ AmmoID,AmmoName,AmmoNation,AmmoCaliber,SurfaceShellWeight,SurfaceShellCharge,Sur
 25-he-fra,25mm HE (FRA),france,25,0.24,0.01,,0.24,0.01,,http://www.navweaps.com/Weapons/WNFR_25mm-60_Hotchkiss.php#Ammunition
 13-b-fra,13.2mm Ball (FRA),france,13,0.05,0,None,0.05,0,None,http://www.navweaps.com/Weapons/WNFR_13mm_aamg.php
 8-b-label,8x50mmR Label,france,8.85,0.015,0,None,0.015,0,None,https://en.wikipedia.org/wiki/8%C3%9750mmR_Lebel
+7-b-mas,7.5×54mm MAS,france,7.84,0.009,0,None,0.009,0,None,https://en.wikipedia.org/wiki/7.5%C3%9754mm_French
 380-apc-l44,"38cm APC L/4,4",germany,380,800,18.8,,0,0,None,https://docs.google.com/spreadsheets/d/1Ev_IfHD4VCotj63I3VZ110zVyHzT8u_J8Q0KzTlseD4/edit#gid=2102861716
 380-apc-l35,"38cm APC L/3,5",germany,380,750,25,TNT,0,0,None,http://www.navweaps.com/Weapons/WNGER_15-45_skc13.php
 355-apc-l36,"35cm APC L/3,6",germany,355,600,20,,0,0,None,http://www.navweaps.com/Weapons/WNGER_14-45_skc14.php
