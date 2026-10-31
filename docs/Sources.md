@@ -224,6 +224,12 @@ https://navsource.narod.ru/index.html
 
 https://studfile.net/preview/16672137/
 
+https://www.globalsecurity.org/military/world/index.html
+
+### Plans
+
+https://dreadnoughtproject.org/French%20Warship%20Plans/
+
 ### Ships TODO
 
 https://naval-encyclopedia.com/ww1/china/dingyuan-class-ironclads-1881.php
