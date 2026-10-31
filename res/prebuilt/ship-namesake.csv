@@ -6289,17 +6289,6 @@ dd_boikiy|plotva,Plotva,
 dd_boikiy|sig,Sig,
 dd_boikiy|sig,Vidnyy,
 dd_bouclier|bouclier,Bouclier,
-dd_bouclier|boutefeu,Boutefeu,
-dd_bouclier|capitaine_mehl,Capitaine Mehl,
-dd_bouclier|casque,Casque,
-dd_bouclier|cimeterre,Cimeterre,
-dd_bouclier|commandant_bory,Commandant Bory,
-dd_bouclier|commandant_riviere,Commandant Riviere,
-dd_bouclier|dague,Dague,
-dd_bouclier|dehorter,Dehorter,
-dd_bouclier|faulx,Faulx,
-dd_bouclier|fourche,Fourche,
-dd_bouclier|francis_garnier,Francis Garnier,
 dd_bourrasque|bourrasque,Bourrasque,
 dd_bourrasque|cyclone,Cyclone,
 dd_bourrasque|mistral,Mistral,
@@ -6313,6 +6302,17 @@ dd_bourrasque|tramontane,Tramontane,
 dd_bourrasque|trombe,FR31,
 dd_bourrasque|trombe,Trombe,
 dd_bourrasque|typhon,Typhon,
+dd_boutefeu|boutefeu,Boutefeu,
+dd_boutefeu|capitaine_mehl,Capitaine Mehl,
+dd_boutefeu|casque,Casque,
+dd_boutefeu|cimeterre,Cimeterre,
+dd_boutefeu|commandant_bory,Commandant Bory,
+dd_boutefeu|commandant_riviere,Commandant Riviere,
+dd_boutefeu|dague,Dague,
+dd_boutefeu|dehorter,Dehorter,
+dd_boutefeu|faulx,Faulx,
+dd_boutefeu|fourche,Fourche,
+dd_boutefeu|francis_garnier,Francis Garnier,
 dd_boyne|hms_boyne,Boyne,"River Boyne, Ireland"
 dd_boyne|hms_doon,Doon,"River Doon, Scotland, UK"
 dd_boyne|hms_kale,Kale,"Kale Water, Scotland, UK"
@@ -6784,7 +6784,7 @@ dd_enoki|maki,Maki,Hinoki Cypress
 dd_enoki|nara,9-go,
 dd_enoki|nara,Nara,Oak Wood
 dd_enoki|tsubaki,Tsubaki,Camellia Tree
-dd_enseigne_gabolde|enseigne_gabolde,Enseigne Gabolde,
+dd_enseigne_roux|enseigne_gabolde,Enseigne Gabolde,
 dd_enseigne_roux|enseigne_roux,Enseigne Roux,
 dd_enseigne_roux|mecanicien_principal_lestin,Mecanicien Principal Lestin,
 dd_epervier|epervier,Epervier,
@@ -9631,7 +9631,6 @@ dd_zephyr_1942|hms_zephyr,Zephyr,Zephyrus
 dd_zephyr_1942|hms_zest,Zest,Zest
 dd_zephyr_1942|hms_zodiac,Yaffo,"Jaffa, Israel"
 dd_zephyr_1942|hms_zodiac,Zodiac,Zodiac
-ddg_aconit|aconit,Aconit,
 ddg_akizuki|jds_akizuki,Akizuki,Autumn Moon
 ddg_akizuki|jds_fuyuzuki,Fuyuzuki,Winter Moon
 ddg_akizuki|jds_suzutsuki,Suzutsuki,Clear Moon in Autumn
@@ -9874,7 +9873,6 @@ ddg_kouroush_1978|kouroush,Tso Ying,"Tso Ying Naval Base, Taiwan"
 ddg_kouroush_1978|nader,Kee Lung,"Keelung, Taiwan"
 ddg_kouroush_1978|nader,Nader,"Nader Shah Afshar, Emperor of Iran"
 ddg_kouroush_1978|nader,Scott,Norman Scott
-ddg_la_galissonniere|la_galissoniere,La Galissoniere,
 ddg_luigi_durand_de_la_penne|francesco_mimbelli,Francesco Mimbelli,
 ddg_luigi_durand_de_la_penne|luigi_durand_de_la_penne,Luigi Durand de la Penne,
 ddg_lutjens|lutjens,Lutjens,
@@ -11265,6 +11263,7 @@ fa_type_61|hms_lincoln,Lincoln,
 fa_type_61|hms_llandaff,Llandaff,
 fa_type_61|hms_llandaff,Umar Farooq,
 fa_type_61|hms_salisbury,Salisbury,
+ff_aconit|aconit,Aconit,
 ff_akebono|jds_akebono,Akebono,Dawn
 ff_alpino|alpino,Alpino,
 ff_alpino|carabiniere,Carabiniere,
@@ -11462,6 +11461,7 @@ ff_la_fayette|courbet,Courbet,
 ff_la_fayette|guepratte,Guepratte,
 ff_la_fayette|la_fayette,La Fayette,
 ff_la_fayette|surcouf,Surcouf,
+ff_la_galissonniere|la_galissoniere,La Galissoniere,
 ff_le_corse|le_bordelais,Le Bordelais,
 ff_le_corse|le_boulonnais,Le Boulonnais,
 ff_le_corse|le_brestois,Le Brestois,
@@ -38953,8 +38953,8 @@ tg_bombe|fleche,Fleche,
 tg_bombe|lance,Lance,
 tg_bombe|sainte_barbe,Sainte-Barbe,
 tg_bombe|salve,Salve,
-tg_d_iberville|casabianca,Casabianca,
-tg_d_iberville|cassini,Cassini,
+tg_cassini|casabianca,Casabianca,
+tg_cassini|cassini,Cassini,
 tg_d_iberville|d_iberville,D'Iberville,
 tg_dryad|hms_dryad,Dryad,Dryad
 tg_dryad|hms_dryad,Hamadryad,
