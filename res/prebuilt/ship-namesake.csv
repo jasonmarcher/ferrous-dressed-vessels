@@ -5988,6 +5988,7 @@ dd_almirante_lynch|almirante_williams_rebolledo,Botha,Louis Botha
 dd_almirante_riveros|almirante_riveros,Almirante Riveros,
 dd_almirante_riveros|almirante_williams,Almirante Williams,
 dd_alpino|alpino,Alpino,
+dd_alpino|carabiniere,Carabiniere,
 dd_alpino|fuciliere,Fuciliere,
 dd_alpino|pontiere,Pontiere,
 dd_alsedo|alsedo,Alsedo,
@@ -6003,11 +6004,6 @@ dd_amazonas|araguaya,Araguaya,
 dd_ambuscade|hms_ambuscade,Ambuscade,Ambush
 dd_angler|hms_angler,Angler,Anglerfish
 dd_angler|hms_ariel,Ariel,Ariel
-dd_aquilone|aquilone,Aquilone,
-dd_aquilone|borea,Borea,
-dd_aquilone|espero,Espero,
-dd_aquilone|espero,Turbine,
-dd_aquilone|zeffiro,Zeffiro,
 dd_arab|hms_arab,Arab,Arabs
 dd_arabe|algerien,Algerien,
 dd_arabe|annamite,Annamite,
@@ -6663,10 +6659,11 @@ dd_crescent_1943|hms_croziers,Trondheim,"Trondheim, Norway"
 dd_crescent_1943|hms_crusader,Crusader,Crusader
 dd_crescent_1943|hms_crystal,Crystal,The Crystal Palace
 dd_crescent_1943|hms_crystal,Stavanger,"Stavanger, Norway"
-dd_curtalone|calatafimi,Achilles,Achilles
 dd_curtalone|calatafimi,Calatafimi,
+dd_curtalone|calatafimi,TA15,Hull Number
+dd_curtalone|calatafimi,TA19,Hull Number
 dd_curtalone|castelfidardo,Castelfidardo,
-dd_curtalone|castelfidardo,TA16,
+dd_curtalone|castelfidardo,TA16,Hull Number
 dd_curtalone|curtatone,Curtatone,
 dd_curtalone|monzambano,Monzambano,
 dd_cushing|uss_cushing,Cushing,William Barker Cushing
@@ -7372,13 +7369,14 @@ dd_gearing|uss_wiltsie,Wiltsie,Irving Day Wiltsie
 dd_gearing|uss_witek,Witek,Frank Peter Witek
 dd_gearing|uss_woodrow_r_thompson,Woodrow R. Thompson,Woodrow R. Thompson
 dd_generale_antonio_cantore|generale_achille_papa,Generale Achille Papa,
+dd_generale_antonio_cantore|generale_achille_papa,SG20,Hull Number
 dd_generale_antonio_cantore|generale_antonio_cantore,Generale Antonio Cantore,
 dd_generale_antonio_cantore|generale_antonio_cascino,Generale Antonio Cascino,
 dd_generale_antonio_cantore|generale_antonio_chinotto,Generale Antonio Chinotto,
 dd_generale_antonio_cantore|generale_carlo_montanari,Generale Carlo Montanari,
 dd_generale_antonio_cantore|generale_marcello_prestinari,Generale Marcello Prestinari,
 dd_gerard_callenburgh|hnlms_gerard_callenburgh,Gerard Callenburgh,
-dd_gerard_callenburgh|hnlms_gerard_callenburgh,ZH1,
+dd_gerard_callenburgh|hnlms_gerard_callenburgh,ZH1,Hull Number
 dd_gerard_callenburgh|hnlms_isaac_sweers,Isaac Sweers,
 dd_gerard_callenburgh|hnlms_philips_van_almonde,Philips van Almonde,
 dd_gerard_callenburgh|hnlms_tjerk_hiddes,Tjerk Hiddes,
@@ -7456,9 +7454,9 @@ dd_guadiana_1913|tamega,Tamega,
 dd_guadiana_1913|vouga,Vouga,
 dd_guepard|bison,Bison,
 dd_guepard|guepard,Guepard,
-dd_guepard|lion,FR21,
+dd_guepard|lion,FR21,Hull Number
 dd_guepard|lion,Lion,Lion
-dd_guepard|valmy,FR24,
+dd_guepard|valmy,FR24,Hull Number
 dd_guepard|valmy,Valmy,
 dd_guepard|vauban,Vauban,
 dd_guepard|verdun,Verdun,
@@ -7897,6 +7895,8 @@ dd_lampo|euro,Euro,
 dd_lampo|euro,Strale,
 dd_lampo|freccia,Freccia,
 dd_lampo|lampo,Lampo,
+dd_lampo|ostro,Ostro,
+dd_lampo|strale,Strale,
 dd_lawrence|uss_lawrence,Lawrence,James Lawrence
 dd_lawrence|uss_macdonough,MacDonough,Thomas Macdonough Jr.
 dd_le_fantasque|l_audacieux,L'Audacieux,
@@ -8264,8 +8264,13 @@ dd_nazzario_sauro|cesare_battisti,Cesare Battisti,
 dd_nazzario_sauro|daniele_manin,Daniele Manin,
 dd_nazzario_sauro|francesco_nullo,Francesco Nullo,
 dd_nazzario_sauro|nazario_sauro,Nazario Sauro,
+dd_nembo|aquilone,Aquilone,
+dd_nembo|borea,Borea,
+dd_nembo|espero,Espero,
+dd_nembo|espero,Turbine,
 dd_nembo|nembo,Nembo,
 dd_nembo|turbine,Turbine,
+dd_nembo|zeffiro,Zeffiro,
 dd_ness|hms_ness,Ness,"River Ness, Scotland, UK"
 dd_ness|hms_nith,Nith,"River Nith, Scotland, UK"
 dd_niki|aspis,Aspis,Aspis
@@ -8654,7 +8659,8 @@ dd_quail|hms_virago,Virago,Virago
 dd_quintino_sella|bettino_ricasoli,Bettino Ricasoli,
 dd_quintino_sella|bettino_ricasoli,Puke,
 dd_quintino_sella|francesco_crispi,Francesco Crispi,
-dd_quintino_sella|francesco_crispi,TA15,
+dd_quintino_sella|francesco_crispi,TA15,Hull Number
+dd_quintino_sella|francesco_crispi,TA17,Hull Number
 dd_quintino_sella|giovanni_nicotera,Giovanni Nicotera,
 dd_quintino_sella|giovanni_nicotera,Psilander,
 dd_quintino_sella|quintino_sella,Quintino Sella,
@@ -8926,12 +8932,14 @@ dd_soldati_i|artigliere,Artigliere,
 dd_soldati_i|ascari,Ascari,
 dd_soldati_i|aviere,Aviere,
 dd_soldati_i|bersagliere,Bersagliere,
+dd_soldati_i|camicia_nera,Artigliere,
 dd_soldati_i|camicia_nera,Camicia Nera,
-dd_soldati_i|camicia_nera,Lovkiy,
+dd_soldati_i|camicia_nera,Lovky,
+dd_soldati_i|carabiniere,A5314,
 dd_soldati_i|carabiniere,Carabiniere,
 dd_soldati_i|corazziere,Corazziere,
 dd_soldati_i|fuciliere,Fuciliere,
-dd_soldati_i|fuciliere,Liogkiy,
+dd_soldati_i|fuciliere,Lyogky,
 dd_soldati_i|geniere,Geniere,
 dd_soldati_i|granatiere,Granatiere,
 dd_soldati_i|lanciere,Lanciere,
@@ -8987,8 +8995,6 @@ dd_storozhevoy|razyashchiy,Razyashchiy,
 dd_storozhevoy|sil_nyi,Sil'nyi,
 dd_storozhevoy|storozhevoy,Storozhevoy,
 dd_storozhevoy|stroinyi,Stroinyi,
-dd_strale|ostro,Ostro,
-dd_strale|strale,Strale,
 dd_sturgeon|hms_skate,Skate,Skate
 dd_sturgeon|hms_starfish,Starfish,Starfish
 dd_sturgeon|hms_sturgeon,Sturgeon,Sturgeon
@@ -9252,19 +9258,19 @@ dd_venus_1942|hms_vixen,Vixen,Fox (Female)
 dd_venus_1942|hms_volage,Volage,Agile
 dd_viceroy_1916|hms_viceroy,Viceroy,Viceroy
 dd_viceroy_1916|hms_viscount,Viscount,Viscount
+dd_vijelie|vartez,D11,
 dd_vijelie|vartez,Liogkiy,
 dd_vijelie|vartez,Marasesti,
 dd_vijelie|vartez,Nibbio,
 dd_vijelie|vartez,Vartez,
 dd_vijelie|vifor,Aquila,
-dd_vijelie|vifor,Ceuta,
+dd_vijelie|vifor,Melilla,
 dd_vijelie|vifor,Vifor,
+dd_vijelie|vijelie,D12,
 dd_vijelie|vijelie,Lovkiy,
 dd_vijelie|vijelie,Marasti,
 dd_vijelie|vijelie,Sparviero,
 dd_vijelie|vijelie,Vijelie,
-dd_vijelie|viscul,Falco,
-dd_vijelie|viscul,Melilla,
 dd_violet|hms_sylvia,Sylvia,Rhea Silvia
 dd_violet|hms_violet,Violet,Violet
 dd_viper|hms_viper,Viper,Viper
@@ -10657,10 +10663,6 @@ de_pegaso_1938|orione,Orione,
 de_pegaso_1938|orsa,Orsa,
 de_pegaso_1938|pegaso,Pegaso,
 de_pegaso_1938|procione,Procione,
-de_pegaso|orione,Orione,
-de_pegaso|orsa,Orsa,
-de_pegaso|pegaso,Pegaso,
-de_pegaso|procione,Procione,
 de_perseo_1936|aldebaran,Aldebaran,
 de_perseo_1936|altair,Altair,
 de_perseo_1936|andromeda,Andromeda,Andromeda
@@ -11129,6 +11131,9 @@ dl_alessandro_poerio|alessandro_poerio,Huesca,
 dl_alessandro_poerio|cesare_rossarol,Cesare Rossarol,
 dl_alessandro_poerio|guglielmo_pepe,Guglielmo Pepe,
 dl_alessandro_poerio|guglielmo_pepe,Teruel,
+dl_aquila|falco,Ceuta,
+dl_aquila|falco,Falco,
+dl_aquila|falco,Velasco Ceuta,
 dl_b122|b122,B122,
 dl_b122|b123,B123,
 dl_b122|b124,B124,
@@ -11162,15 +11167,15 @@ dl_navigatori|alvise_da_mosto,Alvise da Mosto,
 dl_navigatori|antonio_da_noli,Antonio da Noli,
 dl_navigatori|antonio_pigafetta,Antonio Pigafetta,
 dl_navigatori|antonio_pigafetta,TA44,
-dl_navigatori|antonio_usodimare,Antonio Usodimare,
+dl_navigatori|antoniotto_usodimare,Antoniotto Usodimare,
 dl_navigatori|emanuele_pessagno,Emanuele Pessagno,
-dl_navigatori|giovanni_di_verazzano,Giovanni di Verazzano,
+dl_navigatori|giovanni_da_verrazzano,Giovanni da Verrazzano,
 dl_navigatori|lanzerotto_malocello,Lanzerotto Malocello,
 dl_navigatori|leone_pancaldo,Leone Pancaldo,
 dl_navigatori|luca_tarigo,Luca Tarigo,
 dl_navigatori|nicolo_zeno,Nicolo Zeno,
 dl_navigatori|nicoloso_da_recco,Nicoloso da Recco,
-dl_navigatori|ugolini_vivaldi,Ugolini Vivaldi,
+dl_navigatori|ugolino_vivaldi,Ugolino Vivaldi,
 dl_norfolk|uss_norfolk,Norfolk,"Norfolk, Virginia, US"
 dl_parker|hms_anzac,Anzac,Australian and New Zealand Army Corps
 dl_parker|hms_grenville,Grenville,Richard Grenville
