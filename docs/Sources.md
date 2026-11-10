@@ -307,6 +307,8 @@ https://en.wikipedia.org/wiki/Category:Cruisers_of_the_Royal_Canadian_Navy
 
 https://en.wikipedia.org/wiki/Mogami-class_frigate
 
+https://en.wikipedia.org/wiki/Italian_cruiser_Pietro_Micca
+
 ### Desired books
 
 History of Pacific War Vol. 45: Truth histories of the Imperial Japanese Naval Vessels is a book published in 2004 by the Japanese publisher Gakken. The Japanese title is Rekishi Gunzō: Taiheiyō Senshi Shirizu, Vol. 45: Shōwa no shinsōzō: Teikoku Kaigun no shinso
