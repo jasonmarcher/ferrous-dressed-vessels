@@ -166,7 +166,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 76-bg-m1916,76mm/40 Model 1916,British 12-pdr,britain,1893-01-01,76,40,610,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-bg-elswick-n,12-pdr/40 Elswick N,British 12-pdr,britain,1893-01-01,76,40,610,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
 76-bg-12-qf-marki,12-pdr/40 12cwt QF Mark I,British 12-pdr,britain,1893-01-01,76,40,610,15,15,Breech,681,0,,http://www.navweaps.com/Weapons/WNBR_3-40_mk1.php
-76-bg-8-qf-marki,12-pdr/28 8cwt QF Mark I,British 12-pdr,britain,1893-01-01,76,27.6,406,15,15,Breech,483,0,,https://en.wikipedia.org/wiki/QF_12-pounder_8_cwt_gun
+76-bg-armstrong-1914,76mm/30 Armstrong 1914,British 12-pdr,britain,1914-01-01,76.2,30,510,15,15,Breech,600,0,,https://en.wikipedia.org/wiki/Cannon_76/40_Model_1916
+76-bg-8-qf-marki,12-pdr/28 8cwt QF Mark I,British 12-pdr,britain,1893-01-01,76.2,27.6,406,15,15,Breech,483,0,,https://en.wikipedia.org/wiki/QF_12-pounder_8_cwt_gun
 76-bg-9pdr-armstrong,9-pdr/19 Armstrong,Armstrong 9-pdr,britain,,76,19,,,,Breech,,,,Identification of the Parameters of Naval Artillery
 57-bg-10-qf-marki,6-pdr/47 10cwt QF Mark I,,britain,,57,47,481,18,18,Breech,727,727,,https://www.navweaps.com/Weapons/WNBR_6pounder_10cwt_m1.php
 57-bg-qf-markiia,57mm/43 QF Mark IIA,Nordenfelt 6-pdr,britain,1940-01-01,57,43,345,40,18,Breech Autoloader,655,655,,https://www.navweaps.com/Weapons/WNBR_6pounder_m2a.php
@@ -392,6 +393,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 135-bg-m1937,135mm/45 Model 1937,Gio. Ansaldo 135mm,italy,1938-01-01,135,45,6532,7,6,Breech,825,825,320,http://www.navweaps.com/Weapons/WNIT_53-45_m1938.php
 120-bg-m1926,120mm/50 Model 1926,Gio. Ansaldo 120mm,italy,1926-01-01,120,50,5552,7,6,Breech,950,0,200,http://www.navweaps.com/Weapons/WNIT_47-50_m1926.php
 120-bg-m1918,120mm/45 Model 1918/19,Schneider-Canet-Armstrong 120mm,italy,1918-01-01,120,45,4354,7,7,Breech,750,750,,https://www.navweaps.com/Weapons/WNIT_47-45_m1918.php
+120-bg-b,120mm/32 B,,italy,1885-01-01,120,32,4870,2,1,Breech,540,540,,
 102-bg-m1914,102mm/35 Model 1914-1915,Schneider-Armstrong 102mm,italy,1914-01-01,102,34.8,1220,7,7,Breech,750,750,,http://www.navweaps.com/Weapons/WNIT_4-35_m1914.php
 90-bg-m1938,90mm/50 Model 1938,Gio. Ansaldo 90mm,italy,1938-01-01,90,50,1960,16,12,Breech,860,860,490,http://www.navweaps.com/Weapons/WNIT_35-50_m1939.php
 76-bg-compact,76mm/62 Compact,OTO-Melara 76mm,italy,1963-01-01,76,62,765,85,85,Breech Autoloader,925,925,80,http://www.navweaps.com/Weapons/WNUS_3-62_mk75.php
@@ -400,6 +402,7 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 37-mg-m1932,37mm/54 Model 1932,Breda 37mm,italy,1932-01-01,37,54,277,120,120,Breech Autoloader,800,800,1500,http://www.navweaps.com/Weapons/WNIT_37mm-54_m1932.php
 20-mg-sif-1939,20mm/70 Scotti-Isotta Fraschini 1939,Scotti,italy,1930-01-01,20,70,227,250,120,Breech Automatic,830,830,1500,https://en.wikipedia.org/wiki/Cannone-Mitragliera_da_20/77_(Scotti)
 20-mg-m1935,20mm/65 Model 1935,Breda 20mm,italy,1935-01-01,20,65,72,240,120,Breech Automatic,840,840,1500,http://www.navweaps.com/Weapons/WNIT_20mm-65.php
+8-mg-m1938,8.8mm/68 Breda Modello 38,Breda 8.8mm,italy,1938-01-01,8.8,68,16.3,600,,Breech Automatic,770,770,,https://tanks-encyclopedia.com/ww2/italy/mitragliatrice-breda-modello-1938-per-carri-armati/
 460-bg-type94,40cm/45 Type 94,Japanese 460mm,japan,1939-01-01,460,45,164654,2,1.3,Breech,780,0,100,http://www.navweaps.com/Weapons/WNJAP_18-45_t94.php
 410-bg-3rd-year,41cm/45 3rd Year Type,Japanse 410mm,japan,1914-01-01,410,45,101600,2.8,1.5,Breech,790,0,90,http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.php
 203-bg-3rd-year-no2b,20cm/50 3rd Year Type No. 2,Japanese 200mm,japan,1930-01-01,203,50,19000,4,3,Breech,840,0,120,http://www.navweaps.com/Weapons/WNJAP_8-50_3ns.php
@@ -461,6 +464,8 @@ GunID,GunName,GunDesign,GunNation,GunDateOfDesign,GunCaliber,GunLength,GunWeight
 40-bg-mk1,40mm/56 Mark 1,Bofors 40mm,sweden,1941-01-01,40,56,522,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-bg-mark1,40mm/56 OQF Mark I,Bofors 40mm,sweden,1941-01-01,40,56,515,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
 40-bg-flak-28,4cm/56 FlaK 28,Bofors 40mm,sweden,1941-01-01,40,56,515,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+40-bg-m1936,4cm/56 L/60 Model 1936,Bofors 40mm,sweden,1934-01-01,40,56,515,120,90,Breech Autoloader,881,881,2000,http://www.navweaps.com/Weapons/WNUS_4cm-56_mk12.php
+8-mg-ksp-m36,8mm/76 Ksp m/36,,sweden,1936-01-01,8,75.8,23,700,700,Breech Autoloader,760,760,,
 35-mg-kdc,35mm/90 KDC,Oerlikon 35mm,switzerland,1965-01-01,35,100,,550,550,Breech Automatic,1175,1175,336,http://www.navweaps.com/Weapons/WNIT_35mm-90_KDC.php
 20-bg-mk4,20mm/70 Mark 4,Oerlikon 20mm,switzerland,1941-01-01,20,70,68,320,285,Breech Automatic,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
 20-bg-mk2,20mm/70 Mark 2,Oerlikon 20mm,switzerland,1939-01-01,20,70,68,320,285,Breech Automatic,844,844,,http://www.navweaps.com/Weapons/WNUS_2cm-70_mk234.php
